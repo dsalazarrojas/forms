@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Youth Ministry Store Preferences
+    pages:
+    - id: 1
+      name: store_preferences_1
+      label: Choose a Product
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: store_preferences_2
+      label: Choose a Merchandise
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: store_preferences_3
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: store_preferences_4
+      label: How can we help you today?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: store_preferences_5
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false

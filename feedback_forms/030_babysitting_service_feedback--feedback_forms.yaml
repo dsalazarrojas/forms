@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Babysitting Service Feedback
+    pages:
+      - id: 1
+        name: parent_name
+        label: Parent name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: service_date
+        label: Date of service
+        hint: When babysitting occurred
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: sitter_name
+        label: Sitter name
+        hint: If known
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: overall_rating
+        label: Overall rating
+        hint: 1 low to 5 high
+        type: select_one
+        options: [1, 2, 3, 4, 5]
+        required: true
+      - id: 5
+        name: punctuality
+        label: Punctuality rating
+        hint: Timeliness of sitter
+        type: select_one
+        options: [Poor, Fair, Good, Excellent]
+        required: false
+      - id: 6
+        name: child_happiness
+        label: Child happiness during care
+        hint: How well child adjusted
+        type: select_one
+        options: [Poor, Fair, Good, Excellent]
+        required: false
+      - id: 7
+        name: communication
+        label: Communication with family
+        hint: Clarity of updates and notes
+        type: select_one
+        options: [Poor, Fair, Good, Excellent]
+        required: false
+      - id: 8
+        name: recommend_service
+        label: Would you recommend this service
+        hint: Recommend to other families
+        type: select_one
+        options: [Yes, No]
+        required: true
+      - id: 9
+        name: improvements
+        label: Suggestions for improvement
+        hint: How could service be better
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: additional_comments
+        label: Additional comments
+        hint: Anything else you'd like to share
+        type: text
+        options: []
+        required: false

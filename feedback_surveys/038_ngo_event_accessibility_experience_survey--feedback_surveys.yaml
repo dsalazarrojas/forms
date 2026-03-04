@@ -1,0 +1,62 @@
+inputSchema:
+  type: object
+  properties:
+    title: NGO Event Accessibility Experience Survey
+    pages:
+    - id: 1
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: accessibility_accommodations
+      label: Accessibility Accommodations
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Wheel Chair Accessible'', ''value'': 1}'
+      - Other
+      required: false
+    - id: 3
+      name: improvements_needed
+      label: Improvements Needed
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Wheel Chair Accessible'', ''value'': 1}'
+      - '{''label'': ''Sign Language Interpreter'', ''value'': 2}'
+      - '{''label'': ''Closed Captioning'', ''value'': 3}'
+      required: false
+    - id: 4
+      name: unmet_needs
+      label: Unmet Needs
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Wheel Chair Accessible'', ''value'': 1}'
+      - '{''label'': ''Sign Language Interpreter'', ''value'': 2}'
+      - '{''label'': ''Closed Captioning'', ''value'': 3}'
+      required: false
+    - id: 5
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Non Renewal Feedback Survey
+    pages:
+    - id: 1
+      name: non_renewing_customer
+      label: Non Renewing Customer
+      hint: null
+      type: select_one
+      options:
+      - Why did you decide not to renew with us?
+      - What was the main reason for not renewing?
+      - Other (please specify)
+      required: false
+    - id: 2
+      name: satisfaction_level
+      label: Satisfaction Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: suggestions
+      label: Suggest how we could improve
+      hint: This will help us create a better customer experience.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: main_reason_for_not_renewing
+      label: Main Reason for Not Renewing
+      hint: null
+      type: select_multiple
+      options:
+      - Lack of interest
+      - Not satisfied with service
+      - Too expensive
+      - Other (please specify)
+      required: false
+    - id: 5
+      name: other_reason_for_not_renewing
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: open_ended_comments
+      label: Open-Ended Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Online
+      - Other (please specify)
+      required: false
+    - id: 8
+      name: non_renewing_customer_email
+      label: Non Renewing Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: customer_service
+      label: Customer Service
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 10
+      name: last_service_used
+      label: Last Service Used
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 month
+      - 1 month to 6 months
+      - 6 months to 1 year
+      - More than 1 year
+      - Never
+      required: false

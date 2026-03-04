@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Floor Film Opinion Survey
+    pages:
+    - id: 1
+      name: floor_film_opinion_survey_form
+      label: Floor Film Opinion Survey Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Floor Film
+      - Print Providers
+      - Facilities Manager
+      required: false
+    - id: 3
+      name: product_id
+      label: category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: usage_patterns
+      label: usage_patterns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: satisfaction
+      label: satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: key_preferences
+      label: key_preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Product teams
+      - Print providers
+      - Facilities managers
+      required: false
+    - id: 7
+      name: usage_hours
+      label: usage_hours
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: usage_days
+      label: usage_days
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: preferences
+      label: preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: facilities
+      label: facilities
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: print_providers
+      label: print_providers
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: facilities_manager
+      label: facilities_manager
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: product_team
+      label: product_team
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

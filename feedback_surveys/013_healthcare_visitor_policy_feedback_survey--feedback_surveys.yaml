@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare Visitor Policy Feedback Survey
+    pages:
+    - id: 1
+      name: visitor_feedback
+      label: Visitor Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: staff_feedback
+      label: Staff Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: communication_rules
+      label: Communication Rules
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': None, ''value'': ''Good'', ''label'': ''Good''}'
+      - '{''options'': None, ''value'': ''Fair'', ''label'': ''Fair''}'
+      - '{''options'': None, ''value'': ''Bad'', ''label'': ''Bad''}'
+      required: false
+    - id: 4
+      name: issues_faced
+      label: Issues Faced
+      hint: null
+      type: select_multiple
+      options:
+      - '{''options'': None, ''value'': ''None'', ''label'': ''None''}'
+      - '{''options'': None, ''value'': ''Communication Issues'', ''label'': ''Communication
+        Issues''}'
+      - '{''options'': None, ''value'': ''Parking Issues'', ''label'': ''Parking Issues''}'
+      - '{''options'': None, ''value'': ''Access Issues'', ''label'': ''Access Issues''}'
+      - '{''options'': None, ''value'': ''Other'', ''label'': ''Other''}'
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: false

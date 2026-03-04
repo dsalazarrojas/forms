@@ -1,0 +1,95 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Chapter Self Assessment Form Graduate Chapter
+    pages:
+      - id: 1
+        name: header
+        label: -- Graduate Chapter Self Assessment --
+        hint: Annual self assessment for graduate chapter performance and governance
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: chapter_name
+        label: chapter name
+        hint: name of the graduate chapter
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: assessment_period
+        label: assessment period
+        hint: timeframe for this self assessment
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: governance_rating
+        label: governance rating
+        hint: rate the chapter governance structures
+        type: select_one
+        options:
+          - Needs improvement
+          - Adequate
+          - Strong
+        required: true
+      - id: 5
+        name: membership_engagement
+        label: membership engagement
+        hint: rate member involvement
+        type: select_one
+        options:
+          - Low
+          - Moderate
+          - High
+        required: true
+      - id: 6
+        name: community_impact
+        label: community impact
+        hint: rate chapter community initiatives
+        type: select_one
+        options:
+          - Low
+          - Moderate
+          - High
+        required: true
+      - id: 7
+        name: challenges_identified
+        label: challenges identified
+        hint: list primary challenges faced by the chapter
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: improvement_plan
+        label: improvement plan
+        hint: outline actions to address challenges
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: assessor_name
+        label: assessor name
+        hint: person completing the assessment
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: submission_date
+        label: submission date
+        hint: date assessment was completed
+        type: date
+        options: []
+        required: true

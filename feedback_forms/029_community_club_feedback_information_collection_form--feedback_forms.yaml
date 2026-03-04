@@ -1,0 +1,80 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Club Feedback Collection
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Respondent name
+        hint: Optional for anonymous feedback
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: membership_status
+        label: Membership status
+        hint: Are you a current member
+        type: select_one
+        options:
+          - Current member
+          - Former member
+          - Non member
+        required: true
+      - id: 3
+        name: satisfaction_overall
+        label: Overall satisfaction with club
+        hint: Rate from very satisfied to very dissatisfied
+        type: select_one
+        options:
+          - Very satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very dissatisfied
+        required: true
+      - id: 4
+        name: favorite_activities
+        label: Favorite club activities
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Social events
+          - Workshops
+          - Networking
+          - Competitions
+        required: false
+      - id: 5
+        name: improvement_suggestions
+        label: Suggestions for improvement
+        hint: How can the club better serve members
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: likelihood_to_recommend
+        label: Likelihood to recommend the club
+        hint: 1 unlikely to 10 very likely
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+          - 6
+          - 7
+          - 8
+          - 9
+          - 10
+        required: true

@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: Zoo Visitor Exhibit Interest Check In Form
+    pages:
+    - id: 1
+      name: checkin
+      label: Guest Checkin
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: exhibit_interest
+      label: What exhibit are you most interested in visiting?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: visit_motive
+      label: What motivated your visit to the zoo?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Educational''}'
+      - '{''label'': ''Recreational''}'
+      - '{''label'': ''Both''}'
+      required: true
+    - id: 4
+      name: feedback
+      label: Do you have any feedback for us?
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email
+      hint: Enter your email address if you'd like to receive updates about our new
+        exhibits.
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

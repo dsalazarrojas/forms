@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Experience Feedback Form
+    pages:
+    - id: 1
+      name: company_department
+      label: what_department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: how_often
+      label: how_often
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''never''}'
+      - '{''id'': 2, ''name'': ''rarely''}'
+      - '{''id'': 3, ''name'': ''occasionally''}'
+      - '{''id'': 4, ''name'': ''regularly''}'
+      - '{''id'': 5, ''name'': ''daily''}'
+      required: false
+    - id: 4
+      name: communication_style
+      label: manager_communication
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''too_often''}'
+      - '{''id'': 2, ''name'': ''just_right''}'
+      - '{''id'': 3, ''name'': ''too_seldom''}'
+      required: false
+    - id: 5
+      name: manager_style
+      label: manager_style
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''supportive''}'
+      - '{''id'': 2, ''name'': ''helpful''}'
+      - '{''id'': 3, ''name'': ''distant''}'
+      - '{''id'': 3, ''name'': ''micromanaging''}'
+      - '{''id'': 4, ''name'': ''unhelpful''}'
+      required: false
+    - id: 6
+      name: employee_satisfaction
+      label: overall_satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''very_satisfied''}'
+      - '{''id'': 2, ''name'': ''somewhat_satisfied''}'
+      - '{''id'': 3, ''name'': ''neutral''}'
+      - '{''id'': 4, ''name'': ''somewhat_dissatisfied''}'
+      - '{''id'': 5, ''name'': ''very_dissatisfied''}'
+      required: false
+    - id: 7
+      name: manager_satisfaction
+      label: manager_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''very_satisfied''}'
+      - '{''id'': 2, ''name'': ''somewhat_satisfied''}'
+      - '{''id'': 3, ''name'': ''neutral''}'
+      - '{''id'': 4, ''name'': ''somewhat_dissatisfied''}'
+      - '{''id'': 5, ''name'': ''very_dissatisfied''}'
+      required: false
+    - id: 8
+      name: feedback
+      label: feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: number
+      options: []
+      required: false

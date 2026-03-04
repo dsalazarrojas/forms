@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Knowledge Sharing Evaluation Form
+    pages:
+    - id: 1
+      name: employee_knowledge_sharing_initiatives
+      label: Employee Knowledge Sharing Initiatives
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 3
+      name: collaboration_productivity
+      label: Collaboration Productivity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: communication_effectiveness
+      label: Communication Effectiveness
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 5
+      name: employee_suggestion
+      label: Employee Suggestions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: manager_suggestion
+      label: Manager Suggestions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: department_satisfaction
+      label: Department Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: employee_satisfaction
+      label: Employee Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false

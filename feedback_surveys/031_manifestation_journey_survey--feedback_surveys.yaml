@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Manifestation Journey Survey
+    pages:
+    - id: 1
+      name: journey_goals
+      label: Journey Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: progress_updates
+      label: Progress Updates
+      hint: null
+      type: select_multiple
+      options:
+      - Options for progress updates 1
+      - Options for progress updates 2
+      required: true
+    - id: 3
+      name: challenges_conquered
+      label: Challenges Conquered
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: wins_achieved
+      label: Wins Achieved
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      required: true
+    - id: 5
+      name: current_status
+      label: Current Status
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: coach_mentor_notes
+      label: Coach/Mentor Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: client_notes
+      label: Client Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submit
+      label: Submit
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: confirmation
+      label: Confirmation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: survey_completed
+      label: Survey Completed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,217 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Code Snippet Submission Form
+    pages:
+    - id: 1
+      name: section_submitter_info
+      label: -- Submitter Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: submitter_name
+      label: Submitter Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: expertise_level
+      label: Programming Expertise Level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Expert
+      required: true
+    - id: 5
+      name: section_snippet_details
+      label: -- Code Snippet Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: snippet_title
+      label: Snippet Title
+      hint: Brief descriptive title
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: snippet_description
+      label: Snippet Description
+      hint: What does this code do?
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: programming_language
+      label: Programming Language
+      hint: null
+      type: select_one
+      options:
+      - Python
+      - JavaScript
+      - Java
+      - C++
+      - C#
+      - PHP
+      - Ruby
+      - Go
+      - Rust
+      - SQL
+      - Other
+      required: true
+    - id: 9
+      name: snippet_category
+      label: Snippet Category
+      hint: null
+      type: select_one
+      options:
+      - Algorithm
+      - Data Structure
+      - Function
+      - Class
+      - Utility
+      - Example
+      - Other
+      required: true
+    - id: 10
+      name: section_code_submission
+      label: -- Code Submission --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: code_snippet
+      label: Code Snippet
+      hint: Paste your code here
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: code_file
+      label: Upload Code File
+      hint: Optional - attach file
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: section_details
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: complexity_level
+      label: Code Complexity Level
+      hint: null
+      type: select_one
+      options:
+      - Simple
+      - Moderate
+      - Complex
+      - Very complex
+      required: true
+    - id: 15
+      name: usage_example
+      label: Usage Example or Documentation
+      hint: Show how to use this code
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: dependencies
+      label: Dependencies or Requirements
+      hint: Any libraries or frameworks needed
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: section_licensing
+      label: -- Licensing and Rights --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: license_type
+      label: License Type
+      hint: null
+      type: select_one
+      options:
+      - MIT
+      - Apache 2.0
+      - GPL
+      - BSD
+      - Public Domain
+      - Other
+      required: true
+    - id: 19
+      name: original_work
+      label: I confirm this is my original work
+      hint: null
+      type: select_one
+      options:
+      - I Confirm
+      - I Do Not Confirm
+      required: true
+    - id: 20
+      name: permission_to_use
+      label: Permission to use and distribute this code
+      hint: null
+      type: select_one
+      options:
+      - I Grant Permission
+      - I Deny Permission
+      required: true
+    - id: 21
+      name: section_approval
+      label: -- Submission Approval --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: code_quality_rating
+      label: Self-Assessed Code Quality
+      hint: null
+      type: select_one
+      options:
+      - Production ready
+      - Well tested
+      - Functional
+      - Experimental
+      required: true
+    - id: 23
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true

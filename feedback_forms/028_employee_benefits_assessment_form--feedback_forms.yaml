@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Benefits Assessment Form
+    pages:
+    - id: 1
+      name: benefits_packages
+      label: Benefits Packages
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: employee_demographics
+      label: Employee Demographics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: benefits_packages_rating
+      label: Benefits Packages Rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Terrible
+      required: true
+    - id: 5
+      name: benefits_packages_rating_reasons
+      label: Benefits Packages Rating Reasons
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: benefits_packages_suggestion
+      label: Benefits Packages Suggestion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: employee_email
+      label: Employee Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: job_title_other
+      label: Other Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: department_other
+      label: Other Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: employee_phone
+      label: Employee Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: job_title_work_with
+      label: Job Title Work With
+      hint: null
+      type: select_multiple
+      options:
+      - Manager
+      - Director
+      - VP
+      - Other
+      required: false
+    - id: 16
+      name: job_title_report_to
+      label: Job Title Report To
+      hint: null
+      type: select_multiple
+      options:
+      - Manager
+      - Director
+      - VP
+      - Other
+      required: false
+    - id: 17
+      name: benefits_satisfaction_level
+      label: Benefits Satisfaction Level
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      required: false
+    - id: 18
+      name: benefits_urgency
+      label: Benefits Urgency
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 19
+      name: department_other
+      label: Other Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: benefits_frequency
+      label: Benefits Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Often
+      - Sometimes
+      - Rarely
+      required: false
+    - id: 21
+      name: benefits_expectations
+      label: Benefits Expectations
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 22
+      name: benefits_pain_points
+      label: Benefits Pain Points
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 23
+      name: benefits_suggested_improvements
+      label: Benefits Suggested Improvements
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: benefits_open_comments
+      label: Benefits Open Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false

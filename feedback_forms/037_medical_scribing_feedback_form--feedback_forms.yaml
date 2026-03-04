@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Scribing Feedback Form
+    pages:
+    - id: 1
+      name: clinic_name
+      label: Clinic Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: feedback_score
+      label: Feedback Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: scribe_name
+      label: Scribe Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: scribe_email
+      label: Scribe Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: scribe_phone
+      label: Scribe Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: scribe_shift
+      label: Scribe Shift
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Night
+      required: true
+    - id: 8
+      name: scribe_level
+      label: Scribe Level
+      hint: null
+      type: select_multiple
+      options:
+      - Level 1
+      - Level 2
+      - Level 3
+      - Level 4
+      required: true
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: scribe_comment
+      label: Scribe Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: clinician_name
+      label: Clinician Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: clinician_email
+      label: Clinician Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: clinician_phone
+      label: Clinician Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: clinician_shift
+      label: Clinician Shift
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Night
+      required: true
+    - id: 16
+      name: clinician_level
+      label: Clinician Level
+      hint: null
+      type: select_multiple
+      options:
+      - Level 1
+      - Level 2
+      - Level 3
+      - Level 4
+      required: true
+    - id: 17
+      name: scribe_scheduling
+      label: Scribe Scheduling
+      hint: null
+      type: select_multiple
+      options:
+      - Available
+      - Unavailable
+      - Preferably Morning
+      - Preferably Afternoon
+      required: false
+    - id: 18
+      name: scribe_availability
+      label: Scribe Availability
+      hint: null
+      type: select_multiple
+      options:
+      - Available
+      - Unavailable
+      required: false
+    - id: 19
+      name: clinician_availability
+      label: Clinician Availability
+      hint: null
+      type: select_multiple
+      options:
+      - Available
+      - Unavailable
+      required: false
+    - id: 20
+      name: scribe_notes
+      label: Scribe Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: clinician_notes
+      label: Clinician Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: scribe_rating
+      label: Scribe Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: clinician_rating
+      label: Clinician Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: clinician_comments
+      label: Clinician Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: true

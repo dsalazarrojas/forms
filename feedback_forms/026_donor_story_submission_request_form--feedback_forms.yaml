@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Donor Story Submission Request Form
+    pages:
+    - id: 1
+      name: donor_story_submission_request_form
+      label: Donor Story Submission Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: donor_name
+      label: Donor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: donor_email
+      label: Donor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: story_title
+      label: Story Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: story_text
+      label: Story Text
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_time
+      label: Date/Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_zone
+      label: Time Zone
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: time_zone_options
+      label: None
+      hint: null
+      type: select_multiple
+      options:
+      - Pacific
+      - Mountain
+      - Eastern
+      - Central
+      - GMT
+      required: false
+    - id: 10
+      name: submission_form
+      label: Submission Form
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: submission_form_options
+      label: None
+      hint: null
+      type: select_one
+      options:
+      - Form 1
+      - Form 2
+      - Form 3
+      - Form 4
+      - Form 5
+      required: false
+    - id: 12
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: additional_info_options
+      label: None
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      required: false
+    - id: 14
+      name: assigned_form
+      label: Form
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: assigned_form_label
+      label: None
+      hint: null
+      type: text
+      options: []
+      required: false

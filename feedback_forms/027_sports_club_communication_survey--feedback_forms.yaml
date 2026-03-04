@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sports Club Communication Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: feedback_type
+      label: feedback type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''positive'', ''value'': ''positive''}'
+      - '{''label'': ''negative'', ''value'': ''negative''}'
+      required: true
+    - id: 6
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true

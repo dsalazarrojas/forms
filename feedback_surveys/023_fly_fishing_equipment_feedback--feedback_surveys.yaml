@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fly Fishing Equipment Feedback
+    pages:
+    - id: 1
+      name: user_info
+      label: User Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: fly_fishing_gear
+      label: Fly Fishing Gear
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Gear''}'
+      - '{''label'': ''Fly Rod''}'
+      - '{''label'': ''Reel''}'
+      - '{''label'': ''Waders''}'
+      - '{''label'': ''Flies''}'
+      required: true
+    - id: 3
+      name: satisfaction_level
+      label: Satisfaction Level
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: issue
+      label: Issue
+      hint: Describe the issue
+      type: note
+      options: []
+      required: true
+    - id: 5
+      name: improvement_suggestion
+      label: Improvement Suggestion
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Phone''}'
+      - '{''label'': ''Email''}'
+      - '{''label'': ''Mail''}'
+      required: true
+    - id: 9
+      name: feedback_comment
+      label: Feedback Comment
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: user_notes
+      label: User Notes
+      hint: null
+      type: note
+      options: []
+      required: false

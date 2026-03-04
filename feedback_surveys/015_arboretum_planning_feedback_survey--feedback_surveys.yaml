@@ -1,0 +1,206 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Arboretum Planning Feedback Survey
+    pages:
+    - id: 1
+      name: section_visitor_info
+      label: -- Visitor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: visitor_name
+      label: Your Name
+      hint: Optional for follow-up
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: visitor_email
+      label: Email Address
+      hint: Optional
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: visit_date
+      label: Date of Your Visit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: visit_frequency
+      label: How often do you visit the arboretum?
+      hint: null
+      type: select_one
+      options:
+      - First time
+      - Once a year
+      - Few times a year
+      - Monthly
+      - Weekly
+      required: true
+    - id: 6
+      name: section_overall_experience
+      label: -- Overall Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: overall_satisfaction
+      label: Overall satisfaction with your visit
+      hint: null
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Dissatisfied
+      - Neutral
+      - Satisfied
+      - Very Satisfied
+      required: true
+    - id: 8
+      name: grounds_maintenance
+      label: Quality of grounds maintenance
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 9
+      name: plant_variety
+      label: Variety and quality of plants
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 10
+      name: walking_paths
+      label: Condition of walking paths and trails
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 11
+      name: signage_clarity
+      label: Clarity of plant identification signs
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 12
+      name: section_facilities
+      label: -- Facilities and Amenities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: facilities_accessibility
+      label: Accessibility of facilities
+      hint: null
+      type: select_one
+      options:
+      - Very Difficult
+      - Difficult
+      - Moderate
+      - Easy
+      - Very Easy
+      required: false
+    - id: 14
+      name: parking_rating
+      label: Parking availability and quality
+      hint: null
+      type: select_one
+      options:
+      - Very Poor
+      - Poor
+      - Average
+      - Good
+      - Excellent
+      required: false
+    - id: 15
+      name: restroom_rating
+      label: Restroom facilities
+      hint: null
+      type: select_one
+      options:
+      - Very Poor
+      - Poor
+      - Average
+      - Good
+      - Excellent
+      required: false
+    - id: 16
+      name: section_improvements
+      label: -- Improvements and Suggestions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: improvement_areas
+      label: Areas most needing improvement
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Plant varieties
+      - Trail conditions
+      - Signage and education
+      - Restrooms
+      - Parking
+      - Seating areas
+      - Water fountains
+      required: false
+    - id: 18
+      name: suggestions
+      label: Additional suggestions or comments
+      hint: Share your ideas for enhancement
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: recommend_arboretum
+      label: Would you recommend this arboretum to others?
+      hint: null
+      type: select_one
+      options:
+      - Definitely Not
+      - Probably Not
+      - Maybe
+      - Probably Yes
+      - Definitely Yes
+      required: true

@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: in_car_communication_feedback_form
+    pages:
+    - id: 1
+      name: intro_page
+      label: In-Car Communication Feedback Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: intro_question
+      label: What did you think about the communication style of your driver?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: communication_style_score
+      label: Communication Style
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: communication_comfort
+      label: How comfortable were you during the trip?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: communication_clarity
+      label: How clear were the instructions given to you?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: communication_clarity_scale
+      label: Clarity Scale
+      hint: null
+      type: select_multiple
+      options:
+      - 1-2
+      - 3-4
+      - 5-6
+      - 7-8
+      - 9-10
+      required: false
+    - id: 7
+      name: communication_emotion
+      label: How did you feel during the trip?
+      hint: null
+      type: select_one
+      options:
+      - Anxious
+      - Comfortable
+      - Neutral
+      - Happy
+      - Angry
+      - Sad
+      - Surprised
+      - Scared
+      - Relaxed
+      required: false
+    - id: 8
+      name: communication_satisfaction
+      label: How satisfied were you with the communication?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Tool Used
+      hint: null
+      type: select_one
+      options:
+      - chatjim
+      - chatbot
+      - webapp
+      required: false

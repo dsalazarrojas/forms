@@ -1,0 +1,223 @@
+inputSchema:
+  type: object
+  properties:
+    title: grinder_pump_feedback_survey
+    pages:
+    - id: 1
+      name: form_1
+      label: grinder_pump_feedback_survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: select_multiple
+      options:
+      - Utilities
+      - Property Manager
+      - Pump Manufacturers
+      required: false
+    - id: 3
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: contact_email
+      hint: Please include your email address if you have one.
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: pump_model
+      label: pump_model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: pump_type
+      label: pump_type
+      hint: null
+      type: select_one
+      options:
+      - Grinder Pump
+      - Jet Pump
+      - Centrally Located Pump
+      - Subsurface Pump
+      - Surface Pump
+      required: true
+    - id: 7
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: satisfaction
+      label: satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 9
+      name: issues
+      label: issues
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: improvement_suggestions
+      label: improvement_suggestions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: pump_location
+      label: pump_location
+      hint: null
+      type: select_one
+      options:
+      - Inside
+      - Outside
+      - Underground
+      required: true
+    - id: 13
+      name: pump_visibility
+      label: pump_visibility
+      hint: null
+      type: select_one
+      options:
+      - Inside
+      - Outside
+      - Underground
+      required: true
+    - id: 14
+      name: pump_accessiblity
+      label: pump_accessibility
+      hint: null
+      type: select_one
+      options:
+      - Easy
+      - Moderate
+      - Difficult
+      required: true
+    - id: 15
+      name: pump_size
+      label: pump_size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: pump_condition
+      label: pump_condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: pump_location_type
+      label: pump_location_type
+      hint: null
+      type: select_one
+      options:
+      - Underground
+      - Underground
+      - Inside
+      - Outside
+      - Inside
+      required: true
+    - id: 18
+      name: pump_location_visibility
+      label: pump_location_visibility
+      hint: null
+      type: select_one
+      options:
+      - Inside
+      - Outside
+      required: true
+    - id: 19
+      name: pump_location_size
+      label: pump_location_size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: true
+    - id: 20
+      name: pump_location_depth
+      label: pump_location_depth
+      hint: null
+      type: select_one
+      options:
+      - Less Than 20
+      - 20-40
+      - 40-60
+      - More Than 60
+      required: true
+    - id: 21
+      name: pump_location_elevation
+      label: pump_location_elevation
+      hint: null
+      type: select_one
+      options:
+      - Lowest Point
+      - Middle
+      - Highest Point
+      required: true
+    - id: 22
+      name: pump_location_type_description
+      label: pump_location_type_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: pump_location_comments
+      label: pump_location_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: pump_condition_comments
+      label: pump_condition_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: contact_comments
+      label: contact_comments
+      hint: null
+      type: note
+      options: []
+      required: false

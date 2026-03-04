@@ -1,0 +1,123 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Compensation Transparency Perception Survey
+    pages:
+      - id: 1
+        name: transparency_perception_header
+        label: -- Measuring Pay Transparency --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: pay_determination_understanding
+        label: How well do you understand the process of how pay is determined?
+        hint: Level of understanding
+        type: select_one
+        options:
+          - Fully Understand
+          - Understand most of it
+          - Understand very little
+          - Do not understand at all
+        required: true
+      - id: 3
+        name: salary_band_transparency
+        label: How transparent are the salary bands for your level?
+        hint: Can you see the range for your role?
+        type: select_one
+        options:
+          - Very Transparent
+          - Somewhat Transparent
+          - Not Very Transparent
+          - Not Transparent at all
+        required: true
+      - id: 4
+        name: pay_change_communication
+        label: How satisfied are you with the communication about pay changes?
+        hint: Rating the communication quality
+        type: select_one
+        options:
+          - 1 - Not Satisfied
+          - 2
+          - 3
+          - 4
+          - 5 - Highly Satisfied
+        required: true
+      - id: 5
+        name: manager_discussion_comfort
+        label: How comfortable are you discussing your pay with your manager?
+        hint: Level of comfort in dialogue
+        type: select_one
+        options:
+          - Very Comfortable
+          - Comfortable
+          - Neutral
+          - Uncomfortable
+          - Very Uncomfortable
+        required: true
+      - id: 6
+        name: pay_secrecy_culture
+        label: Do you feel there is a culture of pay secrecy in the organization?
+        hint: Perception of secrecy
+        type: select_one
+        options:
+          - Yes, very much so
+          - Somewhat
+          - No, not really
+          - No, it is very open
+        required: true
+      - id: 7
+        name: transparency_vs_trust
+        label: I believe more pay transparency would lead to more trust in the organization
+        hint: Impact on trust
+        type: select_one
+        options:
+          - Strongly Agree
+          - Agree
+          - Neutral
+          - Disagree
+          - Strongly Disagree
+        required: true
+      - id: 8
+        name: steps_for_more_transparency
+        label: What steps should the organization take to be more transparent about pay?
+        hint: Suggestions for improvement
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: transparency_impact_motivation
+        label: Does the current level of transparency impact your motivation to perform?
+        hint: Behavioral impact
+        type: select_one
+        options:
+          - Positive impact
+          - No impact
+          - Negative impact
+        required: true
+      - id: 10
+        name: transparency_survey_completion_date
+        label: Date
+        hint: Select today's date
+        type: date
+        options: []
+        required: true
+      - id: 11
+        name: final_note_transparency
+        label: Thank you for your feedback on transparency.
+        hint: Final message
+        type: note
+        options: []
+        required: false

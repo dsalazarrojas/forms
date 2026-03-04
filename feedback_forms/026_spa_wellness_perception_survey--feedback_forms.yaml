@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Spa Wellness Perception Survey
+    pages:
+    - id: 1
+      name: visit_date
+      label: Visit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: rating
+      label: Satisfaction Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: rating_comment
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: service_improvement
+      label: Suggestions for Service Improvement
+      hint: null
+      type: select_multiple
+      options:
+      - Spa
+      - Massage
+      - Other
+      required: false
+    - id: 5
+      name: staff_professionalism
+      label: Staff Professionalism
+      hint: Rate the staff professionalism
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 6
+      name: overall_wellness
+      label: Overall Wellness Experience
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 7
+      name: visit_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: spa_visit
+      label: Visit
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Other
+      required: false
+    - id: 9
+      name: wellness_specialty
+      label: Wellness Specialty
+      hint: null
+      type: select_one
+      options:
+      - Massage
+      - Yoga
+      - Other
+      - Not Sure
+      required: false
+    - id: 10
+      name: spa_experience
+      label: Overall Experience
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false

@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Preventative Health Screening Feedback Questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: feedback_questionnaire
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: screening_results
+      label: health_screening_results
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: health_screening_results_what_improve
+      label: what_to_improve
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: screening_process
+      label: screening_process
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: screening_process_what_improve
+      label: what_to_improve_process
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: follow_up_action
+      label: follow_up_action
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: follow_up_action_what_improve
+      label: what_to_improve_follow_up
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: participant_comments
+      label: participant_comments
+      hint: null
+      type: text
+      options: []
+      required: false

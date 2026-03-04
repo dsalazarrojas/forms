@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: ultimate_beneficial_owner_registration_form
+    pages:
+    - id: 1
+      name: beneficial_owner
+      label: Beneficial Owner
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: beneficial_owner_address
+      label: beneficial_owner_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: beneficial_owner_dob
+      label: beneficial_owner_date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: beneficial_owner_nationality
+      label: beneficial_owner_nationality
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: beneficial_owner_residence
+      label: beneficial_owner_residence
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: beneficial_owner_nationality_list
+      label: beneficial_owner_nationality_list
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: beneficial_owner_residence_list
+      label: beneficial_owner_residence_list
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: beneficial_owner_phone
+      label: beneficial_owner_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: beneficial_owner_email
+      label: beneficial_owner_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: beneficial_owner_documents
+      label: beneficial_owner_documents
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: beneficial_owner_identifying_details
+      label: beneficial_owner_identifying_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: beneficial_owner_relationship
+      label: beneficial_owner_relationship
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: beneficial_owner_ownership_percent
+      label: beneficial_owner_ownership_percent
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: beneficial_owner_date
+      label: beneficial_owner_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: beneficial_owner_time
+      label: beneficial_owner_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: beneficial_owner_note
+      label: beneficial_owner_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: beneficial_owner_ult_ben_id
+      label: beneficial_owner_ult_ben_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: beneficial_owner_ownership_status
+      label: beneficial_owner_ownership_status
+      hint: null
+      type: text
+      options: []
+      required: false

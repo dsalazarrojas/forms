@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Art Print Order Form
+    pages:
+    - id: 1
+      name: digital_art_print_order_form_page_1
+      label: Print Order
+      hint: Enter print details
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: file_upload
+      label: Upload File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: file_size
+      label: File Size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: file_type
+      label: File Type
+      hint: null
+      type: select_one
+      options:
+      - image
+      - document
+      - video
+      - audio
+      required: true
+    - id: 5
+      name: price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: payment_amount
+      label: Payment Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: currency
+      label: Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - GBP
+      required: true
+    - id: 8
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - credit_card
+      - paypal
+      required: true
+    - id: 9
+      name: email
+      label: Email
+      hint: artist@email.com
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: file
+      label: File
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: file_name
+      label: File Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: file_type
+      label: File Type
+      hint: null
+      type: select_one
+      options:
+      - jpg
+      - png
+      - gif
+      - bmp
+      required: true
+    - id: 18
+      name: file_url
+      label: File URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: file_size_unit
+      label: File Size (MB)
+      hint: null
+      type: select_one
+      options:
+      - MB
+      - GB
+      required: true
+    - id: 20
+      name: file_resolution
+      label: File Resolution
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: file_color_mode
+      label: File Color Mode
+      hint: null
+      type: select_one
+      options:
+      - rgb
+      - cmyk
+      - lab
+      required: false
+    - id: 22
+      name: file_compression
+      label: File Compression
+      hint: null
+      type: select_one
+      options:
+      - none
+      - lossless
+      required: false
+    - id: 23
+      name: file_print_size
+      label: File Print Size
+      hint: null
+      type: select_one
+      options:
+      - A4
+      - A5
+      - A6
+      required: false
+    - id: 24
+      name: file_print_orientation
+      label: File Print Orientation
+      hint: null
+      type: select_one
+      options:
+      - portrait
+      - landscape
+      required: false
+    - id: 25
+      name: file_print_finish
+      label: File Print Finish
+      hint: null
+      type: select_one
+      options:
+      - glossy
+      - matte
+      - pearlescent
+      required: false

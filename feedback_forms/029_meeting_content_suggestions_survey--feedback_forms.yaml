@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Meeting Content Suggestions Survey
+    pages:
+    - id: 1
+      name: meeting_content_suggestions_survey_1
+      label: what_topics_should_we_cover_in_our_next_meeting
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: meeting_content_suggestions_survey_2
+      label: what_time_of_day_would_you_prefer_for_our_next_meeting
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: meeting_content_suggestions_survey_3
+      label: how_often_do_you_think_we_should_meet
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: meeting_content_suggestions_survey_4
+      label: do_you_have_any_other_feedback_on_our_meetings
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: meeting_content_suggestions_survey_5
+      label: what_is_your_email_address
+      hint: null
+      type: email
+      options: []
+      required: false

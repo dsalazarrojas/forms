@@ -1,0 +1,235 @@
+inputSchema:
+  type: object
+  properties:
+    title: City Council Local Services Feedback Report Form
+    pages:
+    - id: 1
+      name: section_header_reporter_info
+      label: -- Your Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: your_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Your Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_header_report
+      label: -- Service Report --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: report_date
+      label: Date of Incident or Issue
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: service_category
+      label: Service Category
+      hint: null
+      type: select_one
+      options:
+      - Pothole or road damage
+      - Street light outage
+      - Trash collection issue
+      - Water quality concern
+      - Noise complaint
+      - Traffic signal malfunction
+      - Sidewalk damage
+      - Tree maintenance
+      - Parking issue
+      - Other
+      required: true
+    - id: 9
+      name: issue_location
+      label: Location of Issue
+      hint: Street address or intersection
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: issue_description
+      label: Description of the Issue
+      hint: Please be detailed
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: safety_hazard
+      label: Is This a Safety Hazard
+      hint: null
+      type: select_one
+      options:
+      - Yes, immediate danger
+      - Potential hazard
+      - No, not a hazard
+      required: true
+    - id: 12
+      name: section_header_impact
+      label: -- Impact Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: affected_people
+      label: Number of People Affected
+      hint: Estimate if unknown
+      type: select_one
+      options:
+      - Just me
+      - A few neighbors
+      - Many residents
+      - Large community impact
+      required: false
+    - id: 14
+      name: duration
+      label: How Long Has This Issue Existed
+      hint: null
+      type: select_one
+      options:
+      - Less than a week
+      - 1-4 weeks
+      - 1-3 months
+      - 3-6 months
+      - 6 months or longer
+      required: false
+    - id: 15
+      name: section_header_attachments
+      label: -- Supporting Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: photo_attached
+      label: Photo or Image Attached
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: previous_report
+      label: Have You Reported This Issue Before
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: false
+    - id: 18
+      name: previous_report_number
+      label: Previous Report Number (if known)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_header_resolution
+      label: -- Requested Resolution --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: urgency_level
+      label: Urgency Level
+      hint: null
+      type: select_one
+      options:
+      - Emergency
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 21
+      name: resolution_request
+      label: What Resolution Would You Like
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: reasonable_timeframe
+      label: Reasonable Timeframe for Resolution
+      hint: null
+      type: select_one
+      options:
+      - Within 24 hours
+      - Within 1 week
+      - Within 2 weeks
+      - Within 1 month
+      - No specific timeframe
+      required: false
+    - id: 23
+      name: section_header_followup
+      label: -- Follow-up Preference --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: followup_method
+      label: Preferred Follow-up Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text message
+      - Mail
+      - No follow-up needed
+      required: true
+    - id: 25
+      name: best_time_contact
+      label: Best Time to Contact You
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: section_header_additional
+      label: -- Additional Comments --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: additional_info
+      label: Additional Information or Comments
+      hint: null
+      type: text
+      options: []
+      required: false

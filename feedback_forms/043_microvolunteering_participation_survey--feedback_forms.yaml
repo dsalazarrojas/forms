@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Microvolunteering Participation Survey
+    pages:
+    - id: 1
+      name: survey_details
+      label: Survey Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: volunteer_name
+      label: Volunteer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: volunteer_email
+      label: Volunteer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: volunteer_organization
+      label: Volunteer Organization
+      hint: null
+      type: select_multiple
+      options:
+      - ABC Nonprofit Inc.
+      - Definitely Not This One
+      - Maybe Another One
+      - The Last One
+      required: false
+    - id: 5
+      name: volunteer_role
+      label: Volunteer Role
+      hint: null
+      type: select_one
+      options:
+      - Administrative
+      - Community Service
+      - Event Planning
+      - Fundraising
+      - General Volunteering
+      - Other (please specify)
+      - Project Coordination
+      - Research
+      - Teaching/Training
+      - Transportation
+      required: false
+    - id: 6
+      name: volunteer_hours
+      label: Volunteer Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: volunteer_dedication
+      label: Volunteer Dedication
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: volunteer_comment
+      label: Volunteer Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false

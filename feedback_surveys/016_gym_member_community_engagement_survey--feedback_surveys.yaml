@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gym Member Community Engagement Survey
+    pages:
+    - id: 1
+      name: event_interest
+      label: Event Interest
+      hint: null
+      type: select_multiple
+      options:
+      - events
+      - Other
+      required: false
+    - id: 2
+      name: favorite_activity
+      label: Favorite Activity
+      hint: null
+      type: select_one
+      options:
+      - cardio
+      - weights
+      - classes
+      - personal_training
+      - yoga
+      - swimming
+      - other
+      required: false
+    - id: 3
+      name: communication_preference
+      label: Communication Preference
+      hint: null
+      type: select_multiple
+      options:
+      - email
+      - text
+      - phone
+      - in_app
+      - other
+      required: false
+    - id: 4
+      name: feedback_on_events
+      label: Feedback on Events
+      hint: How would you rate the quality of our events?
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: feedback_on_communication
+      label: Feedback on Communication
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: program_interest
+      label: Program Interest
+      hint: null
+      type: select_multiple
+      options:
+      - weightlifting
+      - cardio
+      - yoga
+      - swimming
+      - classes
+      - personal_training
+      - other
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: member_id
+      label: Member ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: in_app
+      label: In App
+      hint: null
+      type: select_multiple
+      options:
+      - push_notification
+      - email_notification
+      - push_and_email_notification
+      required: false
+    - id: 12
+      name: event_reminders
+      label: Event Reminders
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - not_preferred
+      required: false

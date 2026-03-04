@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Data Transformation Progress Survey
+    pages:
+    - id: 1
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Ongoing
+      - Completed
+      required: false
+    - id: 2
+      name: project_milestone
+      label: Project Milestone
+      hint: null
+      type: select_multiple
+      options:
+      - Milestone 1
+      - Milestone 2
+      - Milestone 3
+      required: false
+    - id: 3
+      name: project_adoption
+      label: Project Adoption
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: project_feedback
+      label: Project Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: project_comment
+      label: Project Comment
+      hint: Please provide a description of the project.
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: project_roadmap
+      label: Project Roadmap
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

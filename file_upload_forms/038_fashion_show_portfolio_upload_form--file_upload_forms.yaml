@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fashion Show Portfolio Upload Form
+    pages:
+    - id: 1
+      name: model_portfolio_upload
+      label: Model Portfolio Upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: upload_portfolio
+      label: Upload Portfolio
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: model_details
+      label: Model Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: portfolio_url
+      label: Portfolio URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: portfolio_type
+      label: Portfolio Type
+      hint: null
+      type: select_one
+      options:
+      - fashion
+      - runway
+      - commercial
+      - editorial
+      required: false
+    - id: 9
+      name: submit
+      label: Submit
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

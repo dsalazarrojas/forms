@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Class Reunion Photo Upload
+    pages:
+    - id: 1
+      name: contributor_info_header
+      label: -- Contributor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: graduation_year
+      label: Graduation Year or Class Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: current_city
+      label: Current City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: photo_header
+      label: -- Photo Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: photo_description
+      label: Photo Description
+      hint: What is in the photo, who is pictured, etc.
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: photo_year
+      label: Approximate Year Photo Was Taken
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: photo_location
+      label: Location or Event Where Photo Was Taken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: people_in_photo
+      label: Names of People in the Photo
+      hint: If you can identify them
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: memorable_story
+      label: Memorable Story or Memory Associated With This Photo
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: permissions_header
+      label: -- Photo Permissions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: photo_rights
+      label: I confirm I have the right to share this photo
+      hint: null
+      type: select_one
+      options:
+      - Yes, I took the photo
+      - Yes, I have permission from photographer
+      - Yes, I have permission from people in photo
+      - Yes, all permissions obtained
+      - false
+      required: true
+    - id: 15
+      name: public_sharing
+      label: May we publicly share this photo in reunion materials
+      hint: Website, social media, printed materials
+      type: select_one
+      options:
+      - Yes, publicly
+      - Yes, reunion attendees only
+      - Yes, with restrictions
+      - No, private use only
+      required: true
+    - id: 16
+      name: sharing_restrictions
+      label: Photo Sharing Restrictions or Special Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: attribution
+      label: Photo Credit or Attribution Name
+      hint: How should photographer be credited
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: file_upload_header
+      label: -- File Upload --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: file_size_note
+      label: Recommended File Size - up to 10MB
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: alternative_submit_header
+      label: -- Alternative Submission Methods --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: submission_method
+      label: Preferred Submission Method
+      hint: null
+      type: select_one
+      options:
+      - Upload file to this form
+      - Email photo separately
+      - Mail physical photo
+      - Share Google Drive or Dropbox link
+      - Other method
+      required: true
+    - id: 22
+      name: alternative_contact
+      label: Contact Information for Alternative Submission
+      hint: Email address or phone for other methods
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: message_header
+      label: -- Optional Message or Note --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: personal_message
+      label: Personal Message or Note for Reunion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: acknowledgment
+      label: I certify that all information is accurate and permissions obtained
+      hint: null
+      type: select_one
+      options:
+      - Yes, I certify
+      - false
+      required: true

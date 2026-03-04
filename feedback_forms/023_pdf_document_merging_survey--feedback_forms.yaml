@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: PDF Document Merging Survey
+    pages:
+    - id: 1
+      name: pdf_document_merging_survey_form
+      label: PDF Merging Survey Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pdf_document_type
+      label: pdf_document_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: current_version
+      label: current_version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: pdf_merger
+      label: pdf_merger
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: issue_details
+      label: issue_details
+      hint: null
+      type: text
+      options: []
+      required: false

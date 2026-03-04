@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Performance Diagnostic Review Request Form
+    pages:
+    - id: 1
+      name: request_form
+      label: Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reviewer_info
+      label: Reviewer Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reviewee_info
+      label: Reviewee Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: feedback_type
+      label: Feedback Type
+      hint: null
+      type: select_one
+      options:
+      - Reviewer
+      - Reviewee
+      - Management
+      - Team
+      - Leadership
+      - Other
+      required: false
+    - id: 5
+      name: feedback_description
+      label: Feedback Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: reviewee_comments
+      label: Reviewee Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: reviewee_performance_rating
+      label: Reviewee Performance Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: reviewee_suggestions
+      label: Reviewee Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false

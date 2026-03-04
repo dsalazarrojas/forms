@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: online_video_upload_form
+    pages:
+    - id: 1
+      name: online_video_upload_form_1
+      label: select_file
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: file_to_upload
+      label: upload_video
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: video_title
+      label: add_video_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: video_description
+      label: add_video_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: video_tags
+      label: add_video_tags
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: video_date_uploaded
+      label: video_date_uploaded
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: video_time_uploaded
+      label: video_time_uploaded
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: video_upload_url
+      label: video_upload_url
+      hint: null
+      type: text
+      options: []
+      required: false

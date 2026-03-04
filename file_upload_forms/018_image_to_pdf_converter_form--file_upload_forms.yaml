@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Image To PDF Converter Form
+    pages:
+    - id: 1
+      name: upload_image
+      label: upload_image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: select_format
+      label: select_format
+      hint: null
+      type: select_one
+      options:
+      - JPEG, JPG, PNG
+      - BMP
+      - TIFF
+      - PDF
+      required: false
+    - id: 3
+      name: convert_pdf
+      label: convert_pdf
+      hint: null
+      type: select_multiple
+      options:
+      - Color
+      - Black And White
+      required: true
+    - id: 4
+      name: upload_file
+      label: upload_file
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: upload_file
+      label: upload_file_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: upload_file
+      label: upload_file_3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: upload_file
+      label: upload_file_4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: convert_image_to_pdf
+      label: convert_image_to_pdf
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: save_to_file
+      label: save_to_file
+      hint: null
+      type: select_multiple
+      options:
+      - Save to folder
+      - Save to Dropbox
+      required: false
+    - id: 10
+      name: save_to_file
+      label: save_to_file_2
+      hint: null
+      type: select_multiple
+      options:
+      - Save to folder
+      - Save to Google Drive
+      required: false
+    - id: 11
+      name: save_to_file
+      label: save_to_file_3
+      hint: null
+      type: select_multiple
+      options:
+      - Save to folder
+      - Save to One Drive
+      required: false
+    - id: 12
+      name: save_to_file
+      label: save_to_file_4
+      hint: null
+      type: select_multiple
+      options:
+      - Save to folder
+      - Save to Box
+      required: false
+    - id: 13
+      name: save_to_file
+      label: save_to_file_5
+      hint: null
+      type: select_multiple
+      options:
+      - Save to folder
+      - Save to iCloud
+      required: false
+    - id: 14
+      name: save_to_file
+      label: save_to_file_6
+      hint: null
+      type: select_multiple
+      options:
+      - Save to folder
+      - Save to Evernote
+      required: false
+    - id: 15
+      name: save_to_file
+      label: save_to_file_7
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

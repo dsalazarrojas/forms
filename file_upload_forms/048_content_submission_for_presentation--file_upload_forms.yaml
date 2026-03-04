@@ -1,0 +1,226 @@
+inputSchema:
+  type: object
+  properties:
+    title: Content Submission For Presentation
+    pages:
+    - id: 1
+      name: presenter_full_name
+      label: Presenter Full Name
+      hint: Your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: presenter_email
+      label: Presenter Email
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: presenter_phone
+      label: Presenter Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: presenter_title
+      label: Presenter Title
+      hint: Your job title
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: organization_name
+      label: Organization Name
+      hint: Name of your company or institution
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: submission_date
+      label: Submission Date
+      hint: Date of this submission
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: presentation_title
+      label: Presentation Title
+      hint: Title of your presentation
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: presentation_type
+      label: Presentation Type
+      hint: What type of presentation is this?
+      type: select_one
+      options:
+      - Keynote Speech
+      - Panel Discussion
+      - Workshop
+      - Breakout Session
+      - Lightning Talk
+      - Case Study Presentation
+      - Product Demo
+      - Research Presentation
+      required: true
+    - id: 9
+      name: presentation_topic
+      label: Presentation Topic
+      hint: What is your presentation about?
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: presentation_abstract
+      label: Presentation Abstract
+      hint: Brief description of your presentation
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: presentation_duration
+      label: Presentation Duration
+      hint: How long is your presentation?
+      type: select_one
+      options:
+      - 15 minutes
+      - 30 minutes
+      - 45 minutes
+      - 60 minutes
+      - 90 minutes
+      - Full day workshop
+      required: true
+    - id: 12
+      name: target_audience
+      label: Target Audience
+      hint: Who is your presentation for?
+      type: select_one
+      options:
+      - Beginners
+      - Intermediate
+      - Advanced
+      - Executives
+      - Technical Audience
+      - General Audience
+      - Mixed Levels
+      required: true
+    - id: 13
+      name: learning_objectives
+      label: Learning Objectives
+      hint: What will attendees learn?
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: key_takeaways
+      label: Key Takeaways
+      hint: What are the main takeaways?
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: presentation_format
+      label: Presentation Format
+      hint: How will you present?
+      type: select_one
+      options:
+      - In Person
+      - Virtual Live
+      - Pre-Recorded
+      - Hybrid
+      required: true
+    - id: 16
+      name: slides_submitted
+      label: Slides Submitted
+      hint: Have you submitted your slides?
+      type: select_one
+      options:
+      - Yes, attached
+      - Yes, will submit later
+      - No, not ready yet
+      - Not applicable
+      required: true
+    - id: 17
+      name: file_upload_link
+      label: File Upload Link
+      hint: Link to upload presentation files
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: file_format
+      label: File Format
+      hint: What format are your files?
+      type: select_one
+      options:
+      - PowerPoint (PPTX)
+      - PDF
+      - Google Slides
+      - Keynote
+      - Video (MP4)
+      - Other
+      required: false
+    - id: 19
+      name: av_requirements
+      label: AV Requirements
+      hint: What audio-visual equipment do you need?
+      type: select_multiple
+      options:
+      - Projector
+      - Microphone
+      - Laptop Connection
+      - Whiteboard
+      - Flip Chart
+      - Video Playback
+      - Live Demo Setup
+      - None
+      required: true
+    - id: 20
+      name: special_requirements
+      label: Special Requirements
+      hint: Any special needs for your presentation?
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: bio
+      label: Presenter Bio
+      hint: Short biography (100-200 words)
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: headshot_uploaded
+      label: Headshot Uploaded
+      hint: Have you uploaded your headshot?
+      type: select_one
+      options:
+      - true
+      - No, will submit later
+      - false
+      required: true
+    - id: 23
+      name: social_media_handles
+      label: Social Media Handles
+      hint: Your Twitter, LinkedIn, etc.
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: previous_presentations
+      label: Previous Presentations
+      hint: Have you presented at similar events before?
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other information for organizers
+      type: text
+      options: []
+      required: false

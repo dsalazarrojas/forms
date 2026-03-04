@@ -1,0 +1,354 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chest X Ray Workflow Documentation
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: Full name of patient
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_id
+      label: Patient ID
+      hint: Patient identification number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: Patient birth date
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: gender
+      label: Gender
+      hint: Patient gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      required: true
+    - id: 5
+      name: exam_date
+      label: Exam Date
+      hint: Date of X-ray exam
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: exam_time
+      label: Exam Time
+      hint: Time of X-ray exam
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: ordering_physician
+      label: Ordering Physician
+      hint: Name of doctor who ordered exam
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: clinical_indication
+      label: Clinical Indication
+      hint: Reason for X-ray exam
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: exam_type
+      label: Exam Type
+      hint: Type of chest X-ray
+      type: select_one
+      options:
+      - PA (Posteroanterior)
+      - AP (Anteroposterior)
+      - Lateral
+      - Portable
+      - Decubitus
+      - Lordotic
+      - Multiple views
+      required: true
+    - id: 10
+      name: patient_condition
+      label: Patient Condition
+      hint: Patient mobility status
+      type: select_one
+      options:
+      - Ambulatory
+      - Wheelchair
+      - Stretcher
+      - Bedridden
+      - ICU patient
+      required: true
+    - id: 11
+      name: pregnancy_status
+      label: Pregnancy Status
+      hint: For female patients of childbearing age
+      type: select_one
+      options:
+      - Not pregnant
+      - Pregnant
+      - Unknown
+      - Not applicable
+      required: false
+    - id: 12
+      name: contrast_used
+      label: Was Contrast Used
+      hint: Was contrast agent administered
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: technologist_name
+      label: Technologist Name
+      hint: Name of X-ray technologist
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: room_number
+      label: Room Number
+      hint: Room where exam was performed
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: equipment_used
+      label: Equipment Used
+      hint: X-ray equipment identifier
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: exposure_settings
+      label: Exposure Settings
+      hint: Technical exposure parameters
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: patient_positioning
+      label: Patient Positioning
+      hint: How was patient positioned
+      type: select_one
+      options:
+      - Standing
+      - Sitting
+      - Supine
+      - Prone
+      - Lateral decubitus
+      required: true
+    - id: 18
+      name: positioning_aids
+      label: Positioning Aids Used
+      hint: Any aids used for positioning
+      type: select_multiple
+      options:
+      - None
+      - Sandbags
+      - Foam blocks
+      - Tape
+      - Immobilization device
+      - Other
+      required: false
+    - id: 19
+      name: protective_equipment
+      label: Protective Equipment Used
+      hint: Radiation protection used
+      type: select_multiple
+      options:
+      - Lead apron
+      - Thyroid shield
+      - Gonadal shield
+      - None
+      - Not applicable
+      required: true
+    - id: 20
+      name: image_quality
+      label: Image Quality
+      hint: Quality of acquired images
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Acceptable
+      - Poor - repeat needed
+      required: true
+    - id: 21
+      name: repeat_required
+      label: Was Repeat Required
+      hint: Did you need to repeat any images
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: repeat_reason
+      label: Repeat Reason
+      hint: Why was repeat needed
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: number_of_images
+      label: Number of Images
+      hint: Total images acquired
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: images_uploaded
+      label: Were Images Uploaded
+      hint: Were images uploaded to PACS
+      type: select_one
+      options:
+      - Yes, all
+      - Yes, partial
+      - false
+      - Pending
+      required: true
+    - id: 25
+      name: pacs_number
+      label: PACS Number
+      hint: PACS accession number
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: radiologist_assigned
+      label: Radiologist Assigned
+      hint: Name of interpreting radiologist
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: priority_level
+      label: Priority Level
+      hint: Urgency of exam
+      type: select_one
+      options:
+      - Routine
+      - Urgent
+      - STAT
+      - Emergency
+      required: true
+    - id: 28
+      name: preliminary_read
+      label: Preliminary Read Available
+      hint: Was preliminary read provided
+      type: select_one
+      options:
+      - true
+      - false
+      - Not applicable
+      required: false
+    - id: 29
+      name: critical_findings
+      label: Critical Findings
+      hint: Any critical findings noted
+      type: select_one
+      options:
+      - true
+      - false
+      - Pending
+      required: true
+    - id: 30
+      name: critical_findings_details
+      label: Critical Findings Details
+      hint: Describe critical findings if any
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: physician_notified
+      label: Was Physician Notified
+      hint: Was ordering physician notified
+      type: select_one
+      options:
+      - true
+      - false
+      - Not applicable
+      required: true
+    - id: 32
+      name: notification_time
+      label: Notification Time
+      hint: When was physician notified
+      type: time
+      options: []
+      required: false
+    - id: 33
+      name: patient_instructions
+      label: Patient Instructions Given
+      hint: Were post-exam instructions given
+      type: select_one
+      options:
+      - true
+      - false
+      - Not applicable
+      required: true
+    - id: 34
+      name: adverse_events
+      label: Adverse Events
+      hint: Any adverse events during exam
+      type: select_one
+      options:
+      - None
+      - Minor
+      - Moderate
+      - Severe
+      required: true
+    - id: 35
+      name: adverse_events_details
+      label: Adverse Events Details
+      hint: Describe any adverse events
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: workflow_status
+      label: Workflow Status
+      hint: Current status of workflow
+      type: select_one
+      options:
+      - Complete
+      - Pending read
+      - Pending review
+      - Incomplete
+      required: true
+    - id: 37
+      name: documentation_complete
+      label: Documentation Complete
+      hint: Is all documentation complete
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 38
+      name: technologist_signature
+      label: Technologist Signature
+      hint: I confirm this documentation is accurate
+      type: select_one
+      options:
+      - Yes, I confirm
+      - false
+      required: true
+    - id: 39
+      name: documentation_date
+      label: Documentation Date
+      hint: Date of documentation
+      type: date
+      options: []
+      required: true

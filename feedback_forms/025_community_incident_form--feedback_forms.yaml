@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Incident Form
+    pages:
+    - id: 1
+      name: incident_type
+      label: Type of Incident to Report
+      hint: Select the category that best fits
+      type: select_one
+      options:
+      - Public Safety Concern
+      - Property Damage or Vandalism
+      - Noise Complaint
+      - Environmental or Health Hazard
+      - Neighbor Dispute
+      - Traffic or Parking Issue
+      - Other
+      required: true
+    - id: 2
+      name: incident_date
+      label: Date of Incident
+      hint: When did this occur?
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: incident_time
+      label: Approximate Time of Incident
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: incident_location
+      label: Exact Location of Incident
+      hint: Address, intersection, or landmark
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: incident_description
+      label: Detailed Description of the Incident
+      hint: Describe exactly what happened
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: involved_parties
+      label: Known Involved Parties
+      hint: Names or descriptions if known
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: witness_info
+      label: Witness Information
+      hint: List any other people who saw the incident
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: police_notified
+      label: Was the police or local authority notified?
+      hint: null
+      type: select_one
+      options:
+      - Yes, report filed
+      - false
+      - Not Applicable
+      required: true
+    - id: 9
+      name: photos_available
+      label: Do you have photos or video of the incident?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: reporter_name
+      label: Your Full Name
+      hint: Optional for anonymous reports
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: reporter_contact
+      label: Your Phone or Email Address
+      hint: For follow-up if needed
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: reporting_date
+      label: Date Reported
+      hint: Today date
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: privacy_acknowledgement
+      label: I understand this report will be reviewed by community leaders
+      hint: null
+      type: select_one
+      options:
+      - I Understand
+      - Other
+      required: true

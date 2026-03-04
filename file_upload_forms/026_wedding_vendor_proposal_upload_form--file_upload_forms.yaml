@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Vendor Proposal Upload Form
+    pages:
+    - id: 1
+      name: upload_form
+      label: Upload Proposal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vendor_name
+      label: vendor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_details
+      label: Contact
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: vendor_type
+      label: Vendor Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Photographer''}'
+      - '{''value'': ''Caterer''}'
+      - '{''value'': ''Florist''}'
+      required: false
+    - id: 5
+      name: venue
+      label: Venue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_event
+      label: Date of Event
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_of_event
+      label: Time of Event
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: event_details
+      label: Event Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: upload_file
+      label: Upload File
+      hint: null
+      type: text
+      options: []
+      required: false

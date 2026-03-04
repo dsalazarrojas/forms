@@ -1,0 +1,255 @@
+inputSchema:
+  type: object
+  properties:
+    title: Satisfaction Survey For Eco Friendly Products
+    pages:
+    - id: 1
+      name: intro
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: question1
+      label: How satisfied do you feel about the eco-friendly products you have received?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: question2
+      label: How likely are you to recommend our eco-friendly products to a friend
+        or family member?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Not Likely''}'
+      - '{''label'': ''Not Likely''}'
+      - '{''label'': ''Likely''}'
+      required: false
+    - id: 4
+      name: question3
+      label: What do you think about the quality of our eco-friendly products?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: question4
+      label: How would you rate the overall quality of our eco-friendly products?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: question5
+      label: Which of the following best describes your reason for not being satisfied
+        with our eco-friendly products?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Product quality''}'
+      - '{''label'': ''Price''}'
+      - '{''label'': ''Availability''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 7
+      name: question6
+      label: What would you say about the price of our eco-friendly products?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: question7
+      label: Would you say you are likely to recommend our eco-friendly products in
+        the future?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Not sure''}'
+      required: false
+    - id: 9
+      name: question8
+      label: Do you have any other comments about our eco-friendly products?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: question10
+      label: How would you rate the overall value of our eco-friendly products?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: question11
+      label: Are you satisfied with the overall value of our eco-friendly products?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 12
+      name: question12
+      label: Would you like to receive more information on our eco-friendly products?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 13
+      name: question13
+      label: Do you have any other questions or suggestions about our eco-friendly
+        products?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Quality''}'
+      - '{''label'': ''Price''}'
+      - '{''label'': ''Availability''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 14
+      name: question14
+      label: Do you consent to our use of your email address?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 15
+      name: question15
+      label: How do you rate the design of our website?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: question16
+      label: How often do you visit our website?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Daily''}'
+      - '{''label'': ''Weekly''}'
+      - '{''label'': ''Monthly''}'
+      - '{''label'': ''Less than monthly''}'
+      required: false
+    - id: 17
+      name: question17
+      label: How long have you been a customer of our company?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: question18
+      label: How would you rate the overall customer service?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: question19
+      label: Would you say our customer service is satisfactory?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: true
+    - id: 20
+      name: question20
+      label: Would you like to participate in more customer satisfaction research?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 21
+      name: question21
+      label: Any other feedback about our services?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: question22
+      label: How long did it take for you to receive your order?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: question23
+      label: Do you have any other comments about our services?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: question24
+      label: Have you ever had any issues with delivery or shipping?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 25
+      name: question25
+      label: Would you like to receive emails about new products?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 26
+      name: question26
+      label: Would you like to participate in other research about your shopping experience?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 27
+      name: question27
+      label: Any other comments?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: question28
+      label: How long have you been using our services?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 29
+      name: question29
+      label: Do you have any other feedback about our services?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: question30
+      label: Have you been satisfied with your experience with our services?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false

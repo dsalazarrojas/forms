@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Science Center Evaluation Form
+    pages:
+    - id: 1
+      name: science_center_evaluation_form
+      label: How did you find our science center
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: exhibits
+      label: Which exhibits did you visit
+      hint: null
+      type: select_multiple
+      options:
+      - Exhibits 1
+      - Exhibits 2
+      - Exhibits 3
+      required: true
+    - id: 3
+      name: program
+      label: Which program did you take part in
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Workshop 1
+      - Workshop 2
+      required: false
+    - id: 4
+      name: time_spent
+      label: How much time did you spend here
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: feedback
+      label: What did you think about your overall experience
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: What is your email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: What is your phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date
+      label: When did you visit
+      hint: null
+      type: date
+      options: []
+      required: false

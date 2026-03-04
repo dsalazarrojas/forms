@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Music Tabs Request Form
+    pages:
+    - id: 1
+      name: music_tabs_request_form_data
+      label: Submit Music Tab Request
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: music_tab_requester
+      label: Who is requesting music tab
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: music_file
+      label: Music File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: song_name
+      label: Song Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: musician_url
+      label: Musician URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: musician
+      label: Musician
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: song_type
+      label: Song Type
+      hint: null
+      type: select_one
+      options:
+      - Tab
+      - Sheet Music
+      - Other
+      - Cover
+      - Arrangement
+      required: false
+    - id: 9
+      name: song_key
+      label: Song Key
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: instrument
+      label: Instrument
+      hint: null
+      type: select_one
+      options:
+      - Piano
+      - Guitar
+      - Banjo
+      - Drums
+      - Violin
+      - Other
+      required: false
+    - id: 11
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false

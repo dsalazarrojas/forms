@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Manuscript Editing Consent Form
+    pages:
+    - id: 1
+      name: project_name
+      label: project_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: author_name
+      label: author_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: project_details
+      label: project_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: manuscript_upload
+      label: manuscript_upload
+      hint: null
+      type: select_one
+      options:
+      - Manuscript Upload 1
+      - Manuscript Upload 2
+      - Manuscript Upload 3
+      required: true
+    - id: 7
+      name: submission_date
+      label: submission_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: manuscript_type
+      label: manuscript_type
+      hint: null
+      type: select_one
+      options:
+      - Type 1
+      - Type 2
+      - Type 3
+      required: true
+    - id: 9
+      name: manuscript_pages
+      label: manuscript_pages
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: manuscript_length
+      label: manuscript_length
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: submission_status
+      label: submission_status
+      hint: null
+      type: select_multiple
+      options:
+      - Status 1
+      - Status 2
+      - Status 3
+      required: true
+    - id: 12
+      name: manuscript_revision_status
+      label: manuscript_revision_status
+      hint: null
+      type: select_multiple
+      options:
+      - Revision Status 1
+      - Revision Status 2
+      - Revision Status 3
+      required: true
+    - id: 13
+      name: manuscript_status
+      label: manuscript_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 14
+      name: manuscript_reviewer
+      label: manuscript_reviewer
+      hint: null
+      type: select_one
+      options:
+      - Reviewer 1
+      - Reviewer 2
+      - Reviewer 3
+      required: true
+    - id: 15
+      name: manuscript_editor
+      label: manuscript_editor
+      hint: null
+      type: select_one
+      options:
+      - Editor 1
+      - Editor 2
+      - Editor 3
+      required: true
+    - id: 16
+      name: project_manager
+      label: project_manager
+      hint: null
+      type: select_one
+      options:
+      - Manager 1
+      - Manager 2
+      - Manager 3
+      required: true
+    - id: 17
+      name: author_signature
+      label: author_signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: editor_signature
+      label: editor_signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: project_manager_signature
+      label: project_manager_signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: manuscript_editor_note
+      label: manuscript_editor_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: manuscript_review_note
+      label: manuscript_review_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: submission_date_2
+      label: submission_date_2
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: submission_date_3
+      label: submission_date_3
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: submission_date_4
+      label: submission_date_4
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cosmetic Feedback Form
+    pages:
+    - id: 1
+      name: cosmetic_feedback_form
+      label: Feedback Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: feedback_type
+      label: Feedback Type
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''product''}'
+      - product_review
+      - service
+      required: false
+    - id: 3
+      name: product_feedback
+      label: Product Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: service_feedback
+      label: Service Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: comment
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: product
+      label: Product
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''product_name''}'
+      - product_description
+      required: false
+    - id: 7
+      name: product_description
+      label: Product Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: product_image
+      label: Product Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: product_rating
+      label: Product Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: product_price
+      label: Product Price
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: product_review
+      label: Product Review
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: service
+      label: Service
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''service_name''}'
+      - service_description
+      required: false
+    - id: 13
+      name: service_description
+      label: Service Description
+      hint: null
+      type: text
+      options: []
+      required: false

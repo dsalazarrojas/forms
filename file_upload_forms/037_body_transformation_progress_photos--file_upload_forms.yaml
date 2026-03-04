@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Body Transformation Progress Photos
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: client_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: update_date
+      label: Date of Progress Update
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: program_duration_weeks
+      label: Weeks in Program
+      hint: How long since program started
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: current_weight
+      label: Current Weight in Pounds
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: weight_change_since_start
+      label: Weight Change Since Start
+      hint: Pounds lost or gained
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: chest_measurement
+      label: Chest Measurement in Inches
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: waist_measurement
+      label: Waist Measurement in Inches
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: hip_measurement
+      label: Hip Measurement in Inches
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: arm_measurement
+      label: Arm Circumference in Inches
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: thigh_measurement
+      label: Thigh Circumference in Inches
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: front_body_photo
+      label: Front Body Progress Photo
+      hint: Upload front-facing photo
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: side_body_photo
+      label: Side Body Progress Photo
+      hint: Upload side-facing photo
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: back_body_photo
+      label: Back Body Progress Photo
+      hint: Upload back-facing photo
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: photo_clothing
+      label: Clothing During Photos
+      hint: What you wore for consistency
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: visible_changes
+      label: Visible Physical Changes
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Muscle Definition
+      - Fat Loss
+      - Posture Improvement
+      - Skin Appearance
+      - Overall Tone
+      - Strength Visible
+      - No Visible Change
+      - Other
+      required: false
+    - id: 18
+      name: energy_levels
+      label: Energy Levels
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 19
+      name: workout_intensity
+      label: Workout Intensity Level
+      hint: null
+      type: select_one
+      options:
+      - Exceeding Target
+      - Meeting Target
+      - Below Target
+      - Not Consistently Working Out
+      required: true
+    - id: 20
+      name: nutrition_adherence
+      label: Nutrition Plan Adherence
+      hint: null
+      type: select_one
+      options:
+      - Perfect - 100 percent
+      - Excellent - 90-99 percent
+      - Good - 75-89 percent
+      - Fair - 60-74 percent
+      - Poor - Below 60 percent
+      required: true
+    - id: 21
+      name: sleep_quality
+      label: Sleep Quality and Hours Per Night
+      hint: null
+      type: select_one
+      options:
+      - Excellent - 7-9 hours
+      - Good - 6-7 hours
+      - Fair - 5-6 hours
+      - Poor - Less than 5 hours
+      required: false
+    - id: 22
+      name: progress_notes
+      label: Progress Notes and Observations
+      hint: Any comments about your progress
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: challenges_faced
+      label: Challenges This Week
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: goals_for_next_week
+      label: Goals for Next Week
+      hint: null
+      type: text
+      options: []
+      required: false

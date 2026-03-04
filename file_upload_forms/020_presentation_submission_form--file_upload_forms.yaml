@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Presentation Submission Form
+    pages:
+    - id: 1
+      name: submission_form
+      label: Submission form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: speaker_bio
+      label: Speaker bio
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: presentation_title
+      label: Presentation title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: presentation_date
+      label: Presentation date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: presentation_time
+      label: Presentation time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: presentation_description
+      label: Presentation description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: upload_files
+      label: Upload files
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: upload_presentation_file
+      label: Upload presentation file
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: upload_video_file
+      label: Upload video file
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - other
+      required: false
+    - id: 11
+      name: submission_comments
+      label: Submission comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: file_uploads
+      label: File uploads
+      hint: null
+      type: select_multiple
+      options:
+      - file1
+      - file2
+      - file3
+      required: false
+    - id: 15
+      name: other_fields
+      label: Other fields
+      hint: null
+      type: select_multiple
+      options:
+      - field1
+      - field2
+      - field3
+      required: false

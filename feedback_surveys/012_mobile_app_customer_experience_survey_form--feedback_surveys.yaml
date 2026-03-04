@@ -1,0 +1,225 @@
+inputSchema:
+  type: object
+  properties:
+    title: mobile_app_customer_experience_survey_form
+    pages:
+    - id: 1
+      name: app_name
+      label: app_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: how_did_you_find_us
+      label: how_did_you_find_us
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''social_media'', ''value'': ''social_media''}'
+      - '{''id'': 2, ''name'': ''online_search'', ''value'': ''online_search''}'
+      - '{''id'': 3, ''name'': ''word_of_mouth'', ''value'': ''word_of_mouth''}'
+      - '{''id'': 4, ''name'': ''other'', ''value'': ''other''}'
+      required: true
+    - id: 3
+      name: what_do_you_like
+      label: what_do_you_like
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''design'', ''value'': ''design''}'
+      - '{''id'': 2, ''name'': ''features'', ''value'': ''features''}'
+      - '{''id'': 3, ''name'': ''overall_experience'', ''value'': ''overall_experience''}'
+      required: true
+    - id: 4
+      name: how_did_you_feel
+      label: how_did_you_feel
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 5
+      name: how_did_you_like
+      label: how_did_you_like
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: app_store
+      label: app_store
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: what_do_you_recommend
+      label: what_do_you_recommend
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True, ''value'': True}'
+      - '{''id'': 2, ''name'': False, ''value'': False}'
+      - '{''id'': 3, ''name'': ''maybe'', ''value'': ''maybe''}'
+      required: true
+    - id: 8
+      name: have_you_used
+      label: have_you_used
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''before'', ''value'': ''before''}'
+      - '{''id'': 2, ''name'': ''after'', ''value'': ''after''}'
+      - '{''id'': 3, ''name'': ''never'', ''value'': ''never''}'
+      required: true
+    - id: 9
+      name: how_long_did_you
+      label: how_long_did_you
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''less_than_15'', ''value'': ''less_than_15''}'
+      - '{''id'': 2, ''name'': ''more_than_15'', ''value'': ''more_than_15''}'
+      required: true
+    - id: 10
+      name: will_you_use
+      label: will_you_use
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True, ''value'': True}'
+      - '{''id'': 2, ''name'': False, ''value'': False}'
+      - '{''id'': 3, ''name'': ''maybe'', ''value'': ''maybe''}'
+      required: true
+    - id: 11
+      name: how_much_time
+      label: how_much_time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: what_did_we_miss
+      label: what_did_we_miss
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''feature_1'', ''value'': ''feature_1''}'
+      - '{''id'': 2, ''name'': ''feature_2'', ''value'': ''feature_2''}'
+      - '{''id'': 3, ''name'': ''feature_3'', ''value'': ''feature_3''}'
+      - '{''id'': 4, ''name'': ''feature_4'', ''value'': ''feature_4''}'
+      - '{''id'': 5, ''name'': ''feature_5'', ''value'': ''feature_5''}'
+      required: false
+    - id: 13
+      name: what_do_we_miss
+      label: what_do_we_miss
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: what_we_miss
+      label: what_we_miss
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: feedback_comments
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: rating
+      label: rating
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''one'', ''value'': ''one'', ''required'': True}'
+      - '{''id'': 2, ''name'': ''two'', ''value'': ''two''}'
+      - '{''id'': 3, ''name'': ''three'', ''value'': ''three''}'
+      required: true
+    - id: 18
+      name: how_would_rate
+      label: how would rate
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 19
+      name: would_recommend_to_friends
+      label: would recommend to friends
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True, ''value'': True}'
+      - '{''id'': 2, ''name'': False, ''value'': False}'
+      - '{''id'': 3, ''name'': ''maybe'', ''value'': ''maybe''}'
+      required: true
+    - id: 20
+      name: how_much
+      label: how much
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: will_recommend_to_friends
+      label: will recommend to friends
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True, ''value'': True}'
+      - '{''id'': 2, ''name'': False, ''value'': False}'
+      - '{''id'': 3, ''name'': ''maybe'', ''value'': ''maybe''}'
+      required: false
+    - id: 22
+      name: rating_scale
+      label: rating scale
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''scale_1'', ''value'': ''scale_1''}'
+      - '{''id'': 2, ''name'': ''scale_2'', ''value'': ''scale_2''}'
+      - '{''id'': 3, ''name'': ''scale_3'', ''value'': ''scale_3''}'
+      - '{''id'': 4, ''name'': ''scale_4'', ''value'': ''scale_4''}'
+      - '{''id'': 5, ''name'': ''scale_5'', ''value'': ''scale_5''}'
+      required: false
+    - id: 23
+      name: how_long
+      label: how long
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: would_recommend
+      label: would recommend
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True, ''value'': True}'
+      - '{''id'': 2, ''name'': False, ''value'': False}'
+      - '{''id'': 3, ''name'': ''maybe'', ''value'': ''maybe''}'
+      required: false
+    - id: 25
+      name: would_recommend_to_friends_2
+      label: would recommend to friends 2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True, ''value'': True}'
+      - '{''id'': 2, ''name'': False, ''value'': False}'
+      - '{''id'': 3, ''name'': ''maybe'', ''value'': ''maybe''}'
+      required: false

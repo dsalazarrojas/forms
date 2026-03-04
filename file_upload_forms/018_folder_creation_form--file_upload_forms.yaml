@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Folder Creation Form
+    pages:
+    - id: 1
+      name: folder_name
+      label: Folder Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: folder_description
+      label: Folder Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: folder_type
+      label: Folder Type
+      hint: null
+      type: select_one
+      options:
+      - Folder1
+      - Folder2
+      - Folder3
+      required: false
+    - id: 4
+      name: folder_status
+      label: Folder Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false
+    - id: 5
+      name: created_date
+      label: Created Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: created_time
+      label: Created Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: folder_parent
+      label: Folder Parent
+      hint: null
+      type: select_one
+      options:
+      - Folder1
+      - Folder2
+      - Folder3
+      required: false
+    - id: 8
+      name: folder_children
+      label: Folder Children
+      hint: null
+      type: select_multiple
+      options:
+      - Folder1
+      - Folder2
+      - Folder3
+      required: false
+    - id: 9
+      name: folder_location
+      label: Folder Location
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: folder_notes
+      label: Folder Notes
+      hint: null
+      type: note
+      options: []
+      required: false

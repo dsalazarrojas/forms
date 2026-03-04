@@ -1,0 +1,221 @@
+inputSchema:
+  type: object
+  properties:
+    title: Celebrate and Shape Future Events
+    pages:
+    - id: 1
+      name: section_attendee_info
+      label: -- Attendee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: attendee_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: attendee_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: attendee_phone
+      label: Phone Number
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: section_event_reference
+      label: -- Event Reference --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: event_name
+      label: Event Name or Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: section_event_feedback
+      label: -- Event Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: overall_experience
+      label: Overall Event Experience
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Fair
+      - Poor
+      required: true
+    - id: 10
+      name: likelihood_recommend
+      label: Likelihood to Recommend This Event
+      hint: null
+      type: select_one
+      options:
+      - Very Likely
+      - Likely
+      - Neutral
+      - Unlikely
+      - Very Unlikely
+      required: true
+    - id: 11
+      name: section_event_elements
+      label: -- Event Elements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: program_content_rating
+      label: Program Content and Quality
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Fair
+      - Poor
+      required: true
+    - id: 13
+      name: venue_facilities
+      label: Venue and Facilities
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Fair
+      - Poor
+      required: true
+    - id: 14
+      name: food_beverage
+      label: Food and Beverage
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Fair
+      - Poor
+      - N/A
+      required: false
+    - id: 15
+      name: staff_organization
+      label: Staff and Organization
+      hint: Professionalism and helpfulness
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Fair
+      - Poor
+      required: true
+    - id: 16
+      name: section_improvements
+      label: -- Ideas for Improvement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: best_aspects
+      label: What Were the Best Aspects?
+      hint: Highlights and favorite moments
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: improvement_areas
+      label: What Could Be Improved?
+      hint: Suggestions for next time
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_future_events
+      label: -- Ideas for Future Events --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: theme_preferences
+      label: Preferred Event Themes
+      hint: Topics of interest for future events
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: activity_suggestions
+      label: Suggested Activities or Experiences
+      hint: What would you like to see?
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: event_frequency
+      label: Preferred Event Frequency
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Bi-annually
+      - Annually
+      - As Needed
+      required: false
+    - id: 23
+      name: additional_feedback
+      label: Additional Comments or Suggestions
+      hint: Any other feedback
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: future_involvement
+      label: Interested in Helping Plan Future Events?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Maybe
+      required: false
+    - id: 25
+      name: contact_consent
+      label: I consent to be contacted about future events
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

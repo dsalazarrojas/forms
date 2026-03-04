@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Submission Management Survey
+    pages:
+    - id: 1
+      name: submission_management_survey_form
+      label: Submission Management Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: select_user_type
+      label: Select User Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''user''}'
+      - '{''id'': 2, ''value'': ''team-member''}'
+      - '{''id'': 3, ''value'': ''stakeholder''}'
+      required: false
+    - id: 6
+      name: satisfaction_rating
+      label: Satisfaction Rating
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''very-satisfied''}'
+      - '{''id'': 2, ''value'': ''somewhat-satisfied''}'
+      - '{''id'': 3, ''value'': ''neither-satisfied-nor-dissatisfied''}'
+      - '{''id'': 4, ''value'': ''somewhat-dissatisfied''}'
+      - '{''id'': 5, ''value'': ''very-dissatisfied''}'
+      required: false
+    - id: 7
+      name: ease_of_use
+      label: Ease of Use
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''very-easy''}'
+      - '{''id'': 2, ''value'': ''somewhat-easy''}'
+      - '{''id'': 3, ''value'': ''neither-easy-nor-hard''}'
+      - '{''id'': 4, ''value'': ''somewhat-hard''}'
+      - '{''id'': 5, ''value'': ''very-hard''}'
+      required: false
+    - id: 8
+      name: submission_procedure
+      label: Submission Procedure
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''current-procedure''}'
+      - '{''id'': 2, ''value'': ''improved-procedure''}'
+      - '{''id'': 3, ''value'': ''new-procedure''}'
+      required: false
+    - id: 9
+      name: improvement_ideas
+      label: Improvement Ideas
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

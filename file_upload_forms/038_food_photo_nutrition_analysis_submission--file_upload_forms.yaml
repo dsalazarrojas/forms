@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Photo Nutrition Analysis Submission
+    pages:
+    - id: 1
+      name: meal_photo
+      label: Meal Photo
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: food_intake_details
+      label: Food Intake Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: meal_date
+      label: Meal Date
+      hint: null
+      type: date
+      options: []
+      required: false

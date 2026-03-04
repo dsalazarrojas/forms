@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Management Feedback Report
+    pages:
+    - id: 1
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: questions_about_manager
+      label: Questions About Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: manager_behavior
+      label: Manager Behavior
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: motivation
+      label: Motivation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: areas_of_concern
+      label: Areas Of Concern
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: staff_mood
+      label: Staff Mood
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: staff_satisfaction
+      label: Staff Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 9
+      name: report_frequency
+      label: Report Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: manager_comments
+      label: Manager Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: staff_comments
+      label: Staff Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: feedback_frequency
+      label: Feedback Frequency
+      hint: null
+      type: number
+      options: []
+      required: false

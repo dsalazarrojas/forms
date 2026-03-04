@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Winery Donatin Request Form
+    pages:
+    - id: 1
+      name: winery_donatin_request_form
+      label: winery_donatin_request_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: winery_address
+      label: winery_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: winery_contact
+      label: winery_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: donation_request_details
+      label: donation_request_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_dates
+      label: event_dates
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: supporting_documents
+      label: supporting_documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: followup_status
+      label: followup_status
+      hint: null
+      type: select_one
+      options:
+      - Supporting
+      - Not Supporting
+      - Not Reviewed
+      - Reviewing
+      required: false
+    - id: 8
+      name: followup_comments
+      label: followup_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: review_comments
+      label: review_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: event_inquiries
+      label: event_inquiries
+      hint: null
+      type: text
+      options: []
+      required: false

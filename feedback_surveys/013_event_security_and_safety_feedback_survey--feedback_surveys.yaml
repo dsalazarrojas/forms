@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Security And Safety Feedback Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: event security and safety feedback survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: event_type
+      label: event type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''conference''}'
+      - '{''value'': 2, ''label'': ''workshop''}'
+      - '{''value'': 3, ''label'': ''seminar''}'
+      required: false
+    - id: 3
+      name: security_measures
+      label: what measures were taken to ensure security?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''cameras''}'
+      - '{''value'': 2, ''label'': ''security personnel''}'
+      - '{''value'': 3, ''label'': ''barriers''}'
+      required: false
+    - id: 4
+      name: safety_measures
+      label: what measures were taken to ensure safety?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''first aid kits''}'
+      - '{''value'': 2, ''label'': ''emergency exits''}'
+      - '{''value'': 3, ''label'': ''emergency contact information''}'
+      required: false
+    - id: 5
+      name: event_security_rating
+      label: event security rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: event_safety_rating
+      label: event safety rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: feedback
+      label: additional feedback
+      hint: Please provide any additional feedback about your event experience
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_information
+      label: contact information
+      hint: Please enter your name and email address
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: contact_number
+      label: phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: contact_name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: event_name
+      label: event name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: event_date
+      label: event date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: event_location
+      label: event location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: event_time
+      label: event time
+      hint: null
+      type: time
+      options: []
+      required: true

@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lease Flexibility Feedback Survey
+    pages:
+    - id: 1
+      name: survey_intro
+      label: Survey Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: agreement_term_length
+      label: Term Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: flexibility_questions
+      label: Flexibility Questions
+      hint: Please answer the following questions about the lease agreement
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: comments
+      label: Comments
+      hint: Additional comments about the lease agreement
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: tenant_satisfaction
+      label: Tenant Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: manager_satisfaction
+      label: Manager Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: agreement_satisfaction
+      label: Agreement Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lease Documentation Clarity Survey
+    pages:
+    - id: 1
+      name: lease_documentation_clarity
+      label: What is the overall clarity of the document?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: unclear_sections
+      label: Which sections are unclear?
+      hint: null
+      type: select_multiple
+      options:
+      - Please select all that apply
+      - Section 1
+      - Section 2
+      - Section 3
+      - Section 4
+      required: false
+    - id: 3
+      name: rating_scale
+      label: How would you rate the document's clarity?
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 4
+      name: suggestions
+      label: Do you have any suggestions for improvement?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email_input
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

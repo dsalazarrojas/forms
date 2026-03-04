@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: feedback_resolution_complaint_form
+    pages:
+    - id: 1
+      name: complaint_form
+      label: Complaint Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_details
+      label: customer_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: complaint_type
+      label: complaint_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Technical''}'
+      - '{''id'': 2, ''name'': ''Quality''}'
+      - '{''id'': 3, ''name'': ''Service''}'
+      required: false
+    - id: 4
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false

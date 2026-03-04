@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Citizen ID Document Upload Form
+    pages:
+    - id: 1
+      name: citizen_name
+      label: Full Legal Name
+      hint: As it appears on your ID
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: citizen_id_number
+      label: Citizen ID Number
+      hint: Your ID number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Current Address
+      hint: Street, city, state, zip
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: upload_purpose
+      label: Purpose of Document Upload
+      hint: null
+      type: select_one
+      options:
+      - ID verification
+      - Account update
+      - Application submission
+      - Renewal process
+      - Address change
+      - Name change
+      - Other
+      required: true
+    - id: 8
+      name: document_type
+      label: Type of Document
+      hint: null
+      type: select_one
+      options:
+      - National ID card
+      - Passport
+      - Driver's license
+      - Birth certificate
+      - Social security card
+      - Utility bill
+      - Bank statement
+      - Other
+      required: true
+    - id: 9
+      name: document_front
+      label: Upload Front of Document
+      hint: Clear photo or scan
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: document_back
+      label: Upload Back of Document
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: file_format
+      label: File Format
+      hint: null
+      type: select_one
+      options:
+      - PDF
+      - JPG
+      - PNG
+      - TIFF
+      required: true
+    - id: 12
+      name: file_size
+      label: File Size
+      hint: In MB
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: document_quality
+      label: Document Quality Confirmation
+      hint: Is the document clearly readable
+      type: select_one
+      options:
+      - Yes, fully readable
+      - Mostly readable
+      - Some parts unclear
+      required: true
+    - id: 14
+      name: expiration_date
+      label: Document Expiration Date
+      hint: If applicable
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: issuing_authority
+      label: Issuing Authority
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: issue_date
+      label: Document Issue Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: additional_documents
+      label: Do You Need to Upload Additional Documents
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: additional_document_types
+      label: List Additional Document Types
+      hint: If yes
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: privacy_consent
+      label: Privacy Consent
+      hint: I consent to secure document handling
+      type: select_one
+      options:
+      - I consent
+      - I do not consent
+      required: true
+    - id: 20
+      name: accuracy_statement
+      label: Accuracy Statement
+      hint: I confirm all information is accurate
+      type: select_one
+      options:
+      - I confirm accuracy
+      - I need to make corrections
+      required: true
+    - id: 21
+      name: signature
+      label: Digital Signature
+      hint: Type your full name
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: submission_date
+      label: Date of Submission
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: additional_comments
+      label: Any Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

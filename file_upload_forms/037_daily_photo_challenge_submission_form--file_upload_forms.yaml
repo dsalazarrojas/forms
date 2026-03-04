@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Photo Challenge Submission Form
+    pages:
+    - id: 1
+      name: photo_upload
+      label: Select a File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: description
+      label: Enter Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: entry_type
+      label: Challenge Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

@@ -1,0 +1,254 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Brainstorming Feedback Form
+    pages:
+      - id: 1
+        name: participant_first_name
+        label: First Name
+        hint: Your first name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: participant_last_name
+        label: Last Name
+        hint: Your last name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: email
+        label: Email Address
+        hint: For follow-up communications
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: department
+        label: Department
+        hint: Your department or team
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: session_date
+        label: Session Date
+        hint: Date of brainstorming session
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: session_topic
+        label: Session Topic
+        hint: What was the main topic
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: session_facilitator
+        label: Session Facilitator
+        hint: Name of facilitator
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: session_duration
+        label: Session Duration
+        hint: How long was the session
+        type: select_one
+        options:
+          - Less than 30 minutes
+          - 30-60 minutes
+          - 1-2 hours
+          - 2-4 hours
+          - More than 4 hours
+        required: true
+      - id: 9
+        name: overall_satisfaction
+        label: Overall Satisfaction
+        hint: How satisfied were you with the session
+        type: select_one
+        options:
+          - Very satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very dissatisfied
+        required: true
+      - id: 10
+        name: objectives_clarity
+        label: Objectives Clarity
+        hint: Were session objectives clear
+        type: select_one
+        options:
+          - Very clear
+          - Clear
+          - Somewhat clear
+          - Unclear
+          - Very unclear
+        required: true
+      - id: 11
+        name: facilitator_effectiveness
+        label: Facilitator Effectiveness
+        hint: Rate the facilitator
+        type: select_one
+        options:
+          - Excellent
+          - Very good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 12
+        name: idea_generation
+        label: Idea Generation
+        hint: How effective was idea generation
+        type: select_one
+        options:
+          - Very effective
+          - Effective
+          - Neutral
+          - Ineffective
+          - Very ineffective
+        required: true
+      - id: 13
+        name: participation_level
+        label: Your Participation Level
+        hint: How much did you participate
+        type: select_one
+        options:
+          - Very active
+          - Active
+          - Moderate
+          - Minimal
+          - Did not participate
+        required: true
+      - id: 14
+        name: group_dynamics
+        label: Group Dynamics
+        hint: Rate the group interaction
+        type: select_one
+        options:
+          - Excellent
+          - Very good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 15
+        name: environment_rating
+        label: Environment Rating
+        hint: Rate the physical or virtual environment
+        type: select_one
+        options:
+          - Excellent
+          - Very good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 16
+        name: time_management
+        label: Time Management
+        hint: Was time well managed
+        type: select_one
+        options:
+          - Excellent
+          - Very good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 17
+        name: tools_techniques
+        label: Tools and Techniques
+        hint: Were brainstorming tools helpful
+        type: select_one
+        options:
+          - Very helpful
+          - Helpful
+          - Neutral
+          - Not helpful
+          - Hindering
+        required: true
+      - id: 18
+        name: ideas_documented
+        label: Ideas Documented
+        hint: Were ideas well documented
+        type: select_one
+        options:
+          - Yes, thoroughly
+          - Yes, adequately
+          - Somewhat
+          - No
+        required: true
+      - id: 19
+        name: actionable_outcomes
+        label: Actionable Outcomes
+        hint: Did session produce actionable items
+        type: select_one
+        options:
+          - Yes, many
+          - Yes, some
+          - Few
+          - None
+        required: true
+      - id: 20
+        name: best_part
+        label: Best Part of Session
+        hint: What worked well
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: areas_improvement
+        label: Areas for Improvement
+        hint: What could be better
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: favorite_technique
+        label: Favorite Technique Used
+        hint: Which technique did you prefer
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: suggestions_future
+        label: Suggestions for Future Sessions
+        hint: Any recommendations
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: would_participate_again
+        label: Would Participate Again
+        hint: Would you join future sessions
+        type: select_one
+        options:
+          - Definitely yes
+          - Probably yes
+          - Not sure
+          - Probably no
+          - Definitely no
+        required: true
+      - id: 25
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback
+        type: text
+        options: []
+        required: false

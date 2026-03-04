@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Safety Meeting Checklist
+    pages:
+    - id: 1
+      name: meeting_topic
+      label: Meeting Topic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: meeting_location
+      label: Meeting Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: meeting_attendees
+      label: Meeting Attendees
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: meeting_time
+      label: Meeting Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: safety_officer
+      label: Safety Officer
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''John Smith''}'
+      - '{''label'': ''Jane Doe''}'
+      - '{''label'': ''Jim Brown''}'
+      required: false
+    - id: 6
+      name: safety_meeting_notes
+      label: Safety Meeting Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: action_items
+      label: Action Items
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: next_meeting
+      label: Next Meeting
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Trust And Loyalty Survey
+    pages:
+    - id: 1
+      name: employee_survey
+      label: Employee Survey
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: trust_questions
+      label: Trust Questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: loyalty_questions
+      label: Loyalty Questions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: engagement_questions
+      label: Engagement Questions
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: company_info
+      label: Company Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: employee_info
+      label: Employee Info
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: department_info
+      label: Department Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: job_title
+      label: Job Title
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: manager_info
+      label: Manager Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: reporting_line
+      label: Reporting Line
+      hint: null
+      type: text
+      options: []
+      required: false

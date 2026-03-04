@@ -1,0 +1,162 @@
+inputSchema:
+  type: object
+  properties:
+    title: Artist Page Information Form
+    pages:
+    - id: 1
+      name: artist_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: artist_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: artist_stage_name
+      label: Stage Name or Artist Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: artist_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: website_url
+      label: Website URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: instagram_handle
+      label: Instagram Handle
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: twitter_handle
+      label: Twitter Handle
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: youtube_channel
+      label: YouTube Channel URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: spotify_profile
+      label: Spotify Artist Profile URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: primary_genre
+      label: Primary Genre or Style
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: subgenres
+      label: Sub-genres or Related Styles
+      hint: Comma-separated list
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: biography
+      label: Artist Biography
+      hint: 150-300 words
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: years_in_industry
+      label: Years in Industry
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: notable_achievements
+      label: Notable Achievements or Awards
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: profile_photo
+      label: Profile Photo Upload
+      hint: Professional headshot or portrait
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: artist_images
+      label: Additional Artist Images
+      hint: Performance photos, behind-the-scenes
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: recent_releases
+      label: Recent Releases or Projects
+      hint: Latest album, single, exhibition
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: upcoming_events
+      label: Upcoming Events or Performances
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: collaboration_interests
+      label: Open to Collaborations
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Specific Types Only
+      required: false
+    - id: 21
+      name: booking_availability
+      label: Booking Availability
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: additional_information
+      label: Additional Information or Special Notes
+      hint: null
+      type: text
+      options: []
+      required: false

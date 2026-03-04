@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Sitter Feedback Form
+    pages:
+    - id: 1
+      name: visit_date
+      label: Visit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: pet_name
+      label: Pet Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: visit_type
+      label: Visit Type
+      hint: null
+      type: select_one
+      options:
+      - Home Visit
+      - In-Home Visit
+      - At-Home Visit
+      required: false
+    - id: 4
+      name: sitter_name
+      label: Sitter Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: sitter_rating
+      label: Sitter Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: follow_up_request
+      label: Follow Up Request
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 8
+      name: service_quality
+      label: Service Quality
+      hint: null
+      type: select_multiple
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 9
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: pet_owner_signature
+      label: Pet Owner Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: sitter_signature
+      label: Sitter Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: date_modified
+      label: Date Modified
+      hint: null
+      type: time
+      options: []
+      required: false

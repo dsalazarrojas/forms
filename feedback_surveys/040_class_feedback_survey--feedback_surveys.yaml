@@ -1,0 +1,223 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Class Feedback Survey
+    pages:
+      - id: 1
+        name: student_name
+        label: Your Name
+        hint: Optional - anonymous option available
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: email_address
+        label: Email Address
+        hint: Optional - for follow-up
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: class_name
+        label: Class Name
+        hint: Which class is this for
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: instructor_name
+        label: Instructor Name
+        hint: Teacher or professor
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: semester_term
+        label: Semester or Term
+        hint: When did you take this class
+        type: select_one
+        options:
+          - Fall 2025
+          - Spring 2026
+          - Summer 2026
+          - Fall 2026
+          - Other
+        required: true
+      - id: 6
+        name: attendance_frequency
+        label: How Often Did You Attend Class
+        hint: Your attendance rate
+        type: select_one
+        options:
+          - Almost always
+          - Most of the time
+          - About half the time
+          - Rarely
+          - Never attended
+        required: true
+      - id: 7
+        name: engagement_level
+        label: How Engaged Did You Feel
+        hint: During class
+        type: select_one
+        options:
+          - Very engaged
+          - Engaged
+          - Neutral
+          - Disengaged
+          - Very disengaged
+        required: true
+      - id: 8
+        name: content_understanding
+        label: How Well Do You Understand the Content
+        hint: Self-assessment
+        type: select_one
+        options:
+          - Very well
+          - Well
+          - Adequately
+          - Poorly
+          - Very poorly
+        required: true
+      - id: 9
+        name: workload_rating
+        label: How Would You Rate the Workload
+        hint: Amount of work
+        type: select_one
+        options:
+          - Too light
+          - Light
+          - Just right
+          - Heavy
+          - Too heavy
+        required: true
+      - id: 10
+        name: difficulty_rating
+        label: How Difficult Was the Class
+        hint: For you
+        type: select_one
+        options:
+          - Very easy
+          - Easy
+          - Moderate
+          - Difficult
+          - Very difficult
+        required: true
+      - id: 11
+        name: instructor_clarity
+        label: How Clear Was the Instructor
+        hint: In explanations
+        type: select_one
+        options:
+          - Very clear
+          - Clear
+          - Neutral
+          - Unclear
+          - Very unclear
+        required: true
+      - id: 12
+        name: instructor_availability
+        label: How Available Was the Instructor
+        hint: For questions and help
+        type: select_one
+        options:
+          - Very available
+          - Available
+          - Neutral
+          - Not very available
+          - Not available at all
+        required: true
+      - id: 13
+        name: feedback_helpfulness
+        label: How Helpful Was the Feedback You Received
+        hint: On assignments and exams
+        type: select_one
+        options:
+          - Very helpful
+          - Helpful
+          - Neutral
+          - Not very helpful
+          - Not helpful at all
+        required: true
+      - id: 14
+        name: materials_quality
+        label: Quality of Class Materials
+        hint: Textbook, slides, handouts
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+          - Very poor
+        required: true
+      - id: 15
+        name: what_learned
+        label: What Did You Learn Most
+        hint: Key takeaways
+        type: text
+        options: []
+        required: true
+      - id: 16
+        name: liked_most
+        label: What Did You Like Most
+        hint: Best aspects
+        type: text
+        options: []
+        required: true
+      - id: 17
+        name: liked_least
+        label: What Did You Like Least
+        hint: Areas for improvement
+        type: text
+        options: []
+        required: true
+      - id: 18
+        name: suggestions
+        label: What Suggestions Do You Have
+        hint: For improving the class
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: would_recommend
+        label: Would You Recommend This Class
+        hint: To other students
+        type: select_one
+        options:
+          - Definitely yes
+          - Probably yes
+          - Neutral
+          - Probably not
+          - Definitely not
+        required: true
+      - id: 20
+        name: would_take_again
+        label: Would You Take Another Class With This Instructor
+        hint: Based on your experience
+        type: select_one
+        options:
+          - Definitely yes
+          - Probably yes
+          - Neutral
+          - Probably not
+          - Definitely not
+        required: true
+      - id: 21
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback
+        type: text
+        options: []
+        required: false

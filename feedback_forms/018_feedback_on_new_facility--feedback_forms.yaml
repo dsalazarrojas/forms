@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Feedback On New Facility
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: facility_rating
+      label: Facility Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: satisfaction_rating
+      label: Satisfaction Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: visit_date
+      label: Visit Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: facility_id
+      label: Facility ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: facility_location
+      label: Facility Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: facility_type
+      label: Facility Type
+      hint: null
+      type: select_one
+      options:
+      - Office
+      - Restaurant
+      - Hotel
+      - School
+      - Other
+      required: true
+    - id: 13
+      name: facility_size
+      label: Facility Size
+      hint: null
+      type: select_multiple
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 14
+      name: visited_hours
+      label: Visited Hours
+      hint: null
+      type: number
+      options: []
+      required: true

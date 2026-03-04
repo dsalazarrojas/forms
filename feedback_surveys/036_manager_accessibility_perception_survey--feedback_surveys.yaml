@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Manager Accessibility Perception Survey
+    pages:
+    - id: 1
+      name: manager_approachability
+      label: Manager Approachability
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: responsiveness
+      label: Responsiveness
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: communication_style
+      label: Communication Style
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: manager_response
+      label: Manager Response
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: communication_frequency
+      label: Communication Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: manager_availability
+      label: Manager Availability
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: email_frequency
+      label: Email Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,33 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Site Guide Survey
+    pages:
+    - id: 1
+      name: welcome_message
+      label: Welcome Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tour_experience
+      label: How would you rate your virtual tour experience?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: improvement_suggestions
+      label: What are your suggestions for us?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Contact Information (Email Address)
+      hint: null
+      type: email
+      options: []
+      required: false

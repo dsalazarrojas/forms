@@ -1,0 +1,156 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Album Concept Submission Form
+    pages:
+    - id: 1
+      name: section_artist
+      label: -- Artist and Project Identity --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: artist_name
+      label: Artist or Band Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person
+      label: Contact Person (Manager/Lead Artist)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: project_working_title
+      label: Project Working Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: primary_genre
+      label: Primary Genre
+      hint: null
+      type: select_one
+      options:
+      - Pop
+      - Rock
+      - Hip Hop/Rap
+      - Electronic/Dance
+      - Jazz/Soul
+      - Classical/Ambient
+      - Alternative/Indie
+      - Other
+      required: true
+    - id: 7
+      name: section_concept
+      label: -- Project Concept --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: album_type
+      label: Type of Release
+      hint: null
+      type: select_one
+      options:
+      - Full Length Album (10+ tracks)
+      - EP (3-6 tracks)
+      - Single Project
+      - Mixtape/Concept Piece
+      required: true
+    - id: 9
+      name: concept_summary
+      label: Creative Concept Summary
+      hint: Describe the theme, mood, and story of the project
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: target_audience
+      label: Target Audience Description
+      hint: Who is this music for?
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: influences_comparison
+      label: Artistic Influences or Similar Artists
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: section_assets
+      label: -- Assets and Timeline --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: demo_link
+      label: Link to Demo Recordings
+      hint: e.g. SoundCloud, Dropbox, Drive (Ensure permissions are open)
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: recording_status
+      label: Current Recording Status
+      hint: null
+      type: select_one
+      options:
+      - Concept Only
+      - Early Demos
+      - Pre-production
+      - Partially Recorded
+      - Fully Recorded (Needs Mix/Master)
+      required: true
+    - id: 15
+      name: estimated_release_date
+      label: Desired Release Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: budget_expectations
+      label: Budget for Marketing and Distribution
+      hint: null
+      type: select_one
+      options:
+      - Under $1,000
+      - $1,000 - $5,000
+      - $5,000 - $20,000
+      - $20,000+
+      required: false
+    - id: 17
+      name: additional_comments
+      label: Additional Information for Label/Management
+      hint: null
+      type: text
+      options: []
+      required: false

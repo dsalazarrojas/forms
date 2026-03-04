@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: software_tool_release_it_professional_feedback_form
+    pages:
+    - id: 1
+      name: tool_name
+      label: Software Tool Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tool_version
+      label: Tool Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: feedback_rating
+      label: Feedback Rating (1-5)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: satisfaction_level
+      label: Satisfaction Level (1-5)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: issues_encountered
+      label: Issues Encountered
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: issue_impact_level
+      label: Issue Impact Level (1-5)
+      hint: null
+      type: number
+      options: []
+      required: false

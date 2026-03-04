@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wildlife Health Outreach Effectiveness Survey
+    pages:
+    - id: 1
+      name: wildlife_health_outreach_survey
+      label: Wildlife Health Outreach Survey
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: wildlife_health_outreach_effectiveness_survey
+      label: How do you rate your knowledge on Wildlife Health Outreach before this
+        session?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: wildlife_health_outreach_effectiveness_survey
+      label: What did you learn about wildlife health during this session?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: wildlife_health_outreach_session
+      label: What type of wildlife health topics were covered during this session?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: wildlife_health_outreach_outcomes
+      label: What outcomes or results do you think will come from this outreach session?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: wildlife_health_outreach_next_steps
+      label: What are the next steps or follow-up actions you would like to see after
+        this session?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: wildlife_healthistency_rating
+      label: How would you rate the effectiveness of this wildlife health outreach
+        session?
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

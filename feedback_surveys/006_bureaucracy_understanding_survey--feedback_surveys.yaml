@@ -1,0 +1,221 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Bureaucracy Understanding Survey
+    pages:
+      - id: 1
+        name: respondent_info
+        label: Respondent Information
+        hint: Your details
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: full_name
+        label: Full Name
+        hint: Your full name - optional
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: organization
+        label: Organization
+        hint: Name of your organization
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: role
+        label: Role or Position
+        hint: Your job title or position
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: department
+        label: Department
+        hint: Your department or division
+        type: select_one
+        options:
+        - Administration
+        - Operations
+        - Human Resources
+        - Finance
+        - IT
+        - Legal
+        - Other
+        required: false
+      - id: 6
+        name: experience_assessment
+        label: Experience Assessment
+        hint: Your experience with bureaucratic processes
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: years_in_organization
+        label: Years in Organization
+        hint: How long have you worked here
+        type: select_one
+        options:
+        - Less than 1 year
+        - 1-3 years
+        - 3-5 years
+        - 5-10 years
+        - More than 10 years
+        required: true
+      - id: 8
+        name: process_clarity
+        label: Process Clarity
+        hint: How clear are organizational processes
+        type: select_one
+        options:
+        - Very Clear
+        - Clear
+        - Somewhat Clear
+        - Unclear
+        - Very Unclear
+        required: true
+      - id: 9
+        name: approval_efficiency
+        label: Approval Efficiency
+        hint: How efficient are approval processes
+        type: select_one
+        options:
+        - Very Efficient
+        - Efficient
+        - Neutral
+        - Inefficient
+        - Very Inefficient
+        required: true
+      - id: 10
+        name: documentation_burden
+        label: Documentation Burden
+        hint: How burdensome is documentation
+        type: select_one
+        options:
+        - Minimal Burden
+        - Manageable
+        - Moderate Burden
+        - Heavy Burden
+        - Excessive Burden
+        required: true
+      - id: 11
+        name: communication_effectiveness
+        label: Communication Effectiveness
+        hint: How effective is organizational communication
+        type: select_one
+        options:
+        - Very Effective
+        - Effective
+        - Neutral
+        - Ineffective
+        - Very Ineffective
+        required: true
+      - id: 12
+        name: decision_making
+        label: Decision Making Speed
+        hint: How would you rate decision making speed
+        type: select_one
+        options:
+        - Very Fast
+        - Fast
+        - Acceptable
+        - Slow
+        - Very Slow
+        required: true
+      - id: 13
+        name: red_tape_perception
+        label: Red Tape Perception
+        hint: How much red tape do you encounter
+        type: select_one
+        options:
+        - Very Little
+        - Some
+        - Moderate Amount
+        - A Lot
+        - Excessive
+        required: true
+      - id: 14
+        name: improvement_areas
+        label: Areas Needing Improvement
+        hint: Select areas that need improvement
+        type: select_multiple
+        options:
+        - Approval Processes
+        - Documentation Requirements
+        - Communication Channels
+        - Decision Making
+        - Policy Clarity
+        - Resource Allocation
+        - Interdepartmental Coordination
+        - Technology Systems
+        required: true
+      - id: 15
+        name: biggest_challenges
+        label: Biggest Bureaucratic Challenges
+        hint: What are the biggest challenges you face
+        type: text
+        options: []
+        required: true
+      - id: 16
+        name: process_suggestions
+        label: Process Improvement Suggestions
+        hint: How can processes be improved
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: training_needs
+        label: Training Needs
+        hint: Do you need training on processes
+        type: select_one
+        options:
+        - No Training Needed
+        - Process Overview
+        - System Training
+        - Policy Training
+        - Comprehensive Training
+        required: true
+      - id: 18
+        name: overall_satisfaction
+        label: Overall Satisfaction
+        hint: How satisfied are you with current processes
+        type: select_one
+        options:
+        - Very Satisfied
+        - Satisfied
+        - Neutral
+        - Dissatisfied
+        - Very Dissatisfied
+        required: true
+      - id: 19
+        name: recommend_changes
+        label: Would You Recommend Changes
+        hint: Should major changes be made
+        type: select_one
+        options:
+        - No - Current System Works
+        - Minor Changes Only
+        - Moderate Changes
+        - Major Overhaul Needed
+        - Complete Redesign
+        required: true
+      - id: 20
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback
+        type: text
+        options: []
+        required: false

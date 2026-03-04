@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Surprise Album Feedback Form
+    pages:
+    - id: 1
+      name: album_title
+      label: What's The Album Title?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: release_date
+      label: Release Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: rating
+      label: Rate The Album
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: favorite_track
+      label: Favorite Track
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Track 1''}'
+      - '{2: ''Track 2''}'
+      - '{3: ''Track 3''}'
+      - '{4: ''Track 4''}'
+      - '{5: ''Track 5''}'
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

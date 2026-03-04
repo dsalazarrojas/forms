@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: Access Control Feedback Form
+    pages:
+    - id: 1
+      name: section_user
+      label: -- User Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: user_name
+      label: Full Name
+      hint: Optional field
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: user_role
+      label: Your Role
+      hint: Select your primary role in the building
+      type: select_one
+      options:
+      - Employee
+      - Visitor
+      - Contractor
+      - Security Staff
+      required: true
+    - id: 4
+      name: section_performance
+      label: -- System Performance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: card_reader_reliability
+      label: Rate the reliability of card readers
+      hint: Technical performance
+      type: select_one
+      options:
+      - Very Reliable
+      - Mostly Reliable
+      - Occasional Issues
+      - Unreliable
+      required: true
+    - id: 6
+      name: gate_response_speed
+      label: Rate the speed of gate or door response after scan
+      hint: Efficiency of movement
+      type: select_one
+      options:
+      - Fast
+      - Adequate
+      - Slow
+      - Very Slow
+      required: true
+    - id: 7
+      name: software_interface_ease
+      label: If using a mobile app or portal, rate the ease of use
+      hint: Digital user experience
+      type: select_one
+      options:
+      - Very Easy
+      - Average
+      - Difficult
+      - N/A
+      required: false
+    - id: 8
+      name: section_security_ux
+      label: -- Security and UX --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: feeling_of_security
+      label: Do you feel the current access control measures are effective?
+      hint: Perception of safety
+      type: select_one
+      options:
+      - Very Effective
+      - Somewhat Effective
+      - Ineffective
+      required: true
+    - id: 10
+      name: common_issues
+      label: Select any issues you regularly face
+      hint: Check all that apply
+      type: select_multiple
+      options:
+      - Reader not scanning
+      - Delayed response
+      - Forgotten PIN
+      - App crashing
+      - Physical gate jammed
+      required: false
+    - id: 11
+      name: issue_description
+      label: Describe any specific technical issues in detail
+      hint: Provide context if possible
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: section_improvements
+      label: -- Improvements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: suggested_improvements
+      label: What one thing would you change about our access control system?
+      hint: Constructive feedback
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_final
+      label: -- Overall Satisfaction --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: overall_ux_rating
+      label: Overall User Experience Rating 1-10
+      hint: Enter a number from 1 to 10
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: follow_up_permission
+      label: May we contact you for further details on your feedback?
+      hint: Permission for deeper research
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

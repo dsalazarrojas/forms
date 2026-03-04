@@ -1,0 +1,289 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Building Accessibility Experience Survey
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Your Name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: email
+        label: Email Address
+        hint: For follow-up if needed
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: visit_date
+        label: Date of Visit
+        hint: When did you visit
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: building_name
+        label: Building Name
+        hint: Which building
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: visit_purpose
+        label: Purpose of Visit
+        hint: Why did you visit
+        type: select_one
+        options:
+          - Business Meeting
+          - Shopping
+          - Medical Appointment
+          - Government Services
+          - Entertainment
+          - Education
+          - Delivery
+          - Other
+        required: true
+      - id: 6
+        name: mobility_aid
+        label: Mobility Aid Used
+        hint: If applicable
+        type: select_one
+        options:
+          - None
+          - Wheelchair
+          - Walker
+          - Cane
+          - Crutches
+          - Scooter
+          - Service Animal
+          - Other
+        required: true
+      - id: 7
+        name: parking_accessibility
+        label: Parking Accessibility Rating
+        hint: Rate accessible parking
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Poor
+          - Very Poor
+          - Not Applicable
+        required: true
+      - id: 8
+        name: entrance_accessibility
+        label: Entrance Accessibility
+        hint: Rate building entrance
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Poor
+          - Very Poor
+        required: true
+      - id: 9
+        name: door_access
+        label: Door Access
+        hint: Ease of door operation
+        type: select_one
+        options:
+          - Very Easy
+          - Easy
+          - Moderate
+          - Difficult
+          - Very Difficult
+          - Unable to Access
+        required: true
+      - id: 10
+        name: elevator_accessibility
+        label: Elevator Accessibility
+        hint: Rate elevator access
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Poor
+          - Very Poor
+          - Not Available
+          - Not Used
+        required: true
+      - id: 11
+        name: ramp_condition
+        label: Ramp Condition
+        hint: Quality of ramps
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Poor
+          - Very Poor
+          - Not Available
+          - Not Used
+        required: true
+      - id: 12
+        name: restroom_accessibility
+        label: Restroom Accessibility
+        hint: Rate accessible restrooms
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Poor
+          - Very Poor
+          - Not Available
+          - Not Used
+        required: true
+      - id: 13
+        name: signage_clarity
+        label: Signage Clarity
+        hint: Visibility and clarity of signs
+        type: select_one
+        options:
+          - Very Clear
+          - Clear
+          - Average
+          - Unclear
+          - Very Unclear
+        required: true
+      - id: 14
+        name: braille_signage
+        label: Braille Signage
+        hint: Availability of braille signs
+        type: select_one
+        options:
+          - Available Throughout
+          - Available in Some Areas
+          - Limited Availability
+          - Not Available
+          - Did Not Notice
+        required: true
+      - id: 15
+        name: lighting_quality
+        label: Lighting Quality
+        hint: Adequacy of lighting
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Poor
+          - Very Poor
+        required: true
+      - id: 16
+        name: floor_surface
+        label: Floor Surface Condition
+        hint: Ease of navigation
+        type: select_one
+        options:
+          - Very Easy to Navigate
+          - Easy to Navigate
+          - Average
+          - Difficult to Navigate
+          - Very Difficult
+        required: true
+      - id: 17
+        name: staff_assistance
+        label: Staff Assistance
+        hint: Helpfulness of staff
+        type: select_one
+        options:
+          - Very Helpful
+          - Helpful
+          - Neutral
+          - Unhelpful
+          - Very Unhelpful
+          - No Interaction
+        required: true
+      - id: 18
+        name: barriers_encountered
+        label: Barriers Encountered
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - None
+          - Steps Without Ramps
+          - Narrow Doorways
+          - Heavy Doors
+          - Poor Signage
+          - Inaccessible Restrooms
+          - Broken Elevators
+          - Obstructed Pathways
+          - Inadequate Lighting
+          - Poor Parking Access
+        required: true
+      - id: 19
+        name: positive_features
+        label: Positive Features Noted
+        hint: What worked well
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: improvement_suggestions
+        label: Suggestions for Improvement
+        hint: Your recommendations
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: overall_experience
+        label: Overall Accessibility Experience
+        hint: Overall rating
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Poor
+          - Very Poor
+        required: true
+      - id: 22
+        name: would_return
+        label: Would You Return
+        hint: Based on accessibility
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Maybe
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 23
+        name: would_recommend
+        label: Would You Recommend
+        hint: To others with accessibility needs
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Maybe
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 24
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback
+        type: text
+        options: []
+        required: false

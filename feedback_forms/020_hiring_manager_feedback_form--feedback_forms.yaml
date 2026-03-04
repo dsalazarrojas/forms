@@ -1,0 +1,33 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hiring Manager Feedback Form
+    pages:
+    - id: 1
+      name: candidate_rating
+      label: candidate_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: candidate_score
+      label: overall_score
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: candidate_comments
+      label: candidate_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: manager_comments
+      label: manager_comments
+      hint: null
+      type: note
+      options: []
+      required: false

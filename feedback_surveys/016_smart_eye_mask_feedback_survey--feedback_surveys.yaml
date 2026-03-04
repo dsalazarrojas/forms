@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: smart_eye_mask_feedback_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Welcome to the Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_rating
+      label: Rate our product
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: product_suggestions
+      label: What do you think we could improve?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: satisfaction
+      label: How satisfied are you with our product?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Satisfied''}'
+      - '{''label'': ''Somewhat Satisfied''}'
+      - '{''label'': ''Not Satisfied''}'
+      required: true
+    - id: 5
+      name: contact_us
+      label: Do you have any other questions or comments?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: What is your email address?
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: What is your phone number?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: demographics
+      label: What is your age?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: gender
+      label: What is your gender?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Male''}'
+      - '{''label'': ''Female''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 10
+      name: occupation
+      label: What is your occupation?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: date_of_birth
+      label: What is your date of birth?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: time
+      label: What time do you prefer to use our product?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: date
+      label: When did you first start using our product?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: note
+      label: Do you have any other comments?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: email_confirmation
+      label: Is this your email address?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: phone_confirmation
+      label: Is this your phone number?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: time_confirmation
+      label: Is this your preferred time of day?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: date_confirmation
+      label: Is this your correct date of birth?
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: gender_confirmation
+      label: Is this your correct gender?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Male''}'
+      - '{''label'': ''Female''}'
+      - '{''label'': ''Other''}'
+      required: true
+    - id: 20
+      name: occupation_confirmation
+      label: Is this your occupation?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Employee''}'
+      - '{''label'': ''Student''}'
+      - '{''label'': ''Self-Employed''}'
+      - '{''label'': ''Retiree''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 21
+      name: email_validation
+      label: Is this a valid email address?
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 22
+      name: phone_validation
+      label: Is this a valid phone number?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: time_validation
+      label: Is this a valid time?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: date_validation
+      label: Is this a valid date?
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: submission
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true

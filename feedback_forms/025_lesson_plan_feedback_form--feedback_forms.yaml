@@ -1,0 +1,67 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Lesson Plan Feedback Form
+    pages:
+    - id: 1
+      name: lesson_plan_feedback
+      label: How was this lesson plan?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Neutral
+      - Poor
+      - Bad
+      required: false
+    - id: 2
+      name: lesson_plan_structure
+      label: What was the lesson plan structured?
+      hint: null
+      type: select_multiple
+      options:
+      - Well-organized
+      - Disorganized
+      - Too long
+      - Too short
+      required: false
+    - id: 3
+      name: teacher_performance
+      label: What was your experience with the teacher?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Neutral
+      - Poor
+      - Bad
+      required: false
+    - id: 4
+      name: feedback_to_teacher
+      label: Do you have any feedback for the teacher?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: lesson_plan_materials
+      label: Were the materials helpful?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

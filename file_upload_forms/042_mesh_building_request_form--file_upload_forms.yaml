@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mesh Building Request Form
+    pages:
+    - id: 1
+      name: form_details
+      label: Form Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: mesh_type
+      label: Mesh Type
+      hint: null
+      type: select_one
+      options:
+      - I-beam mesh
+      - Triangular mesh
+      - Semi-rigid mesh
+      - Hybrid mesh
+      required: false
+    - id: 3
+      name: mesh_size
+      label: Mesh Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: fabrication_method
+      label: Fabrication Method
+      hint: null
+      type: select_multiple
+      options:
+      - Water jet cutting
+      - Laser cutting
+      - CNC machining
+      - 3D printing
+      required: false
+    - id: 5
+      name: material
+      label: Material
+      hint: null
+      type: select_multiple
+      options:
+      - Aluminum
+      - Steel
+      - Titanium
+      - Copper
+      required: false
+    - id: 6
+      name: quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: file_upload
+      label: File Upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: requestor_name
+      label: Requestor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: requested_date
+      label: Requested Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: requested_time
+      label: Requested Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: follow_up_frequency
+      label: Follow-up Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Every 1 week
+      - Every 2 weeks
+      - Every 3 weeks
+      required: false
+    - id: 16
+      name: follow_up_method
+      label: Follow-up Method
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - Meeting
+      required: false
+    - id: 17
+      name: follow_up_comments
+      label: Follow-up Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Completed
+      - On Hold
+      required: false
+    - id: 20
+      name: project_notes
+      label: Project Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: requestor_comments
+      label: Requestor Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: requestor_company
+      label: Requestor Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: project_manager_name
+      label: Project Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

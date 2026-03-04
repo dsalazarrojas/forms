@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Universal Problem Solving Survey
+    pages:
+    - id: 1
+      name: feedback_question
+      label: Feedback Question
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: problem_description
+      label: Problem Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: solutions
+      label: Solutions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: rating_score
+      label: Rating Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: rating_comment
+      label: Rating Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false

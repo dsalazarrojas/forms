@@ -1,0 +1,104 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Patient Discharge Feedback Form
+    pages:
+    - id: 1
+      name: patient_discharge_form_1
+      label: Feedback on Discharge
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_discharge_form_2
+      label: How would you rate your overall satisfaction with the care provided?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Very Good''}'
+      - '{''id'': 2, ''label'': ''Neutral''}'
+      - '{''id'': 3, ''label'': ''Very Bad''}'
+      required: false
+    - id: 3
+      name: patient_discharge_form_3
+      label: Was the care team approachable and friendly?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''No Response''}'
+      required: false
+    - id: 4
+      name: patient_discharge_form_4
+      label: Was the care team responsive to your questions?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 5
+      name: patient_discharge_form_5
+      label: Was the environment clean and safe?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Very Good''}'
+      - '{''id'': 2, ''label'': ''Neutral''}'
+      - '{''id'': 3, ''label'': ''Very Bad''}'
+      required: false
+    - id: 6
+      name: patient_discharge_form_6
+      label: Was the care team knowledgeable?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Very Good''}'
+      - '{''id'': 2, ''label'': ''Neutral''}'
+      - '{''id'': 3, ''label'': ''Very Bad''}'
+      required: false
+    - id: 7
+      name: patient_discharge_form_7
+      label: Were all your questions answered?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 8
+      name: patient_discharge_form_8
+      label: Was the discharge process smooth?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 9
+      name: patient_discharge_form_9
+      label: Do you have any additional feedback or comments?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: patient_discharge_form_10
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false

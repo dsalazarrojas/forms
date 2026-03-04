@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Physiotherapy Session Feedback Form
+    pages:
+    - id: 1
+      name: physiotherapy_session_feedback_form_physiotherapy_session_feedback_form
+      label: physiotherapy_session_feedback_form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: physiotherapy_session_feedback_form_patient_id
+      label: Patient ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: physiotherapy_session_feedback_form_session_duration
+      label: Session duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: physiotherapy_session_feedback_form_session_date
+      label: Session date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: physiotherapy_session_feedback_form_session_time
+      label: Session time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: physiotherapy_session_feedback_form_physiotherapist
+      label: Physiotherapist
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Physiotherapist A''}'
+      - '{''value'': ''Physiotherapist B''}'
+      - '{''value'': ''Physiotherapist C''}'
+      required: false
+    - id: 7
+      name: physiotherapy_session_feedback_form_patient
+      label: Patient
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Patient A''}'
+      - '{''value'': ''Patient B''}'
+      - '{''value'': ''Patient C''}'
+      required: false
+    - id: 8
+      name: physiotherapy_session_feedback_form_session_notes
+      label: Session notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: physiotherapy_session_feedback_form_additional_comments
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: false

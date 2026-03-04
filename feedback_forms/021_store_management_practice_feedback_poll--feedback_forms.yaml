@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Store Management Practice Feedback Poll
+    pages:
+    - id: 1
+      name: store_management_practice_feedback_poll_questions
+      label: Store Management Practice Feedback Poll
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: store_management_practice_feedback_poll_questions_1
+      label: What is your role within the store?
+      hint: null
+      type: select_one
+      options:
+      - '{''option_1'': ''Manager''}'
+      - '{''option_2'': ''Assistant Manager''}'
+      - '{''option_3'': ''Team Member''}'
+      required: false
+    - id: 3
+      name: store_management_practice_feedback_poll_comments
+      label: Any additional comments?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: store_management_practice_feedback_poll_satisfaction_trends
+      label: Have you noticed any trends in satisfaction over the last 6 months?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option_1'': ''Increased''}'
+      - '{''option_2'': ''Decreased''}'
+      - '{''option_3'': ''No change''}'
+      - '{''option_4'': ''Unsure''}'
+      required: false
+    - id: 5
+      name: store_management_practice_feedback_poll_implementation
+      label: What percentage of time do you think our team should be focusing on store
+        management practices?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: store_management_practice_feedback_poll_implementation_1
+      label: How would you describe the importance of our current implementation of
+        store management practices?
+      hint: null
+      type: select_one
+      options:
+      - '{''option_1'': ''Essential''}'
+      - '{''option_2'': ''Important''}'
+      - '{''option_3'': ''Neutral''}'
+      - '{''option_4'': ''Not so important''}'
+      required: false
+    - id: 7
+      name: store_management_practice_feedback_poll_implementation_2
+      label: Do you feel that our current implementation of store management practices
+        is aligned with our store goals and objectives?
+      hint: null
+      type: select_one
+      options:
+      - '{''option_1'': ''Strongly agree''}'
+      - '{''option_2'': ''Somewhat agree''}'
+      - '{''option_3'': ''Neither agree nor disagree''}'
+      - '{''option_4'': ''Strongly disagree''}'
+      required: false
+    - id: 8
+      name: store_management_practice_feedback_poll_implementation_3
+      label: How would you describe the current level of support you receive from
+        the management team to implement store management practices?
+      hint: null
+      type: select_one
+      options:
+      - '{''option_1'': ''Strongly agree''}'
+      - '{''option_2'': ''Somewhat agree''}'
+      - '{''option_3'': ''Neutral''}'
+      - '{''option_4'': ''Somewhat disagree''}'
+      - '{''option_5'': ''Strongly disagree''}'
+      required: false
+    - id: 9
+      name: store_management_practice_feedback_poll_implementation_4
+      label: How would you describe the current state of store management practices
+        in terms of consistency across departments?
+      hint: null
+      type: select_one
+      options:
+      - '{''option_1'': ''Consistent''}'
+      - '{''option_2'': ''Mostly consistent''}'
+      - '{''option_3'': ''Mostly inconsistent''}'
+      - '{''option_4'': ''Inconsistent''}'
+      required: false
+    - id: 10
+      name: store_management_practice_feedback_poll_comments
+      label: Any additional comments?
+      hint: null
+      type: note
+      options: []
+      required: false

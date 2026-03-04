@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: App Feature Feedback Form
+    pages:
+    - id: 1
+      name: feature_name
+      label: Which feature are you providing feedback for?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: app_version
+      label: App Version Used
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: frequency_of_use
+      label: How often do you use this feature?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      required: true
+    - id: 4
+      name: ease_of_use_rating
+      label: How easy is this feature to use?
+      hint: 1 to 5 scale
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: functionality_rating
+      label: Does the feature perform its intended function well?
+      hint: null
+      type: select_one
+      options:
+      - Exceeds Expectations
+      - Meets Expectations
+      - Below Expectations
+      - Fails to Work
+      required: true
+    - id: 6
+      name: visual_design_rating
+      label: Rating of Visual Design and Layout
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: bugs_encountered
+      label: Did you encounter any bugs or errors?
+      hint: Please describe the issue if yes
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: feature_improvement
+      label: What one thing would you improve about this feature?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: feature_importance
+      label: How important is this feature to your overall app experience?
+      hint: null
+      type: select_one
+      options:
+      - Crucial
+      - Important
+      - Nice to have
+      - Unnecessary
+      required: true
+    - id: 10
+      name: recommendation_likelihood
+      label: Would you recommend this feature to other users?
+      hint: null
+      type: select_one
+      options:
+      - Yes, definitely
+      - Possibly
+      - false
+      required: false
+    - id: 11
+      name: final_comments
+      label: Additional Comments or Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: user_email
+      label: Your Email (Optional - if you want us to follow up)
+      hint: null
+      type: email
+      options: []
+      required: false

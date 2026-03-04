@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Library Patron Suggestion Form
+    pages:
+    - id: 1
+      name: form_title
+      label: library_patron_suggestion_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: patron_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: patron_email
+      hint: Enter patron email
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: suggestion
+      label: suggest_a_material_or_service
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: comment
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: follow_up
+      label: will_you_want_to_be_followed_up_on_this_suggestion
+      hint: null
+      type: select_one
+      options:
+      - Follow up on this suggestion
+      - Do not follow up on this suggestion
+      required: false
+    - id: 7
+      name: category
+      label: category_of_suggestion
+      hint: null
+      type: select_multiple
+      options:
+      - Materials
+      - Services
+      required: true
+    - id: 8
+      name: materials
+      label: materials
+      hint: null
+      type: select_multiple
+      options:
+      - Books
+      - DVDs
+      - Audiobooks
+      - Ebooks
+      - Digital Media
+      - Other
+      required: true
+    - id: 9
+      name: priority
+      label: priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 10
+      name: service_suggestion
+      label: service_suggestion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: service
+      label: service
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: follow_up_name
+      label: follow_up_name
+      hint: Enter your name for follow up
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: follow_up_email
+      label: follow_up_email
+      hint: Enter your email for follow up
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: follow_up_phone
+      label: follow_up_phone
+      hint: Enter your phone number for follow up
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: follow_up_service
+      label: follow_up_service
+      hint: null
+      type: text
+      options: []
+      required: false

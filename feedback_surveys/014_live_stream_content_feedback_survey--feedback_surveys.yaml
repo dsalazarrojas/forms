@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Live Stream Content Feedback Survey
+    pages:
+    - id: 1
+      name: intro
+      label: Live Stream Content Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: event_details
+      label: event_details
+      hint: null
+      type: select_multiple
+      options:
+      - Event Title
+      - Event Date
+      - Event Time
+      - Event Type
+      required: true
+    - id: 3
+      name: feedback_question_1
+      label: How likely were you to be engaged throughout the stream?
+      hint: null
+      type: select_one
+      options:
+      - 1 - Not at all
+      - 2 - A little
+      - 3 - Somewhat
+      - 4 - Very
+      - 5 - Extremely
+      required: true
+    - id: 4
+      name: feedback_question_2
+      label: Did you enjoy the live stream?
+      hint: null
+      type: select_one
+      options:
+      - 1 - Not at all
+      - 2 - A little
+      - 3 - Somewhat
+      - 4 - Very
+      - 5 - Extremely
+      required: true
+    - id: 5
+      name: additional_comments
+      label: Any additional comments?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Your email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Your phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true

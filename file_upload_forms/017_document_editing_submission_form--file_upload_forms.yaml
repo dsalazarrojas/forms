@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Document Editing Submission Form
+    pages:
+    - id: 1
+      name: submit_document_form
+      label: Submit Document
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: document_type
+      label: Document Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: document_title
+      label: Document Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: document_description
+      label: Document Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: uploaded_files
+      label: Upload Files
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: reviewer_notes
+      label: Reviewer Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: document_status
+      label: Document Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 8
+      name: document_reviewers
+      label: Document Reviewers
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: submission_note
+      label: Submission Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: reviewer_note
+      label: Reviewer Note
+      hint: null
+      type: text
+      options: []
+      required: false

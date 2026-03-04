@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: organizational_alignment_impact_survey
+    pages:
+    - id: 1
+      name: intro
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: team_structure
+      label: team-structure
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: alignment_leads_to_performance
+      label: alignment-leads-to-performance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: feedback
+      label: feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: organizational_culture
+      label: organizational-culture
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: communication
+      label: communication
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: leadership
+      label: leadership
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: performance_goals
+      label: performance-goals
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: impact
+      label: impact
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

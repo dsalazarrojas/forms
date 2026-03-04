@@ -1,0 +1,66 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Research Paper Upload Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Research Paper Upload Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: form_category
+      label: File Upload Forms
+      hint: null
+      type: select_one
+      options:
+      - File Upload Forms
+      - Other Forms
+      required: false
+    - id: 3
+      name: form_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: manuscript_files
+      label: Manuscript Files
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: file_size
+      label: File Size
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: file_type
+      label: File Type
+      hint: null
+      type: select_one
+      options:
+      - docx
+      - pdf
+      - jpg
+      - png
+      - gif
+      - bmp
+      required: false

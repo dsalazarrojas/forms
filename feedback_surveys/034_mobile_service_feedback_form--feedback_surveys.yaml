@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mobile Service Feedback Form
+    pages:
+    - id: 1
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: satisfaction_rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: feedback
+      label: Comments
+      hint: Write your feedback
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: rating_scale
+      label: How likely are you to recommend?
+      hint: null
+      type: select_multiple
+      options:
+      - Very likely
+      - Not likely
+      - Somewhat likely
+      required: true
+    - id: 5
+      name: email
+      label: Email
+      hint: your_feedback_email@example.com
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone
+      hint: Your phone number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: rating_service
+      label: How would you rate the service?
+      hint: null
+      type: select_one
+      options:
+      - Very good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 8
+      name: rating_app
+      label: How would you rate the app?
+      hint: null
+      type: select_one
+      options:
+      - Very good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 9
+      name: additional_feedback
+      label: Any additional feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email_confirmation
+      label: Email Confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 13
+      name: email_domain
+      label: Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_us
+      label: Contact us
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

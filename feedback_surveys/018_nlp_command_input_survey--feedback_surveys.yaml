@@ -1,0 +1,80 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: NLP Command Input Survey
+    pages:
+    - id: 1
+      name: nlp_command_usage
+      label: Nlp Command Usage
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: challenges
+      label: Challenges
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: improvements
+      label: Improvements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - other
+      required: true
+    - id: 5
+      name: nlp_command_input_survey_form_help
+      label: Form Help
+      hint: null
+      type: select_multiple
+      options:
+      - feedback_on_form_design
+      - feedback_on_navigation
+      - other
+      required: false
+    - id: 6
+      name: nlp_command_input_survey_form_help_what_to_improve
+      label: What to Improve
+      hint: null
+      type: select_multiple
+      options:
+      - overall_form_clarity
+      - overall_form_navigation
+      - overall_form_satisfaction
+      required: false
+    - id: 7
+      name: nlp_command_input_survey_form_help_why_to_improve
+      label: Why to Improve
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: nlp_command_input_survey_form_help_when_to_improve
+      label: When to Improve
+      hint: null
+      type: date
+      options: []
+      required: false

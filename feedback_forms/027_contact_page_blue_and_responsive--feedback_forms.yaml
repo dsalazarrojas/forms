@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Page Blue And Responsive
+    pages:
+    - id: 1
+      name: header
+      label: Get In Touch
+      hint: We would love to hear from you
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company
+      label: Company Name
+      hint: Your organization
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: topic
+      label: Topic
+      hint: What is this about
+      type: select_one
+      options:
+      - Product Information
+      - Service Inquiry
+      - Support Request
+      - Billing Question
+      - General Feedback
+      - Other
+      required: true
+    - id: 7
+      name: message
+      label: Message
+      hint: Your message details
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: urgency
+      label: Urgency Level
+      hint: How soon do you need help
+      type: select_one
+      options:
+      - Not Urgent
+      - Somewhat Urgent
+      - Urgent
+      - Critical
+      required: true
+    - id: 9
+      name: best_time
+      label: Best Time to Contact
+      hint: When to reach you
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Anytime
+      required: false
+    - id: 10
+      name: previous_contact
+      label: Have You Contacted Us Before
+      hint: Previous contact history
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 11
+      name: reference_number
+      label: Reference Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: attachment
+      label: Attach File
+      hint: Optional supporting document
+      type: text
+      options: []
+      required: false

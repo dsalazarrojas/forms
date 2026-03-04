@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: observer_feedback_sign_up
+    pages:
+    - id: 1
+      name: observer_feedback_sign_up
+      label: observer_feedback_sign_up
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: observer_name
+      label: observer_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: event_title
+      label: event_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: observer_email
+      label: observer_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: observer_phone
+      label: observer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: feedback_comment
+      label: feedback_comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: observer_rating
+      label: observer_rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: observer_likert
+      label: observer_likert
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: observer_recommended
+      label: observer_recommended
+      hint: null
+      type: select_one
+      options:
+      - Not Recommended
+      - Recommended
+      required: true

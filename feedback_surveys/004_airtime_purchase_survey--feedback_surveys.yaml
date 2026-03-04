@@ -1,0 +1,181 @@
+inputSchema:
+  type: object
+  properties:
+    title: Airtime Purchase Survey
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: Optional - for follow-up contact
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: phone_number
+      label: Phone Number
+      hint: Your mobile number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: For survey confirmation
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: age_group
+      label: Age Group
+      hint: Select your age range
+      type: select_one
+      options:
+      - Under 18
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55-64
+      - 65 or older
+      required: false
+    - id: 5
+      name: purchase_frequency
+      label: How Often Do You Purchase Airtime?
+      hint: Average frequency of purchases
+      type: select_one
+      options:
+      - Weekly
+      - Every 2 weeks
+      - Monthly
+      - Every few months
+      - Only when needed
+      - First time
+      required: true
+    - id: 6
+      name: typical_purchase_amount
+      label: Typical Purchase Amount
+      hint: Average amount spent per purchase
+      type: select_one
+      options:
+      - Under $10
+      - $10-$25
+      - $26-$50
+      - $51-$100
+      - Over $100
+      required: true
+    - id: 7
+      name: preferred_purchase_method
+      label: Preferred Purchase Method
+      hint: How do you usually buy airtime?
+      type: select_one
+      options:
+      - Online/App
+      - Retail Store
+      - ATM/Kiosk
+      - Phone Call
+      - Text Message
+      - Auto-reload
+      required: true
+    - id: 8
+      name: satisfaction_with_process
+      label: Satisfaction with Purchase Process
+      hint: Rate your overall experience
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 9
+      name: ease_of_purchase
+      label: Ease of Purchase
+      hint: How easy was it to complete your purchase?
+      type: select_one
+      options:
+      - Very Easy
+      - Easy
+      - Neutral
+      - Difficult
+      - Very Difficult
+      required: true
+    - id: 10
+      name: payment_options_satisfaction
+      label: Payment Options Satisfaction
+      hint: Rate available payment methods
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very Poor
+      required: true
+    - id: 11
+      name: transaction_speed
+      label: Transaction Speed
+      hint: How would you rate the speed?
+      type: select_one
+      options:
+      - Very Fast
+      - Fast
+      - Average
+      - Slow
+      - Very Slow
+      required: true
+    - id: 12
+      name: customer_service_rating
+      label: Customer Service Rating
+      hint: Rate the support received
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very Poor
+      - Not Applicable
+      required: false
+    - id: 13
+      name: promotional_offers_awareness
+      label: Awareness of Promotional Offers
+      hint: Are you aware of current promotions?
+      type: select_one
+      options:
+      - Yes, I use them often
+      - Yes, but rarely use them
+      - No, I was not aware
+      required: true
+    - id: 14
+      name: likelihood_to_recommend
+      label: Likelihood to Recommend
+      hint: Would you recommend our service?
+      type: select_one
+      options:
+      - Very Likely
+      - Likely
+      - Neutral
+      - Unlikely
+      - Very Unlikely
+      required: true
+    - id: 15
+      name: preferred_communication
+      label: Preferred Communication Channel
+      hint: How should we contact you about offers?
+      type: select_one
+      options:
+      - Email
+      - SMS/Text
+      - Phone Call
+      - Mobile App Notification
+      - Social Media
+      - No contact preferred
+      required: false
+    - id: 16
+      name: additional_feedback
+      label: Additional Feedback
+      hint: Any suggestions or comments?
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Open House Feedback Form
+    pages:
+    - id: 1
+      name: attendees_feedback
+      label: attendees_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_prophets
+      label: event_prophets
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: rating_score
+      label: rating_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false

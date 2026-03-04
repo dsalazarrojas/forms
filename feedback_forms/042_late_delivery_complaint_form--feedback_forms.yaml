@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Late Delivery Complaint Form
+    pages:
+    - id: 1
+      name: late_delivery_form
+      label: Late Delivery Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: order_number
+      label: Order Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: delivery_note
+      label: Delivery Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_note
+      label: Customer Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chatjimmy
+      - chatjimmy
+      required: true
+    - id: 10
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - New
+      - In Progress
+      - Resolved
+      - Closed
+      required: true
+    - id: 11
+      name: resolution_note
+      label: Resolution Note
+      hint: null
+      type: text
+      options: []
+      required: false

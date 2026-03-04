@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: local_anesthesia_feedback_survey
+    pages:
+    - id: 1
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: comfort
+      label: Comfort
+      hint: How would you rate your overall comfort level during the procedure?
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: side_effects
+      label: Side Effects
+      hint: Have you experienced any of the following side effects?
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: procedure_time
+      label: Procedure Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: procedure_date
+      label: Procedure Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: provider_name
+      label: Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: rating_scale
+      label: Rating Scale
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 12
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lymphedema Device Feedback Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: usage_patterns
+      label: Usage Patterns
+      hint: null
+      type: select_multiple
+      options:
+      - How often do you use the device?
+      - 1-2 times a week
+      - 3-4 times a week
+      - 5-6 times a week
+      - Daily
+      required: false
+    - id: 3
+      name: satisfaction_scores
+      label: Satisfaction Scores
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      required: false
+    - id: 4
+      name: improvement_ideas
+      label: Improvement Ideas
+      hint: What would you suggest for improvement?
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: usage_frequency
+      label: Usage Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: usage_duration
+      label: Usage Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: improvement_ideas_2
+      label: Improvement Ideas
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: goals
+      label: Goals
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: goals_2
+      label: Goals
+      hint: null
+      type: note
+      options: []
+      required: false

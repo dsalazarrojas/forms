@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fraternity Message Submission
+    pages:
+    - id: 1
+      name: fraternity_message_submission_form
+      label: Fraternity Message Submission Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: questions_and_feedback
+      label: Questions and Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: message
+      label: Message
+      hint: Write your message here
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: question
+      label: Do you have any questions?
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Reset
+      required: false

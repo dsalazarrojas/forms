@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Roof Skylight Planning Permission Application
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_address
+      label: Project Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''House''}'
+      - '{''id'': 2, ''label'': ''Apartment''}'
+      - '{''id'': 3, ''label'': ''Condo''}'
+      required: false
+    - id: 4
+      name: project_details
+      label: Project Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: roof_type
+      label: Roof Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Flat''}'
+      - '{''id'': 2, ''label'': ''Pitched''}'
+      - '{''id'': 3, ''label'': ''Curved''}'
+      required: false
+    - id: 6
+      name: building_size
+      label: Building Size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: number_of_stories
+      label: Number of Stories
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: floor_area
+      label: Floor Area
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: height
+      label: Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: latitude
+      label: Latitude
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: longitude
+      label: Longitude
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: file_upload_1
+      label: File 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: file_upload_2
+      label: File 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: file_upload_3
+      label: File 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: file_upload_4
+      label: File 4
+      hint: null
+      type: text
+      options: []
+      required: false

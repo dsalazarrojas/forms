@@ -1,0 +1,238 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Artisan Delegation Impact Survey
+    pages:
+      - id: 1
+        name: section_header_1
+        label: -- Respondent Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: respondent_name
+        label: Your Name
+        hint: Full name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: respondent_role
+        label: Your Role
+        hint: Position within the artisan organization
+        type: select_one
+        options:
+          - Artisan Member
+          - Team Leader
+          - Coordinator
+          - Manager
+          - Administrator
+          - Other
+        required: true
+      - id: 4
+        name: organization_name
+        label: Organization Name
+        hint: Name of your artisan network or group
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: survey_date
+        label: Date of Survey
+        hint: When are you completing this survey?
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: section_header_2
+        label: -- Delegation Program Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: delegation_name
+        label: Name or Description of Delegation Project
+        hint: What is this delegation initiative called?
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: delegation_duration
+        label: Duration of Delegation Program
+        hint: How long has this delegation been active?
+        type: select_one
+        options:
+          - Less than 3 months
+          - 3-6 months
+          - 6-12 months
+          - 1-2 years
+          - Over 2 years
+        required: true
+      - id: 9
+        name: delegation_start_date
+        label: Delegation Start Date
+        hint: When did this delegation program begin?
+        type: date
+        options: []
+        required: false
+      - id: 10
+        name: section_header_3
+        label: -- Impact Assessment --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: overall_impact
+        label: Overall Impact of Delegation
+        hint: Rate the overall impact
+        type: select_one
+        options:
+          - Highly Positive
+          - Positive
+          - Neutral
+          - Negative
+          - Highly Negative
+        required: true
+      - id: 12
+        name: skills_development
+        label: Skills Development Impact
+        hint: How has delegation affected skills?
+        type: select_one
+        options:
+          - Significant improvement
+          - Moderate improvement
+          - Slight improvement
+          - No change
+          - Slight decline
+          - Significant decline
+        required: true
+      - id: 13
+        name: economic_impact
+        label: Economic Impact on Artisans
+        hint: How has delegation affected income or economic status?
+        type: select_one
+        options:
+          - Significant increase
+          - Moderate increase
+          - Slight increase
+          - No change
+          - Slight decrease
+          - Significant decrease
+        required: true
+      - id: 14
+        name: section_header_4
+        label: -- Challenges and Opportunities --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 15
+        name: main_challenges
+        label: What Were the Main Challenges?
+        hint: Describe obstacles encountered
+        type: text
+        options: []
+        required: true
+      - id: 16
+        name: challenge_categories
+        label: Challenge Categories (select all that apply)
+        hint: Types of challenges faced
+        type: select_multiple
+        options:
+          - Time management
+          - Resource constraints
+          - Skills gaps
+          - Communication issues
+          - Market access
+          - Quality control
+          - Financial barriers
+          - Training needs
+        required: false
+      - id: 17
+        name: positive_outcomes
+        label: What Positive Outcomes Have You Observed?
+        hint: Successful results or achievements
+        type: text
+        options: []
+        required: true
+      - id: 18
+        name: section_header_5
+        label: -- Recommendations and Feedback --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: improvement_areas
+        label: Areas for Improvement
+        hint: What could be done better?
+        type: text
+        options: []
+        required: true
+      - id: 20
+        name: support_needs
+        label: What Support Does Your Organization Need?
+        hint: Resources, training, or assistance required
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: program_continuation
+        label: Should This Delegation Program Continue?
+        hint: Would you recommend continuing this program?
+        type: select_one
+        options:
+          - Yes, definitely continue
+          - Yes, with modifications
+          - Uncertain
+          - No, should be modified significantly
+          - No, should be discontinued
+        required: true
+      - id: 22
+        name: section_header_6
+        label: -- Recommendations --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 23
+        name: scaling_potential
+        label: Scaling Potential
+        hint: Could this delegation model be expanded?
+        type: select_one
+        options:
+          - High potential to scale
+          - Moderate potential
+          - Limited potential
+          - Not scalable
+        required: false
+      - id: 24
+        name: additional_feedback
+        label: Additional Comments or Feedback
+        hint: Any other insights or observations?
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: follow_up_contact
+        label: May we follow up with you for more details?
+        hint: Would you like to participate in follow-up discussions?
+        type: select_one
+        options:
+          - Yes, I agree
+          - No, I prefer not
+        required: false

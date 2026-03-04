@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Curling Event Feedback Survey
+    pages:
+    - id: 1
+      name: curling_event_feedback_survey
+      label: How was the event?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_rating
+      label: Rating (out of 10)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: favorite_part
+      label: Favorite part
+      hint: null
+      type: select_one
+      options:
+      - the ice resurfacing machine
+      - the curling stones
+      - the competition
+      required: false
+    - id: 4
+      name: curling_experience
+      label: How many times have you attended a curling event?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Less than 5 times
+      - 5-10 times
+      - 10+ times
+      required: false
+    - id: 5
+      name: curling_team
+      label: Which team do you support?
+      hint: null
+      type: select_multiple
+      options:
+      - Team A
+      - Team B
+      - Team C
+      - Team D
+      required: false
+    - id: 6
+      name: overall_satisfaction
+      label: Overall satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: improvement_area
+      label: What can we improve?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Any additional comments?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Your email
+      hint: your-club-email@jotform.com
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Your phone number
+      hint: your-club-phone
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: event_attended
+      label: Event attended
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: attended_with
+      label: Attended with
+      hint: null
+      type: select_multiple
+      options:
+      - Family
+      - Friends
+      - Club
+      - Solo
+      required: false
+    - id: 13
+      name: attended_other_events
+      label: Attended other curling events
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

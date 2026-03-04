@@ -1,0 +1,239 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Feedback Form
+    pages:
+    - id: 1
+      name: client_first_name
+      label: First Name
+      hint: Your legal first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_last_name
+      label: Last Name
+      hint: Your legal last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: service_date
+      label: Date of Service
+      hint: When did you receive service?
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: service_type
+      label: Service Type Received
+      hint: What service did you receive?
+      type: select_one
+      options:
+      - Product Purchase
+      - Consulting Service
+      - Support Service
+      - Training Session
+      - Maintenance Service
+      - Professional Service
+      - Other
+      required: true
+    - id: 7
+      name: staff_member
+      label: Staff Member Who Assisted You
+      hint: Who helped you?
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: Your overall experience
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 9
+      name: service_quality
+      label: Service Quality
+      hint: Quality of service received
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 10
+      name: staff_courtesy
+      label: Staff Courtesy
+      hint: How courteous was the staff?
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 11
+      name: response_time
+      label: Response Time
+      hint: How quickly did we respond?
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 12
+      name: value_for_money
+      label: Value for Money
+      hint: Was it worth the cost?
+      type: select_one
+      options:
+      - Excellent Value
+      - Good Value
+      - Fair Value
+      - Poor Value
+      - Very Poor Value
+      required: true
+    - id: 13
+      name: expectations_met
+      label: Were Your Expectations Met?
+      hint: Expectation fulfillment
+      type: select_one
+      options:
+      - Exceeded Expectations
+      - Met Expectations
+      - Mostly Met Expectations
+      - Did Not Meet Expectations
+      - Far Below Expectations
+      required: true
+    - id: 14
+      name: facility_cleanliness
+      label: Facility Cleanliness
+      hint: If you visited in person
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      - Not Applicable
+      required: false
+    - id: 15
+      name: ease_of_process
+      label: Ease of Doing Business
+      hint: How easy was the process?
+      type: select_one
+      options:
+      - Very Easy
+      - Easy
+      - Neutral
+      - Difficult
+      - Very Difficult
+      required: true
+    - id: 16
+      name: problem_encountered
+      label: Did You Encounter Any Problems?
+      hint: Issues during service
+      type: select_one
+      options:
+      - No Problems
+      - Minor Problem
+      - Moderate Problem
+      - Major Problem
+      required: true
+    - id: 17
+      name: problem_description
+      label: Describe the Problem
+      hint: If you experienced issues
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: problem_resolution
+      label: Was the Problem Resolved?
+      hint: Resolution status
+      type: select_one
+      options:
+      - Yes, Completely
+      - Yes, Partially
+      - false
+      - Not Applicable
+      required: false
+    - id: 19
+      name: likely_to_return
+      label: How Likely Are You to Return?
+      hint: Future business
+      type: select_one
+      options:
+      - Very Likely
+      - Likely
+      - Neutral
+      - Unlikely
+      - Very Unlikely
+      required: true
+    - id: 20
+      name: recommend_to_others
+      label: How Likely Are You to Recommend Us?
+      hint: To friends or colleagues
+      type: select_one
+      options:
+      - Very Likely
+      - Likely
+      - Neutral
+      - Unlikely
+      - Very Unlikely
+      required: true
+    - id: 21
+      name: best_aspect
+      label: What Did You Like Best?
+      hint: Favorite aspect
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: improvement_areas
+      label: What Could We Improve?
+      hint: Areas for improvement
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other feedback
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: feedback_date
+      label: Feedback Date
+      hint: null
+      type: date
+      options: []
+      required: true

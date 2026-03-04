@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: User Data Upload Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: First Name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Last Name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Email Address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: Contact Phone
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: upload_file
+      label: Upload File
+      hint: Upload File
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: file_description
+      label: File Description
+      hint: A brief description of the file
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: file_size
+      label: File Size
+      hint: File Size
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: file_type
+      label: File Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''image'', ''label'': ''Image''}'
+      - '{''id'': 2, ''name'': ''document'', ''label'': ''Document''}'
+      - '{''id'': 3, ''name'': ''video'', ''label'': ''Video''}'
+      required: false
+    - id: 9
+      name: upload_date
+      label: Upload Date
+      hint: Upload Date
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: upload_time
+      label: Upload Time
+      hint: Upload Time
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: additional_comments
+      label: Additional Comments
+      hint: Additional Comments
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''chatjimmy'', ''label'': ''chatjimmy''}'
+      - '{''id'': 2, ''name'': ''someone_else'', ''label'': ''Someone Else''}'
+      required: false
+    - id: 13
+      name: uploaded_by
+      label: Uploaded By
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''uploaded_by_user'', ''label'': ''uploaded_by_user''}'
+      - '{''id'': 2, ''name'': ''automated_system'', ''label'': ''Automated System''}'
+      required: false
+    - id: 14
+      name: uploaded_date
+      label: Uploaded On
+      hint: Uploaded On
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: uploaded_time
+      label: Uploaded Time
+      hint: Uploaded Time
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: uploaded_by_name
+      label: Uploaded By Name
+      hint: Uploaded By Name
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: uploaded_by_department
+      label: Uploaded By Department
+      hint: Uploaded By Department
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: form_id
+      label: Form ID
+      hint: Form ID
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: upload_number
+      label: Upload
+      hint: Upload
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: upload_user
+      label: Upload User
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''uploaded_user'', ''label'': ''uploaded_user''}'
+      - Other
+      required: false
+    - id: 21
+      name: uploaded_group
+      label: Uploaded Group
+      hint: Uploaded Group
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: upload_status
+      label: Upload Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''completed'', ''label'': ''Completed''}'
+      - '{''id'': 2, ''name'': ''pending'', ''label'': ''Pending''}'
+      - '{''id'': 3, ''name'': ''failed'', ''label'': ''Failed''}'
+      required: false
+    - id: 23
+      name: upload_user_group
+      label: Upload User Group
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''group_a'', ''label'': ''Group A''}'
+      - '{''id'': 2, ''name'': ''group_b'', ''label'': ''Group B''}'
+      required: false
+    - id: 24
+      name: file_name
+      label: File Name
+      hint: File Name
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: comments
+      label: Comments
+      hint: Comments
+      type: text
+      options: []
+      required: false

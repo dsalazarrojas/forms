@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Soft Material Crafting Survey
+    pages:
+    - id: 1
+      name: soft_material_crafting_survey
+      label: soft_crafting_survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: fabric_type
+      label: fabric_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Cotton''}'
+      - '{''id'': 2, ''label'': ''Polyester''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 3
+      name: project_type
+      label: project_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Yarn Project''}'
+      - '{''id'': 2, ''label'': ''Soft Craft Project''}'
+      - '{''id'': 3, ''label'': ''Other Project''}'
+      required: false
+    - id: 4
+      name: yarn_color
+      label: yarn_color
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Red''}'
+      - '{''id'': 2, ''label'': ''Blue''}'
+      - '{''id'': 3, ''label'': ''Green''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: false
+    - id: 5
+      name: project_scale
+      label: project_scale
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: project_description
+      label: project_description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: project_image_url
+      label: project_image_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: project_image_url_url
+      label: project_image_url_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: soft_crafting_survey_comments
+      label: soft_crafting_survey_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: fabric_weight
+      label: fabric_weight
+      hint: null
+      type: number
+      options: []
+      required: false

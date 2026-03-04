@@ -1,0 +1,47 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Submit Your Article Form
+    pages:
+    - id: 1
+      name: submit_your_article_form
+      label: Submit Your Article
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: file_upload_input
+      label: File Upload
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: category_select
+      label: Category
+      hint: Choose a category
+      type: select_one
+      options:
+      - Category 1
+      - Category 2
+      - Category 3
+      required: true
+    - id: 4
+      name: tags_input
+      label: Tags
+      hint: null
+      type: text
+      options: []
+      required: false

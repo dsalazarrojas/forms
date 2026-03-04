@@ -1,0 +1,162 @@
+inputSchema:
+  type: object
+  properties:
+    title: Real Estate Open House Feedback Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: Please enter your last name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: contact_phone
+      hint: Please enter your phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: feedback_question_1
+      label: Was the property well-kept and clean?
+      hint: null
+      type: select_one
+      options:
+      - Yes, it was very clean
+      - Yes, it was clean
+      - No, it was dirty
+      - No, it was not well-kept
+      required: true
+    - id: 6
+      name: feedback_question_2
+      label: Was the asking price reasonable?
+      hint: null
+      type: select_one
+      options:
+      - Yes, it was very reasonable
+      - Yes, it was reasonable
+      - No, it was unreasonable
+      - No, it was not reasonable
+      required: true
+    - id: 7
+      name: feedback_question_3
+      label: Was the agent helpful?
+      hint: null
+      type: select_one
+      options:
+      - Yes, they were very helpful
+      - Yes, they were helpful
+      - No, they were not helpful
+      - No, they were not very helpful
+      required: true
+    - id: 8
+      name: feedback_question_4
+      label: What was the condition of the property?
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Fair
+      - Poor
+      - Unknown
+      required: true
+    - id: 9
+      name: feedback_message
+      label: Additional feedback
+      hint: Please provide additional feedback
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: real_estate_license_num
+      label: Real Estate License Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: real_estate_agent_name
+      label: Agent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: feedback_agent_rating
+      label: Agent Rating
+      hint: null
+      type: select_one
+      options:
+      - 1-2
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 13
+      name: feedback_agent_comments
+      label: Agent Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: feedback_open_house_rating
+      label: Open House Rating
+      hint: null
+      type: select_one
+      options:
+      - 1-2
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 15
+      name: feedback_open_house_comments
+      label: Open House Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: real_estate_open_house_address
+      label: Open House Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: real_estate_open_house_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: real_estate_open_house_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: real_estate_open_house_zip
+      label: Zip Code
+      hint: null
+      type: number
+      options: []
+      required: false

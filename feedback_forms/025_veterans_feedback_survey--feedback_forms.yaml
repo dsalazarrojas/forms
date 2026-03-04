@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterans Feedback Survey
+    pages:
+    - id: 1
+      name: form_title
+      label: form_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Feedback Forms
+      - Other
+      required: true
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: rating_overall
+      label: rating_overall
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: rating_service
+      label: rating_service
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: rating_value
+      label: rating_value
+      hint: null
+      type: select_one
+      options:
+      - Highly Satisfactory
+      - Somewhat Satisfactory
+      - Neither Satisfactory nor Dissatisfactory
+      - Somewhat Dissatisfactory
+      - Highly Dissatisfactory
+      required: true
+    - id: 7
+      name: rating_improvement
+      label: rating_improvement
+      hint: null
+      type: select_multiple
+      options:
+      - More
+      - Somewhat More
+      - About the Same
+      - Somewhat Less
+      - Less
+      required: true
+    - id: 8
+      name: improvement_ideas
+      label: improvement_ideas
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: organization
+      label: organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: program
+      label: program
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: rating_program_service
+      label: rating_program_service
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: rating_program_value
+      label: rating_program_value
+      hint: null
+      type: select_one
+      options:
+      - Highly Satisfactory
+      - Somewhat Satisfactory
+      - Neither Satisfactory nor Dissatisfactory
+      - Somewhat Dissatisfactory
+      - Highly Dissatisfactory
+      required: true
+    - id: 19
+      name: prophets
+      label: prophets
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: followup
+      label: followup
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: followup_by
+      label: followup_by
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: followup_time
+      label: followup_time
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: followup_phone
+      label: followup_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: followup_email
+      label: followup_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 25
+      name: followup_comments
+      label: followup_comments
+      hint: null
+      type: text
+      options: []
+      required: false

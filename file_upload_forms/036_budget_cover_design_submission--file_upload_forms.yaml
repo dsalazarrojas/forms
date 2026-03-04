@@ -1,0 +1,152 @@
+inputSchema:
+  type: object
+  properties:
+    title: Budget Cover Design Submission
+    pages:
+    - id: 1
+      name: designer_name
+      label: Designer Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: designer_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: designer_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Design Company or Studio Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: project_title
+      label: Project or Book Title
+      hint: What is this cover design for
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: author_name
+      label: Author Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: genre_category
+      label: Genre or Category
+      hint: Fiction, non-fiction, self-help, etc
+      type: select_one
+      options:
+      - Fiction
+      - Non-Fiction
+      - Self-Help
+      - Fantasy
+      - Mystery
+      - Romance
+      - Business
+      - Educational
+      - Other
+      required: true
+    - id: 8
+      name: design_description
+      label: Design Description
+      hint: Overview of the cover concept
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: design_inspiration
+      label: Design Inspiration or Concept
+      hint: What influenced your design
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: target_audience
+      label: Target Audience
+      hint: Who is this book for
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: software_used
+      label: Design Software Used
+      hint: Adobe Creative Suite, Canva, etc
+      type: select_one
+      options:
+      - Adobe Photoshop
+      - Adobe InDesign
+      - Adobe Illustrator
+      - Canva
+      - Figma
+      - Sketch
+      - Other
+      required: false
+    - id: 12
+      name: file_format
+      label: File Format Provided
+      hint: PDF, JPG, PSD, AI, etc
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: file_resolution
+      label: File Resolution
+      hint: DPI or pixels
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: print_ready
+      label: Print-Ready File
+      hint: Is this file ready for printing
+      type: select_one
+      options:
+      - Yes, print-ready
+      - Needs minor adjustments
+      - Needs significant work
+      required: true
+    - id: 15
+      name: design_file
+      label: Design File
+      hint: Upload your design file
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: portfolio_url
+      label: Portfolio or Website URL
+      hint: Your design portfolio link
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submission_deadline
+      label: Submission Deadline
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: usage_rights
+      label: Confirm All Rights and Licenses
+      hint: You own or have rights to all elements
+      type: select_one
+      options:
+      - Yes, confirmed
+      - No, need licensing
+      required: true

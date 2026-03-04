@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daily Concrete Pour Log
+    pages:
+    - id: 1
+      name: concrete_pour_details
+      label: concrete_pour_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: concrete_curing
+      label: concrete_curing
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: project_location
+      label: project_location
+      hint: null
+      type: select_one
+      options:
+      - 'Site: A'
+      - 'Site: B'
+      required: true
+    - id: 4
+      name: date_poured
+      label: date_poured
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: time_poured
+      label: time_poured
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: concrete_pour_comments
+      label: concrete_pour_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: inspector_name
+      label: inspector_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: inspector_signature
+      label: inspector_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: concrete_pour_log_status
+      label: concrete_pour_log_status
+      hint: null
+      type: select_multiple
+      options:
+      - Complete
+      - Incomplete
+      - Pending
+      required: true
+    - id: 10
+      name: project_id
+      label: project_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: user_id
+      label: user_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: concrete_pour_log_comments
+      label: concrete_pour_log_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: concrete_type
+      label: concrete_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: concrete_cure_time
+      label: concrete_cure_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: concrete_cure_temp
+      label: concrete_cure_temp
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: concrete_cure_method
+      label: concrete_cure_method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: concrete_cure_age
+      label: concrete_cure_age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: inspector_notes
+      label: inspector_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: concrete_pour_log_attachments
+      label: concrete_pour_log_attachments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: project_status
+      label: project_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 21
+      name: concrete_pour_log_submitted_by
+      label: concrete_pour_log_submitted_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: project_status_history
+      label: project_status_history
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 23
+      name: user_status
+      label: user_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 24
+      name: concrete_pour_log_date_submitted
+      label: concrete_pour_log_date_submitted
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: concrete_pour_log_time_submitted
+      label: concrete_pour_log_time_submitted
+      hint: null
+      type: time
+      options: []
+      required: true

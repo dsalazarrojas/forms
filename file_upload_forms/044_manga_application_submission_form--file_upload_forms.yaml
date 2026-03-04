@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Manga Application Submission Form
+    pages:
+    - id: 1
+      name: creator_entry
+      label: Creator Entry
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: cover_image
+      label: Cover Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: manga_pitch
+      label: Pitch
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: character_designer
+      label: Character Designer
+      hint: null
+      type: select_one
+      options:
+      - Alice
+      - Bob
+      - Charlie
+      required: false
+    - id: 5
+      name: manga_artist
+      label: Manga Artist
+      hint: null
+      type: select_multiple
+      options:
+      - Alice
+      - Bob
+      - Charlie
+      required: false
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false

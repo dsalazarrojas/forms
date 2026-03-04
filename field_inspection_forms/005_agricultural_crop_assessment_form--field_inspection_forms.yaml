@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agricultural Crop Assessment Form
+    pages:
+    - id: 1
+      name: assessor_name
+      label: Assessor name
+      hint: Name of person performing the assessment
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: assessment_date
+      label: Assessment date
+      hint: Date of field visit
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: farm_location
+      label: Farm location
+      hint: GPS coordinates or nearest town
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: crop_type
+      label: Crop type
+      hint: Primary crop observed during assessment
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: growth_stage
+      label: Growth stage
+      hint: Seedling, vegetative, flowering, or maturity
+      type: select_one
+      options:
+      - Seedling
+      - Vegetative
+      - Flowering
+      - Fruiting
+      - Maturity
+      required: true
+    - id: 6
+      name: pest_observations
+      label: Pest observations
+      hint: Note presence and severity of pests
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: disease_symptoms
+      label: Disease symptoms observed
+      hint: Describe any symptoms or affected area
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: canopy_coverage_percent
+      label: Canopy coverage percent
+      hint: Estimate canopy cover as a percentage
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: plant_density
+      label: Plant density per square meter
+      hint: Enter approximate plants per square meter
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: recommended_action
+      label: Recommended action
+      hint: Suggested management actions or treatments
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: follow_up_date
+      label: Recommended follow up date
+      hint: When to reassess the field
+      type: date
+      options: []
+      required: false

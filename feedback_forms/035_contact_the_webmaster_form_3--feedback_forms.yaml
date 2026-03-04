@@ -1,0 +1,152 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Contact The Webmaster Form 3
+    pages:
+      - id: 1
+        name: intro
+        label: Contact The Webmaster
+        hint: Website feedback and issues
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: name
+        label: Your Name
+        hint: Full name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: email
+        label: Email Address
+        hint: Contact email
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: inquiry_type
+        label: Type of Inquiry
+        hint: Select one
+        type: select_one
+        options:
+          - Website Issue
+          - Content Update
+          - Feature Request
+          - Broken Link
+          - Security Concern
+          - General Question
+        required: true
+      - id: 5
+        name: page_url
+        label: Page URL
+        hint: Where is the issue
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: browser
+        label: Browser Used
+        hint: Which browser
+        type: select_one
+        options:
+          - Chrome
+          - Firefox
+          - Safari
+          - Edge
+          - Other
+          - Not Applicable
+        required: false
+      - id: 7
+        name: device
+        label: Device Type
+        hint: What device
+        type: select_one
+        options:
+          - Desktop
+          - Laptop
+          - Tablet
+          - Mobile
+        required: false
+      - id: 8
+        name: operating_system
+        label: Operating System
+        hint: Which OS
+        type: select_one
+        options:
+          - Windows
+          - macOS
+          - Linux
+          - iOS
+          - Android
+          - Other
+        required: false
+      - id: 9
+        name: issue_description
+        label: Issue Description
+        hint: Describe the problem
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: steps_to_reproduce
+        label: Steps to Reproduce
+        hint: How to see the issue
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: expected_result
+        label: Expected Result
+        hint: What should happen
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: actual_result
+        label: Actual Result
+        hint: What actually happened
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: screenshot
+        label: Screenshot Available
+        hint: Do you have screenshots
+        type: select_one
+        options:
+          - Yes - Attached
+          - Yes - Will Send
+          - No
+        required: false
+      - id: 14
+        name: urgency
+        label: Urgency
+        hint: How urgent
+        type: select_one
+        options:
+          - Low
+          - Medium
+          - High
+          - Critical
+        required: true
+      - id: 15
+        name: follow_up
+        label: Would You Like a Response
+        hint: Response preference
+        type: select_one
+        options:
+          - Yes - Please Respond
+          - No - For Information Only
+        required: true

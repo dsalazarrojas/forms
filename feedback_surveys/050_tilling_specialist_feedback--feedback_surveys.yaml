@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tilling Specialist Feedback
+    pages:
+    - id: 1
+      name: contact_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: service_date
+      label: Date of Service
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - Landscaping
+      - Construction
+      required: true
+    - id: 6
+      name: work_location
+      label: Work Location
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      - Both
+      required: true
+    - id: 7
+      name: job_status
+      label: Job Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Ongoing
+      - Pending
+      required: true
+    - id: 8
+      name: feedback_question
+      label: What can we improve on?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comment
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false

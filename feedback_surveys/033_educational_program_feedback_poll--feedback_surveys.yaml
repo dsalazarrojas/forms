@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Educational Program Feedback Poll
+    pages:
+    - id: 1
+      name: session_feedback
+      label: Session Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: program_satisfaction
+      label: Program Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 3
+      name: feedback_on_content
+      label: Feedback on Content
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: recommendations
+      label: Recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: session_notes
+      label: Session Notes
+      hint: null
+      type: text
+      options: []
+      required: false

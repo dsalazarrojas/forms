@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Farmland Transition Feedback Form
+    pages:
+    - id: 1
+      name: farmland_transfer
+      label: land_transfer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: experience_rating
+      label: land_transfer_experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: satisfaction_rating
+      label: land_transfer_satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: support_needs
+      label: support_needs
+      hint: null
+      type: select_multiple
+      options:
+      - Land Transfer Support
+      - Other
+      - Not Required
+      required: false
+    - id: 5
+      name: transfer_date
+      label: transfer_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false

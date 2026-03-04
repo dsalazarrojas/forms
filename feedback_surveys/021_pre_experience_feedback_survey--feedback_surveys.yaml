@@ -1,0 +1,228 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Pre Experience Feedback Survey
+    pages:
+    - id: 1
+      name: program_title
+      label: What is the title of the program?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: program_description
+      label: What is a brief description of the program?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: Participant email address
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: program_expectations
+      label: What are your pre-program expectations?
+      hint: Describe your expectations in 3-4 sentences.
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: background_info
+      label: Background Information
+      hint: Please provide a brief background story.
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: program_type
+      label: What type of program is it?
+      hint: e.g. workshop, webinar, course
+      type: select_one
+      options:
+      - Workshop
+      - Webinar
+      - Course
+      required: false
+    - id: 8
+      name: participant_interest
+      label: What is your primary interest in the program?
+      hint: e.g. personal, professional, both
+      type: select_multiple
+      options:
+      - Personal
+      - Professional
+      - Both
+      required: false
+    - id: 9
+      name: participant_goal
+      label: What is your primary goal for this program?
+      hint: e.g. skill acquisition, networking, networking and skill acquisition
+      type: select_multiple
+      options:
+      - Skill acquisition
+      - Networking
+      - Networking and skill acquisition
+      required: false
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: date_format
+      label: Date format
+      hint: e.g. YYYY-MM-DD
+      type: select_one
+      options:
+      - YYYY-MM-DD
+      - MMMM/DD/YYYY
+      - MM/DD/YYYY
+      required: false
+    - id: 13
+      name: time_format
+      label: Time format
+      hint: "e.g. 12:00, 12:00 PM"
+      type: select_one
+      options:
+      - '720'
+      - 12:00 PM
+      - 12:00 AM
+      required: false
+    - id: 14
+      name: program_length
+      label: How long is the program?
+      hint: e.g. half day, full day
+      type: select_multiple
+      options:
+      - Half day
+      - Full day
+      - Multiple days
+      - Half day and full day
+      required: false
+    - id: 15
+      name: participant_experience
+      label: What is your level of experience with our organization?
+      hint: e.g. beginner, intermediate, advanced
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 16
+      name: program_language
+      label: In what language will the program be presented?
+      hint: e.g. English, French, Spanish
+      type: select_multiple
+      options:
+      - English
+      - French
+      - Spanish
+      required: false
+    - id: 17
+      name: accessibility_requirements
+      label: Are there any accessibility requirements?
+      hint: Do you have any accessibility needs or restrictions that should be considered?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contact_preferences
+      label: How do you prefer to be contacted?
+      hint: e.g. email, phone, mail
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Mail
+      required: false
+    - id: 19
+      name: emergency_contact
+      label: Is there an emergency contact we should know?
+      hint: e.g. Name, phone number, email
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: medical_conditions
+      label: Do you have any medical conditions that may be relevant?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: medication
+      label: Are you taking any medication?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: emergency_procedures
+      label: Are there any emergency procedures we should know?
+      hint: e.g. medical conditions, medications
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: participant_vehicles
+      label: Do you have a preferred mode of transportation?
+      hint: e.g. car, taxi, public transportation
+      type: select_multiple
+      options:
+      - Car
+      - Taxi
+      - Public transportation
+      required: false
+    - id: 24
+      name: participant_arrival
+      label: How will you arrive at the location?
+      hint: e.g. driving, walking, other
+      type: select_multiple
+      options:
+      - Driving
+      - Walking
+      - Other
+      required: false
+    - id: 25
+      name: participant_parking
+      label: What is your preferred parking option?
+      hint: e.g. on site, street parking
+      type: select_one
+      options:
+      - On site
+      - Street parking
+      - Other
+      required: false

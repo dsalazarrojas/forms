@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Intercultural Relationship Survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: Intro
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: demographics_page
+      label: Demographics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: relationship_type_page
+      label: Relationship Type
+      hint: null
+      type: select_one
+      options:
+      - Cultural Exchange
+      - Business Partner
+      - Family Member
+      - Friend
+      - Romantic Partner
+      required: false
+    - id: 4
+      name: cultural_exchange_page
+      label: Cultural Exchange
+      hint: null
+      type: select_multiple
+      options:
+      - Communication
+      - Education
+      - Work
+      - Family
+      - Travel
+      - Food
+      - Sport
+      - Leisure
+      required: false
+    - id: 5
+      name: relationship_satisfaction_page
+      label: Relationship Satisfaction
+      hint: Rate on a scale of 1-5
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: satisfaction_scale_page
+      label: Satisfaction Scale
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 7
+      name: open_ended_question_page
+      label: Open-Ended Question
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: email_page
+      label: Email
+      hint: Enter your email
+      type: email
+      options: []
+      required: false

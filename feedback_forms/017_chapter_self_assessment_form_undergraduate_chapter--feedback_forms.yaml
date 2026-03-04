@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chapter Self Assessment Form Undergraduate Chapter
+    pages:
+    - id: 1
+      name: header
+      label: -- Undergraduate Chapter Self Assessment --
+      hint: Complete this form to evaluate chapter practices and member support
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: chapter_name
+      label: chapter name
+      hint: name of the undergraduate chapter
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: assessment_year
+      label: assessment year
+      hint: year for this self assessment
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: event_participation
+      label: event participation rate
+      hint: estimate percentage of member participation
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: mentorship_programs
+      label: mentorship programs present
+      hint: does the chapter offer mentorship programs
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 6
+      name: recruitment_effectiveness
+      label: recruitment effectiveness
+      hint: rate recruitment strategies
+      type: select_one
+      options:
+      - Ineffective
+      - Somewhat effective
+      - Effective
+      required: true
+    - id: 7
+      name: financial_stability
+      label: financial stability
+      hint: indicate chapter financial status
+      type: select_one
+      options:
+      - Concern
+      - Stable
+      - Surplus
+      required: true
+    - id: 8
+      name: key_strengths
+      label: key strengths
+      hint: list major strengths of the chapter
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: action_items
+      label: action items
+      hint: planned next steps for improvement
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submitter_name
+      label: submitter name
+      hint: name of the person completing the form
+      type: text
+      options: []
+      required: true

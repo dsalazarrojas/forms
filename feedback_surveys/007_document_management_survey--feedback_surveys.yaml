@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Document Management Survey
+    pages:
+    - id: 1
+      name: document_management_survey_form_1
+      label: document_management_suggestion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: document_management_survey_form_2
+      label: document_management_process
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: document_management_survey_form_3
+      label: document_management_effectiveness
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: document_management_survey_form_4
+      label: document_management_time_saving
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: document_management_survey_form_5
+      label: document_management_clarity
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: document_management_survey_form_6
+      label: document_management_satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: document_management_survey_form_7
+      label: document_management_frequency
+      hint: null
+      type: date
+      options: []
+      required: false

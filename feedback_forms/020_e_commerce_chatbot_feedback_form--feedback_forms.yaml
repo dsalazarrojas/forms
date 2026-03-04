@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: E Commerce Chatbot Feedback Form
+    pages:
+    - id: 1
+      name: form_first_page
+      label: First Page
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: form_first_page_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: form_first_page_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: form_first_page_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: form_first_page_rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: form_first_page_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: form_second_page
+      label: Second Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: form_second_page_what_would_you_improve
+      label: What would you improve?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: form_second_page_why_didnt_answer
+      label: Why didn't answer?
+      hint: null
+      type: select_multiple
+      options:
+      - Not interested
+      - No time
+      - Not sure
+      - Other
+      required: false
+    - id: 10
+      name: form_second_page_additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: form_second_page_submitted
+      label: Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: form_second_page_submitted_time
+      label: Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: form_second_page_submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: form_submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true

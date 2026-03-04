@@ -1,0 +1,161 @@
+inputSchema:
+  type: object
+  properties:
+    title: Athlete Performance Video Upload Form
+    pages:
+    - id: 1
+      name: submission_details_header
+      label: -- Performance Submission Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: athlete_name
+      label: Athlete Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization_affiliation
+      label: Team or Club Affiliation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: submission_purpose
+      label: Purpose of Video Submission
+      hint: Select the primary reason for this upload
+      type: select_one
+      options:
+      - Technique Review and Feedback
+      - Remote Tryout or Audition
+      - Competition Entry
+      - Training Log Verification
+      - Injury Rehabilitation Progress Update
+      required: true
+    - id: 5
+      name: sport_position
+      label: Sport and Primary Position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: video_info_header
+      label: -- Video Content Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: video_description
+      label: Video Title or Description
+      hint: e.g. Backhand Technique Analysis, 100m Sprint Heat 1
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: filming_date
+      label: Date Video was Filmed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: performance_context
+      label: Context of Performance
+      hint: null
+      type: select_one
+      options:
+      - Practice or Training Session
+      - Live Game or Competition
+      - Isolated Technical Drill
+      required: true
+    - id: 10
+      name: multi_angle_status
+      label: Does the video include multiple camera angles?
+      hint: e.g. Front and Side view
+      type: select_one
+      options:
+      - Yes, multi-angle
+      - No, single angle
+      required: true
+    - id: 11
+      name: upload_instructions
+      label: -- File Upload and Links --
+      hint: Please ensure video files are in MP4 or MOV format. Max file size 100MB.
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: video_link
+      label: Link to Video
+      hint: Provide a link (YouTube, Vimeo, Google Drive) if the file is too large
+        for direct upload
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: skill_breakdown
+      label: Detailed Breakdown of Skills Performed
+      hint: Describe what the coach should focus on
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: coaching_questions
+      label: Specific Questions for the Reviewer
+      hint: What feedback are you looking for?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contact_consent_header
+      label: -- Contact and Media Consent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: contact_email
+      label: Email Address
+      hint: example@domain.com
+      type: email
+      options: []
+      required: true
+    - id: 17
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: sharing_consent
+      label: I consent to this video being shared with the coaching and technical
+        staff
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: educational_consent
+      label: I consent to this video being used for internal educational purposes
+      hint: Used as a training example for other athletes (anonymously)
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 20
+      name: submission_date
+      label: Date of Submission
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Best Venue Nomination Form
+    pages:
+    - id: 1
+      name: nominator_name
+      label: Your Name
+      hint: Enter your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: nominator_email
+      label: Email Address
+      hint: We will send confirmation to this email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: nominator_organization
+      label: Your Organization
+      hint: Company or organization you represent
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: venue_name
+      label: Venue Name
+      hint: Name of the venue you are nominating
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: venue_address
+      label: Venue Address
+      hint: Full address of the venue
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: venue_city
+      label: City
+      hint: City where the venue is located
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: venue_state
+      label: State or Province
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: venue_type
+      label: Venue Type
+      hint: What type of venue is this
+      type: select_one
+      options:
+      - Conference Center
+      - Hotel Ballroom
+      - Banquet Hall
+      - Outdoor Venue
+      - Restaurant
+      - Theater
+      - Museum
+      - Historic Building
+      - Convention Center
+      - University Facility
+      - Other
+      required: true
+    - id: 9
+      name: event_type
+      label: Event Type Held
+      hint: What type of event did you hold at this venue
+      type: select_one
+      options:
+      - Wedding
+      - Corporate Event
+      - Conference
+      - Trade Show
+      - Gala or Fundraiser
+      - Birthday Celebration
+      - Anniversary
+      - Concert
+      - Workshop or Seminar
+      - Other
+      required: true
+    - id: 10
+      name: event_date
+      label: Event Date
+      hint: When was your event
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: guest_count
+      label: Number of Guests
+      hint: Approximately how many guests attended
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: venue_capacity
+      label: Venue Capacity Rating
+      hint: How well did the venue accommodate your group size
+      type: select_one
+      options:
+      - Perfect Fit
+      - Slightly Large
+      - Slightly Small
+      - Much Too Large
+      - Much Too Small
+      required: true
+    - id: 13
+      name: facility_rating
+      label: Facility Quality Rating
+      hint: Rate the overall facility quality
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 14
+      name: staff_service_rating
+      label: Staff and Service Rating
+      hint: Rate the quality of staff and service
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 15
+      name: cleanliness_rating
+      label: Cleanliness Rating
+      hint: Rate the cleanliness of the venue
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 16
+      name: amenities_rating
+      label: Amenities Rating
+      hint: Rate the available amenities
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 17
+      name: value_rating
+      label: Value for Money Rating
+      hint: Was the venue worth the cost
+      type: select_one
+      options:
+      - Excellent Value
+      - Good Value
+      - Fair Value
+      - Poor Value
+      - Very Poor Value
+      required: true
+    - id: 18
+      name: standout_features
+      label: Standout Features
+      hint: What features made this venue stand out
+      type: select_multiple
+      options:
+      - Beautiful Architecture
+      - Modern Technology
+      - Excellent Acoustics
+      - Great Location
+      - Ample Parking
+      - Flexible Layout
+      - On-site Catering
+      - Outdoor Space
+      - Accessibility Features
+      - Scenic Views
+      required: true
+    - id: 19
+      name: nomination_reason
+      label: Why Are You Nominating This Venue
+      hint: Explain why this venue deserves recognition
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: would_book_again
+      label: Would You Book This Venue Again
+      hint: Would you use this venue for future events
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Not Sure
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 21
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other feedback about this venue
+      type: text
+      options: []
+      required: false

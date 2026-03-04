@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: environmental_impact_of_learning_activities_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Environmental Impact of Learning Activities
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: learning_activities
+      label: What type of learning activities do you perform most frequently?
+      hint: null
+      type: select_multiple
+      options:
+      - Reading books/articles
+      - Watching videos
+      - Participating in online communities
+      - Other
+      required: false
+    - id: 3
+      name: impact_on_environment
+      label: How do you think the impact of your activities is on the environment?
+      hint: null
+      type: select_one
+      options:
+      - Positive
+      - Negative
+      - Neutral
+      - No impact
+      required: false
+    - id: 4
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: environment_rating
+      label: Rating of the environmental impact
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false

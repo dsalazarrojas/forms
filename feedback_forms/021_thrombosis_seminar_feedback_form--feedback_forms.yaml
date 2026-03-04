@@ -1,0 +1,55 @@
+inputSchema:
+  type: object
+  properties:
+    title: Thrombosis Seminar Feedback Form
+    pages:
+    - id: 1
+      name: first_page
+      label: How was the seminar?
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 2
+      name: speaker
+      label: Who was the speaker?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: content
+      label: What was the content of the seminar?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: relevance
+      label: How relevant was the seminar to your work?
+      hint: null
+      type: select_one
+      options:
+      - Highly relevant
+      - Relevant
+      - Somewhat relevant
+      - Not relevant
+      required: false
+    - id: 5
+      name: rating
+      label: How would you rate the seminar?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: suggestions
+      label: Do you have any suggestions for future seminars?
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: incident-report-insights-survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: incident_title
+      label: incident-title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: incident_report_date
+      label: incident-report-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: incident_report_time
+      label: incident-report-time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: incident_report_duration
+      label: incident-report-duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: incident_report_cause
+      label: incident-report-cause
+      hint: null
+      type: select_one
+      options:
+      - Human error
+      - Equipment failure
+      - Natural disaster
+      - Other
+      required: false
+    - id: 7
+      name: incident_report_cause_details
+      label: incident-report-cause-details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: incident_report_cause_harm
+      label: incident-report-cause-harm
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: incident_report_location
+      label: incident-report-location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: incident_report_employees_affected
+      label: incident-report-employees-affected
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: incident_report_deaths_or_injuries
+      label: incident-report-deaths-or-injuries
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: incident_report_damage
+      label: incident-report-damage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: incident_report_learning_points
+      label: incident-report-learning-points
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: incident_report_actions_taken
+      label: incident-report-actions-taken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: incident_report_comments
+      label: incident-report-comments
+      hint: null
+      type: text
+      options: []
+      required: false

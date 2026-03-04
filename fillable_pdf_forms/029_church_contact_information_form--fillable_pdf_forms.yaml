@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: Church Contact Information Form
+    pages:
+    - id: 1
+      name: header_primary_contact
+      label: -- Primary Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: mobile_phone
+      label: Mobile Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: home_phone
+      label: Home Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: address_street
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: address_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: address_state
+      label: State/Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: address_zip
+      label: Zip/Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: header_preferences
+      label: -- Communication Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: preferred_contact_method
+      label: Preferred way for the church to contact you
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Text Message
+      - Phone Call
+      - Mailing
+      required: true
+    - id: 13
+      name: newsletter_subscription
+      label: Would you like to receive our weekly email newsletter?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: header_family
+      label: -- Family Information (Optional) --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: spouse_name
+      label: Spouse Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: children_names
+      label: Children's Names and Ages
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: visitor_or_member
+      label: Are you a member or visitor?
+      hint: null
+      type: select_one
+      options:
+      - Member
+      - Regular Attendee
+      - Visitor
+      required: true
+    - id: 18
+      name: prayer_request_consent
+      label: Would you like to be added to our prayer list?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: comment_section
+      label: Anything else you would like us to know?
+      hint: null
+      type: text
+      options: []
+      required: false

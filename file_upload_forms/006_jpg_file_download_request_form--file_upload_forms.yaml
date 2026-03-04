@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: jpg_file_download_request_form
+    pages:
+    - id: 1
+      name: main_page
+      label: Main
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: requester_details
+      label: Requester Details
+      hint: null
+      type: select_multiple
+      options:
+      - '{''Requester Type'': ''Individual''}'
+      - '{''Requester Type'': ''Group''}'
+      - '{''Requester Type'': ''Organization''}'
+      required: false
+    - id: 3
+      name: requester_type
+      label: Requester Type
+      hint: null
+      type: select_one
+      options:
+      - Individual
+      - Group
+      - Organization
+      required: false
+    - id: 4
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: purpose
+      label: Purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: intended_use
+      label: Intended Use
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: timing
+      label: Timing
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

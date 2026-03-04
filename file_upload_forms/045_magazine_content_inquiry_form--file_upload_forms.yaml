@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Magazine Content Inquiry Form
+    pages:
+    - id: 1
+      name: contributor_info
+      label: Contributor Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: story_ideas
+      label: Story Ideas
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: review_materials
+      label: Review Materials
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: editorial_decision
+      label: Editorial Decision
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: pitch_status
+      label: Pitch Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Pending''}'
+      - '{''label'': ''In Progress''}'
+      - '{''label'': ''Published''}'
+      - '{''label'': ''Rejected''}'
+      required: false
+    - id: 6
+      name: data_collection
+      label: Data Collection
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: review_deadline
+      label: Review Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: submission_deadline
+      label: Submission Deadline
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Modeling Consultant Feedback
+    pages:
+    - id: 1
+      name: first_name
+      label: FirstName
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: LastName
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: consultant_rating
+      label: ConsultantRating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 6
+      name: project_rating
+      label: ProjectRating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 7
+      name: communication
+      label: Communication
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 8
+      name: response_time
+      label: ResponseTime
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 9
+      name: feedback
+      label: Feedback
+      hint: Please provide any additional feedback
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submitted_by
+      label: SubmittedBy
+      hint: null
+      type: text
+      options: []
+      required: false

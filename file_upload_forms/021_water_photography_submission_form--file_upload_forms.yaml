@@ -1,0 +1,167 @@
+inputSchema:
+  type: object
+  properties:
+    title: Water Photography Submission Form
+    pages:
+    - id: 1
+      name: water_photography_submission_form
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: photo_description
+      label: Photo Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: photo_upload
+      label: Upload Photo
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: photographer_name
+      label: Photographer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email_address
+      label: E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: photo_credit
+      label: Photo Credit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: tags
+      label: Tags
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: gallery_name
+      label: Gallery Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: photo_url
+      label: Photo URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 15
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 16
+      name: review_comments
+      label: Review Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: reviewer_name
+      label: Reviewer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: reviewer_email
+      label: Reviewer E-mail
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: reviewer_phone
+      label: Reviewer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: category_id
+      label: Category ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: gallery_id
+      label: Gallery
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: photo_credit_id
+      label: Photo Credit
+      hint: null
+      type: text
+      options: []
+      required: false

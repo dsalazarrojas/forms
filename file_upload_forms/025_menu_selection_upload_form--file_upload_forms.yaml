@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Menu Selection Upload Form
+    pages:
+    - id: 1
+      name: upload_form
+      label: Upload Menu Selection Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: files
+      label: Select and Upload Files
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: restaurant_name
+      label: Restaurant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: menu_item
+      label: Menu Item
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: price
+      label: Price
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: upload_file
+      label: Upload Menu Item File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_uploaded
+      label: Date Uploaded
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: uploaded_by
+      label: Uploaded by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: uploaded_at
+      label: Time Uploaded
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: menu_selection_uploaded
+      label: Menu Selection Uploaded
+      hint: null
+      type: select_one
+      options:
+      - Item A
+      - Item B
+      - Item C
+      required: false
+    - id: 12
+      name: file_upload_status
+      label: File Upload Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Pending
+      - Rejected
+      required: false
+    - id: 13
+      name: uploaded_for
+      label: Uploaded for
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: uploaded_at_location
+      label: Uploaded at Location
+      hint: null
+      type: text
+      options: []
+      required: false

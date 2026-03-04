@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Decoy Development Feedback Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Feedback Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: form_rating
+      label: Form Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: form_comment
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_image
+      label: Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_rated_fields
+      label: Rated Fields
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 6
+      name: form_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

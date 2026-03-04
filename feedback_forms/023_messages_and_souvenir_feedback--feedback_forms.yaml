@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Messages And Souvenir Feedback
+    pages:
+    - id: 1
+      name: souvenir_rating
+      label: Souvenir rating
+      hint: null
+      type: select_one
+      options:
+      - rating1
+      - rating2
+      - rating3
+      - rating4
+      - rating5
+      required: false
+    - id: 2
+      name: souvenir_story
+      label: Story
+      hint: Share a story about the souvenir
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: souvenir_photo
+      label: Photo
+      hint: null
+      type: select_multiple
+      options:
+      - photo1
+      - photo2
+      - photo3
+      required: false
+    - id: 4
+      name: souvenir_rating_comment
+      label: Rating comment
+      hint: Add a comment about the souvenir
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_email
+      label: Contact email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Contact phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: souvenir_recommendation
+      label: Recommended souvenir
+      hint: null
+      type: select_multiple
+      options:
+      - souvenir1
+      - souvenir2
+      - souvenir3
+      required: false
+    - id: 8
+      name: souvenir_name
+      label: Souvenir name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: souvenir_price
+      label: Souvenir price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: souvenir_purchase_date
+      label: Purchase date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: souvenir_purchase_time
+      label: Purchase time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: purchase_location
+      label: Purchase location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: souvenir_warranty
+      label: Souvenir warranty
+      hint: null
+      type: select_one
+      options:
+      - warranty1
+      - warranty2
+      - warranty3
+      required: false
+    - id: 14
+      name: souvenir_condition
+      label: Souvenir condition
+      hint: null
+      type: select_one
+      options:
+      - condition1
+      - condition2
+      - condition3
+      required: false
+    - id: 15
+      name: souvenir_serial_number
+      label: Souvenir serial number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: souvenir_brand
+      label: Souvenir brand
+      hint: null
+      type: select_one
+      options:
+      - brand1
+      - brand2
+      - brand3
+      required: false
+    - id: 17
+      name: souvenir_model
+      label: Souvenir model
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: souvenir_color
+      label: Souvenir color
+      hint: null
+      type: select_one
+      options:
+      - color1
+      - color2
+      - color3
+      required: false
+    - id: 19
+      name: souvenir_size
+      label: Souvenir size
+      hint: null
+      type: select_one
+      options:
+      - size1
+      - size2
+      - size3
+      required: false
+    - id: 20
+      name: souvenir_materials
+      label: Souvenir materials
+      hint: null
+      type: select_multiple
+      options:
+      - material1
+      - material2
+      - material3
+      required: false
+    - id: 21
+      name: souvenir_designer
+      label: Souvenir designer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: souvenir_description
+      label: Souvenir description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: souvenir_additional_info
+      label: Souvenir additional info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: souvenir_recommendations
+      label: Souvenir recommendations
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: souvenir_notes
+      label: Souvenir notes
+      hint: null
+      type: text
+      options: []
+      required: true

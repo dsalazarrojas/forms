@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: Kitchen Renovation Feedback
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very Poor
+      required: true
+    - id: 6
+      name: satisfaction_score
+      label: Satisfaction Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: referral_name
+      label: Referral Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: referral_contact
+      label: Referral Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: work_order_number
+      label: Work Order Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: project_manager
+      label: Project Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: project_contact
+      label: Project Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: date_of_completion
+      label: Date of Completion
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: time_of_completion
+      label: Time of Completion
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: project_duration
+      label: Project Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: total_cost
+      label: Total Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: true

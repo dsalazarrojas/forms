@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mobile Service Feedback Form
+    pages:
+    - id: 1
+      name: service_feedback
+      label: Mobile Service Feedback
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: comment
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: service_name
+      label: Service Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: service_description
+      label: Service Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: recommendation
+      label: Recommendation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: submission
+      label: Submission
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: E Commerce Shopping Experience Feedback Form
+    pages:
+    - id: 1
+      name: form_1_01
+      label: product_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_1_02
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: form_1_03
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: form_1_04
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: form_1_05
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: form_1_06
+      label: purchase_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: form_1_07
+      label: purchase_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: form_1_08
+      label: purchase_amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: form_1_09
+      label: product_id
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      required: true
+    - id: 10
+      name: form_1_10
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,108 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Acquittal Feedback Survey
+    pages:
+    - id: 1
+      name: case_reference_number
+      label: Case Reference Number
+      hint: For internal record matching
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_acquittal
+      label: Date of Acquittal
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: overall_experience_with_legal_team
+      label: Overall Experience with Legal Team
+      hint: Rate your satisfaction
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Dissatisfied
+      - Neutral
+      - Satisfied
+      - Very Satisfied
+      required: true
+    - id: 4
+      name: clarity_of_communication
+      label: Clarity of Communication
+      hint: How well did the team explain the process?
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      required: true
+    - id: 5
+      name: support_received_during_trial
+      label: Support Received During Trial
+      hint: Emotional and logistical support
+      type: select_one
+      options:
+      - Insufficient
+      - Adequate
+      - Outstanding
+      required: true
+    - id: 6
+      name: key_strengths_of_the_defense
+      label: Key Strengths of the Defense
+      hint: What did the legal team do best?
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: areas_for_legal_process_improvement
+      label: Areas for Legal Process Improvement
+      hint: What could have been better?
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: likelihood_to_recommend_counsel
+      label: Likelihood to Recommend Counsel
+      hint: 1 - Not likely, 10 - Very likely
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+      required: true
+    - id: 9
+      name: additional_comments_on_the_outcome
+      label: Additional Comments on the Outcome
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: survey_footer
+      label: -- Information provided is for service improvement only --
+      hint: Your responses remain confidential
+      type: note
+      options: []
+      required: false

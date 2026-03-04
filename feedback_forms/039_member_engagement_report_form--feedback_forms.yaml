@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Member Engagement Report Form
+    pages:
+    - id: 1
+      name: member_awareness
+      label: Member Awareness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: member_participation
+      label: Member Participation
+      hint: How often do you participate in our events?
+      type: select_one
+      options:
+      - Always
+      - Frequently
+      - Occasionally
+      - Never
+      required: false
+    - id: 3
+      name: communication_channels
+      label: Communication Channels
+      hint: Which channels do you prefer for receiving communications from us?
+      type: select_multiple
+      options:
+      - Email
+      - SMS
+      - Phone
+      - In person
+      - Social media
+      required: false
+    - id: 4
+      name: communication_frequency
+      label: Communication Frequency
+      hint: How often do you want to receive communications from us?
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Biweekly
+      - Monthly
+      - Quarterly
+      - Yearly
+      required: false
+    - id: 5
+      name: contact_us
+      label: Contact Us
+      hint: How can we best contact you?
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - In person
+      - Social media
+      - Postal mail
+      required: false
+    - id: 6
+      name: member_insights
+      label: Member Insights
+      hint: null
+      type: select_one
+      options:
+      - Demographics
+      - Feedback
+      - Participation
+      - Awareness
+      - Other
+      required: false
+    - id: 7
+      name: feedback
+      label: What would you like to tell us about your experience?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

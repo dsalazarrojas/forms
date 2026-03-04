@@ -1,0 +1,147 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Cheese Plate Feedback Survey
+    pages:
+      - id: 1
+        name: section_guest_id
+        label: -- Guest Visit Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: guest_full_name_opt
+        label: Guest Name
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: visit_occurrence_date
+        label: Date of Visit
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: section_cheese_quality
+        label: -- Cheese Plate Evaluation --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 5
+        name: cheese_variety_rating_score
+        label: Rating of Cheese Variety and Selection
+        hint: null
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 6
+        name: cheese_freshness_rating_score
+        label: Rating of Freshness and Quality
+        hint: null
+        type: select_one
+        options:
+          - Very Fresh
+          - Fresh
+          - Average
+          - Not Fresh
+        required: true
+      - id: 7
+        name: plate_presentation_rating_score
+        label: Rating of Plate Presentation / Aesthetics
+        hint: null
+        type: select_one
+        options:
+          - 5 - Stunning
+          - 4 - Attractive
+          - 3 - Standard
+          - 2 - Unappealing
+        required: true
+      - id: 8
+        name: favorite_cheese_item
+        label: Which was your favorite cheese on the plate
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: section_pairings_portions
+        label: -- Pairings and Portions --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: pairing_satisfaction_choices
+        label: Which pairings did you enjoy most
+        hint: null
+        type: select_multiple
+        options:
+          - Wine Pairings
+          - Dried / Fresh Fruits
+          - Candied Nuts
+          - Artisan Crackers / Breads
+          - Honey / Preserves
+        required: false
+      - id: 11
+        name: portion_size_satisfaction_rating
+        label: Were the portion sizes appropriate
+        hint: null
+        type: select_one
+        options:
+          - Just Right
+          - Too Small
+          - Too Large
+        required: true
+      - id: 12
+        name: value_for_money_rating_score
+        label: Overall Value for Money
+        hint: null
+        type: select_one
+        options:
+          - Great Value
+          - Fair Price
+          - Expensive
+        required: true
+      - id: 13
+        name: general_guest_comments_area
+        label: Additional Comments or Suggestions
+        hint: How can we improve our cheese selection
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: staff_service_rating_score
+        label: Rating of Server Knowledge about Cheeses
+        hint: null
+        type: select_one
+        options:
+          - Very Knowledgeable
+          - Helpful
+          - Not Knowledgeable
+        required: false
+      - id: 15
+        name: feedback_submission_timestamp
+        label: Submission Date
+        hint: null
+        type: date
+        options: []
+        required: true

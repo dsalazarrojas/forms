@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Livestock Welfare Inspection Feedback Survey
+    pages:
+    - id: 1
+      name: farm_location
+      label: Farm Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: farm_id
+      label: Livestock Farm ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: date_of_inspection
+      label: Date of Inspection
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: time_of_inspection
+      label: Time of Inspection
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: animal_condition
+      label: Overall Animal Condition
+      hint: Please select all that apply
+      type: select_multiple
+      options:
+      - Very Healthy
+      - Somewhat Healthy
+      - Unhealthy
+      - Very Unhealthy
+      required: true
+    - id: 6
+      name: food_water_supplies
+      label: Food/Water Supplies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: shelter_provided
+      label: Shelter Provided
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: handling_and_harshness
+      label: Handling and Harshness
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: overall_conditions
+      label: Overall Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: recommendations
+      label: Recommendations
+      hint: null
+      type: text
+      options: []
+      required: false

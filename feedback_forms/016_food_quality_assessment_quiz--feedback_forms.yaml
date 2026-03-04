@@ -1,0 +1,37 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Quality Assessment Quiz
+    pages:
+    - id: 1
+      name: food_quality_assessment_quiz
+      label: Food Quality Assessment Quiz
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_feedback
+      label: Customer Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: rating_scale
+      label: Rating Scale
+      hint: null
+      type: select_multiple
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      required: false
+    - id: 4
+      name: food_rating
+      label: Food Rating
+      hint: null
+      type: number
+      options: []
+      required: false

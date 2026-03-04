@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Absensi Ibadah Persekutuan Jumat PO FEB UI
+    pages:
+    - id: 1
+      name: section_header_info_kehadiran
+      label: -- Attendance Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: nama_lengkap
+      label: Full name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: nomor_telepon
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: angkatan
+      label: Year of enrollment or batch
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: program_studi
+      label: Program of study
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: tanggal_ibadah
+      label: Date of fellowship service
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: section_header_feedback
+      label: -- Service Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: attendance_status
+      label: Attendance status
+      hint: null
+      type: select_one
+      options:
+      - Present - attended full service
+      - Present - attended partially
+      - Absent
+      required: true
+    - id: 10
+      name: service_rating
+      label: How would you rate today's fellowship service
+      hint: 1 = Poor, 5 = Excellent
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 11
+      name: sermon_topic_relevance
+      label: Was the sermon topic relevant and meaningful to you
+      hint: null
+      type: select_one
+      options:
+      - Very relevant
+      - Somewhat relevant
+      - Neutral
+      - Not very relevant
+      required: false
+    - id: 12
+      name: worship_experience
+      label: How was your worship experience
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Needs improvement
+      required: false
+    - id: 13
+      name: prayer_request
+      label: Do you have a prayer request you would like to share
+      hint: This will be kept confidential
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: suggestions
+      label: Suggestions for improving future fellowship services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: interest_in_serving
+      label: Are you interested in serving or volunteering in fellowship activities
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - Maybe
+      - 'No'
+      required: false

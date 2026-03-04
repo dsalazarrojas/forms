@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: judging-workshop-feedback-survey
+    pages:
+    - id: 1
+      name: first_page
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: rating
+      label: how-was-your-experience
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: rating_choice_1
+      label: very-poor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: rating_choice_2
+      label: average
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: rating_choice_3
+      label: good
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: rating_choice_4
+      label: excellent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: rating_choice_5
+      label: very-good
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: rating_choice_6
+      label: outstanding
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: additional_comments
+      label: any-additional-comments
+      hint: null
+      type: note
+      options: []
+      required: false

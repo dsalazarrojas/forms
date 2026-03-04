@@ -1,0 +1,257 @@
+inputSchema:
+  type: object
+  properties:
+    title: Climate Research Data Submission Form
+    pages:
+    - id: 1
+      name: intro_section
+      label: Climate Research Data Submission
+      hint: Submit your climate research data and findings
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: researcher_info
+      label: -- Researcher Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: researcher_name
+      label: Primary Researcher Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: researcher_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: researcher_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: institution
+      label: Institution or Organization
+      hint: University, research center, etc.
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: department
+      label: Department or Research Group
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: study_info
+      label: -- Research Study Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: study_title
+      label: Study or Research Project Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: study_description
+      label: Study Description
+      hint: Brief summary of your research
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: research_focus
+      label: Primary Research Focus
+      hint: null
+      type: select_one
+      options:
+      - Climate Change Modeling
+      - Climate Impacts Assessment
+      - Mitigation Strategies
+      - Adaptation Research
+      - Carbon Cycle Research
+      - Ocean and Ice Dynamics
+      - Atmospheric Science
+      - Renewable Energy
+      - Social and Economic Impacts
+      - Other
+      required: true
+    - id: 12
+      name: geographic_scope
+      label: Geographic Scope
+      hint: Global, regional, local, etc.
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: time_period
+      label: Time Period Covered by Research
+      hint: Years or date range
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: methodology_section
+      label: -- Methodology and Data Type --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: methodology
+      label: Research Methodology
+      hint: Observational, modeling, experimental, etc.
+      type: select_one
+      options:
+      - Observational
+      - Modeling and Simulation
+      - Experimental
+      - Meta-Analysis
+      - Survey
+      - Hybrid Approach
+      - Other
+      required: true
+    - id: 16
+      name: data_types
+      label: Types of Data Included
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Climate Measurements
+      - Model Output
+      - Satellite Data
+      - Field Observations
+      - Laboratory Data
+      - Statistical Analysis
+      - Geospatial Data
+      - Other
+      required: true
+    - id: 17
+      name: data_format
+      label: Primary Data Format
+      hint: CSV, NetCDF, HDF5, text files, etc.
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: dataset_size
+      label: Approximate Dataset Size
+      hint: In megabytes or gigabytes
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: quality_assurance
+      label: Quality Assurance Measures Applied
+      hint: Validation, error checking, etc.
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: findings_section
+      label: -- Key Findings and Results --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: key_findings
+      label: Key Findings or Results
+      hint: Describe main conclusions
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: implications
+      label: Implications for Climate Policy or Management
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: limitations
+      label: Study Limitations or Caveats
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: data_submission
+      label: -- Data Files Submission --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: primary_data_file
+      label: Upload Primary Data File
+      hint: Main dataset
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: secondary_data
+      label: Upload Secondary Data or Supporting Files
+      hint: Optional - additional datasets
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: documentation_file
+      label: Upload Data Documentation or Readme
+      hint: Metadata and variable descriptions
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: methodology_file
+      label: Upload Detailed Methodology Document
+      hint: Methods, protocols, equations, etc.
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: publication_section
+      label: -- Publication and Licensing --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: publication_status
+      label: Publication Status of Research
+      hint: null
+      type: select_one
+      options:
+      - Published
+      - In Review
+      - In Preparation
+      - Not Intended for Publication
+      required: true
+    - id: 31
+      name: data_license
+      label: Preferred Data License
+      hint: null
+      type: select_one
+      options:
+      - Creative Commons Attribution
+      - Creative Commons Attribution-ShareAlike
+      - Open Data Commons Attribution
+      - Restricted Access
+      - Custom License
+      - Not Specified
+      required: false

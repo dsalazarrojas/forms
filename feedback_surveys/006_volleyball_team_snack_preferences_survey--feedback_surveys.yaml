@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Volleyball Team Snack Preferences Survey
+    pages:
+    - id: 1
+      name: main_page
+      label: Volleyball Team Snack Preferences Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: main_page_snacks
+      label: Snacks
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: main_page_dietary_preferences
+      label: Dietary Preferences
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: main_page_special_diets
+      label: Special Diets
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: main_page_food_allergies
+      label: Food Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: main_page_additional_info
+      label: Additional Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: main_page_coach_preferences
+      label: Coach Preferences
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: main_page_additional_info_2
+      label: Additional Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: main_page_submission_confirmation
+      label: Submission Confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

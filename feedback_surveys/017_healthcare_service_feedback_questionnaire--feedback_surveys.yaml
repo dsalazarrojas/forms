@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare Service Feedback Questionnaire
+    pages:
+    - id: 1
+      name: healthcare_service_feedback_questionnaire
+      label: What do you think about our service?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: healthcare_service_feedback
+      label: Overall rating (1-5)
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - N/A
+      required: false
+    - id: 3
+      name: healthcare_service_rating
+      label: What would you rate our service?
+      hint: 1-5 stars
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 4
+      name: healthcare_service_suggestion
+      label: Do you have any suggestions for us?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: healthcare_service_email
+      label: Your email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: healthcare_service_phone
+      label: Your phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: healthcare_service_additional_comments
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: healthcare_service_agree_to_share
+      label: Agree to share your feedback
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

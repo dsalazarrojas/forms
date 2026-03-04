@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: AI Motion Feedback Survey
+    pages:
+    - id: 1
+      name: --session_information--
+      label: -- Session Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Participant name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: session_date
+      label: Session date
+      hint: Date of trial or session
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: activity_type
+      label: Activity type
+      hint: e.g., running, lifting, yoga
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: perceived_accuracy
+      label: Perceived accuracy of motion feedback
+      hint: Rate 1 lowest to 5 highest
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: ease_of_use
+      label: Ease of use of system
+      hint: Rate 1 lowest to 5 highest
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: usefulness
+      label: Usefulness of feedback for improvement
+      hint: Rate 1 lowest to 5 highest
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: bugs_or_issues
+      label: Any bugs or issues observed
+      hint: Describe briefly
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: suggestions
+      label: Suggestions for improvement
+      hint: Specific ideas or features
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: consent_to_share
+      label: Consent to share anonymized data for research
+      hint: Select one
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

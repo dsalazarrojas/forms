@@ -1,0 +1,168 @@
+inputSchema:
+  type: object
+  properties:
+    title: BOD Demo Feedback Survey
+    pages:
+    - id: 1
+      name: attendee_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: demo_date
+      label: Date of Demo
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: demo_topic
+      label: Demo Topic or Product
+      hint: What was being demonstrated?
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: presenter_name
+      label: Presenter Name
+      hint: Who gave the demo?
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: overall_quality
+      label: Overall Demo Quality
+      hint: Rate from 1 (poor) to 10 (excellent)
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: content_relevance
+      label: Relevance of Content to Your Needs
+      hint: null
+      type: select_one
+      options:
+      - Highly relevant
+      - Relevant
+      - Somewhat relevant
+      - Not relevant
+      - Unsure
+      required: true
+    - id: 9
+      name: presentation_clarity
+      label: Clarity of Presentation
+      hint: Was it easy to understand?
+      type: select_one
+      options:
+      - Very clear
+      - Clear
+      - Somewhat clear
+      - Unclear
+      - Very unclear
+      required: true
+    - id: 10
+      name: pacing
+      label: Pacing of the Demo
+      hint: Was the speed appropriate?
+      type: select_one
+      options:
+      - Too fast
+      - Just right
+      - Too slow
+      - Inconsistent
+      required: false
+    - id: 11
+      name: visuals_quality
+      label: Quality of Visuals and Slides
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 12
+      name: time_allocation
+      label: Was Time Allocated Well?
+      hint: Between different topics
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 13
+      name: q_and_a_quality
+      label: Quality of Q&A Session
+      hint: Were questions answered thoroughly?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - No Q&A session
+      required: false
+    - id: 14
+      name: key_learnings
+      label: Key Learnings or Takeaways
+      hint: What did you learn?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: improvements_needed
+      label: Areas for Improvement
+      hint: What could be better?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: likely_to_purchase
+      label: Likelihood of Purchase or Implementation
+      hint: null
+      type: select_one
+      options:
+      - Very Likely
+      - Likely
+      - Neutral
+      - Unlikely
+      - Very Unlikely
+      required: false
+    - id: 17
+      name: would_attend_again
+      label: Would You Attend a Similar Demo?
+      hint: null
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Unsure
+      - Probably No
+      - Definitely No
+      required: false
+    - id: 18
+      name: additional_feedback
+      label: Additional Feedback
+      hint: null
+      type: text
+      options: []
+      required: false

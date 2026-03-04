@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Warehouse Delivery Check In Form
+    pages:
+    - id: 1
+      name: delivery_details
+      label: Delivery Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: delivery_driver
+      label: Delivery Driver
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: delivery_location
+      label: Delivery Location
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: delivery_note
+      label: Delivery Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: upload_file
+      label: Upload File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: warehouse_dock
+      label: Warehouse Dock
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: driver_arrival_time
+      label: Driver Arrival Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: delivery_status
+      label: Delivery Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: delivery_priority
+      label: Delivery Priority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: upload_document
+      label: Upload Document
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: delivery_date2
+      label: Delivery Date 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: upload_file2
+      label: Upload File 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: warehouse_dock2
+      label: Warehouse Dock 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: delivery_status2
+      label: Delivery Status 2
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

@@ -1,0 +1,68 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Identify Your Culinary Style
+    pages:
+    - id: 1
+      name: cuisines
+      label: Favorite cuisines
+      hint: Select your preferred cuisines
+      type: select_multiple
+      options:
+      - Italian
+      - Chinese
+      - Indian
+      - Japanese
+      - Mexican
+      - French
+      - Middle Eastern
+      - Thai
+      required: false
+    - id: 2
+      name: cooking_techniques
+      label: Cooking techniques
+      hint: Select your preferred cooking techniques
+      type: select_one
+      options:
+      - Grilling
+      - Frying
+      - Baking
+      - Boiling
+      - Steaming
+      required: false
+    - id: 3
+      name: dish_types
+      label: Favorite dish types
+      hint: Select your preferred dish types
+      type: select_one
+      options:
+      - Salads
+      - Soups
+      - Casseroles
+      - Stir-fries
+      - Curries
+      required: false
+    - id: 4
+      name: flavor_profiles
+      label: Preferred flavors
+      hint: Select your preferred flavors
+      type: select_one
+      options:
+      - Spicy
+      - Sweet
+      - Salty
+      - Sour
+      - Sour-sweet
+      - Salty-sweet
+      required: false

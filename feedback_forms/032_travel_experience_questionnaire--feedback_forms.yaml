@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Experience Questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: trip_details
+      label: Trip Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: accommodations
+      label: Accommodations
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Hotel''}'
+      - '{''option2'': ''Airbnb''}'
+      - '{''option3'': ''Other''}'
+      required: true
+    - id: 4
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: trip_satisfaction
+      label: Trip Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

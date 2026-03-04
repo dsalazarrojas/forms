@@ -1,0 +1,45 @@
+inputSchema:
+  type: object
+  properties:
+    title: employee_diversity_workshop_feedback_evaluation_form
+    pages:
+    - id: 1
+      name: name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: feedback
+      label: Workshop Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: rating
+      label: Overall Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: attendance
+      label: Attendance
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false

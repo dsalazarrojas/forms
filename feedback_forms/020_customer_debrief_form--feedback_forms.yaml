@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Debrief Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: Enter name of the client
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_visit
+      label: Date of Visit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: feedback
+      label: Feedback
+      hint: What do you like about your experience? What did we do well?
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: suggestions
+      label: Suggestions
+      hint: Is there anything you would like to do differently next time?
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Mobile
+      - Email
+      - Phone
+      required: true
+    - id: 6
+      name: follow_up_contact
+      label: Follow-up Contact
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Mobile
+      required: true
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: staff_comments
+      label: Staff Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: internal_notes
+      label: Internal Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: review_comments
+      label: Review Comments
+      hint: null
+      type: text
+      options: []
+      required: false

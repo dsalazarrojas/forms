@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: guided_tour_experience_feedback_form
+    pages:
+    - id: 1
+      name: tour_type
+      label: What type of tour are you on?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: feedback
+      label: How would you rate the tour?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: comment
+      label: Do you have any comments about the tour?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: tour_date
+      label: Tour Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: tour_time
+      label: Tour Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: tour_duration
+      label: Duration of tour
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: participants
+      label: Number of participants
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: rating
+      label: How would you rate your overall experience?
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 9
+      name: suggestion
+      label: Have we made any improvements?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: feedback_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: suggestion2
+      label: Have you visited this venue before?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

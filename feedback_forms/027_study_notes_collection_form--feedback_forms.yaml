@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Study Notes Collection Form
+    pages:
+    - id: 1
+      name: study_notes
+      label: Study Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: study_materials
+      label: Study Materials
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 4
+      name: email
+      label: E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - Feedback Forms
+      - Study Materials
+      - Other
+      required: false
+    - id: 10
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: submitted_to
+      label: Submitted To
+      hint: null
+      type: select_multiple
+      options:
+      - User
+      - Admin
+      - Both
+      required: false
+    - id: 14
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: attachments
+      label: Attachments
+      hint: null
+      type: select_multiple
+      options:
+      - Image
+      - Audio
+      - Video
+      required: false
+    - id: 16
+      name: attachment
+      label: Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: study_level
+      label: Study Level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 18
+      name: subject
+      label: Subject
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: class
+      label: Class
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: instructor
+      label: Instructor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: course
+      label: Course
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: attendees
+      label: Attendees
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      - Archived
+      required: false
+    - id: 25
+      name: submitted_by_user
+      label: Submitted By User
+      hint: null
+      type: select_one
+      options:
+      - User
+      - Admin
+      - Both
+      required: false
+    - id: 26
+      name: submission_type
+      label: Submission Type
+      hint: null
+      type: select_one
+      options:
+      - Individual
+      - Group
+      - Both
+      required: false

@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Public Feedback Document Upload Form
+    pages:
+    - id: 1
+      name: public_feedback_form
+      label: Upload Document
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: feedback_type
+      label: Type of Feedback
+      hint: Choose the type of feedback you wish to provide.
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: upload_document
+      label: Document Upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: document_title
+      label: Document Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: submitter_info
+      label: Submitter Info
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,175 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 30 Day Review Feedback Form
+    pages:
+    - id: 1
+      name: section_header_employee_details
+      label: '--- Employee & Role Details ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: Work email (company)
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: Optional, include country code
+      type: phone
+      options: []
+      required: false
+    - id: 5
+      name: start_date
+      label: Start date
+      hint: Date the employee began their role
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: role_title
+      label: Role / job title
+      hint: e.g., "Product Designer II"
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_header_feedback
+      label: '--- 30 Day Feedback ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: satisfaction
+      label: How satisfied are you with your first 30 days?
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 9
+      name: overall_rating
+      label: Overall rating (1-10)
+      hint: 1 = worst, 10 = best
+      type: integer
+      options: []
+      required: true
+    - id: 10
+      name: usage_frequency
+      label: How often do you engage with core team processes?
+      hint: Select the option that best describes your cadence
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      - First time
+      required: true
+    - id: 11
+      name: best_aspects
+      label: Best aspects of the onboarding and first month (select all that apply)
+      hint: Choose all that apply
+      type: select_multiple
+      options:
+      - Clear expectations
+      - Helpful teammates
+      - Effective training
+      - Access to resources
+      - Supportive manager
+      - Good tooling
+      required: false
+    - id: 12
+      name: areas_to_improve
+      label: What would you improve about the onboarding or first month?
+      hint: Be specific about processes, tools, or communications
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: manager_support
+      label: Manager support and feedback quality
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Adequate
+      - Poor
+      - Not applicable
+      required: true
+    - id: 14
+      name: goals_understanding
+      label: Clarity of goals for the next 60 days
+      hint: How clear are your immediate objectives?
+      type: select_one
+      options:
+      - Clear
+      - Somewhat clear
+      - Unclear
+      - Not set
+      required: true
+    - id: 15
+      name: training_needs
+      label: Additional training or resources needed (select all that apply)
+      hint: Select areas where more support would help
+      type: select_multiple
+      options:
+      - Role-specific training
+      - Product knowledge
+      - Systems / tools
+      - Company processes
+      - Communication skills
+      - Time management
+      required: false
+    - id: 16
+      name: would_recommend
+      label: Would you recommend this company/team to new hires?
+      hint: null
+      type: select_one
+      options:
+      - Definitely
+      - Probably
+      - Not sure
+      - Probably not
+      - false
+      required: true
+    - id: 17
+      name: additional_comments
+      label: Additional comments or suggestions
+      hint: Any other observations, concerns, or praise
+      type: text
+      options: []
+      required: false

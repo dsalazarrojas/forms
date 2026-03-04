@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: music_streaming_app_interface_feedback_survey
+    pages:
+    - id: 1
+      name: main_page
+      label: music_streaming_app_interface_feedback_survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: home_page
+      label: home_page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: search_results_page
+      label: search_results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: profile_page
+      label: profile
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''profile_info''}'
+      - '{''value'': ''profile_settings''}'
+      required: true
+    - id: 5
+      name: feedback_page
+      label: feedback
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''music_recommendations''}'
+      - '{''value'': ''interface_changes''}'
+      - '{''value'': ''bug_report''}'
+      required: false
+    - id: 6
+      name: rating_page
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: rating_scale
+      label: rate_your_experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: rating_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email_page
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone_page
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

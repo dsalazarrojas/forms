@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Faith Based Study Feedback Form
+    pages:
+    - id: 1
+      name: session_evaluation
+      label: Session Evaluation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: improvement_areas
+      label: Improvement Areas
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: data_collection
+      label: Data Collection
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

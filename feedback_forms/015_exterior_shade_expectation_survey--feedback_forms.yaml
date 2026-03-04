@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Exterior Shade Expectation Survey
+    pages:
+    - id: 1
+      name: exterior_shade_expectation_survey_form
+      label: Exterior Shade Expectation Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Email''}'
+      - '{''id'': 2, ''label'': ''Phone''}'
+      - '{''id'': 3, ''label'': ''Post''}'
+      required: false
+    - id: 5
+      name: shade_location
+      label: Shade Location
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Living Room''}'
+      - '{''id'': 2, ''label'': ''Bedroom''}'
+      - '{''id'': 3, ''label'': ''Bathroom''}'
+      - '{''id'': 4, ''label'': ''Kitchen''}'
+      - '{''id'': 5, ''label'': ''Other''}'
+      required: false
+    - id: 6
+      name: shade_type
+      label: Shade Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Light Filter''}'
+      - '{''id'': 2, ''label'': ''Darkening''}'
+      - '{''id'': 3, ''label'': ''Blinds''}'
+      - '{''id'': 4, ''label'': ''Shades''}'
+      - '{''id'': 5, ''label'': ''Other''}'
+      required: false
+    - id: 7
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false

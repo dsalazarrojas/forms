@@ -1,0 +1,250 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camper Satisfaction Survey Form
+    pages:
+    - id: 1
+      name: camper_name
+      label: Your Name
+      hint: First name only is fine
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: age
+      label: Your Age
+      hint: How old are you
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: camp_session
+      label: Which Camp Session Did You Attend
+      hint: Select session
+      type: select_one
+      options:
+      - Session 1
+      - Session 2
+      - Session 3
+      - Session 4
+      - Full summer
+      required: true
+    - id: 4
+      name: overall_enjoyment
+      label: How Much Did You Enjoy Camp Overall
+      hint: Rate your enjoyment
+      type: select_one
+      options:
+      - 5 - Loved it
+      - 4 - Enjoyed it a lot
+      - 3 - Enjoyed it somewhat
+      - 2 - Did not enjoy much
+      - 1 - Did not enjoy at all
+      required: true
+    - id: 5
+      name: counselor_rating
+      label: How Would You Rate Your Counselor
+      hint: Rate your counselor
+      type: select_one
+      options:
+      - 5 - Excellent
+      - 4 - Very Good
+      - 3 - Good
+      - 2 - Fair
+      - 1 - Poor
+      required: true
+    - id: 6
+      name: counselor_friendliness
+      label: Was Your Counselor Friendly and Helpful
+      hint: Yes or no
+      type: select_one
+      options:
+      - Yes - very friendly
+      - Yes - somewhat friendly
+      - Neutral
+      - No - not very friendly
+      - No - not friendly at all
+      required: true
+    - id: 7
+      name: activities_rating
+      label: How Would You Rate the Activities
+      hint: Rate the activities
+      type: select_one
+      options:
+      - 5 - Excellent
+      - 4 - Very Good
+      - 3 - Good
+      - 2 - Fair
+      - 1 - Poor
+      required: true
+    - id: 8
+      name: favorite_activity
+      label: What Was Your Favorite Activity
+      hint: Select your favorite
+      type: select_one
+      options:
+      - Sports and games
+      - Swimming
+      - Arts and crafts
+      - Nature activities
+      - Music and singing
+      - Campfires
+      - Field trips
+      - Science experiments
+      - Team building
+      - Free time
+      required: true
+    - id: 9
+      name: least_favorite_activity
+      label: What Was Your Least Favorite Activity
+      hint: What did you like least
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: food_rating
+      label: How Would You Rate the Food
+      hint: Rate the meals
+      type: select_one
+      options:
+      - 5 - Excellent
+      - 4 - Very Good
+      - 3 - Good
+      - 2 - Fair
+      - 1 - Poor
+      required: true
+    - id: 11
+      name: favorite_meal
+      label: What Was Your Favorite Meal
+      hint: Describe
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: cabin_rating
+      label: How Would You Rate Your Cabin
+      hint: Rate your lodging
+      type: select_one
+      options:
+      - 5 - Excellent
+      - 4 - Very Good
+      - 3 - Good
+      - 2 - Fair
+      - 1 - Poor
+      required: true
+    - id: 13
+      name: made_friends
+      label: Did You Make New Friends at Camp
+      hint: Yes or no
+      type: select_one
+      options:
+      - Yes - many friends
+      - Yes - a few friends
+      - Yes - one friend
+      - No - did not make friends
+      required: true
+    - id: 14
+      name: felt_safe
+      label: Did You Feel Safe at Camp
+      hint: Yes or no
+      type: select_one
+      options:
+      - Yes - always felt safe
+      - Yes - mostly safe
+      - Sometimes felt unsafe
+      - No - often felt unsafe
+      required: true
+    - id: 15
+      name: camp_facilities
+      label: How Would You Rate the Camp Facilities
+      hint: Rate the facilities
+      type: select_one
+      options:
+      - 5 - Excellent
+      - 4 - Very Good
+      - 3 - Good
+      - 2 - Fair
+      - 1 - Poor
+      required: true
+    - id: 16
+      name: cleanliness
+      label: How Clean Was the Camp
+      hint: Rate cleanliness
+      type: select_one
+      options:
+      - 5 - Very clean
+      - 4 - Clean
+      - 3 - Somewhat clean
+      - 2 - Not very clean
+      - 1 - Dirty
+      required: true
+    - id: 17
+      name: learned_new_skills
+      label: Did You Learn New Skills at Camp
+      hint: Yes or no
+      type: select_one
+      options:
+      - Yes - many new skills
+      - Yes - some skills
+      - Yes - one or two
+      - No - did not learn much
+      required: true
+    - id: 18
+      name: skills_learned
+      label: What Skills Did You Learn
+      hint: Describe
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: recommend_to_friend
+      label: Would You Recommend Camp to a Friend
+      hint: Yes or no
+      type: select_one
+      options:
+      - Yes - definitely
+      - Yes - probably
+      - Maybe
+      - Probably no
+      - Definitely no
+      required: true
+    - id: 20
+      name: return_to_camp
+      label: Would You Like to Come Back Next Year
+      hint: Yes or no
+      type: select_one
+      options:
+      - Yes - definitely
+      - Yes - probably
+      - Maybe
+      - Probably no
+      - Definitely no
+      required: true
+    - id: 21
+      name: best_memory
+      label: What Is Your Best Memory from Camp
+      hint: Describe your favorite moment
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: improvements_suggested
+      label: What Could We Improve
+      hint: Your suggestions
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: additional_activities
+      label: What Activities Would You Like to See Added
+      hint: Your ideas
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: additional_comments
+      label: Any Other Comments
+      hint: Share your thoughts
+      type: text
+      options: []
+      required: false

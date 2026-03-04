@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pitch Deck Submission Form
+    pages:
+    - id: 1
+      name: pitch_deck
+      label: Pitch Deck
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - category1
+      - category2
+      - category3
+      required: false
+    - id: 3
+      name: name_of_startup
+      label: Name of Startup
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_submission
+      label: Date of Submission
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_of_submission
+      label: Time of Submission
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: description_of_investment
+      label: Description of Investment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: amount_invested
+      label: Amount Invested
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: amount_requested
+      label: Amount Requested
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false

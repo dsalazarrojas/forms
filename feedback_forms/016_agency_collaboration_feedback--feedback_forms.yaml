@@ -1,0 +1,149 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Agency Collaboration Feedback
+    pages:
+    - id: 1
+      name: evaluator_name
+      label: Evaluator Name
+      hint: Enter your name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: evaluator_email
+      label: Evaluator Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: evaluator_role
+      label: Evaluator Role
+      hint: Enter your role in the collaboration
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: agency_name
+      label: Agency Name
+      hint: Enter the name of the agency being evaluated
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: project_name
+      label: Project Name
+      hint: Enter the name of the project worked on together
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: project_duration
+      label: Project Duration
+      hint: How long did the collaboration last?
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: collaboration_overview_header
+      label: -- Collaboration Overview --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: overall_satisfaction_rating
+      label: Overall Satisfaction Rating
+      hint: Rate your overall satisfaction with the collaboration
+      type: select_one
+      options: ["Very Satisfied", "Satisfied", "Neutral", "Dissatisfied", "Very Dissatisfied"]
+      required: true
+    - id: 9
+      name: communication_quality_rating
+      label: Communication Quality Rating
+      hint: Rate the quality of communication with the agency
+      type: select_one
+      options: ["Excellent", "Good", "Average", "Below Average", "Poor"]
+      required: true
+    - id: 10
+      name: responsiveness_rating
+      label: Responsiveness Rating
+      hint: Rate the agency's responsiveness to requests and concerns
+      type: select_one
+      options: ["Excellent", "Good", "Average", "Below Average", "Poor"]
+      required: true
+    - id: 11
+      name: deliverable_quality_rating
+      label: Deliverable Quality Rating
+      hint: Rate the quality of the deliverables provided by the agency
+      type: select_one
+      options: ["Excellent", "Good", "Average", "Below Average", "Poor"]
+      required: true
+    - id: 12
+      name: deadline_adherence_rating
+      label: Deadline Adherence Rating
+      hint: Rate how well the agency met agreed deadlines
+      type: select_one
+      options: ["Excellent", "Good", "Average", "Below Average", "Poor"]
+      required: true
+    - id: 13
+      name: collaboration_strengths
+      label: Collaboration Strengths
+      hint: What were the strongest aspects of the collaboration?
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: areas_for_improvement
+      label: Areas for Improvement
+      hint: What areas could the agency improve on?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: communication_effectiveness
+      label: Communication Effectiveness
+      hint: How effective was the agency's communication throughout the project?
+      type: select_one
+      options: ["Very Effective", "Effective", "Moderately Effective", "Ineffective", "Very Ineffective"]
+      required: true
+    - id: 16
+      name: problem_resolution_ability
+      label: Problem Resolution Ability
+      hint: How well did the agency handle challenges and problems?
+      type: select_one
+      options: ["Excellent", "Good", "Average", "Below Average", "Poor"]
+      required: true
+    - id: 17
+      name: recommendation_likelihood
+      label: Recommendation Likelihood
+      hint: How likely are you to recommend this agency to others?
+      type: select_one
+      options: ["Very Likely", "Likely", "Neutral", "Unlikely", "Very Unlikely"]
+      required: true
+    - id: 18
+      name: future_collaboration_interest
+      label: Future Collaboration Interest
+      hint: Would you be interested in collaborating with this agency again?
+      type: select_one
+      options: ["Definitely Yes", "Probably Yes", "Unsure", "Probably No", "Definitely No"]
+      required: true
+    - id: 19
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other feedback or comments about the collaboration
+      type: text
+      options: []
+      required: false

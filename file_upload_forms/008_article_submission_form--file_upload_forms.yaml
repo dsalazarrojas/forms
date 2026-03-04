@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Article Submission Form
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- Author Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: author_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: author_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: author_email
+      label: Email Address
+      hint: Verification and correspondence email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: author_phone
+      label: Phone Number
+      hint: Contact number for editorial purposes
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: author_institution
+      label: Institution or Organization
+      hint: University, company, or organization affiliation
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: author_bio
+      label: Author Biography
+      hint: Brief bio (50-100 words) for publication
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: section_header_2
+      label: -- Article Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: article_title
+      label: Article Title
+      hint: Complete and final title
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: article_abstract
+      label: Abstract or Summary
+      hint: 150-300 word summary of the article
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: article_keywords
+      label: Keywords or Tags
+      hint: 3-5 relevant keywords separated by commas
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: article_category
+      label: Article Category
+      hint: Primary subject category
+      type: select_one
+      options:
+      - Technology
+      - Science
+      - Business
+      - Health
+      - Education
+      - Arts and Culture
+      - Opinion
+      - Other
+      required: true
+    - id: 13
+      name: word_count
+      label: Word Count
+      hint: Approximate number of words in the article
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: section_header_3
+      label: -- File Upload --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: article_file
+      label: Article File Upload
+      hint: Upload your article in DOC, DOCX, PDF, or TXT format
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: supporting_documents
+      label: Supporting Documents
+      hint: Optional - research notes, appendices, or references
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: section_header_4
+      label: -- Publication Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: previously_published
+      label: Has this article been published elsewhere?
+      hint: Disclose any prior publication
+      type: select_one
+      options:
+      - No, this is original
+      - Yes, previously published
+      - Yes, under consideration elsewhere
+      required: true
+    - id: 19
+      name: publication_details
+      label: Where and when was it published?
+      hint: If previously published, provide details
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: section_header_5
+      label: -- Rights and Licensing --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: copyright_ownership
+      label: I own the copyright to this work
+      hint: Confirm you hold copyright to the submitted article
+      type: select_one
+      options:
+      - Yes, I own the copyright
+      - No, rights managed by other party
+      required: true
+    - id: 22
+      name: license_type
+      label: Preferred Publishing License
+      hint: Select the license for your article
+      type: select_one
+      options:
+      - Creative Commons Attribution
+      - Creative Commons Attribution-ShareAlike
+      - Creative Commons Attribution-NoDerivs
+      - All Rights Reserved
+      required: false
+    - id: 23
+      name: section_header_6
+      label: -- Terms and Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: terms_agreement
+      label: I agree to the submission terms and conditions
+      hint: Confirm you accept our publishing guidelines
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 25
+      name: consent_signature
+      label: I confirm the accuracy of the submitted information
+      hint: By submitting, you certify all information is accurate
+      type: select_one
+      options:
+      - I Confirm
+      - I Do Not Confirm
+      required: true

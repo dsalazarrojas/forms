@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: product_testing_results_report_form
+    pages:
+    - id: 1
+      name: test_product_id
+      label: Test Product
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: tester_id
+      label: Tester
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: test_result
+      label: Test Result
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Pass''}'
+      - '{''id'': 2, ''value'': ''Fail''}'
+      - '{''id'': 3, ''value'': ''N/A''}'
+      required: true
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: tester_email
+      label: Tester Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: tester_phone
+      label: Tester Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: assignee
+      label: Assignee
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''User 1''}'
+      - '{''id'': 2, ''value'': ''User 2''}'
+      - '{''id'': 3, ''value'': ''User 3''}'
+      required: true
+    - id: 11
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''chatjimmy''}'
+      - '{''id'': 2, ''value'': ''chatjimmy2''}'
+      - '{''id'': 3, ''value'': ''chatjimmy3''}'
+      required: true
+    - id: 12
+      name: assigned_date
+      label: Assigned Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''High''}'
+      - '{''id'': 2, ''value'': ''Medium''}'
+      - '{''id'': 3, ''value'': ''Low''}'
+      required: true
+    - id: 15
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''In Progress''}'
+      - '{''id'': 2, ''value'': ''Done''}'
+      - '{''id'': 3, ''value'': ''Cancelled''}'
+      required: true
+    - id: 16
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: task_status
+      label: Task Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''In Progress''}'
+      - '{''id'': 2, ''value'': ''Done''}'
+      - '{''id'': 3, ''value'': ''Cancelled''}'
+      required: true
+    - id: 18
+      name: task_description
+      label: Task Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: task_tags
+      label: Task Tags
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: assignee_id
+      label: Assignee
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: assigned_date_2
+      label: Assigned Date 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: due_date_2
+      label: Due Date 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: priority_2
+      label: Priority 2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''High''}'
+      - '{''id'': 2, ''value'': ''Medium''}'
+      - '{''id'': 3, ''value'': ''Low''}'
+      required: false
+    - id: 24
+      name: status_2
+      label: Status 2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''In Progress''}'
+      - '{''id'': 2, ''value'': ''Done''}'
+      - '{''id'': 3, ''value'': ''Cancelled''}'
+      required: false
+    - id: 25
+      name: task_status_2
+      label: Task Status 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''In Progress''}'
+      - '{''id'': 2, ''value'': ''Done''}'
+      - '{''id'': 3, ''value'': ''Cancelled''}'
+      required: false

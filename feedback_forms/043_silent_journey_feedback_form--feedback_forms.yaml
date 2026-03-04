@@ -1,0 +1,37 @@
+inputSchema:
+  type: object
+  properties:
+    title: Silent Journey Feedback Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: participant name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: feedback_question
+      label: what_was_most_enjoyable
+      hint: null
+      type: select_multiple
+      options:
+      - Was the experience of being in nature a positive or negative experience
+      - Did you feel a sense of community or connection with others
+      - Was the experience challenging or easy
+      - Would you like to participate in another silent retreat like this one
+      required: false
+    - id: 3
+      name: participant_email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: participant_phone
+      label: participant_phone
+      hint: null
+      type: text
+      options: []
+      required: false

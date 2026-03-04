@@ -1,0 +1,150 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Cheer Event Feedback Form
+    pages:
+      - id: 1
+        name: section_event_details
+        label: -- Event Overview --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: cheer_event_name
+        label: Name of Cheer Event
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: attendee_role_type
+        label: Your Role at the Event
+        hint: null
+        type: select_one
+        options:
+          - Athlete
+          - Coach / Staff
+          - Parent / Guardian
+          - Spectator
+          - Judge
+        required: true
+      - id: 4
+        name: overall_event_satisfaction
+        label: Overall Event Rating
+        hint: null
+        type: select_one
+        options:
+          - 1 - Poor
+          - 2 - Fair
+          - 3 - Average
+          - 4 - Good
+          - 5 - Excellent
+        required: true
+      - id: 5
+        name: section_facility_feedback
+        label: -- Facility and Organization --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: venue_suitability_rating
+        label: Rating of Venue Suitability
+        hint: Seating, lighting, floor quality, etc.
+        type: select_one
+        options:
+          - Highly Satisfied
+          - Satisfied
+          - Neutral
+          - Unsatisfied
+        required: true
+      - id: 7
+        name: organization_logistics_rating
+        label: How well was the event organized
+        hint: Schedule, check-in, announcements
+        type: select_one
+        options:
+          - Well Organized
+          - Moderately Organized
+          - Disorganized
+        required: true
+      - id: 8
+        name: parking_accessibility_rating
+        label: Ease of Parking and Access
+        hint: null
+        type: select_one
+        options:
+          - Very Easy
+          - Easy
+          - Difficult
+        required: false
+      - id: 9
+        name: section_performances
+        label: -- Performances and Judging --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: favorite_performance_team
+        label: Most Memorable Team or Performance
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: judging_fairness_perception
+        label: Perception of Judging Fairness
+        hint: null
+        type: select_one
+        options:
+          - Very Fair
+          - Fair
+          - Somewhat Unfair
+          - Unfair
+          - N/A
+        required: true
+      - id: 12
+        name: improvements_for_next_event
+        label: Suggestions for Next Year
+        hint: What can we do better
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: attend_future_events_interest
+        label: Would you attend our future events
+        hint: null
+        type: select_one
+        options:
+          - Definitely Yes
+          - Likely
+          - Maybe
+          - No
+        required: true
+      - id: 14
+        name: general_event_comments
+        label: Additional Comments or Feedback
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: feedback_submission_date
+        label: Date Submitted
+        hint: null
+        type: date
+        options: []
+        required: true

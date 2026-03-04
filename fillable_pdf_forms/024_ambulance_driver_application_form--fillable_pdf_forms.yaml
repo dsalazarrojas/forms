@@ -1,0 +1,551 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ambulance Driver Application Form
+    pages:
+    - id: 1
+      name: section_position_info
+      label: -- Position Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: position_applied
+      label: Position Applied For
+      hint: null
+      type: select_one
+      options:
+      - Ambulance Driver
+      - EMT-Driver
+      - Paramedic-Driver
+      - Part-time Driver
+      - Per Diem Driver
+      - Volunteer Driver
+      required: true
+    - id: 3
+      name: available_start_date
+      label: Available Start Date
+      hint: When can you begin
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: employment_type
+      label: Desired Employment Type
+      hint: null
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Per diem
+      - Contract
+      - Volunteer
+      required: true
+    - id: 5
+      name: section_personal_info
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: middle_name
+      label: Middle Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: suffix
+      label: Name Suffix
+      hint: Jr, Sr, III, etc.
+      type: select_one
+      options:
+      - None
+      - Jr
+      - Sr
+      - II
+      - III
+      - Other
+      required: false
+    - id: 10
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: zip_code
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY format
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: ssn_last_four
+      label: Last Four Digits of SSN
+      hint: For background check
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: section_license_info
+      label: -- Driver's License Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: license_number
+      label: Driver's License Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: license_state
+      label: License State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: license_expiry
+      label: License Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: license_class
+      label: License Class
+      hint: null
+      type: select_one
+      options:
+      - Class A
+      - Class B
+      - Class C
+      - Class D
+      - Other
+      required: true
+    - id: 23
+      name: cdl_held
+      label: Do You Hold a Commercial Driver's License (CDL)
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 24
+      name: cdl_class
+      label: CDL Class
+      hint: If applicable
+      type: select_one
+      options:
+      - Class A
+      - Class B
+      - Class C
+      - Not applicable
+      required: false
+    - id: 25
+      name: cdl_endorsements
+      label: CDL Endorsements
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Passenger (P)
+      - School Bus (S)
+      - Air Brakes (A)
+      - None
+      - Not applicable
+      required: false
+    - id: 26
+      name: section_driving_record
+      label: -- Driving Record --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: violations_past_3_years
+      label: Traffic Violations in Past 3 Years
+      hint: null
+      type: select_one
+      options:
+      - None
+      - 1-2
+      - 3-4
+      - 5 or more
+      required: true
+    - id: 28
+      name: violations_detail
+      label: Describe Violations
+      hint: Include dates and type
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: accidents_past_3_years
+      label: Accidents in Past 3 Years
+      hint: null
+      type: select_one
+      options:
+      - None
+      - 1
+      - 2
+      - 3 or more
+      required: true
+    - id: 30
+      name: accidents_detail
+      label: Describe Accidents
+      hint: Include dates and circumstances
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: license_suspended
+      label: Has Your License Ever Been Suspended or Revoked
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 32
+      name: license_suspension_detail
+      label: Explain License Suspension
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: section_certifications
+      label: -- Certifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 34
+      name: emt_certification
+      label: EMT Certification
+      hint: null
+      type: select_one
+      options:
+      - EMT-Basic
+      - EMT-Intermediate
+      - EMT-Paramedic
+      - None
+      required: false
+    - id: 35
+      name: emt_certification_state
+      label: EMT Certification State
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: emt_expiry
+      label: EMT Certification Expiration
+      hint: If applicable
+      type: date
+      options: []
+      required: false
+    - id: 37
+      name: cpr_certification
+      label: CPR Certification
+      hint: null
+      type: select_one
+      options:
+      - Current - BLS
+      - Current - Healthcare Provider
+      - Expired
+      - None
+      required: false
+    - id: 38
+      name: other_certifications
+      label: Other Relevant Certifications
+      hint: EVOC, CEVO, etc.
+      type: text
+      options: []
+      required: false
+    - id: 39
+      name: section_employment_history
+      label: -- Employment History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 40
+      name: current_employer
+      label: Current Employer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 41
+      name: current_position
+      label: Current Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 42
+      name: previous_employer_1
+      label: Previous Employer 1
+      hint: Most recent
+      type: text
+      options: []
+      required: false
+    - id: 43
+      name: previous_position_1
+      label: Previous Position 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 44
+      name: previous_dates_1
+      label: Dates of Employment
+      hint: From - To
+      type: text
+      options: []
+      required: false
+    - id: 45
+      name: previous_employer_2
+      label: Previous Employer 2
+      hint: Second most recent
+      type: text
+      options: []
+      required: false
+    - id: 46
+      name: previous_position_2
+      label: Previous Position 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 47
+      name: previous_dates_2
+      label: Dates of Employment
+      hint: From - To
+      type: text
+      options: []
+      required: false
+    - id: 48
+      name: section_education
+      label: -- Education --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 49
+      name: highest_education
+      label: Highest Level of Education
+      hint: null
+      type: select_one
+      options:
+      - High School Diploma/GED
+      - Some College
+      - Associate Degree
+      - Bachelor's Degree
+      - Master's Degree
+      - Other
+      required: true
+    - id: 50
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 51
+      name: section_references
+      label: -- References --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 52
+      name: reference_1_name
+      label: Reference 1 Name
+      hint: Professional reference
+      type: text
+      options: []
+      required: false
+    - id: 53
+      name: reference_1_phone
+      label: Reference 1 Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 54
+      name: reference_1_relationship
+      label: Reference 1 Relationship
+      hint: How do you know them
+      type: text
+      options: []
+      required: false
+    - id: 55
+      name: reference_2_name
+      label: Reference 2 Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 56
+      name: reference_2_phone
+      label: Reference 2 Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 57
+      name: reference_2_relationship
+      label: Reference 2 Relationship
+      hint: How do you know them
+      type: text
+      options: []
+      required: false
+    - id: 58
+      name: section_additional
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 59
+      name: shift_availability
+      label: Shift Availability
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Day shift
+      - Evening shift
+      - Night shift
+      - Weekends
+      - Holidays
+      - On-call
+      required: false
+    - id: 60
+      name: overtime_willingness
+      label: Willingness to Work Overtime
+      hint: null
+      type: select_one
+      options:
+      - Yes - Willing
+      - Yes - With notice
+      - No - Not available
+      required: false
+    - id: 61
+      name: felony_conviction
+      label: Have You Ever Been Convicted of a Felony
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 62
+      name: felony_detail
+      label: Explain Felony Conviction
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 63
+      name: physical_ability
+      label: Can You Perform Required Physical Tasks
+      hint: Lifting, carrying, etc.
+      type: select_one
+      options:
+      - Yes - Without accommodation
+      - Yes - With accommodation
+      - false
+      required: true
+    - id: 64
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else you would like to share
+      type: text
+      options: []
+      required: false
+    - id: 65
+      name: how_heard_about
+      label: How Did You Hear About This Position
+      hint: null
+      type: select_one
+      options:
+      - Online job board
+      - Company website
+      - Referral
+      - Social media
+      - Newspaper
+      - Other
+      required: false
+    - id: 66
+      name: applicant_signature
+      label: Applicant Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 67
+      name: signature_date
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: true

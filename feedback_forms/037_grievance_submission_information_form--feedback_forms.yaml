@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: grievance_submission_information_form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: complainant_name
+      label: complainant_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization_name
+      label: organization_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: grievance_type
+      label: grievance_type
+      hint: null
+      type: select_one
+      options:
+      - Grievance
+      - Complain
+      - Suggestion
+      required: false
+    - id: 6
+      name: grievance_description
+      label: grievance_description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: grievance_status
+      label: grievance_status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Resolved
+      - In Progress
+      required: false
+    - id: 8
+      name: grievance_category
+      label: grievance_category
+      hint: null
+      type: select_multiple
+      options:
+      - Category 1
+      - Category 2
+      - Category 3
+      required: false
+    - id: 9
+      name: grievance_submitter
+      label: grievance_submitter
+      hint: null
+      type: select_one
+      options:
+      - Submitter 1
+      - Submitter 2
+      - Submitter 3
+      required: false
+    - id: 10
+      name: grievance_date
+      label: grievance_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: grievance_time
+      label: grievance_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: grievance_note
+      label: grievance_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: grievance_email
+      label: grievance_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: grievance_phone
+      label: grievance_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: grievance_address
+      label: grievance_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: grievance_postal_code
+      label: grievance_postal_code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: grievance_city
+      label: grievance_city
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: grievance_state
+      label: grievance_state
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: grievance_country
+      label: grievance_country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: grievance_attachments
+      label: grievance_attachments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: grievance_submit
+      label: grievance_submit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: grievance_cancel
+      label: grievance_cancel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: grievance_back
+      label: grievance_back
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: grievance_save_and_submit
+      label: grievance_save_and_submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: grievance_save_and_cancel
+      label: grievance_save_and_cancel
+      hint: null
+      type: text
+      options: []
+      required: false

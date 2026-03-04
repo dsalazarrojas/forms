@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cable Bundle Feedback Survey
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_area
+      label: Service area or region
+      hint: City or zip code
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: installation_experience
+      label: Installation experience rating
+      hint: 1 low to 5 high
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: service_reliability
+      label: Service reliability rating
+      hint: Uptime and consistency
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: customer_support_experience
+      label: Customer support experience
+      hint: Select satisfaction level
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 6
+      name: likelihood_to_recommend
+      label: Likelihood to recommend
+      hint: 0 not at all to 10 highly likely
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: main_issues
+      label: Main issues faced
+      hint: Describe any recurring problems
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: suggestions
+      label: Suggestions for improvement
+      hint: Ideas to enhance service
+      type: text
+      options: []
+      required: false

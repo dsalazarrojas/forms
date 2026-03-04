@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: virtual_doctor_consultation_feedback_form
+    pages:
+    - id: 1
+      name: provider_name
+      label: Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: feedback
+      label: What was your experience like?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: satisfaction
+      label: How would you rate your satisfaction with the care you received?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: provider_communication
+      label: How would you rate the communication skills of your healthcare provider?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: provider_listening_skills
+      label: How would you rate the listening skills of your healthcare provider?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: provider_clinical_skills
+      label: How would you rate the clinical skills of your healthcare provider?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: schedule_conflict
+      label: Was scheduling a conflict for your appointment?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: followup_instructions
+      label: Did your healthcare provider provide clear followup instructions?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: telehealth_equipment
+      label: Were you able to easily access and use the telehealth equipment?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: technology_support
+      label: How would you rate the support provided by our telehealth technology?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: would_recommend
+      label: Would you recommend this telehealth service to a friend?
+      hint: null
+      type: select_one
+      options:
+      - I would definitely recommend
+      - I would recommend
+      - I am unsure
+      - I would not recommend
+      required: false
+    - id: 12
+      name: suggestions
+      label: Do you have any suggestions for improving our telehealth service?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: additional_comments
+      label: Any additional comments?
+      hint: null
+      type: text
+      options: []
+      required: false

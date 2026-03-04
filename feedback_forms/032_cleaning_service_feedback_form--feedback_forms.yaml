@@ -1,0 +1,297 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cleaning Service Feedback Form
+    pages:
+    - id: 1
+      name: section_header_service
+      label: -- Service Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Email Address
+      hint: For follow-up communication
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: service_date
+      label: Date of Service
+      hint: When was the cleaning service provided?
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: property_address
+      label: Property Address
+      hint: Address where service was provided
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: service_type
+      label: Type of Cleaning Service
+      hint: What type of service was it?
+      type: select_one
+      options:
+      - Regular Cleaning
+      - Deep Cleaning
+      - Move-In/Move-Out
+      - Window Cleaning
+      - Carpet Cleaning
+      - Post-Construction
+      - Other
+      required: true
+    - id: 7
+      name: crew_leader_name
+      label: Cleaning Crew Leader Name
+      hint: Name of the supervisor
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: section_header_satisfaction
+      label: -- Overall Satisfaction --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: overall_satisfaction
+      label: Overall Satisfaction with Service
+      hint: How satisfied are you overall?
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 10
+      name: satisfaction_score
+      label: Overall Satisfaction Score
+      hint: Rate from 1 (poor) to 5 (excellent)
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: section_header_quality
+      label: -- Quality of Work --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: cleanliness_quality
+      label: Quality of Cleanliness Achieved
+      hint: How clean is your property?
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 13
+      name: attention_to_detail
+      label: Attention to Detail
+      hint: Were details carefully handled?
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 14
+      name: thoroughness
+      label: Thoroughness of Work
+      hint: How thoroughly was work completed?
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 15
+      name: section_header_professionalism
+      label: -- Professionalism and Conduct --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: staff_professionalism
+      label: Staff Professionalism
+      hint: How professional was the cleaning crew?
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 17
+      name: staff_courtesy
+      label: Staff Courtesy and Respect
+      hint: Were staff courteous and respectful?
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 18
+      name: punctuality
+      label: Punctuality and Timeliness
+      hint: Did they arrive and complete on time?
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 19
+      name: communication
+      label: Communication and Updates
+      hint: Did they communicate effectively?
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 20
+      name: section_header_value
+      label: -- Value and Pricing --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: value_for_money
+      label: Value for Money
+      hint: Was the service worth the cost?
+      type: select_one
+      options:
+      - Excellent Value
+      - Good Value
+      - Fair Value
+      - Poor Value
+      - Very Poor Value
+      required: true
+    - id: 22
+      name: price_expectations
+      label: Did Service Meet Price Expectations?
+      hint: null
+      type: select_one
+      options:
+      - Exceeded Expectations
+      - Met Expectations
+      - Below Expectations
+      required: true
+    - id: 23
+      name: section_header_issues
+      label: -- Issues and Concerns --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: any_issues
+      label: Were There Any Issues or Concerns?
+      hint: null
+      type: select_one
+      options:
+      - No Issues
+      - Minor Issues
+      - Major Issues
+      required: true
+    - id: 25
+      name: issues_description
+      label: Please Describe Issues
+      hint: What went wrong or could be improved?
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: section_header_feedback
+      label: -- Feedback and Recommendations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: strengths
+      label: What Did We Do Well?
+      hint: Specific strengths or positive aspects
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: improvements
+      label: What Could Be Improved?
+      hint: Suggestions for improvement
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: would_recommend
+      label: Would You Recommend Us to Others?
+      hint: null
+      type: select_one
+      options:
+      - Yes, Definitely
+      - Probably Yes
+      - Not Sure
+      - Probably Not
+      - false
+      required: true
+    - id: 30
+      name: future_service
+      label: Will You Book Our Service Again?
+      hint: null
+      type: select_one
+      options:
+      - Yes, Definitely
+      - Probably
+      - Not Sure
+      - Probably Not
+      - false
+      required: true
+    - id: 31
+      name: section_header_additional
+      label: -- Additional Comments --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: additional_comments
+      label: Additional Comments or Suggestions
+      hint: Any other feedback you would like to share
+      type: text
+      options: []
+      required: false

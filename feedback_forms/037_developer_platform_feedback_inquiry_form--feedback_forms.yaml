@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Developer Platform Feedback Inquiry Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Developer Platform Feedback Inquiry Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: Choose a category for your feedback
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Bug reports''}'
+      - '{''id'': 2, ''label'': ''Feature suggestions''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Your email address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: feedback
+      label: Your feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: satisfaction
+      label: How satisfied are you with the platform?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Very satisfied''}'
+      - '{''id'': 2, ''label'': ''Somewhat satisfied''}'
+      - '{''id'': 3, ''label'': ''Neutral''}'
+      - '{''id'': 4, ''label'': ''Somewhat dissatisfied''}'
+      - '{''id'': 5, ''label'': ''Very dissatisfied''}'
+      required: false
+    - id: 7
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: note
+      label: Any additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: developer_platform
+      label: Developer Platform
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Web''}'
+      - '{''id'': 2, ''label'': ''Mobile''}'
+      required: false
+    - id: 13
+      name: developer_relations
+      label: Developer Relations
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Good''}'
+      - '{''id'': 2, ''label'': ''Fair''}'
+      - '{''id'': 3, ''label'': ''Poor''}'
+      - '{''id'': 4, ''label'': ''Very poor''}'
+      - '{''id'': 5, ''label'': ''Extremely poor''}'
+      required: false
+    - id: 14
+      name: product_manager
+      label: Product Manager
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Available and responsive''}'
+      - '{''id'': 2, ''label'': ''Available, but slow''}'
+      - '{''id'': 3, ''label'': ''Not available''}'
+      - '{''id'': 4, ''label'': ''Unresponsive''}'
+      required: false
+    - id: 15
+      name: product_owner
+      label: Product Owner
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Available and responsive''}'
+      - '{''id'': 2, ''label'': ''Available, but slow''}'
+      - '{''id'': 3, ''label'': ''Not available''}'
+      - '{''id'': 4, ''label'': ''Unresponsive''}'
+      required: false
+    - id: 16
+      name: team_lead
+      label: Team Lead
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Available and responsive''}'
+      - '{''id'': 2, ''label'': ''Available, but slow''}'
+      - '{''id'': 3, ''label'': ''Not available''}'
+      - '{''id'': 4, ''label'': ''Unresponsive''}'
+      required: false
+    - id: 17
+      name: engineering_manager
+      label: Engineering Manager
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Available and responsive''}'
+      - '{''id'': 2, ''label'': ''Available, but slow''}'
+      - '{''id'': 3, ''label'': ''Not available''}'
+      - '{''id'': 4, ''label'': ''Unresponsive''}'
+      required: false
+    - id: 18
+      name: qa_manager
+      label: QA Manager
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Available and responsive''}'
+      - '{''id'': 2, ''label'': ''Available, but slow''}'
+      - '{''id'': 3, ''label'': ''Not available''}'
+      - '{''id'': 4, ''label'': ''Unresponsive''}'
+      required: false
+    - id: 19
+      name: designer
+      label: Designer
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Available and responsive''}'
+      - '{''id'': 2, ''label'': ''Available, but slow''}'
+      - '{''id'': 3, ''label'': ''Not available''}'
+      - '{''id'': 4, ''label'': ''Unresponsive''}'
+      required: false
+    - id: 20
+      name: project_manager
+      label: Project Manager
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Available and responsive''}'
+      - '{''id'': 2, ''label'': ''Available, but slow''}'
+      - '{''id'': 3, ''label'': ''Not available''}'
+      - '{''id'': 4, ''label'': ''Unresponsive''}'
+      required: false
+    - id: 21
+      name: release_manager
+      label: Release Manager
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Available and responsive''}'
+      - '{''id'': 2, ''label'': ''Available, but slow''}'
+      - '{''id'': 3, ''label'': ''Not available''}'
+      - '{''id'': 4, ''label'': ''Unresponsive''}'
+      required: false

@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hair Styling Tool Safety Survey
+    pages:
+    - id: 1
+      name: survey_form
+      label: Survey Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: hair_styling_tool_type
+      label: Hair Styling Tool Type
+      hint: null
+      type: select_one
+      options:
+      - Blow Dryer
+      - Straightening Tool
+      - Curly Curling Tool
+      - Hair Straightener
+      - Hair Dryer
+      - Other
+      required: false
+    - id: 3
+      name: safety_feature
+      label: Safety Feature
+      hint: null
+      type: select_multiple
+      options:
+      - Heating element safety switch
+      - Overheating protection
+      - Heat-resistant handle
+      - Other
+      required: false
+    - id: 4
+      name: safety_question
+      label: Safety Question
+      hint: What is your concern regarding the safety of this hair styling tool?
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: comment
+      label: Comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

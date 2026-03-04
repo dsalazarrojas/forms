@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Carpool Service Feedback Form
+    pages:
+    - id: 1
+      name: section_user_info
+      label: -- User Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: user_name
+      label: Your Name (optional)
+      hint: leave blank for anonymity
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: user_email
+      label: Your Email (optional)
+      hint: provide if you'd like a follow-up
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: date_of_trip
+      label: Date of Trip
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: section_driver_vehicle
+      label: -- Driver and Vehicle Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: driver_name
+      label: Driver Name
+      hint: who drove the vehicle?
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: driver_professionalism
+      label: Rate the driver's professionalism
+      hint: courtesy and behavior
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: driving_safety_rating
+      label: How safe did you feel during the trip?
+      hint: speed and traffic law compliance
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: vehicle_cleanliness
+      label: Rate the cleanliness of the vehicle
+      hint: interior and exterior
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: section_service_experience
+      label: -- Service Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: punctuality_rating
+      label: Was the driver on time for pickup?
+      hint: null
+      type: select_one
+      options:
+      - Early
+      - On Time
+      - 5 to 10 min late
+      - 10 plus min late
+      required: true
+    - id: 12
+      name: route_efficiency
+      label: Was the route efficient?
+      hint: avoid unnecessary delays
+      type: select_one
+      options:
+      - true
+      - false
+      - Needs Improvement
+      required: true
+    - id: 13
+      name: ride_comfort_rating
+      label: Overall comfort of the ride
+      hint: temperature, music, and seating
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: section_app_booking
+      label: -- Booking and App Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: booking_ease
+      label: Rate the ease of booking the carpool
+      hint: 1 being difficult, 5 being very easy
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: app_interface_rating
+      label: Rate the carpool app interface
+      hint: navigation and features
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: customer_support
+      label: If you contacted support, rate the response
+      hint: 1 being poor, 5 being exceptional
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: section_overall_satisfaction
+      label: -- Overall Satisfaction --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: carpool_experience_overall
+      label: Overall carpool experience
+      hint: 1 being poor, 10 being exceptional
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: recommendation_likelihood
+      label: Would you recommend this service to others?
+      hint: friends or colleagues
+      type: select_one
+      options:
+      - Definitely
+      - Likely
+      - Neutral
+      - Unlikely
+      required: true
+    - id: 21
+      name: use_again_interest
+      label: Will you use this carpool service again?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: true
+    - id: 22
+      name: section_suggestions
+      label: -- Suggestions and Comments --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: improvement_suggestions
+      label: What is one thing we could do better?
+      hint: specific feedback is appreciated
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: positive_shoutout
+      label: Any positive feedback for the driver?
+      hint: share a good experience
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Any other feedback or concerns
+      hint: Type name as digital signature
+      type: text
+      options: []
+      required: false

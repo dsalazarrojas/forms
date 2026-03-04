@@ -1,0 +1,276 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art For Social Change Impact Survey
+    pages:
+    - id: 1
+      name: survey_date
+      label: Survey Date
+      hint: Date of survey completion
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: respondent_name
+      label: Respondent Name
+      hint: Your name (optional)
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: respondent_email
+      label: Respondent Email
+      hint: Email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: organization_name
+      label: Organization Name
+      hint: Name of your organization
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: organization_type
+      label: Organization Type
+      hint: Type of organization
+      type: select_one
+      options:
+      - Non-Profit
+      - Community Group
+      - School or University
+      - Arts Organization
+      - Government Agency
+      - Individual Artist
+      - Other
+      required: true
+    - id: 6
+      name: project_name
+      label: Project Name
+      hint: Name of the art for social change project
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: project_start_date
+      label: Project Start Date
+      hint: When did the project begin
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: project_status
+      label: Project Status
+      hint: Current status of the project
+      type: select_one
+      options:
+      - Planning
+      - In Progress
+      - Completed
+      - Ongoing
+      required: true
+    - id: 9
+      name: project_category
+      label: Project Category
+      hint: Category of the project
+      type: select_one
+      options:
+      - Community Engagement
+      - Social Justice
+      - Environmental Awareness
+      - Health and Wellness
+      - Education
+      - Cultural Preservation
+      - Youth Development
+      - Other
+      required: true
+    - id: 10
+      name: target_audience
+      label: Target Audience
+      hint: Who is the project designed for
+      type: select_multiple
+      options:
+      - Youth
+      - Adults
+      - Seniors
+      - Families
+      - Underserved Communities
+      - General Public
+      - Specific Cultural Group
+      required: true
+    - id: 11
+      name: participants_reached
+      label: Participants Reached
+      hint: Approximate number of participants
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: art_forms_used
+      label: Art Forms Used
+      hint: Select all art forms used in the project
+      type: select_multiple
+      options:
+      - Visual Arts
+      - Music
+      - Dance
+      - Theater
+      - Poetry or Spoken Word
+      - Film or Video
+      - Digital Media
+      - Performance Art
+      - Other
+      required: true
+    - id: 13
+      name: community_involvement
+      label: Community Involvement
+      hint: How was the community involved
+      type: select_one
+      options:
+      - Community Led
+      - Collaborative
+      - Artist Led with Community Input
+      - Artist Led
+      required: true
+    - id: 14
+      name: project_goals
+      label: Project Goals
+      hint: What were the main goals of the project
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: goals_achieved
+      label: Goals Achieved
+      hint: To what extent were goals achieved
+      type: select_one
+      options:
+      - Fully Achieved
+      - Mostly Achieved
+      - Partially Achieved
+      - Not Achieved
+      required: true
+    - id: 16
+      name: impact_areas
+      label: Impact Areas
+      hint: Select areas where impact was observed
+      type: select_multiple
+      options:
+      - Increased Awareness
+      - Behavior Change
+      - Community Building
+      - Skill Development
+      - Policy Change
+      - Economic Impact
+      - Environmental Impact
+      - Cultural Preservation
+      required: true
+    - id: 17
+      name: impact_description
+      label: Impact Description
+      hint: Describe the impact of your project
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: success_stories
+      label: Success Stories
+      hint: Share any success stories or testimonials
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: challenges_faced
+      label: Challenges Faced
+      hint: What challenges did you encounter
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: lessons_learned
+      label: Lessons Learned
+      hint: What did you learn from this project
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: funding_sources
+      label: Funding Sources
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Grants
+      - Individual Donations
+      - Corporate Sponsorship
+      - Government Funding
+      - Self-Funded
+      - Crowdfunding
+      - Other
+      required: false
+    - id: 22
+      name: budget_range
+      label: Budget Range
+      hint: Approximate project budget
+      type: select_one
+      options:
+      - Under $1,000
+      - $1,000 - $5,000
+      - $5,000 - $10,000
+      - $10,000 - $50,000
+      - Over $50,000
+      required: false
+    - id: 23
+      name: partnerships
+      label: Partnerships
+      hint: Did you have project partners
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 24
+      name: partnership_details
+      label: Partnership Details
+      hint: Describe your partnerships
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: sustainability_plan
+      label: Sustainability Plan
+      hint: How will the project continue or have lasting impact
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: would_repeat
+      label: Would Repeat
+      hint: Would you do this project again
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Unsure
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 27
+      name: recommend_to_others
+      label: Recommend to Others
+      hint: Would you recommend this approach to others
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Unsure
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 28
+      name: additional_feedback
+      label: Additional Feedback
+      hint: Any other comments or insights
+      type: text
+      options: []
+      required: false

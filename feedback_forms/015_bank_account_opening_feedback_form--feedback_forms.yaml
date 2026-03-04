@@ -1,0 +1,164 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bank Account Opening Feedback Form
+    pages:
+    - id: 1
+      name: introductory_note
+      label: Welcome to our Banking Family
+      hint: Thank you for choosing us. We value your feedback on your account opening
+        experience.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name (Optional)
+      hint: Leave blank if you wish to remain anonymous
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: opening_method
+      label: How did you open your account?
+      hint: null
+      type: select_one
+      options:
+      - In-Person at a Branch
+      - Online via Website
+      - Through the Mobile App
+      - Over the Phone
+      required: true
+    - id: 4
+      name: branch_location
+      label: Branch Location (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: overall_satisfaction
+      label: Overall Satisfaction with the Process
+      hint: Rate from 1 (Very Dissatisfied) to 5 (Very Satisfied)
+      type: select_one
+      options:
+      - 1 - Very Dissatisfied
+      - 2 - Dissatisfied
+      - 3 - Neutral
+      - 4 - Satisfied
+      - 5 - Very Satisfied
+      required: true
+    - id: 6
+      name: experience_ratings_header
+      label: -- Experience Ratings --
+      hint: Please rate the following aspects of the process
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: clarity_of_info
+      label: Clarity of Information Provided
+      hint: How well were the account terms explained?
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      required: true
+    - id: 8
+      name: speed_of_process
+      label: Speed and Efficiency
+      hint: How satisfied were you with the time taken?
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      required: true
+    - id: 9
+      name: staff_helpfulness
+      label: Staff Helpfulness and Professionalism
+      hint: Only if you interacted with a representative
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      - N/A
+      required: true
+    - id: 10
+      name: platform_ease
+      label: Ease of Use (Online/Mobile App)
+      hint: Only if you opened the account digitally
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      - N/A
+      required: true
+    - id: 11
+      name: reason_for_choosing_us
+      label: What was the primary reason for choosing our bank?
+      hint: null
+      type: select_one
+      options:
+      - Competitive Interest Rates
+      - Low Account Fees
+      - Convenient Locations
+      - Recommended by Friend/Family
+      - Modern Digital Banking
+      - Brand Reputation
+      required: true
+    - id: 12
+      name: pain_points
+      label: Did you encounter any difficulties during the process?
+      hint: If yes, please describe below
+      type: select_one
+      options:
+      - No - It was seamless
+      - Yes - Minor technical issues
+      - Yes - Document verification delays
+      - Yes - Unclear instructions
+      required: true
+    - id: 13
+      name: difficulty_details
+      label: Detailed Feedback on Issues
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: improvement_suggestions
+      label: How can we improve our account opening experience?
+      hint: Your suggestions help us serve you better
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: referral_likelihood
+      label: How likely are you to recommend us to others?
+      hint: Rate from 0 (Not at all likely) to 10 (Extremely likely)
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: contact_permission
+      label: May we contact you for further details regarding your feedback?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: contact_email_phone
+      label: Preferred Contact Method
+      hint: email or phone
+      type: text
+      options: []
+      required: false

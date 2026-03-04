@@ -1,0 +1,242 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Book Completion Feedback
+    pages:
+      - id: 1
+        name: reader_name
+        label: Full Name
+        hint: Enter your first and last name
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: email_address
+        label: Email Address
+        hint: Your contact email
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: book_title
+        label: Book Title
+        hint: Full title of the book you read
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: book_author
+        label: Book Author
+        hint: Author of the book
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: completion_date
+        label: Date Completed
+        hint: When did you finish reading
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: overall_rating
+        label: Overall Rating
+        hint: Rate the book overall
+        type: select_one
+        options:
+          - 5 Stars Excellent
+          - 4 Stars Very Good
+          - 3 Stars Good
+          - 2 Stars Fair
+          - 1 Star Poor
+        required: true
+      - id: 7
+        name: plot_rating
+        label: Plot Rating
+        hint: Rate the plot
+        type: select_one
+        options:
+          - 5 Stars Excellent
+          - 4 Stars Very Good
+          - 3 Stars Good
+          - 2 Stars Fair
+          - 1 Star Poor
+        required: false
+      - id: 8
+        name: character_rating
+        label: Character Development Rating
+        hint: Rate the character development
+        type: select_one
+        options:
+          - 5 Stars Excellent
+          - 4 Stars Very Good
+          - 3 Stars Good
+          - 2 Stars Fair
+          - 1 Star Poor
+        required: false
+      - id: 9
+        name: writing_style_rating
+        label: Writing Style Rating
+        hint: Rate the writing style
+        type: select_one
+        options:
+          - 5 Stars Excellent
+          - 4 Stars Very Good
+          - 3 Stars Good
+          - 2 Stars Fair
+          - 1 Star Poor
+        required: false
+      - id: 10
+        name: pacing_rating
+        label: Pacing Rating
+        hint: Rate the book pacing
+        type: select_one
+        options:
+          - 5 Stars Excellent
+          - 4 Stars Very Good
+          - 3 Stars Good
+          - 2 Stars Fair
+          - 1 Star Poor
+        required: false
+      - id: 11
+        name: favorite_character
+        label: Favorite Character
+        hint: Who was your favorite character
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: favorite_scene
+        label: Favorite Scene or Moment
+        hint: What was your favorite part
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: least_favorite_aspect
+        label: Least Favorite Aspect
+        hint: What did you like least
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: book_summary
+        label: Brief Summary Without Spoilers
+        hint: 2-3 sentence summary
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: would_recommend
+        label: Would You Recommend This Book
+        hint: Would you recommend to others
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Not Sure
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 16
+        name: target_audience
+        label: Who Would Enjoy This Book
+        hint: Select the target audience
+        type: select_multiple
+        options:
+          - Young Adults
+          - Adults
+          - Seniors
+          - Mystery Lovers
+          - Romance Readers
+          - Science Fiction Fans
+          - Literary Fiction Readers
+          - Non-Fiction Readers
+        required: false
+      - id: 17
+        name: similar_books
+        label: Similar Books You Would Compare To
+        hint: List any comparable books
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: format_read
+        label: What Format Did You Read
+        hint: How did you read this book
+        type: select_one
+        options:
+          - Physical Book
+          - eBook
+          - Audiobook
+          - Library Copy
+          - Borrowed
+        required: false
+      - id: 19
+        name: reading_duration
+        label: How Long Did It Take to Read
+        hint: Your reading duration
+        type: select_one
+        options:
+          - Less than 1 day
+          - 1-3 days
+          - 4-7 days
+          - 1-2 weeks
+          - Over 2 weeks
+        required: false
+      - id: 20
+        name: emotional_impact
+        label: Emotional Impact
+        hint: How did this book make you feel
+        type: select_one
+        options:
+          - Very Moving
+          - Somewhat Moving
+          - Neutral
+          - Somewhat Unmoved
+          - Not at All Moving
+        required: false
+      - id: 21
+        name: reread_likelihood
+        label: How Likely Will You Reread This Book
+        hint: Your likelihood of rereading
+        type: select_one
+        options:
+          - Very Likely
+          - Likely
+          - Not Sure
+          - Unlikely
+          - Very Unlikely
+        required: false
+      - id: 22
+        name: detailed_review
+        label: Detailed Review
+        hint: Share your full thoughts on the book
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: content_warnings
+        label: Content Warnings to Note
+        hint: Any content others should know about
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: feedback_date
+        label: Feedback Submission Date
+        hint: Date of feedback
+        type: date
+        options: []
+        required: true

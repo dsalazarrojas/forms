@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Skill Development Training Feedback Questionnaire
+    pages:
+    - id: 1
+      name: training_experience
+      label: What was your overall training experience?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: training_effectiveness
+      label: How effective was the training?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: session_quality
+      label: How would you rate the session quality?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: future_suggestions
+      label: What suggestions would you give for improvement?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: participant_comments
+      label: Any other comments?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email_address
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: participant_name
+      label: Participant name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: participant_organization
+      label: Participant organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: session_date
+      label: Session date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: session_time
+      label: Session time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: session_location
+      label: Session location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: trainer_name
+      label: Trainer name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: training_duration
+      label: Training duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: training_hours
+      label: Number of hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: training_date
+      label: Training start date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: participant_rating
+      label: Participant rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: session_start_time
+      label: Session start time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: session_duration
+      label: Session duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: participant_notes
+      label: Participant notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: session_notes
+      label: Session notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: feedback_given
+      label: Has feedback given?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: feedback_received
+      label: Has feedback received?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: feedback_type
+      label: Feedback type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: participant_survey
+      label: Participant survey
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

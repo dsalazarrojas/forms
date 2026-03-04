@@ -1,0 +1,204 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Best Surprise Group Survey
+    pages:
+      - id: 1
+        name: participation_details_header
+        label: -- Participation Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: respondent_full_name
+        label: Your Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: respondent_email_addr
+        label: Your Email Address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: surprise_event_name
+        label: Event or Surprise Name
+        hint: What event are you providing feedback for
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: event_date_calendar
+        label: Date of Event
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: surprise_experience_header
+        label: -- The Surprise Experience --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: surprise_intensity_scale
+        label: On a scale of 1 to 10, how surprised were you
+        hint: 1 being not at all, 10 being completely shocked
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+          - 6
+          - 7
+          - 8
+          - 9
+          - 10
+        required: true
+      - id: 8
+        name: prior_suspicion_level
+        label: Did you have any prior suspicions
+        hint: Be honest - did anyone slip up
+        type: select_one
+        options:
+          - None - Complete total surprise
+          - A little - I sensed something was up
+          - Significant - I mostly knew it was coming
+          - I knew everything beforehand
+        required: true
+      - id: 9
+        name: initial_reaction_desc
+        label: What was your initial reaction
+        hint: First thoughts or words
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: favorite_moment_desc
+        label: Favorite part or moment of the surprise
+        hint: What stood out most to you
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: organization_group_header
+        label: -- Organization and Group Coordination --
+        hint: Rate from 1 (Poor) to 5 (Excellent)
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: secret_keeping_rating
+        label: How well was the secret kept
+        hint: Communication and stealth
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+        required: true
+      - id: 13
+        name: group_coordination_rating
+        label: Quality of Group Coordination
+        hint: Planning and execution
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+        required: true
+      - id: 14
+        name: venue_suitability_rating
+        label: Venue and Location Suitability
+        hint: Space and atmosphere
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+        required: true
+      - id: 15
+        name: hospitality_quality_rating
+        label: Food and Beverage Quality
+        hint: If applicable to the event
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+        required: false
+      - id: 16
+        name: improvement_header
+        label: -- Improvement and Future Events --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 17
+        name: surprise_better_suggestion
+        label: One thing that could have made the surprise even better
+        hint: Your ideas for improvement
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: logistical_hiccups_desc
+        label: Any logistical hiccups you noticed
+        hint: Small things that didn't go perfectly
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: future_event_suggestions
+        label: Suggestions for future group events
+        hint: What should we do next time
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: final_thoughts_header
+        label: -- Final Thoughts --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 21
+        name: organizer_additional_feedback
+        label: Any other comments for the organizers
+        hint: Appreciation or specific notes
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: feedback_submission_date
+        label: Date of Feedback
+        hint: null
+        type: date
+        options: []
+        required: true

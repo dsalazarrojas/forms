@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Heath Challenge Feedback Form
+    pages:
+    - id: 1
+      name: challenge_type
+      label: Feedback on Challenge
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: challenge_name
+      label: Challenge Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: challenge_category
+      label: Challenge Category
+      hint: null
+      type: select_one
+      options:
+      - Fitness
+      - Weight Loss
+      - Healthy Eating
+      required: false
+    - id: 5
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

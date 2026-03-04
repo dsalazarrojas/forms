@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Feedback On Recitation Concepts
+    pages:
+    - id: 1
+      name: feedback_on_recitation_concepts
+      label: Feedback On Recitation Concepts
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: session
+      label: Session
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: questions
+      label: Questions Asked
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: concepts
+      label: Concepts Covered
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: difficulty
+      label: Difficulty Level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: recitation_time
+      label: Recitation Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: recitation_day
+      label: Recitation Day
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: recitation_date
+      label: Recitation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: recitation_location
+      label: Recitation Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: recitation_room
+      label: Recitation Room
+      hint: null
+      type: text
+      options: []
+      required: false

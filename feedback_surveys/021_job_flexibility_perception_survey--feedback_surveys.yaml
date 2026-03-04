@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Job Flexibility Perception Survey
+    pages:
+    - id: 1
+      name: work_from_home
+      label: work_from_home
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: remote_work_options
+      label: remote_work_options
+      hint: null
+      type: select_multiple
+      options:
+      - Partially
+      - Fully
+      required: true
+    - id: 3
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: work_week
+      label: work_week
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: work_hours
+      label: work_hours
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: work_days
+      label: work_days
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: work_hours_per_day
+      label: work_hours_per_day
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: flexible_start_time
+      label: flexible_start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: flexible_end_time
+      label: flexible_end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: flexible_days_off
+      label: flexible_days_off
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: flexible_hours_off
+      label: flexible_hours_off
+      hint: null
+      type: number
+      options: []
+      required: false

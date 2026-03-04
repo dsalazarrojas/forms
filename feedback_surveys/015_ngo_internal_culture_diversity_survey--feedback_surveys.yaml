@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: NGO Internal Culture Diversity Survey
+    pages:
+    - id: 1
+      name: welcome
+      label: Welcome Page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: diversity
+      label: how_do_you_describe_yourself
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: inclusion
+      label: how_did_we_do_with_inclusion
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''a''}'
+      - '{''label'': ''b''}'
+      - '{''label'': ''c''}'
+      required: false
+    - id: 4
+      name: experience
+      label: how_did_you_feel_in_the_last_6_months
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''very_strongly_disagree''}'
+      - '{''label'': ''somewhat_disagree''}'
+      - '{''label'': ''neither''}'
+      - '{''label'': ''somewhat_agree''}'
+      - '{''label'': ''strongly_agree''}'
+      required: false
+    - id: 5
+      name: diversity_and_inclusion
+      label: what_do_you_believe_is_our_strengths
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: feedback
+      label: what_do_you_want_to_improve
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: note
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false

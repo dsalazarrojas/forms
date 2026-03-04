@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare Patient Feedback Request Form
+    pages:
+    - id: 1
+      name: general_info
+      label: prophets
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: prophets
+      label: prophets
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Excellent''}'
+      - '{''id'': 2, ''name'': ''Good''}'
+      - '{''id'': 3, ''name'': ''Satisfactory''}'
+      required: true
+    - id: 3
+      name: date_visited
+      label: date_visited
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: name_of_doctor
+      label: name_of_doctor
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: name_of_doctor_assisted
+      label: name_of_doctor
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Dr Smith''}'
+      - '{''id'': 2, ''name'': ''Dr John''}'
+      - '{''id'': 3, ''name'': ''Dr Jane''}'
+      - '{''id'': 4, ''name'': ''Dr Alex''}'
+      required: true
+    - id: 6
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact
+      label: contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: satisfaction
+      label: prophets
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Very'', ''label'': ''Very'', ''value'': 5}'
+      - '{''id'': 2, ''name'': ''Good'', ''label'': ''Good'', ''value'': 4}'
+      - '{''id'': 3, ''name'': ''Not'', ''label'': ''Not'', ''value'': 3}'
+      - '{''id'': 4, ''name'': ''Fair'', ''label'': ''Fair'', ''value'': 2}'
+      - '{''id'': 5, ''name'': ''Bad'', ''label'': ''Bad'', ''value'': 1}'
+      required: true
+    - id: 11
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: rating_comment
+      label: rating_comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: follow_up
+      label: follow_up
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      - '{''id'': 3, ''name'': ''unsure''}'
+      required: false
+    - id: 14
+      name: contact_again
+      label: contact_again
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      - '{''id'': 3, ''name'': ''unsure''}'
+      required: false
+    - id: 15
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: name_of_clinic
+      label: name_of_clinic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: name_of_hospital
+      label: name_of_hospital
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: doctor_specialty
+      label: doctor_specialty
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''cardiology''}'
+      - '{''id'': 2, ''name'': ''neurology''}'
+      - '{''id'': 3, ''name'': ''orthopedic''}'
+      - '{''id'': 4, ''name'': ''pediatric''}'
+      - '{''id'': 5, ''name'': ''surgery''}'
+      - '{''id'': 6, ''name'': ''oncology''}'
+      - '{''id'': 7, ''name'': ''general_medicine''}'
+      - '{''id'': 8, ''name'': ''dermatology''}'
+      - '{''id'': 9, ''name'': ''gynecology''}'
+      - '{''id'': 10, ''name'': ''urology''}'
+      required: false
+    - id: 20
+      name: patient_id
+      label: patient_id
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: visit_date
+      label: visit_date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: visit_time
+      label: visit_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 23
+      name: visit_duration
+      label: visit_duration
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: follow_up_date
+      label: follow_up_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: follow_up_time
+      label: follow_up_time
+      hint: null
+      type: time
+      options: []
+      required: false

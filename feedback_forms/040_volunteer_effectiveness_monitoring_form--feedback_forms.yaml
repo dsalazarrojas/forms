@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Volunteer Effectiveness Monitoring Form
+    pages:
+    - id: 1
+      name: volunteer_effectiveness_monitoring_form_page
+      label: Volunteer Effectiveness Monitoring Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: volunteer_effectiveness_monitoring_rating
+      label: Rating
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: volunteer_effectiveness_monitor_rating_scale
+      label: Rating Scale
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: volunteer_effectiveness_rating_comment
+      label: Rating Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: volunteer_effectiveness_rating_score
+      label: Rating Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: volunteer_effectiveness_performance_comments
+      label: Performance Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: volunteer_effectiveness_recommendations
+      label: Recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: volunteer_effectiveness_next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: volunteer_effectiveness_additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: volunteer_effectiveness_rating_frequency
+      label: Rating Frequency
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false

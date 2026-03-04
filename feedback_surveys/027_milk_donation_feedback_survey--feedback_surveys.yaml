@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Milk Donation Feedback Survey
+    pages:
+    - id: 1
+      name: donation_experience
+      label: How was your donation experience?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: satisfaction
+      label: Overall satisfaction with the donation process
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: donor_name
+      label: What is your name?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: donation_frequency
+      label: How frequently do you plan to donate milk?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 5
+      name: donation_location
+      label: Where did you donate milk?
+      hint: null
+      type: select_multiple
+      options:
+      - Location 1
+      - Location 2
+      - Location 3
+      required: true
+    - id: 6
+      name: contact_info
+      label: What is your contact info?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: feedback_notes
+      label: Additional feedback notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

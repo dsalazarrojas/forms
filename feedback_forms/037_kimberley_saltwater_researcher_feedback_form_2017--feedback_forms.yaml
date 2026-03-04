@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Kimberley Saltwater Researcher Feedback Form 2017
+    pages:
+    - id: 1
+      name: researcher_name
+      label: Researcher Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: researcher_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: researcher_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: research_location
+      label: Location
+      hint: null
+      type: select_multiple
+      options:
+      - Kimberley region
+      - other
+      required: false
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: research_focus_area
+      label: Research Focus Area
+      hint: null
+      type: select_multiple
+      options:
+      - Water Quality
+      - Water quantity
+      - Biodiversity
+      - Water use
+      required: false
+    - id: 8
+      name: research_objectives
+      label: Research Objectives
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false

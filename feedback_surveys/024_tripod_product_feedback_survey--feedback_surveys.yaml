@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tripod Product Feedback Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Welcome to Tripod Product Feedback Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: product_rating
+      label: How would you rate our tripod?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Poor''}'
+      - '{''value'': ''Fair''}'
+      - '{''value'': ''Good''}'
+      - '{''value'': ''Very Good''}'
+      - '{''value'': ''Excellent''}'
+      required: false
+    - id: 3
+      name: rating_scale
+      label: What is the reason for your feedback?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Quality Issues''}'
+      - '{''value'': ''Functionality Issues''}'
+      - '{''value'': ''Design Issues''}'
+      - '{''value'': ''Not Enough Features''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: contact_us
+      label: Contact Us
+      hint: If you have a question or concern, please contact us.
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: product_version
+      label: Product Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: operating_system
+      label: Operating System
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Windows''}'
+      - '{''value'': ''Linux''}'
+      - '{''value'': ''macOS''}'
+      required: false
+    - id: 11
+      name: device_type
+      label: Device Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Camera''}'
+      - '{''value'': ''Monitor''}'
+      - '{''value'': ''Tripod''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 12
+      name: tripod_model
+      label: Tripod Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: tripod_serial
+      label: Tripod Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: operating_system_version
+      label: Operating System Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: software_version
+      label: Software Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: problem_description
+      label: Problem Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: steps_to_reproduce
+      label: Steps to Reproduce
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: expected_result
+      label: Expected Result
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: actual_result
+      label: Actual Result
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submission
+      label: Submission
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: contact_form
+      label: Contact Form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: contact_form
+      label: Contact Form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,52 @@
+inputSchema:
+  type: object
+  properties:
+    title: Exam Process Feedback Survey
+    pages:
+    - id: 1
+      name: exam_process_feedback_survey
+      label: exam_process_feedback_survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: overall_satisfaction
+      label: overall_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Very satisfied'', ''value'': 5}'
+      - '{''id'': 2, ''label'': ''Somewhat satisfied'', ''value'': 4}'
+      - '{''id'': 3, ''label'': ''Somewhat dissatisfied'', ''value'': 3}'
+      - '{''id'': 4, ''label'': ''Very dissatisfied'', ''value'': 2}'
+      - '{''id'': 5, ''label'': ''Very dissatisfied'', ''value'': 1}'
+      required: false
+    - id: 3
+      name: category_id
+      label: category_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: exam_comments
+      label: exam_comments
+      hint: null
+      type: note
+      options: []
+      required: false

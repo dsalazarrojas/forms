@@ -1,0 +1,341 @@
+inputSchema:
+  type: object
+  properties:
+    title: Amazon Order Return Form
+    pages:
+    - id: 1
+      name: section_order_info
+      label: -- Order Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: order_number
+      label: Order Number
+      hint: Find this in your confirmation email
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: section_customer_info
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email
+      label: Email Address
+      hint: For return confirmation
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: section_item_details
+      label: -- Item Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: item_name
+      label: Item Name
+      hint: Product title
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: item_sku
+      label: Item SKU/ASIN
+      hint: If available
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: quantity
+      label: Quantity to Return
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: item_condition
+      label: Item Condition
+      hint: Current condition of the item
+      type: select_one
+      options:
+      - New - Unopened
+      - New - Opened
+      - Like New
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 14
+      name: original_packaging
+      label: Is Original Packaging Included
+      hint: null
+      type: select_one
+      options:
+      - Yes - Complete packaging
+      - Yes - Partial packaging
+      - No - Packaging discarded
+      required: true
+    - id: 15
+      name: section_return_reason
+      label: -- Return Reason --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: return_reason
+      label: Reason for Return
+      hint: Select the primary reason
+      type: select_one
+      options:
+      - No longer needed
+      - Found better price
+      - Ordered by mistake
+      - Item damaged
+      - Item defective
+      - Wrong item received
+      - Item not as described
+      - Size/fit issue
+      - Quality issue
+      - Missing parts
+      - Other
+      required: true
+    - id: 17
+      name: return_reason_detail
+      label: Please Provide More Details
+      hint: Explain your reason for return
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: issue_photos
+      label: Upload Photos of Issue
+      hint: If item is damaged or defective
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_resolution
+      label: -- Preferred Resolution --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: preferred_resolution
+      label: What resolution would you prefer
+      hint: null
+      type: select_one
+      options:
+      - Full refund
+      - Partial refund
+      - Exchange for same item
+      - Exchange for different item
+      - Store credit
+      - Replacement
+      required: true
+    - id: 21
+      name: refund_method
+      label: Preferred Refund Method
+      hint: If applicable
+      type: select_one
+      options:
+      - Original payment method
+      - Amazon gift card
+      - Bank account
+      - Store credit
+      required: false
+    - id: 22
+      name: replacement_item
+      label: Replacement Item Details
+      hint: If requesting exchange
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: section_return_shipping
+      label: -- Return Shipping --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: return_shipping_method
+      label: Return Shipping Method
+      hint: How will you return the item
+      type: select_one
+      options:
+      - Drop off at UPS location
+      - Drop off at Kohl's
+      - Drop off at Whole Foods
+      - Schedule pickup
+      - Drop off at Amazon Hub
+      - Other
+      required: true
+    - id: 25
+      name: return_shipping_label
+      label: Do you need a return shipping label
+      hint: null
+      type: select_one
+      options:
+      - Yes - Email me the label
+      - Yes - I will print it
+      - No - I have my own shipping
+      required: true
+    - id: 26
+      name: pickup_address
+      label: Pickup Address
+      hint: If scheduling pickup
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: section_product_feedback
+      label: -- Product Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: product_rating
+      label: Product Rating
+      hint: Before return issue
+      type: select_one
+      options:
+      - 5 stars - Excellent
+      - 4 stars - Good
+      - 3 stars - Average
+      - 2 stars - Poor
+      - 1 star - Very poor
+      required: false
+    - id: 29
+      name: product_quality
+      label: How would you rate product quality
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      required: false
+    - id: 30
+      name: product_accuracy
+      label: Did the product match its description
+      hint: null
+      type: select_one
+      options:
+      - Yes - Exactly as described
+      - Mostly - Minor differences
+      - Somewhat - Notable differences
+      - No - Very different
+      required: false
+    - id: 31
+      name: would_recommend
+      label: Would you recommend this product
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false
+    - id: 32
+      name: section_seller_feedback
+      label: -- Seller Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 33
+      name: seller_rating
+      label: Seller Rating
+      hint: If third-party seller
+      type: select_one
+      options:
+      - 5 stars - Excellent
+      - 4 stars - Good
+      - 3 stars - Average
+      - 2 stars - Poor
+      - 1 star - Very poor
+      - N/A - Sold by Amazon
+      required: false
+    - id: 34
+      name: seller_communication
+      label: Seller Communication Rating
+      hint: If applicable
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      - Not applicable
+      required: false
+    - id: 35
+      name: section_additional
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 36
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else you would like to share
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: contact_permission
+      label: May we contact you about this return
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 38
+      name: return_date
+      label: Date of Return Request
+      hint: null
+      type: date
+      options: []
+      required: true

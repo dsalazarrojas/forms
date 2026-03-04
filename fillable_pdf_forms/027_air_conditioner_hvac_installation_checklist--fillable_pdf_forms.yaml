@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Air Conditioner HVAC Installation Checklist
+    pages:
+    - id: 1
+      name: installer_name
+      label: Installer name
+      hint: Technician responsible for installation
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: installation_date
+      label: Installation date
+      hint: Date the unit was installed
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: site_address
+      label: Site address
+      hint: Address where installation occurred
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: unit_model
+      label: Unit model and serial number
+      hint: Manufacturer model and serial
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: electrical_connection_checked
+      label: Electrical connection checked
+      hint: Confirm proper wiring and breakers
+      type: select_one
+      options: [Yes, No]
+      required: true
+    - id: 6
+      name: refrigerant_charge_verified
+      label: Refrigerant charge verified
+      hint: Charge level matches specification
+      type: select_one
+      options: [Yes, No, Not applicable]
+      required: true
+    - id: 7
+      name: airflow_test_passed
+      label: Airflow test passed
+      hint: Measured airflow meets requirements
+      type: select_one
+      options: [Yes, No]
+      required: true
+    - id: 8
+      name: condensate_drain_checked
+      label: Condensate drain checked
+      hint: Ensure no leaks and proper slope
+      type: select_one
+      options: [Yes, No]
+      required: true
+    - id: 9
+      name: customer_notes
+      label: Customer notes and handover
+      hint: Explain any instructions given to customer
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: installer_signature
+      label: Installer acknowledgement
+      hint: Name and confirmation of checklist completion
+      type: note
+      options: []
+      required: true

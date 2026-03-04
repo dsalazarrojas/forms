@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: sliding_door_feedback_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: What is your current sliding door brand?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Brand A''}'
+      - '{''id'': 2, ''label'': ''Brand B''}'
+      - '{''id'': 3, ''label'': ''Brand C''}'
+      required: false
+    - id: 2
+      name: experience
+      label: On a scale of 1-5, how would you rate your experience with the sliding
+        door?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: satisfaction
+      label: How satisfied are you with the current sliding door brand?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Very Dissatisfied''}'
+      - '{''id'': 2, ''label'': ''Somewhat Dissatisfied''}'
+      - '{''id'': 3, ''label'': ''Neutral''}'
+      - '{''id'': 4, ''label'': ''Somewhat Satisfied''}'
+      - '{''id'': 5, ''label'': ''Very Satisfied''}'
+      required: false
+    - id: 4
+      name: comments
+      label: Do you have any additional comments about the sliding door brand?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: name
+      label: What is your name?
+      hint: Please enter your name
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: What is your email address?
+      hint: Please enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact
+      label: How did you hear about us?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Google''}'
+      - '{''id'': 2, ''label'': ''Social Media''}'
+      - '{''id'': 3, ''label'': ''Friend''}'
+      - '{''id'': 4, ''label'': ''Family''}'
+      - '{''id'': 5, ''label'': ''Other''}'
+      required: false
+    - id: 8
+      name: feedback
+      label: Is there anything else you'd like to tell us?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: product
+      label: What product model are you using?
+      hint: Please enter your product model
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: version
+      label: What version of the product are you using?
+      hint: Please enter your product version
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: purchase_date
+      label: When did you purchase the product?
+      hint: Please enter the date you purchased the product
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: purchase_from
+      label: Where did you purchase the product?
+      hint: Please enter the place of purchase
+      type: text
+      options: []
+      required: false

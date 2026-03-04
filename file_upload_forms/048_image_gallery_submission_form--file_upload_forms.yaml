@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Image Gallery Submission Form
+    pages:
+    - id: 1
+      name: image_gallery_submission_form_page_1
+      label: Upload Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: image_gallery_submission_form_page_2
+      label: Caption
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: image_gallery_submission_form_page_3
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: image_gallery_submission_form_page_4
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: image_gallery_submission_form_page_5
+      label: Tags
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: image_gallery_submission_form_page_6
+      label: File
+      hint: null
+      type: text
+      options: []
+      required: false

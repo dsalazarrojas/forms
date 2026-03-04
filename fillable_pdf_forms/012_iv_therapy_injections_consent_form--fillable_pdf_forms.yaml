@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: iv_therapy_injections_consent_form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: patient_dob
+      label: Patient DOB
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: consent_to_injection
+      label: Consent To Injection
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 6
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: allergies
+      label: Allergies
+      hint: null
+      type: select_multiple
+      options:
+      - Peanut
+      - Shellfish
+      - Soy
+      required: false
+    - id: 8
+      name: consent_date
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: healthcare_provider
+      label: Healthcare Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: facility_name
+      label: Facility Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: facility_address
+      label: Facility Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: facility_city
+      label: Facility City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: facility_state
+      label: Facility State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: facility_zip
+      label: Facility Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: patient_signature
+      label: Patient Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: provider_signature
+      label: Provider Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: date_injection_administered
+      label: Date Injections Administered
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: injection_site
+      label: Injection Site
+      hint: null
+      type: select_one
+      options:
+      - Arm
+      - Hand
+      - Foot
+      required: true
+    - id: 22
+      name: injection_site_other
+      label: Injection Site Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: injection_site_other_details
+      label: Injection Site Other Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: consent_signature_date
+      label: Consent Signature Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: consent_signature
+      label: Consent Signature
+      hint: null
+      type: text
+      options: []
+      required: true

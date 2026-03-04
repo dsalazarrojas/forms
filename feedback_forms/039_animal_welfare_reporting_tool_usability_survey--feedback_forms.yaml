@@ -1,0 +1,112 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Animal Welfare Reporting Tool Usability Survey
+    pages:
+    - id: 1
+      name: reporting_tool_name_version
+      label: Reporting Tool Name or Version
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: usage_frequency_rating
+      label: Frequency of Tool Use
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Once or occasionally
+      required: true
+    - id: 3
+      name: navigation_ease_rating
+      label: Ease of Navigation
+      hint: How easy is it to find what you need?
+      type: select_one
+      options:
+      - Very Easy
+      - Easy
+      - Neutral
+      - Difficult
+      - Very Difficult
+      required: true
+    - id: 4
+      name: label_clarity_rating
+      label: Clarity of Field Labels and Instructions
+      hint: null
+      type: select_one
+      options:
+      - Very Clear
+      - Clear
+      - Somewhat Clear
+      - Unclear
+      required: true
+    - id: 5
+      name: completion_time_est
+      label: Average Time to Complete a Single Report
+      hint: e.g. 5 minutes, 15 minutes
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: technical_glitch_freq
+      label: Experience with Technical Glitches or Bugs
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Sometimes
+      - Often
+      required: true
+    - id: 7
+      name: search_feature_utility
+      label: Usefulness of Search and Filter Features
+      hint: null
+      type: select_one
+      options:
+      - Very Useful
+      - Useful
+      - Neutral
+      - Not Useful
+      - Feature not found
+      required: true
+    - id: 8
+      name: mobile_access_rating
+      label: Mobile Accessibility Performance
+      hint: null
+      type: select_one
+      options:
+      - Excellent - Works great on phones
+      - Good - Functional but slow
+      - Poor - Difficult to use
+      - Not used on mobile devices
+      required: true
+    - id: 9
+      name: primary_feature_used
+      label: Feature You Use Most Frequently
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: improvement_usability_suggestion
+      label: One Change to Improve Usability
+      hint: What would make your job easier?
+      type: text
+      options: []
+      required: false

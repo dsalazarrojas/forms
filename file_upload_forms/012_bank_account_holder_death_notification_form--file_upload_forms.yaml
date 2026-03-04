@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bank Account Holder Death Notification Form
+    pages:
+    - id: 1
+      name: deceased_info_header
+      label: -- Deceased Account Holder Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: deceased_name
+      label: Full Legal Name of Deceased
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_death
+      label: Date of Death
+      hint: As listed on the official death certificate
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: account_number_deceased
+      label: Primary Bank Account Number
+      hint: If multiple, list the main account or all known
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: ssn_last_four
+      label: Last 4 Digits of Deceased's SSN
+      hint: For verification purposes
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: informant_info_header
+      label: -- Informant / Representative Information --
+      hint: Information about the person submitting this notification
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: informant_name
+      label: Informant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: informant_relationship
+      label: Relationship to the Deceased
+      hint: e.g., Spouse, Next of Kin, Executor, Attorney
+      type: select_one
+      options:
+      - Surviving Spouse
+      - Immediate Family / Next of Kin
+      - Executor of Estate
+      - Legal Counsel / Attorney
+      - Other
+      required: true
+    - id: 9
+      name: informant_phone
+      label: Informant Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: informant_email
+      label: Informant Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: documentation_header
+      label: -- Required Documentation --
+      hint: Please provide links to digital copies of the following documents
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: death_certificate_link
+      label: Death Certificate Link (Encrypted/Secure Drive)
+      hint: Provide a secure link to the scanned official certificate
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: letters_testamentary_link
+      label: Letters Testamentary or Small Estate Affidavit Link
+      hint: Required to grant estate access
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: estate_status_header
+      label: -- Estate Status and Requests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: freezing_request
+      label: Do you wish to place a security freeze on the account immediately?
+      hint: Prevents all further transactions until the estate is settled
+      type: select_one
+      options:
+      - Yes - Freeze Account
+      - No - Maintain for automatic payments
+      required: true
+    - id: 16
+      name: recurring_payments_noted
+      label: Are there known recurring automatic payments?
+      hint: e.g., Utilities, Mortgage, Insurance
+      type: select_one
+      options:
+      - Yes - Keep active
+      - Yes - Stop all
+      - No known payments
+      required: true
+    - id: 17
+      name: certification_statement
+      label: I certify that I am authorized to provide this notification
+      hint: Providing false information regarding a death is a serious legal offense
+      type: select_multiple
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 18
+      name: submission_date
+      label: Notification Date
+      hint: null
+      type: date
+      options: []
+      required: true

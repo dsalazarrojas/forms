@@ -1,0 +1,110 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Conference Experience Feedback Form
+    pages:
+      - id: 1
+        name: attendee_name
+        label: Attendee name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: email
+        label: Email address
+        hint: For follow up if requested
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: overall_satisfaction
+        label: Overall satisfaction rating
+        hint: Rate your overall conference experience
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 4
+        name: session_quality
+        label: Session quality rating
+        hint: Quality of sessions and speakers
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 5
+        name: logistics
+        label: Logistics and organization rating
+        hint: Venue, signage, and registration
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 6
+        name: networking_opportunities
+        label: Networking opportunities rating
+        hint: Value of networking available
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+        required: false
+      - id: 7
+        name: accessibility
+        label: Accessibility and inclusion
+        hint: How accessible was the conference
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+        required: false
+      - id: 8
+        name: highlights
+        label: Highlights or favorite moments
+        hint: What stood out for you
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: improvement_areas
+        label: Areas for improvement
+        hint: Suggestions to improve future events
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: likelihood_to_return
+        label: Likelihood to attend again
+        hint: Would you attend this conference again
+        type: select_one
+        options:
+          - Very likely
+          - Likely
+          - Unlikely
+          - Very unlikely
+        required: true

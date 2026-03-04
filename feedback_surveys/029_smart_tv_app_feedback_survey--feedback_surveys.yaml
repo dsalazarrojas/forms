@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart TV App Feedback Survey
+    pages:
+    - id: 1
+      name: introduction_page
+      label: What do you use Smart TV app for?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: rating_page
+      label: How would you rate overall experience?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: rating_page_2
+      label: Would you recommend Smart TV app?
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': True}'
+      - '{''option2'': False}'
+      - '{''option3'': ''Undecided''}'
+      required: true
+    - id: 4
+      name: feedback_page
+      label: Please provide feedback about Smart TV app
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: issue_page
+      label: Have you faced any issues while using Smart TV app?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': False}'
+      - '{''option2'': ''Technical issues''}'
+      - '{''option3'': ''Content issues''}'
+      - '{''option4'': ''Other''}'
+      required: true
+    - id: 6
+      name: date_page
+      label: When did you start using Smart TV app?
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: phone_page
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email_page
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true

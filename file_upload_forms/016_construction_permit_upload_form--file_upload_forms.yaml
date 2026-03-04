@@ -1,0 +1,167 @@
+inputSchema:
+  type: object
+  properties:
+    title: Construction Permit Upload Form
+    pages:
+    - id: 1
+      name: section_applicant_ident
+      label: -- Applicant Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Full Name of Applicant
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_name
+      label: Company Name (If Applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: applicant_email
+      label: Primary Email Address
+      hint: Updates will be sent here
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: applicant_phone
+      label: Primary Phone Number
+      hint: Format - (555) 555-5555
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_project_details
+      label: -- Project Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: project_address
+      label: Project Site Address
+      hint: City, State, ZIP
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: permit_type_req
+      label: Permit Type Requested
+      hint: Select the main permit category
+      type: select_one
+      options:
+      - Building (General)
+      - Electrical
+      - Plumbing
+      - Mechanical (HVAC)
+      - Roofing
+      - Demolition
+      - Fencing/Wall
+      - Swimming Pool
+      - Solar Installation
+      required: true
+    - id: 9
+      name: permit_number_ref
+      label: Existing Permit Number (If applicable)
+      hint: For renewals or revisions
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: description_of_work
+      label: Brief Description of Work
+      hint: Max 500 characters
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_doc_verification
+      label: -- Document Verification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: permit_docs_uploaded
+      label: Permit Application Document Uploaded
+      hint: Please confirm the application PDF is ready
+      type: select_one
+      options:
+      - Yes - Uploaded to Portal
+      - No - Sending via Mail
+      required: true
+    - id: 13
+      name: site_plan_uploaded
+      label: Site Plan Uploaded
+      hint: null
+      type: select_one
+      options:
+      - true
+      - No - Not required for this permit
+      required: true
+    - id: 14
+      name: structural_calcs_uploaded
+      label: Structural Calculations Uploaded
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - N/A
+      required: true
+    - id: 15
+      name: contract_copy_uploaded
+      label: Signed Contract Copy Uploaded
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: section_additional_info
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: expedited_review_req
+      label: Requested Expedited Review?
+      hint: Additional fees may apply
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: previous_denials
+      label: Has this permit been previously denied?
+      hint: If yes, provide reason below
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 19
+      name: denial_reason_desc
+      label: Reason for Previous Denial
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submission_date
+      label: Date of Submission
+      hint: null
+      type: date
+      options: []
+      required: true

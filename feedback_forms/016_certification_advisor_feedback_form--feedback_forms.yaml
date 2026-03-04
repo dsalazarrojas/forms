@@ -1,0 +1,227 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Certification Advisor Feedback Form
+    pages:
+      - id: 1
+        name: feedback_date
+        label: Feedback Date
+        hint: Date of feedback submission
+        type: date
+        options: []
+        required: true
+      - id: 2
+        name: client_name
+        label: Client Name
+        hint: Your full name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: client_email
+        label: Email Address
+        hint: Email for follow-up
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: advisor_name
+        label: Certification Advisor Name
+        hint: Name of your assigned advisor
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: advisory_period
+        label: Advisory Period
+        hint: Duration of advisory relationship
+        type: select_one
+        options:
+          - Less than 1 month
+          - 1-3 months
+          - 3-6 months
+          - 6-12 months
+          - Over 1 year
+        required: true
+      - id: 6
+        name: certification_program
+        label: Certification Program
+        hint: Which certification are you pursuing
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: meeting_frequency
+        label: Meeting Frequency
+        hint: How often did you meet with your advisor
+        type: select_one
+        options:
+          - Weekly
+          - Bi-weekly
+          - Monthly
+          - Quarterly
+          - As needed
+        required: true
+      - id: 8
+        name: advisor_knowledge
+        label: Advisor Knowledge
+        hint: Rate your advisor knowledge of the certification process
+        type: select_one
+        options:
+          - Excellent
+          - Very good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 9
+        name: advisor_responsiveness
+        label: Advisor Responsiveness
+        hint: Rate how responsive your advisor was
+        type: select_one
+        options:
+          - Excellent
+          - Very good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 10
+        name: communication_clarity
+        label: Communication Clarity
+        hint: How clear was the advisor communication
+        type: select_one
+        options:
+          - Very clear
+          - Clear
+          - Somewhat clear
+          - Unclear
+          - Very unclear
+        required: true
+      - id: 11
+        name: guidance_quality
+        label: Guidance Quality
+        hint: Rate the quality of guidance provided
+        type: select_one
+        options:
+          - Excellent
+          - Very good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 12
+        name: support_level
+        label: Support Level
+        hint: How supported did you feel throughout the process
+        type: select_one
+        options:
+          - Very supported
+          - Supported
+          - Neutral
+          - Unsupported
+          - Very unsupported
+        required: true
+      - id: 13
+        name: advisor_preparedness
+        label: Advisor Preparedness
+        hint: How well prepared was your advisor for meetings
+        type: select_one
+        options:
+          - Always prepared
+          - Usually prepared
+          - Sometimes prepared
+          - Rarely prepared
+          - Never prepared
+        required: true
+      - id: 14
+        name: goal_setting_assistance
+        label: Goal Setting Assistance
+        hint: Did your advisor help you set clear goals
+        type: select_one
+        options:
+          - Exceeded expectations
+          - Met expectations
+          - Below expectations
+          - No goal setting provided
+        required: true
+      - id: 15
+        name: resource_provision
+        label: Resource Provision
+        hint: Did your advisor provide helpful resources
+        type: select_one
+        options:
+          - Excellent resources
+          - Good resources
+          - Adequate resources
+          - Limited resources
+          - No resources provided
+        required: true
+      - id: 16
+        name: problem_solving
+        label: Problem Solving Ability
+        hint: How well did your advisor help resolve issues
+        type: select_one
+        options:
+          - Excellent
+          - Very good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 17
+        name: overall_satisfaction
+        label: Overall Satisfaction
+        hint: Overall satisfaction with your advisor
+        type: select_one
+        options:
+          - Very satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very dissatisfied
+        required: true
+      - id: 18
+        name: would_recommend
+        label: Would Recommend Advisor
+        hint: Would you recommend this advisor to others
+        type: select_one
+        options:
+          - Definitely yes
+          - Probably yes
+          - Not sure
+          - Probably not
+          - Definitely not
+        required: true
+      - id: 19
+        name: advisor_strengths
+        label: Advisor Strengths
+        hint: What did your advisor do well
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: areas_for_improvement
+        label: Areas for Improvement
+        hint: What could your advisor improve
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback about your advisory experience
+        type: text
+        options: []
+        required: false

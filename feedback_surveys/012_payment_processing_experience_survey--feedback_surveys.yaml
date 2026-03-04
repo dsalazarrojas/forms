@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Payment Processing Experience Survey
+    pages:
+    - id: 1
+      name: payment_processing_experience
+      label: How would you rate your payment processing experience?
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 2
+      name: satisfaction
+      label: Overall satisfaction with your payment experience
+      hint: null
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Somewhat Dissatisfied
+      - Neutral
+      - Somewhat Satisfied
+      - Very Satisfied
+      required: true
+    - id: 3
+      name: ease_of_payment
+      label: Ease of payment
+      hint: null
+      type: select_one
+      options:
+      - Very Hard
+      - Somewhat Hard
+      - Neutral
+      - Somewhat Easy
+      - Very Easy
+      required: true
+    - id: 4
+      name: issues_encountered
+      label: Issues encountered during checkout
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Technical issues
+      - Payment method not found
+      - Difficulty with website
+      required: true
+    - id: 5
+      name: suggestions_for_improvement
+      label: Do you have any suggestions for improvement?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: feedback
+      label: Additional feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_us
+      label: Would you like to contact us?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Team Celebration Feedback Form
+    pages:
+    - id: 1
+      name: team_celebration_feedback_form
+      label: celebration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: feedback_questions
+      label: What were your favorite moments?
+      hint: Tell us about your favorite moments
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: team_celebration_feedback_form
+      label: How could we improve the celebration?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: feedback_questions
+      label: What did you learn from the celebration?
+      hint: Think about what new skills or insights you gained
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: favorite_participants
+      label: favorite_participants
+      hint: Who were your favorite participants?
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: favorite_participants
+      label: favorite_participants_2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: team_celebration_feedback_form
+      label: How would you rate the celebration overall?
+      hint: Scale of 1-5
+      type: number
+      options: []
+      required: false

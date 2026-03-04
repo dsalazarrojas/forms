@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Service Experience Feedback Form
+    pages:
+    - id: 1
+      name: customer_service_experience_form
+      label: Customer Service Experience
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: interaction_type
+      label: Interaction Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: channel
+      label: Channel
+      hint: null
+      type: select_multiple
+      options:
+      - Channel 1
+      - Channel 2
+      - Channel 3
+      required: false
+    - id: 4
+      name: customer_service_rating
+      label: Customer Service Rating
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfied
+      - Unsatisfied
+      - Neutral
+      required: false
+    - id: 5
+      name: satisfaction_score
+      label: Satisfaction Score
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: improvement_suggestions
+      label: Improvement Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: customer_service_rep
+      label: Customer Service Rep
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: time
+      options: []
+      required: false

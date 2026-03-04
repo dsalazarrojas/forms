@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: Book Party Signup Form
+    pages:
+    - id: 1
+      name: signup_header
+      label: -- Party Signup --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: attendee_name
+      label: Attendee name
+      hint: Full name for guest list
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email address
+      hint: For event updates
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: number_of_guests
+      label: Number of guests
+      hint: Including yourself
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: dietary_restrictions
+      label: Dietary restrictions
+      hint: e g vegetarian gluten free
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: preferred_book_genre
+      label: Preferred book genre
+      hint: Helps tailor event activities
+      type: select_one
+      options:
+      - Fiction
+      - Non fiction
+      - Mystery
+      - Romance
+      - Sci fi Fantasy
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: Any questions or accessibility notes
+      type: text
+      options: []
+      required: false

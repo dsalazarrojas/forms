@@ -1,0 +1,218 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Beta Testing Survey Form
+    pages:
+      - id: 1
+        name: tester_name
+        label: Your Name
+        hint: Enter your full name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: tester_email
+        label: Email Address
+        hint: We will send updates to this email
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: tester_company
+        label: Company or Organization
+        hint: Name of your organization if applicable
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: product_tested
+        label: Product Being Tested
+        hint: Which beta product are you testing
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: testing_duration
+        label: Testing Duration
+        hint: How long have you been testing
+        type: select_one
+        options:
+          - Less than 1 week
+          - 1 to 2 weeks
+          - 2 to 4 weeks
+          - 1 to 2 months
+          - Over 2 months
+        required: true
+      - id: 6
+        name: testing_environment
+        label: Testing Environment
+        hint: What environment are you testing in
+        type: select_one
+        options:
+          - Personal Device
+          - Work Device
+          - Testing Lab
+          - Production Environment
+          - Staging Environment
+        required: true
+      - id: 7
+        name: device_type
+        label: Device Type Used
+        hint: What device did you use for testing
+        type: select_one
+        options:
+          - Desktop Computer
+          - Laptop
+          - Tablet
+          - Smartphone
+          - Multiple Devices
+        required: true
+      - id: 8
+        name: operating_system
+        label: Operating System
+        hint: Which OS did you use
+        type: select_one
+        options:
+          - Windows
+          - macOS
+          - Linux
+          - iOS
+          - Android
+          - Chrome OS
+        required: true
+      - id: 9
+        name: overall_experience
+        label: Overall Experience Rating
+        hint: Rate your overall beta testing experience
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 10
+        name: ease_of_testing
+        label: Ease of Testing
+        hint: How easy was it to test the product
+        type: select_one
+        options:
+          - Very Easy
+          - Easy
+          - Neutral
+          - Somewhat Difficult
+          - Very Difficult
+        required: true
+      - id: 11
+        name: bugs_found
+        label: Number of Bugs Found
+        hint: Approximately how many bugs did you encounter
+        type: select_one
+        options:
+          - None
+          - 1 to 5
+          - 6 to 10
+          - 11 to 20
+          - More than 20
+        required: true
+      - id: 12
+        name: bug_severity
+        label: Bug Severity
+        hint: How severe were the bugs encountered
+        type: select_one
+        options:
+          - Critical
+          - Major
+          - Minor
+          - Cosmetic
+          - No Bugs Found
+        required: true
+      - id: 13
+        name: bug_description
+        label: Bug Description
+        hint: Describe the most significant bug you found
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: feature_feedback
+        label: Feature Feedback
+        hint: What features worked well and which did not
+        type: text
+        options: []
+        required: true
+      - id: 15
+        name: usability_rating
+        label: Usability Rating
+        hint: How usable is the product
+        type: select_one
+        options:
+          - Very Usable
+          - Usable
+          - Neutral
+          - Somewhat Unusable
+          - Very Unusable
+        required: true
+      - id: 16
+        name: performance_rating
+        label: Performance Rating
+        hint: Rate the product performance
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 17
+        name: documentation_helpful
+        label: Was Documentation Helpful
+        hint: Did the documentation help with testing
+        type: select_one
+        options:
+          - Very Helpful
+          - Helpful
+          - Neutral
+          - Not Very Helpful
+          - Not Helpful
+          - No Documentation Provided
+        required: false
+      - id: 18
+        name: improvements_suggested
+        label: Suggested Improvements
+        hint: What improvements would you suggest
+        type: text
+        options: []
+        required: true
+      - id: 19
+        name: would_recommend
+        label: Would You Recommend This Product
+        hint: Would you recommend to others
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Not Sure
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 20
+        name: additional_feedback
+        label: Additional Feedback
+        hint: Any other comments or observations
+        type: text
+        options: []
+        required: false

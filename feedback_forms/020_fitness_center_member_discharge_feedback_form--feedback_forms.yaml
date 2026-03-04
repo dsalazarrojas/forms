@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Center Member Discharge Feedback Form
+    pages:
+    - id: 1
+      name: discharge_reason
+      label: Discharge Reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: discharge_cause
+      label: Discharge Cause
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: discharge_date
+      label: Discharge Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: member_id
+      label: Member ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: discharge_date
+      label: Discharge Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: staff_name
+      label: Staff Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: staff_email
+      label: Staff Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: discharge_status
+      label: Discharge Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 10
+      name: staff_phone
+      label: Staff Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: gym_name
+      label: Gym Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: gym_address
+      label: Gym Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: gym_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: gym_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: gym_zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: gym_phone
+      label: Gym Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: member_name
+      label: Member Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: member_email
+      label: Member Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 19
+      name: feedback_frequency
+      label: Feedback Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: true
+    - id: 20
+      name: discharge_method
+      label: Discharge Method
+      hint: null
+      type: select_one
+      options:
+      - Online Form
+      - Phone
+      - In Person
+      required: true
+    - id: 21
+      name: discharge_type
+      label: Discharge Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: member_type
+      label: Member Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: member_category
+      label: Member Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: staff_category
+      label: Staff Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: gym_category
+      label: Gym Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

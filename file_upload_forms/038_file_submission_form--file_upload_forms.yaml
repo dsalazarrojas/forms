@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: file_submission_form
+    pages:
+    - id: 1
+      name: file_type
+      label: file_type
+      hint: null
+      type: select_one
+      options:
+      - documents
+      - images
+      required: true
+    - id: 2
+      name: uploaded_file
+      label: uploaded_file
+      hint: Upload a file
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: file_size
+      label: file_size
+      hint: File size in MB
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: file_name
+      label: file_name
+      hint: File name
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,89 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Community Needs Assessment Evaluation Form
+    pages:
+      - id: 1
+        name: evaluation_header
+        label: -- Needs Assessment Evaluation --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: evaluator_name
+        label: Evaluator name
+        hint: Person completing the evaluation
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: community_area
+        label: Community area assessed
+        hint: Neighborhood or district
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: key_needs_identified
+        label: Key needs identified
+        hint: Summary of main issues discovered
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: priority_ranking
+        label: Priority ranking for interventions
+        hint: Rank top interventions
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: stakeholder_feedback_quality
+        label: Stakeholder feedback quality
+        hint: Rate the quality of responses collected
+        type: select_one
+        options:
+          - High
+          - Medium
+          - Low
+        required: false
+      - id: 7
+        name: data_gaps
+        label: Data gaps
+        hint: Any missing information needed
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: recommended_actions
+        label: Recommended actions
+        hint: Short list of recommended next steps
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: resources_required
+        label: Resources required to implement actions
+        hint: Funding, staffing, or partners
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: follow_up_contact
+        label: Contact email for follow up
+        hint: Optional
+        type: email
+        options: []
+        required: false

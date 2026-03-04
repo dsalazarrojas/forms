@@ -1,0 +1,52 @@
+inputSchema:
+  type: object
+  properties:
+    title: Simulation Test Survey
+    pages:
+    - id: 1
+      name: simulation_test_survey
+      label: Participant Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: rating_scale
+      label: How Would Rate This Simulation
+      hint: On a 5 point scale, 1-5
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 4
+      name: what_improved
+      label: What Improved
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: what_didnt_improve
+      label: What Didnt Improve
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: feedback
+      label: Additional Feedback
+      hint: 'null'
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Custom Stencil Design Survey
+    pages:
+    - id: 1
+      name: custom_stencil_design_survey_first_page
+      label: Stencil Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: stencils_preferred_colors
+      label: Preferred Colors
+      hint: null
+      type: select_multiple
+      options:
+      - Red
+      - Blue
+      - Green
+      - Yellow
+      - Purple
+      - Orange
+      - Brown
+      - Pink
+      - Gray
+      - Black
+      - White
+      required: false
+    - id: 3
+      name: stencils_preferred_shapes
+      label: Preferred Shapes
+      hint: null
+      type: select_one
+      options:
+      - Circle
+      - Square
+      - Triangle
+      - Heart
+      - Star
+      - Diamond
+      - Oval
+      - Rectangle
+      required: false
+    - id: 4
+      name: stencils_preferred_sizes
+      label: Stencil Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: stencils_preferred_materials
+      label: Preferred Materials
+      hint: null
+      type: select_multiple
+      options:
+      - Paper
+      - Cardboard
+      - Plastic
+      - Metal
+      - Wood
+      - Fabric
+      - Glass
+      - Ceramic
+      required: false
+    - id: 6
+      name: customer_feedback
+      label: Customer Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: artist_feedback
+      label: Artist Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: business_feedback
+      label: Business Feedback
+      hint: null
+      type: text
+      options: []
+      required: false

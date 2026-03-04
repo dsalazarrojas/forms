@@ -1,0 +1,138 @@
+inputSchema:
+  type: object
+  properties:
+    title: Application Amendment Form
+    pages:
+    - id: 1
+      name: original_application_header
+      label: -- Original Application Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Applicant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_on_application
+      label: Email Address Used on Application
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: application_id
+      label: Application ID or Reference Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: amendment_details_header
+      label: -- Amendment Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: amendment_category
+      label: What part of your application requires an update?
+      hint: null
+      type: select_one
+      options:
+      - Personal Contact Information
+      - Educational History
+      - Employment History
+      - Supplementary Documents - Uploads
+      - Personal Statement - Essay
+      - Financial Information
+      - Other
+      required: true
+    - id: 7
+      name: reason_for_amendment
+      label: Reason for the Amendment Request
+      hint: e.g., error in original submission, updated information available
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: amendment_description
+      label: Description of Changes
+      hint: Please clearly state what needs to be changed and provide the correct
+        information
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: file_upload_note
+      label: -- Supporting Documentation for Amendment --
+      hint: Note - If you are updating a document, please ensure the new version is
+        ready for review.
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: new_document_title
+      label: Title of the New Document (If applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: previous_document_to_replace
+      label: Name of the Original Document to be Replaced
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: urgency_of_amendment
+      label: Urgency of this Amendment
+      hint: null
+      type: select_one
+      options:
+      - Standard Processing
+      - High Priority - Deadline Approaching
+      required: true
+    - id: 13
+      name: confirmation_header
+      label: -- Confirmation and Submission --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: accuracy_statement
+      label: I confirm that the information provided in this amendment is accurate
+        and replaces the previous data
+      hint: null
+      type: select_one
+      options:
+      - I Confirm
+      - Other
+      required: true
+    - id: 15
+      name: signature_date
+      label: Date of Request
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: applicant_signature_name
+      label: Electronic Signature (Full Name)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: contact_phone_for_followup
+      label: Phone Number for Follow-up (Optional)
+      hint: null
+      type: text
+      options: []
+      required: false

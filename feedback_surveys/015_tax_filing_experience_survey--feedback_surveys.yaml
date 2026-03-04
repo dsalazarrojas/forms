@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: tax_filing_experience_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: What was your experience with tax filing this year?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: filing_challenges
+      label: What were the main challenges you faced during the tax filing process?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: satisfaction
+      label: How satisfied are you with the tax filing experience?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: suggestions
+      label: Do you have any suggestions or improvements for the tax filing experience?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email_address
+      label: What is your email address?
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: What is your phone number?
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: tax_year
+      label: What is your tax year?
+      hint: null
+      type: select_one
+      options:
+      - '2020'
+      - '2021'
+      - '2022'
+      - '2023'
+      - '2024'
+      required: false
+    - id: 8
+      name: filing_method
+      label: How did you file your taxes this year?
+      hint: null
+      type: select_multiple
+      options:
+      - Electronic Filing
+      - Paper Filing
+      - Phone Filing
+      - In-person Filing
+      required: false
+    - id: 9
+      name: satisfaction_level
+      label: On a scale from 1 to 5, how would you rate your satisfaction with the
+        tax filing experience?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: overall_experience
+      label: How would you rate your overall experience with the tax filing experience?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: tax_professional_help
+      label: Did you receive any professional help while filing taxes?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: tax_professional_name
+      label: If you did receive professional help, what is the name of the tax professional
+        who helped you?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: other_professional_help
+      label: If not the tax professional above, who was the other professional that
+        helped you?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: tax_professional_type
+      label: What type of professional did you work with while filing taxes?
+      hint: null
+      type: select_one
+      options:
+      - Accountant
+      - Lawyer
+      - Financial Advisor
+      - Other
+      required: false
+    - id: 15
+      name: tax_filing_location
+      label: Where did you file your taxes?
+      hint: null
+      type: select_one
+      options:
+      - Home
+      - Office
+      - Online
+      required: false
+    - id: 16
+      name: other_location
+      label: Other location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: tax_filing_frequency
+      label: How often do you file your taxes?
+      hint: null
+      type: select_one
+      options:
+      - Annually
+      - Quarterly
+      - Bi-Annually
+      - Other
+      required: false
+    - id: 18
+      name: other_frequency
+      label: Other frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: tax_filing_date
+      label: What is your tax filing date?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: time_spent
+      label: How much time did you spend preparing for taxes?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: time_spent_filing
+      label: How much time did you spend filing your taxes?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: tax_filing_cost
+      label: How much did you spend on tax filing this year?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: other_cost
+      label: Other cost
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: tax_filing_satisfaction
+      label: On a scale from 1 to 5, how satisfied are you with the overall cost of
+        tax filing this year?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: comments
+      label: Any additional comments?
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Moot Court Brief Upload Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Moot Court Brief Upload Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''category1'', ''label'': ''category1''}'
+      - '{''id'': 2, ''name'': ''category2'', ''label'': ''category2''}'
+      required: true
+    - id: 3
+      name: description
+      label: description
+      hint: Brief description
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: file
+      label: upload_file
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: email
+      hint: Email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: phone
+      hint: Phone number
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: uploaded_file
+      label: uploaded_file
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: file2
+      label: upload_additional_file
+      hint: null
+      type: text
+      options: []
+      required: false

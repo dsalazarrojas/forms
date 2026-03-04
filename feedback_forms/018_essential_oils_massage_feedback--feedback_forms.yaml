@@ -1,0 +1,229 @@
+inputSchema:
+  type: object
+  properties:
+    title: Essential Oils Massage Feedback
+    pages:
+    - id: 1
+      name: session_rating
+      label: Client Satisfaction Rating
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent'', ''value'': 5}'
+      - '{''label'': ''Good'', ''value'': 4}'
+      - '{''label'': ''Average'', ''value'': 3}'
+      - '{''label'': ''Fair'', ''value'': 2}'
+      - '{''label'': ''Poor'', ''value'': 1}'
+      required: false
+    - id: 2
+      name: therapist_rating
+      label: Therapist Rating
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''5 stars'', ''value'': 5}'
+      - '{''label'': ''4 stars'', ''value'': 4}'
+      - '{''label'': ''3 stars'', ''value'': 3}'
+      - '{''label'': ''2 stars'', ''value'': 2}'
+      - '{''label'': ''1 star'', ''value'': 1}'
+      required: false
+    - id: 3
+      name: comments
+      label: Any Comments or Suggestions?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_information
+      label: Is this contact information accurate?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: false
+    - id: 5
+      name: email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: therapist_name
+      label: Therapist Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: session_time
+      label: Session Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: duration
+      label: Session Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: massage_oils
+      label: Which oils were used during this session?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Lavender'', ''value'': ''lavender''}'
+      - '{''label'': ''Peppermint'', ''value'': ''peppermint''}'
+      - '{''label'': ''Lemon'', ''value'': ''lemon''}'
+      - '{''label'': ''Eucalyptus'', ''value'': ''eucalyptus''}'
+      - '{''label'': ''Frankincense'', ''value'': ''frankincense''}'
+      - '{''label'': ''Other (please specify)'', ''value'': ''other''}'
+      required: false
+    - id: 12
+      name: massage_type
+      label: What type of massage did you receive?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Swedish'', ''value'': ''swedish''}'
+      - '{''label'': ''Deep Tissue'', ''value'': ''deep-tissue''}'
+      - '{''label'': ''Hot stone'', ''value'': ''hot-stone''}'
+      - '{''label'': ''Aromatherapy'', ''value'': ''aromatherapy''}'
+      - '{''label'': ''Other (please specify)'', ''value'': ''other''}'
+      required: false
+    - id: 13
+      name: area_massaged
+      label: Which area was massaged?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Back'', ''value'': ''back''}'
+      - '{''label'': ''Head/Neck'', ''value'': ''head-neck''}'
+      - '{''label'': ''Shoulders'', ''value'': ''shoulders''}'
+      - '{''label'': ''Arms'', ''value'': ''arms''}'
+      - '{''label'': ''Legs'', ''value'': ''legs''}'
+      - '{''label'': ''Feet'', ''value'': ''feet''}'
+      - '{''label'': ''Other (please specify)'', ''value'': ''other''}'
+      required: false
+    - id: 14
+      name: area_massaged_other
+      label: Please specify the area massaged
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: area_massaged_justification
+      label: Why was this area massaged?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: massage_oils_used
+      label: Which oils were used?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: massage_oils_used_other
+      label: Please specify the oils used
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: massage_pressure
+      label: How would you rate the pressure applied?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very light'', ''value'': 1}'
+      - '{''label'': ''Light'', ''value'': 2}'
+      - '{''label'': ''Medium'', ''value'': 3}'
+      - '{''label'': ''Firm'', ''value'': 4}'
+      - '{''label'': ''Very firm'', ''value'': 5}'
+      required: false
+    - id: 19
+      name: massage_environment
+      label: What was the atmosphere like?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Quiet'', ''value'': ''quiet''}'
+      - '{''label'': ''Relaxing'', ''value'': ''relaxing''}'
+      - '{''label'': ''Soothing'', ''value'': ''sooth''}'
+      - '{''label'': ''Busy'', ''value'': ''busy''}'
+      - '{''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 20
+      name: massage_environment_other
+      label: Please specify the atmosphere
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': 5, ''value'': 5}'
+      - '{''label'': 4, ''value'': 4}'
+      - '{''label'': 3, ''value'': 3}'
+      - '{''label'': 2, ''value'': 2}'
+      - '{''label'': 1, ''value'': 1}'
+      required: false
+    - id: 22
+      name: will_recommend
+      label: Will you recommend this massage?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: false
+    - id: 23
+      name: would_recommend_therapist
+      label: Will you recommend this therapist?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: false
+    - id: 24
+      name: follow_up
+      label: Follow Up Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: follow_up_next
+      label: Next follow-up date
+      hint: null
+      type: date
+      options: []
+      required: false

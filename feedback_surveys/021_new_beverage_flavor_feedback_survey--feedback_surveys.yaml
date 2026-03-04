@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: new_beverage_flavor_feedback_survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: intro_page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: flavor
+      label: flavor
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Apple''}'
+      - '{''label'': ''Berry''}'
+      - '{''label'': ''Citrus''}'
+      - '{''label'': ''Other''}'
+      required: true
+    - id: 4
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: favorite
+      label: favorite
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: true
+    - id: 6
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false

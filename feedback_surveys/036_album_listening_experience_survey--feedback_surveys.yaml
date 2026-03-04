@@ -1,0 +1,151 @@
+inputSchema:
+  type: object
+  properties:
+    title: Album Listening Experience Survey
+    pages:
+    - id: 1
+      name: section_listener
+      label: -- Listener Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: listener_name
+      label: Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: listening_method
+      label: How did you listen to this album?
+      hint: null
+      type: select_one
+      options:
+      - Vinyl
+      - CD
+      - Digital Stream (Spotify/Apple Music/etc.)
+      - Digital Download (FLAC/MP3)
+      - Cassette
+      required: true
+    - id: 4
+      name: listening_environment
+      label: Where did you primarily listen to it?
+      hint: null
+      type: select_one
+      options:
+      - At Home (Dedicated Listening)
+      - Commuting (Car/Public Transit)
+      - Working/Studying
+      - Gym/Exercise
+      - Background at Social Event
+      required: true
+    - id: 5
+      name: section_ratings
+      label: -- Album Ratings --
+      hint: Rate on a scale of 1 to 5
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: overall_album_rating
+      label: Overall Album Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: production_quality
+      label: Production and Sound Quality
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: lyricism_composition
+      label: Lyricism and Songwriting
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: track_flow
+      label: Album Flow and Sequencing
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: favorite_tracks
+      label: Favorite Track(s)
+      hint: Select up to 3 favorites
+      type: select_multiple
+      options:
+      - Track 1
+      - Track 2
+      - Track 3
+      - Track 4
+      - Track 5
+      - Track 6
+      - Track 7
+      - Track 8
+      - Track 9
+      - Track 10
+      required: true
+    - id: 11
+      name: least_favorite_track
+      label: Least Favorite Track
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: section_feedback
+      label: -- Qualitative Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: emotional_response
+      label: What emotions did this album evoke?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: standout_moment
+      label: Standout Moment or Lyric
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: listen_again
+      label: Will you listen to this album again?
+      hint: null
+      type: select_one
+      options:
+      - Regularly (Daily/Weekly)
+      - Occasionally
+      - Rarely
+      - Probably not
+      required: true
+    - id: 16
+      name: recommend_friend
+      label: Would you recommend this to a friend?
+      hint: null
+      type: select_one
+      options:
+      - Definitely
+      - Likely
+      - Unlikely
+      required: true
+    - id: 17
+      name: additional_comments
+      label: Final Thoughts or Messages for the Artist
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Recreational Program Feedback
+    pages:
+    - id: 1
+      name: program_title
+      label: Program Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: program_date
+      label: Program Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: program_type
+      label: Program Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: program_attended
+      label: Program Attended
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: program_location
+      label: Program Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: program_outcomes
+      label: Program Outcomes
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: program_comments
+      label: Program Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: staff_name
+      label: Staff Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: staff_email
+      label: Staff Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: staff_comments
+      label: Staff Comments
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Group Chat Logo Submission
+    pages:
+    - id: 1
+      name: form_file_upload
+      label: upload
+      hint: Upload your group chat logo here
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_contact_details
+      label: contact_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_usage_permission
+      label: usage_permission
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_select_all
+      label: select
+      hint: Select all files to upload
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 5
+      name: form_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: form_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: form_note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false

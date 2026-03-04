@@ -1,0 +1,152 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gradebook Feedback Survey
+    pages:
+    - id: 1
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: feedback_question
+      label: Feedback Question
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: staff_feedback
+      label: Staff Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: student_feedback
+      label: Student Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: follow_up_method
+      label: Follow-up Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Email and Phone
+      required: true
+    - id: 7
+      name: term_end_date
+      label: Term-End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: teacher_feedback
+      label: Teacher Feedback
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very good
+      - Average
+      - Below Average
+      required: true
+    - id: 9
+      name: staff_comments
+      label: Staff Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: student_comments
+      label: Student Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: next_follow_up_date
+      label: Next Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: next_follow_up_method
+      label: Next Follow-up Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Email and Phone
+      required: true
+    - id: 13
+      name: term_end_date
+      label: Term End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: teacher_comments
+      label: Teacher Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: staff_rating
+      label: Staff Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: student_rating
+      label: Student Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very good
+      - Average
+      - Below Average
+      required: true
+    - id: 18
+      name: staff_feedback_question
+      label: Staff Feedback Question
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: staff_suggestions
+      label: Staff Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false

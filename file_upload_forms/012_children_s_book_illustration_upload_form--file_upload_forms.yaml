@@ -1,0 +1,221 @@
+inputSchema:
+  type: object
+  properties:
+    title: Children's Book Illustration Upload Form
+    pages:
+    - id: 1
+      name: contributor_information
+      label: -- Contributor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contributor_name
+      label: Full Name
+      hint: Illustrator or artist name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: artist_bio
+      label: Brief Artist Biography
+      hint: Tell us about your artistic background
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: experience_level
+      label: Experience Level
+      hint: null
+      type: select_one
+      options:
+      - Student/Beginner
+      - Amateur
+      - Semi-professional
+      - Professional
+      required: true
+    - id: 7
+      name: project_information
+      label: -- Project Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: book_title
+      label: Book Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: book_description
+      label: Brief Book Description
+      hint: Summary of the story
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: target_age_group
+      label: Target Age Group
+      hint: null
+      type: select_one
+      options:
+      - Ages 0-3
+      - Ages 3-6
+      - Ages 6-9
+      - Ages 9-12
+      - Ages 12+
+      required: true
+    - id: 11
+      name: genre
+      label: Book Genre
+      hint: null
+      type: select_multiple
+      options:
+      - Picture book
+      - Fantasy
+      - Adventure
+      - Educational
+      - Mystery
+      - Science fiction
+      - Humor
+      - Other
+      required: true
+    - id: 12
+      name: page_number
+      label: Number of Pages to Illustrate
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: deadline
+      label: Project Deadline
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: submission_details
+      label: -- Submission Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: total_illustrations
+      label: Total Illustrations Provided
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: file_format
+      label: File Formats of Illustrations
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - PNG
+      - JPG
+      - PDF
+      - EPS
+      - PSD
+      - SVG
+      - Other
+      required: true
+    - id: 17
+      name: illustration_upload
+      label: Upload Illustrations
+      hint: Maximum 50MB per file
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: color_specification
+      label: Color or Black and White
+      hint: null
+      type: select_one
+      options:
+      - Full color
+      - Black and white
+      - Grayscale
+      - Mixed
+      required: true
+    - id: 19
+      name: resolution
+      label: Image Resolution (DPI)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: style_section
+      label: -- Artistic Style --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: art_style
+      label: Artistic Style
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Watercolor
+      - Digital
+      - Pencil
+      - Ink
+      - Acrylic
+      - Mixed media
+      - Vector
+      - Collage
+      required: true
+    - id: 22
+      name: style_notes
+      label: Style Notes or Specifications
+      hint: Special instructions for the illustrations
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: licensing_section
+      label: -- Licensing and Rights --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: rights_ownership
+      label: Confirm rights to submitted illustrations
+      hint: null
+      type: select_one
+      options:
+      - Yes, I own all rights
+      - Yes, with copyright notice needed
+      - Need to discuss
+      required: true
+    - id: 25
+      name: terms_agreement
+      label: I agree to the submission terms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

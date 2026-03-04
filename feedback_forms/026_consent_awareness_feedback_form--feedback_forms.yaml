@@ -1,0 +1,266 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Consent Awareness Feedback Form
+    pages:
+      - id: 1
+        name: feedback_date
+        label: Feedback Date
+        hint: Date of feedback submission
+        type: date
+        options: []
+        required: true
+      - id: 2
+        name: participant_name
+        label: Your Name
+        hint: Optional - may remain anonymous
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: participant_email
+        label: Email Address
+        hint: For follow-up if needed
+        type: email
+        options: []
+        required: false
+      - id: 4
+        name: training_session
+        label: Training Session Attended
+        hint: Which session did you attend
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: training_date
+        label: Training Date
+        hint: When was the training held
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: facilitator_name
+        label: Facilitator Name
+        hint: Name of the trainer or facilitator
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: organization
+        label: Organization
+        hint: Your organization or institution
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: role
+        label: Your Role
+        hint: Your position or role
+        type: select_one
+        options:
+          - Student
+          - Educator
+          - Healthcare Professional
+          - Administrator
+          - Counselor
+          - Parent or Guardian
+          - Community Member
+          - Other
+        required: true
+      - id: 9
+        name: prior_knowledge
+        label: Prior Knowledge of Consent
+        hint: How much did you know before training
+        type: select_one
+        options:
+          - Very knowledgeable
+          - Somewhat knowledgeable
+          - Neutral
+          - Limited knowledge
+          - No prior knowledge
+        required: true
+      - id: 10
+        name: content_clarity
+        label: Clarity of Content
+        hint: How clear was the training content
+        type: select_one
+        options:
+          - Very clear
+          - Clear
+          - Neutral
+          - Unclear
+          - Very unclear
+        required: true
+      - id: 11
+        name: facilitator_effectiveness
+        label: Facilitator Effectiveness
+        hint: How effective was the facilitator
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+          - Very poor
+        required: true
+      - id: 12
+        name: materials_quality
+        label: Quality of Training Materials
+        hint: Rating of provided materials
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+          - Very poor
+        required: true
+      - id: 13
+        name: understanding_improved
+        label: Understanding of Consent Improved
+        hint: Did your understanding improve
+        type: select_one
+        options:
+          - Significantly improved
+          - Moderately improved
+          - Slightly improved
+          - No change
+          - Worse
+        required: true
+      - id: 14
+        name: key_learnings
+        label: Key Learnings
+        hint: What were your main takeaways
+        type: text
+        options: []
+        required: true
+      - id: 15
+        name: confidence_level_before
+        label: Confidence Level Before Training
+        hint: Rate your confidence before training
+        type: select_one
+        options:
+          - Very confident
+          - Confident
+          - Neutral
+          - Not confident
+          - Very unconfident
+        required: true
+      - id: 16
+        name: confidence_level_after
+        label: Confidence Level After Training
+        hint: Rate your confidence after training
+        type: select_one
+        options:
+          - Very confident
+          - Confident
+          - Neutral
+          - Not confident
+          - Very unconfident
+        required: true
+      - id: 17
+        name: comfortable_discussing
+        label: More Comfortable Discussing Consent
+        hint: Are you more comfortable discussing consent now
+        type: select_one
+        options:
+          - Yes - Much more comfortable
+          - Yes - Somewhat more comfortable
+          - No change
+          - Less comfortable
+        required: true
+      - id: 18
+        name: will_apply_learning
+        label: Will You Apply What You Learned
+        hint: Likelihood of applying knowledge
+        type: select_one
+        options:
+          - Definitely will
+          - Probably will
+          - Might
+          - Probably will not
+          - Definitely will not
+        required: true
+      - id: 19
+        name: application_context
+        label: How Will You Apply This Learning
+        hint: Describe how you will use this knowledge
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: session_pace
+        label: Pace of Session
+        hint: How was the pacing
+        type: select_one
+        options:
+          - Too fast
+          - Just right
+          - Too slow
+        required: true
+      - id: 21
+        name: session_length
+        label: Length of Session
+        hint: How was the duration
+        type: select_one
+        options:
+          - Too short
+          - Just right
+          - Too long
+        required: true
+      - id: 22
+        name: environment_comfort
+        label: Comfort Level of Environment
+        hint: How comfortable was the learning environment
+        type: select_one
+        options:
+          - Very comfortable
+          - Comfortable
+          - Neutral
+          - Uncomfortable
+          - Very uncomfortable
+        required: true
+      - id: 23
+        name: topics_to_add
+        label: Topics You Would Like Added
+        hint: What additional topics would be helpful
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: improvements_suggested
+        label: Suggested Improvements
+        hint: How can we improve this training
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: would_recommend
+        label: Would You Recommend This Training
+        hint: Likelihood of recommending to others
+        type: select_one
+        options:
+          - Definitely yes
+          - Probably yes
+          - Neutral
+          - Probably no
+          - Definitely no
+        required: true
+      - id: 26
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback
+        type: text
+        options: []
+        required: false

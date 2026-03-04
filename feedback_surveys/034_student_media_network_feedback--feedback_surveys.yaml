@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Media Network Feedback
+    pages:
+    - id: 1
+      name: student_satisfaction
+      label: student_satisfaction
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: content_preferences
+      label: content_preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Newspaper
+      - Radio
+      - TV
+      - Podcast
+      - Digital channels
+      required: true
+    - id: 3
+      name: improvement_suggestions
+      label: improvement_suggestions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_submitted
+      label: date_submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_submitted
+      label: time_submitted
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: ma_code_tai_khon_pearson_english_portal_nik3_student_book
+    pages:
+    - id: 1
+      name: file_upload_1
+      label: student_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: file_upload_2
+      label: file_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''pdf''}'
+      - '{''value'': ''docx''}'
+      - '{''value'': ''zip''}'
+      - '{''value'': ''csv''}'
+      required: true
+    - id: 3
+      name: file_upload_3
+      label: upload_file
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: file_name
+      label: file_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: file_size
+      label: file_size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: file_type
+      label: file_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''pdf''}'
+      - '{''value'': ''docx''}'
+      - '{''value'': ''zip''}'
+      - '{''value'': ''csv''}'
+      required: true
+    - id: 7
+      name: file_content
+      label: file_content
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: upload_file
+      label: upload_file
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false

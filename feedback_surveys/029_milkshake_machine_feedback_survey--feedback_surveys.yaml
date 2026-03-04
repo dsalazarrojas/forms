@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Milkshake Machine Feedback Survey
+    pages:
+    - id: 1
+      name: machine_performance
+      label: How would you rate the machine's performance?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: machine_quality
+      label: How would you rate the machine's quality?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: customer_service
+      label: How would you rate the customer service experience?
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 4
+      name: product_quality
+      label: How would you rate the quality of the milkshake?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: satisfaction
+      label: How would you rate your overall satisfaction with this experience?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: improvement
+      label: What can be improved?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Any other comments?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: Please enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: Please enter your phone number
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: name
+      label: Name
+      hint: Please enter your name
+      type: text
+      options: []
+      required: false

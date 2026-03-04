@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Local Attractions Tourist Feedback Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: museum
+      label: Museum
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: park
+      label: Park
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: landmark
+      label: Landmark
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: museum_experience
+      label: Museum Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: park_experience
+      label: Park Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: landmark_experience
+      label: Landmark Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: museum_services
+      label: Museum Services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: park_services
+      label: Park Services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: landmark_services
+      label: Landmark Services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

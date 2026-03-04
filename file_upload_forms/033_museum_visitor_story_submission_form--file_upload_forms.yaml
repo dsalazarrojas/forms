@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Museum Visitor Story Submission Form
+    pages:
+    - id: 1
+      name: museum_visitor_story_submission_form_first_page
+      label: Welcome to the museum!
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: story
+      label: Tell us about your visit
+      hint: Tell us as much as you like about your visit
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: photos
+      label: Attach photos of your visit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: feedback
+      label: What would you like to feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Your email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Your phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: museum_name
+      label: Museum name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: date_visit
+      label: Date of visit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: time_visit
+      label: Time of visit
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: rating
+      label: How would you rate your visit
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Bad
+      required: true
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: true

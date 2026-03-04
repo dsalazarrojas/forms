@@ -1,0 +1,233 @@
+inputSchema:
+  type: object
+  properties:
+    title: Newsletter Satisfaction Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: question_one
+      label: how_satisfying_is_your_newsletter
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''very_satisfied''}'
+      - '{''value'': ''somewhat_satisfied''}'
+      - '{''value'': ''not_satisfied''}'
+      required: false
+    - id: 3
+      name: question_two
+      label: what_is_the_main_reason_for_your_score
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: question_three
+      label: would_you_like_to_continue_receiving_newsletter
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      - '{''value'': ''not_apposed_to_newsletters''}'
+      required: false
+    - id: 5
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: company
+      label: company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: job_description
+      label: job_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: how_did_you_get_the_newsletter
+      label: how_did_you_get_the_newsletter
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''email''}'
+      - '{''value'': ''social_media''}'
+      - '{''value'': ''print''}'
+      - '{''value'': ''online_search''}'
+      - '{''value'': ''other''}'
+      required: false
+    - id: 14
+      name: what_is_the_source_of_your_newsletter
+      label: what_is_the_source_of_your_newsletter
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''company_newsletter''}'
+      - '{''value'': ''online_source''}'
+      - '{''value'': ''online_search''}'
+      - '{''value'': ''other''}'
+      - '{''value'': ''social_media''}'
+      required: false
+    - id: 15
+      name: when_were_you_subscribed
+      label: when_were_you_subscribed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: frequency_of_newsletter_reciepts
+      label: frequency_of_newsletter_reciepts
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''weekly''}'
+      - '{''value'': ''bi_weekly''}'
+      - '{''value'': ''monthly''}'
+      - '{''value'': ''never''}'
+      - '{''value'': ''rarely''}'
+      required: false
+    - id: 17
+      name: how_many_newsletters_have_you_received
+      label: how_many_newsletters_have_you_received
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: how_satisfying_is_the_content
+      label: how_satisfying_is_the_content
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''very_satisfied''}'
+      - '{''value'': ''somewhat_satisfied''}'
+      - '{''value'': ''not_satisfied''}'
+      - '{''value'': ''not_at_all_satisfied''}'
+      required: false
+    - id: 19
+      name: how_satisfying_is_the_design
+      label: how_satisfying_is_the_design
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''very_satisfying''}'
+      - '{''value'': ''somewhat_satisfied''}'
+      - '{''value'': ''not_satisfied''}'
+      - '{''value'': ''not_at_all_satisfied''}'
+      required: false
+    - id: 20
+      name: how_satisfying_is_the_frequency
+      label: how_satisfying_is_the_frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''very_satisfying''}'
+      - '{''value'': ''somewhat_satisfied''}'
+      - '{''value'': ''not_satisfied''}'
+      - '{''value'': ''not_at_all_satisfied''}'
+      required: false
+    - id: 21
+      name: how_satisfying_is_the_newsletter
+      label: how_satisfying_is_the_newsletter
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''very_satisfying''}'
+      - '{''value'': ''somewhat_satisfying''}'
+      - '{''value'': ''not_satisfying''}'
+      - '{''value'': ''not_at_all_satisfying''}'
+      required: false
+    - id: 22
+      name: how_satisfying_is_your_relationship_with_the_newsletter
+      label: how_satisfying_is_your_relationship_with_the_newsletter
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''very_satisfying''}'
+      - '{''value'': ''somewhat_satisfying''}'
+      - '{''value'': ''not_satisfying''}'
+      - '{''value'': ''not_at_all_satisfying''}'
+      required: false
+    - id: 23
+      name: how_usful_is_your_time
+      label: how_usful_is_your_time
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''very_usful''}'
+      - '{''value'': ''somewhat_usful''}'
+      - '{''value'': ''not_usful''}'
+      - '{''value'': ''not_at_all_usful''}'
+      required: false
+    - id: 24
+      name: how_usful_is_your_investiment
+      label: how_usful_is_your_investiment
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''very_usful''}'
+      - '{''value'': ''somewhat_usful''}'
+      - '{''value'': ''not_usful''}'
+      - '{''value'': ''not_at_all_usful''}'
+      required: false
+    - id: 25
+      name: overall_satisfaction
+      label: overall_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''very_satisfied''}'
+      - '{''value'': ''somewhat_satisfied''}'
+      - '{''value'': ''not_satisfied''}'
+      - '{''value'': ''not_at_all_satisfied''}'
+      required: false

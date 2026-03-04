@@ -1,0 +1,48 @@
+inputSchema:
+  type: object
+  properties:
+    title: weapon_feedback_survey
+    pages:
+    - id: 1
+      name: weapon_type
+      label: Weapon Type
+      hint: null
+      type: select_one
+      options:
+      - Pistol
+      - Rifle
+      - Carbine
+      - Machinegun
+      - Other
+      required: false
+    - id: 2
+      name: weapon_model
+      label: Weapon Model
+      hint: null
+      type: select_one
+      options:
+      - Model 1
+      - Model 2
+      - Model 3
+      required: false
+    - id: 3
+      name: performance_rating
+      label: Performance Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: issue_report
+      label: Issue Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: improvement_suggestion
+      label: Improvement Suggestion
+      hint: null
+      type: text
+      options: []
+      required: false

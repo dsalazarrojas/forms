@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Summer Camp Feedback Form For Parents
+    pages:
+    - id: 1
+      name: summer_camp_feedback_form_for_parents
+      label: What did you think of the camp?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: summer_camp_rating
+      label: Overall rating
+      hint: On a scale of 1-5
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: summer_camp_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: parent_first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: parent_last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: camper_name
+      label: Camper name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: summer_camp_program_type
+      label: Program type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Day Camp'', ''value'': ''day_camp''}'
+      - '{''label'': ''Overnight Camp'', ''value'': ''overnight_camp''}'
+      - '{''label'': ''Both'', ''value'': ''both''}'
+      required: false
+    - id: 10
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: parent_signature
+      label: Parent Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: summer_camp_feedback_form_for_parents_comments
+      label: None
+      hint: null
+      type: note
+      options: []
+      required: false

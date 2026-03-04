@@ -1,0 +1,244 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Survey Form
+    pages:
+    - id: 1
+      name: intro_section
+      label: Client Feedback Survey
+      hint: Your feedback helps us improve our services
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_name
+      label: Your Name
+      hint: Optional - for follow-up purposes
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: respondent_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_date
+      label: When did you interact with us?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: service_type
+      label: What service or product did you use?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: overall_section
+      label: -- Overall Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: overall_experience
+      label: Overall, how was your experience with us?
+      hint: null
+      type: select_one
+      options:
+      - Very Poor
+      - Poor
+      - Average
+      - Good
+      - Excellent
+      required: true
+    - id: 8
+      name: experience_rating
+      label: Rate your experience on a scale of 1-10
+      hint: 1 = Very poor, 10 = Excellent
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: quality_section
+      label: -- Quality and Performance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: quality_of_service
+      label: The quality of service met my expectations
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 11
+      name: professionalism
+      label: Our staff was professional and knowledgeable
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 12
+      name: timeliness
+      label: Services were completed in a timely manner
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 13
+      name: communication_section
+      label: -- Communication and Support --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: communication_quality
+      label: Communication throughout the process was clear
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 15
+      name: response_time
+      label: Response time to questions or concerns
+      hint: null
+      type: select_one
+      options:
+      - Very Slow
+      - Slow
+      - Acceptable
+      - Fast
+      - Very Fast
+      required: true
+    - id: 16
+      name: support_quality
+      label: Support staff was helpful and friendly
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 17
+      name: value_section
+      label: -- Value and Pricing --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: value_for_money
+      label: We provided good value for the price
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 19
+      name: pricing_transparency
+      label: Pricing was transparent and no surprises
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: false
+    - id: 20
+      name: recommendation_section
+      label: -- Recommendations and Loyalty --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: recommend_likelihood
+      label: How likely are you to recommend us to others?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: recommend_scale
+      label: Scale - 0 = Not at all, 10 = Extremely likely
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: would_return
+      label: Would you use our services again?
+      hint: null
+      type: select_one
+      options:
+      - Definitely Not
+      - Probably Not
+      - Maybe
+      - Probably Yes
+      - Definitely Yes
+      required: true
+    - id: 24
+      name: feedback_section
+      label: -- Comments and Suggestions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: what_went_well
+      label: What did we do well?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: improvements
+      label: What could we improve?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: additional_feedback
+      label: Additional comments or feedback
+      hint: null
+      type: text
+      options: []
+      required: false

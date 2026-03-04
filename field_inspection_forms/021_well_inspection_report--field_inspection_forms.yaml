@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: well_inspection_report
+    pages:
+    - id: 1
+      name: well_name
+      label: well_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_visited
+      label: date_visited
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: water_level
+      label: water_level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: flow_measurement
+      label: flow_measurement
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: inspection_condition
+      label: inspection_condition
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Good''}'
+      - '{''id'': 2, ''label'': ''Fair''}'
+      - '{''id'': 3, ''label'': ''Poor''}'
+      required: false
+    - id: 6
+      name: recommended_work
+      label: recommended_work
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: photo_attachment_1
+      label: photo_attachment_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: photo_attachment_2
+      label: photo_attachment_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: facility_manager
+      label: facility_manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: inspector_signature
+      label: inspector_signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: inspector_name
+      label: inspector_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: inspector_company
+      label: inspector_company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: inspector_phone
+      label: inspector_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: recommended_reading
+      label: recommended_reading
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: notes_attachment_1
+      label: notes_attachment_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: notes_attachment_2
+      label: notes_attachment_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: inspection_date
+      label: inspection_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: well_location
+      label: well_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: well_depth
+      label: well_depth
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: casing_condition
+      label: casing_condition
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Good''}'
+      - '{''id'': 2, ''label'': ''Fair''}'
+      - '{''id'': 3, ''label'': ''Poor''}'
+      required: false
+    - id: 23
+      name: well_screen
+      label: well_screen
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: screen_type
+      label: screen_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: screen_size
+      label: screen_size
+      hint: null
+      type: number
+      options: []
+      required: false

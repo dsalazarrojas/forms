@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Headphone Purchase Feedback
+    pages:
+    - id: 1
+      name: purchase_experience
+      label: Purchase Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_satisfaction
+      label: Product Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Satisfied''}'
+      - '{''label'': ''Somewhat Satisfied''}'
+      - '{''label'': ''Not Satisfied''}'
+      - '{''label'': ''Not Satisfied at All''}'
+      required: false
+    - id: 3
+      name: purchase_intent
+      label: Purchase Intent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: price_value
+      label: Price Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: purchase_experience_rating
+      label: Purchase Experience Rating
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Poor''}'
+      - '{''label'': ''Bad''}'
+      required: false
+    - id: 6
+      name: would_recommend
+      label: Would Recommend
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 7
+      name: product_reliability
+      label: Product Reliability
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: purchase_time
+      label: Purchase Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: email_notification
+      label: Email Notification
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false

@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parental Consent Form Upload
+    pages:
+    - id: 1
+      name: parent_consent_form_upload
+      label: Parental Consent Form
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: consent_signature_upload
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: additional_information_upload
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submitter_info
+      label: Parent or Guardian Details
+      hint: null
+      type: text
+      options: []
+      required: false

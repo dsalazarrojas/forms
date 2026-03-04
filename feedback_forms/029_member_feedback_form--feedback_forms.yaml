@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Member Feedback Form
+    pages:
+    - id: 1
+      name: form_header
+      label: form_header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: feedback_question
+      label: feedback_question
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: member_rating
+      label: member_rating
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 4
+      name: service_improvement
+      label: service_improvement
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Very Good''}'
+      - '{''id'': 2, ''label'': ''Good''}'
+      - '{''id'': 3, ''label'': ''Fair''}'
+      - '{''id'': 4, ''label'': ''Bad''}'
+      - '{''id'': 5, ''label'': ''Very Bad''}'
+      required: false
+    - id: 5
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email_address
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: member_contact
+      label: member_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: form_footer
+      label: form_footer
+      hint: null
+      type: note
+      options: []
+      required: false

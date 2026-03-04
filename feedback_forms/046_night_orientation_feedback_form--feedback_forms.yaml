@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Night Orientation Feedback Form
+    pages:
+    - id: 1
+      name: event_date
+      label: event_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_type
+      label: event_type
+      hint: null
+      type: select_one
+      options:
+      - Night Orientation
+      - Day Orientation
+      - Other
+      required: false
+    - id: 4
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false

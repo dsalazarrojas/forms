@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Question Import Form
+    pages:
+    - id: 1
+      name: file_upload
+      label: Upload a File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: title
+      label: Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: questions
+      label: Questions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': ''Assessment''}'
+      - '{''option'': ''Training''}'
+      - '{''option'': ''Survey''}'
+      required: false
+    - id: 6
+      name: question_bank_file
+      label: Question Bank File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: educator_name
+      label: Educator Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: trainer_name
+      label: Trainer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: content_team
+      label: Content Team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: uploaded_by
+      label: Uploaded By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: upload_date
+      label: Upload Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: file_type
+      label: File Type
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''CSV''}'
+      - '{''option'': ''Excel''}'
+      - '{''option'': ''PDF''}'
+      - '{''option'': ''XML''}'
+      - '{''option'': ''JSON''}'
+      required: false
+    - id: 13
+      name: file_size
+      label: File Size
+      hint: null
+      type: number
+      options: []
+      required: false

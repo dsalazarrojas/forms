@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: maintenance_feedback_response_request_form
+    pages:
+    - id: 1
+      name: facility_manager
+      label: Facility Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: completed_on
+      label: Completed On
+      hint: Date completed
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: completed_by
+      label: Completed By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: facility_name
+      label: Facility Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: landlord
+      label: Landlord
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: operations
+      label: Operations
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: equipment
+      label: Equipment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: sub_category
+      label: Sub Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: rating_scale
+      label: Rating scale
+      hint: Select a rating scale
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false

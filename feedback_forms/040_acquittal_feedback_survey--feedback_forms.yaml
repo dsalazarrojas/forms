@@ -1,0 +1,97 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Acquittal Feedback Survey
+    pages:
+    - id: 1
+      name: survey_intro
+      label: -- Feedback on acquittal process --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_name
+      label: Respondent name
+      hint: Optional for anonymous feedback
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: role_in_case
+      label: Role in case
+      hint: e.g., defendant, counsel, witness, observer
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: clarity_of_communication
+      label: Clarity of communication during process
+      hint: Rate clarity of updates and explanations
+      type: select_one
+      options:
+        - Very clear
+        - Clear
+        - Neutral
+        - Unclear
+        - Very unclear
+      required: true
+    - id: 5
+      name: professionalism
+      label: Professionalism of staff
+      hint: Rate professionalism of involved staff
+      type: select_one
+      options:
+        - Excellent
+        - Good
+        - Fair
+        - Poor
+      required: true
+    - id: 6
+      name: timeliness
+      label: Timeliness of proceedings
+      hint: Were timelines reasonable and observed
+      type: select_one
+      options:
+        - Very timely
+        - Timely
+        - Delayed
+        - Very delayed
+      required: true
+    - id: 7
+      name: fairness_of_outcome
+      label: Perception of fairness of outcome
+      hint: How fair did the process feel
+      type: select_one
+      options:
+        - Very fair
+        - Fair
+        - Neutral
+        - Unfair
+        - Very unfair
+      required: true
+    - id: 8
+      name: suggestions_for_improvement
+      label: Suggestions for improvement
+      hint: Recommendations to improve the process
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: additional_feedback
+      label: Additional feedback
+      hint: Any other comments about the acquittal process
+      type: text
+      options: []
+      required: false

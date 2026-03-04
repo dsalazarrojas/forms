@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: short-term-rental-guest-feedback-survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Short Term Rental Guest Feedback Survey
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: stay_date
+      label: Stay Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: rating_1
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: rating_2
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: rating_3
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: feedback_1
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: feedback_2
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: stay_type
+      label: Type of Stay
+      hint: null
+      type: select_one
+      options:
+      - Vacation Rental
+      - Serviced Apartment
+      - Managed Property
+      required: false
+    - id: 10
+      name: stay_location
+      label: Location
+      hint: null
+      type: select_multiple
+      options:
+      - City 1
+      - City 2
+      - City 3
+      required: false
+    - id: 11
+      name: room_quality
+      label: Room Quality
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 12
+      name: cleanliness_quality
+      label: Cleanliness Quality
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 13
+      name: communication_quality
+      label: Communication Quality
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 14
+      name: value_for_money
+      label: Value for Money
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 15
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 16
+      name: recommendations
+      label: Recommendations
+      hint: null
+      type: select_multiple
+      options:
+      - Would Recommend
+      - Would Not Recommend
+      required: false

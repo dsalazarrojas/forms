@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Corporate Funding Feedback Survey
+    pages:
+    - id: 1
+      name: funder_name
+      label: Funder Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: funder_email
+      label: Funder Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: funder_organization
+      label: Funder Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: funding_type
+      label: Funding Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Grant''}'
+      - '{''id'': 2, ''label'': ''Loan''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 5
+      name: satisfaction_level
+      label: Satisfaction Level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Very Satisfied''}'
+      - '{''id'': 2, ''label'': ''Somewhat Satisfied''}'
+      - '{''id'': 3, ''label'': ''Not Very Satisfied''}'
+      required: false
+    - id: 6
+      name: impact_area
+      label: Impact Area
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Education''}'
+      - '{''id'': 2, ''label'': ''Health''}'
+      - '{''id'': 3, ''label'': ''Environment''}'
+      - '{''id'': 4, ''label'': ''Arts''}'
+      required: false
+    - id: 7
+      name: improvement_ideas
+      label: Improvement Ideas
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: comment
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false

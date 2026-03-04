@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Prototype Inquiry Form
+    pages:
+    - id: 1
+      name: product_title
+      label: Product Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_description
+      label: Product Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact EMail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: category
+      label: Category
+      hint: Select a Category
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 8
+      name: product_version
+      label: Product Version
+      hint: null
+      type: text
+      options: []
+      required: false

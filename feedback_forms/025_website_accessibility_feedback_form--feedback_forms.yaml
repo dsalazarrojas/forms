@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: website_accessibility_feedback_form
+    pages:
+    - id: 1
+      name: feedback_type
+      label: what_was_wrong
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': [{''id'': 1, ''label'': ''Content''}, {''id'': 2, ''label'':
+        ''Navigation''}, {''id'': 3, ''label'': ''Other''}], ''required'': True}'
+      - Other
+      required: false
+    - id: 2
+      name: description
+      label: what_do_you_want_us_to_improve
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: website
+      label: website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: comment
+      label: comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: name
+      label: your_name
+      hint: null
+      type: text
+      options: []
+      required: false

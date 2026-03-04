@@ -1,0 +1,54 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare Provider Review Form
+    pages:
+    - id: 1
+      name: patient_feedback
+      label: Patient Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: healthcare_provider_name
+      label: Healthcare Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: review_comments
+      label: Review Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

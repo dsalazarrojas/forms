@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Daycare Feedback Form
+    pages:
+    - id: 1
+      name: daycare_feedback_form
+      label: parent_feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: feedback_question_1
+      label: How would you rate overall satisfaction
+      hint: Scale from 1-5
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: feedback_question_2
+      label: What improvements would you like to see
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''More activities for kids''}'
+      - '{''option'': ''Better communication''}'
+      - '{''option'': ''Other (please specify)''}'
+      required: false
+    - id: 4
+      name: feedback_question_3
+      label: How likely are you to recommend
+      hint: Scale from 1-5
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: feedback_question_4
+      label: What did you like best
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': ''Cleanliness''}'
+      - '{''option'': ''Safety''}'
+      - '{''option'': ''Staff friendliness''}'
+      - '{''option'': ''Other''}'
+      required: false
+    - id: 6
+      name: feedback_question_5
+      label: What could we improve
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: feedback_question_6
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false

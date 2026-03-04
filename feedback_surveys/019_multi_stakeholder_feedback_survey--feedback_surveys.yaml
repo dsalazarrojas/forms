@@ -1,0 +1,148 @@
+inputSchema:
+  type: object
+  properties:
+    title: Multi Stakeholder Feedback Survey
+    pages:
+    - id: 1
+      name: project_team_members
+      label: Project team members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: external_stakeholders
+      label: External stakeholders
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: project_management_officers
+      label: Project management officers
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: customers
+      label: Customers
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: project_participants
+      label: Project participants
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: project_leaders
+      label: Project leaders
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: project_sponsors
+      label: Project sponsors
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: other_stakeholders
+      label: Other stakeholders
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: project_team_leaders
+      label: Project team leaders
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: other
+      label: Other
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: project_sponsor
+      label: Project Sponsor
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''11-1'', ''label'': ''Not Applicable''}'
+      - '{''id'': ''11-2'', ''label'': ''Applicable''}'
+      - '{''id'': ''11-3'', ''label'': ''Not Applicable''}'
+      - '{''id'': ''11-4'', ''label'': ''Applicable''}'
+      required: false
+    - id: 12
+      name: stakeholder_group
+      label: Stakeholder Group
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: stakeholder_name
+      label: Stakeholder Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: stakeholder_email
+      label: Stakeholder Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: stakeholder_phone
+      label: Stakeholder Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false

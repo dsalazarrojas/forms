@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Screen Capture Feedback Form
+    pages:
+    - id: 1
+      name: screen_capture_feedback_form
+      label: Screen Capture Feedback Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: feedback_form
+      label: Feedback Form
+      hint: null
+      type: select_multiple
+      options:
+      - Feedback
+      - Bug Report
+      - Suggestion
+      required: false
+    - id: 3
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: screen_capture
+      label: Screen Capture
+      hint: Please take a screen capture of the issue
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: upload_context
+      label: Context
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: text_input
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

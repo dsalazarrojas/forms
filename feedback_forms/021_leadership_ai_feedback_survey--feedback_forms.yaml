@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Leadership AI Feedback Survey
+    pages:
+    - id: 1
+      name: survey_form_1
+      label: feedback_on_leadership_effectiveness
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_satisfaction
+      label: employee_satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Neutral
+      - Low
+      required: false
+    - id: 3
+      name: leader_performance_1
+      label: leadership_skills
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: leader_performance_2
+      label: leadership_skills_2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: leader_performance_3
+      label: leadership_skills_3
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: feedback_frequency
+      label: feedback_frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 7
+      name: feedback_channel
+      label: feedback_channel
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - In-person
+      required: false
+    - id: 8
+      name: feedback_source
+      label: feedback_source
+      hint: null
+      type: select_multiple
+      options:
+      - Leadership team
+      - Peer
+      - Supervisor
+      - Other
+      required: false
+    - id: 9
+      name: feedback_recipient
+      label: feedback_recipient
+      hint: null
+      type: select_multiple
+      options:
+      - CEO
+      - Leadership team
+      - Manager
+      - Other
+      required: false
+    - id: 10
+      name: survey_form_2
+      label: satisfaction_with_the_current_survey
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Somewhat Disagree
+      - Neutral
+      - Somewhat Agree
+      - Strongly Agree
+      required: false

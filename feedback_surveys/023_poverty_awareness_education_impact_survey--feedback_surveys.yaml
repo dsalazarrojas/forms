@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Poverty Awareness Education Impact Survey
+    pages:
+    - id: 1
+      name: demographic_info
+      label: Personal info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: income
+      label: income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: household_size
+      label: Household size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: education_level
+      label: Educational level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 5
+      name: current_occupation
+      label: Current occupation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: current_occupation_other
+      label: Occupation other (optional)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: income_category
+      label: Income category
+      hint: null
+      type: select_one
+      options:
+      - Less than 1,000
+      - 1,000 to 2,500
+      - 2,500 to 3,000
+      - More than 3,000
+      required: false
+    - id: 8
+      name: session_quality
+      label: Session quality
+      hint: null
+      type: select_one
+      options:
+      - Very good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 9
+      name: behavior_intentions
+      label: Behavior intentions
+      hint: null
+      type: select_multiple
+      options:
+      - To learn more
+      - To share with others
+      - To improve skills
+      - To help others
+      required: false
+    - id: 10
+      name: note
+      label: Additional information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: session_notes
+      label: Session notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: session_attendance
+      label: Session attendance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: session_length
+      label: Session length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: session_date
+      label: Session date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: session_time
+      label: Session time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: training_participants
+      label: Training participants
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: training_facilitator
+      label: Training facilitator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: training_location
+      label: Training location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: training_type
+      label: Training type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: training_topic
+      label: Training topic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: training_notes
+      label: Training notes
+      hint: null
+      type: note
+      options: []
+      required: false

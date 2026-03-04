@@ -1,0 +1,32 @@
+inputSchema:
+  type: object
+  properties:
+    title: Doctor Appointment Feedback Form
+    pages:
+    - id: 1
+      name: feedback_question_1
+      label: How would you rate your overall satisfaction with your doctor?
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 2
+      name: feedback_question_2
+      label: How would you rate your appointment scheduling process?
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 3
+      name: feedback_question_3
+      label: How would you rate your experience with the office staff?
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false

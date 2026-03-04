@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: survey_on_early_music_instruction
+    pages:
+    - id: 1
+      name: parent_feedback
+      label: Parent Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_feedback
+      label: Student Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: teacher_feedback
+      label: Teacher Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: music_start_time
+      label: Music Start Time
+      hint: What is the optimal time for a child to begin learning music?
+      type: select_one
+      options:
+      - Early
+      - Mid-Childhood
+      - Late
+      required: true
+    - id: 5
+      name: music_start_age
+      label: Music Start Age
+      hint: What age do you think is optimal for a child to begin learning music?
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: perceived_benefits
+      label: Perceived Benefits
+      hint: What benefits do you perceive that early instruction in music lessons
+        would have for students?
+      type: select_multiple
+      options:
+      - Cognitive Development
+      - Social Interaction
+      - Emotional Balance
+      - Fine Motor Skills
+      - Other (please specify)
+      required: true
+    - id: 7
+      name: teacher_training
+      label: Teacher Training
+      hint: How often do you think teachers should be trained to teach music lessons?
+      type: select_one
+      options:
+      - Often
+      - Occasionally
+      - Rarely
+      required: false
+    - id: 8
+      name: student_engagement
+      label: Student Engagement
+      hint: How engaged are students in music lessons?
+      type: select_one
+      options:
+      - Highly Engaged
+      - Moderately Engaged
+      - Low Engaged
+      required: false
+    - id: 9
+      name: form_complete
+      label: Form Complete
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Save and Continue Later
+      required: true
+    - id: 10
+      name: music_lesson_frequency
+      label: Music Lesson Frequency
+      hint: How frequently do you think students should have music lessons?
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      required: false
+    - id: 11
+      name: teacher_support
+      label: Teacher Support
+      hint: null
+      type: select_one
+      options:
+      - Strongly Support
+      - Somewhat Support
+      - Somewhat Oppose
+      - Strongly Oppose
+      required: false
+    - id: 12
+      name: parental_support
+      label: Parental Support
+      hint: null
+      type: select_one
+      options:
+      - Strongly Support
+      - Somewhat Support
+      - Somewhat Oppose
+      - Strongly Oppose
+      required: false

@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Team Collaboration Feedback Evaluation Form
+    pages:
+    - id: 1
+      name: feedback_form_1
+      label: Team Collaboration Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: team_name
+      label: Team Name
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Team A''}'
+      - '{''id'': 2, ''label'': ''Team B''}'
+      - '{''id'': 3, ''label'': ''Team C''}'
+      required: false
+    - id: 3
+      name: question_1
+      label: What is the quality of communication within the team?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Clear and respectful''}'
+      - '{''id'': 2, ''label'': ''Confusing and unclear''}'
+      - '{''id'': 3, ''label'': ''Unnecessary gossiping''}'
+      required: false
+    - id: 4
+      name: question_2
+      label: Are meetings organized and led effectively?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Meetings are very effective''}'
+      - '{''id'': 2, ''label'': ''Meetings are somewhat effective''}'
+      - '{''id'': 3, ''label'': ''Meetings are not effective''}'
+      required: false
+    - id: 5
+      name: question_3
+      label: Do team members respect each other's opinions and ideas?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Yes, very respectful''}'
+      - '{''id'': 2, ''label'': ''Somewhat respectful''}'
+      - '{''id'': 3, ''label'': ''Not very respectful''}'
+      required: false
+    - id: 6
+      name: question_4
+      label: Is the team open to change and improvement?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Yes, open to change and improvement''}'
+      - '{''id'': 2, ''label'': ''Somewhat open to change and improvement''}'
+      - '{''id'': 3, ''label'': ''Not open to change and improvement''}'
+      required: false
+    - id: 7
+      name: question_5
+      label: Are team decisions made collaboratively?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Yes, collaboratively''}'
+      - '{''id'': 2, ''label'': ''Not collaboratively''}'
+      required: false
+    - id: 8
+      name: question_6
+      label: Is the team's work organized in a way that minimizes conflicts?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 9
+      name: question_7
+      label: How satisfied are you with your team's performance?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Very satisfied''}'
+      - '{''id'': 2, ''label'': ''Somewhat satisfied''}'
+      - '{''id'': 3, ''label'': ''Neutral''}'
+      required: false
+    - id: 10
+      name: question_8
+      label: How satisfied are you with the team's communication style?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Very satisfied''}'
+      - '{''id'': 2, ''label'': ''Somewhat satisfied''}'
+      - '{''id'': 3, ''label'': ''Neutral''}'
+      required: false
+    - id: 11
+      name: suggestion
+      label: Do you have any suggestions for team improvement?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submission
+      label: Submission
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: feedback_form_13
+      label: Team Member Feedback
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: team_member_name
+      label: Team Member Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: team_member_email
+      label: Team Member Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: team_member_position
+      label: Team Member Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: reviewer_name
+      label: Reviewer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: reviewer_email
+      label: Reviewer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: feedback_date
+      label: Feedback Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: feedback_time
+      label: Feedback Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: reviewer_position
+      label: Reviewer Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: reviewer_department
+      label: Reviewer Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_submitted
+      label: Form Submitted
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''By''}'
+      - '{''id'': 2, ''label'': ''By''}'
+      - '{''id'': 3, ''label'': ''By''}'
+      required: false

@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hy Flex Learning Feedback Survey
+    pages:
+    - id: 1
+      name: survey_title
+      label: Hy Flex Learning Feedback Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: course_code
+      label: Course Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: section_number
+      label: Section Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: question_1
+      label: What did you like most about this course?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: question_2
+      label: What did you dislike most about this course?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: question_3
+      label: What did you learn in this course that you can apply in your life?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: course_evaluation
+      label: Course Evaluation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: instructor_feedback
+      label: Instructor Feedback
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

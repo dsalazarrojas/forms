@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Distribution Acceptance Survey
+    pages:
+    - id: 1
+      name: distribution_acceptance_survey_page
+      label: Distribution Acceptance Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: distribution_acceptance_survey_question_1
+      label: How do you rate our distribution process?
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 3
+      name: distribution_acceptance_survey_question_2
+      label: What do you like most about our distribution process?
+      hint: null
+      type: select_one
+      options:
+      - Reliability
+      - Speed
+      - Communication
+      - Punctuality
+      required: false
+    - id: 4
+      name: distribution_acceptance_survey_question_3
+      label: What do you like least about our distribution process?
+      hint: null
+      type: select_multiple
+      options:
+      - Long delays
+      - Poor communication
+      - Unreliability
+      - Lack of punctuality
+      required: false
+    - id: 5
+      name: distribution_acceptance_survey_question_4
+      label: Do you have any suggestions for us?
+      hint: null
+      type: select_multiple
+      options:
+      - Yes, please let us know in the comments box.
+      - No, we have no comments for this time.
+      - We are still trying to process this.
+      required: true
+    - id: 6
+      name: distribution_acceptance_survey_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

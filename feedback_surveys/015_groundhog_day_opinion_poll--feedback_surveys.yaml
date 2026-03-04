@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Groundhog Day Opinion Poll
+    pages:
+    - id: 1
+      name: groundhog_day_familiarity
+      label: How familiar are you with Groundhog Day?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: groundhog_day_beliefs
+      label: What are your beliefs about Groundhog Day?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: groundhog_day_interest
+      label: How much interest do you have in Groundhog Day?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: groundhog_day_pun_intention
+      label: How much do you enjoy Groundhog Day puns?
+      hint: null
+      type: select_one
+      options:
+      - A lot
+      - A little
+      - None
+      required: false
+    - id: 5
+      name: groundhog_day_media_consumption
+      label: How often do you consume Groundhog Day content?
+      hint: null
+      type: select_multiple
+      options:
+      - Never
+      - Rarely
+      - Occasionally
+      - Often
+      required: false
+    - id: 6
+      name: groundhog_day_education
+      label: Have you learned something about Groundhog Day in school?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: groundhog_day_participation
+      label: Have you ever participated in Groundhog Day events?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: groundhog_day_media_usage
+      label: Do you use Groundhog Day in your media work?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: groundhog_day_organizing
+      label: Do you organize Groundhog Day events?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: groundhog_day_recommendation
+      label: Would you recommend Groundhog Day to others?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

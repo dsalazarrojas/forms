@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tax File Declaration Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Tax File Declaration Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: form_category_options
+      label: File Upload Forms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_description
+      label: Description
+      hint: With this tax file declaration form, you can save business time by collecting
+        the government tax file declaration forms online.
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: form_file
+      label: Tax File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: form_file_type
+      label: File Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: form_file_type_options
+      label: Tax File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: form_submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 10, ''label'': ''Submit'', ''hint'': None, ''value'': ''true''}'
+      - '{''id'': 11, ''label'': ''Cancel'', ''hint'': None, ''value'': ''false''}'
+      required: false

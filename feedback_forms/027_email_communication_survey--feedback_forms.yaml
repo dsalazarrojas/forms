@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Email Communication Survey
+    pages:
+    - id: 1
+      name: email_preferences
+      label: How often do you like to receive emails?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: email_open_rate
+      label: What is the open rate of emails you receive?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: email_open_rate_2
+      label: Email open rate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: email_content
+      label: What type of content do you like in emails?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: email_frequency
+      label: How often do you get emails?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: email_format
+      label: What format of emails do you like?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: communication_channels
+      label: What is your preferred method of communication?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: email_sending_time
+      label: At what time emails are usually sent?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: contact_info
+      label: Would you like to share your contact info?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: email_preferences_2
+      label: Email preferences
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email_content_2
+      label: Email content
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

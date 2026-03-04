@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Post Action Assessment Survey
+    pages:
+    - id: 1
+      name: post_action_assessment_survey
+      label: What did you think of the event?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_name
+      label: Event name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: rating
+      label: How would you rate the event?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 4
+      name: suggestions
+      label: Suggest improvements or changes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: action_taken
+      label: Will you implement any changes suggested by this event?
+      hint: null
+      type: select_multiple
+      options:
+      - Implemented
+      - Not implemented
+      - Partially implemented
+      required: false
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

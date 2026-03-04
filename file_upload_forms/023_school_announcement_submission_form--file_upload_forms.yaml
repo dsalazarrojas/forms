@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Announcement Submission Form
+    pages:
+    - id: 1
+      name: school_announcement_submission_form
+      label: Submit a new school announcement
+      hint: Write a clear and concise title that describes the announcement
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: school_announcement_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Academic
+      - Administrative
+      - Events
+      - News
+      required: true
+    - id: 3
+      name: school_announcement_description
+      label: Description
+      hint: Write a clear and detailed description of the announcement
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: school_announcement_file
+      label: File
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: school_announcement_date
+      label: Date
+      hint: Select the date for the announcement
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: school_announcement_time
+      label: Time
+      hint: Select the time for the announcement
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: school_announcement_schedule
+      label: Schedule
+      hint: null
+      type: select_multiple
+      options:
+      - Before School
+      - Lunchtime
+      - After School
+      - Immediately
+      required: true
+    - id: 8
+      name: school_announcement_uploads
+      label: Uploads
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: school_announcement_recipients
+      label: Recipients
+      hint: null
+      type: select_multiple
+      options:
+      - Staff
+      - Parents
+      - Students
+      - Teachers
+      required: true
+    - id: 10
+      name: school_announcement_publication
+      label: Publication
+      hint: null
+      type: select_one
+      options:
+      - Public
+      - Private
+      - School Staff Only
+      required: true
+    - id: 11
+      name: school_announcement_comments
+      label: Comments
+      hint: Provide any additional comments or notes about the announcement
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: school_announcement_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: school_announcement_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

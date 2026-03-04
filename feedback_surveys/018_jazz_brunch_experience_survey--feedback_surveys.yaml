@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Jazz Brunch Experience Survey
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: venue
+      label: Venue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: server_rating
+      label: Server Rating
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''1/5''}'
+      - '{''value'': 2, ''label'': ''2/5''}'
+      - '{''value'': 3, ''label'': ''3/5''}'
+      - '{''value'': 4, ''label'': ''4/5''}'
+      - '{''value'': 5, ''label'': ''5/5''}'
+      required: true
+    - id: 7
+      name: food_rating
+      label: Food
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''1/5''}'
+      - '{''value'': 2, ''label'': ''2/5''}'
+      - '{''value'': 3, ''label'': ''3/5''}'
+      - '{''value'': 4, ''label'': ''4/5''}'
+      - '{''value'': 5, ''label'': ''5/5''}'
+      required: true
+    - id: 8
+      name: music_rating
+      label: Music
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''1/5''}'
+      - '{''value'': 2, ''label'': ''2/5''}'
+      - '{''value'': 3, ''label'': ''3/5''}'
+      - '{''value'': 4, ''label'': ''4/5''}'
+      - '{''value'': 5, ''label'': ''5/5''}'
+      required: true
+    - id: 9
+      name: overall_rating
+      label: Overall
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''1/5''}'
+      - '{''value'': 2, ''label'': ''2/5''}'
+      - '{''value'': 3, ''label'': ''3/5''}'
+      - '{''value'': 4, ''label'': ''4/5''}'
+      - '{''value'': 5, ''label'': ''5/5''}'
+      required: true
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitted_from
+      label: Submitted From
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: form_header_2
+      label: Form Header 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: event_attended
+      label: Event Attended
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Female''}'
+      - '{''value'': 2, ''label'': ''Male''}'
+      - '{''value'': 3, ''label'': ''Non-binary''}'
+      - '{''value'': 4, ''label'': ''Prefer not to say''}'
+      required: true
+    - id: 21
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitted_by
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false

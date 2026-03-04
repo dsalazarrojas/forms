@@ -1,0 +1,207 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: ACORD Application Submission
+    pages:
+    - id: 1
+      name: section_header_applicant
+      label: '--- Applicant Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Enter your legal name as it appears on identification
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: We'll use this for application updates and correspondence
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: Include area code for contact purposes
+      type: phone
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: social_security_number
+      label: Social Security Number (SSN)
+      hint: Required for identity verification
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: mailing_address
+      label: Mailing address
+      hint: Current address where mail is received
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: property_address
+      label: Property address (if different)
+      hint: Address of property being insured
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: section_header_application
+      label: '--- Application Details ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: application_date
+      label: Application date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: application_type
+      label: Type of application
+      hint: null
+      type: select_one
+      options:
+      - New application
+      - Renewal
+      - Transfer
+      - Amendment
+      required: true
+    - id: 12
+      name: insurance_type
+      label: Type of insurance coverage
+      hint: null
+      type: select_one
+      options:
+      - Homeowners
+      - Renters
+      - Auto
+      - Commercial
+      - Life
+      - Health
+      - Business
+      required: true
+    - id: 13
+      name: policy_period_start
+      label: Policy period start date
+      hint: When coverage should begin
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: policy_period_end
+      label: Policy period end date
+      hint: When coverage should expire
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: coverage_amount
+      label: Coverage amount requested ($)
+      hint: Desired coverage limit in dollars
+      type: integer
+      options: []
+      required: true
+    - id: 16
+      name: premium_budget
+      label: Annual premium budget ($)
+      hint: Maximum amount willing to pay annually
+      type: decimal
+      options: []
+      required: false
+    - id: 17
+      name: section_header_risk_assessment
+      label: '--- Risk Assessment ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: prior_claims
+      label: Have you had any claims in the past 5 years?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 19
+      name: claim_details
+      label: Details of most recent claim (if applicable)
+      hint: Date, type, and amount of loss
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: risk_factors
+      label: Known risk factors (select all that apply)
+      hint: Factors that may affect insurability
+      type: select_multiple
+      options:
+      - Previous claims history
+      - Credit issues
+      - High-risk location
+      - Unusual property features
+      - Business operations
+      - Specialized equipment
+      required: false
+    - id: 21
+      name: section_header_submission
+      label: '--- Submission ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: supporting_documents
+      label: Supporting documents attached
+      hint: List all documents being submitted with this application
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: additional_comments
+      label: Additional comments or notes
+      hint: Any other information relevant to your application
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: applicant_signature
+      label: Applicant signature
+      hint: Type your full name to sign electronically
+      type: text
+      options: []
+      required: true

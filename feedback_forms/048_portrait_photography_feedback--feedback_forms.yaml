@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Portrait Photography Feedback
+    pages:
+    - id: 1
+      name: portrait_photography_feedback_form
+      label: Portrait Session Feedback
+      hint: null
+      type: select_multiple
+      options:
+      - Rating 1-2
+      - Rating 3-4
+      - Rating 5
+      required: true
+    - id: 2
+      name: session_feedback_comments
+      label: Comments
+      hint: Please provide any comments about your session
+      type: note
+      options: []
+      required: true
+    - id: 3
+      name: favorite_image
+      label: Favorite Image
+      hint: null
+      type: select_one
+      options:
+      - Image 1
+      - Image 2
+      - Image 3
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Mail
+      required: true
+    - id: 7
+      name: preferred_contact_frequency
+      label: Preferred Contact Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: true
+    - id: 8
+      name: portrait_photography_session_id
+      label: Portrait Photography Session ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: session_time
+      label: Session Time
+      hint: null
+      type: time
+      options: []
+      required: true

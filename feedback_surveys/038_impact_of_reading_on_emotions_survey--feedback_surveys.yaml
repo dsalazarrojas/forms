@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Impact Of Reading On Emotions Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: reading_habits
+      label: reading-habits
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: reading_impact
+      label: reading-impact
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: reading_frequency
+      label: reading-frequency
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: reading_duration
+      label: reading-duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: reading_motivation
+      label: reading-motivation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: emotional_motivation
+      label: emotional-motivation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: reading_emotional_effect
+      label: reading-emotional-effect
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: reading_emotional_balance
+      label: reading-emotional-balance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: reading_frequency_amount
+      label: reading-frequency-amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: overall_satisfaction
+      label: overall-satisfaction
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: additional_comments
+      label: additional-comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: additional_questions
+      label: additional-questions
+      hint: null
+      type: text
+      options: []
+      required: false

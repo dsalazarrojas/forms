@@ -1,0 +1,304 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Peer Review Template
+    pages:
+    - id: 1
+      name: introduction
+      label: Employee Peer Review Template
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_name
+      label: employee name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: job_title
+      label: job title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: job_function
+      label: job function
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: strengths
+      label: strengths
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: areas_for_improvement
+      label: areas for improvement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: overall_rating
+      label: overall rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: suggestions
+      label: suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: rating_scale
+      label: rating scale
+      hint: null
+      type: select_multiple
+      options:
+      - 1-1
+      - 1-2
+      - 2-1
+      - 2-2
+      - 3-1
+      - 3-2
+      - 4-1
+      - 4-2
+      - 5-1
+      - 6-1
+      - 7-1
+      - 8-1
+      - 9-1
+      - 10-1
+      - 1-3
+      - 1-4
+      - 2-3
+      - 2-4
+      - 3-3
+      - 3-4
+      - 4-3
+      - 4-4
+      - 5-3
+      - 5-4
+      - 6-3
+      - 6-4
+      - 7-3
+      - 7-4
+      - 8-3
+      - 8-4
+      - 9-3
+      - 9-4
+      - 10-3
+      - 10-4
+      - 1-5
+      - 1-6
+      - 1-7
+      - 1-8
+      - 1-9
+      - 1-10
+      - 2-5
+      - 2-6
+      - 2-7
+      - 2-8
+      - 2-9
+      - 2-10
+      - 3-5
+      - 3-6
+      - 3-7
+      - 3-8
+      - 3-9
+      - 3-10
+      - 4-5
+      - 4-6
+      - 4-7
+      - 4-8
+      - 4-9
+      - 4-10
+      - 5-5
+      - 5-6
+      - 5-7
+      - 5-8
+      - 5-9
+      - 5-10
+      - 6-5
+      - 6-6
+      - 6-7
+      - 6-8
+      - 6-9
+      - 6-10
+      - 7-5
+      - 7-6
+      - 7-7
+      - 7-8
+      - 7-9
+      - 7-10
+      - 8-5
+      - 8-6
+      - 8-7
+      - 8-8
+      - 8-9
+      - 8-10
+      - 9-5
+      - 9-6
+      - 9-7
+      - 9-8
+      - 9-9
+      - 9-10
+      - 10-5
+      - 10-6
+      - 10-7
+      - 10-8
+      - 10-9
+      - 10-10
+      - 11-1
+      - 11-2
+      - 12-1
+      - 12-2
+      - 13-1
+      - 13-2
+      - 14-1
+      - 14-2
+      - 15-1
+      - 15-2
+      - 16-1
+      - 16-2
+      - 17-1
+      - 17-2
+      - 18-1
+      - 18-2
+      - 19-1
+      - 19-2
+      - 20-1
+      - 20-2
+      - 21-1
+      - 21-2
+      - 22-1
+      - 22-2
+      - 23-1
+      - 23-2
+      - 24-1
+      - 24-2
+      - 25-1
+      - 25-2
+      required: true
+    - id: 11
+      name: review_date
+      label: review date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: reviewer_name
+      label: reviewer name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: reviewer_title
+      label: reviewer title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: reviewer_organization
+      label: reviewer organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: reviewer_department
+      label: reviewer department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: reviewer_job_title
+      label: reviewer job title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: reviewer_email
+      label: reviewer email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 18
+      name: reviewer_comments
+      label: reviewer comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: reviewer_suggestions
+      label: reviewer suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: reviewer_signature
+      label: reviewer signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: employee_comments
+      label: employee comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: employee_suggestions
+      label: employee suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: manager_comments
+      label: manager comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: manager_suggestions
+      label: manager suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: approver_comments
+      label: approver comments
+      hint: null
+      type: text
+      options: []
+      required: false

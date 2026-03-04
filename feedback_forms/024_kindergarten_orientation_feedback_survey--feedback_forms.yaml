@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Kindergarten Orientation Feedback Survey
+    pages:
+    - id: 1
+      name: parent_info
+      label: Parent Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_info
+      label: Student Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: feedback
+      label: How can the school improve?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: suggest_ideas
+      label: What suggestions do you have?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: Please include any additional comments or feedback you may have.
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: How can we contact you?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: How can we contact you?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: page_number
+      label: Page Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: select_one
+      label: Select One
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Option A''}'
+      - '{''label'': ''Option B''}'
+      - '{''label'': ''Option C''}'
+      required: false
+    - id: 13
+      name: select_multiple
+      label: Select Multiple
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

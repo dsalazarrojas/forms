@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dietary Leadership Feedback Form
+    pages:
+    - id: 1
+      name: leader_name
+      label: Leader Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: feedback_question
+      label: Feedback Question
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: feedback_answer
+      label: Feedback Answer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: rating
+      label: Rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 5
+      name: feedback_date
+      label: Feedback Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: leader_email
+      label: Leader Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: leader_phone
+      label: Leader Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false

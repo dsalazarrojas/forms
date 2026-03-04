@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: primary_care_speaker_presentation_survey
+    pages:
+    - id: 1
+      name: session_name
+      label: Session Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: speaker_name
+      label: speaker_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: topic
+      label: topic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: speaker_rating
+      label: speaker_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: presentation_rating
+      label: presentation_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: relevance
+      label: relevance
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 7
+      name: relevance_rating
+      label: relevance_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: session_rating
+      label: session_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: recommendation
+      label: recommendation
+      hint: null
+      type: select_multiple
+      options:
+      - strongly_recommends
+      - probably_recommends
+      - not_recommends
+      - no_opinion
+      required: false
+    - id: 10
+      name: comment
+      label: comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: email
+      hint: Enter your email address here.
+      type: email
+      options: []
+      required: false

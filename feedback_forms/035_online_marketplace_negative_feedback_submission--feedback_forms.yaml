@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: online_marketplace_negative_feedback_submission
+    pages:
+    - id: 1
+      name: submission_details
+      label: Submission Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: marketplace_details
+      label: Marketplace Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: submission_comments
+      label: Submission Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: issue_priority
+      label: Issue Priority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

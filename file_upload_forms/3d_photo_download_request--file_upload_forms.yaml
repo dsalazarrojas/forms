@@ -1,0 +1,146 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 3D Photo Download Request
+    pages:
+    - id: 1
+      name: section_header_request
+      label: "--- Requester & Asset Information ---"
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Requester full name
+      hint: Enter the person who will receive the download
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_organization
+      label: Organization / Studio (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: requester_email
+      label: Requester email address
+      hint: Use the address for delivery and license notices
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: requester_phone
+      label: Requester phone number
+      hint: Include country code if outside local area
+      type: phone
+      options: []
+      required: false
+    - id: 6
+      name: project_title
+      label: Project or usage title
+      hint: Short project name for tracking (e.g., Website Hero Image)
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: asset_identifier
+      label: Asset identifier or filename
+      hint: Provide the 3D asset ID, filename, or link
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: intended_usage
+      label: Intended usage of the 3D photo
+      hint: Select the primary permitted use
+      type: select_one
+      options:
+        - Personal / internal use
+        - Commercial (paid product/service)
+        - Editorial / news
+        - Educational / research
+        - Advertising / marketing
+      required: true
+    - id: 9
+      name: distribution_channels
+      label: Distribution channels (select all that apply)
+      hint: Where will the asset be published or shared?
+      type: select_multiple
+      options:
+        - Website / web app
+        - Social media
+        - Print / publication
+        - Broadcast / TV
+        - VR/AR platform
+      required: false
+    - id: 10
+      name: delivery_format
+      label: Preferred delivery format
+      hint: Choose best-fit output format
+      type: select_one
+      options:
+        - GLTF / GLB
+        - OBJ
+        - STL
+        - PLY
+        - USDZ
+      required: true
+    - id: 11
+      name: resolution_and_textures
+      label: Resolution / texture requirements
+      hint: e.g., Full-res textures, decimated mesh, LODs
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: licensing_option
+      label: License requested
+      hint: Standard licenses cover most uses
+      type: select_one
+      options:
+        - Standard (non-exclusive)
+        - Extended (commercial distribution)
+        - Editorial only
+        - Custom terms (contact required)
+      required: true
+    - id: 13
+      name: requested_delivery_date
+      label: Requested delivery date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: consent_and_agreement
+      label: I agree to the licensing terms and credit requirements
+      hint: Select Yes to proceed with processing
+      type: select_one
+      options:
+        - Yes
+        - No
+      required: true
+    - id: 15
+      name: requester_notes
+      label: Additional notes or instructions
+      hint: Include billing code, PO number, or special handling
+      type: text
+      options: []
+      required: false

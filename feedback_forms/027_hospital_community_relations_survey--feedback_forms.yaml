@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospital Community Relations Survey
+    pages:
+    - id: 1
+      name: satisfaction
+      label: What was your overall satisfaction with your visit?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: services_used
+      label: Which services used at the hospital?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: community_communication
+      label: How would you rate our community communication?
+      hint: null
+      type: text
+      options: []
+      required: false

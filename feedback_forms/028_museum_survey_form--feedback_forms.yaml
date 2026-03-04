@@ -1,0 +1,40 @@
+inputSchema:
+  type: object
+  properties:
+    title: Museum Survey Form
+    pages:
+    - id: 1
+      name: museum_survey_form_1
+      label: hello
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: personal_info
+      label: personal_information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: museum_visit
+      label: visited_times
+      hint: How many times have you visited our museum?
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: contact_info
+      label: contact_information
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false

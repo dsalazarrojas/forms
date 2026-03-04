@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Assessment Upload Form
+    pages:
+    - id: 1
+      name: evaluator_name_upload
+      label: Trainer or Evaluator Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: trainee_employee_name
+      label: Trainee or Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id_number
+      label: Employee ID Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: assessment_title_code
+      label: Assessment Title or Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: evaluation_date_upload
+      label: Date of Evaluation
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: upload_notice_text
+      label: Please ensure the detailed results PDF is ready for upload
+      hint: Files should be clearly named with Employee ID
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: results_summary_upload
+      label: Brief Summary of Performance Results
+      hint: Key takeaways from the assessment
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: work_ethics_rating_upload
+      label: Work Ethics and Attitude Rating
+      hint: 1 - poor, 5 - excellent
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: overall_performance_rating_upload
+      label: Overall Performance Rating
+      hint: 1 - poor, 5 - excellent
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: training_recommendations_upload
+      label: Recommended Further Training or Development
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: data_entry_confirmation
+      label: I certify that this data accurately reflects the assessment results
+      hint: null
+      type: select_one
+      options:
+      - I Certify
+      - Other
+      required: true

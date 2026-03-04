@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Donation Decision Making Factors Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: how_often_donate
+      label: How often do you donate?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: true
+    - id: 3
+      name: motivation_donate
+      label: What motivates you to donate?
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: true
+    - id: 4
+      name: barrier_donate
+      label: What are some barriers you face when donating?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: preference_donate
+      label: What is your preferred way to donate?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

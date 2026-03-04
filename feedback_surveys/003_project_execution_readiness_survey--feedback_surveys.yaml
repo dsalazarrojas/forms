@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Project Execution Readiness Survey
+    pages:
+    - id: 1
+      name: project_execution_readiness_survey
+      label: Project Launch Readiness
+      hint: null
+      type: select_one
+      options:
+      - Ready
+      - Not Ready
+      - Undetermined
+      required: true
+    - id: 2
+      name: project_launch_date
+      label: Project Launch Date
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: project_manager_name
+      label: Project Manager
+      hint: Enter project manager name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: lead_officer_name
+      label: Lead Officer
+      hint: Enter lead officer name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: project_execution_status
+      label: Project Execution Status
+      hint: null
+      type: select_one
+      options:
+      - On Track
+      - Delayed
+      - At Risk
+      required: true
+    - id: 6
+      name: risk_factors
+      label: Risk Factors
+      hint: null
+      type: select_multiple
+      options:
+      - Resource constraints
+      - Time constraints
+      - Financial constraints
+      - Other (please specify)
+      required: true
+    - id: 7
+      name: project_start_date
+      label: Project Start Date
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: project_end_date
+      label: Project End Date
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: team_size
+      label: Team Size
+      hint: Enter team size
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: team_diversity
+      label: Team Diversity
+      hint: Enter team diversity
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: team_location
+      label: Team Location
+      hint: Enter team location
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: project_budget
+      label: Project Budget
+      hint: Enter project budget
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: project_scope
+      label: Project Scope
+      hint: Enter project scope
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: project_schedule
+      label: Project Schedule
+      hint: Enter project schedule
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: risk_description
+      label: Risk Description
+      hint: Enter risk description
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: action_plan
+      label: Action Plan
+      hint: Enter action plan
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: team_skills
+      label: Team Skills
+      hint: Enter team skills
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: project_phase
+      label: Project Phase
+      hint: null
+      type: select_one
+      options:
+      - Phase 1
+      - Phase 2
+      - Phase 3
+      required: true
+    - id: 19
+      name: project_phase_description
+      label: Project Phase Description
+      hint: Enter project phase description
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Archived
+      required: true
+    - id: 21
+      name: project_category
+      label: Project Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: project_description
+      label: Project Description
+      hint: Enter project description
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: project_owner
+      label: Project Owner
+      hint: Enter project owner
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: project_manager
+      label: Project Manager
+      hint: Enter project manager
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: project_executive
+      label: Project Executive
+      hint: Enter project executive
+      type: text
+      options: []
+      required: false

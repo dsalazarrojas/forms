@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Public Awareness Of Preventive Medicine Survey
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''option-1''}'
+      - '{''value'': ''option-2''}'
+      required: true
+    - id: 4
+      name: doctor_recommendation
+      label: Doctor Recommadation
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''option-1''}'
+      - '{''value'': ''option-2''}'
+      required: true
+    - id: 5
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''option-1''}'
+      - '{''value'': ''option-2''}'
+      required: true
+    - id: 6
+      name: medical_issues
+      label: Medical Issues
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: preventive_medicine_knowledg
+      label: Preventive Medicine Knowledge
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: community_knowledged
+      label: Community Knowledge
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''option-1''}'
+      - '{''value'': ''option-2''}'
+      required: true
+    - id: 9
+      name: submit_feedback
+      label: Submit Feedback
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: submit_form
+      label: Submit Form
+      hint: null
+      type: text
+      options: []
+      required: true

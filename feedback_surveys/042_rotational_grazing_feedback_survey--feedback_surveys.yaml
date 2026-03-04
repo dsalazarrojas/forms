@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: rotational_grazing_feedback_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: program_benefits
+      label: what_benefits_does_rotational_grazing_provide
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: challenges
+      label: challenges_with_rotational_grazing
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: satisfaction
+      label: how_satisfied_with_rotational_grazing
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false

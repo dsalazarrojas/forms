@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: Learner Feedback Form
+    pages:
+    - id: 1
+      name: learner_feedback_form
+      label: LearnerFeedbackForm
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: feedback_type
+      label: FeedbackType
+      hint: null
+      type: select_one
+      options:
+      - FeedbackForm
+      - OtherForm
+      - TestForm
+      - ProjectForm
+      - ProjectFormFeedback
+      required: false
+    - id: 3
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: comment
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_number
+      label: ContactNumber
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submit
+      label: Submit
+      hint: null
+      type: date
+      options: []
+      required: false

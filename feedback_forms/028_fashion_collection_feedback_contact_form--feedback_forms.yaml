@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: fashion_collection_feedback_contact_form
+    pages:
+    - id: 1
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: feedback
+      label: What's on your mind
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: product_info
+      label: Which item did you purchase
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: purchase_date
+      label: Purchase Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: purchase_price
+      label: Purchase Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: rating
+      label: Overall Rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

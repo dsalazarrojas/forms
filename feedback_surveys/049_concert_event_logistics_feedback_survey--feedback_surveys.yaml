@@ -1,0 +1,261 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Concert Event Logistics Feedback Survey
+    pages:
+      - id: 1
+        name: survey_id
+        label: Survey ID
+        hint: Unique survey identifier
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: survey_date
+        label: Survey Date
+        hint: Date of survey
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: respondent_name
+        label: Respondent Name
+        hint: Your name
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: respondent_role
+        label: Respondent Role
+        hint: Select your role
+        type: select_one
+        options:
+          - Event Staff
+          - Security Personnel
+          - Technical Crew
+          - Vendor
+          - Artist Management
+          - Venue Staff
+          - Volunteer
+          - Other
+        required: true
+      - id: 5
+        name: concert_name
+        label: Concert Name
+        hint: Name of concert event
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: concert_date
+        label: Concert Date
+        hint: Date of concert
+        type: date
+        options: []
+        required: true
+      - id: 7
+        name: venue_name
+        label: Venue Name
+        hint: Name of venue
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: department
+        label: Department
+        hint: Select your department
+        type: select_one
+        options:
+          - Operations
+          - Security
+          - Technical
+          - Hospitality
+          - Marketing
+          - Administration
+          - Other
+        required: true
+      - id: 9
+        name: shift_time
+        label: Shift Time
+        hint: Which shift did you work
+        type: select_one
+        options:
+          - Pre-Show Setup
+          - Show Time
+          - Post-Show Breakdown
+          - Full Day
+          - Multiple Shifts
+        required: true
+      - id: 10
+        name: communication_rating
+        label: Communication Rating
+        hint: Rate the communication quality
+        type: select_one
+        options:
+          - 5 - Excellent
+          - 4 - Good
+          - 3 - Average
+          - 2 - Poor
+          - 1 - Very Poor
+        required: true
+      - id: 11
+        name: access_control
+        label: Access Control
+        hint: Rate the access control systems
+        type: select_one
+        options:
+          - 5 - Excellent
+          - 4 - Good
+          - 3 - Average
+          - 2 - Poor
+          - 1 - Very Poor
+        required: true
+      - id: 12
+        name: signage_clarity
+        label: Signage Clarity
+        hint: Rate the clarity of signage
+        type: select_one
+        options:
+          - 5 - Excellent
+          - 4 - Good
+          - 3 - Average
+          - 2 - Poor
+          - 1 - Very Poor
+        required: true
+      - id: 13
+        name: load_in_process
+        label: Load In Process
+        hint: Rate the load in process
+        type: select_one
+        options:
+          - 5 - Excellent
+          - 4 - Good
+          - 3 - Average
+          - 2 - Poor
+          - 1 - Very Poor
+          - Not Applicable
+        required: false
+      - id: 14
+        name: load_out_process
+        label: Load Out Process
+        hint: Rate the load out process
+        type: select_one
+        options:
+          - 5 - Excellent
+          - 4 - Good
+          - 3 - Average
+          - 2 - Poor
+          - 1 - Very Poor
+          - Not Applicable
+        required: false
+      - id: 15
+        name: equipment_availability
+        label: Equipment Availability
+        hint: Rate equipment availability
+        type: select_one
+        options:
+          - 5 - Excellent
+          - 4 - Good
+          - 3 - Average
+          - 2 - Poor
+          - 1 - Very Poor
+        required: true
+      - id: 16
+        name: staffing_levels
+        label: Staffing Levels
+        hint: Were staffing levels adequate
+        type: select_one
+        options:
+          - Overstaffed
+          - Adequate
+          - Slightly Understaffed
+          - Severely Understaffed
+        required: true
+      - id: 17
+        name: emergency_procedures
+        label: Emergency Procedures
+        hint: Rate the emergency preparedness
+        type: select_one
+        options:
+          - 5 - Excellent
+          - 4 - Good
+          - 3 - Average
+          - 2 - Poor
+          - 1 - Very Poor
+        required: true
+      - id: 18
+        name: transportation_parking
+        label: Transportation and Parking
+        hint: Rate transportation and parking
+        type: select_one
+        options:
+          - 5 - Excellent
+          - 4 - Good
+          - 3 - Average
+          - 2 - Poor
+          - 1 - Very Poor
+        required: true
+      - id: 19
+        name: vendor_coordination
+        label: Vendor Coordination
+        hint: Rate vendor coordination
+        type: select_one
+        options:
+          - 5 - Excellent
+          - 4 - Good
+          - 3 - Average
+          - 2 - Poor
+          - 1 - Very Poor
+          - Not Applicable
+        required: false
+      - id: 20
+        name: issues_encountered
+        label: Issues Encountered
+        hint: Describe any issues you encountered
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: what_worked_well
+        label: What Worked Well
+        hint: What logistics worked well
+        type: text
+        options: []
+        required: true
+      - id: 22
+        name: improvements_needed
+        label: Improvements Needed
+        hint: What needs improvement
+        type: text
+        options: []
+        required: true
+      - id: 23
+        name: would_work_again
+        label: Would Work Again
+        hint: Would you work this event again
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Neutral
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 24
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback
+        type: text
+        options: []
+        required: false

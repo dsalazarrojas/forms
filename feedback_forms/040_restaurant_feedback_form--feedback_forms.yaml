@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Restaurant Feedback Form
+    pages:
+    - id: 1
+      name: restaurant_name
+      label: Restaurant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: rating
+      label: Overall Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: comment
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - Food
+      - Service
+      - Cleanliness
+      required: true
+    - id: 10
+      name: restaurant_id
+      label: Restaurant ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy prophets
+      - Other
+      required: true

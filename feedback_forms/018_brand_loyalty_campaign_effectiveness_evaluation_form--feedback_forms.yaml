@@ -1,0 +1,84 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Brand Loyalty Campaign Effectiveness Evaluation Form
+    pages:
+      - id: 1
+        name: campaign_name
+        label: Campaign name
+        hint: Name or identifier of the campaign
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: respondent_type
+        label: Respondent type
+        hint: Customer or internal reviewer
+        type: select_one
+        options:
+          - Customer
+          - Internal
+          - Partner
+        required: false
+      - id: 3
+        name: reach_effectiveness
+        label: Reach effectiveness
+        hint: How well did the campaign reach the audience
+        type: select_one
+        options:
+          - Very effective
+          - Effective
+          - Ineffective
+        required: true
+      - id: 4
+        name: engagement_level
+        label: Engagement level
+        hint: How engaged were participants
+        type: select_one
+        options:
+          - High
+          - Moderate
+          - Low
+        required: true
+      - id: 5
+        name: conversion_impact
+        label: Conversion impact
+        hint: Impact on loyalty program sign ups or purchases
+        type: select_one
+        options:
+          - Significant
+          - Moderate
+          - None
+        required: false
+      - id: 6
+        name: key_success_metrics
+        label: Key success metrics
+        hint: Note top measured metrics and results
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: improvement_recommendations
+        label: Improvement recommendations
+        hint: Suggestions for future campaigns
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: additional_comments
+        label: Additional comments
+        hint: Any final observations
+        type: text
+        options: []
+        required: false

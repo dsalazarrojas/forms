@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Enquiry Form Template
+    pages:
+    - id: 1
+      name: enquiry_form_template
+      label: What would you like to contact us about
+      hint: null
+      type: select_one
+      options:
+      - What is your feedback
+      - Questions
+      - Comments
+      - Other
+      required: false
+    - id: 2
+      name: contact_details
+      label: Contact details
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - Other
+      required: false
+    - id: 3
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: question
+      label: Question
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false

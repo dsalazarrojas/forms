@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Metrics Feedback Survey
+    pages:
+    - id: 1
+      name: product_metrics
+      label: product_metrics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: satisfaction_rating
+      label: Satisfaction Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: improvement_ideas
+      label: Improvement Ideas
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: feature_usage
+      label: Feature Usage
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: feature_ideas
+      label: Feature Ideas
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: product_usage
+      label: Product Usage
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: satisfaction_comments
+      label: Satisfaction Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false

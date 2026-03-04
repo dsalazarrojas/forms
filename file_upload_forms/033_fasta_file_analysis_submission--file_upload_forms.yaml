@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: FASTA File Analysis Submission
+    pages:
+    - id: 1
+      name: fasta_file
+      label: Fasta File
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: analysis_type
+      label: Analysis Type
+      hint: null
+      type: select_one
+      options:
+      - Protein Structure Homology Analysis
+      - RNA Structure Homology Analysis
+      - Protein Sequence Homology Analysis
+      - RNA Sequence Homology Analysis
+      - Sequence Alignment Analysis
+      - Other (Specify below)
+      required: false
+    - id: 4
+      name: other_analysis_type
+      label: Other Analysis Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: other_analysis_type_description
+      label: Other Analysis Type Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: file_format
+      label: File Format
+      hint: null
+      type: select_multiple
+      options:
+      - FASTA
+      - FASTA
+      - FASTA
+      required: false
+    - id: 7
+      name: fasta_sequence
+      label: Fasta Sequence
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: fasta_sequence_length
+      label: Fasta Sequence Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: fasta_sequence_id
+      label: Fasta Sequence ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: analysis_requests
+      label: Analysis Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: lab_name
+      label: Lab Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: lab_address
+      label: Lab Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: lab_phone
+      label: Lab Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: lab_contact_name
+      label: Lab Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: lab_contact_email
+      label: Lab Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 18
+      name: lab_contact_phone
+      label: Lab Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: lab_note
+      label: Lab Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: lab_note_2
+      label: Lab Note 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: lab_note_3
+      label: Lab Note 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: lab_note_4
+      label: Lab Note 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: lab_note_5
+      label: Lab Note 5
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: lab_note_6
+      label: Lab Note 6
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: lab_note_7
+      label: Lab Note 7
+      hint: null
+      type: text
+      options: []
+      required: false

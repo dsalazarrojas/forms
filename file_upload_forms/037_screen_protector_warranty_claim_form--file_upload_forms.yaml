@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Screen Protector Warranty Claim Form
+    pages:
+    - id: 1
+      name: customer_details
+      label: Customer Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_details_address
+      label: Customer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_order_number
+      label: Customer Order Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: customer_order_date
+      label: Customer Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: supporting_documentation
+      label: Supporting Documentation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: select_supporting_document
+      label: Select Supporting Documentation
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Option 1''}'
+      - '{''option2'': ''Option 2''}'
+      - '{''option3'': ''Option 3''}'
+      required: false
+    - id: 7
+      name: select_supporting_document_label
+      label: Select Supporting Documentation Label
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Option 1''}'
+      - '{''option2'': ''Option 2''}'
+      - '{''option3'': ''Option 3''}'
+      required: false

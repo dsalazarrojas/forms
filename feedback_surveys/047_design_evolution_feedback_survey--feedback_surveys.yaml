@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Design Evolution Feedback Survey
+    pages:
+    - id: 1
+      name: design_evolution_feedback
+      label: What do you think about this new design?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: design_evolution_feedback_2
+      label: What do you think about this new design?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: feedback_category
+      label: What aspect of the design is this feedback about?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''design layout'', ''label'': ''Layout''}'
+      - '{''id'': 2, ''name'': ''visual style'', ''label'': ''Visual style''}'
+      - '{''id'': 3, ''name'': ''functionality'', ''label'': ''Functionality''}'
+      - '{''id'': 4, ''name'': ''user experience'', ''label'': ''User experience''}'
+      required: true
+    - id: 4
+      name: feedback
+      label: What is your feedback?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: feedback_rating
+      label: How would you rate this design?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''submit'', ''label'': ''Submit''}'
+      - '{''id'': 2, ''name'': ''cancel'', ''label'': ''Cancel''}'
+      required: true
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

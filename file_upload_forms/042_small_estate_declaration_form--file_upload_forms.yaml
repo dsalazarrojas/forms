@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: small_estate_declaration_form
+    pages:
+    - id: 1
+      name: family_info
+      label: Family Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: estate_info
+      label: estate_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: estate_owner
+      label: estate_owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: estate_address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: property_details
+      label: property_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: supporting_documents
+      label: supporting_documents
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: next_of_kin
+      label: next_of_kin
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: estate_admin
+      label: estate_admin
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: upload_documents
+      label: upload_documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: upload_additional_files
+      label: upload_additional_files
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: review_and_submit
+      label: review_and_submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: confirmation
+      label: Confirm
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

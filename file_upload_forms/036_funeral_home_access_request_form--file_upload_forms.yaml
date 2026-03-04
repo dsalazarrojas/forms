@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Funeral Home Access Request Form
+    pages:
+    - id: 1
+      name: visitor_info
+      label: Visitor Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: visitor_access_request
+      label: Visitor Access Request
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: false
+    - id: 4
+      name: schedule_visit
+      label: Schedule Visit
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: upload_files
+      label: Attachments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

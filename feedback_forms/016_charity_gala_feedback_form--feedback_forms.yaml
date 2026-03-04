@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Charity Gala Feedback Form
+    pages:
+    - id: 1
+      name: section_attendee_info
+      label: -- Your Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: attendee_name
+      label: Your Name
+      hint: Optional - can remain anonymous
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: attendee_email
+      label: Email Address
+      hint: For follow-up communications
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: attendee_phone
+      label: Phone Number
+      hint: Optional contact information
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: gala_name
+      label: Name of Gala Event
+      hint: Which gala did you attend
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: gala_date
+      label: Date of Gala
+      hint: When did you attend
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: section_venue
+      label: -- Venue and Atmosphere --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: venue_rating
+      label: Venue Quality and Elegance
+      hint: Rate the venue
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Average
+      - Poor
+      required: true
+    - id: 9
+      name: atmosphere_rating
+      label: Overall Atmosphere and Ambiance
+      hint: How was the mood and feel
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Average
+      - Poor
+      required: true
+    - id: 10
+      name: decor_rating
+      label: Decorations and Setup
+      hint: Quality of decorations
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Average
+      - Poor
+      required: false
+    - id: 11
+      name: section_food_beverage
+      label: -- Food and Beverage --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: dinner_quality
+      label: Quality of Dinner
+      hint: Rate the food
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Average
+      - Poor
+      required: true
+    - id: 13
+      name: beverage_quality
+      label: Quality and Selection of Beverages
+      hint: Rate the drinks available
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Average
+      - Poor
+      required: false
+    - id: 14
+      name: service_quality
+      label: Service Quality
+      hint: Rate the staff and service
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Average
+      - Poor
+      required: true
+    - id: 15
+      name: section_program
+      label: -- Program and Entertainment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: entertainment_rating
+      label: Quality of Entertainment
+      hint: Rate performances or entertainment
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Average
+      - Poor
+      required: false
+    - id: 17
+      name: program_length
+      label: Was the Program Length Appropriate
+      hint: Too long, just right, or too short
+      type: select_one
+      options:
+      - Too Long
+      - Just Right
+      - Too Short
+      required: false
+    - id: 18
+      name: section_mission
+      label: -- Mission and Fundraising --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: mission_clarity
+      label: Clarity of Charitable Mission
+      hint: Did you understand the cause
+      type: select_one
+      options:
+      - Very Clear
+      - Clear
+      - Somewhat Clear
+      - Unclear
+      required: true
+    - id: 20
+      name: donation_inspiring
+      label: Event Inspired You to Donate
+      hint: Did it motivate your giving
+      type: select_one
+      options:
+      - Definitely
+      - Probably
+      - Maybe
+      - Probably Not
+      - Definitely Not
+      required: true
+    - id: 21
+      name: section_overall
+      label: -- Overall Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: overall_satisfaction
+      label: Overall Satisfaction with Gala
+      hint: Rate your experience
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Average
+      - Poor
+      required: true
+    - id: 23
+      name: recommendations
+      label: Recommendations for Next Gala
+      hint: How can we improve
+      type: text
+      options: []
+      required: false

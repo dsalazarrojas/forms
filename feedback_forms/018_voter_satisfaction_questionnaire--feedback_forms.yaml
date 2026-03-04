@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Voter Satisfaction Questionnaire
+    pages:
+    - id: 1
+      name: voter_satisfaction_questionnaire
+      label: feedback_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: vote_date
+      label: voting_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: satisfaction_level
+      label: satisfaction
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 6
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: contact_address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_province
+      label: province
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_postal_code
+      label: postal_code
+      hint: null
+      type: text
+      options: []
+      required: false

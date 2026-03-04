@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: gaming_platform_user_feedback_survey
+    pages:
+    - id: 1
+      name: intro
+      label: intro
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: platform_rating
+      label: platform_rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: overall_satisfaction
+      label: overall_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Very dissatisfied''}'
+      - '{''value'': 2, ''label'': ''Somewhat dissatisfied''}'
+      - '{''value'': 3, ''label'': ''Neutral''}'
+      - '{''value'': 4, ''label'': ''Somewhat satisfied''}'
+      - '{''value'': 5, ''label'': ''Very satisfied''}'
+      required: true
+    - id: 4
+      name: improvement_opportunities
+      label: improvement_opportunities
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Bugs'', ''label'': ''Bugs''}'
+      - '{''value'': ''Performance'', ''label'': ''Performance''}'
+      - '{''value'': ''User interface'', ''label'': ''User interface''}'
+      - '{''value'': ''Content'', ''label'': ''Content''}'
+      required: true
+    - id: 5
+      name: recommendations
+      label: recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: player_experience
+      label: player_experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: player_id
+      label: player_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: player_name
+      label: player_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: player_email
+      label: player_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: player_phone
+      label: player_phone
+      hint: null
+      type: text
+      options: []
+      required: false

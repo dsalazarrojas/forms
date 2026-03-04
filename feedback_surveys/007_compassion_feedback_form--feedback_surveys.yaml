@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Compassion Feedback Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Feedback Form --
+      hint: share observations about compassionate behavior
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_name
+      label: your name
+      hint: optional for anonymous responses
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: role
+      label: your role or relationship to subject
+      hint: e g colleague manager client
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_event
+      label: date of observed event
+      hint: date when compassionate act occurred
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: description
+      label: description of compassionate act
+      hint: brief summary of what happened
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: impact_rating
+      label: impact rating
+      hint: rate the impact from 1 low to 5 high
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: outcomes
+      label: observed outcomes
+      hint: effect on the person or situation
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: suggestions
+      label: suggestions to promote compassion
+      hint: ideas or recommendations
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: permission_to_share
+      label: permission to share feedback internally
+      hint: with names removed if requested
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: contact_info
+      label: contact phone or email
+      hint: optional if follow up is needed
+      type: text
+      options: []
+      required: false

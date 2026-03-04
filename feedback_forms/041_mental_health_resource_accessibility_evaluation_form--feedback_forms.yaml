@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: mental_health_resource_accessibility_evaluation_form
+    pages:
+    - id: 1
+      name: evaluation_period
+      label: Evaluation Period
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: resource_type
+      label: resource_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Mental Health Professional''}'
+      - '{''id'': 2, ''label'': ''Support Group''}'
+      - '{''id'': 3, ''label'': ''Self-Care Resource''}'
+      required: true
+    - id: 3
+      name: organization
+      label: organization
+      hint: Please enter the name of the organization
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: resource_name
+      label: resource_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: resource_location
+      label: resource_location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: resource_description
+      label: resource_description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: resource_availability
+      label: resource_availability
+      hint: Is this resource available 24/7?  If no, what are the hours it is available?
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Public Service Announcement Survey
+    pages:
+    - id: 1
+      name: survey_recall
+      label: Recall
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Not Sure
+      required: true
+    - id: 2
+      name: message_quality
+      label: message_quality
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: intended_actions
+      label: intended_actions
+      hint: null
+      type: select_multiple
+      options:
+      - Watch video
+      - Visit website
+      - Call/Text/Visit in person
+      - Social Media
+      required: false
+    - id: 4
+      name: contact_method
+      label: contact_method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Text
+      - Visit in person
+      - Other (please specify)
+      required: true
+    - id: 5
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: message_quality_rating
+      label: message_quality_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: message_quality_important
+      label: message_quality_important
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Not Good
+      required: true
+    - id: 9
+      name: message_quality_relevant
+      label: message_quality_relevant
+      hint: null
+      type: select_one
+      options:
+      - Very Relevant
+      - Somewhat Relevant
+      - Not Relevant
+      - Not Relevant at all
+      required: true
+    - id: 10
+      name: message_quality_clear
+      label: message_quality_clear
+      hint: null
+      type: select_one
+      options:
+      - Very Clear
+      - Somewhat Clear
+      - Not Clear
+      - Not Clear at All
+      required: true

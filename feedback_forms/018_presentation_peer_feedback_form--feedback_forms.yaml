@@ -1,0 +1,45 @@
+inputSchema:
+  type: object
+  properties:
+    title: Presentation Peer Feedback Form
+    pages:
+    - id: 1
+      name: presentation_peer_feedback_form
+      label: Presentation Peer Feedback Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: presentation_peer_feedback_form_rating
+      label: Rate This Presentation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: presentation_peer_feedback_form_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: presentation_peer_feedback_form_likert_options
+      label: Likert Options
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 5
+      name: presentation_peer_feedback_form_likert_scale
+      label: Likert Scale
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Audio Recording Release Form
+    pages:
+    - id: 1
+      name: section_parties
+      label: -- Release Parties --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: releasor_name
+      label: Releasor Full Name (The Performer)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: releasee_name
+      label: Releasee (The Producer or Company)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: section_content
+      label: -- Content Description --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: content_description
+      label: Description of the Recorded Content
+      hint: e.g., Podcast Episode 12, Vocal Performance for Project X
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: recording_location
+      label: Location of Recording
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: recording_date
+      label: Date of Recording
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: section_rights
+      label: -- Grant of Rights --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: rights_grant_clause
+      label: I grant the Releasee the perpetual, worldwide, irrevocable right to use
+        my recording
+      hint: Includes rights to edit, adapt, and distribute in any media
+      type: select_one
+      options:
+      - I Agree to Grant Rights
+      - Other
+      required: true
+    - id: 10
+      name: compensation_terms
+      label: Compensation Terms
+      hint: null
+      type: select_one
+      options:
+      - One-time flat fee
+      - Royalty based agreement
+      - No financial compensation (Credit only)
+      - Experience/Exposure only
+      required: true
+    - id: 11
+      name: credit_name
+      label: Preferred Name for Credit/Attribution
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: ownership_warranty
+      label: I warrant that I have the right to grant these permissions
+      hint: null
+      type: select_one
+      options:
+      - I Warrant
+      - Other
+      required: true
+    - id: 13
+      name: section_minor
+      label: -- Minor Participant Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: participant_minor_status
+      label: Is the participant under 18 years of age?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: guardian_signature_name
+      label: Parent or Guardian Name
+      hint: Required if participant is a minor
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: witness_name
+      label: Witness Name (if required)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: signature_date
+      label: Date of Execution
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: digital_signature
+      label: Releasor Digital Signature
+      hint: null
+      type: text
+      options: []
+      required: true

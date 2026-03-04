@@ -1,0 +1,153 @@
+inputSchema:
+  type: object
+  properties:
+    title: Church Expense Voucher Form
+    pages:
+    - id: 1
+      name: header_voucher_info
+      label: -- Expense Voucher Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requestor_name_voucher
+      label: Requested By
+      hint: Full name of person requesting reimbursement
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department_ministry_voucher
+      label: Ministry/Department to be Charged
+      hint: null
+      type: select_one
+      options:
+      - General Administration
+      - Worship/Music
+      - Children's Ministry
+      - Youth Ministry
+      - Outreach/Missions
+      - Facilities
+      - Hospitality
+      required: true
+    - id: 4
+      name: voucher_request_date
+      label: Date of Request
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: header_expense_details
+      label: -- Expense Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: expense_category
+      label: Type of Expense
+      hint: null
+      type: select_one
+      options:
+      - Supplies/Materials
+      - Equipment Purchase
+      - Travel/Mileage
+      - Professional Services
+      - Utilities
+      - Food/Beverage
+      - Other
+      required: true
+    - id: 7
+      name: expense_purpose_brief
+      label: Purpose of Expense
+      hint: e.g., VBS craft supplies, piano tuning, youth pizza
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: date_expense_incurred
+      label: Date of Purchase/Expense
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: total_expense_amount
+      label: Total Amount to be Reimbursed ($)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: sales_tax_included
+      label: Was sales tax paid on this purchase?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Tax-Exempt used
+      required: true
+    - id: 11
+      name: header_receipt_upload
+      label: -- Receipts and Documentation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: receipt_verification_note
+      label: Have you attached digital receipts?
+      hint: Clear photos or PDFs of all receipts are required
+      type: select_one
+      options:
+      - Yes - Attached below
+      - No - Will provide physical copy
+      required: true
+    - id: 13
+      name: mileage_claim
+      label: If Mileage - number of miles driven
+      hint: Reimbursement at current church rate
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: header_reimbursement_method
+      label: -- Reimbursement Method --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: preferred_payment_method_voucher
+      label: How would you like to receive payment?
+      hint: null
+      type: select_one
+      options:
+      - Paper Check (Mail)
+      - Paper Check (Office Pickup)
+      - Electronic/Direct Deposit
+      required: true
+    - id: 16
+      name: banking_info_for_direct_deposit
+      label: Banking Info (Last 4 of account)
+      hint: Only needed for Direct Deposit
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: requestor_electronic_signature
+      label: Requestor's Electronic Signature
+      hint: I certify these are legitimate church expenses
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: supervisor_approval_name_voucher
+      label: Supervisor Approval (Name)
+      hint: Ministry lead who approved this expense
+      type: text
+      options: []
+      required: true

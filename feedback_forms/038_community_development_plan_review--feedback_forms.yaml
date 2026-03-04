@@ -1,0 +1,65 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Development Plan Review
+    pages:
+      - id: 1
+        name: reviewer_name
+        label: Reviewer name
+        hint: Optional for anonymous feedback
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: plan_section
+        label: Plan section being reviewed
+        hint: e g transportation housing design
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: clarity_of_plan
+        label: Clarity of plan content
+        hint: Rate clarity from very clear to very unclear
+        type: select_one
+        options:
+          - Very clear
+          - Clear
+          - Somewhat unclear
+          - Very unclear
+        required: true
+      - id: 4
+        name: concerns
+        label: Concerns or potential issues
+        hint: Describe any issues identified
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: suggested_changes
+        label: Suggested changes or improvements
+        hint: Recommendations for revision
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: recommendation
+        label: Recommendation for approval
+        hint: Approve with changes or reject
+        type: select_one
+        options:
+          - Approve
+          - Approve with changes
+          - Do not approve
+        required: true

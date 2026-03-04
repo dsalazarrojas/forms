@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Phrase Elimination Survey
+    pages:
+    - id: 1
+      name: phrase_list
+      label: Select a phrase
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: retirement_reason
+      label: Why should this phrase be retired?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: alternative_phrase
+      label: Suggested alternatives
+      hint: null
+      type: select_multiple
+      options:
+      - Alternative 1
+      - Alternative 2
+      - Alternative 3
+      required: false
+    - id: 4
+      name: feedback
+      label: Add feedback
+      hint: null
+      type: select_one
+      options:
+      - Feedback 1
+      - Feedback 2
+      - Feedback 3
+      - Feedback 4
+      - Feedback 5
+      required: false
+    - id: 5
+      name: communication_concerns
+      label: How might we avoid miscommunication with this phrase in the future?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: additional_comments
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: retire_date
+      label: Suggested retire date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: retire_time
+      label: Suggested retire time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: retire_reason_date
+      label: Reason for suggested retire date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: retire_reason_time
+      label: Reason for suggested retire time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: confirm_retire
+      label: Are you sure you want to retire this phrase
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

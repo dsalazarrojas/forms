@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bank Customer Feedback Form
+    pages:
+    - id: 1
+      name: feedback_intro
+      label: Help Us Improve Your Banking Experience
+      hint: Your feedback helps us provide better service to all our customers.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_relationship_duration
+      label: How long have you been banking with us?
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 Year
+      - 1-3 Years
+      - 3-5 Years
+      - 5+ Years
+      required: true
+    - id: 3
+      name: primary_banking_channel
+      label: What is your primary way of banking?
+      hint: Select the one you use most often
+      type: select_one
+      options:
+      - Mobile App
+      - Online Banking (Desktop)
+      - In-Person / Branch Visits
+      - ATM Services
+      - Telephone Banking
+      required: true
+    - id: 4
+      name: satisfaction_metrics_header
+      label: -- Service Satisfaction Ratings --
+      hint: Rate from 1 (Very Poor) to 5 (Excellent)
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: mobile_app_satisfaction
+      label: Mobile App Ease of Use
+      hint: null
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - N/A
+      required: true
+    - id: 6
+      name: teller_service_satisfaction
+      label: Professionalism of Branch Tellers
+      hint: null
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - N/A
+      required: true
+    - id: 7
+      name: loan_officer_satisfaction
+      label: Knowledge of Loan/Mortgage Staff
+      hint: null
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - N/A
+      required: true
+    - id: 8
+      name: atm_reliability
+      label: ATM Accessibility and Reliability
+      hint: null
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - N/A
+      required: true
+    - id: 9
+      name: fee_fairness
+      label: Fairness of Fees and Interest Rates
+      hint: null
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      required: true
+    - id: 10
+      name: wait_times_header
+      label: -- Wait Times and Efficiency --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: branch_wait_time
+      label: Average wait time in branch
+      hint: null
+      type: select_one
+      options:
+      - Less than 5 mins
+      - 5-10 mins
+      - 10-20 mins
+      - More than 20 mins
+      - N/A
+      required: true
+    - id: 12
+      name: phone_wait_time
+      label: Average wait time on phone support
+      hint: null
+      type: select_one
+      options:
+      - Less than 2 mins
+      - 2-5 mins
+      - 5-10 mins
+      - More than 10 mins
+      - N/A
+      required: true
+    - id: 13
+      name: problem_resolution_header
+      label: -- Problem Resolution --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: issue_encountered
+      label: Have you encountered a problem in the last 6 months?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: issue_resolution_rating
+      label: If yes, how well was your issue resolved?
+      hint: null
+      type: select_one
+      options:
+      - Resolved quickly and to my satisfaction
+      - Resolved, but took too long
+      - Resolved, but not satisfied with outcome
+      - Not yet resolved
+      - N/A
+      required: false
+    - id: 16
+      name: improvement_feedback
+      label: What is the one thing we could do better?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: recommendation_score
+      label: How likely are you to recommend us to a friend?
+      hint: 0 = Not Likely, 10 = Extremely Likely
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: follow_up_permission
+      label: May we contact you to discuss your feedback?
+      hint: null
+      type: select_one
+      options:
+      - Yes - Contact me via email
+      - Yes - Contact me via phone
+      - No - I prefer not to be contacted
+      required: true
+    - id: 19
+      name: customer_email
+      label: Email Address
+      hint: If follow-up is requested
+      type: email
+      options: []
+      required: false

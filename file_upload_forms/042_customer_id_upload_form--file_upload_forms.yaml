@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer ID Upload Form
+    pages:
+    - id: 1
+      name: customer_id
+      label: customer_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: document_date
+      label: document_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: support_team
+      label: support_team
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: membership_status
+      label: membership_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 5
+      name: account_service
+      label: account_service
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: account_status
+      label: account_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: account_service_type
+      label: account_service_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: upload_file
+      label: upload_file
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: customer_type
+      label: customer_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: customer_service
+      label: customer_service
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

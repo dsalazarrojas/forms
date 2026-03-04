@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workforce Voice Participation Survey
+    pages:
+    - id: 1
+      name: intro
+      label: intro
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: engagement
+      label: engagement
+      hint: How would you rate your level of engagement at work?
+      type: select_one
+      options:
+      - '{''option1'': ''Engaged''}'
+      - '{''option2'': ''Not Engaged''}'
+      - '{''option3'': ''Somewhat Engaged''}'
+      required: false
+    - id: 3
+      name: communication
+      label: communication
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Very Good''}'
+      - '{''option2'': ''Good''}'
+      - '{''option3'': ''Fair''}'
+      - '{''option4'': ''Poor''}'
+      required: false
+    - id: 4
+      name: improvements
+      label: improvements
+      hint: What areas of improvement would you like to see at work?
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: feedback
+      label: feedback
+      hint: What do you want to tell us about your experience?
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false

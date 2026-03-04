@@ -1,0 +1,55 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Class Variety And Timing Survey
+    pages:
+    - id: 1
+      name: class_preferences
+      label: Class Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - None
+      required: true
+    - id: 2
+      name: class_timing
+      label: Class Timing
+      hint: null
+      type: select_one
+      options:
+      - 06:00
+      - 07:00
+      - 08:00
+      - 09:00
+      required: true
+    - id: 3
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: true

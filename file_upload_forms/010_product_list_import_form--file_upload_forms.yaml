@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product List Import Form
+    pages:
+    - id: 1
+      name: category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: product_name
+      label: Product Name
+      hint: Enter product name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: product_description
+      label: Product Description
+      hint: Briefly describe the product
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: product_price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: product_weight
+      label: Weight
+      hint: Product weight
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: product_image
+      label: Product Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: product_video
+      label: Video
+      hint: Product video link or URL
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: categories
+      label: Categories
+      hint: null
+      type: select_multiple
+      options:
+      - Apple
+      - Banana
+      - Orange
+      - Carrot
+      required: true
+    - id: 9
+      name: tags
+      label: Tags
+      hint: Select multiple tags
+      type: select_multiple
+      options:
+      - Apple
+      - Banana
+      - Orange
+      - Carrot
+      required: false
+    - id: 10
+      name: status
+      label: Status
+      hint: Select status
+      type: select_one
+      options:
+      - Published
+      - Draft
+      - Archived
+      required: true
+    - id: 11
+      name: date_added
+      label: Date Added
+      hint: Date Added
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: time_added
+      label: Time Added
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: user_added
+      label: User Added
+      hint: User who added the product
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: user_id
+      label: User ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: product_id
+      label: Product ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: import_date
+      label: Import Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: import_time
+      label: Import Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: import_user
+      label: Import User
+      hint: User who imported the product
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: import_user_id
+      label: Import User ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: import_tool
+      label: Import Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: import_note
+      label: Import Notes
+      hint: Additional notes about the product import
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: import_file
+      label: Imported File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: import_errors
+      label: Import Errors
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: import_status
+      label: Import Status
+      hint: Select status
+      type: select_one
+      options:
+      - Imported
+      - Exported
+      - Archived
+      required: false
+    - id: 25
+      name: import_error_message
+      label: Import Error Message
+      hint: Error message during import
+      type: text
+      options: []
+      required: false

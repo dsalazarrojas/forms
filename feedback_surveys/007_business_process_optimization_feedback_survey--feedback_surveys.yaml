@@ -1,0 +1,174 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Business Process Optimization Feedback Survey
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Your Name
+      hint: Full name of survey respondent
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: respondent_email
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: department
+      label: Department
+      hint: Your department
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: process_evaluated
+      label: Process Being Evaluated
+      hint: Which process are you providing feedback on
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: evaluation_date
+      label: Evaluation Date
+      hint: Date you are completing this survey
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: process_clarity
+      label: Clarity of Process Steps
+      hint: How clear are the process steps
+      type: select_one
+      options:
+      - Extremely Clear
+      - Very Clear
+      - Somewhat Clear
+      - Not Clear
+      - Very Unclear
+      required: true
+    - id: 7
+      name: process_efficiency
+      label: Process Efficiency
+      hint: Rate the overall efficiency
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs Improvement
+      - Poor
+      required: true
+    - id: 8
+      name: time_consumption
+      label: Time Consumption Level
+      hint: Is the process too time-consuming
+      type: select_one
+      options:
+      - Very Quick
+      - Quick
+      - Moderate
+      - Lengthy
+      - Very Lengthy
+      required: true
+    - id: 9
+      name: resource_requirements
+      label: Resource Requirements
+      hint: Are resources adequate for this process
+      type: select_one
+      options:
+      - Adequate
+      - More Than Adequate
+      - Barely Adequate
+      - Insufficient
+      - Severely Insufficient
+      required: true
+    - id: 10
+      name: bottlenecks_identified
+      label: Bottlenecks Identified
+      hint: Describe any bottlenecks in the process
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: improvement_suggestions
+      label: Improvement Suggestions
+      hint: What improvements would you recommend
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: automation_opportunities
+      label: Automation Opportunities
+      hint: What could be automated
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: stakeholder_communication
+      label: Stakeholder Communication Quality
+      hint: How well are stakeholders informed
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Poor
+      - Very Poor
+      required: true
+    - id: 14
+      name: process_documentation
+      label: Process Documentation Clarity
+      hint: Is documentation clear and complete
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Needs Work
+      - Poor
+      required: true
+    - id: 15
+      name: satisfaction_level
+      label: Overall Satisfaction
+      hint: Rate your overall satisfaction with the process
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 16
+      name: priority_improvements
+      label: Top 3 Priority Improvements
+      hint: List the most important improvements needed
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: timeline_urgency
+      label: Timeline Urgency
+      hint: How urgent are improvements needed
+      type: select_one
+      options:
+      - Immediate
+      - Very Soon
+      - Soon
+      - Not Urgent
+      required: false

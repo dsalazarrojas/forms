@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: River Friendly Farm Certification Application Form
+    pages:
+    - id: 1
+      name: farm_name
+      label: Farm Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: farm_type
+      label: Farm Type
+      hint: null
+      type: select_one
+      options:
+      - River
+      - Wetland
+      - Forest
+      - Other
+      required: false
+    - id: 6
+      name: farm_size
+      label: Farm Size (acres)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: farm_location
+      label: Farm Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: farm_water_source
+      label: Farm Water Source
+      hint: null
+      type: select_multiple
+      options:
+      - Groundwater
+      - Surface Water
+      - Pond
+      - Other
+      required: false
+    - id: 9
+      name: farm_practice
+      label: Farm Practices
+      hint: null
+      type: select_one
+      options:
+      - Conservation Tillage
+      - Organic
+      - Integrated
+      - Other
+      required: false
+    - id: 10
+      name: farm_certification_date
+      label: Certification Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: farm_certification_expiration
+      label: Certification Expiration
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: farm_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: certifying_agency
+      label: Certifying Agency
+      hint: null
+      type: select_one
+      options:
+      - River
+      - State
+      - Federal
+      - Other
+      required: false
+    - id: 14
+      name: farm_survey
+      label: Farm Survey
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 15
+      name: farm_survey_frequency
+      label: Frequency of Farm Surveys
+      hint: null
+      type: select_one
+      options:
+      - Annually
+      - Bi-annually
+      - Quarterly
+      - Other
+      required: false
+    - id: 16
+      name: farm_survey_date
+      label: Date of Last Survey
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: farm_surveyor
+      label: Surveyor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: farm_inspection
+      label: Farm Inspection
+      hint: null
+      type: select_one
+      options:
+      - Required
+      - Not Required
+      required: false
+    - id: 19
+      name: farm_inspection_frequency
+      label: Frequency of Inspection
+      hint: null
+      type: select_one
+      options:
+      - Annually
+      - Bi-annually
+      - Quarterly
+      - Other
+      required: false
+    - id: 20
+      name: farm_inspection_date
+      label: Date of Last Inspection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: farm_inspectionor
+      label: Inspectionor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: farm_certificate
+      label: Farm Certificate
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Expired
+      required: false
+    - id: 23
+      name: farm_certificate_number
+      label: Certificate Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: farm_certificate_date
+      label: Certificate Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: farm_certifying_agency
+      label: Certifying Agency
+      hint: null
+      type: text
+      options: []
+      required: false

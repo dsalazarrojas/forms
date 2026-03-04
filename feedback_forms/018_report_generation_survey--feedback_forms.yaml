@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Report Generation Survey
+    pages:
+    - id: 1
+      name: report_generation_survey
+      label: Report Generation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: feedback_form
+      label: Feedback Form
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: reporting_processes
+      label: Reporting Processes
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: report_clarity
+      label: Report Clarity
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: report_usefulness
+      label: Report Usefulness
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: future_improvement
+      label: Future Improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: reporting_frequency
+      label: Reporting Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: reporting_deadline
+      label: Reporting Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: reporting_channel
+      label: Reporting Channel
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

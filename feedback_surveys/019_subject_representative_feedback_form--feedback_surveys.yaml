@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Subject Representative Feedback Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Subject Representative Feedback Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: term
+      label: term
+      hint: null
+      type: select_one
+      options:
+      - January
+      - February
+      - March
+      - April
+      - May
+      - June
+      - July
+      - August
+      - September
+      - October
+      - November
+      - December
+      required: false
+    - id: 3
+      name: concern
+      label: concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: suggestion
+      label: suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: concern_details
+      label: concerns details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: suggestion_details
+      label: suggestions details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: contact email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

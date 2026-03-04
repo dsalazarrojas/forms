@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marketing Conference Feedback Survey
+    pages:
+    - id: 1
+      name: conference_attended
+      label: attended_conference
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: overall_experience
+      label: overall_experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: suggestions
+      label: suggestions
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tourist Feedback Form
+    pages:
+    - id: 1
+      name: tour_type
+      label: Tour Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_visited
+      label: Date Visited
+      hint: null
+      type: date
+      options: []
+      required: false

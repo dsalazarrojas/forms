@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Motivational Speaker Feedback Form
+    pages:
+    - id: 1
+      name: speaker_name
+      label: Speaker Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: speaker_performance
+      label: How would you rate the speaker's performance?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      required: false
+    - id: 3
+      name: feedback
+      label: What did you think about the speaker's talk?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: rating_1
+      label: '1'
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: rating_2
+      label: '2'
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: rating_3
+      label: '3'
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: rating_4
+      label: '4'
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: rating_5
+      label: '5'
+      hint: null
+      type: number
+      options: []
+      required: false

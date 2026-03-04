@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Course Listing Submission Form
+    pages:
+    - id: 1
+      name: page_1
+      label: Page 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: page_2
+      label: Class Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: page_3
+      label: Class Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: page_4
+      label: Submission Type
+      hint: Select submission type
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: page_5
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: page_6
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: page_7
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: page_8
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: page_9
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false

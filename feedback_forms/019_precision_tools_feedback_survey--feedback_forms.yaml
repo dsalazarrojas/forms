@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Precision Tools Feedback Survey
+    pages:
+    - id: 1
+      name: survey_header
+      label: Precision Tools Feedback Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: tool_used
+      label: tool_used
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''High-temperature oven''}'
+      - '{2: ''Microplate''}'
+      - '{3: ''Sample holder''}'
+      - '{4: ''Pipettes''}'
+      - '{5: ''Pipette tips''}'
+      - '{6: ''Heating block''}'
+      - '{7: ''Cooled surface''}'
+      - '{8: ''Heating elements''}'
+      - '{9: ''Precision balance''}'
+      - '{10: ''Balance scale''}'
+      - '{11: ''Other precision tool''}'
+      required: true
+    - id: 3
+      name: tool_used_which
+      label: Which tool did you use
+      hint: null
+      type: select_multiple
+      options:
+      - '{1: ''Yes''}'
+      - '{2: ''No''}'
+      - '{3: ''Not sure''}'
+      required: false
+    - id: 4
+      name: how_long
+      label: How long did you use the tool for
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: what_for
+      label: What was the purpose of your use
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: satisfaction
+      label: Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Very satisfied''}'
+      - '{2: ''Somewhat satisfied''}'
+      - '{3: ''Neutral''}'
+      - '{4: ''Somewhat dissatisfied''}'
+      - '{5: ''Very dissatisfied''}'
+      required: true
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

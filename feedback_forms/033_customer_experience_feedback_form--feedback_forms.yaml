@@ -1,0 +1,41 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Experience Feedback Form
+    pages:
+    - id: 1
+      name: customer_state
+      label: What state do you live in?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: customer_agent
+      label: Who provided you with your quote?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: customer_service_satisfied
+      label: How satisfied are you with the customer service?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: likely_to_refer
+      label: How likely are you to refer us to your family and friends?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

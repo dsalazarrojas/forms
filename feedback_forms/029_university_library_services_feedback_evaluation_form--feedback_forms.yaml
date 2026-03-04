@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: university_library_services_feedback_evaluation_form
+    pages:
+    - id: 1
+      name: form_header
+      label: What do you think of our library services
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: overall_satisfaction
+      label: Overall satisfaction with library services
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: staff_helpfulness
+      label: How helpful are the library staff
+      hint: null
+      type: select_one
+      options:
+      - very helpful
+      - somewhat helpful
+      - not helpful
+      required: false
+    - id: 4
+      name: resource_availability
+      label: Availability of library resources
+      hint: null
+      type: select_multiple
+      options:
+      - ebooks
+      - journals
+      - articles
+      required: false
+    - id: 5
+      name: service_quality
+      label: Quality of library services
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: user_suggestions
+      label: Do you have any suggestions for improving our services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_information
+      label: How do you want to be contacted
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: form_footer
+      label: None
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: form_footer
+      label: None
+      hint: null
+      type: note
+      options: []
+      required: false

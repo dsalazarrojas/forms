@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tenant Feedback Form
+    pages:
+    - id: 1
+      name: tenant_feedback_form_fields
+      label: Tenant Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: feedback_message
+      label: Your Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: feedback_rating
+      label: How was your experience
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 4
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_subject
+      label: Subject
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false

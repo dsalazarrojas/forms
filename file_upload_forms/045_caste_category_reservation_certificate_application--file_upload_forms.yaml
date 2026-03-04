@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Caste Category Reservation Certificate Application
+    pages:
+    - id: 1
+      name: application_header_section
+      label: -- Application Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: application_date
+      label: Application Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: reference_number
+      label: Reference or Application Number
+      hint: Assigned by office
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: applicant_information_section
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: full_name
+      label: Full Name
+      hint: As per official documents
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: true
+    - id: 8
+      name: national_id
+      label: National ID Number
+      hint: Aadhar, Voter ID, or Passport
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: address_information_section
+      label: -- Address Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: permanent_address
+      label: Permanent Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: city
+      label: City or Town
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: state_province
+      label: State or Union Territory
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: postal_code
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: category_selection_section
+      label: -- Caste Category Selection --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: caste_category
+      label: Caste Category
+      hint: Select your caste category
+      type: select_one
+      options:
+      - Scheduled Caste (SC)
+      - Scheduled Tribe (ST)
+      - Other Backward Classes (OBC)
+      - General
+      - Other
+      required: true
+    - id: 18
+      name: caste_name
+      label: Caste Name
+      hint: Full name of caste
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: religious_denomination
+      label: Religious Denomination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: supporting_documentation_section
+      label: -- Supporting Documentation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: birth_certificate
+      label: Upload Birth Certificate
+      hint: Proof of date and place of birth
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: identity_proof
+      label: Upload Identity Proof
+      hint: Aadhar, Voter ID, Passport, or similar
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: address_proof
+      label: Upload Address Proof
+      hint: Utility bill, rental agreement, or similar
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: supporting_affidavit
+      label: Affidavit or Declaration Form
+      hint: Signed affidavit from authorized official
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: certification_confirmation
+      label: I certify that the information provided is accurate
+      hint: null
+      type: select_one
+      options:
+      - Yes, I certify
+      - No, information is incomplete
+      required: true

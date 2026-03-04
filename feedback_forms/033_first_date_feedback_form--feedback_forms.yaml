@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: First Date Feedback Form
+    pages:
+    - id: 1
+      name: first_date_feedback_form
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: feedback_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: feedback_date_details
+      label: Date details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: overall_experience
+      label: Overall experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: would_recommend
+      label: Would recommend
+      hint: null
+      type: select_one
+      options:
+      - Would Recommend
+      - Would Not Recommend
+      required: true
+    - id: 6
+      name: why_didnt_remember
+      label: Why didn't we get along?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: feedback
+      label: Feedback
+      hint: null
+      type: select_multiple
+      options:
+      - Positive
+      - Negative
+      required: true
+    - id: 8
+      name: first_date_feedback_form_submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Clear
+      required: true

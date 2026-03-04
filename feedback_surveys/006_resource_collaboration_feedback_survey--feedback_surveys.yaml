@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Resource Collaboration Feedback Survey
+    pages:
+    - id: 1
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: feedback_rating
+      label: Feedback Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: collaboration_outcomes
+      label: Collaboration Outcomes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: collaboration_outcome_rating
+      label: Collaboration Outcomes Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: shared_resources
+      label: Shared Resources
+      hint: null
+      type: select_multiple
+      options:
+      - Resource A
+      - Resource B
+      - Resource C
+      required: false
+    - id: 6
+      name: team_feedback
+      label: Team Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: project_manager
+      label: Project Manager
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      required: false
+    - id: 9
+      name: project_manager_email
+      label: Project Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Complaint Form
+    pages:
+    - id: 1
+      name: complaint_type
+      label: Complaint Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_complaint
+      label: Customer Complaint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_complaint_details
+      label: Customer Complaint Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: resolution
+      label: Resolution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: resolved
+      label: Resolved
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: resolved_date
+      label: Resolved Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: resolved_time
+      label: Resolved Time
+      hint: null
+      type: time
+      options: []
+      required: false

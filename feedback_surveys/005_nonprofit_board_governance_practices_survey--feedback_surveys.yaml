@@ -1,0 +1,276 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nonprofit Board Governance Practices Survey
+    pages:
+    - id: 1
+      name: non_profit_organizational_chart
+      label: Non Profit Organizational Chart
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: board_size
+      label: Board Size
+      hint: Please select all that apply
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      - Other (Specify)
+      required: false
+    - id: 3
+      name: board_composition
+      label: Board Composition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: board_terms
+      label: Board Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: board_meeting_frequency
+      label: Board Meeting Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: board_meeting_length
+      label: Board Meeting Length
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: executive_committee_meeting_length
+      label: Executive Committee Meeting Length
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: board_meeting_agenda
+      label: Board Meeting Agenda
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: board_meeting_minutes
+      label: Board Meeting Minutes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: board_meeting_attendance
+      label: Board Meeting Attendance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: board_meeting_location
+      label: Board Meeting Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: board_meeting_start_time
+      label: Board Meeting Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: board_meeting_end_time
+      label: Board Meeting End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: board_meeting_agenda_item
+      label: Board Meeting Agenda Item
+      hint: What was the main topic of discussion during the meeting
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: executive_committee_meeting_agenda_item
+      label: Executive Committee Meeting Agenda Item
+      hint: What was the main topic of discussion during the meeting
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: board_meeting_minutes_attendance
+      label: Board Meeting Minutes Attendance
+      hint: How many attendees signed the meeting minutes?
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: board_meeting_documentation
+      label: Board Meeting Documentation
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - N/A
+      required: false
+    - id: 18
+      name: board_meeting_documentation_method
+      label: Board Meeting Documentation Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: board_meeting_documentation_format
+      label: Board Meeting Documentation Format
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: board_meeting_attendance_comments
+      label: Board Meeting Attendance Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: board_meeting_documentation_comments
+      label: Board Meeting Documentation Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: executive_committee_meeting_documentation
+      label: Executive Committee Meeting Documentation
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - N/A
+      required: false
+    - id: 23
+      name: executive_committee_meeting_documentation_format
+      label: Executive Committee Meeting Documentation Format
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: executive_committee_meeting_attendance_comments
+      label: Executive Committee Meeting Attendance Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: executive_committee_meeting_documentation_comments
+      label: Executive Committee Meeting Documentation Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: board_committee_meetings
+      label: Board Committee Meetings
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - N/A
+      required: false
+    - id: 27
+      name: executive_committee_committee_meetings
+      label: Executive Committee Meetings
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - N/A
+      required: false
+    - id: 28
+      name: executive_committee_meeting_frequency
+      label: Executive Committee Meeting Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: board_committee_meeting_frequency
+      label: Board Committee Meeting Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: board_committee_meeting_attendance
+      label: Board Committee Meeting Attendance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: executive_committee_meeting_agenda
+      label: Executive Committee Meeting Agenda
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: board_committee_meeting_agenda
+      label: Board Committee Meeting Agenda
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: board_committee_meeting_minutes_attendance
+      label: Board Committee Meeting Minutes Attendance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: board_committee_meeting_documentation
+      label: Board Committee Meeting Documentation
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - N/A
+      required: false
+    - id: 35
+      name: board_committee_meeting_documentation_format
+      label: Board Committee Meeting Documentation Format
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: board_committee_meeting_documentation_comments
+      label: Board Committee Meeting Documentation Comments
+      hint: null
+      type: text
+      options: []
+      required: false

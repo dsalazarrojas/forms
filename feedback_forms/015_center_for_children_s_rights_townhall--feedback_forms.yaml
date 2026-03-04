@@ -1,0 +1,157 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Center For Children's Rights Townhall
+    pages:
+      - id: 1
+        name: townhall_info_header
+        label: -- Townhall Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: date_of_townhall
+        label: Date of Townhall
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: attendee_name
+        label: Your Full Name
+        hint: Optional - you may choose to remain anonymous
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: townhall_discovery_source
+        label: How did you hear about this townhall
+        hint: null
+        type: select_one
+        options:
+          - Social Media
+          - Email
+          - Community Group
+          - Word of Mouth
+          - Other
+        required: true
+      - id: 5
+        name: presentation_feedback_header
+        label: -- Feedback on Presentations --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: advocacy_goals_clarity
+        label: Clarity of Advocacy Goals
+        hint: How clear were the goals presented by the Urban League
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 7
+        name: children_rights_explanation
+        label: Presentation on Children's Rights
+        hint: How well did the speakers explain current children's rights issues
+        type: select_one
+        options:
+          - Very well
+          - Somewhat well
+          - Not very well
+        required: true
+      - id: 8
+        name: discussion_participation_header
+        label: -- Discussion and Participation --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 9
+        name: qa_time_adequacy
+        label: Adequacy of Q and A Time
+        hint: Did you feel there was enough time for participant questions
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Somewhat
+        required: true
+      - id: 10
+        name: most_important_topic
+        label: Most Important Topic Discussed
+        hint: What was the most impactful or relevant topic for you
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: advocacy_priority_header
+        label: -- Advocacy and Social Justice --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: issues_to_prioritize
+        label: Issues to Prioritize
+        hint: Which areas should the Center for Children's Rights focus on
+        type: select_multiple
+        options:
+          - Education Equity
+          - Healthcare Access
+          - Juvenile Justice Reform
+          - Foster Care Support
+          - Community Safety
+        required: true
+      - id: 13
+        name: future_involvement_header
+        label: -- Future Involvement --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: future_advocacy_interest
+        label: Interest in Future Advocacy Events
+        hint: Would you like to stay involved with the Center
+        type: select_one
+        options:
+          - Yes - Add me to the list
+          - No
+        required: true
+      - id: 15
+        name: attendee_email
+        label: Your Email Address
+        hint: Required if you wish to be contacted for future events
+        type: email
+        options: []
+        required: false
+      - id: 16
+        name: additional_feedback_header
+        label: -- Additional Feedback --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 17
+        name: general_comments_suggestions
+        label: Comments or Suggestions
+        hint: Please share any other thoughts for the Center
+        type: text
+        options: []
+        required: false

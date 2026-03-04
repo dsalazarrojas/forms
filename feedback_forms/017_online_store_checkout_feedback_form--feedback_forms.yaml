@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: online-store-checkout-feedback-form
+    pages:
+    - id: 1
+      name: order_number
+      label: Order Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: item_purchased
+      label: Item Purchased
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: checkout_date
+      label: Checkout Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: rating
+      label: Rating
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Music Lesson Feedback Form
+    pages:
+    - id: 1
+      name: music_lesson_feedback_form_1
+      label: What was the most enjoyable part of the lesson?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: music_lesson_feedback_form_2
+      label: What was the most challenging part of the lesson?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: music_lesson_feedback_form_3
+      label: How would you rate the music teacher?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 4
+      name: music_lesson_feedback_form_4
+      label: Do you want to continue taking music lessons with this teacher?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: music_lesson_feedback_form_5
+      label: Additional comments or feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: music_lesson_feedback_form_6
+      label: How long were you taking music lessons before this lesson?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: music_lesson_feedback_form_7
+      label: What instrument do you play?
+      hint: null
+      type: select_multiple
+      options:
+      - Piano
+      - Guitar
+      - Drums
+      - Violin
+      required: false
+    - id: 8
+      name: music_lesson_feedback_form_8
+      label: Email address
+      hint: your@example.com
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: music_lesson_feedback_form_9
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false

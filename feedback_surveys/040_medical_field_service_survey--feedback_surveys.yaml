@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: medical_field_service_survey
+    pages:
+    - id: 1
+      name: patient_survey
+      label: Patient Survey
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: provider_survey
+      label: Provider Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: feedback_rating
+      label: What did you enjoy most about your visit?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      required: false
+    - id: 4
+      name: provider_feedback
+      label: What did you dislike most about your visit?
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      required: false

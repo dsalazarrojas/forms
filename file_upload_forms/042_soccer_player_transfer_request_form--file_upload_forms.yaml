@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Soccer Player Transfer Request Form
+    pages:
+    - id: 1
+      name: player_details
+      label: Player Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: transfer_info
+      label: Transfer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: transfer_date
+      label: Transfer Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: transfer_type
+      label: Transfer Type
+      hint: null
+      type: select_one
+      options:
+      - Player Transfer
+      - Loan
+      - Free Agent
+      required: false
+    - id: 5
+      name: player_status
+      label: Player Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Suspended
+      - Retired
+      required: false
+    - id: 6
+      name: transfer_fee
+      label: Transfer Fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: transfer_details
+      label: Transfer Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: club_name
+      label: Club Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: club_location
+      label: Club Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: player_name
+      label: Player Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: transfer_date
+      label: Transfer Date
+      hint: null
+      type: date
+      options: []
+      required: false

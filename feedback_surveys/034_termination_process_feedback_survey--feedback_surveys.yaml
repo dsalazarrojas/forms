@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Termination Process Feedback Survey
+    pages:
+    - id: 1
+      name: termination_process_form
+      label: Termination Process Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_number
+      label: Employee Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: reason_for_leaving
+      label: Reason for Leaving
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': ''Redundancy''}'
+      - '{''id'': 2, ''text'': ''Career Development Opportunities''}'
+      - '{''id'': 3, ''text'': ''Career Change''}'
+      required: false
+    - id: 4
+      name: notice_period
+      label: Notice Period
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''text'': ''Less than 1 week''}'
+      - '{''id'': 2, ''text'': ''1 week - 2 weeks''}'
+      - '{''id'': 3, ''text'': ''2 - 6 weeks''}'
+      - '{''id'': 4, ''text'': ''More than 6 weeks''}'
+      required: false
+    - id: 5
+      name: notice_date
+      label: Notice Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: termination_date
+      label: Termination Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: notice_period_length
+      label: Notice Period Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: reason_for_leaving_other
+      label: Reason for Leaving Other
+      hint: Please specify
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: manager_comments
+      label: Manager Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: employee_comments
+      label: Employee Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: termination_method
+      label: Termination Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': ''Voluntary''}'
+      - '{''id'': 2, ''text'': ''Involuntary''}'
+      required: false
+    - id: 12
+      name: prophets
+      label: Prophets
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: managers
+      label: Managers
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''text'': ''Manager 1''}'
+      - '{''id'': 2, ''text'': ''Manager 2''}'
+      - '{''id'': 3, ''text'': ''Manager 3''}'
+      required: false

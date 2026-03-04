@@ -1,0 +1,108 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Condo Automation Feedback Survey
+    pages:
+      - id: 1
+        name: resident_name
+        label: Resident name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: unit_number
+        label: Unit number
+        hint: Apartment or unit identifier
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: system_usability
+        label: System usability rating
+        hint: How easy is the automation to use
+        type: select_one
+        options:
+          - Very easy
+          - Easy
+          - Neutral
+          - Difficult
+          - Very difficult
+        required: true
+      - id: 4
+        name: feature_usefulness
+        label: Most useful features
+        hint: Select up to three features
+        type: select_multiple
+        options:
+          - Lighting control
+          - Climate control
+          - Security monitoring
+          - Energy reports
+          - Remote access
+        required: false
+      - id: 5
+        name: reliability
+        label: Reliability rating
+        hint: Frequency of failures or issues
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 6
+        name: support_experience
+        label: Support experience rating
+        hint: Vendor or building support quality
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+        required: false
+      - id: 7
+        name: desired_improvements
+        label: Desired improvements
+        hint: Features or fixes residents want
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: privacy_concerns
+        label: Any privacy concerns
+        hint: Describe any data or privacy concerns
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: recommendation_likelihood
+        label: Likelihood to recommend system
+        hint: Net promoter style question
+        type: select_one
+        options:
+          - Very likely
+          - Likely
+          - Unlikely
+          - Very unlikely
+        required: false
+      - id: 10
+        name: additional_comments
+        label: Additional comments
+        hint: Any other feedback for the management
+        type: text
+        options: []
+        required: false

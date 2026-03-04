@@ -1,0 +1,176 @@
+inputSchema:
+  type: object
+  properties:
+    title: Net User Feedback Survey
+    pages:
+    - id: 1
+      name: user_email
+      label: user_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 2
+      name: net_service_provider
+      label: Net Service Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: experience_level
+      label: Experience Level
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Dissatisfied''}'
+      - '{''label'': ''Somewhat Dissatisfied''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat Satisfied''}'
+      - '{''label'': ''Very Satisfied''}'
+      required: false
+    - id: 4
+      name: issue_encountered
+      label: Issue Encountered
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: suggestion
+      label: Suggestion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: net_service_improvement_area
+      label: Net Service Improvement Area
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Website Navigation''}'
+      - '{''label'': ''Search Functionality''}'
+      - '{''label'': ''Search Results Display''}'
+      - '{''label'': ''Search Help''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 10
+      name: net_service_improvement_priority
+      label: Net Service Improvement Priority
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''High''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Low''}'
+      required: false
+    - id: 11
+      name: contact_us
+      label: Contact Us
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: thank_you_message
+      label: Thank You
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: net_service_provider_email
+      label: Net Service Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: issue_frequency
+      label: Issue Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Never''}'
+      - '{''label'': ''Rarely''}'
+      - '{''label'': ''Occasionally''}'
+      - '{''label'': ''Often''}'
+      - '{''label'': ''Always''}'
+      required: false
+    - id: 17
+      name: how_many_issues
+      label: How Many Issues
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''1-5''}'
+      - '{''label'': ''6-10''}'
+      - '{''label'': ''11-15''}'
+      - '{''label'': ''16+''}'
+      required: false
+    - id: 18
+      name: issue_type
+      label: Issue Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Technical Issues''}'
+      - '{''label'': ''Content Issues''}'
+      - '{''label'': ''Design Issues''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 19
+      name: issue_cause
+      label: Issue Cause
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''User Error''}'
+      - '{''label'': ''Network Service Provider''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 20
+      name: net_service_provider_contact
+      label: Net Service Provider Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false

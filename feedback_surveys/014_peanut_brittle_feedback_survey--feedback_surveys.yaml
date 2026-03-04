@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Peanut Brittle Feedback Survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: What is your name?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: product_purchased
+      label: product_purchased
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''peanut_brittle''}'
+      - other
+      required: false
+    - id: 3
+      name: where_to_buy
+      label: where_to_buy
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''grocery_store''}'
+      - other
+      - specialty_store
+      - online
+      - farmer_market
+      - restaurant
+      required: false
+    - id: 4
+      name: how_often
+      label: how_often
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: rating
+      label: rate_product
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: improve
+      label: improve
+      hint: null
+      type: select_one
+      options:
+      - None
+      - packaging
+      - taste
+      - quality
+      - price
+      - availability
+      required: false
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: contact_us
+      label: contact_us
+      hint: null
+      type: email
+      options: []
+      required: false

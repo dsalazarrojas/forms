@@ -1,0 +1,439 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Company Culture Strength Quiz
+    pages:
+      - id: 1
+        name: employee_name
+        label: Your Name
+        hint: Optional - anonymous responses accepted
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: employee_email
+        label: Email Address
+        hint: Optional - for follow-up
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: department
+        label: Department
+        hint: Your department
+        type: select_one
+        options:
+          - Executive
+          - Management
+          - Sales
+          - Marketing
+          - Engineering
+          - Product
+          - Operations
+          - Finance
+          - Human Resources
+          - Customer Support
+          - Other
+        required: true
+      - id: 4
+        name: tenure
+        label: How long have you been with the company?
+        hint: Length of employment
+        type: select_one
+        options:
+          - Less than 6 months
+          - 6 months - 1 year
+          - 1-2 years
+          - 2-5 years
+          - 5-10 years
+          - Over 10 years
+        required: true
+      - id: 5
+        name: location
+        label: Work Location
+        hint: Where do you work?
+        type: select_one
+        options:
+          - Headquarters
+          - Regional Office
+          - Remote
+          - Hybrid
+        required: true
+      - id: 6
+        name: section_communication
+        label: -- Communication --
+        hint: Rate the following statements
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: communication_openness
+        label: People feel comfortable speaking up in this organization
+        hint: Open communication
+        type: select_one
+        options:
+          - Strongly Disagree
+          - Disagree
+          - Neutral
+          - Agree
+          - Strongly Agree
+        required: true
+      - id: 8
+        name: information_sharing
+        label: Information is shared openly and transparently
+        hint: Transparency
+        type: select_one
+        options:
+          - Strongly Disagree
+          - Disagree
+          - Neutral
+          - Agree
+          - Strongly Agree
+        required: true
+      - id: 9
+        name: feedback_culture
+        label: Constructive feedback is encouraged and acted upon
+        hint: Feedback environment
+        type: select_one
+        options:
+          - Strongly Disagree
+          - Disagree
+          - Neutral
+          - Agree
+          - Strongly Agree
+        required: true
+      - id: 10
+        name: section_collaboration
+        label: -- Collaboration --
+        hint: Rate the following statements
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: team_collaboration
+        label: Teams collaborate effectively across departments
+        hint: Cross-functional work
+        type: select_one
+        options:
+          - Strongly Disagree
+          - Disagree
+          - Neutral
+          - Agree
+          - Strongly Agree
+        required: true
+      - id: 12
+        name: knowledge_sharing
+        label: Knowledge and expertise are freely shared
+        hint: Knowledge transfer
+        type: select_one
+        options:
+          - Strongly Disagree
+          - Disagree
+          - Neutral
+          - Agree
+          - Strongly Agree
+        required: true
+      - id: 13
+        name: silo_mentality
+        label: There is minimal silo mentality between teams
+        hint: Silo reduction
+        type: select_one
+        options:
+          - Strongly Disagree
+          - Disagree
+          - Neutral
+          - Agree
+          - Strongly Agree
+        required: true
+      - id: 14
+        name: section_values
+        label: -- Values and Purpose --
+        hint: Rate the following statements
+        type: note
+        options: []
+        required: false
+      - id: 15
+        name: values_alignment
+        label: My personal values align with company values
+        hint: Values fit
+        type: select_one
+        options:
+          - Strongly Disagree
+          - Disagree
+          - Neutral
+          - Agree
+          - Strongly Agree
+        required: true
+      - id: 16
+        name: values_lived
+        label: Company values are consistently demonstrated in daily work
+        hint: Living the values
+        type: select_one
+        options:
+          - Strongly Disagree
+          - Disagree
+          - Neutral
+          - Agree
+          - Strongly Agree
+        required: true
+      - id: 17
+        name: purpose_clarity
+        label: I understand how my work contributes to company purpose
+        hint: Purpose connection
+        type: select_one
+        options:
+          - Strongly Disagree
+          - Disagree
+          - Neutral
+          - Agree
+          - Strongly Agree
+        required: true
+      - id: 18
+        name: section_recognition
+        label: -- Recognition and Growth --
+        hint: Rate the following statements
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: recognition_frequency
+        label: Good work is recognized and appreciated
+        hint: Recognition
+        type: select_one
+        options:
+          - Strongly Disagree
+          - Disagree
+          - Neutral
+          - Agree
+          - Strongly Agree
+        required: true
+      - id: 20
+        name: growth_opportunities
+        label: There are opportunities for professional growth
+        hint: Career development
+        type: select_one
+        options:
+          - Strongly Disagree
+          - Disagree
+          - Neutral
+          - Agree
+          - Strongly Agree
+        required: true
+      - id: 21
+        name: promotion_fairness
+        label: Promotions are handled fairly and transparently
+        hint: Fair advancement
+        type: select_one
+        options:
+          - Strongly Disagree
+          - Disagree
+          - Neutral
+          - Agree
+          - Strongly Agree
+        required: true
+      - id: 22
+        name: section_wellbeing
+        label: -- Well-being and Balance --
+        hint: Rate the following statements
+        type: note
+        options: []
+        required: false
+      - id: 23
+        name: work_life_balance
+        label: I have a healthy work-life balance
+        hint: Balance
+        type: select_one
+        options:
+          - Strongly Disagree
+          - Disagree
+          - Neutral
+          - Agree
+          - Strongly Agree
+        required: true
+      - id: 24
+        name: stress_management
+        label: Workload and stress levels are manageable
+        hint: Stress levels
+        type: select_one
+        options:
+          - Strongly Disagree
+          - Disagree
+          - Neutral
+          - Agree
+          - Strongly Agree
+        required: true
+      - id: 25
+        name: psychological_safety
+        label: I feel psychologically safe at work
+        hint: Safety to be yourself
+        type: select_one
+        options:
+          - Strongly Disagree
+          - Disagree
+          - Neutral
+          - Agree
+          - Strongly Agree
+        required: true
+      - id: 26
+        name: section_leadership
+        label: -- Leadership --
+        hint: Rate the following statements
+        type: note
+        options: []
+        required: false
+      - id: 27
+        name: leadership_trust
+        label: I trust senior leadership to make good decisions
+        hint: Trust in leadership
+        type: select_one
+        options:
+          - Strongly Disagree
+          - Disagree
+          - Neutral
+          - Agree
+          - Strongly Agree
+        required: true
+      - id: 28
+        name: manager_support
+        label: My manager supports my success and well-being
+        hint: Manager support
+        type: select_one
+        options:
+          - Strongly Disagree
+          - Disagree
+          - Neutral
+          - Agree
+          - Strongly Agree
+        required: true
+      - id: 29
+        name: vision_clarity
+        label: Leadership has a clear vision for the future
+        hint: Vision clarity
+        type: select_one
+        options:
+          - Strongly Disagree
+          - Disagree
+          - Neutral
+          - Agree
+          - Strongly Agree
+        required: true
+      - id: 30
+        name: section_inclusion
+        label: -- Diversity and Inclusion --
+        hint: Rate the following statements
+        type: note
+        options: []
+        required: false
+      - id: 31
+        name: inclusive_environment
+        label: I feel included and valued regardless of my background
+        hint: Inclusion
+        type: select_one
+        options:
+          - Strongly Disagree
+          - Disagree
+          - Neutral
+          - Agree
+          - Strongly Agree
+        required: true
+      - id: 32
+        name: diverse_perspectives
+        label: Diverse perspectives are sought and respected
+        hint: Diversity appreciation
+        type: select_one
+        options:
+          - Strongly Disagree
+          - Disagree
+          - Neutral
+          - Agree
+          - Strongly Agree
+        required: true
+      - id: 33
+        name: section_overall
+        label: -- Overall Assessment --
+        hint: Final questions
+        type: note
+        options: []
+        required: false
+      - id: 34
+        name: recommend_employer
+        label: I would recommend this company as a great place to work
+        hint: Recommendation
+        type: select_one
+        options:
+          - Strongly Disagree
+          - Disagree
+          - Neutral
+          - Agree
+          - Strongly Agree
+        required: true
+      - id: 35
+        name: plan_to_stay
+        label: I see myself working here in 2 years
+        hint: Retention
+        type: select_one
+        options:
+          - Strongly Disagree
+          - Disagree
+          - Neutral
+          - Agree
+          - Strongly Agree
+        required: true
+      - id: 36
+        name: culture_rating
+        label: Overall, how would you rate our company culture?
+        hint: Overall rating
+        type: select_one
+        options:
+          - Poor
+          - Fair
+          - Good
+          - Very Good
+          - Excellent
+        required: true
+      - id: 37
+        name: culture_strengths
+        label: What are the biggest strengths of our culture?
+        hint: Positive aspects
+        type: text
+        options: []
+        required: false
+      - id: 38
+        name: culture_improvements
+        label: What areas need improvement?
+        hint: Areas to work on
+        type: text
+        options: []
+        required: false
+      - id: 39
+        name: culture_suggestions
+        label: What specific changes would improve our culture?
+        hint: Suggestions
+        type: text
+        options: []
+        required: false
+      - id: 40
+        name: additional_comments
+        label: Any additional comments?
+        hint: Your thoughts
+        type: text
+        options: []
+        required: false
+      - id: 41
+        name: quiz_date
+        label: Quiz Completion Date
+        hint: Today's date
+        type: date
+        options: []
+        required: true

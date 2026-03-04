@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Zumba Feedback Form
+    pages:
+    - id: 1
+      name: class_name
+      label: ClassName
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_offered
+      label: DateOffered
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: class_type
+      label: ClassType
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: student_feedback
+      label: StudentFeedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: instructor_name
+      label: InstructorName
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: instructor_id
+      label: InstructorID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false

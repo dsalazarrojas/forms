@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Representation Firm Feedback Form
+    pages:
+    - id: 1
+      name: form_title
+      label: form_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: firm_rating
+      label: firm_rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: firm_name
+      label: firm_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: experience
+      label: experience
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: service_rating
+      label: service_rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_user
+      label: assigned_user
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''chatjimmy''}'
+      - '{''label'': ''other''}'
+      required: false
+    - id: 10
+      name: submitted
+      label: submitted
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''submitted''}'
+      - '{''label'': ''not_submitted''}'
+      required: true
+    - id: 11
+      name: comments
+      label: comments
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''comments1''}'
+      - '{''label'': ''comments2''}'
+      - '{''label'': ''comments3''}'
+      required: false
+    - id: 12
+      name: submit
+      label: submit
+      hint: null
+      type: note
+      options: []
+      required: false

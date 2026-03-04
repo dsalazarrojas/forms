@@ -1,0 +1,96 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: vehicle_issues_report_form
+    pages:
+    - id: 1
+      name: vehicle_details
+      label: Vehicle Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: problem_description
+      label: Problem Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: problem_type
+      label: Problem Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Problem with Vehicle'', ''value'': ''Problem with
+        Vehicle''}'
+      - '{''id'': 2, ''label'': ''Problem with Engine'', ''value'': ''Problem with
+        Engine''}'
+      - '{''id'': 3, ''label'': ''Problem with Transmission'', ''value'': ''Problem
+        with Transmission''}'
+      required: false
+    - id: 4
+      name: problem_date
+      label: Problem Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: problem_time
+      label: Problem Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: vehicle_condition
+      label: Vehicle Condition
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Good'', ''value'': ''Good''}'
+      - '{''id'': 2, ''label'': ''Fair'', ''value'': ''Fair''}'
+      - '{''id'': 3, ''label'': ''Poor'', ''value'': ''Poor''}'
+      - '{''id'': 4, ''label'': ''Bad'', ''value'': ''Bad''}'
+      required: false
+    - id: 7
+      name: vehicle_problem
+      label: Vehicle Problem
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: vehicle_problem_2
+      label: Vehicle Problem 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: vehicle_problem_3
+      label: Vehicle Problem 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: vehicle_repair_history
+      label: Vehicle Repair History
+      hint: null
+      type: text
+      options: []
+      required: false

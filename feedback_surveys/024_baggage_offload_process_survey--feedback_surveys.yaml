@@ -1,0 +1,227 @@
+inputSchema:
+  type: object
+  properties:
+    title: Baggage Offload Process Survey
+    pages:
+    - id: 1
+      name: section_intro
+      label: -- Baggage Offload Process Feedback --
+      hint: Help us improve our baggage handling
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: respondent_role
+      Label: Your Role
+      hint: Baggage Handler, Supervisor, Manager, etc.
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: survey_date
+      Label: Survey Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: section_process
+      label: -- Process Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: offload_frequency
+      Label: How Often Do You Participate in Baggage Offload?
+      hint: null
+      type: select_one
+      options:
+      - Multiple times daily
+      - Daily
+      - Several times per week
+      - Weekly
+      - Occasionally
+      required: true
+    - id: 7
+      name: process_clarity
+      Label: Baggage Offload Process Instructions Are Clear
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly Disagree
+      required: true
+    - id: 8
+      name: equipment_adequacy
+      Label: Equipment Is Adequate for Offloading
+      hint: Carts, belts, tools, etc.
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly Disagree
+      required: true
+    - id: 9
+      name: time_efficiency
+      Label: Time Allocated for Baggage Offload Is Sufficient
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly Disagree
+      required: true
+    - id: 10
+      name: section_safety
+      label: -- Safety Concerns --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: safety_protocol_clarity
+      Label: Safety Protocols Are Clear and Followed
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly Disagree
+      required: true
+    - id: 12
+      name: accident_incidents
+      Label: Have You Witnessed Safety Issues or Incidents?
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      required: true
+    - id: 13
+      name: incident_description
+      Label: Please Describe Any Safety Concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_training
+      label: -- Training and Support --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: training_adequacy
+      Label: Training Received for Baggage Offload
+      hint: null
+      type: select_one
+      options:
+      - Comprehensive
+      - Adequate
+      - Minimal
+      - None
+      required: true
+    - id: 16
+      name: ongoing_support
+      Label: Ongoing Support and Feedback Provided
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 17
+      name: section_efficiency
+      label: -- Process Efficiency --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: bottlenecks
+      Label: Main Bottlenecks or Inefficiencies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: process_improvements
+      Label: Suggestions for Process Improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: section_tools
+      label: -- Tools and Technology --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: technology_helpfulness
+      Label: Technology Tools Help Efficiency
+      hint: Baggage tracking systems, etc.
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly Disagree
+      required: false
+    - id: 22
+      name: technology_issues
+      Label: Technical Issues Encountered
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: section_overall
+      label: -- Overall Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: overall_satisfaction
+      Label: Overall Satisfaction With Baggage Offload Process
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 25
+      name: survey_completion
+      Label: Thank You for Completing This Survey
+      hint: Your feedback helps us improve
+      type: select_one
+      options:
+      - Survey Complete
+      - Other
+      required: true

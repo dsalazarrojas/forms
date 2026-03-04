@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Retention Strategy Feedback Questionnaire
+    pages:
+    - id: 1
+      name: page_1
+      label: Customer Retention Strategy Feedback Questionnaire
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_retention_strategy_feedback
+      label: What is your role in the company?
+      hint: null
+      type: select_one
+      options:
+      - Customer Support Team
+      - Account Manager
+      - Sales Representative
+      - Management
+      - Other
+      required: false
+    - id: 3
+      name: customer_retention_strategy
+      label: Which department do you work with?
+      hint: null
+      type: select_multiple
+      options:
+      - Customer Support
+      - Marketing
+      - Sales
+      - Management
+      required: false
+    - id: 4
+      name: customer_retention_strategy_feedback
+      label: What is your feedback on our customer retention strategy?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

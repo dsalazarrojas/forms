@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gathering Feedback Form
+    pages:
+    - id: 1
+      name: form_page_1
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: form_page_2
+      label: feedback
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: form_page_3
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_page_4
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false

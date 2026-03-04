@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: digital_event_badge_prototype_application
+    pages:
+    - id: 1
+      name: event_title
+      label: Event Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: organizer_name
+      label: Organizer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_start_date
+      label: Event Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: event_end_date
+      label: Event End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: attendee_email
+      label: Attendee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: badge_type
+      label: Badge Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: badge_image
+      label: Badge Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: attendee_name
+      label: Attendee Name
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: Power Grid Inspection Form
+    pages:
+    - id: 1
+      name: grid_asset
+      label: grid_asset
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: findings
+      label: findings
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: photos
+      label: photos
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: follow_up_tasks
+      label: follow_up_tasks
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: maintenance_schedule
+      label: maintenance_schedule
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

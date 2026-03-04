@@ -1,0 +1,219 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lip Sync Performance Feedback
+    pages:
+    - id: 1
+      name: sync_rating
+      label: Performance Synchronization
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: stage_presence
+      label: Stage Presence
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: creativity
+      label: Creativity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: rating_comments
+      label: Rating Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: select_one
+      label: Performance to Compare
+      hint: null
+      type: select_one
+      options:
+      - 1. Performance 1
+      - 2. Performance 2
+      - 3. Performance 3
+      required: true
+    - id: 8
+      name: select_multiple
+      label: Performances to Compare
+      hint: null
+      type: select_multiple
+      options:
+      - 1. Performance 1
+      - 2. Performance 2
+      - 3. Performance 3
+      required: true
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: select_one_email
+      label: Email Performance
+      hint: null
+      type: select_one
+      options:
+      - 1. Performance 1
+      - 2. Performance 2
+      - 3. Performance 3
+      required: true
+    - id: 12
+      name: select_multiple_email
+      label: Performances to Email
+      hint: null
+      type: select_multiple
+      options:
+      - 1. Performance 1
+      - 2. Performance 2
+      - 3. Performance 3
+      required: true
+    - id: 13
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: date_range
+      label: Date Range
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: time_range
+      label: Time Range
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: select_one_time
+      label: Time of Day
+      hint: null
+      type: select_one
+      options:
+      - 1. Morning
+      - 2. Afternoon
+      - 3. Evening
+      required: true
+    - id: 18
+      name: select_multiple_time
+      label: Performances to Time
+      hint: null
+      type: select_multiple
+      options:
+      - 1. Performance 1
+      - 2. Performance 2
+      - 3. Performance 3
+      required: true
+    - id: 19
+      name: select_one_date
+      label: Performance Date
+      hint: null
+      type: select_one
+      options:
+      - 1. Performance 1
+      - 2. Performance 2
+      - 3. Performance 3
+      required: true
+    - id: 20
+      name: select_multiple_date
+      label: Performances Dates
+      hint: null
+      type: select_multiple
+      options:
+      - 1. Performance 1
+      - 2. Performance 2
+      - 3. Performance 3
+      required: true
+    - id: 21
+      name: select_one_date_range
+      label: Date Range
+      hint: null
+      type: select_one
+      options:
+      - 1. Performance 1
+      - 2. Performance 2
+      - 3. Performance 3
+      required: true
+    - id: 22
+      name: select_multiple_date_range
+      label: Performances Date Ranges
+      hint: null
+      type: select_multiple
+      options:
+      - 1. Performance 1
+      - 2. Performance 2
+      - 3. Performance 3
+      required: true
+    - id: 23
+      name: select_one_time_range
+      label: Time Range
+      hint: null
+      type: select_one
+      options:
+      - 1. Performance 1
+      - 2. Performance 2
+      - 3. Performance 3
+      required: true
+    - id: 24
+      name: select_multiple_time_range
+      label: Performances Time Ranges
+      hint: null
+      type: select_multiple
+      options:
+      - 1. Performance 1
+      - 2. Performance 2
+      - 3. Performance 3
+      required: true
+    - id: 25
+      name: select_one_phone
+      label: Performance to Phone
+      hint: null
+      type: select_one
+      options:
+      - 1. Performance 1
+      - 2. Performance 2
+      - 3. Performance 3
+      required: true

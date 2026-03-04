@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: ROC Pass Feedback Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: question1
+      label: What is your role in your organization?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Customer Support''}'
+      - '{''value'': ''Operations''}'
+      - '{''value'': ''Management''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 6
+      name: question2
+      label: Do you use the service?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      - '{''value'': ''Sometimes''}'
+      required: false
+    - id: 7
+      name: question3
+      label: What do you like most about the service?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: question4
+      label: What do you dislike most about the service?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: question5
+      label: Have you experienced any issues with the service?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 10
+      name: question6
+      label: If yes, what issue did you experience?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: question7
+      label: How likely are you to recommend the service to a friend or colleague?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Not at all''}'
+      - '{''value'': ''Not very likely''}'
+      - '{''value'': ''Somewhat likely''}'
+      - '{''value'': ''Very likely''}'
+      - '{''value'': ''Absolutely likely''}'
+      required: false

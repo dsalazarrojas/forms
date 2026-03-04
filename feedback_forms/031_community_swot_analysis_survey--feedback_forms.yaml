@@ -1,0 +1,291 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Community SWOT Analysis Survey
+    pages:
+      - id: 1
+        name: respondent_info
+        label: Respondent Information
+        hint: Your details
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: first_name
+        label: First Name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: last_name
+        label: Last Name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: email
+        label: Email Address
+        hint: For follow-up
+        type: email
+        options: []
+        required: false
+      - id: 5
+        name: organization
+        label: Organization or Group
+        hint: If applicable
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: role
+        label: Your Role in the Community
+        hint: null
+        type: select_one
+        options:
+        - Resident
+        - Business Owner
+        - Community Leader
+        - Volunteer
+        - Local Government
+        - Nonprofit Representative
+        - Other
+        required: true
+      - id: 7
+        name: years_community
+        label: How Long Have You Been Part of This Community
+        hint: null
+        type: select_one
+        options:
+        - Less than 1 year
+        - 1-3 years
+        - 3-5 years
+        - 5-10 years
+        - 10+ years
+        required: true
+      - id: 8
+        name: strengths_section
+        label: Strengths
+        hint: Internal positive factors
+        type: note
+        options: []
+        required: false
+      - id: 9
+        name: community_strengths
+        label: What Are the Community Greatest Strengths
+        hint: List key strengths
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: top_strength
+        label: What Is the Top Strength
+        hint: Select the most important
+        type: select_one
+        options:
+        - Strong Community Spirit
+        - Good Leadership
+        - Natural Resources
+        - Cultural Diversity
+        - Economic Stability
+        - Educational Institutions
+        - Infrastructure
+        - Safe Neighborhoods
+        - Other
+        required: true
+      - id: 11
+        name: strength_rating
+        label: How Would You Rate Overall Community Strengths
+        hint: null
+        type: select_one
+        options:
+        - Excellent
+        - Very Good
+        - Good
+        - Fair
+        - Poor
+        required: true
+      - id: 12
+        name: weaknesses_section
+        label: Weaknesses
+        hint: Internal negative factors
+        type: note
+        options: []
+        required: false
+      - id: 13
+        name: community_weaknesses
+        label: What Are the Community Greatest Weaknesses
+        hint: List key weaknesses
+        type: text
+        options: []
+        required: true
+      - id: 14
+        name: top_weakness
+        label: What Is the Top Weakness
+        hint: Select the most critical
+        type: select_one
+        options:
+        - Lack of Funding
+        - Poor Communication
+        - Limited Resources
+        - Lack of Leadership
+        - Infrastructure Issues
+        - Safety Concerns
+        - Limited Services
+        - Community Division
+        - Other
+        required: true
+      - id: 15
+        name: weakness_rating
+        label: How Significant Are These Weaknesses
+        hint: null
+        type: select_one
+        options:
+        - Very Significant
+        - Significant
+        - Moderate
+        - Minor
+        - Not Significant
+        required: true
+      - id: 16
+        name: opportunities_section
+        label: Opportunities
+        hint: External positive factors
+        type: note
+        options: []
+        required: false
+      - id: 17
+        name: community_opportunities
+        label: What Opportunities Exist for the Community
+        hint: List potential opportunities
+        type: text
+        options: []
+        required: true
+      - id: 18
+        name: top_opportunity
+        label: What Is the Top Opportunity
+        hint: Select the most promising
+        type: select_one
+        options:
+        - Economic Development
+        - Tourism Growth
+        - New Partnerships
+        - Grant Funding
+        - Technology Adoption
+        - Population Growth
+        - Infrastructure Investment
+        - Community Programs
+        - Other
+        required: true
+      - id: 19
+        name: opportunity_timeline
+        label: When Could These Opportunities Be Realized
+        hint: null
+        type: select_one
+        options:
+        - Immediate (0-6 months)
+        - Short-term (6-12 months)
+        - Medium-term (1-3 years)
+        - Long-term (3+ years)
+        required: true
+      - id: 20
+        name: threats_section
+        label: Threats
+        hint: External negative factors
+        type: note
+        options: []
+        required: false
+      - id: 21
+        name: community_threats
+        label: What Threats Does the Community Face
+        hint: List potential threats
+        type: text
+        options: []
+        required: true
+      - id: 22
+        name: top_threat
+        label: What Is the Top Threat
+        hint: Select the most serious
+        type: select_one
+        options:
+        - Economic Decline
+        - Population Loss
+        - Environmental Issues
+        - Crime Increase
+        - Budget Cuts
+        - Natural Disasters
+        - Policy Changes
+        - Competition
+        - Other
+        required: true
+      - id: 23
+        name: threat_likelihood
+        label: How Likely Is This Threat
+        hint: null
+        type: select_one
+        options:
+        - Very Likely
+        - Likely
+        - Possible
+        - Unlikely
+        - Very Unlikely
+        required: true
+      - id: 24
+        name: priorities
+        label: Strategic Priorities
+        hint: What should be addressed first
+        type: note
+        options: []
+        required: false
+      - id: 25
+        name: priority_area
+        label: What Should Be the Top Priority
+        hint: Select one
+        type: select_one
+        options:
+        - Economic Development
+        - Infrastructure Improvement
+        - Community Safety
+        - Education and Youth
+        - Environmental Sustainability
+        - Health and Wellness
+        - Arts and Culture
+        - Housing
+        required: true
+      - id: 26
+        name: action_items
+        label: Suggested Action Items
+        hint: What should be done
+        type: text
+        options: []
+        required: false
+      - id: 27
+        name: willing_help
+        label: Would You Be Willing to Help Implement Changes
+        hint: null
+        type: select_one
+        options:
+        - Yes - Actively Participate
+        - Yes - Volunteer Occasionally
+        - Yes - Provide Support
+        - No - Unable to Help
+        required: true
+      - id: 28
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other insights
+        type: text
+        options: []
+        required: false

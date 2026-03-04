@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Counseling Event Feedback Form
+    pages:
+    - id: 1
+      name: event_feedback
+      label: Event Feedback
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: participant_email
+      label: Participant Email
+      hint: Participant's email address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: suggestions
+      label: Suggested Improvements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: rating
+      label: Rating (1-5)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: cancel
+      label: Cancel
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,63 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Nail Polish Ingredient Awareness Survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: Intro
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: intro_question
+      label: How well do you know about the ingredients used in nail polishes?
+      hint: null
+      type: select_one
+      options:
+      - Ingredients are natural and organic.
+      - Not very well.
+      - Fairly well.
+      - Very well.
+      - Extremely well.
+      required: true
+    - id: 3
+      name: ingredients_question
+      label: Which of the following ingredients have you heard of or used before?
+      hint: null
+      type: select_multiple
+      options:
+      - Nail polish remover
+      - Nail glue
+      - Acetone
+      - Nail polish
+      required: true
+    - id: 4
+      name: concerns_question
+      label: Which of the following concerns do you have about nail polish ingredients?
+      hint: null
+      type: select_multiple
+      options:
+      - Health
+      - Environment
+      - Animal welfare
+      required: true
+    - id: 5
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true

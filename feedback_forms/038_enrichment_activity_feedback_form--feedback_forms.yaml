@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Enrichment Activity Feedback Form
+    pages:
+    - id: 1
+      name: feedback_form
+      label: participant_feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: rating
+      label: rating_of_event
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: suggestion
+      label: suggestions_for_improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: educator_feedback
+      label: educator_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_feedback
+      label: participant_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date
+      label: date_of_event
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: assigned
+      label: assigned_to
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

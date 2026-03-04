@@ -1,0 +1,48 @@
+inputSchema:
+  type: object
+  properties:
+    title: Passenger Inflight Service Preference Poll
+    pages:
+    - id: 1
+      name: inflight_service_preference
+      label: Inflight Service Preference
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: service_satisfaction
+      label: How would you rate the inflight service?
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 3
+      name: recommendation_for_service
+      label: Do you have a recommendation for the service?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: route_preference
+      label: Which route would you like us to prioritize?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: cabin_preference
+      label: Which cabin would you like us to prioritize?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

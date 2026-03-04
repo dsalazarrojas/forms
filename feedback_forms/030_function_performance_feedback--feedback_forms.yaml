@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Function Performance Feedback
+    pages:
+    - id: 1
+      name: function_performance_feedback
+      label: Function Performance
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Training''}'
+      - '{''id'': 2, ''label'': ''Meeting''}'
+      - '{''id'': 3, ''label'': ''Company Function''}'
+      required: true
+    - id: 3
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: performance_rating
+      label: Performance Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: satisfaction_rating
+      label: Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: suggestion_improvement
+      label: Suggestion for Improvement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: event_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: event_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: venue
+      label: Venue
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Online''}'
+      - '{''id'': 2, ''label'': ''Offline''}'
+      required: true
+    - id: 10
+      name: attendees
+      label: Attendees
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: true

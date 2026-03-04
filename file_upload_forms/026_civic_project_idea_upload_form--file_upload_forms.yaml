@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Civic Project Idea Upload Form
+    pages:
+    - id: 1
+      name: proposer_info_header
+      label: -- Proposer Contact Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: proposer_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: proposer_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: proposer_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: project_details_header
+      label: -- Project Overview --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: project_title
+      label: Proposed Project Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: project_location
+      label: Impacted Neighborhood or Area
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: community_problem
+      label: What community problem does this project address?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: proposed_solution
+      label: Detailed Project Description/Solution
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: project_partners
+      label: Potential Partners or Stakeholders
+      hint: e.g., local businesses, schools, nonprofits
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: budget_estimate_range
+      label: Estimated Budget Requirement
+      hint: null
+      type: select_one
+      options:
+      - Under 5,000
+      - 5,000 - 20,000
+      - 20,000 - 100,000
+      - Over 100,000
+      required: true
+    - id: 12
+      name: project_timeline
+      label: Estimated Project Duration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: file_upload_note
+      label: Note - Please send detailed proposal documents and images to proposals-civic.gov
+      hint: Use the project title as the subject line
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: agreement_public_record
+      label: I understand that this proposal may be made public
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 15
+      name: submission_date
+      label: Date of Proposal
+      hint: null
+      type: date
+      options: []
+      required: true

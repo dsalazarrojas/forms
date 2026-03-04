@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: Document Management System Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: file_type
+      label: File Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Document''}'
+      - '{''id'': 2, ''value'': ''Image''}'
+      - '{''id'': 3, ''value'': ''Audio''}'
+      required: true
+    - id: 3
+      name: file_name
+      label: File Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: file_size
+      label: File Size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: upload_date
+      label: Upload Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: file_description
+      label: File Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: file_status
+      label: File Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Pending''}'
+      - '{''id'': 2, ''value'': ''Approved''}'
+      - '{''id'': 3, ''value'': ''Rejected''}'
+      required: false
+    - id: 8
+      name: file_owner
+      label: File Owner
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: file_location
+      label: File Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: file_category
+      label: File Category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Marketing''}'
+      - '{''id'': 2, ''value'': ''Sales''}'
+      - '{''id'': 3, ''value'': ''Finance''}'
+      required: false
+    - id: 11
+      name: file_notes
+      label: File Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: form_version
+      label: Form Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: assigned_group
+      label: Assigned Group
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submitted_time
+      label: Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: true

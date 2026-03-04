@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: playwright_script_upload_form
+    pages:
+    - id: 1
+      name: form_name
+      label: Script Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: context
+      label: Context
+      hint: Provide a brief description of the context.
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: script
+      label: Upload Script
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: file_type
+      label: File Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''playwright''}'
+      - '{''value'': ''html''}'
+      - '{''value'': ''other''}'
+      required: true
+    - id: 5
+      name: upload_type
+      label: Upload Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''upload''}'
+      - '{''value'': ''link''}'
+      required: true
+    - id: 6
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''qa''}'
+      - '{''value'': ''engineering''}'
+      required: true
+    - id: 8
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''active''}'
+      - '{''value'': ''inactive''}'
+      - '{''value'': ''pending''}'
+      required: true
+    - id: 9
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''not_started''}'
+      - '{''value'': ''in_progress''}'
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: uploaded_by
+      label: Uploaded By
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''jimmy''}'
+      - '{''value'': ''prophets''}'
+      required: false
+    - id: 12
+      name: review_by
+      label: Review By
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''john''}'
+      - '{''value'': ''jane''}'
+      required: false
+    - id: 13
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: deleted_at
+      label: Deleted At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: created_by
+      label: Created By
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

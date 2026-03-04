@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shipper Feedback Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: feedback
+      label: How was your experience with our company?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: employee_rating
+      label: How would you rate the employee who served you?
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 5
+      name: feedback_employee
+      label: What did the employee do well?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: feedback_employee
+      label: What could the employee improve on?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: suggestions
+      label: Do you have any other suggestions for us?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: subcategory
+      label: Subcategory
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: sub_category
+      label: Subcategory
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: shipper_name
+      label: Shipper Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: shipper_number
+      label: Shipper Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: branch
+      label: Branch
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: date_shipped
+      label: Date Shipped
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: date_received
+      label: Date Received
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: date_picked_up
+      label: Date Picked Up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: driver_name
+      label: Driver Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: driver_number
+      label: Driver Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: driver_license
+      label: Driver License
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: driver_vehicle
+      label: Driver Vehicle
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: driver_license_number
+      label: Driver License Number
+      hint: null
+      type: text
+      options: []
+      required: false

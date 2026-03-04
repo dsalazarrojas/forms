@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: System Configuration Feedback Form
+    pages:
+    - id: 1
+      name: form_feedback
+      label: System Configuration Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: feedback_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Category 1
+      - Category 2
+      - Category 3
+      required: false
+    - id: 3
+      name: feedback_message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: feedback_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: feedback_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: feedback_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: feedback_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: feedback_note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

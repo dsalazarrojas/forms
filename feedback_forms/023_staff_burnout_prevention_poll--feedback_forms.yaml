@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Staff Burnout Prevention Poll
+    pages:
+    - id: 1
+      name: staff_burnout_prevention_poll
+      label: What are your feelings about your current job?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: burnout_risks_identified
+      label: Burnout risks identified?
+      hint: null
+      type: select_multiple
+      options:
+      - Burnout
+      - Stress
+      - Anxiety
+      - Depression
+      - Trauma
+      required: false
+    - id: 3
+      name: burnout_prevention_strategies
+      label: What prevention strategies have you implemented?
+      hint: null
+      type: select_one
+      options:
+      - Regular breaks and self-care
+      - Mental health resources
+      - Flexible work arrangements
+      - Positive work environment
+      required: false
+    - id: 4
+      name: support_received
+      label: Have you received support for burnout?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: burnout_impact
+      label: How often do you experience burnout?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: support_channels
+      label: What channels do you use for support?
+      hint: null
+      type: select_multiple
+      options:
+      - Manager
+      - HR
+      - Coworkers
+      - Anonymous reporting
+      required: false
+    - id: 7
+      name: burnout_prevention_support
+      label: What support options have you used or considered using?
+      hint: null
+      type: select_multiple
+      options:
+      - Employee Assistance Program (EAP)
+      - Employee wellness programs
+      - Mental health resources
+      - Counseling or therapy
+      required: false
+    - id: 8
+      name: burnout_prevention_recommendations
+      label: What burnout prevention recommendations do you have?
+      hint: null
+      type: select_multiple
+      options:
+      - More resources for employee well-being
+      - More support for mental health
+      - Changes to work-life balance
+      - Better communication
+      required: false
+    - id: 9
+      name: burnout_prevention_actions
+      label: What burnout prevention actions have you taken?
+      hint: null
+      type: select_multiple
+      options:
+      - Taking breaks
+      - Staying hydrated and energized
+      - Seeking social support
+      - Engaging in self-care activities
+      required: false
+    - id: 10
+      name: burnout_prevention_next_steps
+      label: What steps will you take next to address burnout?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: burnout_prevention_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

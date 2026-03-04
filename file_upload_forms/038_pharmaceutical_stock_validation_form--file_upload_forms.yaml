@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: pharmaceutical_stock_validation_form
+    pages:
+    - id: 1
+      name: form_title
+      label: form_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_category
+      label: form_category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: form_description
+      label: form_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_description_2
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_category_2
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: form_output_file
+      label: output_file
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: form_assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false

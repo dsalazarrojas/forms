@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Tutoring Program Feedback Evaluation Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tutoring_session_date
+      label: tutoring_session_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: session_start_time
+      label: session_start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: session_end_time
+      label: session_end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: session_duration
+      label: session_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: session_quality
+      label: session_quality
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 7
+      name: communication_effectiveness
+      label: communication_effectiveness
+      hint: null
+      type: select_one
+      options:
+      - Highly Effective
+      - Somewhat Effective
+      - Not Very Effective
+      - Not at All
+      required: true
+    - id: 8
+      name: understanding
+      label: understanding
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 9
+      name: session_materials
+      label: session_materials
+      hint: null
+      type: select_one
+      options:
+      - Highly Relevant
+      - Somewhat Relevant
+      - Not Very Relevant
+      - Not at All
+      required: true
+    - id: 10
+      name: overall_experience
+      label: overall_experience
+      hint: null
+      type: select_one
+      options:
+      - Highly Positive
+      - Somewhat Positive
+      - Neutral
+      - Somewhat Negative
+      - Highly Negative
+      required: true
+    - id: 11
+      name: session_value
+      label: session_value
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: suggestions
+      label: suggestions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false

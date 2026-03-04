@@ -1,0 +1,81 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Roundabout Issues Survey
+    pages:
+    - id: 1
+      name: roundabout_issues_survey_form_fields
+      label: Roundabout Issues Survey Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: issue_type
+      label: issue_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''roundabout_condition''}'
+      - '{''id'': 2, ''label'': ''roundabout_construction''}'
+      - '{''id'': 3, ''label'': ''other''}'
+      required: false
+    - id: 3
+      name: issue_description
+      label: issue_description
+      hint: Please provide a clear and concise description of the issue.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: safety_concern
+      label: safety_concern
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''roundabout''}'
+      - '{''id'': 2, ''label'': ''road_signs''}'
+      - '{''id'': 3, ''label'': ''pedestrian''}'
+      required: false
+    - id: 5
+      name: safety_concerns
+      label: safety_concerns
+      hint: List any other safety concerns you have.
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: roundabout_characteristics
+      label: roundabout_characteristics
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''roundabout_shape''}'
+      - '{''id'': 2, ''label'': ''roundabout_size''}'
+      - '{''id'': 3, ''label'': ''roundabout_orientation''}'
+      required: false
+    - id: 7
+      name: roundabout_characteristics_list
+      label: roundabout_characteristics_list
+      hint: Provide any additional characteristics of the roundabout.
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submission_comments
+      label: submission_comments
+      hint: Is there anything else you'd like to add about your submission?
+      type: text
+      options: []
+      required: false

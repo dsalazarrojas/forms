@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: w-8ben
+    pages:
+    - id: 1
+      name: foreign_status
+      label: foreign_status
+      hint: null
+      type: select_one
+      options:
+      - Foreign Trust
+      - Corporation
+      - Individual
+      - Partnership
+      - Other
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: account_number
+      label: account_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: amount
+      label: amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: beneficial_owner
+      label: beneficial_owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: foreign_country
+      label: foreign_country
+      hint: null
+      type: select_multiple
+      options:
+      - Canada
+      - France
+      - Germany
+      - United States
+      required: false
+    - id: 9
+      name: us_person
+      label: us_person
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: name_of_owner
+      label: name_of_owner
+      hint: null
+      type: text
+      options: []
+      required: false

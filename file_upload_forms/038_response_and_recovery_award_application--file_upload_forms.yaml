@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Response And Recovery Award Application
+    pages:
+    - id: 1
+      name: nomination_form
+      label: Nomination Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: impact_summary
+      label: Impact Summary
+      hint: Please provide a brief impact summary of the nominee's work.
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: supporting_documents
+      label: Supporting Documents
+      hint: Please attach any supporting documents or files related to the nomination.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: committee_member_info
+      label: Committee Member Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: committee_name
+      label: Committee Name
+      hint: null
+      type: select_one
+      options:
+      - American Red Cross
+      - American Cancer Society
+      - Local Emergency Management Agency
+      required: false
+    - id: 6
+      name: committee_email
+      label: Committee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: committee_phone
+      label: Committee Phone
+      hint: null
+      type: text
+      options: []
+      required: false

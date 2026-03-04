@@ -1,0 +1,221 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bar Customer Feedback Form
+    pages:
+    - id: 1
+      name: feedback_date
+      label: Feedback Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: customer_name
+      label: Your Name (Optional)
+      hint: Your full name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_email
+      label: Email Address (Optional)
+      hint: For follow-up if needed
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: customer_phone
+      label: Phone Number (Optional)
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: visit_date
+      label: Date of Your Visit
+      hint: When did you visit?
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: visit_time
+      label: Approximate Time of Visit
+      hint: Morning, afternoon, or evening?
+      type: select_one
+      options:
+      - Morning (before 5pm)
+      - Evening (5pm - 9pm)
+      - Late Night (9pm+)
+      - Not Sure
+      required: false
+    - id: 7
+      name: visit_frequency
+      label: How Often Do You Visit?
+      hint: null
+      type: select_one
+      options:
+      - First Time
+      - Occasionally
+      - Regular Customer
+      - Weekly
+      - Multiple Times Weekly
+      required: true
+    - id: 8
+      name: visit_party_size
+      label: Size of Your Party
+      hint: How many people in your group?
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: atmosphere_rating
+      label: Atmosphere and Ambiance
+      hint: Rate the atmosphere
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Good
+      - 4 - Very Good
+      - 5 - Excellent
+      required: true
+    - id: 10
+      name: cleanliness_rating
+      label: Cleanliness and Maintenance
+      hint: How clean was the bar?
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Good
+      - 4 - Very Good
+      - 5 - Excellent
+      required: true
+    - id: 11
+      name: staff_courtesy_rating
+      label: Staff Courtesy and Friendliness
+      hint: How friendly was the staff?
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Good
+      - 4 - Very Good
+      - 5 - Excellent
+      required: true
+    - id: 12
+      name: staff_knowledge_rating
+      label: Staff Knowledge and Service
+      hint: Did staff know their drinks?
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Good
+      - 4 - Very Good
+      - 5 - Excellent
+      required: true
+    - id: 13
+      name: wait_time_rating
+      label: Wait Time for Service
+      hint: How long did you wait?
+      type: select_one
+      options:
+      - 1 - Too Long
+      - 2 - Longer Than Expected
+      - 3 - Acceptable
+      - 4 - Good
+      - 5 - Quick Service
+      required: true
+    - id: 14
+      name: drink_quality_rating
+      label: Quality of Beverages
+      hint: How were your drinks?
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Good
+      - 4 - Very Good
+      - 5 - Excellent
+      required: true
+    - id: 15
+      name: drink_pricing_rating
+      label: Pricing and Value
+      hint: Were prices fair?
+      type: select_one
+      options:
+      - 1 - Too Expensive
+      - 2 - Expensive
+      - 3 - Fair
+      - 4 - Good Value
+      - 5 - Great Value
+      required: true
+    - id: 16
+      name: food_quality_rating
+      label: Food Quality (if applicable)
+      hint: How was the food?
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Good
+      - 4 - Very Good
+      - 5 - Excellent
+      - N/A - Did not order food
+      required: false
+    - id: 17
+      name: overall_experience_rating
+      label: Overall Experience
+      hint: How would you rate your visit?
+      type: select_one
+      options:
+      - 1 - Very Poor
+      - 2 - Poor
+      - 3 - Average
+      - 4 - Good
+      - 5 - Excellent
+      required: true
+    - id: 18
+      name: recommendation_likelihood
+      label: Would You Recommend This Bar?
+      hint: null
+      type: select_one
+      options:
+      - Definitely Would
+      - Probably Would
+      - Unsure
+      - Probably Not
+      - Would Not
+      required: true
+    - id: 19
+      name: positive_aspects
+      label: What Did You Like Most?
+      hint: What was the best part?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: improvement_areas
+      label: What Could Be Improved?
+      hint: What could we do better?
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: special_suggestions
+      label: Special Requests or Suggestions
+      hint: Any suggestions?
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: consent_contact
+      label: May We Contact You About Your Feedback?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

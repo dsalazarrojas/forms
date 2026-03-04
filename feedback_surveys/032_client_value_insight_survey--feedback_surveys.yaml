@@ -1,0 +1,277 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Value Insight Survey
+    pages:
+    - id: 1
+      name: intro_header
+      label: Client Value and Satisfaction Survey
+      hint: Your insights help us deliver better value
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_info
+      label: -- Respondent Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: client_name
+      label: Client Name or Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_person
+      label: Your Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Phone Number
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: relationship_section
+      label: -- Client Relationship --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: client_duration
+      label: How long have you been a client?
+      hint: null
+      type: select_one
+      options:
+      - Less than 3 months
+      - 3-6 months
+      - 6-12 months
+      - 1-2 years
+      - 2-5 years
+      - More than 5 years
+      required: true
+    - id: 9
+      name: service_usage_level
+      label: How frequently do you use our services?
+      hint: null
+      type: select_one
+      options:
+      - Rarely
+      - Occasionally
+      - Regularly
+      - Very Frequently
+      - Continuously
+      required: true
+    - id: 10
+      name: value_perception
+      label: -- Value Perception --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: perceived_value
+      label: Overall perceived value of our services
+      hint: null
+      type: select_one
+      options:
+      - Poor Value
+      - Below Average Value
+      - Fair Value
+      - Good Value
+      - Excellent Value
+      required: true
+    - id: 12
+      name: value_rating
+      label: Rate the value you receive - 1 to 10
+      hint: 1 = Poor value, 10 = Excellent value
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: expectations_vs_reality
+      label: Value received vs. expectations
+      hint: null
+      type: select_one
+      options:
+      - Below Expectations
+      - Met Expectations
+      - Exceeded Expectations
+      required: true
+    - id: 14
+      name: justifies_investment
+      label: Value justifies the investment or cost
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 15
+      name: satisfaction_section
+      label: -- Satisfaction Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: overall_satisfaction
+      label: Overall satisfaction with our services
+      hint: null
+      type: select_one
+      options:
+      - Very Unsatisfied
+      - Unsatisfied
+      - Neutral
+      - Satisfied
+      - Very Satisfied
+      required: true
+    - id: 17
+      name: satisfaction_rating
+      label: Rate your satisfaction - 1 to 10
+      hint: 1 = Very unsatisfied, 10 = Very satisfied
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: expectation_met
+      label: Our services meet or exceed your expectations
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 19
+      name: solution_effectiveness
+      label: How effective are our solutions for your needs?
+      hint: null
+      type: select_one
+      options:
+      - Not Effective
+      - Somewhat Effective
+      - Moderately Effective
+      - Very Effective
+      - Extremely Effective
+      required: true
+    - id: 20
+      name: service_quality
+      label: -- Service Quality --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: quality_rating
+      label: Quality of our service or product
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 22
+      name: consistency
+      label: Consistency of quality across all interactions
+      hint: null
+      type: select_one
+      options:
+      - Inconsistent
+      - Somewhat Consistent
+      - Mostly Consistent
+      - Very Consistent
+      required: true
+    - id: 23
+      name: support_quality
+      label: Quality of support received
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 24
+      name: key_benefits_section
+      label: -- Key Benefits and Outcomes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: primary_benefits
+      label: Primary benefits you have received
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Cost Savings
+      - Time Savings
+      - Improved Efficiency
+      - Better Quality
+      - Growth
+      - Reduced Risk
+      - Improved Relationships
+      - Innovation
+      - Other
+      required: true
+    - id: 26
+      name: measurable_results
+      label: Measurable results or improvements achieved
+      hint: Use specific numbers where possible
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: business_impact
+      label: Impact on your business or goals
+      hint: How has this helped you?
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: feedback_section
+      label: -- Feedback and Improvement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: improvements_needed
+      label: What improvements would increase value?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: loyalty_nps
+      label: How likely are you to recommend us? - 0 to 10
+      hint: 0 = Not at all likely, 10 = Extremely likely
+      type: number
+      options: []
+      required: true

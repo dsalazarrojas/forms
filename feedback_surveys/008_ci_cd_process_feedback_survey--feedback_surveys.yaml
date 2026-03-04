@@ -1,0 +1,209 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: CI/CD Process Feedback Survey
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Your Name
+        hint: Optional - can be anonymous
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: email_address
+        label: Email Address
+        hint: For follow-up if needed
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: role
+        label: Your Role
+        hint: Select your primary role
+        type: select_one
+        options:
+          - Software Developer
+          - DevOps Engineer
+          - QA Engineer
+          - Team Lead
+          - Engineering Manager
+          - Product Manager
+          - Other
+        required: true
+      - id: 4
+        name: team_name
+        label: Team Name
+        hint: Your squad or team
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: usage_frequency
+        label: How Often Do You Use CI/CD Pipeline
+        hint: Your usage pattern
+        type: select_one
+        options:
+          - Multiple Times Daily
+          - Daily
+          - Weekly
+          - Monthly
+          - Rarely
+        required: true
+      - id: 6
+        name: overall_satisfaction
+        label: Overall Satisfaction
+        hint: Rate your overall experience
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+        required: true
+      - id: 7
+        name: build_speed
+        label: Build Speed Satisfaction
+        hint: How satisfied with build times
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+        required: true
+      - id: 8
+        name: deployment_reliability
+        label: Deployment Reliability
+        hint: Rate deployment consistency
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Poor
+          - Very Poor
+        required: true
+      - id: 9
+        name: error_reporting
+        label: Error Reporting Clarity
+        hint: How clear are build errors
+        type: select_one
+        options:
+          - Very Clear
+          - Clear
+          - Neutral
+          - Unclear
+          - Very Unclear
+        required: true
+      - id: 10
+        name: pipeline_stability
+        label: Pipeline Stability
+        hint: How stable is the pipeline
+        type: select_one
+        options:
+          - Very Stable
+          - Stable
+          - Neutral
+          - Unstable
+          - Very Unstable
+        required: true
+      - id: 11
+        name: ease_of_use
+        label: Ease of Use
+        hint: How easy is it to use
+        type: select_one
+        options:
+          - Very Easy
+          - Easy
+          - Neutral
+          - Difficult
+          - Very Difficult
+        required: true
+      - id: 12
+        name: documentation_quality
+        label: Documentation Quality
+        hint: Rate available documentation
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Poor
+          - Very Poor
+          - No Documentation Found
+        required: true
+      - id: 13
+        name: common_issues
+        label: Common Issues Encountered
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Slow Build Times
+          - Failed Deployments
+          - Flaky Tests
+          - Unclear Error Messages
+          - Pipeline Downtime
+          - Configuration Issues
+          - Permission Problems
+          - None
+        required: true
+      - id: 14
+        name: biggest_pain_point
+        label: Biggest Pain Point
+        hint: What frustrates you most
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: feature_requests
+        label: Requested Features
+        hint: What would improve your experience
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: training_needs
+        label: Training Needs
+        hint: Areas where you need more training
+        type: select_multiple
+        options:
+          - Pipeline Configuration
+          - Debugging Failed Builds
+          - Best Practices
+          - Security Scanning
+          - Performance Optimization
+          - None Needed
+        required: true
+      - id: 17
+        name: recommend_to_others
+        label: Would You Recommend This Pipeline
+        hint: To other teams
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Neutral
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 18
+        name: additional_feedback
+        label: Additional Feedback
+        hint: Any other comments
+        type: text
+        options: []
+        required: false

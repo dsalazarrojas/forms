@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health and Wellness Program Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: What is your age?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: preferred_time_for_exercise
+      label: preferred-time-for-exercise
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: exercise_frequency
+      label: Exercise frequency
+      hint: How often do you exercise?
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: sleep_quality
+      label: sleep-quality
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: nutrition_preferences
+      label: nutrition-preferences
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: healthy_habits
+      label: healthy-habits
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: wellness_goals
+      label: wellness-goals
+      hint: What do you want to achieve through wellness?
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: notes
+      label: Additional notes
+      hint: null
+      type: note
+      options: []
+      required: false

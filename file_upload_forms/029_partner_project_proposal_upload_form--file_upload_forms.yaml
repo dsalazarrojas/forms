@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: partner_project_proposal_upload_form
+    pages:
+    - id: 1
+      name: project_name
+      label: project_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_category
+      label: project_category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Category 1''}'
+      - '{''id'': 2, ''name'': ''Category 2''}'
+      - '{''id'': 3, ''name'': ''Category 3''}'
+      required: true
+    - id: 3
+      name: project_description
+      label: project_description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: document_upload
+      label: document_upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: submitter_details
+      label: submitter_details
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Person 1''}'
+      - '{''id'': 2, ''name'': ''Person 2''}'
+      - '{''id'': 3, ''name'': ''Person 3''}'
+      required: false
+    - id: 6
+      name: submitter_email
+      label: submitter_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: submitter_phone
+      label: submitter_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: project_tags
+      label: project_tags
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: project_deadline
+      label: project_deadline
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: project_time
+      label: project_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: submitter_address
+      label: submitter_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: project_file
+      label: project_file
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: project_notes
+      label: project_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submitter_notes
+      label: submitter_notes
+      hint: null
+      type: text
+      options: []
+      required: false

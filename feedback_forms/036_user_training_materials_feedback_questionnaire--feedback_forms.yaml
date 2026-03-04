@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: user_training_materials_feedback_questionnaire
+    pages:
+    - id: 1
+      name: user_training_session
+      label: Training Session
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: feedback_on_materials
+      label: Feedback On Materials
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: trainer_performance
+      label: Trainer Performance
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Very Good''}'
+      - '{''id'': 2, ''name'': ''Good''}'
+      - '{''id'': 3, ''name'': ''Fair''}'
+      - '{''id'': 4, ''name'': ''Poor''}'
+      required: false
+    - id: 4
+      name: trainer_supportiveness
+      label: Supportiveness
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Always''}'
+      - '{''id'': 2, ''name'': ''Mostly''}'
+      - '{''id'': 3, ''name'': ''Rarely''}'
+      - '{''id'': 4, ''name'': ''Never''}'
+      required: false
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: note
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: feedback
+      label: Additional Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: training_level
+      label: Training Level
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: materials_used
+      label: Materials Used
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: training_outcome
+      label: Outcome
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: session_length
+      label: Session Length
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''2 hours''}'
+      - '{''id'': 2, ''name'': ''4 hours''}'
+      - '{''id'': 3, ''name'': ''6 hours''}'
+      required: false
+    - id: 16
+      name: session_fees
+      label: Session Fees
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: trainer_name
+      label: Trainer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: trainee_attendance
+      label: Trainee Attendance
+      hint: null
+      type: text
+      options: []
+      required: false

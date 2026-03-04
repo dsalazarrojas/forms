@@ -1,0 +1,251 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clothing Line Feedback Inquiry Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Optional contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: section_purchase
+      label: -- Purchase Information --
+      hint: Tell us about your purchase
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: purchase_date
+      label: Purchase Date
+      hint: When did you buy from us
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: purchase_method
+      label: Where Did You Purchase
+      hint: null
+      type: select_one
+      options:
+      - Online store
+      - Physical retail location
+      - Pop-up or seasonal shop
+      - Wholesale partner
+      - Other
+      required: true
+    - id: 7
+      name: section_items
+      label: -- Items Purchased --
+      hint: What did you buy
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: item_categories
+      label: Categories of Items Purchased
+      hint: null
+      type: select_multiple
+      options:
+      - Shirts or tops
+      - Pants or jeans
+      - Dresses
+      - Outerwear
+      - Accessories
+      - Multiple categories
+      required: true
+    - id: 9
+      name: section_satisfaction
+      label: -- Product Satisfaction --
+      hint: How satisfied are you with your purchase
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: overall_satisfaction
+      label: Overall Satisfaction with Purchase
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 11
+      name: quality_rating
+      label: Quality of Items
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very poor
+      required: true
+    - id: 12
+      name: fit_satisfaction
+      label: How Well Items Fit
+      hint: null
+      type: select_one
+      options:
+      - Perfect fit
+      - Good fit
+      - Acceptable fit
+      - Too tight
+      - Too loose
+      required: true
+    - id: 13
+      name: value_rating
+      label: Value for Money
+      hint: null
+      type: select_one
+      options:
+      - Excellent value
+      - Good value
+      - Fair value
+      - Overpriced
+      - Very overpriced
+      required: true
+    - id: 14
+      name: section_design
+      label: -- Design and Style Feedback --
+      hint: Your thoughts on design and style
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: design_appeal
+      label: How appealing is the current design aesthetic
+      hint: null
+      type: select_one
+      options:
+      - Very appealing
+      - Appealing
+      - Neutral
+      - Not very appealing
+      - Not appealing at all
+      required: true
+    - id: 16
+      name: color_range
+      label: Satisfaction with Color Range and Options
+      hint: null
+      type: select_one
+      options:
+      - Excellent variety
+      - Good variety
+      - Average variety
+      - Limited variety
+      - Very limited
+      required: true
+    - id: 17
+      name: size_availability
+      label: Satisfaction with Available Sizes
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 18
+      name: design_suggestions
+      label: Suggestions for New Designs or Styles
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_shopping
+      label: -- Shopping Experience --
+      hint: Your shopping experience feedback
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: shopping_experience
+      label: Overall Shopping Experience
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very poor
+      required: true
+    - id: 21
+      name: customer_service
+      label: Customer Service Quality
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very poor
+      required: true
+    - id: 22
+      name: delivery_satisfaction
+      label: Delivery and Shipping Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 23
+      name: section_loyalty
+      label: -- Loyalty and Recommendations --
+      hint: Your likelihood of future engagement
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: willingness_to_repurchase
+      label: Likelihood of Purchasing Again
+      hint: null
+      type: select_one
+      options:
+      - Very likely
+      - Likely
+      - Uncertain
+      - Unlikely
+      - Very unlikely
+      required: true
+    - id: 25
+      name: would_recommend
+      label: Would You Recommend Our Clothing Line
+      hint: null
+      type: select_one
+      options:
+      - Definitely yes
+      - Probably yes
+      - Maybe
+      - Probably not
+      - Definitely not
+      required: true

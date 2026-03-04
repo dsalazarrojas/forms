@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: pomodoro_technique_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: technique_effectiveness
+      label: technique_effectiveness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: time_estimate
+      label: time_estimate
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: focus_level
+      label: focus_level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: sessions
+      label: sessions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: sessions_frequency
+      label: sessions_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: sessions_duration
+      label: sessions_duration
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: work_time
+      label: work_time
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: break_time
+      label: break_time
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: sessions_number
+      label: sessions_number
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

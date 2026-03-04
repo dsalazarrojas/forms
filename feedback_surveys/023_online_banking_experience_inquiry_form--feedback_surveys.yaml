@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: online_banking_experience_inquiry_form
+    pages:
+    - id: 1
+      name: form_heading
+      label: Online Banking Experience Inquiry Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: overall_satisfaction
+      label: What was your overall satisfaction with our online banking experience?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: security_risk
+      label: Was there ever a moment you felt that your security was compromised?
+      hint: null
+      type: select_one
+      options:
+      - 'No'
+      - Yes, with a problem I could report
+      - Yes, with no problem
+      required: false
+    - id: 4
+      name: security_risk_comments
+      label: If yes, what was it?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: satisfaction_score
+      label: On a scale of 1-5 how would you rate your satisfaction with online banking?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: security_score
+      label: On a scale of 1-5 how would you rate our online security measures?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: feedback
+      label: What could we do to improve online banking services?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_details
+      label: How can we contact you for follow-up questions or surveys?
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - Mail
+      required: false
+    - id: 9
+      name: email
+      label: What is your email address?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: What is your phone number?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Additional comments or information?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: contact_us
+      label: How can you be contacted for any questions or concerns?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: follow_up
+      label: Would you like to be contacted for follow-up questions or surveys?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: follow_up_frequency
+      label: If yes, how often would you like to be contacted?
+      hint: null
+      type: select_one
+      options:
+      - After every question
+      - Monthly
+      - Quarterly
+      - Annually
+      required: false

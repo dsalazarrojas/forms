@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Regulatory Data Collection Form
+    pages:
+    - id: 1
+      name: file_uploads
+      label: File Uploads
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: regulatory_info
+      label: Regulatory Information
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: compliance_status
+      label: Compliance Status
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: update_date
+      label: Update Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: upload_date
+      label: Upload Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: regulatory_data
+      label: Regulatory Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: regulatory_updates
+      label: Regulatory Updates
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 14
+      name: audit_info
+      label: Audit Info
+      hint: null
+      type: text
+      options: []
+      required: false

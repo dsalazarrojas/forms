@@ -1,0 +1,211 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Bracelet Feedback Survey
+    pages:
+      - id: 1
+        name: section_header_respondent
+        label: -- Respondent Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: respondent_name
+        label: Your Name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: email
+        label: Email Address
+        hint: For follow-up if needed
+        type: email
+        options: []
+        required: false
+      - id: 4
+        name: purchase_date
+        label: When Did You Purchase This Bracelet
+        hint: Date of purchase
+        type: date
+        options: []
+        required: false
+      - id: 5
+        name: section_header_product
+        label: -- Product Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: bracelet_style
+        label: Bracelet Style
+        hint: Which style did you purchase
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: bracelet_color
+        label: Bracelet Color
+        hint: Color of bracelet purchased
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: material_type
+        label: Material Type
+        hint: What is the bracelet made from
+        type: select_one
+        options:
+          - Sterling silver
+          - Gold
+          - Beaded
+          - Leather
+          - Fabric
+          - Gemstone
+          - Mixed materials
+          - Other
+        required: false
+      - id: 9
+        name: section_header_satisfaction
+        label: -- Overall Satisfaction --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: quality_rating
+        label: Product Quality Rating
+        hint: How would you rate the quality
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Satisfactory
+          - Fair
+          - Poor
+        required: true
+      - id: 11
+        name: value_rating
+        label: Value for Price Rating
+        hint: Was it worth the price
+        type: select_one
+        options:
+          - Excellent value
+          - Good value
+          - Fair value
+          - Below average value
+          - Poor value
+        required: true
+      - id: 12
+        name: durability_rating
+        label: Durability Rating
+        hint: How well does it hold up
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Satisfactory
+          - Fair
+          - Poor
+        required: false
+      - id: 13
+        name: comfort_rating
+        label: Comfort Rating
+        hint: How comfortable is the bracelet
+        type: select_one
+        options:
+          - Very comfortable
+          - Comfortable
+          - Neutral
+          - Uncomfortable
+          - Very uncomfortable
+        required: true
+      - id: 14
+        name: section_header_design
+        label: -- Design and Appearance --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 15
+        name: design_satisfaction
+        label: Are you satisfied with the design
+        hint: Does it look as expected
+        type: select_one
+        options:
+          - Very satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very dissatisfied
+        required: true
+      - id: 16
+        name: color_accuracy
+        label: Color Matches Product Images
+        hint: Is color accurate to listings
+        type: select_one
+        options:
+          - Matches perfectly
+          - Close match
+          - Somewhat different
+          - Very different
+          - Not applicable
+        required: false
+      - id: 17
+        name: section_header_recommendation
+        label: -- Recommendation and Feedback --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 18
+        name: recommend_bracelet
+        label: Would you recommend this bracelet
+        hint: Would you suggest to others
+        type: select_one
+        options:
+          - Definitely yes
+          - Probably yes
+          - Uncertain
+          - Probably no
+          - Definitely no
+        required: true
+      - id: 19
+        name: improvement_suggestions
+        label: Suggestions for Improvement
+        hint: How could we improve this product
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: future_purchase
+        label: Would you purchase from us again
+        hint: Likelihood of repeat purchase
+        type: select_one
+        options:
+          - Very likely
+          - Likely
+          - Uncertain
+          - Unlikely
+          - Very unlikely
+        required: true

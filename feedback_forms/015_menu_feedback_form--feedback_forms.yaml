@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Menu Feedback Form
+    pages:
+    - id: 1
+      name: menu_feedback_form
+      label: MenuFeedbackForm
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: MenuCategory
+      hint: null
+      type: select_one
+      options:
+      - Option1
+      - Option2
+      - Option3
+      required: true
+    - id: 3
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

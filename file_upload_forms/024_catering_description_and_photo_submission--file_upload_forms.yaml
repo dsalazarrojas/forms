@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Catering Description and Photo Submission
+    pages:
+    - id: 1
+      name: vendor_name
+      label: Vendor or Company Name
+      hint: Your catering business name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_person
+      label: Contact Person
+      hint: Primary contact name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Your contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: website
+      label: Website URL
+      hint: Your business website
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: business_address
+      label: Business Address
+      hint: Your business location
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: years_in_business
+      label: Years in Business
+      hint: How long have you been operating
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: service_area
+      label: Service Area
+      hint: Areas you serve
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: cuisine_specialty
+      label: Cuisine Specialty
+      hint: What type of food do you specialize in
+      type: select_one
+      options:
+      - American
+      - Italian
+      - Mexican
+      - Asian
+      - Mediterranean
+      - French
+      - Fusion
+      - Other
+      required: true
+    - id: 10
+      name: service_types
+      label: Service Types Offered
+      hint: What services do you provide
+      type: select_multiple
+      options:
+      - Full Service Catering
+      - Drop-off Catering
+      - Buffet Style
+      - Plated Service
+      - Cocktail Reception
+      - Food Stations
+      - Food Truck
+      - Private Chef
+      required: true
+    - id: 11
+      name: event_types
+      label: Event Types Serviced
+      hint: What events do you cater
+      type: select_multiple
+      options:
+      - Weddings
+      - Corporate Events
+      - Birthday Parties
+      - Anniversaries
+      - Conferences
+      - Private Parties
+      - Holiday Parties
+      - Fundraisers
+      required: true
+    - id: 12
+      name: capacity_min
+      label: Minimum Guest Capacity
+      hint: Smallest event size
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: capacity_max
+      label: Maximum Guest Capacity
+      hint: Largest event size
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: price_range
+      label: Price Range
+      hint: Average cost per person
+      type: select_one
+      options:
+      - Budget - Under $25
+      - Moderate - $25 to $50
+      - Premium - $50 to $100
+      - Luxury - Over $100
+      required: true
+    - id: 15
+      name: business_description
+      label: Business Description
+      hint: Describe your catering business
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: signature_dishes
+      label: Signature Dishes
+      hint: Your most popular dishes
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: dietary_options
+      label: Dietary Options Available
+      hint: Vegetarian - vegan - gluten-free - etc
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: photo_1_description
+      label: Photo 1 Description
+      hint: Describe the first photo
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: photo_2_description
+      label: Photo 2 Description
+      hint: Describe the second photo
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: photo_3_description
+      label: Photo 3 Description
+      hint: Describe the third photo
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: certifications
+      label: Certifications
+      hint: Food safety - licenses - etc
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: insurance_status
+      label: Insurance Status
+      hint: Do you have liability insurance
+      type: select_one
+      options:
+      - Yes - Fully Insured
+      - Yes - Partially Insured
+      - false
+      required: true
+    - id: 23
+      name: references_available
+      label: References Available
+      hint: Can you provide references
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 24
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

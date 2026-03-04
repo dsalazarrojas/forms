@@ -1,0 +1,219 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Beacons Audit Survey
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Your Name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: email_address
+        label: Email Address
+        hint: For follow-up
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: organization
+        label: Organization
+        hint: Company or institution
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: role
+        label: Your Role
+        hint: Job title
+        type: select_one
+        options:
+          - IT Manager
+          - Marketing Manager
+          - Operations Manager
+          - Developer
+          - Analyst
+          - Executive
+          - Other
+        required: true
+      - id: 5
+        name: beacon_usage_duration
+        label: How Long Have You Used Beacons
+        hint: Duration of use
+        type: select_one
+        options:
+          - Less than 6 months
+          - 6 months to 1 year
+          - 1 to 2 years
+          - 2 to 5 years
+          - Over 5 years
+        required: true
+      - id: 6
+        name: beacon_deployment_size
+        label: Size of Beacon Deployment
+        hint: How many beacons
+        type: select_one
+        options:
+          - 1-10 beacons
+          - 11-50 beacons
+          - 51-100 beacons
+          - 101-500 beacons
+          - Over 500 beacons
+        required: true
+      - id: 7
+        name: primary_use_case
+        label: Primary Use Case
+        hint: Main application
+        type: select_one
+        options:
+          - Indoor Navigation
+          - Proximity Marketing
+          - Asset Tracking
+          - Customer Analytics
+          - Access Control
+          - Event Engagement
+          - Other
+        required: true
+      - id: 8
+        name: beacon_effectiveness
+        label: Overall Beacon Effectiveness
+        hint: Rate effectiveness
+        type: select_one
+        options:
+          - Very Effective
+          - Effective
+          - Neutral
+          - Ineffective
+          - Very Ineffective
+        required: true
+      - id: 9
+        name: signal_reliability
+        label: Signal Reliability
+        hint: How reliable is signal
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Poor
+          - Very Poor
+        required: true
+      - id: 10
+        name: battery_life_satisfaction
+        label: Battery Life Satisfaction
+        hint: Rate battery performance
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+        required: true
+      - id: 11
+        name: ease_of_deployment
+        label: Ease of Deployment
+        hint: How easy to set up
+        type: select_one
+        options:
+          - Very Easy
+          - Easy
+          - Neutral
+          - Difficult
+          - Very Difficult
+        required: true
+      - id: 12
+        name: maintenance_requirements
+        label: Maintenance Requirements
+        hint: How much maintenance needed
+        type: select_one
+        options:
+          - Very Low
+          - Low
+          - Moderate
+          - High
+          - Very High
+        required: true
+      - id: 13
+        name: roi_achieved
+        label: Has ROI Been Achieved
+        hint: Return on investment
+        type: select_one
+        options:
+          - Yes - Exceeded Expectations
+          - Yes - Met Expectations
+          - Partially
+          - No
+          - Too Early to Tell
+        required: true
+      - id: 14
+        name: user_engagement_impact
+        label: Impact on User Engagement
+        hint: How did it affect engagement
+        type: select_one
+        options:
+          - Significant Increase
+          - Moderate Increase
+          - No Change
+          - Moderate Decrease
+          - Significant Decrease
+        required: true
+      - id: 15
+        name: challenges_faced
+        label: Challenges Faced
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Signal Interference
+          - Battery Replacement
+          - Installation Complexity
+          - Software Integration
+          - User Adoption
+          - Privacy Concerns
+          - Cost
+          - None
+        required: true
+      - id: 16
+        name: would_recommend
+        label: Would You Recommend Beacons
+        hint: To others
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Not Sure
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 17
+        name: future_plans
+        label: Future Plans for Beacon Technology
+        hint: What are your plans
+        type: select_one
+        options:
+          - Expand Deployment
+          - Maintain Current Level
+          - Reduce Deployment
+          - Discontinue Use
+          - Evaluating Options
+        required: true
+      - id: 18
+        name: additional_feedback
+        label: Additional Feedback
+        hint: Any other comments
+        type: text
+        options: []
+        required: false

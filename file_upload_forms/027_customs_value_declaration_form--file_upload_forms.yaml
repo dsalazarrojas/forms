@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customs Value Declaration Form
+    pages:
+    - id: 1
+      name: shipment_details
+      label: Shipment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: shipment_type
+      label: shipment_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Type''}'
+      - '{''id'': 2, ''label'': ''Type 2''}'
+      required: false
+    - id: 3
+      name: country_of_origin
+      label: country_of_origin
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: country_of_destination
+      label: Country Of Destination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customs_declaration_number
+      label: Customs Declaration Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: shipment_value
+      label: Shipment Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: shipment_weight
+      label: Shipment Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: shipment_description
+      label: Shipment Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: customs_officer_name
+      label: Customs Officer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: customs_officer_title
+      label: Customs Officer Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: customs_officer_department
+      label: Customs Officer Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: shipment_date
+      label: Shipment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: shipment_time
+      label: Shipment Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: shipment_port_of_loading
+      label: Shipment Port Of Loading
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: shipment_vessel_type
+      label: Shipment Vessel Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: shipment_vessel_name
+      label: Shipment Vessel Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: shipment_vessel_number
+      label: Shipment Vessel Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: shipment_vessel_type_id
+      label: Shipment Vessel Type ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: shipment_hazardous_goods
+      label: Shipment Hazardous Goods
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Select One''}'
+      - '{''id'': 2, ''label'': ''Select Two''}'
+      required: false
+    - id: 20
+      name: shipment_vessel_type_description
+      label: Shipment Vessel Type Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: shipment_customs_value_declaration
+      label: Shipment Customs Value Declaration
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Select One''}'
+      - '{''id'': 2, ''label'': ''Select Two''}'
+      required: false
+    - id: 22
+      name: shipment_customs_declaration_status
+      label: Shipment Customs Declaration Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: shipment_customs_declaration_type
+      label: Shipment Customs Declaration Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: shipment_exporter_name
+      label: Shipment Exporter Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: shipment_exporter_address
+      label: Shipment Exporter Address
+      hint: null
+      type: text
+      options: []
+      required: false

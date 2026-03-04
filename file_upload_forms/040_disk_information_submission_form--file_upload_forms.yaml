@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Disk Information Submission Form
+    pages:
+    - id: 1
+      name: storage_device
+      label: Storage Device
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: serial_number
+      label: Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: disk_capacity
+      label: Disk Capacity
+      hint: GB
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: interface_type
+      label: Interface Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''SATA''}'
+      - '{''id'': 2, ''label'': ''PCIe''}'
+      - '{''id'': 3, ''label'': ''NVMe''}'
+      required: false
+    - id: 5
+      name: storage_location
+      label: Storage Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: storage_status
+      label: Storage Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Active''}'
+      - '{''id'': 2, ''label'': ''Offline''}'
+      - '{''id'': 3, ''label'': ''Decommissioned''}'
+      required: false
+    - id: 7
+      name: remarks
+      label: Remarks
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: upload_file
+      label: Upload File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''IT Team''}'
+      - '{''id'': 2, ''label'': ''Other''}'
+      required: false

@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: speaker_presentation_upload_request_form
+    pages:
+    - id: 1
+      name: form_title
+      label: Speaker Presentation Upload Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''File Upload Forms''}'
+      - '{''label'': ''Content Forms''}'
+      required: false
+    - id: 3
+      name: form_description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: speaker_file
+      label: Speaker File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: session_details
+      label: Session Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: speaker_name
+      label: Speaker Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: speaker_profile_picture
+      label: Speaker Profile Picture
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: speaker_biography
+      label: Speaker Bio
+      hint: null
+      type: text
+      options: []
+      required: false

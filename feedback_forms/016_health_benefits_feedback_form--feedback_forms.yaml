@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Benefits Feedback Form
+    pages:
+    - id: 1
+      name: health_benefits_program
+      label: Health Benefits Program
+      hint: null
+      type: select_one
+      options:
+      - Health and Wellness
+      - Employee Assistance Program
+      - Life Insurance
+      - 401k
+      - Other
+      required: false
+    - id: 2
+      name: program_satisfaction
+      label: Program Satisfaction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: program_satisfaction_rating
+      label: Program Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: program_satisfaction_comments
+      label: Program Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: employee_assistance_program
+      label: Employee Assistance Program
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Undecided
+      required: false
+    - id: 6
+      name: life_insurance
+      label: Life Insurance
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Undecided
+      required: false
+    - id: 7
+      name: 401k
+      label: 401k
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Undecided
+      required: false
+    - id: 8
+      name: other_benefits
+      label: Other Benefits
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Undecided
+      required: false
+    - id: 9
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false

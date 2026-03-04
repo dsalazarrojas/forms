@@ -1,0 +1,32 @@
+inputSchema:
+  type: object
+  properties:
+    title: Group Image Feedback Survey
+    pages:
+    - id: 1
+      name: feedback_1
+      label: feedback_1_label
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: image_1
+      label: select_one_image
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: image_2
+      label: select_two_image
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

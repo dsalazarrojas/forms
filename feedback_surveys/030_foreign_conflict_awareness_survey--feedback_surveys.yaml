@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Foreign Conflict Awareness Survey
+    pages:
+    - id: 1
+      name: foreign_conflict_awareness_survey
+      label: What is your level of awareness about foreign conflicts?
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 2
+      name: information_sources
+      label: What are your primary sources of information about foreign conflicts?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: perception_of_conflict
+      label: How do you perceive the severity of the conflict?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: public_discussion
+      label: How much do you discuss foreign conflicts in public with family and friends?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: impact_on_local_council
+      label: How would you rate the impact of foreign conflict on local councils?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: conflict_resolution
+      label: Do you believe the conflict can be resolved without international intervention?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: resolution_method
+      label: How do you think the conflict can be resolved?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: role_in_conflict_resolution
+      label: What is your role in resolving foreign conflicts?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: conflict_prevention
+      label: Do you think the conflict could have been prevented?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: global_conflict
+      label: Do you think the conflict has global implications?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: local_conflict
+      label: Do you think the conflict affects your community?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: local_impact
+      label: How do you think the conflict impacts your community?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: personal_feeling
+      label: How do you feel about the conflict?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: resolution_support
+      label: Would you support international intervention to resolve the conflict?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: global_support
+      label: Would you support global action to end the conflict?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: local_support
+      label: Would you support local action to end the conflict?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: conflict_info
+      label: Do you have any information about the conflict that you think others
+        should know?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: conflict_info_other
+      label: Other information about the conflict?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: conflict_info_source
+      label: What is your source of information about the conflict?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: conflict_info_source_other
+      label: Other information source about the conflict?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: comments
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: conflict_info_source_other_details
+      label: Details of the other information source
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: conflict_prevention_info
+      label: What information or knowledge would help you make a more informed judgment
+        on conflict prevention?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: conflict_resolution_info
+      label: What information or knowledge would help you make a more informed judgment
+        on conflict resolution?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: conflict_info_impact
+      label: What information or knowledge would help you make a more informed judgment
+        on the impact of the conflict?
+      hint: null
+      type: text
+      options: []
+      required: false

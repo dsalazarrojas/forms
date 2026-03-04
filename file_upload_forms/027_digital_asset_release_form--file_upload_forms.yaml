@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Asset Release Form
+    pages:
+    - id: 1
+      name: upload_asset
+      label: Upload Asset
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: asset_details
+      label: Asset Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: asset_permissions
+      label: Permissions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''text'': ''Permission 1'', ''value'': 1}'
+      - '{''text'': ''Permission 2'', ''value'': 2}'
+      - '{''text'': ''Permission 3'', ''value'': 3}'
+      required: true
+    - id: 4
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: file_name
+      label: File Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: asset_type
+      label: Asset Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''text'': ''Type 1'', ''value'': 1}'
+      - '{''text'': ''Type 2'', ''value'': 2}'
+      - '{''text'': ''Type 3'', ''value'': 3}'
+      required: true
+    - id: 7
+      name: asset_version
+      label: Asset Version
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: upload_date
+      label: Upload Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: created_date
+      label: Created Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: updated_date
+      label: Updated Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: asset_tags
+      label: Asset Tags
+      hint: null
+      type: select_multiple
+      options:
+      - '{''text'': ''Tag 1'', ''value'': 1}'
+      - '{''text'': ''Tag 2'', ''value'': 2}'
+      - '{''text'': ''Tag 3'', ''value'': 3}'
+      required: true
+    - id: 12
+      name: asset_license
+      label: Asset License
+      hint: null
+      type: select_multiple
+      options:
+      - '{''text'': ''License 1'', ''value'': 1}'
+      - '{''text'': ''License 2'', ''value'': 2}'
+      required: true
+    - id: 13
+      name: asset_url
+      label: Asset URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: asset_description
+      label: Asset Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: file_size
+      label: File Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: asset_status
+      label: Asset Status
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Status 1'', ''value'': 1}'
+      - '{''text'': ''Status 2'', ''value'': 2}'
+      required: true
+    - id: 17
+      name: asset_notes
+      label: Asset Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: asset_tags_2
+      label: Asset Tags 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: asset_license_2
+      label: Asset License 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: upload_user
+      label: Upload User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: upload_date_time
+      label: Upload Date/Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: created_user
+      label: Created User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: updated_user
+      label: Updated User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: asset_id
+      label: Asset ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: asset_version_2
+      label: Asset Version 2
+      hint: null
+      type: number
+      options: []
+      required: false

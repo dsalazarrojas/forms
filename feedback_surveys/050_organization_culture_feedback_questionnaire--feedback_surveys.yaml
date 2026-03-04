@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: organization_culture_feedback_questionnaire
+    pages:
+    - id: 1
+      name: intro
+      label: intro
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: culture_climate
+      label: culture_climate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: leadership
+      label: leadership
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Strongly agree'', ''label'': ''Strongly agree''}'
+      - '{''value'': ''Somewhat agree'', ''label'': ''Somewhat agree''}'
+      - '{''value'': ''Somewhat disagree'', ''label'': ''Somewhat disagree''}'
+      - '{''value'': ''Strongly disagree'', ''label'': ''Strongly disagree''}'
+      required: false
+    - id: 4
+      name: communication
+      label: communication
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Strongly agree'', ''label'': ''Strongly agree''}'
+      - '{''value'': ''Somewhat agree'', ''label'': ''Somewhat agree''}'
+      - '{''value'': ''Somewhat disagree'', ''label'': ''Somewhat disagree''}'
+      - '{''value'': ''Strongly disagree'', ''label'': ''Strongly disagree''}'
+      required: false
+    - id: 5
+      name: trust
+      label: trust
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Strongly agree'', ''label'': ''Strongly agree''}'
+      - '{''value'': ''Somewhat agree'', ''label'': ''Somewhat agree''}'
+      - '{''value'': ''Somewhat disagree'', ''label'': ''Somewhat disagree''}'
+      - '{''value'': ''Strongly disagree'', ''label'': ''Strongly disagree''}'
+      required: false
+    - id: 6
+      name: collaboration
+      label: collaboration
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Strongly agree'', ''label'': ''Strongly agree''}'
+      - '{''value'': ''Somewhat agree'', ''label'': ''Somewhat agree''}'
+      - '{''value'': ''Somewhat disagree'', ''label'': ''Somewhat disagree''}'
+      - '{''value'': ''Strongly disagree'', ''label'': ''Strongly disagree''}'
+      required: false
+    - id: 7
+      name: feedback
+      label: feedback
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Strongly agree'', ''label'': ''Strongly agree''}'
+      - '{''value'': ''Somewhat agree'', ''label'': ''Somewhat agree''}'
+      - '{''value'': ''Somewhat disagree'', ''label'': ''Somewhat disagree''}'
+      - '{''value'': ''Strongly disagree'', ''label'': ''Strongly disagree''}'
+      required: false
+    - id: 8
+      name: work_life
+      label: work_life
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Strongly agree'', ''label'': ''Strongly agree''}'
+      - '{''value'': ''Somewhat agree'', ''label'': ''Somewhat agree''}'
+      - '{''value'': ''Somewhat disagree'', ''label'': ''Somewhat disagree''}'
+      - '{''value'': ''Strongly disagree'', ''label'': ''Strongly disagree''}'
+      required: false
+    - id: 9
+      name: growth
+      label: growth
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Strongly agree'', ''label'': ''Strongly agree''}'
+      - '{''value'': ''Somewhat agree'', ''label'': ''Somewhat agree''}'
+      - '{''value'': ''Somewhat disagree'', ''label'': ''Somewhat disagree''}'
+      - '{''value'': ''Strongly disagree'', ''label'': ''Strongly disagree''}'
+      required: false
+    - id: 10
+      name: recognition
+      label: recognition
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Strongly agree'', ''label'': ''Strongly agree''}'
+      - '{''value'': ''Somewhat agree'', ''label'': ''Somewhat agree''}'
+      - '{''value'': ''Somewhat disagree'', ''label'': ''Somewhat disagree''}'
+      - '{''value'': ''Strongly disagree'', ''label'': ''Strongly disagree''}'
+      required: false
+    - id: 11
+      name: feedback_mechanism
+      label: feedback_mechanism
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Strongly agree'', ''label'': ''Strongly agree''}'
+      - '{''value'': ''Somewhat agree'', ''label'': ''Somewhat agree''}'
+      - '{''value'': ''Somewhat disagree'', ''label'': ''Somewhat disagree''}'
+      - '{''value'': ''Strongly disagree'', ''label'': ''Strongly disagree''}'
+      required: false
+    - id: 12
+      name: open_ended
+      label: open_ended
+      hint: null
+      type: text
+      options: []
+      required: false

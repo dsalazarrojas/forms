@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Remodel Furnace Relocation
+    pages:
+    - id: 1
+      name: file_upload
+      label: Upload File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: schedule_renovations
+      label: Schedule Renovations
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: renovation_plans
+      label: Upload Plans
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: home_address
+      label: Home Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: renovation_area
+      label: Renovation Area
+      hint: null
+      type: select_one
+      options:
+      - furnace
+      - kitchen
+      - bathroom
+      - living_room
+      - basement
+      - attic
+      - garage
+      - backyard
+      required: false
+    - id: 7
+      name: renovation_schedule
+      label: Renovation Schedule
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - other
+      required: true
+    - id: 12
+      name: other_tool
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false

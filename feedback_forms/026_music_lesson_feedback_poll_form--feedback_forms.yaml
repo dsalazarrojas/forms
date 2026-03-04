@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Music Lesson Feedback Poll Form
+    pages:
+    - id: 1
+      name: music_lesson_feedback
+      label: What did you learn in this session?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: music_lesson_rating
+      label: How would you rate this session?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      required: true
+    - id: 3
+      name: music_lesson_comments
+      label: What did you enjoy most about this session?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: music_lesson_suggestions
+      label: Do you have any suggestions for me?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: music_lesson_improve
+      label: Is there anything I could improve on for your next session?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: music_lesson_next_session
+      label: Would you like to attend another session with me?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Yes, same time same day''}'
+      - '{''label'': ''No, but maybe another time''}'
+      - '{''label'': ''Yes, a different day and time''}'
+      required: true
+    - id: 7
+      name: music_lesson_comments_2
+      label: Do you have any other comments?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: music_lesson_email
+      label: How would you like to be contacted?
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: music_lesson_phone
+      label: Do you have a phone number I can contact you at?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: music_lesson_additional_comments
+      label: Any additional comments?
+      hint: null
+      type: text
+      options: []
+      required: false

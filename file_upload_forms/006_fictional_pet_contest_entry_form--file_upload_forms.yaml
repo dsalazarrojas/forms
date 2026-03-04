@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fictional Pet Contest Entry Form
+    pages:
+    - id: 1
+      name: contest_entry
+      label: Contest Entry
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: story
+      label: Story
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: artwork_upload
+      label: Artwork Upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: artist_name
+      label: Artist Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: artwork_type
+      label: Artwork Type
+      hint: null
+      type: select_multiple
+      options:
+      - Painting
+      - Drawing
+      - Sculpture
+      - Photography
+      - Digital Art
+      required: false
+    - id: 6
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submission_agreement
+      label: Submission Agreement
+      hint: null
+      type: note
+      options: []
+      required: false

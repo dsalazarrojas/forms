@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Crop Yield Data Audit Form
+    pages:
+    - id: 1
+      name: page_1
+      label: page_1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: section_1
+      label: section_1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: field_1
+      label: field_1
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: field_2
+      label: field_2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: field_3
+      label: field_3
+      hint: null
+      type: number
+      options: []
+      required: false

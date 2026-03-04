@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Air Travel Compensation Survey
+    pages:
+    - id: 1
+      name: passenger_name
+      label: Passenger name
+      hint: Optional for anonymous feedback
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: flight_number
+      label: Flight number
+      hint: Flight identifier for the disrupted trip
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: disruption_type
+      label: Disruption type
+      hint: Delay, cancellation, or baggage issue
+      type: select_one
+      options:
+      - Delay
+      - Cancellation
+      - Baggage loss
+      - Other
+      required: true
+    - id: 4
+      name: compensation_received
+      label: Compensation received
+      hint: Was compensation offered and accepted
+      type: select_one
+      options:
+      - true
+      - false
+      - Offered but declined
+      required: true
+    - id: 5
+      name: satisfaction_with_resolution
+      label: Satisfaction with resolution
+      hint: Rate satisfaction with how issue was resolved
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      required: false
+    - id: 6
+      name: time_to_resolution_hours
+      label: Time to resolution in hours
+      hint: Time taken to resolve the issue
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: refund_or_voucher
+      label: Was refund or voucher provided
+      hint: Type of compensation provided
+      type: select_one
+      options:
+      - Refund
+      - Voucher
+      - Cash
+      - None
+      required: false
+    - id: 8
+      name: additional_feedback
+      label: Additional feedback
+      hint: Suggestions for improving compensation process
+      type: text
+      options: []
+      required: false

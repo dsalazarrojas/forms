@@ -1,0 +1,93 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: AOB Suggestion Box
+    pages:
+    - id: 1
+      name: submitter_name
+      label: Name
+      hint: Your name (optional)
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: submitter_email
+      label: Email
+      hint: Your email (optional, for follow-up)
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: membership_status
+      label: Membership Status
+      hint: Are you currently a member of our organization?
+      type: select_one
+      options: ["Current Member", "Former Member", "Non-Member", "Prospective Member"]
+      required: true
+    - id: 4
+      name: feedback_type
+      label: Type of Feedback
+      hint: What type of feedback are you providing?
+      type: select_one
+      options: ["Suggestion", "Complaint", "Compliment", "Idea for Improvement", "General Comment"]
+      required: true
+    - id: 5
+      name: feedback_category
+      label: Feedback Category
+      hint: Which area does your feedback relate to?
+      type: select_one
+      options: ["Programs and Events", "Membership Services", "Facilities", "Communication", "Website", "Volunteer Opportunities", "Other"]
+      required: true
+    - id: 6
+      name: feedback_subject
+      label: Subject of Feedback
+      hint: Brief title or subject of your feedback
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: detailed_feedback
+      label: Detailed Feedback
+      hint: Please provide your detailed feedback or suggestion
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: impact_level
+      label: Impact Level
+      hint: How significantly would your suggestion impact the organization?
+      type: select_one
+      options: ["Minor", "Moderate", "Major", "Transformative"]
+      required: false
+    - id: 9
+      name: urgency_level
+      label: Urgency Level
+      hint: How urgent is this matter?
+      type: select_one
+      options: ["Low", "Medium", "High", "Immediate Attention Required"]
+      required: false
+    - id: 10
+      name: anonymity_preference
+      label: Anonymity Preference
+      hint: Do you wish to remain anonymous?
+      type: select_one
+      options: ["Yes", "No"]
+      required: false
+    - id: 11
+      name: follow_up_requested
+      label: Follow-up Requested
+      hint: Would you like to be contacted regarding this feedback?
+      type: select_one
+      options: ["Yes", "No"]
+      required: false

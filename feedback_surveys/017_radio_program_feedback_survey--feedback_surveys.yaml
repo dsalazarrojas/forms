@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Radio Program Feedback Survey
+    pages:
+    - id: 1
+      name: radio_program_feedback_survey_1
+      label: How did you feel about todays show
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: radio_program_feedback_survey_2
+      label: What did you like most about today's show
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      required: false
+    - id: 3
+      name: radio_program_feedback_survey_3
+      label: What do you think we could improve
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: radio_program_feedback_survey_4
+      label: Would you recommend this show
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 5
+      name: radio_program_feedback_survey_5
+      label: How likely are you to listen to our show again
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: radio_program_feedback_survey_6
+      label: Why did you choose to listen to our show
+      hint: null
+      type: select_multiple
+      options:
+      - Option 6
+      - Option 7
+      - Option 8
+      - Option 9
+      - Option 10
+      required: false
+    - id: 7
+      name: radio_program_feedback_survey_7
+      label: How likely are you to listen to our show again
+      hint: null
+      type: select_one
+      options:
+      - 1-2
+      - 3-5
+      - 6-8
+      - 9-10
+      required: false
+    - id: 8
+      name: radio_program_feedback_survey_8
+      label: What time of day did you tune in
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: radio_program_feedback_survey_9
+      label: Date of the week did you tune in
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: radio_program_feedback_survey_10
+      label: What type of content would you like to see more
+      hint: null
+      type: select_multiple
+      options:
+      - Option 11
+      - Option 12
+      - Option 13
+      - Option 14
+      - Option 15
+      required: false

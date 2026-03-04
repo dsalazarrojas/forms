@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Feedback Form
+    pages:
+    - id: 1
+      name: travel_feedback_form_fields_1
+      label: Travel Agency
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''agency1'', ''label'': ''Agency 1'', ''value'': ''agency1''}'
+      - '{''name'': ''agency2'', ''label'': ''Agency 2'', ''value'': ''agency2''}'
+      required: false
+    - id: 2
+      name: travel_feedback_form_fields_2
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: travel_feedback_form_fields_3
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: travel_feedback_form_fields_4
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: travel_feedback_form_fields_5
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: travel_feedback_form_fields_6
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: travel_feedback_form_fields_7
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: travel_feedback_form_fields_8
+      label: Travel Date
+      hint: null
+      type: date
+      options: []
+      required: false

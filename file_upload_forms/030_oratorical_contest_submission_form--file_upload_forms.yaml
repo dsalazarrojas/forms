@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Oratorical Contest Submission Form
+    pages:
+    - id: 1
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: uploaded_materials
+      label: Uploaded Materials
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_organizer_details
+      label: Event Organizer Details
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: participant_statement
+      label: Participant Statement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: event_organizer_email
+      label: Event Organizer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: event_organizer_phone
+      label: Event Organizer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: participant_statement_files
+      label: Participant Statement Files
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: participant_agreement
+      label: Participant Agreement
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''I agree''}'
+      - '{''label'': ''I disagree''}'
+      required: true
+    - id: 12
+      name: event_agreement
+      label: Event Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Maybe''}'
+      required: true

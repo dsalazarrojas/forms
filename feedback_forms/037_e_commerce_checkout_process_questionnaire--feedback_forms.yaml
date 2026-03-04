@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: e_commerce_checkout_process_questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: checkout_process
+      label: checkout_process
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''too_short''}'
+      - '{''id'': 2, ''label'': ''too_long''}'
+      - '{''id'': 3, ''label'': ''confusing''}'
+      - '{''id'': 4, ''label'': ''good''}'
+      required: true
+    - id: 3
+      name: product_info
+      label: product_info
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''not_enough_info''}'
+      - '{''id'': 2, ''label'': ''too_much_info''}'
+      - '{''id'': 3, ''label'': ''just_right''}'
+      required: true
+    - id: 4
+      name: payment_process
+      label: payment_process
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''too_complicated''}'
+      - '{''id'': 2, ''label'': ''too_simple''}'
+      - '{''id'': 3, ''label'': ''just_right''}'
+      required: true
+    - id: 5
+      name: overall_experience
+      label: overall_experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: suggestions
+      label: suggestions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''no_suggestions''}'
+      - '{''id'': 2, ''label'': ''have_suggestions''}'
+      - '{''id'': 3, ''label'': ''unsure''}'
+      required: false
+    - id: 8
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact
+      label: contact
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: contact_other
+      label: contact_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email_other
+      label: email_other
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submitted
+      label: submitted
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''not_submitted''}'
+      - '{''id'': 2, ''label'': ''partially_submitted''}'
+      - '{''id'': 3, ''label'': ''fully_submitted''}'
+      required: true

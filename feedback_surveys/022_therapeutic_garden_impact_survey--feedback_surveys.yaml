@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Therapeutic Garden Impact Survey
+    pages:
+    - id: 1
+      name: how_many_visits
+      label: How many visits to the garden have you had?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: how_many_visits_other
+      label: Other visits to the garden
+      hint: null
+      type: select_multiple
+      options:
+      - Visits with family/friends
+      - Visits with a healthcare provider
+      - Visits with a support person
+      required: false
+    - id: 3
+      name: how_old
+      label: How old are you?
+      hint: null
+      type: select_one
+      options:
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55-64
+      - 65 or older
+      required: false
+    - id: 4
+      name: visit_length
+      label: How long do you visit the garden?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: visit_frequency
+      label: How often do you visit the garden?
+      hint: null
+      type: select_one
+      options:
+      - 1-2 times a week
+      - 3-4 times a week
+      - 5-6 times a week
+      - Daily
+      required: false
+    - id: 6
+      name: visit_frequency_other
+      label: Other
+      hint: null
+      type: select_multiple
+      options:
+      - 1 time a month
+      - 2-3 times a month
+      - 4 or more times a month
+      - Less than once a year
+      required: false
+    - id: 7
+      name: well_beings
+      label: How would you rate your overall well-being before visiting the garden?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: well_beings_after
+      label: How would you rate your overall well-being after visiting the garden?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: well_beings_change
+      label: Has your well-being changed after visiting the garden?
+      hint: null
+      type: select_multiple
+      options:
+      - Much better
+      - Somewhat better
+      - A little better
+      - No change
+      - Somewhat worse
+      - Much worse
+      required: false
+    - id: 10
+      name: well_beings_change_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: why_visit
+      label: Why do you visit the garden?
+      hint: null
+      type: select_multiple
+      options:
+      - To relax and unwind
+      - To socialize with others
+      - To exercise or be active
+      - For spiritual or meditative reasons
+      - Other
+      required: false
+    - id: 12
+      name: how_long_visit
+      label: How long do you typically visit the garden for?
+      hint: null
+      type: time
+      options: []
+      required: false

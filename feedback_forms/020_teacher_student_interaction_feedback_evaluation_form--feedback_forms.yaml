@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Teacher Student Interaction Feedback Evaluation Form
+    pages:
+    - id: 1
+      name: interaction_type
+      label: interaction_type
+      hint: null
+      type: select_one
+      options:
+      - Positive
+      - Negative
+      - Neutral
+      required: false
+    - id: 2
+      name: question1
+      label: teacher_supportiveness
+      hint: How supportive was the teacher?
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: question2
+      label: teacher_effectiveness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: question3
+      label: student_learning_outcome
+      hint: How much learning did you gain from the interaction?
+      type: select_one
+      options:
+      - a lot
+      - some
+      - a little
+      - none
+      required: false
+    - id: 5
+      name: question4
+      label: teacher_clarification
+      hint: Did the teacher provide clear explanations?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: question5
+      label: teacher_availability
+      hint: null
+      type: select_one
+      options:
+      - Always available
+      - Mostly available
+      - Sometimes available
+      - Rarely available
+      required: false
+    - id: 7
+      name: question6
+      label: teacher_helpfulness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: question7
+      label: student_frustration_level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: question8
+      label: teacher_frustration_level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: question9
+      label: student_satisfaction_level
+      hint: null
+      type: number
+      options: []
+      required: false

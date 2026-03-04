@@ -1,0 +1,389 @@
+inputSchema:
+  type: object
+  properties:
+    title: Winter Apparel Feedback Survey
+    pages:
+    - id: 1
+      name: winter_apparel_quality
+      label: Overall quality of winter clothing
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 2
+      name: winter_apparel_features
+      label: Features of winter clothing
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: winter_clothing_relevance
+      label: How relevant are these winter clothing items to your needs?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: winter_clothing_recommendations
+      label: What are your recommendations for our winter clothing?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: winter_clothing_quality_improvement
+      label: What do you think needs improvement in our winter clothing?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: overall_satisfaction
+      label: Overall satisfaction with winter clothing
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: quality_rating
+      label: Quality rating of winter clothing
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: features_rating
+      label: Features rating of winter clothing
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: relevance_rating
+      label: Relevance rating of winter clothing
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: winter_clothing_price
+      label: Winter clothing price range
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: purchase_reliability
+      label: How likely are you to purchase winter clothing from us again?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: purchase_further_recommendation
+      label: Would you further recommend our winter clothing to a friend or colleague?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: feedback_comments
+      label: Any further comments about winter clothing?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: feedback
+      label: Additional feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: age
+      label: What's your age?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: age_group
+      label: Age group
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: zip_code
+      label: Zip/Postal code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: region
+      label: Region
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: device
+      label: Device
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: language
+      label: Language
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 26
+      name: currency
+      label: Currency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 27
+      name: country
+      label: Country
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 28
+      name: feedback_language
+      label: Feedback language
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 29
+      name: feedback_device
+      label: Feedback device
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 30
+      name: feedback_browser
+      label: Browser
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 31
+      name: feedback_language_version
+      label: Language version
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 32
+      name: feedback_location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 33
+      name: feedback_region
+      label: Region
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 34
+      name: feedback_device_size
+      label: Device size
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 35
+      name: feedback_browser_size
+      label: Browser size
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 36
+      name: feedback_resolution
+      label: Resolution
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 37
+      name: feedback_os
+      label: OS
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 38
+      name: feedback_browser_type
+      label: Browser type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 39
+      name: feedback_language_os
+      label: Language OS
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 40
+      name: feedback_device_os
+      label: Device OS
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 41
+      name: feedback_browser_os
+      label: Browser OS
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 42
+      name: feedback_location_os
+      label: Location OS
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 43
+      name: feedback_language_version_os
+      label: Language version OS
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 44
+      name: feedback_device_size_os
+      label: Device size OS
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 45
+      name: feedback_browser_size_os
+      label: Browser size OS
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 46
+      name: feedback_resolution_os
+      label: Resolution OS
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

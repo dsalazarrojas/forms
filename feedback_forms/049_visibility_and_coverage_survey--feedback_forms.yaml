@@ -1,0 +1,107 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Visibility And Coverage Survey
+    pages:
+    - id: 1
+      name: survey_organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: question1
+      label: What is the purpose of this survey?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: question1_answer
+      label: To understand customer needs and preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: question2
+      label: How would you rate the visibility of our product/service?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Not visible''}'
+      - '{''id'': 2, ''name'': ''Somewhat visible''}'
+      - '{''id'': 3, ''name'': ''Highly visible''}'
+      required: false
+    - id: 5
+      name: question3
+      label: How would you rate the coverage of our product/service?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Not covered''}'
+      - '{''id'': 2, ''name'': ''Somewhat covered''}'
+      - '{''id'': 3, ''name'': ''Highly covered''}'
+      - '{''id'': 4, ''name'': ''Very highly covered''}'
+      - '{''id'': 5, ''name'': ''Extremely highly covered''}'
+      - '{''id'': 6, ''name'': ''Completely covered''}'
+      required: false
+    - id: 6
+      name: question4
+      label: Have you ever used this product/service before?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      required: false
+    - id: 7
+      name: feedback
+      label: What feedback do you have about our product/service?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: question5
+      label: What would you suggest we do next?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: question6
+      label: How likely are you to recommend our product/service to a friend?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Not likely''}'
+      - '{''id'': 2, ''name'': ''Somewhat likely''}'
+      - '{''id'': 3, ''name'': ''Highly likely''}'
+      - '{''id'': 4, ''name'': ''Very likely''}'
+      - '{''id'': 5, ''name'': ''Extremely likely''}'
+      required: false
+    - id: 10
+      name: question7
+      label: How likely are you to use our product/service again?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Not likely''}'
+      - '{''id'': 2, ''name'': ''Somewhat likely''}'
+      - '{''id'': 3, ''name'': ''Highly likely''}'
+      - '{''id'': 4, ''name'': ''Very likely''}'
+      - '{''id'': 5, ''name'': ''Extremely likely''}'
+      required: false

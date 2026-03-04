@@ -1,0 +1,170 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Club Facilities Member Feedback Form
+    pages:
+    - id: 1
+      name: member_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: member_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: feedback_date
+      label: Feedback Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: member_status
+      label: Membership Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Prospective
+      - Lifetime Member
+      required: true
+    - id: 5
+      name: facility_section
+      label: Facility Section
+      hint: Which part of the facility are you rating
+      type: select_multiple
+      options:
+      - Main Hall
+      - Fitness Area
+      - Locker Rooms
+      - Kitchen
+      - Meeting Rooms
+      - Parking
+      - Outdoor Space
+      required: true
+    - id: 6
+      name: cleanliness_rating
+      label: Cleanliness and Maintenance
+      hint: Rate the cleanliness
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 7
+      name: equipment_rating
+      label: Equipment and Amenities
+      hint: Are facilities well equipped
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 8
+      name: accessibility_rating
+      label: Accessibility and Comfort
+      hint: How easy to navigate and use
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 9
+      name: temperature_rating
+      label: Temperature Control
+      hint: null
+      type: select_one
+      options:
+      - Too Cold
+      - Adequate
+      - Comfortable
+      - Too Warm
+      required: false
+    - id: 10
+      name: lighting_rating
+      label: Lighting Quality
+      hint: Is lighting adequate
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: false
+    - id: 11
+      name: noise_level
+      label: Noise Level
+      hint: Is noise reasonable
+      type: select_one
+      options:
+      - Too Noisy
+      - Acceptable
+      - Quiet
+      - Very Quiet
+      required: false
+    - id: 12
+      name: staff_helpfulness
+      label: Staff Helpfulness
+      hint: Rate staff assistance
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: false
+    - id: 13
+      name: overall_satisfaction
+      label: Overall Facility Satisfaction
+      hint: Rate overall satisfaction
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Dissatisfied
+      - Neutral
+      - Satisfied
+      - Very Satisfied
+      required: true
+    - id: 14
+      name: improvements_needed
+      label: Most Needed Improvements
+      hint: What needs to be improved most
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: additional_comments
+      label: Additional Comments or Suggestions
+      hint: Any other feedback
+      type: text
+      options: []
+      required: false

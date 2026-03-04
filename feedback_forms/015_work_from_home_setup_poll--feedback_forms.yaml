@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Work From Home Setup Poll
+    pages:
+    - id: 1
+      name: home_office_setup
+      label: Home Office Setup
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: work_location
+      label: Work Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: remote_work_status
+      label: Remote Work Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 4
+      name: setup_support
+      label: Setup and Support
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: work_arrangements
+      label: Work Arrangements
+      hint: null
+      type: text
+      options: []
+      required: false

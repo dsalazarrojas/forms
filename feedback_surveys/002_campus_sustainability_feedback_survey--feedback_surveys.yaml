@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Campus Sustainability Feedback Survey
+    pages:
+    - id: 1
+      name: role_at_campus
+      label: Role at Campus
+      hint: Choose your primary affiliation with the campus
+      type: select_one
+      options:
+      - Student
+      - Faculty
+      - Staff
+      - Alumnus
+      required: true
+    - id: 2
+      name: department_major
+      label: Department or Major
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: awareness_section
+      label: -- Awareness --
+      hint: How much do you know about our current initiatives
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: overall_awareness
+      label: Overall sustainability awareness
+      hint: How would you rate your knowledge of campus sustainability
+      type: select_one
+      options:
+      - Very Low
+      - Low
+      - Moderate
+      - High
+      - Very High
+      required: true
+    - id: 5
+      name: recycling_knowledge
+      label: Knowledge of campus recycling programs
+      hint: null
+      type: select_one
+      options:
+      - Very Low
+      - Low
+      - Moderate
+      - High
+      - Very High
+      required: true
+    - id: 6
+      name: energy_knowledge
+      label: Knowledge of energy conservation efforts
+      hint: null
+      type: select_one
+      options:
+      - Very Low
+      - Low
+      - Moderate
+      - High
+      - Very High
+      required: true
+    - id: 7
+      name: satisfaction_section
+      label: -- Satisfaction --
+      hint: Rate your satisfaction with campus services
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: waste_satisfaction
+      label: Satisfaction with waste management
+      hint: Effectiveness of trash and recycling pickup
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Dissatisfied
+      - Neutral
+      - Satisfied
+      - Very Satisfied
+      required: true
+    - id: 9
+      name: green_spaces_satisfaction
+      label: Satisfaction with green spaces
+      hint: Maintenance and availability of campus parks and gardens
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Dissatisfied
+      - Neutral
+      - Satisfied
+      - Very Satisfied
+      required: true
+    - id: 10
+      name: dining_satisfaction
+      label: Satisfaction with sustainable dining options
+      hint: Availability of local, organic, or plant-based foods
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Dissatisfied
+      - Neutral
+      - Satisfied
+      - Very Satisfied
+      required: true
+    - id: 11
+      name: participation_section
+      label: -- Participation --
+      hint: Tell us about your involvement
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: recycling_frequency
+      label: Frequency of using recycling bins
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      - Never
+      required: true
+    - id: 13
+      name: green_event_participation
+      label: Participation in campus green events
+      hint: null
+      type: select_one
+      options:
+      - Regularly
+      - Occasionally
+      - Never
+      required: true
+    - id: 14
+      name: willingness_to_participate
+      label: Willingness to participate in future initiatives
+      hint: null
+      type: select_one
+      options:
+      - Very Willing
+      - Willing
+      - Neutral
+      - Unwilling
+      - Very Unwilling
+      required: true
+    - id: 15
+      name: improvement_areas
+      label: Areas for improvement
+      hint: Select all that you think need attention
+      type: select_multiple
+      options:
+      - Waste
+      - Energy
+      - Water
+      - Transport
+      - Food
+      - Other
+      required: false
+    - id: 16
+      name: new_project_suggestion
+      label: Suggestion for a new project
+      hint: Share an idea for a sustainability initiative
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: overall_rating
+      label: Overall campus rating for sustainability
+      hint: 1 to 10 scale
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

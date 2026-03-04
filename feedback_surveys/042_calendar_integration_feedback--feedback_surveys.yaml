@@ -1,0 +1,227 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Calendar Integration Feedback
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Your Name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: email_address
+        label: Email Address
+        hint: For follow-up
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: company_name
+        label: Company Name
+        hint: Your organization
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: role
+        label: Your Role
+        hint: Your job title
+        type: select_one
+        options:
+          - End user
+          - IT administrator
+          - Manager
+          - Developer
+          - Other
+        required: true
+      - id: 5
+        name: calendar_platform
+        label: Calendar Platform Used
+        hint: Which calendar do you use
+        type: select_one
+        options:
+          - Google Calendar
+          - Microsoft Outlook
+          - Apple Calendar
+          - Office 365
+          - Other
+        required: true
+      - id: 6
+        name: integration_used
+        label: Integration Used
+        hint: Which integration are you providing feedback on
+        type: select_one
+        options:
+          - CRM integration
+          - Project management
+          - Email client
+          - Video conferencing
+          - Task management
+          - Custom integration
+          - Other
+        required: true
+      - id: 7
+        name: usage_duration
+        label: How Long Have You Used This
+        hint: Duration of use
+        type: select_one
+        options:
+          - Less than 1 week
+          - 1-4 weeks
+          - 1-3 months
+          - 3-6 months
+          - Over 6 months
+        required: true
+      - id: 8
+        name: usage_frequency
+        label: Usage Frequency
+        hint: How often do you use it
+        type: select_one
+        options:
+          - Multiple times daily
+          - Once daily
+          - Several times weekly
+          - Once weekly
+          - Rarely
+        required: true
+      - id: 9
+        name: ease_of_use
+        label: Ease of Use
+        hint: How easy is it to use
+        type: select_one
+        options:
+          - Very easy
+          - Easy
+          - Neutral
+          - Difficult
+          - Very difficult
+        required: true
+      - id: 10
+        name: reliability_rating
+        label: Reliability Rating
+        hint: How reliable is the integration
+        type: select_one
+        options:
+          - Very reliable
+          - Reliable
+          - Neutral
+          - Unreliable
+          - Very unreliable
+        required: true
+      - id: 11
+        name: sync_accuracy
+        label: Sync Accuracy
+        hint: How accurate is the calendar sync
+        type: select_one
+        options:
+          - Always accurate
+          - Usually accurate
+          - Sometimes has errors
+          - Often has errors
+          - Never accurate
+        required: true
+      - id: 12
+        name: speed_performance
+        label: Speed and Performance
+        hint: How is the performance speed
+        type: select_one
+        options:
+          - Very fast
+          - Fast
+          - Average
+          - Slow
+          - Very slow
+        required: true
+      - id: 13
+        name: features_satisfaction
+        label: Features Satisfaction
+        hint: How satisfied with available features
+        type: select_one
+        options:
+          - Very satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very dissatisfied
+        required: true
+      - id: 14
+        name: issues_encountered
+        label: Issues Encountered
+        hint: What problems have you experienced
+        type: select_multiple
+        options:
+          - None
+          - Sync failures
+          - Duplicate events
+          - Missing events
+          - Slow performance
+          - Login issues
+          - Notification problems
+          - UI confusion
+          - Other
+        required: false
+      - id: 15
+        name: issue_description
+        label: Issue Description
+        hint: Describe any issues in detail
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: missing_features
+        label: Missing Features
+        hint: What features would you like to see
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: improvement_suggestions
+        label: Improvement Suggestions
+        hint: How could we improve
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: would_recommend
+        label: Would You Recommend
+        hint: Would you recommend this integration
+        type: select_one
+        options:
+          - Definitely yes
+          - Probably yes
+          - Not sure
+          - Probably not
+          - Definitely not
+        required: true
+      - id: 19
+        name: overall_satisfaction
+        label: Overall Satisfaction
+        hint: How satisfied are you overall
+        type: select_one
+        options:
+          - Very satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very dissatisfied
+        required: true
+      - id: 20
+        name: additional_feedback
+        label: Additional Feedback
+        hint: Any other comments
+        type: text
+        options: []
+        required: false

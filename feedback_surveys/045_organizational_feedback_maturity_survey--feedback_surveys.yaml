@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Organizational Feedback Maturity Survey
+    pages:
+    - id: 1
+      name: feedback_survey_questions
+      label: feedback survey questions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: feedback_categories
+      label: feedback categories
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: feedback_frequency
+      label: feedback frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: feedback_methods
+      label: feedback methods
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: feedback_channels
+      label: feedback channels
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: feedback_recipients
+      label: feedback recipients
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: organizational_level
+      label: organizational level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 8
+      name: frequency_of_feedback
+      label: frequency of feedback
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: feedback_on_issues
+      label: feedback on issues
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: employee_satisfaction
+      label: employee satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 11
+      name: communication_channels
+      label: communication channels
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: feedback_on_actions
+      label: feedback on actions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: employee_engagement
+      label: employee engagement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: organizational_culture
+      label: organizational culture
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Feedback Release Form
+    pages:
+    - id: 1
+      name: employee_feedback
+      label: Employee Feedback
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: feedback_question_1
+      label: Feedback Question 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: feedback_question_2
+      label: Feedback Question 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date_of_completion
+      label: Date of Completion
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time_of_completion
+      label: Time of Completion
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

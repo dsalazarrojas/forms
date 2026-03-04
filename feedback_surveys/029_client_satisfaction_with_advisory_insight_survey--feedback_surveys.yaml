@@ -1,0 +1,167 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Satisfaction With Advisory Insight Survey
+    pages:
+    - id: 1
+      name: survey_intro
+      label: -- Advisory Services Feedback Survey --
+      hint: Help us understand your experience with our advisory services
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: engagement_duration
+      label: Length of Engagement
+      hint: How long have you worked with us?
+      type: select_one
+      options:
+      - Less than 3 months
+      - 3-6 months
+      - 6-12 months
+      - 1-2 years
+      - 2+ years
+      required: true
+    - id: 5
+      name: advisory_quality
+      label: Quality of Advisory Services
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Fair
+      - Poor
+      required: true
+    - id: 6
+      name: insights_relevance
+      label: Relevance of Insights Provided
+      hint: How applicable are the insights to your situation?
+      type: select_one
+      options:
+      - Highly relevant
+      - Relevant
+      - Somewhat relevant
+      - Minimally relevant
+      - Not relevant
+      required: true
+    - id: 7
+      name: actionability
+      label: Actionability of Recommendations
+      hint: Can you realistically act on the recommendations?
+      type: select_one
+      options:
+      - Highly actionable
+      - Actionable
+      - Somewhat actionable
+      - Difficult to implement
+      - Not actionable
+      required: true
+    - id: 8
+      name: business_impact
+      label: Business Impact of Recommendations
+      hint: What impact have the recommendations had?
+      type: select_one
+      options:
+      - Significant positive impact
+      - Moderate positive impact
+      - Some positive impact
+      - No measurable impact
+      - Negative impact
+      required: true
+    - id: 9
+      name: advisor_expertise
+      label: Advisor Expertise and Knowledge
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Fair
+      - Poor
+      required: true
+    - id: 10
+      name: communication_quality
+      label: Communication Quality
+      hint: Clarity and effectiveness of advisory communications
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Fair
+      - Poor
+      required: true
+    - id: 11
+      name: responsiveness
+      label: Responsiveness to Your Needs
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Fair
+      - Poor
+      required: true
+    - id: 12
+      name: value_delivery
+      label: Value Delivered for Investment
+      hint: null
+      type: select_one
+      options:
+      - Excellent value
+      - Good value
+      - Fair value
+      - Poor value
+      - No value
+      required: true
+    - id: 13
+      name: future_engagement
+      label: Would You Continue or Expand Engagement?
+      hint: null
+      type: select_one
+      options:
+      - Definitely yes
+      - Probably yes
+      - Uncertain
+      - Probably not
+      - Definitely not
+      required: true
+    - id: 14
+      name: recommendation_likelihood
+      label: Likelihood to Recommend to Others
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: improvement_suggestions
+      label: Suggestions for Improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: additional_feedback
+      label: Additional Feedback or Comments
+      hint: null
+      type: text
+      options: []
+      required: false

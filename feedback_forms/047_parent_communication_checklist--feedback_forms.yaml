@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parent Communication Checklist
+    pages:
+    - id: 1
+      name: parent_update
+      label: parent_update
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_update
+      label: event_update
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: communication_method
+      label: communication_method
+      hint: null
+      type: select_one
+      options:
+      - text
+      - email
+      - phone
+      required: false
+    - id: 4
+      name: parent_notification
+      label: parent_notification
+      hint: null
+      type: select_multiple
+      options:
+      - 'yes'
+      - 'no'
+      required: false
+    - id: 5
+      name: other_update
+      label: other_update
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: other_parent
+      label: other_parent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: additional_parent
+      label: additional_parent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: other_event
+      label: other_event
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: additional_event
+      label: additional_event
+      hint: null
+      type: text
+      options: []
+      required: false

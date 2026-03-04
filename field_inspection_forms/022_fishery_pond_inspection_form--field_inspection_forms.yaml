@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fishery Pond Inspection Form
+    pages:
+    - id: 1
+      name: general_information
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pond_conditions
+      label: Pond Conditions
+      hint: Enter detailed description of pond conditions
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: water_quality
+      label: Water Quality
+      hint: null
+      type: select_one
+      options:
+      - '{''Water Quality'': ''Very Good''}'
+      - '{''Water Quality'': ''Good''}'
+      - '{''Water Quality'': ''Fair''}'
+      - '{''Water Quality'': ''Poor''}'
+      required: false
+    - id: 4
+      name: water_temperature
+      label: Water Temperature (°C)
+      hint: Enter water temperature in °C
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: fish_count
+      label: Fish Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: water_level
+      label: Water Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 7
+      name: pond_life
+      label: Pond Life
+      hint: null
+      type: select_multiple
+      options:
+      - Algae Bloom
+      - Fish Parasite
+      - Other
+      required: false
+    - id: 8
+      name: fish_disease
+      label: Fish Disease
+      hint: null
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
+      - Unknown
+      required: false
+    - id: 9
+      name: note
+      label: Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email_notify
+      label: Email Notify
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false

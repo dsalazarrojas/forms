@@ -1,0 +1,121 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Brand Image Assessment Survey
+    pages:
+      - id: 1
+        name: perception_header
+        label: -- Brand Perception Survey --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: cust_id_opt
+        label: Customer ID / Name (Optional)
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: familiarity_lvl
+        label: How familiar are you with our brand?
+        hint: null
+        type: select_one
+        options: [Very Familiar, Somewhat Familiar, Not Very Familiar, Just Heard of It]
+        required: true
+      - id: 4
+        name: attributes_header
+        label: -- Brand Attributes --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 5
+        name: quality_score
+        label: How would you rate the quality of our products and services?
+        hint: null
+        type: select_one
+        options: [Excellent, Good, Average, Below Average, Poor]
+        required: true
+      - id: 6
+        name: value_score
+        label: How would you rate the value for money?
+        hint: null
+        type: select_one
+        options: [Excellent, Good, Average, Below Average, Poor]
+        required: true
+      - id: 7
+        name: innovation_score
+        label: To what extent do you perceive our brand as innovative?
+        hint: null
+        type: select_one
+        options: [Highly Innovative, Somewhat Innovative, Not very Innovative, Not at all Innovative]
+        required: true
+      - id: 8
+        name: emotional_header
+        label: -- Emotional Connection --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 9
+        name: brand_words
+        label: What three words come to mind when you think of our brand?
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: trust_score
+        label: How much do you trust our brand?
+        hint: null
+        type: select_one
+        options: [Completely Trust, Mostly Trust, Neutral, Somewhat Distrust, Completely Distrust]
+        required: true
+      - id: 11
+        name: comparison_header
+        label: -- Comparison --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: competitor_diff
+        label: What makes our brand stand out compared to competitors?
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 13
+        name: recommend_likelihood
+        label: How likely are you to recommend our brand to others?
+        hint: null
+        type: select_one
+        options: [Extremely Likely, Likely, Neutral, Unlikely, Extremely Unlikely]
+        required: true
+      - id: 14
+        name: image_improve_feedback
+        label: Any other comments on how we can improve our brand image?
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: surv_dt
+        label: Survey Date
+        hint: null
+        type: date
+        options: []
+        required: true

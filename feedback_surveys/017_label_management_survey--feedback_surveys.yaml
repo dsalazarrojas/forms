@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Label Management Survey
+    pages:
+    - id: 1
+      name: operations_team
+      label: operations_team
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: label_design
+      label: label_design
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: manufacturing_challenges
+      label: manufacturing_challenges
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: logistics_needs
+      label: logistics_needs
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Operations Team''}'
+      - '{''label'': ''Logistics Team''}'
+      - '{''label'': ''Manufacturing Team''}'
+      required: false
+    - id: 5
+      name: feature_requests
+      label: feature_requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: challenges
+      label: challenges
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: workflows
+      label: workflows
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: label_workflows
+      label: label_workflows
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: current_label_challenges
+      label: current_label_challenges
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: feature_needs
+      label: feature_needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: label_design_comments
+      label: label_design_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: manufacturing_needs
+      label: manufacturing_needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: workflows_comments
+      label: workflows_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: logistics_needs
+      label: logistics_needs
+      hint: null
+      type: text
+      options: []
+      required: false

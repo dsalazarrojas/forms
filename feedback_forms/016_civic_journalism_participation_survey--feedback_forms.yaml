@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Civic Journalism Participation Survey
+    pages:
+    - id: 1
+      name: participant_info_header
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: organization
+      label: Organization or Affiliation
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: involvement_header
+      label: -- Involvement in Civic Journalism --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: involvement_type
+      label: How have you been involved - select all that apply
+      hint: null
+      type: select_multiple
+      options:
+      - Citizen reporter
+      - Story contributor or source
+      - Community event covered
+      - Audience member or reader
+      - Social media engagement
+      - Workshop participant
+      - Advisory board member
+      - Volunteer
+      - Other
+      required: true
+    - id: 7
+      name: participation_duration
+      label: How long have you been involved
+      hint: null
+      type: select_one
+      options:
+      - Less than 3 months
+      - 3-6 months
+      - 6-12 months
+      - 1-2 years
+      - 2+ years
+      required: true
+    - id: 8
+      name: stories_submitted
+      label: Number of stories or contributions submitted
+      hint: Approximate count
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: experience_header
+      label: -- Experience and Impact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: experience_quality
+      label: Rate your overall experience with civic journalism
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 11
+      name: impact_feeling
+      label: Do you feel your participation makes a difference
+      hint: null
+      type: select_one
+      options:
+      - Strongly agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly disagree
+      required: true
+    - id: 12
+      name: community_connection
+      label: Has civic journalism helped you feel more connected to community
+      hint: null
+      type: select_one
+      options:
+      - Very much
+      - Somewhat
+      - Neutral
+      - Not much
+      - Not at all
+      required: true
+    - id: 13
+      name: trust_in_journalism
+      label: Impact on trust in journalism and media
+      hint: null
+      type: select_one
+      options:
+      - Increased trust significantly
+      - Somewhat increased trust
+      - No change
+      - Decreased trust
+      - Not sure
+      required: false
+    - id: 14
+      name: feedback_header
+      label: -- Feedback and Suggestions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: strengths
+      label: What do you see as strengths of this civic journalism initiative
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: improvements
+      label: What could be improved
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: engagement_barriers
+      label: Barriers to more engagement - select all that apply
+      hint: null
+      type: select_multiple
+      options:
+      - Lack of time
+      - Lack of skills or training
+      - Technical difficulties
+      - Limited topics of interest
+      - Unclear process
+      - Lack of feedback on submissions
+      - Other
+      - No barriers
+      required: false
+    - id: 18
+      name: support_needed
+      label: What support or resources would help you participate more
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: future_involvement
+      label: Will you continue participating in civic journalism
+      hint: null
+      type: select_one
+      options:
+      - Yes, definitely
+      - Probably yes
+      - Not sure
+      - Probably no
+      - false
+      required: true
+    - id: 20
+      name: referrals
+      label: Would you recommend civic journalism to others
+      hint: null
+      type: select_one
+      options:
+      - Very likely
+      - Likely
+      - Neutral
+      - Unlikely
+      - Very unlikely
+      required: false

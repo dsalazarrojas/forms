@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Ceremony Feedback Form
+    pages:
+    - id: 1
+      name: wedding_ceremony_feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: ceremony_date
+      label: Date of Ceremony
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: ceremony_time
+      label: Time of Ceremony
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: ceremony_location
+      label: Location of Ceremony
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: ceremony_organizer
+      label: Organized By
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Partner'', ''value'': ''Partner''}'
+      - '{''id'': 2, ''label'': ''Family Member'', ''value'': ''Family Member''}'
+      - '{''id'': 3, ''label'': ''Other'', ''value'': ''Other''}'
+      required: false
+    - id: 6
+      name: ceremony_type
+      label: Type of Ceremony
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Civil'', ''value'': ''Civil''}'
+      - '{''id'': 2, ''label'': ''Religious'', ''value'': ''Religious''}'
+      - '{''id'': 3, ''label'': ''Non-denominational'', ''value'': ''Non-denominational''}'
+      required: false
+    - id: 7
+      name: ceremony_attendance
+      label: Attended By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: ceremony_suggest
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: ceremony_rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: ceremony_recommend
+      label: Recommend
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True, ''value'': True}'
+      - '{''id'': 2, ''label'': False, ''value'': False}'
+      required: false
+    - id: 12
+      name: ceremony_next_ceremony
+      label: Next Ceremony
+      hint: null
+      type: date
+      options: []
+      required: false

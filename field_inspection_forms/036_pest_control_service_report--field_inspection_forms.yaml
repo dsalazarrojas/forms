@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pest Control Service Report
+    pages:
+    - id: 1
+      name: pest_control_service_report_form
+      label: Pest Control Service Report Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_visit
+      label: Date of Visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: pest_control_services
+      label: Pest Control Services
+      hint: null
+      type: select_multiple
+      options:
+      - Bed bug treatment
+      - Cockroach treatment
+      - Flea treatment
+      - Fly treatment
+      - Rodent control
+      - Termite treatment
+      - Tick treatment
+      required: false
+    - id: 5
+      name: notes
+      label: Notes
+      hint: Additional information
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: submitted_by
+      label: Submitted by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: assigned_technician
+      label: Assigned Technician
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

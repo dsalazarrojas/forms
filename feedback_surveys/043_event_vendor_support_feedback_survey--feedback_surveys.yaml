@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Event Vendor Support Feedback Survey
+    pages:
+    - id: 1
+      name: event_vendor_support_feedback
+      label: event_planners
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: event_vendor_support_feedback
+      label: event_vendors
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: event_vendor_support_feedback_event
+      label: event_vendor
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: event_vendor_support_feedback_suggestions
+      label: suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_vendor_support_feedback_support_issues
+      label: support_issues
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: event_vendor_support_feedback_suggestions_for_improvement
+      label: suggestions_for_improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_vendor_support_feedback_survey_completed
+      label: survey_completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: event_vendor_support_feedback_survey_completed_date
+      label: survey_completed_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: event_vendor_support_feedback_satisfaction
+      label: satisfaction
+      hint: On a scale of 1-5, with 1 being the lowest and 5 being the highest
+      type: number
+      options: []
+      required: false

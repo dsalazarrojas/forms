@@ -1,0 +1,55 @@
+inputSchema:
+  type: object
+  properties:
+    title: Whiskey Tasting Form
+    pages:
+    - id: 1
+      name: intro
+      label: intro
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: aroma
+      label: Aroma
+      hint: null
+      type: select_one
+      options:
+      - Bourbon
+      - Fruity
+      - Floral
+      - Spicy
+      required: false
+    - id: 3
+      name: flavor
+      label: Flavor
+      hint: null
+      type: select_multiple
+      options:
+      - Fruity
+      - Fruity
+      - Vanilla
+      - Oaky
+      required: false
+    - id: 4
+      name: appearance
+      label: Appearance
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: finish
+      label: Finish
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: number
+      options: []
+      required: false

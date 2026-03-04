@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: front_desk_operations_feedback_form
+    pages:
+    - id: 1
+      name: general_feedback
+      label: General feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: rating
+      label: How was your stay?
+      hint: Rate your experience (1-5)
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: satisfaction
+      label: What was the most impressive part of your stay?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_person
+      label: Whose contact info should we reach out to for further discussion?
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Front Desk Staff''}'
+      - '{''name'': ''Room Attendant''}'
+      - '{''name'': ''Manager''}'
+      required: false
+    - id: 5
+      name: contact_method
+      label: What method should we use to contact you?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''phone''}'
+      - '{''name'': ''email''}'
+      - '{''name'': ''text''}'
+      required: false
+    - id: 6
+      name: comment
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: false

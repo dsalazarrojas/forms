@@ -1,0 +1,33 @@
+inputSchema:
+  type: object
+  properties:
+    title: Video Synthesis Feedback Form
+    pages:
+    - id: 1
+      name: video_synthesis_rating
+      label: Rate Video Realism
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: audio_sync_rating
+      label: Rate Audio Sync
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: overall_quality_rating
+      label: Rate Overall Quality
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: video_synthesis_comment
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: false

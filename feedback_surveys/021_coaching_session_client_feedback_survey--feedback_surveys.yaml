@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coaching Session Client Feedback Survey
+    pages:
+    - id: 1
+      name: section_session_info
+      label: -- Session Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: coach_name
+      label: Coach Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: session_number
+      label: Session Number
+      hint: Which session was this?
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: section_session_quality
+      label: -- Session Quality --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: overall_session_rating
+      label: Overall Session Rating
+      hint: Rate the session overall
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very Poor
+      required: true
+    - id: 8
+      name: coach_preparation
+      label: Coach Preparation
+      hint: Was the coach well prepared?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      required: true
+    - id: 9
+      name: relevance_to_goals
+      label: Relevance to Your Goals
+      hint: Did session address your goals?
+      type: select_one
+      options:
+      - Very relevant
+      - Relevant
+      - Somewhat relevant
+      - Not relevant
+      required: true
+    - id: 10
+      name: session_pace
+      label: Session Pace
+      hint: Was the pace appropriate?
+      type: select_one
+      options:
+      - Too fast
+      - Good pace
+      - Too slow
+      required: true
+    - id: 11
+      name: section_coach_performance
+      label: -- Coach Performance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: listening_skills
+      label: Coach Listening Skills
+      hint: Did the coach listen well?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      required: true
+    - id: 13
+      name: clarity_of_instruction
+      label: Clarity of Instruction
+      hint: Were instructions clear?
+      type: select_one
+      options:
+      - Very clear
+      - Clear
+      - Somewhat clear
+      - Unclear
+      required: true
+    - id: 14
+      name: coach_empathy
+      label: Coach Empathy and Support
+      hint: Did you feel supported?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      required: true
+    - id: 15
+      name: section_value_and_learning
+      label: -- Value and Learning --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: value_for_time
+      label: Value for Your Time
+      hint: Was it worth your time?
+      type: select_one
+      options:
+      - Excellent value
+      - Good value
+      - Adequate value
+      - Poor value
+      required: true
+    - id: 17
+      name: new_skills_learned
+      label: New Skills or Insights Learned
+      hint: What did you learn?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: action_items
+      label: Clear Action Items
+      hint: Were next steps clear?
+      type: select_one
+      options:
+      - Very clear
+      - Clear
+      - Somewhat clear
+      - Not clear
+      required: true
+    - id: 19
+      name: section_improvement
+      label: -- Areas for Improvement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: coach_improvements
+      label: What could the coach improve?
+      hint: Constructive feedback
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: session_improvements
+      label: What could improve the session?
+      hint: Suggestions for better sessions
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: section_feedback
+      label: -- Additional Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other feedback
+      type: text
+      options: []
+      required: false

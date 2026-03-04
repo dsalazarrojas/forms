@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workstation Setup Feedback Questionnaire
+    pages:
+    - id: 1
+      name: user_email
+      label: User Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 2
+      name: workstation_description
+      label: Workstation Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: workstation_configuration
+      label: Workstation Configuration
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: workstation_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: workstation_rating
+      label: Rating
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: workhour_rating
+      label: Workhour Rating
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: workday_rating
+      label: Workday Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: workday_comments
+      label: Workday Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: workstation_setup
+      label: Workstation Setup
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

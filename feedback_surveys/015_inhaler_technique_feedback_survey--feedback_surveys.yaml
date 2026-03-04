@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: inhaler_technique_feedback_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: question_1
+      label: How often do you use your inhaler?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Several times a week
+      - Rarely
+      required: false
+    - id: 3
+      name: question_2
+      label: What triggers your inhaler use?
+      hint: null
+      type: select_multiple
+      options:
+      - Cough
+      - Wheezing
+      - Bronchitis
+      - Asthma
+      - Other
+      required: false
+    - id: 4
+      name: question_3
+      label: How much medication do you take per inhaler?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: question_4
+      label: What are your symptoms when using your inhaler?
+      hint: null
+      type: select_one
+      options:
+      - No symptoms
+      - Shortness of breath
+      - Cough
+      - Tremors
+      required: false
+    - id: 6
+      name: question_5
+      label: How would you rate your comfort level with using your inhaler?
+      hint: null
+      type: select_one
+      options:
+      - Not comfortable at all
+      - Somewhat uncomfortable
+      - Very comfortable
+      - Very uncomfortable
+      required: false
+    - id: 7
+      name: question_6
+      label: Any other comments or concerns you may have about using your inhaler?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: submission
+      label: Submission
+      hint: null
+      type: note
+      options: []
+      required: false

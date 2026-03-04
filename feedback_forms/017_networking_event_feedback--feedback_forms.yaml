@@ -1,0 +1,126 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Networking Event Feedback
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: event_attended
+      label: event_attended
+      hint: null
+      type: select_one
+      options:
+      - Attendee
+      - Organizer
+      - Vendor
+      required: false
+    - id: 3
+      name: attendee_name
+      label: attendee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: attendee_email
+      label: attendee_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: suggestions
+      label: suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: connection_outcomes
+      label: connection_outcomes
+      hint: null
+      type: select_multiple
+      options:
+      - Met someone new
+      - Learned something new
+      - Decided to do something new
+      - Other (please specify)
+      required: false
+    - id: 8
+      name: satisfaction_level
+      label: satisfaction_level
+      hint: null
+      type: select_one
+      options:
+      - 1 - Not Satisfied
+      - 2 - Somewhat Satisfied
+      - 3 - Satisfied
+      - 4 - Very Satisfied
+      - 5 - Extremely Satisfied
+      required: false
+    - id: 9
+      name: likely_to_attend
+      label: likely_to_attend
+      hint: null
+      type: select_one
+      options:
+      - 1 - Not likely
+      - 2 - Somewhat likely
+      - 3 - Likely
+      - 4 - Extremely Likely
+      required: false
+    - id: 10
+      name: next_step
+      label: next_step
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: next_time
+      label: next_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: follow_up
+      label: follow_up
+      hint: null
+      type: select_one
+      options:
+      - 1 - Yes
+      - 2 - No
+      - 3 - Undecided
+      required: false

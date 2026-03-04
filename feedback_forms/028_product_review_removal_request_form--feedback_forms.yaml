@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Review Removal Request Form
+    pages:
+    - id: 1
+      name: product_review_removal_request_form
+      label: Product Review Removal Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reason_for_removal_request
+      label: Reason for Removal Request
+      hint: Please specify the reason for your removal request
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: link_to_original_review
+      label: Link to Original Review
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: evidence
+      label: Evidence
+      hint: Please provide evidence of your issue
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: manage_data_collection
+      label: Manage Data Collection
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''Capture all data''}'
+      - '{''option'': ''Capture data with a specific date range''}'
+      required: true
+    - id: 6
+      name: capture_evidence
+      label: Capture Evidence
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': True}'
+      - '{''option'': False}'
+      - '{''option'': ''Not Applicable''}'
+      required: false
+    - id: 7
+      name: date_of_removal_request
+      label: Date of Removal Request
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_of_removal_request
+      label: Time of Removal Request
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

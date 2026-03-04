@@ -1,0 +1,207 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Arrival Confirmation Survey
+    pages:
+        - id: 1
+          name: section_respondent
+          label: -- Respondent Information --
+          hint: null
+          type: note
+          options: []
+          required: false
+        - id: 2
+          name: name
+          label: Name
+          hint: Optional
+          type: text
+          options: []
+          required: false
+        - id: 3
+          name: email
+          label: Email Address
+          hint: null
+          type: email
+          options: []
+          required: false
+        - id: 4
+          name: survey_date
+          label: Survey Date
+          hint: null
+          type: date
+          options: []
+          required: true
+        - id: 5
+          name: arrival_location
+          label: Arrival Location
+          hint: Which facility or office
+          type: text
+          options: []
+          required: true
+        - id: 6
+          name: section_check_in
+          label: -- Check-In Experience --
+          hint: null
+          type: note
+          options: []
+          required: false
+        - id: 7
+          name: arrival_punctuality
+          label: How punctual was your arrival
+          hint: null
+          type: select_one
+          options:
+            - On time
+            - Early
+            - Slightly late - under 10 minutes
+            - Late - over 10 minutes
+          required: true
+        - id: 8
+          name: check_in_experience
+          label: Check-In Process Ease
+          hint: null
+          type: select_one
+          options:
+            - Very easy
+            - Easy
+            - Neutral
+            - Difficult
+            - Very difficult
+          required: true
+        - id: 9
+          name: check_in_time
+          label: Time Spent on Check-In
+          hint: null
+          type: select_one
+          options:
+            - Less than 5 minutes
+            - 5-10 minutes
+            - 10-15 minutes
+            - More than 15 minutes
+          required: true
+        - id: 10
+          name: staff_helpfulness
+          label: Staff Helpfulness During Check-In
+          hint: null
+          type: select_one
+          options:
+            - Very helpful
+            - Helpful
+            - Neutral
+            - Unhelpful
+            - Very unhelpful
+          required: true
+        - id: 11
+          name: wayfinding
+          label: Wayfinding and Signage Clarity
+          hint: Ease of finding your way
+          type: select_one
+          options:
+            - Very clear
+            - Clear
+            - Neutral
+            - Unclear
+            - Very unclear
+          required: true
+        - id: 12
+          name: section_first_impression
+          label: -- First Impression --
+          hint: null
+          type: note
+          options: []
+          required: false
+        - id: 13
+          name: facility_cleanliness
+          label: Facility Cleanliness
+          hint: null
+          type: select_one
+          options:
+            - Excellent
+            - Good
+            - Fair
+            - Poor
+          required: true
+        - id: 14
+          name: facility_appearance
+          label: Overall Facility Appearance and Condition
+          hint: null
+          type: select_one
+          options:
+            - Excellent
+            - Good
+            - Fair
+            - Poor
+          required: true
+        - id: 15
+          name: welcome_feeling
+          label: Did you feel welcomed
+          hint: null
+          type: select_one
+          options:
+            - Very welcomed
+            - Welcomed
+            - Neutral
+            - Not welcomed
+          required: true
+        - id: 16
+          name: temperature_comfort
+          label: Temperature and Comfort Level
+          hint: null
+          type: select_one
+          options:
+            - Very comfortable
+            - Comfortable
+            - Neutral
+            - Uncomfortable
+            - Very uncomfortable
+          required: true
+        - id: 17
+          name: section_improvements
+          label: -- Feedback and Improvements --
+          hint: null
+          type: note
+          options: []
+          required: false
+        - id: 18
+          name: improvement_areas
+          label: Areas for Improvement
+          hint: null
+          type: select_multiple
+          options:
+            - Check-in process
+            - Wayfinding
+            - Facility cleanliness
+            - Staff friendliness
+            - Temperature control
+            - Signage and information
+          required: false
+        - id: 19
+          name: additional_feedback
+          label: Additional Feedback or Comments
+          hint: null
+          type: text
+          options: []
+          required: false
+        - id: 20
+          name: likelihood_return
+          label: Likelihood of Returning
+          hint: null
+          type: select_one
+          options:
+            - Very likely
+            - Likely
+            - Neutral
+            - Unlikely
+            - Very unlikely
+          required: true

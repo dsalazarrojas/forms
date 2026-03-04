@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Product Label Clarity Survey
+    pages:
+    - id: 1
+      name: form_first_page
+      label: Pet Product Label Clarity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_first_page_product_name
+      label: pet_product_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_first_page_product_category
+      label: pet_product_category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: form_first_page_product_description
+      label: pet_product_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_first_page_label_effectiveness
+      label: pet_label_effectiveness
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Not Clear''}'
+      - '{''label'': ''Somewhat Clear''}'
+      - '{''label'': ''Very Clear''}'
+      required: false
+    - id: 6
+      name: form_first_page_label_clarity
+      label: pet_label_clarity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: form_first_page_label_compliance
+      label: pet_label_compliance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: form_first_page_next_steps
+      label: pet_next_steps
+      hint: null
+      type: text
+      options: []
+      required: false

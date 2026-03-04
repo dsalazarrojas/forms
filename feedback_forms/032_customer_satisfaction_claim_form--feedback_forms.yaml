@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: customer_satisfaction_claim_form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: question_1
+      label: What is your experience with our product or service?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: question_2
+      label: Can we assist you with something specific today?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 4
+      name: question_3
+      label: How would you rate your overall satisfaction with our product or service?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Satisfied''}'
+      - '{''label'': ''Somewhat Satisfied''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat Dissatisfied''}'
+      - '{''label'': ''Very Dissatisfied''}'
+      required: false
+    - id: 5
+      name: question_4
+      label: Can we contact you if we need more information?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 6
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: question_6
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: question_7
+      label: Do you consent to be contacted for quality improvement purposes?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 9
+      name: question_8
+      label: What would you like to be contacted about?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

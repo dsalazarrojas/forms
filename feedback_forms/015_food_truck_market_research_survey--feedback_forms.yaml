@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Truck Market Research Survey
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rating
+      label: Rating
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 3
+      name: favorite_flavors
+      label: Favorite Flavors
+      hint: null
+      type: select_multiple
+      options:
+      - Beef
+      - Chicken
+      - Fish
+      required: false
+    - id: 4
+      name: favorite_cuisines
+      label: Favorite Cuisines
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: feedback_comments
+      label: Feedback Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_last_visit
+      label: Date of Last Visit
+      hint: null
+      type: date
+      options: []
+      required: false

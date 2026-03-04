@@ -1,0 +1,238 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Child Session Feedback Survey
+    pages:
+      - id: 1
+        name: feedback_date
+        label: Feedback Date
+        hint: Date of feedback submission
+        type: date
+        options: []
+        required: true
+      - id: 2
+        name: parent_guardian_first_name
+        label: Parent or Guardian First Name
+        hint: Legal first name of parent or guardian
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: parent_guardian_last_name
+        label: Parent or Guardian Last Name
+        hint: Legal last name of parent or guardian
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: parent_guardian_email
+        label: Parent or Guardian Email
+        hint: Primary email address for contact
+        type: email
+        options: []
+        required: true
+      - id: 5
+        name: child_first_name
+        label: Child First Name
+        hint: Legal first name of the child
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: child_last_name
+        label: Child Last Name
+        hint: Legal last name of the child
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: session_date
+        label: Session Date
+        hint: Date of the session being reviewed
+        type: date
+        options: []
+        required: true
+      - id: 8
+        name: session_type
+        label: Session Type
+        hint: What type of session was this?
+        type: select_one
+        options:
+          - Therapy session
+          - Tutoring session
+          - Counseling session
+          - Assessment
+          - Workshop or class
+          - Group session
+          - Other
+        required: true
+      - id: 9
+        name: provider_name
+        label: Provider Name
+        hint: Name of the session provider
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: overall_satisfaction
+        label: Overall Satisfaction
+        hint: How satisfied were you with the session?
+        type: select_one
+        options:
+          - Very satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very dissatisfied
+        required: true
+      - id: 11
+        name: provider_communication
+        label: Provider Communication
+        hint: How would you rate the provider's communication?
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+          - Very poor
+        required: true
+      - id: 12
+        name: provider_professionalism
+        label: Provider Professionalism
+        hint: How would you rate the provider's professionalism?
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+          - Very poor
+        required: true
+      - id: 13
+        name: child_comfort_level
+        label: Child Comfort Level
+        hint: How comfortable did your child feel during the session?
+        type: select_one
+        options:
+          - Very comfortable
+          - Comfortable
+          - Neutral
+          - Uncomfortable
+          - Very uncomfortable
+        required: true
+      - id: 14
+        name: session_environment
+        label: Session Environment
+        hint: How would you rate the session environment?
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+          - Very poor
+          - Virtual session
+        required: true
+      - id: 15
+        name: session_length
+        label: Session Length
+        hint: Was the session length appropriate?
+        type: select_one
+        options:
+          - Too short
+          - Just right
+          - Too long
+        required: true
+      - id: 16
+        name: goals_addressed
+        label: Goals Addressed
+        hint: Were your child's goals adequately addressed?
+        type: select_one
+        options:
+          - Yes, completely
+          - Mostly
+          - Somewhat
+          - Minimally
+          - Not at all
+        required: true
+      - id: 17
+        name: progress_observed
+        label: Progress Observed
+        hint: Have you observed progress since starting sessions?
+        type: select_one
+        options:
+          - Significant progress
+          - Moderate progress
+          - Some progress
+          - Minimal progress
+          - No progress observed
+        required: true
+      - id: 18
+        name: strategies_helpful
+        label: Strategies Helpful
+        hint: Have the strategies discussed been helpful?
+        type: select_one
+        options:
+          - Very helpful
+          - Somewhat helpful
+          - Neutral
+          - Not very helpful
+          - Not helpful at all
+        required: true
+      - id: 19
+        name: would_recommend
+        label: Would Recommend
+        hint: Would you recommend this provider to others?
+        type: select_one
+        options:
+          - Definitely yes
+          - Probably yes
+          - Neutral
+          - Probably no
+          - Definitely no
+        required: true
+      - id: 20
+        name: continue_services
+        label: Continue Services
+        hint: Do you plan to continue with these services?
+        type: select_one
+        options:
+          - Yes, definitely
+          - Yes, probably
+          - Undecided
+          - Probably no
+          - Definitely no
+        required: true
+      - id: 21
+        name: best_aspect
+        label: Best Aspect of Session
+        hint: What was the best aspect of this session?
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: areas_for_improvement
+        label: Areas for Improvement
+        hint: What could be improved about future sessions?
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: additional_comments
+        label: Additional Comments
+        hint: Any additional comments or feedback
+        type: text
+        options: []
+        required: false

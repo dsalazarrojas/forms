@@ -1,0 +1,138 @@
+inputSchema:
+  type: object
+  properties:
+    title: Autodialer Schedule Setup
+    pages:
+    - id: 1
+      name: campaign_overview_header
+      label: -- Campaign Overview --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: campaign_name
+      label: Campaign Name
+      hint: Unique name for this outbound campaign
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department_name
+      label: Department Name
+      hint: Internal department requesting the setup
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: campaign_type
+      label: Campaign Type
+      hint: Select the primary purpose of the calls
+      type: select_one
+      options:
+      - Sales Outbound
+      - Customer Support
+      - Appointment Reminder
+      - Survey or Poll
+      - Debt Collection
+      required: true
+    - id: 5
+      name: scheduling_details_header
+      label: -- Scheduling Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: campaign_start_date
+      label: Campaign Start Date
+      hint: When should dialing begin?
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: campaign_end_date
+      label: Campaign End Date
+      hint: When should dialing conclude?
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: daily_start_time
+      label: Daily Start Time
+      hint: Earliest time to place calls
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: daily_end_time
+      label: Daily End Time
+      hint: Latest time to place calls
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: operating_days
+      label: Operating Days
+      hint: Select the days of the week for the campaign
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 11
+      name: call_config_header
+      label: -- Call Configuration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: concurrent_call_limit
+      label: Concurrent Call Limit
+      hint: Maximum number of simultaneous calls
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: retry_on_no_answer
+      label: Retry on No Answer
+      hint: Should the system redial unanswered numbers?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: max_retries
+      label: Maximum Retries per Number
+      hint: Number of attempts before skipping
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: contact_list_file
+      label: Contact List File Name
+      hint: Name of the uploaded CSV or Excel file
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: caller_id_name
+      label: Caller ID Display Name
+      hint: Name shown on recipients phones
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: setup_notes
+      label: Setup Notes or Script Link
+      hint: Any other technical details or link to the call script
+      type: text
+      options: []
+      required: false

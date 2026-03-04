@@ -1,0 +1,220 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Equipment Charge Survey
+    pages:
+    - id: 1
+      name: client_first_name
+      label: First Name
+      hint: Your legal first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_last_name
+      label: Last Name
+      hint: Your legal last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: account_number
+      label: Account Number
+      hint: Your account identifier
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: company_name
+      label: Company Name
+      hint: Your business name
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: invoice_number
+      label: Invoice Number in Question
+      hint: Reference number from invoice
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: invoice_date
+      label: Invoice Date
+      hint: Date on the invoice
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: equipment_type
+      label: Type of Equipment Charged
+      hint: What equipment was billed?
+      type: select_one
+      options:
+      - Computer Hardware
+      - Network Equipment
+      - Medical Equipment
+      - Construction Equipment
+      - Office Equipment
+      - Manufacturing Equipment
+      - Telecommunications
+      - Other
+      required: true
+    - id: 10
+      name: equipment_description
+      label: Equipment Description
+      hint: Specific equipment details
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: charge_amount
+      label: Charge Amount
+      hint: Total amount billed
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: charge_type
+      label: Type of Charge
+      hint: What type of fee?
+      type: select_one
+      options:
+      - Rental Fee
+      - Lease Payment
+      - Purchase Price
+      - Maintenance Fee
+      - Repair Charge
+      - Installation Fee
+      - Usage Charge
+      - Other
+      required: true
+    - id: 13
+      name: charge_clarity
+      label: How Clear Was the Charge Description on Invoice?
+      hint: Invoice clarity
+      type: select_one
+      options:
+      - Very Clear
+      - Clear
+      - Neutral
+      - Unclear
+      - Very Unclear
+      required: true
+    - id: 14
+      name: charge_accuracy
+      label: Was the Charge Accurate?
+      hint: Billing accuracy
+      type: select_one
+      options:
+      - Yes, Completely Accurate
+      - Mostly Accurate
+      - Somewhat Accurate
+      - Inaccurate
+      - Completely Inaccurate
+      required: true
+    - id: 15
+      name: charge_expectations
+      label: Did You Expect This Charge?
+      hint: Charge anticipation
+      type: select_one
+      options:
+      - Yes, Fully Expected
+      - Somewhat Expected
+      - Neutral
+      - Somewhat Unexpected
+      - Completely Unexpected
+      required: true
+    - id: 16
+      name: charge_value
+      label: Does the Charge Represent Good Value?
+      hint: Value for money
+      type: select_one
+      options:
+      - Excellent Value
+      - Good Value
+      - Fair Value
+      - Poor Value
+      - Very Poor Value
+      required: true
+    - id: 17
+      name: billing_issues
+      label: Did You Experience Any Billing Issues?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Duplicate Charge
+      - Incorrect Amount
+      - Unauthorized Charge
+      - Missing Discount
+      - Calculation Error
+      - No Issues
+      - Other
+      required: true
+    - id: 18
+      name: issue_description
+      label: Describe the Issue
+      hint: If you experienced issues
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: resolution_satisfaction
+      label: Satisfaction With Issue Resolution
+      hint: If issue was resolved
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      - Not Applicable
+      required: false
+    - id: 20
+      name: invoice_understanding
+      label: How Well Do You Understand Your Equipment Charges?
+      hint: Overall understanding
+      type: select_one
+      options:
+      - Completely Understand
+      - Mostly Understand
+      - Somewhat Understand
+      - Slightly Understand
+      - Do Not Understand
+      required: true
+    - id: 21
+      name: billing_improvements
+      label: What Could Improve the Billing Process?
+      hint: Your suggestions
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other feedback
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: survey_completion_date
+      label: Survey Completion Date
+      hint: null
+      type: date
+      options: []
+      required: true

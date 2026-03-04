@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: st_patricks_day_celebration_feedback_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: How was your experience at the St. Patrick's Day celebration?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: st_patricks_day_celebration
+      label: st_patricks_day_celebration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: food_drinks
+      label: food_and_drinks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: event_attendance
+      label: event_attendance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: overall_experience
+      label: overall_experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: event_organizing
+      label: event_organizing
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Good''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Bad''}'
+      required: false
+    - id: 7
+      name: event_organizing_value
+      label: event_organizing
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false

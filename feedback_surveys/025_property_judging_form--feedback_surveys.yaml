@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: property_judging_form
+    pages:
+    - id: 1
+      name: property_location
+      label: property_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: property_type
+      label: property_type
+      hint: null
+      type: select_multiple
+      options:
+      - Residential
+      - Commercial
+      - Industrial
+      required: false
+    - id: 5
+      name: property_status
+      label: property_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Sold
+      - Vacant
+      - Under Contract
+      required: false
+    - id: 6
+      name: property_value
+      label: property_value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: property_features
+      label: property_features
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: property_notes
+      label: property_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: property_score
+      label: property_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: property_recommendation
+      label: property_recommendation
+      hint: null
+      type: select_multiple
+      options:
+      - Highly Recommended
+      - Recommended
+      - Not Recommended
+      - Not Sure
+      required: false
+    - id: 11
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: property_address
+      label: property_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: property_city
+      label: property_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: property_state
+      label: property_state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: property_zip
+      label: property_zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: property_image
+      label: property_image
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Web Search Feedback Survey
+    pages:
+    - id: 1
+      name: user_satisfaction
+      label: How satisfied are you with our web search results?
+      hint: Please rate on a scale of 1-5
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: search_frequency
+      label: How often do you use our website?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Daily''}'
+      - '{''label'': ''Weekly''}'
+      - '{''label'': ''Monthly''}'
+      - '{''label'': ''Rarely''}'
+      - '{''label'': ''Never''}'
+      required: false
+    - id: 3
+      name: feedback
+      label: Do you have any feedback for us?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: What is your email address?
+      hint: This field is required for follow up contact
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: What is your phone number?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: suggestions
+      label: Do you have any suggestions for improving our website?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: rating
+      label: Please rate your overall experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: search_device
+      label: What device are you using to search?
+      hint: Please select from the following
+      type: select_multiple
+      options:
+      - '{''label'': ''Desktop''}'
+      - '{''label'': ''Mobile''}'
+      - '{''label'': ''Tablet''}'
+      - '{''label'': ''Laptop''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 9
+      name: search_location
+      label: What is your current location?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''United States''}'
+      - '{''label'': ''Canada''}'
+      - '{''label'': ''Mexico''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 10
+      name: improvement
+      label: What areas of improvement would you suggest?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Search results''}'
+      - '{''label'': ''Navigation''}'
+      - '{''label'': ''Search results display''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 11
+      name: comments
+      label: Additional comments?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_us
+      label: Contact us to follow up on your feedback
+      hint: null
+      type: note
+      options: []
+      required: false

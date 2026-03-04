@@ -1,0 +1,289 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Consumer Behavior Patterns Survey
+    pages:
+      - id: 1
+        name: respondent_id
+        label: Respondent ID
+        hint: Optional identification number
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: survey_date
+        label: Survey Date
+        hint: Date of completion
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: age_range
+        label: Age Range
+        hint: Select your age group
+        type: select_one
+        options:
+          - Under 18
+          - 18-24
+          - 25-34
+          - 35-44
+          - 45-54
+          - 55-64
+          - 65+
+        required: true
+      - id: 4
+        name: gender
+        label: Gender
+        hint: Select your gender
+        type: select_one
+        options:
+          - Male
+          - Female
+          - Non-Binary
+          - Prefer Not to Say
+          - Other
+        required: false
+      - id: 5
+        name: household_income
+        label: Household Income
+        hint: Select your income bracket
+        type: select_one
+        options:
+          - Under $25,000
+          - $25,000 - $49,999
+          - $50,000 - $74,999
+          - $75,000 - $99,999
+          - $100,000 - $149,999
+          - $150,000+
+          - Prefer Not to Say
+        required: false
+      - id: 6
+        name: education_level
+        label: Education Level
+        hint: Highest level completed
+        type: select_one
+        options:
+          - High School or Less
+          - Some College
+          - Associate Degree
+          - Bachelor's Degree
+          - Master's Degree
+          - Doctorate
+          - Other
+        required: false
+      - id: 7
+        name: employment_status
+        label: Employment Status
+        hint: Current employment status
+        type: select_one
+        options:
+          - Employed Full-Time
+          - Employed Part-Time
+          - Self-Employed
+          - Unemployed
+          - Student
+          - Retired
+          - Other
+        required: true
+      - id: 8
+        name: shopping_frequency
+        label: How Often Do You Shop
+        hint: Select your shopping frequency
+        type: select_one
+        options:
+          - Daily
+          - Several Times a Week
+          - Weekly
+          - 2-3 Times a Month
+          - Once a Month
+          - Less Than Once a Month
+        required: true
+      - id: 9
+        name: preferred_shopping_channel
+        label: Preferred Shopping Channel
+        hint: Where do you mostly shop
+        type: select_one
+        options:
+          - Online Only
+          - In-Store Only
+          - Mostly Online
+          - Mostly In-Store
+          - Equal Mix of Both
+        required: true
+      - id: 10
+        name: online_platforms_used
+        label: Online Platforms Used
+        hint: Select platforms you use
+        type: select_multiple
+        options:
+          - Amazon
+          - eBay
+          - Walmart
+          - Target
+          - Brand Websites
+          - Social Media Shops
+          - Etsy
+          - Other
+        required: false
+      - id: 11
+        name: purchase_decision_factors
+        label: Factors Influencing Purchases
+        hint: Select what influences you most
+        type: select_multiple
+        options:
+          - Price
+          - Quality
+          - Brand Reputation
+          - Reviews
+          - Recommendations
+          - Convenience
+          - Sustainability
+          - Promotions
+          - Product Features
+          - Availability
+        required: true
+      - id: 12
+        name: brand_loyalty
+        label: Brand Loyalty
+        hint: How loyal are you to brands
+        type: select_one
+        options:
+          - Very Loyal
+          - Somewhat Loyal
+          - Neutral
+          - Switch Frequently
+          - Always Looking for Deals
+        required: true
+      - id: 13
+        name: spending_category_primary
+        label: Primary Spending Category
+        hint: Where do you spend most
+        type: select_one
+        options:
+          - Groceries
+          - Clothing
+          - Electronics
+          - Home Goods
+          - Entertainment
+          - Dining
+          - Health and Beauty
+          - Other
+        required: true
+      - id: 14
+        name: average_transaction_amount
+        label: Average Transaction Amount
+        hint: Typical amount per purchase
+        type: select_one
+        options:
+          - Under $25
+          - $25 - $50
+          - $51 - $100
+          - $101 - $200
+          - $201 - $500
+          - Over $500
+        required: true
+      - id: 15
+        name: payment_method_preference
+        label: Preferred Payment Method
+        hint: How do you usually pay
+        type: select_one
+        options:
+          - Credit Card
+          - Debit Card
+          - Cash
+          - Digital Wallet
+          - Buy Now Pay Later
+          - Check
+        required: true
+      - id: 16
+        name: promotional_response
+        label: Response to Promotions
+        hint: How do promotions affect you
+        type: select_one
+        options:
+          - Always Look for Deals
+          - Often Use Promotions
+          - Sometimes Use Promotions
+          - Rarely Use Promotions
+          - Never Use Promotions
+        required: true
+      - id: 17
+        name: social_media_influence
+        label: Social Media Influence
+        hint: Does social media affect purchases
+        type: select_one
+        options:
+          - Very Influential
+          - Somewhat Influential
+          - Neutral
+          - Not Very Influential
+          - Not Influential at All
+        required: true
+      - id: 18
+        name: sustainability_importance
+        label: Importance of Sustainability
+        hint: How important is eco-friendliness
+        type: select_one
+        options:
+          - Very Important
+          - Important
+          - Neutral
+          - Not Very Important
+          - Not Important
+        required: true
+      - id: 19
+        name: return_frequency
+        label: How Often Do You Return Items
+        hint: Select your return frequency
+        type: select_one
+        options:
+          - Very Often
+          - Often
+          - Sometimes
+          - Rarely
+          - Never
+        required: true
+      - id: 20
+        name: customer_service_importance
+        label: Importance of Customer Service
+        hint: Rate importance of service
+        type: select_one
+        options:
+          - Very Important
+          - Important
+          - Neutral
+          - Not Very Important
+          - Not Important
+        required: true
+      - id: 21
+        name: shopping_preferences
+        label: Additional Shopping Preferences
+        hint: Any other preferences to share
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: favorite_brands
+        label: Favorite Brands
+        hint: List your favorite brands
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: improvement_suggestions
+        label: Suggestions for Improvement
+        hint: How can businesses serve you better
+        type: text
+        options: []
+        required: false

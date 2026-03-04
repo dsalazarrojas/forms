@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: digital_animation_pitch_submission_application_form
+    pages:
+    - id: 1
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: animation_type
+      label: animation_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''2D''}'
+      - '{''id'': 2, ''label'': ''3D''}'
+      - '{''id'': 3, ''label'': ''Live-Action''}'
+      required: false
+    - id: 3
+      name: genre
+      label: genre
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Adventure''}'
+      - '{''id'': 2, ''label'': ''Action''}'
+      - '{''id'': 3, ''label'': ''Comedy''}'
+      - '{''id'': 4, ''label'': ''Sci-Fi''}'
+      required: false
+    - id: 4
+      name: animation_style
+      label: animation_style
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Traditional''}'
+      - '{''id'': 2, ''label'': ''Computer-Generated''}'
+      - '{''id'': 3, ''label'': ''Stop-Motion''}'
+      required: false
+    - id: 5
+      name: animation_length
+      label: animation_length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: file_upload_1
+      label: Upload File 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: file_upload_2
+      label: Upload File 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: file_upload_3
+      label: Upload File 3
+      hint: null
+      type: text
+      options: []
+      required: false

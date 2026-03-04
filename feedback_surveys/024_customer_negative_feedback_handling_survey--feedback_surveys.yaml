@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: customer_negative_feedback_handling_survey
+    pages:
+    - id: 1
+      name: negative_feedback_received
+      label: Negative Feedback Received
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_contact_details
+      label: Customer Contact Details
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Email'', ''label'': ''Email''}'
+      - '{''value'': ''Phone'', ''label'': ''Phone''}'
+      - '{''value'': ''Chat'', ''label'': ''Chat''}'
+      required: true
+    - id: 3
+      name: feedback_description
+      label: Feedback Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: resolution_method
+      label: Resolution Method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Escalate to Manager'', ''label'': ''Escalate to Manager''}'
+      - '{''value'': ''Refund'', ''label'': ''Refund''}'
+      - '{''value'': ''Replace or Repair'', ''label'': ''Replace or Repair''}'
+      - '{''value'': ''Other'', ''label'': ''Other''}'
+      required: true
+    - id: 5
+      name: follow_up_status
+      label: Follow Up Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Not Done'', ''label'': ''Not Done''}'
+      - '{''value'': ''Done'', ''label'': ''Done''}'
+      - '{''value'': ''On Hold'', ''label'': ''On Hold''}'
+      - '{''value'': ''N/A'', ''label'': ''N/A''}'
+      required: true
+    - id: 6
+      name: follow_up_date
+      label: Follow Up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: follow_up_time
+      label: Follow Up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: follow_up_notes
+      label: Follow Up Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: customer_feedback_frequency
+      label: Customer Feedback Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: customer_feedback_source
+      label: Customer Feedback Source
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Social Media'', ''label'': ''Social Media''}'
+      - '{''value'': ''Email'', ''label'': ''Email''}'
+      - '{''value'': ''Phone'', ''label'': ''Phone''}'
+      - '{''value'': ''In App'', ''label'': ''In App''}'
+      - '{''value'': ''Other'', ''label'': ''Other''}'
+      required: false
+    - id: 11
+      name: customer_feedback_type
+      label: Customer Feedback Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Complaint'', ''label'': ''Complaint''}'
+      - '{''value'': ''Suggestion'', ''label'': ''Suggestion''}'
+      - '{''value'': ''Other'', ''label'': ''Other''}'
+      required: false
+    - id: 12
+      name: customer_feedback_source_other
+      label: Customer Feedback Source Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: customer_feedback_description_other
+      label: Customer Feedback Description Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: customer_feedback_resolution_other
+      label: Customer Feedback Resolution Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: customer_feedback_status
+      label: Customer Feedback Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Open'', ''label'': ''Open''}'
+      - '{''value'': ''Resolved'', ''label'': ''Resolved''}'
+      - '{''value'': ''On Hold'', ''label'': ''On Hold''}'
+      - '{''value'': ''Closed'', ''label'': ''Closed''}'
+      required: false

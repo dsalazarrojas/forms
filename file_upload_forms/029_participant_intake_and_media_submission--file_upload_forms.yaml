@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: participant_intake_and_media_submission
+    pages:
+    - id: 1
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: upload_media
+      label: Media
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Undecided''}'
+      required: false
+    - id: 4
+      name: participant_consent_reason
+      label: Consent Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_intake_form_type
+      label: Intake Form Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Contest''}'
+      - '{''label'': ''Campaign''}'
+      - '{''label'': ''Class''}'
+      - '{''label'': ''Community Project''}'
+      required: false
+    - id: 6
+      name: participant_intake_form_sub_type
+      label: Intake Form Subtype
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: participant_intake_form_subtype_other
+      label: Intake Form Subtype Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: participant_intake_form_subtype
+      label: Intake Form Subtype
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Contest''}'
+      - '{''label'': ''Campaign''}'
+      - '{''label'': ''Class''}'
+      - '{''label'': ''Community Project''}'
+      required: false
+    - id: 9
+      name: participant_intake_form_subtypes_other
+      label: Intake Form Subtypes Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: participant_consent_date
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: participant_consent_time
+      label: Consent Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: participant_intake_media_type
+      label: Intake Media Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Video''}'
+      - '{''label'': ''Image''}'
+      - '{''label'': ''Audio''}'
+      - '{''label'': ''File''}'
+      required: false
+    - id: 13
+      name: participant_intake_media
+      label: Intake Media
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: participant_intake_media_upload
+      label: Intake Media Upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: participant_intake_form_notes
+      label: Intake Form Notes
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: waffle_preparation_survey
+    pages:
+    - id: 1
+      name: waffle_preferences
+      label: Waffle Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: waffle_experiences
+      label: Waffle Experiences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: waffle_improvement_areas
+      label: Waffle Improvement Areas
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: waffle_likings
+      label: Waffle Likings
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: waffle_dislikes
+      label: Waffle Dislikes
+      hint: null
+      type: text
+      options: []
+      required: false

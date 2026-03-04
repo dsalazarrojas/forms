@@ -1,0 +1,51 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: epic_feedback_survey
+    pages:
+    - id: 1
+      name: survey_page
+      label: Survey Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_info
+      label: Participant Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: questions
+      label: Questions
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 4, ''name'': ''question_1'', ''label'': ''What did you enjoy most
+        about the service?'', ''type'': ''text''}'
+      - '{''id'': 5, ''name'': ''question_2'', ''label'': ''What did you enjoy least
+        about the service?'', ''type'': ''text''}'
+      - '{''id'': 6, ''name'': ''question_3'', ''label'': ''How likely are you to
+        recommend the service?'', ''type'': ''select_one'', ''options'': [{''id'':
+        7, ''name'': ''Not at all likely'', ''label'': ''Not at all likely''}, {''id'':
+        8, ''name'': ''Somewhat likely'', ''label'': ''Somewhat likely''}, {''id'':
+        9, ''name'': ''Very likely'', ''label'': ''Very likely''}, {''id'': 10, ''name'':
+        ''Extremely likely'', ''label'': ''Extremely likely''}]}'
+      - '{''id'': 11, ''name'': ''comments'', ''label'': ''Comments'', ''type'': ''text'',
+        ''hint'': None, ''options'': []}'
+      - '{''id'': 12, ''name'': ''contact_info'', ''label'': ''Contact Info'', ''type'':
+        ''text'', ''hint'': None, ''options'': []}'
+      required: false

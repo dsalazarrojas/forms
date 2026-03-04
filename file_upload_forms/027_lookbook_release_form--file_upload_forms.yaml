@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: lookbook_release_form
+    pages:
+    - id: 1
+      name: contributor_permissions
+      label: contributor_permissions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: creative_assets
+      label: creative_assets
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: publication_date
+      label: publication_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: publication_type
+      label: publication_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: published_by
+      label: published_by
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: client_permissions
+      label: client_permissions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: client_assets
+      label: client_assets
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: release_date
+      label: release_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: publication_status
+      label: publication_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

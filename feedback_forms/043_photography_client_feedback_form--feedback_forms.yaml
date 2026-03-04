@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Photography Client Feedback Form
+    pages:
+    - id: 1
+      name: form_title
+      label: form title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: client name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: feedback_question
+      label: how_was_your_experience
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Not Satisfied''}'
+      - '{''label'': ''Satisfied''}'
+      - '{''label'': ''Very Satisfied''}'
+      required: false
+    - id: 4
+      name: feedback_text
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: feedback_email
+      label: feedback_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: feedback_phone
+      label: feedback_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: form_comments
+      label: form_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: form_submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: form_cancel
+      label: cancel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: form_error
+      label: error
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: form_info
+      label: info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: form_warning
+      label: warning
+      hint: null
+      type: text
+      options: []
+      required: false

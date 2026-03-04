@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: City Year Event Proposal Form
+    pages:
+    - id: 1
+      name: proposer_name
+      label: Proposer name
+      hint: Full name of person submitting
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: organization
+      label: Organization
+      hint: Affiliated group if any
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_title
+      label: Event title
+      hint: Brief working title
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: event_date
+      label: Proposed event date
+      hint: Provide preferred date range
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: expected_attendance
+      label: Expected attendance
+      hint: Estimated number of participants
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: event_description
+      label: Event description
+      hint: Short summary of activities and goals
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: budget_estimate
+      label: Budget estimate
+      hint: Estimated total cost
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: required_permits
+      label: Required permits or approvals
+      hint: Note any known permit needs
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: support_requested
+      label: Support requested from city
+      hint: Staffing venue permits equipment
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submission_acknowledgement
+      label: Submission acknowledgement
+      hint: Proposal will be reviewed and responded to
+      type: note
+      options: []
+      required: true

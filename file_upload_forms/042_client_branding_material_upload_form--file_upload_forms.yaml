@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Branding Material Upload Form
+    pages:
+    - id: 1
+      name: upload_intro
+      label: -- Branding Material Submission --
+      hint: Please upload your approved brand assets for project use.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: project_title
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: account_manager
+      label: Agency Account Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: asset_details_header
+      label: -- Asset Inventory --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: asset_category
+      label: Asset Category
+      hint: null
+      type: select_one
+      options:
+      - Final Logo Package
+      - Style Guide/Brand Book
+      - Typography/Font Files
+      - Custom Iconography
+      - Brand Photography/Imagery
+      required: true
+    - id: 7
+      name: file_format_check
+      label: Are logos provided in vector format (AI/EPS/SVG)?
+      hint: Required for high-quality production
+      type: select_one
+      options:
+      - true
+      - No (Raster only)
+      - Not applicable
+      required: true
+    - id: 8
+      name: color_profile
+      label: Are color codes (HEX/RGB/CMYK) included in the guide?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - No, need agency to extract
+      required: true
+    - id: 9
+      name: usage_rights_header
+      label: -- Rights and Permissions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: usage_authorization
+      label: I authorize the agency to use these assets for the current project
+      hint: null
+      type: select_one
+      options:
+      - I authorize
+      - Other
+      required: true
+    - id: 11
+      name: third_party_licensing
+      label: Are any assets subject to 3rd party licensing (e.g. Stock photos)?
+      hint: null
+      type: select_one
+      options:
+      - No, all owned
+      - Yes, licensing details attached
+      required: true
+    - id: 12
+      name: upload_confirmation
+      label: I have uploaded the ZIP package to the agency's secure drive
+      hint: Please confirm once upload is complete
+      type: select_one
+      options:
+      - Confirmed
+      - Other
+      required: true
+    - id: 13
+      name: drive_link
+      label: Link to Assets (if not using direct upload)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submission_date
+      label: Date of Submission
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: contact_email
+      label: Email for verification
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: additional_notes
+      label: Additional Notes for the Creative Team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: upload_footer
+      label: -- Assets Verified notification will follow --
+      hint: null
+      type: note
+      options: []
+      required: false

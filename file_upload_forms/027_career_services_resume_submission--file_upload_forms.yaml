@@ -1,0 +1,231 @@
+inputSchema:
+  type: object
+  properties:
+    title: Career Services Resume Submission
+    pages:
+    - id: 1
+      name: student_name
+      label: Your Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_id
+      label: Student ID
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: We will contact you at this address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Include area code
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: major_field
+      label: Major or Field of Study
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: graduation_date
+      label: Expected Graduation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: degree_level
+      label: Degree Level
+      hint: null
+      type: select_one
+      options:
+      - Bachelor's Degree
+      - Master's Degree
+      - PhD or Doctorate
+      - Certificate or Diploma
+      - Other
+      required: true
+    - id: 8
+      name: gpa
+      label: GPA
+      hint: Current grade point average
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: resume_file
+      label: Upload Your Resume
+      hint: PDF, Word, or plain text format
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: cover_letter_file
+      label: Upload Cover Letter (Optional)
+      hint: If available
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: linkedin_profile
+      label: LinkedIn Profile URL
+      hint: Link to your professional profile
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: portfolio_website
+      label: Portfolio or Personal Website
+      hint: If applicable to your field
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: work_experience
+      label: Years of Professional Experience
+      hint: Including internships
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: service_request
+      label: What Career Service Are You Requesting?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Resume review and feedback
+      - Resume writing assistance
+      - Cover letter help
+      - Interview preparation
+      - Career counseling
+      - Job search guidance
+      - Mock interviews
+      - LinkedIn profile optimization
+      - Salary negotiation guidance
+      - Career transition support
+      required: true
+    - id: 15
+      name: specific_feedback
+      label: Specific Feedback or Areas You Want Help With
+      hint: What do you want improved?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: job_search_status
+      label: Current Job Search Status
+      hint: null
+      type: select_one
+      options:
+      - Actively job hunting
+      - Casually exploring opportunities
+      - Planning to search after graduation
+      - Not currently searching
+      required: true
+    - id: 17
+      name: target_positions
+      label: Target Job Positions or Industries
+      hint: What types of jobs are you looking for?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: geographic_preferences
+      label: Geographic Preferences for Employment
+      hint: Where do you want to work?
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: salary_expectations
+      label: Salary Expectations
+      hint: Desired annual salary range
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: employment_type
+      label: Preferred Employment Type
+      hint: null
+      type: select_multiple
+      options:
+      - Full-time position
+      - Part-time position
+      - Internship
+      - Graduate assistant
+      - Contract work
+      - Freelance
+      - Self-employment
+      required: false
+    - id: 21
+      name: start_date
+      label: Desired Start Date
+      hint: When can you begin?
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: key_skills
+      label: Key Skills or Technical Competencies
+      hint: Highlight your top abilities
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: certifications
+      label: Professional Certifications or Licenses
+      hint: Relevant credentials
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: visa_sponsorship
+      label: Visa Sponsorship Required?
+      hint: Do you need sponsorship to work?
+      type: select_one
+      options:
+      - Yes - require sponsorship
+      - No - not needed
+      - Unsure
+      required: false
+    - id: 25
+      name: follow_up_preference
+      label: Preferred Follow-up Method
+      hint: How should we contact you?
+      type: select_one
+      options:
+      - Email
+      - Phone call
+      - Text message
+      - Campus appointment
+      - Online meeting
+      required: true
+    - id: 26
+      name: priority_level
+      label: Priority Level for Review
+      hint: How urgent is your request?
+      type: select_one
+      options:
+      - High - urgent feedback needed
+      - Medium - standard processing
+      - Low - no time pressure
+      required: false
+    - id: 27
+      name: additional_information
+      label: Additional Information or Notes
+      hint: Anything else the career counselor should know?
+      type: text
+      options: []
+      required: false

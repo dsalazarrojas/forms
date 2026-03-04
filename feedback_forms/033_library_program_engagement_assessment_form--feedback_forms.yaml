@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Library Program Engagement Assessment Form
+    pages:
+    - id: 1
+      name: library_program_engagement_assessment_form_1
+      label: Program Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Event
+      - Program
+      - Service
+      required: false
+    - id: 3
+      name: program_attendance
+      label: How Many Programs Did You Attend
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: program_attendance_1
+      label: Number 1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: program_attendance_2
+      label: Number 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: program_attendance_3
+      label: Number 3
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: library_program_engagement_rating
+      label: Overall Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: program_attendance_habits
+      label: How Often Do You Attend
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Rarely
+      required: false
+    - id: 9
+      name: contact_info
+      label: Would You Like To Be Contacted
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - Other
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_info_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_info_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: contact_info_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false

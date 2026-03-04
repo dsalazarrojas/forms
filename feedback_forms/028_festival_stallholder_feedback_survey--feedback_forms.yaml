@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Festival Stallholder Feedback Survey
+    pages:
+    - id: 1
+      name: vendor_rating
+      label: How would you rate your overall experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: comments
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: future_participation
+      label: Would you like to participate in our next event
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: vendor_name
+      label: Vendors name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: vendor_contact
+      label: Vendors contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_date
+      label: Event date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: event_time
+      label: Event time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: event_duration
+      label: Event duration
+      hint: null
+      type: select_one
+      options:
+      - 1-2 hours
+      - 3-4 hours
+      - 5 hours or more
+      required: true
+    - id: 11
+      name: vendor_setup
+      label: Vendors setup and take down
+      hint: null
+      type: select_one
+      options:
+      - On time
+      - Late
+      - Early
+      required: true
+    - id: 12
+      name: communication
+      label: Communication
+      hint: null
+      type: select_one
+      options:
+      - Very good
+      - Good
+      - Fair
+      - Bad
+      required: true
+    - id: 13
+      name: help
+      label: Do you need help with any of the following
+      hint: null
+      type: select_multiple
+      options:
+      - Setup
+      - Marketing
+      - Other
+      required: false
+    - id: 14
+      name: other_help
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false

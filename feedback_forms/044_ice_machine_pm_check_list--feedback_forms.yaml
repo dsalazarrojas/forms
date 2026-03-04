@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: ice_machine_pm_check_list
+    pages:
+    - id: 1
+      name: ice_machine_details
+      label: Ice Machine Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: ice_machine_model
+      label: ice_machine_model
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: ice_machine_status
+      label: Ice Machine Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Running''}'
+      - '{''id'': 2, ''name'': ''Idle''}'
+      - '{''id'': 3, ''name'': ''Offline''}'
+      required: true
+    - id: 4
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email_contact
+      label: Email Contact
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''chatjimmy''}'
+      - Other
+      required: true

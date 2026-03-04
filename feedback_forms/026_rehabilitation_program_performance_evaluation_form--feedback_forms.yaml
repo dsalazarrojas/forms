@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rehabilitation Program Performance Evaluation Form
+    pages:
+    - id: 1
+      name: user_id
+      label: User ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: program_start_date
+      label: Program Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: satisfaction_rating
+      label: Satisfaction Rating
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Not Satisfied
+      required: true
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: program_name
+      label: Program Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: program_type
+      label: Program Type
+      hint: null
+      type: select_one
+      options:
+      - Inpatient
+      - Outpatient
+      - Both
+      required: true
+    - id: 10
+      name: staff_id
+      label: Staff ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: program_end_date
+      label: Program End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: feedback_date
+      label: Feedback Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: program_status
+      label: Program Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Completed
+      required: false
+    - id: 15
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

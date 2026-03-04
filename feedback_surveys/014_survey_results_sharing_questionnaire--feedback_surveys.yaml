@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Survey Results Sharing Questionnaire
+    pages:
+    - id: 1
+      name: form_title
+      label: Form title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_instructions
+      label: Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: share_findings_to
+      label: Share Findings To
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Employees''}'
+      - '{''value'': ''Customers''}'
+      - '{''value'': ''Students''}'
+      - '{''value'': ''Community stakeholders''}'
+      required: false
+    - id: 4
+      name: share_frequency
+      label: Share Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Daily''}'
+      - '{''value'': ''Weekly''}'
+      - '{''value'': ''Monthly''}'
+      - '{''value'': ''Quarterly''}'
+      required: false
+    - id: 5
+      name: share_timing
+      label: Share Timing
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Immediately''}'
+      - '{''value'': ''After each survey''}'
+      - '{''value'': ''At end of survey''}'
+      required: false
+    - id: 6
+      name: share_medium
+      label: Share Medium
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Email''}'
+      - '{''value'': ''Text message''}'
+      - '{''value'': ''In person''}'
+      - '{''value'': ''Other (please specify)''}'
+      required: true
+    - id: 7
+      name: other_share_medium
+      label: Other Share Medium
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email_address
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

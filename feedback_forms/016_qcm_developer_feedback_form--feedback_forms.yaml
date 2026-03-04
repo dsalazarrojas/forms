@@ -1,0 +1,87 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: QCM Developer Feedback Form
+    pages:
+    - id: 1
+      name: qcm_developer_feedback_form
+      label: feedback_form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: satisfaction_score
+      label: satisfaction_score
+      hint: 1-5 scale
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 4
+      name: developer_id
+      label: developer_id
+      hint: null
+      type: select_one
+      options:
+      - developer1
+      - developer2
+      - developer3
+      required: true
+    - id: 5
+      name: qcm_system_rating
+      label: qcm_system_rating
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Excellent
+      - Poor
+      - Bad
+      required: true
+    - id: 6
+      name: improvement_areas
+      label: improvement_areas
+      hint: null
+      type: select_multiple
+      options:
+      - Feature Development
+      - User Interface
+      - Technical Support
+      required: true
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

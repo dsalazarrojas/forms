@@ -1,0 +1,262 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Building Block Advisor Survey
+    pages:
+      - id: 1
+        name: advisor_info
+        label: -- Advisor Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: advisor_name
+        label: Your name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: advisor_title
+        label: Your title or role
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: advisor_organization
+        label: Organization or affiliation
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: advisor_email
+        label: Email address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 6
+        name: advisor_expertise
+        label: Areas of expertise
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: feedback_section
+        label: -- Feedback on Program or Project --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: project_name
+        label: Project or program name being reviewed
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: overall_assessment
+        label: Overall assessment of the project
+        hint: null
+        type: select_one
+        options:
+          - Excellent - Strong potential
+          - Good - Solid foundation
+          - Fair - Needs improvement
+          - Poor - Significant concerns
+          - Inadequate - Major issues
+        required: true
+      - id: 10
+        name: strengths
+        label: Key strengths and highlights
+        hint: What is working well
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: weaknesses
+        label: Areas for improvement
+        hint: What needs attention
+        type: text
+        options: []
+        required: true
+      - id: 12
+        name: specific_feedback
+        label: -- Specific Feedback Areas --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 13
+        name: vision_clarity
+        label: Clarity of vision and objectives
+        hint: null
+        type: select_one
+        options:
+          - Very clear
+          - Clear
+          - Somewhat clear
+          - Unclear
+          - Very unclear
+        required: true
+      - id: 14
+        name: feasibility
+        label: Feasibility of implementation
+        hint: null
+        type: select_one
+        options:
+          - Highly feasible
+          - Feasible
+          - Somewhat feasible
+          - Challenging
+          - Not feasible
+        required: true
+      - id: 15
+        name: budget_adequacy
+        label: Budget adequacy for scope
+        hint: null
+        type: select_one
+        options:
+          - More than adequate
+          - Adequate
+          - Slightly tight
+          - Very tight
+          - Insufficient
+        required: true
+      - id: 16
+        name: timeline_feasibility
+        label: Timeline feasibility
+        hint: null
+        type: select_one
+        options:
+          - Very realistic
+          - Realistic
+          - Somewhat tight
+          - Very tight
+          - Unrealistic
+        required: true
+      - id: 17
+        name: team_capability
+        label: Team capability to execute
+        hint: null
+        type: select_one
+        options:
+          - Excellent fit
+          - Good fit
+          - Adequate fit
+          - Some concerns
+          - Significant concerns
+        required: true
+      - id: 18
+        name: risk_assessment
+        label: Risk assessment and mitigation
+        hint: null
+        type: select_one
+        options:
+          - Well addressed
+          - Adequately addressed
+          - Partially addressed
+          - Poorly addressed
+          - Not addressed
+        required: true
+      - id: 19
+        name: recommendations_section
+        label: -- Recommendations --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 20
+        name: priority_recommendations
+        label: Top 3 priority recommendations
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 21
+        name: resource_needs
+        label: Critical resource gaps
+        hint: What is needed for success
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: success_factors
+        label: Key success factors
+        hint: What will make this succeed
+        type: text
+        options: []
+        required: true
+      - id: 23
+        name: risk_mitigation
+        label: Risk mitigation strategies
+        hint: How to address identified risks
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: support_level
+        label: -- Support and Next Steps --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 25
+        name: willing_to_support
+        label: Willing to provide ongoing support
+        hint: null
+        type: select_one
+        options:
+          - Yes, actively involved
+          - Yes, advisory capacity
+          - Yes, limited support
+          - No
+        required: true
+      - id: 26
+        name: support_type
+        label: Type of support you can provide
+        hint: null
+        type: select_multiple
+        options:
+          - Technical expertise
+          - Mentoring
+          - Connections/networking
+          - Resource recommendations
+          - Funding guidance
+          - Strategic advice
+          - Other
+        required: false
+      - id: 27
+        name: follow_up_meeting
+        label: Willing to meet for follow-up discussion
+        hint: null
+        type: select_one
+        options:
+          - Yes, within 2 weeks
+          - Yes, within month
+          - Yes, flexible timing
+          - No
+        required: false
+      - id: 28
+        name: additional_comments
+        label: Additional comments or observations
+        hint: null
+        type: text
+        options: []
+        required: false

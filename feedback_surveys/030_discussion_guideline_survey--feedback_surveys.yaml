@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: discussion_guideline_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: rating_clarity
+      label: Clarity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: rating_usefulness
+      label: Usefulness
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: rating_quality
+      label: Quality
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: select_all
+      label: Select All
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Select an option'', ''label'': ''Select an option''}'
+      - '{''value'': ''Select all'', ''label'': ''Select all''}'
+      required: false
+    - id: 7
+      name: select_one
+      label: Select one
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Option 1'', ''label'': ''Option 1''}'
+      - '{''value'': ''Option 2''}'
+      - '{''value'': ''Option 3''}'
+      - '{''value'': ''Option 4''}'
+      required: true
+    - id: 8
+      name: select_multiple
+      label: Select Multiple
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Option 1'', ''label'': ''Option 1''}'
+      - '{''value'': ''Option 2''}'
+      - '{''value'': ''Option 3''}'
+      - '{''value'': ''Option 4''}'
+      required: true
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: rating_time
+      label: Rating Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: rating_satisfaction
+      label: Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: rating_clarity_10
+      label: Clarity 10
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: rating_usefulness_10
+      label: Usefulness 10
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: rating_quality_10
+      label: Quality 10
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: rating_satisfaction_10
+      label: Satisfaction 10
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: comments_10
+      label: Comments 10
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: select_all_10
+      label: Select All 10
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Select an option 10'', ''label'': ''Select an option 10''}'
+      - '{''value'': ''Select all 10'', ''label'': ''Select all 10''}'
+      required: false
+    - id: 21
+      name: select_one_10
+      label: Select one 10
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Option 1 10'', ''label'': ''Option 1 10''}'
+      - '{''value'': ''Option 2 10''}'
+      - '{''value'': ''Option 3 10''}'
+      - '{''value'': ''Option 4 10''}'
+      required: true
+    - id: 22
+      name: select_multiple_10
+      label: Select Multiple 10
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Option 1 10'', ''label'': ''Option 1 10''}'
+      - '{''value'': ''Option 2 10''}'
+      - '{''value'': ''Option 3 10''}'
+      - '{''value'': ''Option 4 10''}'
+      required: true
+    - id: 23
+      name: date_10
+      label: Date 10
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: time_10
+      label: Time 10
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 25
+      name: email_10
+      label: Email 10
+      hint: null
+      type: email
+      options: []
+      required: true

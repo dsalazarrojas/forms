@@ -1,0 +1,262 @@
+inputSchema:
+  type: object
+  properties:
+    title: Skincare Product Refill Program Interest Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: How did you hear about our Skincare Product Refill Program
+      hint: null
+      type: select_one
+      options:
+      - Online Search
+      - Social Media
+      - Friend/Family
+      - Referral
+      - In-store Display
+      - Other
+      required: false
+    - id: 2
+      name: program_awareness
+      label: How aware are you of our Skincare Product Refill Program
+      hint: null
+      type: select_multiple
+      options:
+      - Very Low
+      - Somewhat Low
+      - Not sure
+      - Somewhat High
+      - Very High
+      required: false
+    - id: 3
+      name: program_interest
+      label: What do you think about our Skincare Product Refill Program
+      hint: null
+      type: select_one
+      options:
+      - Not interested
+      - Somewhat interested
+      - Very interested
+      - Extremely interested
+      required: false
+    - id: 4
+      name: program_attributes
+      label: What aspects of our Skincare Product Refill Program interest you the
+        most
+      hint: null
+      type: select_multiple
+      options:
+      - Convenience
+      - Cost-effectiveness
+      - Product variety
+      - Sustainability
+      - Other
+      - No preference
+      required: false
+    - id: 5
+      name: demographics
+      label: What is your age group
+      hint: null
+      type: select_one
+      options:
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55-64
+      - 65 and above
+      required: false
+    - id: 6
+      name: skincare_preference
+      label: What type of skincare products do you use most
+      hint: null
+      type: select_one
+      options:
+      - Moisturizers
+      - Toners
+      - Cleansers
+      - Serums
+      - Exfoliants
+      - Masks
+      required: false
+    - id: 7
+      name: product_frequency
+      label: How often do you use skincare products
+      hint: null
+      type: select_one
+      options:
+      - Once a day
+      - Twice a day
+      - Three or more times a day
+      - Rarely
+      required: false
+    - id: 8
+      name: refill_preference
+      label: What do you prefer for refills
+      hint: null
+      type: select_one
+      options:
+      - Convenient packaging
+      - Eco-friendly packaging
+      - Customized refills
+      - Product packaging is not important
+      required: false
+    - id: 9
+      name: frequency_of_refills
+      label: How often would you like to receive refills
+      hint: null
+      type: select_one
+      options:
+      - Every 1-2 weeks
+      - Every 3-4 weeks
+      - Every 4-6 weeks
+      - Every 2 months
+      required: false
+    - id: 10
+      name: preferred_refill_method
+      label: What is your preferred method for refills
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Mobile app
+      - In-store
+      - Online ordering system
+      required: false
+    - id: 11
+      name: open_ended_question
+      label: Would you like to share any additional comments about our Skincare Product
+        Refill Program
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact
+      label: What is your email address and phone number (we will not share this info
+        publicly)
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Both email and phone
+      required: false
+    - id: 13
+      name: program_satisfaction
+      label: How satisfied are you with our Skincare Product Refill Program
+      hint: null
+      type: select_one
+      options:
+      - Not satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat satisfied
+      - Very satisfied
+      required: false
+    - id: 14
+      name: program_improvement
+      label: What can we improve on our Skincare Product Refill Program
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: open_ended_question_2
+      label: Any final thoughts on our Skincare Product Refill Program
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: demographics_2
+      label: How did you hear about our Skincare Product Refill Program (2)
+      hint: null
+      type: select_one
+      options:
+      - Online Search
+      - Social Media
+      - Friend/Family
+      - Referral
+      - In-store Display
+      - Other
+      required: false
+    - id: 17
+      name: product_loyalty
+      label: How often do you purchase our Skincare Products
+      hint: null
+      type: select_one
+      options:
+      - Every 1-2 weeks
+      - Every 3-4 weeks
+      - Every 4-6 weeks
+      - Every 2 months
+      required: false
+    - id: 18
+      name: product_loyalty_2
+      label: How likely are you to continue purchasing our Skincare Products
+      hint: null
+      type: select_one
+      options:
+      - Not likely
+      - Somewhat likely
+      - Neutral
+      - Somewhat likely
+      - Very likely
+      required: false
+    - id: 19
+      name: contact_info
+      label: Would you like to be contacted for further information on our Skincare
+        Product Refill Program
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: survey_completion
+      label: Why did you complete this survey
+      hint: null
+      type: select_one
+      options:
+      - For fun
+      - To provide feedback
+      - To provide information about our Skincare Product Refill Program
+      - To participate in a contest
+      required: false
+    - id: 21
+      name: email
+      label: What is your email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: phone
+      label: What is your phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: name
+      label: What is your name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: location
+      label: What is your location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: comments
+      label: Additional comments about our Skincare Product Refill Program
+      hint: null
+      type: text
+      options: []
+      required: false

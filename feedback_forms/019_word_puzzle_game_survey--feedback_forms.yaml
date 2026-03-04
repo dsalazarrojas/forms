@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Word Puzzle Game Survey
+    pages:
+    - id: 1
+      name: game_developer
+      label: Game Developer
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: satisfaction_level
+      label: Satisfaction Level
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 3
+      name: suggest_feature
+      label: Suggest a Feature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: improvement_idea
+      label: Improvement Idea
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: game_type
+      label: Game Type
+      hint: null
+      type: select_one
+      options:
+      - Word Puzzle
+      - Word-based Puzzle
+      - Logic Puzzle
+      - Number Puzzle
+      required: false
+    - id: 6
+      name: how_long_do_you_play
+      label: How long do you play word puzzle games?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: game_puzzle_difficulty
+      label: Game Puzzle Difficulty
+      hint: null
+      type: select_one
+      options:
+      - Very Hard
+      - Hard
+      - Medium
+      - Easy
+      - Very Easy
+      required: false
+    - id: 8
+      name: game_puzzle_features
+      label: Game Puzzle Features
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: game_puzzle_improvement
+      label: Game Puzzle Improvement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: game_puzzle_idea
+      label: Game Puzzle Idea
+      hint: null
+      type: note
+      options: []
+      required: false

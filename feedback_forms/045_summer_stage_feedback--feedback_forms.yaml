@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Summer Stage Feedback
+    pages:
+    - id: 1
+      name: summer_stage_feedback_form
+      label: Summer Stage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_organizer
+      label: Event Organizer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: event_organizer_email
+      label: Event Organizer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: event_organizer_phone
+      label: Event Organizer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: feedback_type
+      label: Feedback Type
+      hint: null
+      type: select_one
+      options:
+      - Feedback for event
+      - Other
+      required: false
+    - id: 6
+      name: feedback_text
+      label: Feedback Text
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: feedback_rating
+      label: Feedback Rating
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 8
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: event_venue
+      label: Event Venue
+      hint: null
+      type: text
+      options: []
+      required: false

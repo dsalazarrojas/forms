@@ -1,0 +1,144 @@
+inputSchema:
+  type: object
+  properties:
+    title: poverty-reduction-policy-awareness-survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: demographic
+      label: demographic
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''male''}'
+      - '{''value'': ''female''}'
+      - '{''value'': ''other''}'
+      required: false
+    - id: 3
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: income
+      label: income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: education
+      label: education
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''primary''}'
+      - '{''value'': ''secondary''}'
+      - '{''value'': ''high_school''}'
+      - '{''value'': ''some_college''}'
+      - '{''value'': ''degree''}'
+      - '{''value'': ''some_university''}'
+      required: false
+    - id: 6
+      name: employment
+      label: employment
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''employed''}'
+      - '{''value'': ''not_employed''}'
+      - '{''value'': ''self_employed''}'
+      - '{''value'': ''student''}'
+      - '{''value'': ''retired''}'
+      - '{''value'': ''other''}'
+      required: false
+    - id: 7
+      name: household_income
+      label: household_income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: awareness
+      label: awareness
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''high''}'
+      - '{''value'': ''medium''}'
+      - '{''value'': ''low''}'
+      required: false
+    - id: 9
+      name: policy_1
+      label: policy_1
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: policy_2
+      label: policy_2
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: policy_3
+      label: policy_3
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: policy_4
+      label: policy_4
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: policy_5
+      label: policy_5
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: policy_6
+      label: policy_6
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''agree''}'
+      - '{''value'': ''neutral''}'
+      - '{''value'': ''disagree''}'
+      required: false
+    - id: 15
+      name: policy_7
+      label: policy_7
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''agree''}'
+      - '{''value'': ''neutral''}'
+      - '{''value'': ''disagree''}'
+      required: false
+    - id: 16
+      name: policy_8
+      label: policy_8
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''agree''}'
+      - '{''value'': ''neutral''}'
+      - '{''value'': ''disagree''}'
+      required: false

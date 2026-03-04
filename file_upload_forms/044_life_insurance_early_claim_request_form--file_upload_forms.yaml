@@ -1,0 +1,148 @@
+inputSchema:
+  type: object
+  properties:
+    title: Life Insurance Early Claim Request Form
+    pages:
+    - id: 1
+      name: upload_claim_file
+      label: Upload claim file
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: insured_name
+      label: insured_name
+      hint: Please enter insured name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: claim_date
+      label: claim_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: claim_description
+      label: claim_description
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 5
+      name: insurance_policy_number
+      label: insurance_policy_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email_address
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: claimant_signature
+      label: claimant_signature
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: insurance_provider
+      label: insurance_provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: policy_holder_signature
+      label: policy_holder_signature
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: claimant_name
+      label: claimant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: claimant_address
+      label: claimant_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: claimant_phone
+      label: claimant_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: policy_holder
+      label: policy_holder
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: claimant_relationship
+      label: claimant_relationship
+      hint: null
+      type: select_one
+      options:
+      - Claimant is an Insured
+      - Claimant is a Claimant
+      - Claimant is a Policy Holder
+      required: true
+    - id: 16
+      name: claimant_type
+      label: claimant_type
+      hint: null
+      type: select_multiple
+      options:
+      - Individual
+      - Business
+      - Group
+      - Policy Holder
+      required: true
+    - id: 17
+      name: policy_type
+      label: policy_type
+      hint: null
+      type: select_one
+      options:
+      - Term
+      - Whole
+      - Other
+      required: false
+    - id: 18
+      name: claim_amount
+      label: claim_amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: submit_button
+      label: submit_button
+      hint: null
+      type: text
+      options: []
+      required: false

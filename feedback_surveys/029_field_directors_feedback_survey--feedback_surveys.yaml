@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Field Directors Feedback Survey
+    pages:
+    - id: 1
+      name: field_directors_feedback_survey_page_1
+      label: field directors feedback survey page 1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: overall_satisfaction
+      label: overall satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: job_satisfaction
+      label: job satisfaction
+      hint: How satisfied are you with your job?
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: suggestions_for_improvement
+      label: suggestions for improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: challenges_confronted
+      label: challenges confronted
+      hint: What are some challenges you are currently facing?
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: improvement_ideas
+      label: improvement ideas
+      hint: What ideas do you have for improvement?
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: select_satisfaction_with_manager
+      label: satisfaction with manager
+      hint: How satisfied are you with your manager?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 8
+      name: feedback_about_manager
+      label: feedback about manager
+      hint: What feedback do you have about your manager?
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: select_multiple_challenges
+      label: select multiple challenges
+      hint: What challenges are you facing?
+      type: select_multiple
+      options:
+      - Lack of Resources
+      - Communication issues
+      - Poor Leadership
+      - Other (please specify)
+      required: false
+    - id: 10
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

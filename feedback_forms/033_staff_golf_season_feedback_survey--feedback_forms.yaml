@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Staff Golf Season Feedback Survey
+    pages:
+    - id: 1
+      name: golf_season_satisfaction
+      label: Golf Season Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: staff_satisfaction
+      label: Staff Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: program_suggestions
+      label: Program Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: staff_comments
+      label: Staff Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_organizer_name
+      label: Event Organizer
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''John Smith''}'
+      - '{''label'': ''Jane Doe''}'
+      - '{''label'': ''Other''}'
+      required: true
+    - id: 9
+      name: feedback_to_organizer
+      label: Feedback To
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''HR Department''}'
+      - '{''label'': ''Event Organizers''}'
+      - '{''label'': ''Other''}'
+      required: true

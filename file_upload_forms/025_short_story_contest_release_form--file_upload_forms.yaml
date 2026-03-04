@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Short Story Contest Release Form
+    pages:
+    - id: 1
+      name: short_story_contest_release_form_1
+      label: Enter Story Submission
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_permission
+      label: Participant Permission
+      hint: null
+      type: select_multiple
+      options:
+      - '{1: ''Participant''}'
+      - '{2: ''Parent/Guardian''}'
+      - '{3: ''Legal Guardian''}'
+      required: false
+    - id: 3
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: participant_age
+      label: Participant Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: participant_contact
+      label: Participant Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: participant_school
+      label: Participant School
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: story_title
+      label: Story Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: story_author
+      label: Story Author
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: story_genre
+      label: Story Genre
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Mystery''}'
+      - '{2: ''Science Fiction''}'
+      - '{3: ''Fantasy''}'
+      - '{4: ''Romance''}'
+      - '{5: ''Historical''}'
+      required: false
+    - id: 11
+      name: story_length
+      label: Story Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: story_type
+      label: Story Type
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Short Story''}'
+      - '{2: ''Essay''}'
+      - '{3: ''Poetry''}'
+      required: false
+    - id: 13
+      name: story_rating
+      label: Story Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: story_status
+      label: Story Status
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Published''}'
+      - '{2: ''Unpublished''}'
+      - '{3: ''In Progress''}'
+      required: false
+    - id: 15
+      name: participant_permission_note
+      label: Participant Permission Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: participant_permission_date
+      label: Participant Permission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: participant_permission_time
+      label: Participant Permission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: participant_signature
+      label: Participant Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: participant_school_signature
+      label: Participant School Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: release_authorized
+      label: Release Authorized
+      hint: null
+      type: select_one
+      options:
+      - '{1: True}'
+      - '{2: False}'
+      required: false
+    - id: 21
+      name: release_date
+      label: Release Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: release_time
+      label: Release Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: release_signature
+      label: Release Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: participant_permission_type
+      label: Participant Permission Type
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''One-time''}'
+      - '{2: ''Ongoing''}'
+      required: false
+    - id: 25
+      name: participant_permission_version
+      label: Participant Permission Version
+      hint: null
+      type: number
+      options: []
+      required: false

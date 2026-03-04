@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Airline Lounge Experience Feedback Survey
+    pages:
+    - id: 1
+      name: visitor_name
+      label: Visitor Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: membership_level
+      label: Membership Status
+      hint: null
+      type: select_one
+      options:
+      - Standard
+      - Silver
+      - Gold
+      - Platinum
+      - One-time Pass
+      required: true
+    - id: 3
+      name: lounge_location
+      label: Lounge Location
+      hint: Airport and Terminal
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: visit_date
+      label: Date of Visit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: visit_time
+      label: Time of Visit
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: section_ratings
+      label: -- Lounge Ratings --
+      hint: Rate from 1 (Poor) to 5 (Excellent)
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: check_in_process
+      label: Check-in Process Efficiency
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: seating_availability
+      label: Seating Availability and Comfort
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: food_selection
+      label: Food Selection and Quality
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: beverage_selection
+      label: Beverage Selection and Quality
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: wifi_speed
+      label: Wi-Fi Speed and Connectivity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: shower_restroom_cleanliness
+      label: Restroom and Shower Cleanliness
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: staff_helpfulness
+      label: Staff Helpfulness and Courtesy
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: overall_atmosphere
+      label: Overall Atmosphere and Ambiance
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: favorite_feature
+      label: What was your favorite feature of the lounge?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: improvement_suggestions
+      label: Suggestions for Improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: visit_again
+      label: Will you visit this lounge again?
+      hint: null
+      type: select_one
+      options:
+      - Definitely
+      - Likely
+      - Unlikely
+      required: true

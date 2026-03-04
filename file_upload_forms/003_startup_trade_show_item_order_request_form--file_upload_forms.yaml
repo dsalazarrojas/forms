@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Startup Trade Show Item Order Request Form
+    pages:
+    - id: 1
+      name: form_1
+      label: start_up_trade_show_item_order_request_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_team
+      label: event_team
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Event Team''}'
+      - '{''id'': 2, ''label'': ''Other''}'
+      required: false
+    - id: 3
+      name: item_name
+      label: item_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: report_date
+      label: report_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: report_time
+      label: report_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: item_count
+      label: item_count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: item_type
+      label: item_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Large''}'
+      - '{''id'': 2, ''label'': ''Medium''}'
+      - '{''id'': 3, ''label'': ''Small''}'
+      required: false

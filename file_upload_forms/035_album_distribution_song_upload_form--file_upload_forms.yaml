@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Album Distribution Song Upload Form
+    pages:
+    - id: 1
+      name: section_release_info
+      label: -- Release Metadata --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: album_title
+      label: Official Album/EP Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: primary_artist
+      label: Primary Artist Name
+      hint: Exactly as it should appear on DSPs
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: record_label
+      label: Record Label Name
+      hint: Put 'Independent' if self-released
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: release_date
+      label: Digital Release Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: section_tracklist
+      label: -- Tracklist and Files --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: total_track_count
+      label: Total Number of Tracks
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: tracklist_order
+      label: Tracklist Order (Song Titles)
+      hint: List titles in order, one per line
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: audio_format_confirmation
+      label: Audio Quality Confirmation
+      hint: All files must be WAV (24-bit, 44.1kHz minimum)
+      type: select_one
+      options:
+      - I confirm all files are High-Resolution WAV
+      - Other
+      required: true
+    - id: 10
+      name: section_copyright
+      label: -- Rights and Credits --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: songwriter_credits
+      label: Songwriter(s) Full Legal Names
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: isrc_codes
+      label: ISRC Codes (If already assigned)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: explicit_content
+      label: Does this release contain explicit lyrics?
+      hint: null
+      type: select_one
+      options:
+      - Yes (Explicit tag required)
+      - No (Clean/Edited)
+      required: true
+    - id: 14
+      name: section_artwork
+      label: -- Artwork and Promotional Assets --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: artwork_check
+      label: Cover Artwork Status
+      hint: Minimum 3000x3000px, RGB, JPG/PNG
+      type: select_one
+      options:
+      - Uploaded to portal
+      - Sending via external link
+      - Requesting design services
+      required: true
+    - id: 16
+      name: distribution_territories
+      label: Distribution Territories
+      hint: null
+      type: select_one
+      options:
+      - Worldwide
+      - Specific Regions (Please specify in notes)
+      required: true
+    - id: 17
+      name: rights_ownership_confirmation
+      label: I declare I own or have legal license to all masters and compositions
+      hint: null
+      type: select_one
+      options:
+      - I declare and agree
+      - Other
+      required: true

@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retail Store Layout Feedback Questionnaire
+    pages:
+    - id: 1
+      name: store_id
+      label: Store ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: feedback_type
+      label: Feedback Type
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 3
+      name: section
+      label: Section
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 4
+      name: sub_section
+      label: Sub-Section
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: product_type
+      label: Product Type
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 6
+      name: product_id
+      label: Product ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: layout_rating
+      label: Layout Rating
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 8
+      name: product_rating
+      label: Product Rating
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact
+      label: Contact
+      hint: null
+      type: email
+      options: []
+      required: false

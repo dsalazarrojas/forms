@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Legal Advisor Feedback Survey
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: feedback
+      label: How would you rate the quality of our legal services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: suggestion
+      label: Have you got any suggestions for improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: rating
+      label: Rating of our legal services (1-5)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: contact_method
+      label: How do you prefer to contact us
+      hint: null
+      type: select_one
+      options:
+      - Contact by phone
+      - Email
+      - In-person
+      required: false
+    - id: 11
+      name: contact_method_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_method_other_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: HR Policy Feedback Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: policy_number
+      label: Policy Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: section_title
+      label: Section Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: attachment
+      label: Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 13, ''value'': ''Email''}'
+      - '{''id'': 13.1, ''value'': ''Phone''}'
+      - '{''id'': ''13.1.1'', ''value'': ''Other''}'
+      required: true
+    - id: 10
+      name: additional_details
+      label: Additional Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false

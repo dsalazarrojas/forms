@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Frozen Display Audit Survey
+    pages:
+    - id: 1
+      name: frozen_display_audit_survey
+      label: Frozen Display Audit Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: store
+      label: Store
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: frozen_cabinet
+      label: Frozen Cabinet
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: frozen_shelves
+      label: Frozen Shelves
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: temperature_controller
+      label: Temperature Controller
+      hint: null
+      type: select_one
+      options:
+      - Temperature Control
+      - No Temperature Control
+      - Unknown
+      required: false
+    - id: 6
+      name: freezer_doors
+      label: Freezer Doors
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: freezer_compartments
+      label: Freezer Compartments
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: store_manager
+      label: Store Manager
+      hint: null
+      type: email
+      options: []
+      required: false

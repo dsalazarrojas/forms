@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fun Group Dynamics Survey
+    pages:
+    - id: 1
+      name: collaboration_style
+      label: how_does_your_group_collaborate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: communication_styles
+      label: how_effective_is_your_groups_communication
+      hint: null
+      type: select_one
+      options:
+      - very_good
+      - good
+      - neutral
+      - fair
+      - very_fair
+      required: true
+    - id: 3
+      name: group_culture
+      label: how_well_do_your_group_members_respect_each_other
+      hint: null
+      type: select_multiple
+      options:
+      - always
+      - mostly
+      - sometimes
+      - rarely
+      - never
+      required: true
+    - id: 4
+      name: collaboration_frequency
+      label: how_often_do_you_collaborate_as_a_group
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: collaboration_frequency_hint
+      label: collaboration_frequency_hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: communication_frequency
+      label: how_frequently_do_you_communicate_with_your_group
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: communication_frequency_hint
+      label: communication_frequency_hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: fun_level
+      label: how_fun_do_you_find_your_group
+      hint: null
+      type: select_one
+      options:
+      - very_funny
+      - somewhat_funny
+      - not_fun
+      required: true
+    - id: 9
+      name: fun_level_hint
+      label: fun_level_hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: team_size
+      label: how_many_people_in_your_group
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: team_size_hint
+      label: team_size_hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: collaboration_style_hint
+      label: collaboration_style_hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: communication_frequency_hint
+      label: communication_frequency_hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: team_culture
+      label: team_culture
+      hint: null
+      type: select_multiple
+      options:
+      - positive
+      - positive_and_negative
+      - negative
+      - very_negative
+      required: true
+    - id: 15
+      name: team_culture_hint
+      label: team_culture_hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: group_dynamics
+      label: how_do_you_feel_about_your_group
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: group_dynamics_hint
+      label: group_dynamics_hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: collaboration_type
+      label: how_do_you_choose_your_group_members
+      hint: null
+      type: select_one
+      options:
+      - by_random
+      - by_skill
+      - by_interest
+      required: true
+    - id: 19
+      name: collaboration_type_hint
+      label: collaboration_type_hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: communication_level
+      label: how_do_you_communicate_with_your_group
+      hint: null
+      type: select_one
+      options:
+      - very_open
+      - somewhat_open
+      - not_open
+      required: true
+    - id: 21
+      name: communication_level_hint
+      label: communication_level_hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: group_name
+      label: what_s_is_the_name_of_your_group
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: group_name_hint
+      label: group_name_hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: team_leader
+      label: what_s_the_name_of_the_team_leader
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: team_leader_hint
+      label: team_leader_hint
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: document_revision_request_form
+    pages:
+    - id: 1
+      name: document_revision_request_form_page
+      label: submit_request
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: revision_requested
+      label: document_revision_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: document_revision_request_date
+      label: date_of_revision_request
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: comment
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: document_revision_request_uploads
+      label: uploads
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: document_revision_request_uploads_note
+      label: uploads_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: document_revision_request_uploads_file_name
+      label: file_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: document_revision_request_uploads_file_url
+      label: file_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: document_revision_request_uploads_file_date
+      label: file_date
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: document_revision_request_uploads_file_type
+      label: file_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: document_revision_request_uploads_file_size
+      label: file_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: document_revision_request_uploads_file_version
+      label: file_version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: document_revision_request_uploads_file_description
+      label: file_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: document_revision_request_uploads_file_tags
+      label: file_tags
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: document_revision_request_uploads_file_tags_note
+      label: file_tags_note
+      hint: null
+      type: text
+      options: []
+      required: false

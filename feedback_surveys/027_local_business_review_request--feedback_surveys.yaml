@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: local_business_review_request
+    pages:
+    - id: 1
+      name: shop_name
+      label: shop_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: review
+      label: review
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''excellent''}'
+      - '{''value'': ''good''}'
+      - '{''value'': ''bad''}'
+      - '{''value'': ''neutral''}'
+      - '{''value'': ''very_bad''}'
+      required: false
+    - id: 5
+      name: experience
+      label: experience
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''positive''}'
+      - '{''value'': ''negative''}'
+      required: false
+    - id: 6
+      name: service_quality
+      label: service_quality
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''fast''}'
+      - '{''value'': ''average''}'
+      - '{''value'': ''slow''}'
+      required: false
+    - id: 7
+      name: communication
+      label: communication
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''good''}'
+      - '{''value'': ''bad''}'
+      required: false
+    - id: 8
+      name: price_range
+      label: price
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''low''}'
+      - '{''value'': ''average''}'
+      - '{''value'': ''high''}'
+      required: false
+    - id: 9
+      name: recommended
+      label: recommended
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 10
+      name: visit_time
+      label: visit_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: email_hint
+      label: email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: service_providers
+      label: service_providers
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: shop_type
+      label: shop_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''restaurant''}'
+      - '{''value'': ''shop''}'
+      - '{''value'': ''salon''}'
+      - '{''value'': ''other''}'
+      required: false
+    - id: 18
+      name: shop
+      label: shop
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''local''}'
+      - '{''value'': ''online''}'
+      required: false
+    - id: 19
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: review_location
+      label: review_location
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''google''}'
+      - '{''value'': ''yelp''}'
+      - '{''value'': ''facebook''}'
+      - '{''value'': ''instagram''}'
+      required: false
+    - id: 21
+      name: rating_score
+      label: rating_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: review_score
+      label: review_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: review
+      label: review
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

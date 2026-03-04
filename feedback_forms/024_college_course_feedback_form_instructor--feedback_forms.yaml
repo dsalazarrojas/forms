@@ -1,0 +1,213 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: College Course Feedback Form Instructor
+    pages:
+      - id: 1
+        name: course_section
+        label: Course and Section
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: instructor_name
+        label: Instructor Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: semester
+        label: Semester or Term
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: student_anonymous
+        label: Submit Anonymously
+        hint: Your identity will not be shared
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+        required: true
+      - id: 5
+        name: instructor_section_header
+        label: -- Instructor Performance Assessment --
+        hint: Please rate your instructor on the following dimensions
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: knowledge_rating
+        label: Subject Matter Knowledge and Expertise
+        hint: null
+        type: select_one
+        options:
+          - "5 - Excellent"
+          - "4 - Good"
+          - "3 - Satisfactory"
+          - "2 - Needs Improvement"
+          - "1 - Poor"
+        required: true
+      - id: 7
+        name: communication_rating
+        label: Communication and Explanation Skills
+        hint: Can instructor explain concepts clearly
+        type: select_one
+        options:
+          - "5 - Excellent"
+          - "4 - Good"
+          - "3 - Satisfactory"
+          - "2 - Needs Improvement"
+          - "1 - Poor"
+        required: true
+      - id: 8
+        name: enthusiasm_rating
+        label: Enthusiasm and Engagement
+        hint: Is the instructor engaging and passionate
+        type: select_one
+        options:
+          - "5 - Excellent"
+          - "4 - Good"
+          - "3 - Satisfactory"
+          - "2 - Needs Improvement"
+          - "1 - Poor"
+        required: true
+      - id: 9
+        name: responsiveness_rating
+        label: Responsiveness to Student Questions and Concerns
+        hint: null
+        type: select_one
+        options:
+          - "5 - Excellent"
+          - "4 - Good"
+          - "3 - Satisfactory"
+          - "2 - Needs Improvement"
+          - "1 - Poor"
+        required: true
+      - id: 10
+        name: feedback_rating
+        label: Quality and Timeliness of Feedback
+        hint: null
+        type: select_one
+        options:
+          - "5 - Excellent"
+          - "4 - Good"
+          - "3 - Satisfactory"
+          - "2 - Needs Improvement"
+          - "1 - Poor"
+        required: true
+      - id: 11
+        name: organization_rating
+        label: Course Organization and Structure
+        hint: Is the course well-organized and logical
+        type: select_one
+        options:
+          - "5 - Excellent"
+          - "4 - Good"
+          - "3 - Satisfactory"
+          - "2 - Needs Improvement"
+          - "1 - Poor"
+        required: true
+      - id: 12
+        name: fairness_rating
+        label: Fairness and Impartiality
+        hint: Does instructor treat all students fairly
+        type: select_one
+        options:
+          - "5 - Excellent"
+          - "4 - Good"
+          - "3 - Satisfactory"
+          - "2 - Needs Improvement"
+          - "1 - Poor"
+        required: true
+      - id: 13
+        name: accessibility_rating
+        label: Accessibility and Office Hours
+        hint: Availability for help outside class
+        type: select_one
+        options:
+          - "5 - Excellent"
+          - "4 - Good"
+          - "3 - Satisfactory"
+          - "2 - Needs Improvement"
+          - "1 - Poor"
+        required: true
+      - id: 14
+        name: overall_rating
+        label: Overall Instructor Rating
+        hint: null
+        type: select_one
+        options:
+          - "5 - Excellent"
+          - "4 - Good"
+          - "3 - Satisfactory"
+          - "2 - Needs Improvement"
+          - "1 - Poor"
+        required: true
+      - id: 15
+        name: strengths_comment
+        label: Instructor Strengths
+        hint: What does this instructor do very well
+        type: text
+        options: []
+        required: true
+      - id: 16
+        name: improvement_comment
+        label: Areas for Improvement
+        hint: What could the instructor do better
+        type: text
+        options: []
+        required: true
+      - id: 17
+        name: most_valuable
+        label: Most Valuable Teaching Technique or Approach
+        hint: What teaching method was most helpful
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: recommend_to_others
+        label: Would you recommend this instructor to other students
+        hint: null
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Uncertain
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 19
+        name: take_again
+        label: Would you take another course with this instructor
+        hint: null
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Uncertain
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 20
+        name: additional_comments
+        label: Additional Comments or Suggestions
+        hint: Any other feedback for the instructor
+        type: text
+        options: []
+        required: false

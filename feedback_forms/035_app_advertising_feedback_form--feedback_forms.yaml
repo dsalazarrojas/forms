@@ -1,0 +1,233 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: App Advertising Feedback Form
+    pages:
+      - id: 1
+        name: feedback_date
+        label: Feedback date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 2
+        name: respondent_name
+        label: Your name or username
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: email_address
+        label: Email address
+        hint: For follow-up if needed
+        type: email
+        options: []
+        required: false
+      - id: 4
+        name: app_name
+        label: App name where you saw advertisement
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: device_type
+        label: Device type
+        hint: null
+        type: select_one
+        options:
+          - iPhone
+          - Android phone
+          - Tablet
+          - Other
+        required: true
+      - id: 6
+        name: app_user_duration
+        label: How long have you used this app?
+        hint: null
+        type: select_one
+        options:
+          - Less than 1 month
+          - 1-3 months
+          - 3-6 months
+          - 6-12 months
+          - 1-2 years
+          - 2+ years
+        required: true
+      - id: 7
+        name: ad_type
+        label: Type of advertisement seen
+        hint: null
+        type: select_one
+        options:
+          - Banner ad
+          - Full-screen interstitial
+          - Video ad
+          - Native advertisement
+          - Rewarded ad
+          - Other
+        required: true
+      - id: 8
+        name: ad_frequency
+        label: Frequency of seeing ads
+        hint: null
+        type: select_one
+        options:
+          - Rarely see ads
+          - See ads occasionally
+          - See ads regularly
+          - See ads very frequently
+          - Ads are excessive
+        required: true
+      - id: 9
+        name: ad_relevance
+        label: How relevant was the advertisement?
+        hint: Did it match your interests
+        type: select_one
+        options:
+          - Very relevant
+          - Relevant
+          - Somewhat relevant
+          - Not relevant
+          - Completely irrelevant
+        required: true
+      - id: 10
+        name: ad_quality
+        label: Quality of the advertisement
+        hint: Appearance, creativity, professionalism
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+          - Very poor
+        required: true
+      - id: 11
+        name: ad_intrusiveness
+        label: Was the ad intrusive or disruptive?
+        hint: null
+        type: select_one
+        options:
+          - Very intrusive
+          - Somewhat intrusive
+          - Neutral
+          - Minimally intrusive
+          - Not intrusive
+        required: true
+      - id: 12
+        name: ad_loading_speed
+        label: Ad loading and performance
+        hint: null
+        type: select_one
+        options:
+          - Loads quickly, no issues
+          - Generally loads fine
+          - Some loading delays
+          - Frequent loading problems
+          - Crashes or causes problems
+        required: true
+      - id: 13
+        name: ad_engagement
+        label: Did you engage with the advertisement?
+        hint: Click, view, or interact
+        type: select_one
+        options:
+          - Yes, clicked or interacted
+          - Watched full video
+          - Viewed but did not click
+          - Skipped or closed
+          - No, closed immediately
+        required: true
+      - id: 14
+        name: product_interest
+        label: Interest in advertised product or service
+        hint: null
+        type: select_one
+        options:
+          - Very interested
+          - Interested
+          - Somewhat interested
+          - Not interested
+          - Actively disinterested
+        required: true
+      - id: 15
+        name: product_consideration
+        label: Would you consider purchasing advertised product?
+        hint: null
+        type: select_one
+        options:
+          - Definitely yes
+          - Probably yes
+          - Maybe
+          - Probably not
+          - Definitely not
+        required: true
+      - id: 16
+        name: ad_distraction
+        label: Did the ad distract from your app experience?
+        hint: null
+        type: select_one
+        options:
+          - Significantly distracted
+          - Somewhat distracted
+          - Neutral impact
+          - Minimally distracted
+          - Did not distract
+        required: true
+      - id: 17
+        name: placement_preference
+        label: Preferred ad placement in app
+        hint: null
+        type: select_one
+        options:
+          - Top of screen
+          - Bottom of screen
+          - Side banner
+          - Between content
+          - Video ads during idle time
+          - No preference
+        required: true
+      - id: 18
+        name: ad_frequency_preference
+        label: Preferred ad frequency
+        hint: How often ads should appear
+        type: select_one
+        options:
+          - One ad per session
+          - A few ads per session
+          - As currently presented
+          - More ads for rewards
+          - Paid version to remove ads
+        required: true
+      - id: 19
+        name: improvement_suggestions
+        label: Suggestions for improving in-app ads
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: overall_ad_rating
+        label: Overall rating of ad experience
+        hint: null
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+          - Very poor
+        required: true

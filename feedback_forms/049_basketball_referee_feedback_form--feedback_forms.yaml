@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Basketball Referee Feedback Form
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- Game Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: game_date
+      label: Game date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: game_location
+      label: Game location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: home_team
+      label: Home team
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: away_team
+      label: Away team
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_header_2
+      label: -- Referee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: referee_name
+      label: Referee name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: referee_level
+      label: Referee level
+      hint: null
+      type: select_one
+      options:
+      - Youth
+      - High School
+      - College
+      - Professional
+      required: false
+    - id: 9
+      name: section_header_3
+      label: -- Feedback Provider --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: feedback_provider
+      label: Your name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: feedback_role
+      label: Your role
+      hint: null
+      type: select_one
+      options:
+      - Coach
+      - Athletic Director
+      - Player
+      - Observer
+      - Other
+      required: true
+    - id: 12
+      name: section_header_4
+      label: -- Referee Performance Evaluation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: rule_knowledge
+      label: Knowledge of basketball rules
+      hint: Scale 1-5 (1=Poor, 5=Excellent)
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: positioning
+      label: Court positioning and visibility
+      hint: Scale 1-5
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: consistency
+      label: Consistency of calls
+      hint: Scale 1-5
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: communication
+      label: Communication and clarity
+      hint: Scale 1-5
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: fairness
+      label: Fairness and impartiality
+      hint: Scale 1-5
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: section_header_5
+      label: -- Specific Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: strengths
+      label: Referee's main strengths
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: areas_improvement
+      label: Areas for improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: specific_incidents
+      label: Any specific incidents or concerns?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: section_header_6
+      label: -- Overall Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: overall_rating
+      label: Overall referee rating
+      hint: Scale 1-5
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: would_request_again
+      label: Would you request this referee again?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false

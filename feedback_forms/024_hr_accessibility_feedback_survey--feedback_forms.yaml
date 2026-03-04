@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: HR Accessibility Feedback Survey
+    pages:
+    - id: 1
+      name: general_info
+      label: General Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: feedback_rating
+      label: What do you think about your workspace accessibility?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: accessibility_features
+      label: How accessible are the features in your workplace?
+      hint: null
+      type: select_multiple
+      options:
+      - Accessibility Features
+      - Partially Accessible
+      - Not Accessible at All
+      required: true
+    - id: 4
+      name: recommendations
+      label: What would make your workspace more accessible?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: submit_date
+      label: Submit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: submit_time
+      label: Submit Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - HR
+      - IT
+      - Facilities
+      - Management
+      - Other
+      required: true
+    - id: 10
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - Employee
+      - Manager
+      - Other
+      required: true
+    - id: 11
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: select_one
+      options:
+      - Today
+      - Yesterday
+      - This Week
+      - Last Week
+      required: true
+    - id: 12
+      name: form_submitted
+      label: Form Submitted
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - Offline
+      - Both
+      required: true
+    - id: 13
+      name: accessibility_features_rating
+      label: Accessibility Features
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: submit_time_rating
+      label: Submit Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: submit_time
+      label: Submit Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: submit_date_1
+      label: Submit Date 1
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: submitted_by_1
+      label: Submitted By 1
+      hint: null
+      type: select_one
+      options:
+      - Employee
+      - Manager
+      - Other
+      required: false
+    - id: 18
+      name: submit_date_2
+      label: Submit Date 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: submit_time_1
+      label: Submit Time 1
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: submitted_by_2
+      label: Submitted By 2
+      hint: null
+      type: select_one
+      options:
+      - Employee
+      - Manager
+      - Other
+      required: false
+    - id: 21
+      name: accessibility_features_1
+      label: Accessibility Features 1
+      hint: null
+      type: select_one
+      options:
+      - Accessibility Features 1
+      - Accessibility Features 2
+      - Accessibility Features 3
+      - Accessibility Features 4
+      - Accessibility Features 5
+      required: false
+    - id: 22
+      name: accessibility_features_2
+      label: Accessibility Features 2
+      hint: null
+      type: select_one
+      options:
+      - Accessibility Features 6
+      - Accessibility Features 7
+      - Accessibility Features 8
+      - Accessibility Features 9
+      - Accessibility Features 10
+      required: false

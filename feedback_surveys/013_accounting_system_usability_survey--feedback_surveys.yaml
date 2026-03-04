@@ -1,0 +1,165 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accounting System Usability Survey
+    pages:
+    - id: 1
+      name: user_role
+      label: Your Role in the Organization
+      hint: Select your primary role related to the accounting system
+      type: select_one
+      options:
+      - Accountant
+      - Bookkeeper
+      - Finance Manager
+      - CFO
+      - Data Analyst
+      - Administrator
+      - Other
+      required: true
+    - id: 2
+      name: system_used
+      label: Accounting System Used
+      hint: Which accounting software system do you primarily use
+      type: select_one
+      options:
+      - QuickBooks Online
+      - QuickBooks Desktop
+      - Xero
+      - Sage
+      - SAP
+      - Oracle
+      - FreshBooks
+      - Other
+      required: true
+    - id: 3
+      name: usage_frequency
+      label: How Often Do You Use the System
+      hint: Estimate how frequently you interact with the accounting system
+      type: select_one
+      options:
+      - Daily
+      - Several times per week
+      - Weekly
+      - Several times per month
+      - Monthly
+      required: true
+    - id: 4
+      name: overall_satisfaction
+      label: Overall Satisfaction with the System
+      hint: Rate your overall satisfaction with the accounting system
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 5
+      name: ease_of_use_rating
+      label: Ease of Use Rating
+      hint: How easy is the system to navigate and use
+      type: select_one
+      options:
+      - Very easy
+      - Easy
+      - Neutral
+      - Difficult
+      - Very difficult
+      required: true
+    - id: 6
+      name: system_performance_issues
+      label: Have You Experienced Performance Issues
+      hint: Select all performance issues you've encountered
+      type: select_multiple
+      options:
+      - Slow loading times
+      - Frequent crashes
+      - Login problems
+      - Data sync delays
+      - Report generation delays
+      - None of the above
+      required: false
+    - id: 7
+      name: feature_satisfaction
+      label: Satisfaction with Key Features
+      hint: Rate your satisfaction with these specific features (1=Very Dissatisfied,
+        5=Very Satisfied)
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: reporting_feature_satisfaction
+      label: Reporting Feature Satisfaction
+      hint: Rate your satisfaction with the reporting capabilities
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: data_entry_satisfaction
+      label: Data Entry Satisfaction
+      hint: Rate your satisfaction with the data entry process
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: integration_capability_satisfaction
+      label: Integration Capability Satisfaction
+      hint: Rate your satisfaction with system integrations
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: training_adequacy
+      label: Adequacy of Training Provided
+      hint: Was the training provided sufficient for you to use the system effectively
+      type: select_one
+      options:
+      - More than adequate
+      - Adequate
+      - Somewhat adequate
+      - Inadequate
+      - Very inadequate
+      required: true
+    - id: 12
+      name: support_quality
+      label: Quality of Technical Support
+      hint: How would you rate the technical support provided
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very poor
+      required: true
+    - id: 13
+      name: desired_improvements
+      label: What Improvements Would You Most Like to See
+      hint: Select all improvements you would like to see in the system
+      type: select_multiple
+      options:
+      - Better user interface
+      - Faster performance
+      - Enhanced reporting
+      - Better mobile app
+      - Improved integrations
+      - More automation features
+      - Better customer support
+      required: false
+    - id: 14
+      name: recommendation_likelihood
+      label: How Likely Are You to Recommend This System
+      hint: On a scale of 0-10, how likely are you to recommend this accounting system
+        to others
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: additional_feedback
+      label: Additional Feedback or Suggestions
+      hint: Any other comments about the accounting system
+      type: text
+      options: []
+      required: false

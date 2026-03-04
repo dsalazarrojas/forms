@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Appliance And Furniture Feedback
+    pages:
+    - id: 1
+      name: customer_info
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Phone Number
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: purchase_details
+      label: -- Purchase Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: product_purchased
+      label: What product did you purchase?
+      hint: null
+      type: select_one
+      options:
+      - Appliance - Refrigerator
+      - Appliance - Washing Machine
+      - Appliance - Dishwasher
+      - Appliance - Microwave
+      - Appliance - Oven
+      - Furniture - Sofa
+      - Furniture - Table
+      - Furniture - Chair
+      - Furniture - Bed
+      - Other
+      required: true
+    - id: 7
+      name: product_model
+      label: Product Model/Brand
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: purchase_date
+      label: Purchase Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: receipt_number
+      label: Receipt or Order Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: product_satisfaction
+      label: -- Product Satisfaction --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: overall_satisfaction
+      label: Overall satisfaction with the product
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 12
+      name: product_quality
+      label: How would you rate the product quality?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very poor
+      required: true
+    - id: 13
+      name: value_for_money
+      label: Was the product worth the price?
+      hint: null
+      type: select_one
+      options:
+      - Excellent value
+      - Good value
+      - Fair value
+      - Poor value
+      - Very poor value
+      required: true
+    - id: 14
+      name: durability
+      label: How would you rate the durability?
+      hint: null
+      type: select_one
+      options:
+      - Very durable
+      - Durable
+      - Average durability
+      - Poor durability
+      - Breaking down already
+      required: false
+    - id: 15
+      name: appearance
+      label: How does it look compared to the product image?
+      hint: null
+      type: select_one
+      options:
+      - Better than expected
+      - As expected
+      - Slightly different
+      - Very different
+      required: false
+    - id: 16
+      name: delivery_service
+      label: -- Delivery and Service --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: delivery_experience
+      label: How satisfied are you with the delivery?
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: false
+    - id: 18
+      name: setup_experience
+      label: Was setup or installation easy?
+      hint: null
+      type: select_one
+      options:
+      - Very easy
+      - Easy
+      - Moderate
+      - Difficult
+      - Did not need setup
+      required: false
+    - id: 19
+      name: issues_encountered
+      label: Have you encountered any issues with the product?
+      hint: null
+      type: select_one
+      options:
+      - No issues
+      - Minor issues
+      - Moderate issues
+      - Significant issues
+      required: true
+    - id: 20
+      name: issue_description
+      label: Please describe any issues
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: recommendations
+      label: Would you recommend this product?
+      hint: null
+      type: select_one
+      options:
+      - Yes, definitely
+      - Yes, probably
+      - Maybe
+      - Probably not
+      - Definitely not
+      required: true
+    - id: 22
+      name: additional_feedback
+      label: Additional feedback or suggestions
+      hint: null
+      type: text
+      options: []
+      required: false

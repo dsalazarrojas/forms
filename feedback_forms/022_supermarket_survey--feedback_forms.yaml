@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Supermarket Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: This is a supermarket survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_type
+      label: customer_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: age_group
+      label: age_group
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: customer_service
+      label: customer_service
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: product_quality
+      label: product_quality
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: store_location
+      label: store_location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: store_hours
+      label: store_hours
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: store_atmosphere
+      label: store_atmosphere
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: product_selection
+      label: product_selection
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: employee_friendly
+      label: employee_friendly
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

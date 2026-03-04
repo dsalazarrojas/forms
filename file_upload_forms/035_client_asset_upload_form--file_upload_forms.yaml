@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Asset Upload Form
+    pages:
+    - id: 1
+      name: asset_intro
+      label: -- Project Asset Submission --
+      hint: Please use this form to upload branding, media, and other project assets.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: project_name
+      label: Project Name / ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: asset_type_header
+      label: -- Asset Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: primary_asset_type
+      label: Type of Assets Being Provided
+      hint: null
+      type: select_multiple
+      options:
+      - Logos (Vector/PNG)
+      - Brand Guidelines (PDF)
+      - Photography/Images
+      - Video Content
+      - Copy/Text Content
+      - Font Files
+      - Social Media Templates
+      required: true
+    - id: 7
+      name: asset_description
+      label: Description and Purpose of Assets
+      hint: e.g. Final logo for website header, Summer campaign photos
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: usage_instructions
+      label: Specific Usage Instructions or Constraints
+      hint: e.g. Do not crop images, Use blue logo on white only
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: approval_header
+      label: -- Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: usage_authorization
+      label: I authorize the agency to use these assets for the specified project
+      hint: null
+      type: select_one
+      options:
+      - I authorize
+      - Other
+      required: true
+    - id: 11
+      name: copyright_clearance
+      label: I confirm that I own the rights to these assets or have permission to
+        use them
+      hint: null
+      type: select_one
+      options:
+      - I confirm
+      - Other
+      required: true
+    - id: 12
+      name: final_version_confirmation
+      label: Is this the final, production-ready version?
+      hint: null
+      type: select_one
+      options:
+      - Yes, Final
+      - No, Draft/Placeholder
+      required: true
+    - id: 13
+      name: upload_method
+      label: How are the assets being provided?
+      hint: null
+      type: select_one
+      options:
+      - File Upload (via secure link)
+      - Cloud Drive Link (provided below)
+      - Physically Delivered
+      required: true
+    - id: 14
+      name: cloud_link
+      label: Asset Link (Google Drive, Dropbox, etc.)
+      hint: Ensure permissions are set to 'Anyone with the link can view'
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submission_date
+      label: Date of Submission
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: submitter_comments
+      label: Additional Comments for the Creative Team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: asset_footer
+      label: -- Assets Received Notification --
+      hint: You will receive an email confirmation once we have verified the files.
+      type: note
+      options: []
+      required: false

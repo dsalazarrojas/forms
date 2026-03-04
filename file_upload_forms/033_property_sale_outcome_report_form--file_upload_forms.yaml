@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Sale Outcome Report Form
+    pages:
+    - id: 1
+      name: property_sale_outcome_report_form_page_1
+      label: Property Sale Outcome Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_sale_outcome_report_form_page_2
+      label: Property Status
+      hint: null
+      type: select_multiple
+      options:
+      - Property Sold
+      - Property Not Sold
+      - Property Cancelled
+      - Property Withdrawn
+      - Property Expired
+      required: true
+    - id: 3
+      name: property_sale_outcome_report_form_page_3
+      label: Reason for Non-Sale
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: property_sale_outcome_report_form_page_4
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: property_sale_outcome_report_form_page_5
+      label: Property Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: property_sale_outcome_report_form_page_6
+      label: Salesperson
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: property_sale_outcome_report_form_page_7
+      label: Agency
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: property_sale_outcome_report_form_page_8
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: property_sale_outcome_report_form_page_9
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: property_sale_outcome_report_form_page_10
+      label: Reason for Non-Sale (if Applicable)
+      hint: null
+      type: text
+      options: []
+      required: false

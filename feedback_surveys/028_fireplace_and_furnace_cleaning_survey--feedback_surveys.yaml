@@ -1,0 +1,175 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fireplace And Furnace Cleaning Survey
+    pages:
+    - id: 1
+      name: form_section_1
+      label: form_section_1
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: service_type
+      label: service_type
+      hint: null
+      type: select_one
+      options:
+      - Heating
+      - Plumbing
+      - Electrical
+      - Carpentry
+      - Other
+      required: false
+    - id: 3
+      name: date_of_service
+      label: date_of_service
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_of_visit
+      label: time_of_visit
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: technician_name
+      label: technician_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: satisfaction_level
+      label: satisfaction_level
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Neutral
+      - Poor
+      - Very Poor
+      required: false
+    - id: 10
+      name: additional_comments
+      label: additional_comments
+      hint: Please provide any additional comments
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: form_section_2
+      label: form_section_2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: service_rating
+      label: service_rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: will_rebook
+      label: will_rebook
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: false
+    - id: 14
+      name: rebook_reason
+      label: rebook_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: form_section_3
+      label: form_section_3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: contact_method
+      label: contact_method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Social Media
+      - Text Message
+      required: false
+    - id: 17
+      name: follow_up
+      label: follow_up
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: false
+    - id: 18
+      name: follow_up_method
+      label: follow_up_method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - In-person
+      - Other
+      required: false
+    - id: 19
+      name: follow_up_frequency
+      label: follow_up_frequency
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Yearly
+      required: false
+    - id: 20
+      name: follow_up_note
+      label: follow_up_note
+      hint: null
+      type: text
+      options: []
+      required: false

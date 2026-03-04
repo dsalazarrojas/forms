@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Applicant Supplementary Material Upload Form
+    pages:
+    - id: 1
+      name: applicant_id_header
+      label: -- Applicant Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_full_name
+      label: Applicant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: application_reference_number
+      label: Application Reference Number
+      hint: Found in your initial application confirmation email
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: submission_category
+      label: Category of Supplementary Materials
+      hint: null
+      type: select_one
+      options:
+      - Academic Transcripts
+      - Professional Certifications
+      - Portfolio of Work
+      - Recommendation Letters
+      - Proof of Identity
+      - Financial Support Documents
+      - Other
+      required: true
+    - id: 6
+      name: upload_instructions_header
+      label: -- Upload Instructions --
+      hint: Please note that total file size should not exceed 50MB. Accepted formats
+        - PDF, JPG, PNG, DOCX.
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: document_description_1
+      label: Description of First Document
+      hint: e.g., Undergraduate Degree Certificate
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: document_description_2
+      label: Description of Second Document (Optional)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: document_description_3
+      label: Description of Third Document (Optional)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: material_context
+      label: Additional Context for the Provided Materials
+      hint: Briefly explain how these documents support your application
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submission_declaration_header
+      label: -- Declaration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: authenticity_confirmation
+      label: I certify that the documents uploaded are authentic copies of the original
+        materials
+      hint: null
+      type: select_one
+      options:
+      - I Confirm
+      - Other
+      required: true
+    - id: 13
+      name: date_of_submission
+      label: Date of Submission
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,163 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Advisory Service Impact Survey
+    pages:
+    - id: 1
+      name: survey_intro
+      label: -- Advisory Service Impact Survey --
+      hint: We want to understand the impact of our advisory services on your business.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: service_period
+      label: How long have you been receiving our advisory services?
+      hint: null
+      type: select_one
+      options:
+      - Less than 6 months
+      - 6 months to 1 year
+      - 1 to 2 years
+      - Over 2 years
+      required: true
+    - id: 4
+      name: primary_advisor
+      label: Primary Advisor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: impact_rating_header
+      label: -- Strategic Impact Rating --
+      hint: Rate the impact from 1 (No Impact) to 5 (Transformative)
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: revenue_growth_impact
+      label: Impact on Revenue Growth
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: operational_efficiency_impact
+      label: Impact on Operational Efficiency
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: strategic_clarity_impact
+      label: Impact on Strategic Clarity and Direction
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: risk_mitigation_impact
+      label: Impact on Risk Mitigation
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: key_outcomes_header
+      label: -- Specific Outcomes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: most_valuable_advice
+      label: What has been the most valuable piece of advice or service provided?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: tangible_results_description
+      label: Please describe any tangible results or milestones achieved
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: advisor_accessibility
+      label: How would you rate your advisor's accessibility and responsiveness?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 14
+      name: value_for_investment
+      label: Do you feel the service provides good value for the investment?
+      hint: null
+      type: select_one
+      options:
+      - Yes, exceptional value
+      - Yes, fair value
+      - Neutral
+      - false
+      required: true
+    - id: 15
+      name: service_improvement_areas
+      label: In what areas could we improve our advisory services?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: renewal_likelihood
+      label: How likely are you to renew or continue our advisory services?
+      hint: null
+      type: select_one
+      options:
+      - Highly Likely
+      - Likely
+      - Neutral
+      - Unlikely
+      required: true
+    - id: 17
+      name: testimonial_consent
+      label: Would you be willing to provide a brief testimonial?
+      hint: null
+      type: select_one
+      options:
+      - Yes, I'd be happy to
+      - Not at this time
+      required: false
+    - id: 18
+      name: respondent_role
+      label: Your Role/Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: survey_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: survey_footer
+      label: -- Thank you for your partnership --
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: document_management_system_access_form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: upload_file
+      label: upload_file
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: access_level
+      label: access_level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Level 1''}'
+      - '{''id'': 2, ''label'': ''Level 2''}'
+      - '{''id'': 3, ''label'': ''Level 3''}'
+      required: false
+    - id: 4
+      name: file_type
+      label: file_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Document''}'
+      - '{''id'': 2, ''label'': ''File''}'
+      - '{''id'': 3, ''label'': ''Image''}'
+      required: false
+    - id: 5
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_upload
+      label: Date of Upload
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_of_upload
+      label: Time of Upload
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: uploaded_by
+      label: Uploaded By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: uploaded_files
+      label: Uploaded Files
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

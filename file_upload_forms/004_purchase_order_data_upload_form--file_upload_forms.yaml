@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Purchase Order Data Upload Form
+    pages:
+    - id: 1
+      name: order_details
+      label: Order Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: file_upload
+      label: Upload File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: purchase_order_data
+      label: Purchase Order Data
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: vendor_name
+      label: Vendor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: order_amount
+      label: Order Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 13
+      name: upload_button
+      label: Upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: confirm_upload
+      label: Confirm Upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: confirm_button
+      label: Confirm
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: cancel_button
+      label: Cancel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: vendor_orders
+      label: Vendor Orders
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

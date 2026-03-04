@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: help_desk_satisfaction_survey
+    pages:
+    - id: 1
+      name: first_call_resolution
+      label: first call resolution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rating_our_technology_support
+      label: rating our technology support
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: rating_the_knowledge_base
+      label: rating the knowledge base
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: rating_the_support_agent
+      label: rating the support agent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: rating_the_overall_experience
+      label: rating the overall experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: additional_comments
+      label: additional comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: technology_support_rating_scale
+      label: rating our technology support
+      hint: 1-5 scale
+      type: select_one
+      options:
+      - '{''label'': 1}'
+      - '{''label'': 2}'
+      - '{''label'': 3}'
+      - '{''label'': 4}'
+      - '{''label'': 5}'
+      required: false
+    - id: 8
+      name: knowledge_base_rating_scale
+      label: rating the knowledge base
+      hint: 1-5 scale
+      type: select_one
+      options:
+      - '{''label'': 1}'
+      - '{''label'': 2}'
+      - '{''label'': 3}'
+      - '{''label'': 4}'
+      - '{''label'': 5}'
+      required: false
+    - id: 9
+      name: support_agent_rating_scale
+      label: rating the support agent
+      hint: 1-5 scale
+      type: select_one
+      options:
+      - '{''label'': 1}'
+      - '{''label'': 2}'
+      - '{''label'': 3}'
+      - '{''label'': 4}'
+      - '{''label'': 5}'
+      required: false
+    - id: 10
+      name: overall_experience_rating_scale
+      label: rating the overall experience
+      hint: 1-5 scale
+      type: select_one
+      options:
+      - '{''label'': 1}'
+      - '{''label'': 2}'
+      - '{''label'': 3}'
+      - '{''label'': 4}'
+      - '{''label'': 5}'
+      required: false
+    - id: 11
+      name: technology_support
+      label: technology support
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: support_agent
+      label: support agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: overall_experience
+      label: overall experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: additional_comments
+      label: additional comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Suicide Prevention Feedback Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: feedback_question
+      label: What can we improve?
+      hint: Is there anything we can improve?
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: suicide_prevention_services
+      label: What services would you like to see?
+      hint: null
+      type: select_multiple
+      options:
+      - Services
+      - Support Groups
+      - Education
+      - Hotlines
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: name_of_contact
+      label: Name of Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: role_of_contact
+      label: Role of Contact
+      hint: null
+      type: text
+      options: []
+      required: false

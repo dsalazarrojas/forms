@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: We Want To Hear You
+    pages:
+    - id: 1
+      name: feedback_survey
+      label: Feedback Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: satisfaction_rating
+      label: Satisfaction Rating
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 3
+      name: file_upload
+      label: File Upload
+      hint: null
+      type: text
+      options: []
+      required: false

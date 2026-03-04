@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retail Planogram Feedback Form
+    pages:
+    - id: 1
+      name: feedback_item_1
+      label: What items do you think are not well presented?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: store_layout_2
+      label: How satisfied are you with the store layout?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: feedback_item_3
+      label: What items do you recommend adding to the store?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: store_layout_4
+      label: How easy is it to navigate the store?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: comments_5
+      label: Do you have any comments about the store layout?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: feedback_item_6
+      label: Which items should we add or remove from the planogram?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: product_placement_7
+      label: How satisfied are you with product placement?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: store_experience_8
+      label: What could we do to improve the customer experience?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: store_experience_9
+      label: How satisfied are you with your overall store experience?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comments_10
+      label: Are there any comments about the store you would like to add?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_11
+      label: What is your contact information?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: store_contact_12
+      label: What is the store contact information?
+      hint: null
+      type: email
+      options: []
+      required: false

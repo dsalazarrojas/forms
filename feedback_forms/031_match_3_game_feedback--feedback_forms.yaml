@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Match 3 Game Feedback
+    pages:
+    - id: 1
+      name: gameplay_feedback
+      label: Gameplay Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: technical_issues
+      label: Technical Issues
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 3
+      name: feature_preferences
+      label: Feature Preferences
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 4
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: player_feedback
+      label: Player Feedback
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: other_comments
+      label: Other Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: game_version
+      label: Game Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: playtime
+      label: Playtime
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: play_again
+      label: Will Play Again
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false

@@ -1,0 +1,54 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Warehouse Error Log Form
+    pages:
+    - id: 1
+      name: warehouse_error_log_form_section
+      label: Error Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: error_description
+      label: Describe the error
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: error_type
+      label: Error Type
+      hint: null
+      type: select_one
+      options:
+      - Error
+      - Issue
+      - Problem
+      required: false
+    - id: 4
+      name: error_date
+      label: Error Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: error_time
+      label: Error Time
+      hint: null
+      type: time
+      options: []
+      required: false

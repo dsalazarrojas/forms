@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Remote Work Feedback Survey
+    pages:
+    - id: 1
+      name: first_page
+      label: first_page
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: remote_work_experiences
+      label: remote_work_experiences
+      hint: Describe your remote work experiences
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: satisfaction_rating
+      label: satisfaction_rating
+      hint: Rate your satisfaction
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: collaboration_difficulties
+      label: collaboration_difficulties
+      hint: Describe collaboration difficulties
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: policy_suggestions
+      label: policy_suggestions
+      hint: Suggest changes to our remote work policy
+      type: text
+      options: []
+      required: false

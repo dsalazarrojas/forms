@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Remote Work Efficiency Evaluation Form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: user_email
+      label: User Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: supervisor_name
+      label: Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: remote_work_start_date
+      label: Remote Work Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: remote_work_end_date
+      label: Remote Work End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: work_hours_per_week
+      label: Work Hours Per Week
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: average_hours_worked_weekly
+      label: Average Hours Worked Weekly
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: average_hours_worked_monthly
+      label: Average Hours Worked Monthly
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: remote_work_challenges
+      label: Remote Work Challenges
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: efficiency_improvement_opportunities
+      label: Efficiency Improvement Opportunities
+      hint: null
+      type: select_one
+      options:
+      - Opportunity 1
+      - Opportunity 2
+      required: true
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

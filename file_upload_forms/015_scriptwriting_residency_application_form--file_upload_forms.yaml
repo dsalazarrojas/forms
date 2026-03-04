@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Scriptwriting Residency Application Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: script_id
+      label: Script ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: script_status
+      label: Script Status
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: script_type
+      label: Script Type
+      hint: null
+      type: select_multiple
+      options:
+      - Script 1
+      - Script 2
+      - Script 3
+      required: true
+    - id: 6
+      name: script_length
+      label: Script Length
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: script_start_date
+      label: Script Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: script_end_date
+      label: Script End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: script_genre
+      label: Script Genre
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: script_format
+      label: Script Format
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: file_uploads
+      label: File Uploads
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: residency_start_date
+      label: Residency Start Date
+      hint: null
+      type: date
+      options: []
+      required: false

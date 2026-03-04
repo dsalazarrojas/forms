@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: image_research_specialist_feedback
+    pages:
+    - id: 1
+      name: research_specialist
+      label: Feedback for Image Research Specialist
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Category1
+      - Category2
+      required: false
+    - id: 3
+      name: asset_type
+      label: Asset Type
+      hint: null
+      type: select_one
+      options:
+      - Asset Type1
+      - Asset Type2
+      required: false
+    - id: 4
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: comment
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submitted_on
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: submitted_by_user
+      label: User Submitted
+      hint: null
+      type: text
+      options: []
+      required: false

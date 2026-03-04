@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Runner Tracking Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: user's email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_of_day
+      label: Time of day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: running_frequency
+      label: Running frequency
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 8
+      name: running_distance
+      label: Running distance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: running_time
+      label: Running time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: Assigned tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: customer_name
+      label: Customer name
+      hint: null
+      type: text
+      options: []
+      required: false

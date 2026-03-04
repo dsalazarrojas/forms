@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Underground Insulation Resistance Testing Form
+    pages:
+    - id: 1
+      name: test_location
+      label: Test Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: test_date
+      label: Test Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: test_time
+      label: Test Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: insulation_type
+      label: Insulation Type
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 5
+      name: insulation_thickness
+      label: Insulation Thickness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: test_temperature
+      label: Test Temperature
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 7
+      name: test_voltage
+      label: Test Voltage
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 8
+      name: insulation_resistance
+      label: Insulation Resistance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: technician_signature
+      label: Technician Signature
+      hint: null
+      type: text
+      options: []
+      required: false

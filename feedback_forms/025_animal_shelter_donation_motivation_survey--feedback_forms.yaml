@@ -1,0 +1,240 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Animal Shelter Donation Motivation Survey
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: respondent_email
+      label: Email Address
+      hint: For follow-up if needed
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: donation_history
+      label: Have You Donated Before
+      hint: Prior donation experience
+      type: select_one
+      options:
+      - First-time Donor
+      - Occasional Donor
+      - Regular Donor
+      - Major Donor
+      required: true
+    - id: 4
+      name: years_supporter
+      label: How Long Have You Supported Us
+      hint: If applicable
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - 10+ years
+      required: false
+    - id: 5
+      name: section_motivation
+      label: -- Motivation for Giving --
+      hint: Why you support the shelter
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: primary_motivation
+      label: Primary Reason for Donating
+      hint: What motivates your support
+      type: select_one
+      options:
+      - Love of animals
+      - Personal experience with shelter
+      - Belief in animal welfare
+      - Tax benefits
+      - Employer match
+      - Helping local community
+      - Religious or ethical beliefs
+      - Other
+      required: true
+    - id: 7
+      name: emotional_connection
+      label: Emotional Connection to Cause
+      hint: Rate how you feel about the cause
+      type: select_one
+      options:
+      - 1 - Not connected
+      - 2 - Somewhat connected
+      - 3 - Moderately connected
+      - 4 - Strongly connected
+      - 5 - Very strongly connected
+      required: true
+    - id: 8
+      name: pet_ownership
+      label: Do You Own Pets
+      hint: Current pet ownership status
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Previously did
+      required: false
+    - id: 9
+      name: adopted_from_shelter
+      label: Have You Adopted from a Shelter
+      hint: Shelter adoption experience
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Plan to
+      required: false
+    - id: 10
+      name: section_giving_preferences
+      label: -- Giving Preferences --
+      hint: How you prefer to give
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: preferred_focus_area
+      label: Preferred Focus Area for Funding
+      hint: Where funds should go
+      type: select_one
+      options:
+      - Medical care
+      - Food and supplies
+      - Shelter operations
+      - Rescue programs
+      - Adoption services
+      - Education
+      - No preference
+      required: true
+    - id: 12
+      name: communication_frequency
+      label: Preferred Communication Frequency
+      hint: How often to hear from us
+      type: select_one
+      options:
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Annually
+      - Only for special campaigns
+      - Minimal contact
+      required: true
+    - id: 13
+      name: communication_methods
+      label: Preferred Communication Methods
+      hint: How you want to hear from us
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Mail
+      - Text Message
+      - Social Media
+      - Newsletter
+      required: true
+    - id: 14
+      name: giving_amount_comfort
+      label: Comfortable Giving Amount
+      hint: What donation level feels right
+      type: select_one
+      options:
+      - Under $50
+      - $50-$100
+      - $100-$250
+      - $250-$500
+      - $500-$1000
+      - Over $1000
+      required: false
+    - id: 15
+      name: recurring_preference
+      label: Interested in Recurring Donations
+      hint: Monthly or annual donations
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Maybe
+      required: true
+    - id: 16
+      name: section_impact
+      label: -- Impact and Outcomes --
+      hint: What information matters to you
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: impact_importance
+      label: How Important is Impact Information
+      hint: Knowing how funds are used
+      type: select_one
+      options:
+      - Very Important
+      - Important
+      - Somewhat Important
+      - Not Very Important
+      required: true
+    - id: 18
+      name: desired_impact_info
+      label: What Impact Information Interests You
+      hint: What you want to know about
+      type: select_multiple
+      options:
+      - Animals helped
+      - Success stories
+      - Financial reports
+      - Program results
+      - Staff updates
+      - Facility improvements
+      required: false
+    - id: 19
+      name: recognition_importance
+      label: Importance of Public Recognition
+      hint: Being acknowledged as donor
+      type: select_one
+      options:
+      - Very Important
+      - Important
+      - Neutral
+      - Prefer privacy
+      required: false
+    - id: 20
+      name: section_improvement
+      label: -- Areas for Improvement --
+      hint: How the shelter can do better
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: improvement_suggestions
+      label: Suggestions for Improvement
+      hint: How we can serve you better
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: additional_feedback
+      label: Additional Comments or Feedback
+      hint: Any other thoughts
+      type: text
+      options: []
+      required: false

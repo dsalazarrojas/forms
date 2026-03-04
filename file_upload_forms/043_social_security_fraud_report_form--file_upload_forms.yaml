@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Security Fraud Report Form
+    pages:
+    - id: 1
+      name: user_info
+      label: user_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: report_type
+      label: report_type
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Report a suspected Social Security number misuse''}'
+      - '{''name'': ''Report a known Social Security number misuse''}'
+      - '{''name'': ''Report a suspected Social Security number misuse''}'
+      - '{''name'': ''Report a known Social Security number misuse''}'
+      required: false
+    - id: 3
+      name: ssn
+      label: ssn
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: report_details
+      label: report_details
+      hint: Please provide detailed description of what you are reporting.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: file_uploads
+      label: file_uploads
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: follow_up_email
+      label: follow_up_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: follow_up_phone
+      label: follow_up_phone
+      hint: null
+      type: text
+      options: []
+      required: false

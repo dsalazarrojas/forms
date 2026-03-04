@@ -1,0 +1,222 @@
+inputSchema:
+  type: object
+  properties:
+    title: Global Economic Empowerment Survey
+    pages:
+    - id: 1
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 2
+      name: household_income
+      label: Household Income
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: income_sources
+      label: Income Sources
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: savings_institution
+      label: Savings Institution
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: financial_institutions
+      label: Financial Institutions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: savings_in
+      label: Savings Instructors
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: household_income_source
+      label: Household Income Source
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: household_income_period
+      label: Household Income Period
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: household_income_frequency
+      label: Household Income Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: household_income_amount
+      label: Household Income Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: household_incomediffers
+      label: Household Income Difference
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: household_income_important
+      label: Household Income Important
+      hint: null
+      type: select_multiple
+      options:
+      - Very Important
+      - Not Important
+      required: false
+    - id: 13
+      name: financial_access
+      label: Financial Access
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: savings_awareness
+      label: Savings Awareness
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: savings_goals
+      label: Savings Goals
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: savings_frequency
+      label: Savings Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: financial_institutional_instruments
+      label: Financial Institutional Instruments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: financial_institutional_products
+      label: Financial Institutional Products
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: financial_services
+      label: Financial Services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: financial_services_institutions
+      label: Financial Service Institutions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: savings_instrument
+      label: Savings Instrument
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: financial_aid
+      label: Financial Aid
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: empowerment
+      label: Empowerment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: region
+      label: Region
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

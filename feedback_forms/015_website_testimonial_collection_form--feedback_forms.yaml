@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Website Testimonial Collection Form
+    pages:
+    - id: 1
+      name: testimonial_input
+      label: testimonial_input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: testimonial_title
+      label: testimonial_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: testimonial_description
+      label: testimonial_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: testimonial_image
+      label: testimonial_image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: testimonial_rating
+      label: testimonial_rating
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 6
+      name: testimonial_date
+      label: testimonial_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: testimonial_time
+      label: testimonial_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: testimonial_email
+      label: testimonial_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: testimonial_phone
+      label: testimonial_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: testimonial_website
+      label: testimonial_website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: testimonial_comments
+      label: testimonial_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: testimonial_category
+      label: testimonial_category
+      hint: null
+      type: select_one
+      options:
+      - Category 1
+      - Category 2
+      - Category 3
+      required: false
+    - id: 13
+      name: testimonial_tags
+      label: testimonial_tags
+      hint: null
+      type: select_multiple
+      options:
+      - Tag 1
+      - Tag 2
+      - Tag 3
+      required: false
+    - id: 14
+      name: testimonial_image_url
+      label: testimonial_image_url
+      hint: null
+      type: text
+      options: []
+      required: false

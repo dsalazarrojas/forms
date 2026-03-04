@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wallpaper Request For Browser Extension
+    pages:
+    - id: 1
+      name: first_name
+      label: FirstName
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: design_description
+      label: DesignDescription
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: upload_wallpaper
+      label: WallpaperUpload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''option 1'', ''value'': ''option 1''}'
+      - '{''label'': ''option 2'', ''value'': ''option 2''}'
+      - '{''label'': ''option 3'', ''value'': ''option 3''}'
+      required: false
+    - id: 6
+      name: tags
+      label: Tags
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: priority
+      label: Priority
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: due_date
+      label: DueDate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: assigned_to
+      label: AssignedTo
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Jim'', ''value'': ''Jim''}'
+      - Other
+      required: false
+    - id: 11
+      name: submitted_at
+      label: SubmittedAt
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''In Progress'', ''value'': ''In Progress''}'
+      - '{''label'': ''Complete'', ''value'': ''Complete''}'
+      required: false
+    - id: 13
+      name: status_note
+      label: StatusNote
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: created_by
+      label: CreatedBy
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Chatjimmy'', ''value'': ''Chatjimmy''}'
+      - Other
+      required: false
+    - id: 15
+      name: submitted_by
+      label: SubmittedBy
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Chatjimmy'', ''value'': ''Chatjimmy''}'
+      - Other
+      required: false
+    - id: 16
+      name: category_tag
+      label: CategoryTag
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: due_date_time
+      label: DueDateTime
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: tags_list
+      label: TagsList
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: notes
+      label: AdditionalNotes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: submitted_date
+      label: SubmittedDate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: assigned_to_note
+      label: AssignedToNote
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: status_note
+      label: StatusNote
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: category_note
+      label: CategoryNote
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: due_time
+      label: DueTime
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: submitted_time
+      label: SubmittedTime
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Exhibition Visitor Experience Assessment Form
+    pages:
+    - id: 1
+      name: exhibition_experience
+      label: Overall Experience
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: exhibition_interest
+      label: How interested were you in the exhibition?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: exhibition_interest_level
+      label: What level of interest do you have in the exhibition?
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 4
+      name: exhibition_value
+      label: What value do you get from attending this exhibition?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: exhibition_impression
+      label: What impression do you have of the exhibition?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: exhibition_impression_level
+      label: Level of impression?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: exhibition_recommend
+      label: Do you recommend this exhibition to others?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 8
+      name: exhibition_relevant
+      label: How relevant is this exhibition to yourประก
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 9
+      name: exhibition_attend
+      label: Will you attend this exhibition again?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true

@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Retention Strategy Evaluation Form
+    pages:
+    - id: 1
+      name: customer_feedback
+      label: Customer Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: retention_strategy
+      label: Retention Strategy
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 3
+      name: satisfaction_level
+      label: Satisfaction Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: loyalty_level
+      label: Loyalty Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: date_created
+      label: Date Created
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_spent
+      label: Time Spent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: customer_service_rating
+      label: Customer Service Rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 8
+      name: customer_experience_rating
+      label: Customer Experience Rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 9
+      name: customer_loyalty
+      label: Customer Loyalty
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: date_updated
+      label: Date Updated
+      hint: null
+      type: date
+      options: []
+      required: false

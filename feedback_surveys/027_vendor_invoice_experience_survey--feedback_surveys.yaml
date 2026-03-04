@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vendor Invoice Experience Survey
+    pages:
+    - id: 1
+      name: vendor_invoicing_experience
+      label: Vendor Invoicing Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: invoice_process
+      label: Invoice Process
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Bad
+      - Very Bad
+      required: false
+    - id: 3
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_multiple
+      options:
+      - Net 30
+      - Net 60
+      - Net 90
+      - On receipt
+      required: false
+    - id: 4
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Bank Transfer
+      - Check
+      - Online Payment
+      - Other
+      required: false
+    - id: 5
+      name: payment_terms_date
+      label: Payment Terms Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: payment_terms_time
+      label: Payment Terms Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: vendor_contact_info
+      label: Vendor Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: vendor_email
+      label: Vendor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: vendor_phone
+      label: Vendor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

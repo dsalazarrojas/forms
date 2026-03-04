@@ -1,0 +1,102 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Animal Rescue Infrastructure Feedback Survey
+    pages:
+    - id: 1
+      name: facility_name
+      label: Facility or Shelter Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: respondent_role
+      label: Your Role at this Facility
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: kennel_condition
+      label: Condition of Kennels and Enclosures
+      hint: Structural integrity and safety
+      type: select_one
+      options:
+      - Excellent - No repairs needed
+      - Good - Minor cosmetic issues
+      - Fair - Functional but needs repair
+      - Poor - Immediate safety concern
+      required: true
+    - id: 4
+      name: ventilation_quality
+      label: Ventilation and Air Quality Rating
+      hint: Airflow and odor control
+      type: select_one
+      options:
+      - Good - Well ventilated
+      - Acceptable - Average
+      - Poor - Needs improvement
+      required: true
+    - id: 5
+      name: lighting_quality
+      label: Lighting and Natural Light Access
+      hint: null
+      type: select_one
+      options:
+      - Good - Sufficient light
+      - Acceptable - Functional
+      - Poor - Inadequate light
+      required: true
+    - id: 6
+      name: medical_area_adequacy
+      label: Adequacy of Medical Treatment Areas
+      hint: Space and equipment for exams/procedures
+      type: select_one
+      options:
+      - Sufficient - Meets all needs
+      - Insufficient - Too small or lacking
+      - Not Applicable - No medical area
+      required: true
+    - id: 7
+      name: sanitation_rating
+      label: Facility Cleanliness and Sanitation Levels
+      hint: null
+      type: select_one
+      options:
+      - Always Clean - Highly maintained
+      - Mostly Clean - Standard maintenance
+      - Often Dirty - Substandard
+      required: true
+    - id: 8
+      name: safety_hazards
+      label: Description of Identified Safety Hazards
+      hint: Exposed wires, broken fences, slippery floors
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: urgent_need
+      label: What is the most urgent infrastructure need?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: budget_prioritization
+      label: Suggestions for Budget Prioritization
+      hint: Where should we spend funds first?
+      type: text
+      options: []
+      required: false

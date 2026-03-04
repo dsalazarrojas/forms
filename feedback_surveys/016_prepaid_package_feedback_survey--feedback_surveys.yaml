@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: prepaid_package_feedback_survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rating
+      label: rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: reason
+      label: why_purchased
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: suggestion
+      label: improvement_suggestion
+      hint: null
+      type: text
+      options: []
+      required: false

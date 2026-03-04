@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virus Removal Analysis Form
+    pages:
+    - id: 1
+      name: file_upload_1
+      label: upload_file
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: issue_description_1
+      label: describe_issue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: suspected_malware_type_1
+      label: suspected_malware_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: suspected_malware_version_1
+      label: suspected_malware_version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: virus_removal_method_1
+      label: virus_removal_method
+      hint: null
+      type: select_multiple
+      options:
+      - Malware Removal
+      - Reinstallation
+      - Reformat
+      - Reinstall and Reformat
+      required: false
+    - id: 6
+      name: virus_removal_result_1
+      label: virus_removal_result
+      hint: null
+      type: select_one
+      options:
+      - Successful
+      - Unsuccessful
+      - Partially Successful
+      - Pending
+      required: false
+    - id: 7
+      name: additional_comments_1
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: submit_1
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

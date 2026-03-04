@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Team Sponsorship Visibility Feedback Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sponsorship_visibility
+      label: sponsorship_visibility
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 3
+      name: sponsorship_impact
+      label: sponsorship_impact
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 4
+      name: satisfaction
+      label: satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: open_ended_comments
+      label: open-ended_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - Mail
+      required: false
+    - id: 7
+      name: preferred_contact_method
+      label: preferred_contact_method
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - Mail
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,122 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Competition Feedback Form
+    pages:
+      - id: 1
+        name: feedback_intro_header
+        label: -- Peer Evaluation Feedback --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: evaluator_identifier
+        label: Your Name or ID
+        hint: Enter your name or assigned evaluator ID
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: competitor_to_evaluate
+        label: Competitor Being Evaluated
+        hint: Full name of the peer you are assessing
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: performance_ratings_section
+        label: -- Skills Assessment --
+        hint: Rate based on observed performance
+        type: note
+        options: []
+        required: false
+      - id: 5
+        name: technical_skill_rating_peer
+        label: Technical Proficiency and Accuracy
+        hint: Mastery of the subject matter or task
+        type: select_one
+        options:
+          - 1 - Needs Significant Improvement
+          - 2 - Developing
+          - 3 - Proficient
+          - 4 - Advanced
+          - 5 - Exceptional
+        required: true
+      - id: 6
+        name: innovation_creativity_rating
+        label: Innovation and Creativity
+        hint: Novelty and original thinking demonstrated
+        type: select_one
+        options:
+          - 1 - Not Innovative
+          - 2
+          - 3
+          - 4
+          - 5 - Highly Innovative
+        required: true
+      - id: 7
+        name: presentation_skill_rating_peer
+        label: Presentation and Delivery
+        hint: Clarity, confidence, and engagement
+        type: select_one
+        options:
+          - 1 - Poor Delivery
+          - 2
+          - 3
+          - 4
+          - 5 - Professional Delivery
+        required: true
+      - id: 8
+        name: overall_performance_rating_peer
+        label: Overall Performance Rating
+        hint: General impression of the peer's contribution
+        type: select_one
+        options:
+          - Top 10%
+          - Above Average
+          - Average
+          - Below Average
+        required: true
+      - id: 9
+        name: peer_strengths_comments
+        label: What was the competitor's greatest strength?
+        hint: Provide specific examples
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: peer_improvement_suggestions
+        label: One specific area for development
+        hint: Constructive feedback for growth
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: evaluator_confidence_level
+        label: How confident are you in this assessment?
+        hint: Your familiarity with the peer's work
+        type: select_one
+        options:
+          - Very Confident
+          - Somewhat Confident
+          - Not Confident
+        required: true
+      - id: 12
+        name: evaluation_completion_date
+        label: Date of Evaluation
+        hint: Today's date
+        type: date
+        options: []
+        required: true

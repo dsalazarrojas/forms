@@ -1,0 +1,40 @@
+inputSchema:
+  type: object
+  properties:
+    title: Worker Equipment Inspection Request Form
+    pages:
+    - id: 1
+      name: equipment_condition
+      label: Equipment Condition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: supporting_photos
+      label: Supporting Photos
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: inspection_frequency
+      label: Inspection Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false

@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Storage Solutions Feedback Survey
+    pages:
+    - id: 1
+      name: form_start
+      label: Form Start
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: storage_type
+      label: Storage Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''File Server'', ''value'': ''File Server''}'
+      - '{''id'': 2, ''label'': ''NAS'', ''value'': ''NAS''}'
+      - '{''id'': 3, ''label'': ''SAN'', ''value'': ''SAN''}'
+      - '{''id'': 4, ''label'': ''Other'', ''value'': ''Other''}'
+      required: false
+    - id: 3
+      name: storage_location
+      label: Storage Location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''On-premise'', ''value'': ''On-premise''}'
+      - '{''id'': 2, ''label'': ''Cloud'', ''value'': ''Cloud''}'
+      - '{''id'': 3, ''label'': ''Hybrid'', ''value'': ''Hybrid''}'
+      - '{''id'': 4, ''label'': ''Other'', ''value'': ''Other''}'
+      required: false
+    - id: 4
+      name: satisfaction
+      label: Satisfaction
+      hint: Enter your level of satisfaction
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: form_end
+      label: Form End
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: storage_product
+      label: Storage Product
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Server'', ''value'': ''Server''}'
+      - '{''id'': 2, ''label'': ''Storage'', ''value'': ''Storage''}'
+      - '{''id'': 3, ''label'': ''Rack'', ''value'': ''Rack''}'
+      - '{''id'': 4, ''label'': ''Other'', ''value'': ''Other''}'
+      required: false
+    - id: 8
+      name: product_rating
+      label: Product Rating
+      hint: Rate your storage product
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: storage_service
+      label: Storage Service
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''On-site'', ''value'': ''On-site''}'
+      - '{''id'': 2, ''label'': ''Off-site'', ''value'': ''Off-site''}'
+      - '{''id'': 3, ''label'': ''Both'', ''value'': ''Both''}'
+      required: false
+    - id: 10
+      name: service_rating
+      label: Service Rating
+      hint: Rate your storage service
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: form_end
+      label: Form End
+      hint: null
+      type: text
+      options: []
+      required: false

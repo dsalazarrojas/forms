@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Blog Reader Contact Form
+    pages:
+    - id: 1
+      name: your_feedback
+      label: Your Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: your_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: your_message
+      label: Your Message
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: how_did_you_find_us
+      label: How did you find us?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: how_can_we_help_you
+      label: How can we help you?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: collaboration_inquiries
+      label: Collaboration Inquiries
+      hint: null
+      type: note
+      options: []
+      required: false

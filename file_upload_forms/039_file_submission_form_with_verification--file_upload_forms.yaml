@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: File Submission Form With Verification
+    pages:
+    - id: 1
+      name: file_submission_form_with_verification_form_1
+      label: Upload File
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: verification_code
+      label: Verification Code
+      hint: Enter verification code
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: file
+      label: File
+      hint: Select file to upload
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: file_type
+      label: File Type
+      hint: Select file type
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 6
+      name: file_description
+      label: File Description
+      hint: Enter a brief description of the file
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: file_size
+      label: File Size
+      hint: Enter file size in kilobytes
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: uploaded_by
+      label: Uploaded By
+      hint: Enter the person who uploaded the file
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: file_date
+      label: Date
+      hint: Date of the file
+      type: date
+      options: []
+      required: false

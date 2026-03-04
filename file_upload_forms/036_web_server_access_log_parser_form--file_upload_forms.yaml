@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: web_server_access_log_parser_form
+    pages:
+    - id: 1
+      name: file_upload
+      label: File Upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: log_start_time
+      label: start_time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: log_end_time
+      label: end_time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: log_path
+      label: log_path
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: log_level
+      label: log_level
+      hint: null
+      type: select_one
+      options:
+      - Critical
+      - Info
+      - Debug
+      - Warn
+      required: false
+    - id: 6
+      name: log_size
+      label: log_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: timezone
+      label: timezone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: timezone_offset
+      label: timezone_offset
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: start_time_utc
+      label: start_time_utc
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: end_time_utc
+      label: end_time_utc
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: file_type
+      label: file_type
+      hint: null
+      type: select_one
+      options:
+      - Apache
+      - IIS
+      - Nginx
+      - Other
+      required: false
+    - id: 12
+      name: parser_type
+      label: parser_type
+      hint: null
+      type: text
+      options: []
+      required: false

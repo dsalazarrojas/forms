@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Logistics Service Feedback Questionnaire
+    pages:
+    - id: 1
+      name: service_rating
+      label: Service rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: rating_reason
+      label: Why did you rate the service as it did?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: communication
+      label: Was the communication with the delivery person clear and helpful?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Not Sure
+      required: false
+    - id: 4
+      name: delivery_speed
+      label: How fast was the delivery?
+      hint: null
+      type: select_one
+      options:
+      - Fast
+      - Average
+      - Slow
+      required: false
+    - id: 5
+      name: packaging
+      label: Was the packaging of the delivered product good?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 6
+      name: customer_support
+      label: Did you experience any issues with customer support?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Not Sure
+      required: false
+    - id: 7
+      name: product_quality
+      label: Was the product as expected?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: overall_experience
+      label: What was your overall experience?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

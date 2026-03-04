@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Night Market Participation Survey
+    pages:
+    - id: 1
+      name: event_id
+      label: Event ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: participant_id
+      label: Participant ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: rating
+      label: Rating
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': 5}'
+      - '{''id'': 2, ''label'': 4}'
+      - '{''id'': 3, ''label'': 3}'
+      - '{''id'': 4, ''label'': 2}'
+      - '{''id'': 5, ''label'': 1}'
+      required: true
+    - id: 5
+      name: comment
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

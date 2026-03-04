@@ -1,0 +1,263 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Gallery Frame Order Form
+    pages:
+    - id: 1
+      name: order_date
+      label: Order Date
+      hint: Date of frame order
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: Full name of customer
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Customer Email
+      hint: Email address for order confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Customer Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: customer_address
+      label: Customer Address
+      hint: Full shipping address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: zip_code
+      label: Zip Code
+      hint: Postal or zip code
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: artwork_type
+      label: Artwork Type
+      hint: Type of artwork being framed
+      type: select_one
+      options:
+      - Photograph
+      - Painting
+      - Print or Poster
+      - Drawing or Sketch
+      - Textile
+      - Document or Certificate
+      - Mirror
+      - Other
+      required: true
+    - id: 10
+      name: artwork_description
+      label: Artwork Description
+      hint: Describe the artwork
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: artwork_width
+      label: Artwork Width
+      hint: Width in inches
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: artwork_height
+      label: Artwork Height
+      hint: Height in inches
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: frame_style_preference
+      label: Frame Style Preference
+      hint: Preferred frame style
+      type: select_one
+      options:
+      - Traditional
+      - Modern
+      - Contemporary
+      - Rustic
+      - Ornate
+      - Minimalist
+      - No Preference
+      required: true
+    - id: 14
+      name: frame_material
+      label: Frame Material
+      hint: Preferred frame material
+      type: select_one
+      options:
+      - Wood
+      - Metal
+      - Composite
+      - Bamboo
+      - No Preference
+      required: true
+    - id: 15
+      name: frame_color
+      label: Frame Color
+      hint: Preferred frame color
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: frame_width_preference
+      label: Frame Width Preference
+      hint: Preferred frame width
+      type: select_one
+      options:
+      - Narrow (under 1 inch)
+      - Medium (1-2 inches)
+      - Wide (2-3 inches)
+      - Extra Wide (over 3 inches)
+      - No Preference
+      required: true
+    - id: 17
+      name: matting_preference
+      label: Matting Preference
+      hint: Do you want matting
+      type: select_one
+      options:
+      - Yes - Single Mat
+      - Yes - Double Mat
+      - No Matting
+      - Need Advice
+      required: true
+    - id: 18
+      name: matting_color_preference
+      label: Matting Color Preference
+      hint: Preferred matting color
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: glass_preference
+      label: Glass Preference
+      hint: Type of glazing
+      type: select_one
+      options:
+      - Standard Glass
+      - UV Protection
+      - Museum Quality
+      - Anti-Reflective
+      - Acrylic (Safety)
+      - No Glass
+      required: true
+    - id: 20
+      name: backing_preference
+      label: Backing Preference
+      hint: Type of backing
+      type: select_one
+      options:
+      - Standard
+      - Acid-Free
+      - Archival
+      - Not Applicable
+      required: false
+    - id: 21
+      name: hanging_hardware_included
+      label: Hanging Hardware Included
+      hint: Include hanging hardware
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: quantity
+      label: Quantity
+      hint: Number of frames to order
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: budget_range
+      label: Budget Range
+      hint: Your budget per frame
+      type: select_one
+      options:
+      - Under $50
+      - $50-$100
+      - $100-$200
+      - $200-$500
+      - Over $500
+      required: false
+    - id: 24
+      name: rush_service
+      label: Rush Service
+      hint: Do you need rush service
+      type: select_one
+      options:
+      - Yes - Rush (Additional Fee)
+      - No - Standard
+      required: true
+    - id: 25
+      name: pickup_or_delivery
+      label: Pickup or Delivery
+      hint: How will you receive your order
+      type: select_one
+      options:
+      - In-Store Pickup
+      - Home Delivery
+      - Ship to Gallery
+      required: true
+    - id: 26
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Cash
+      - Check
+      - Gallery Account
+      required: true
+    - id: 27
+      name: special_instructions
+      label: Special Instructions
+      hint: Any special instructions
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: how_heard
+      label: How Heard
+      hint: How did you hear about us
+      type: select_one
+      options:
+      - Walk-In
+      - Website
+      - Social Media
+      - Friend Referral
+      - Advertisement
+      - Other
+      required: false

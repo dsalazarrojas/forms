@@ -1,0 +1,173 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: BMX Cruise Preference Survey
+    pages:
+      - id: 1
+        name: rider_name
+        label: Rider Name
+        hint: Your name or nickname
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: email_address
+        label: Email Address
+        hint: For event updates
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: experience_level
+        label: Experience Level
+        hint: null
+        type: select_one
+        options:
+          - Beginner
+          - Intermediate
+          - Advanced
+          - Pro
+        required: true
+      - id: 4
+        name: bike_type
+        label: What Type of BMX Bike Do You Ride?
+        hint: null
+        type: select_one
+        options:
+          - Street
+          - Park
+          - Dirt
+          - Freestyle
+          - Other
+        required: false
+      - id: 5
+        name: preferred_cruise_type
+        label: Preferred Cruise Type
+        hint: What kind of cruise do you enjoy most?
+        type: select_one
+        options:
+          - Urban street cruise
+          - Park exploration
+          - Dirt trail riding
+          - Mixed terrain
+          - Social casual ride
+          - Fast-paced speed ride
+        required: true
+      - id: 6
+        name: group_size_preference
+        label: Preferred Group Size
+        hint: How many riders should participate?
+        type: select_one
+        options:
+          - Small group (3-5 riders)
+          - Medium group (6-10 riders)
+          - Large group (11-20 riders)
+          - Very large (20+ riders)
+          - No preference
+        required: false
+      - id: 7
+        name: cruise_frequency
+        label: How Often Would You Like Cruises?
+        hint: null
+        type: select_one
+        options:
+          - Weekly
+          - Bi-weekly
+          - Monthly
+          - Quarterly
+          - As often as possible
+        required: false
+      - id: 8
+        name: preferred_days
+        label: Preferred Days for Cruises
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Monday
+          - Tuesday
+          - Wednesday
+          - Thursday
+          - Friday
+          - Saturday
+          - Sunday
+        required: false
+      - id: 9
+        name: preferred_times
+        label: Preferred Times for Cruises
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Morning (8am-12pm)
+          - Afternoon (12pm-5pm)
+          - Evening (5pm-8pm)
+          - Night (8pm+)
+        required: false
+      - id: 10
+        name: route_suggestions
+        label: Route Suggestions or Ideas
+        hint: Describe your favorite locations or routes
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: must_have_features
+        label: Must-Have Features for Cruises
+        hint: What's important to you?
+        type: select_multiple
+        options:
+          - Good road surfaces
+          - Scenic views
+          - Tricks spots
+          - Food/drink stops
+          - Photography opportunities
+          - Night lighting
+          - Low traffic
+          - Beginner-friendly
+        required: false
+      - id: 12
+        name: transportation
+        label: How Would You Get to the Meet Location?
+        hint: null
+        type: select_one
+        options:
+          - Riding to the location
+          - Car
+          - Public transport
+          - Walk
+          - Other
+        required: false
+      - id: 13
+        name: injuries_concerns
+        label: Any Injuries or Physical Concerns We Should Know?
+        hint: To ensure safe riding
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: willing_to_help
+        label: Would you help organize or lead cruises?
+        hint: null
+        type: select_one
+        options:
+          - Yes, very interested
+          - Maybe
+          - No, just want to participate
+        required: false
+      - id: 15
+        name: additional_feedback
+        label: Additional Feedback or Ideas
+        hint: null
+        type: text
+        options: []
+        required: false

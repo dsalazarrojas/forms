@@ -1,0 +1,63 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: it_helpdesk_resolution_verification_form
+    pages:
+    - id: 1
+      name: user_feedback
+      label: user_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: resolution_type
+      label: resolution_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Successful resolution'', ''value'': ''Successful
+        resolution''}'
+      - '{''id'': 2, ''label'': ''Unsuccesful resolution'', ''value'': ''Unsuccesful
+        resolution''}'
+      - '{''id'': 3, ''label'': ''Not resolved'', ''value'': ''Not resolved''}'
+      required: false
+    - id: 3
+      name: resolution_date
+      label: resolution_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: resolution_time
+      label: resolution_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: resolution_note
+      label: resolution_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: feedback
+      label: feedback
+      hint: null
+      type: note
+      options: []
+      required: false

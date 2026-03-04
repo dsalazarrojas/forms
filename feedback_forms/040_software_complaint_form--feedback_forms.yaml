@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: software_complaint_form
+    pages:
+    - id: 1
+      name: user_id
+      label: User ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: issue_type
+      label: issue_type
+      hint: null
+      type: select_one
+      options:
+      - bug
+      - crash
+      - other
+      required: true
+    - id: 4
+      name: report_date
+      label: report_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: report_time
+      label: report_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: report_location
+      label: report_location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: report_comments
+      label: report_comments
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: software_version
+      label: software_version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: user_compatibility
+      label: user_compatibility
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: feedback_status
+      label: feedback_status
+      hint: null
+      type: select_one
+      options:
+      - open
+      - resolved
+      - closed
+      required: true
+    - id: 12
+      name: created_at
+      label: created_at
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: updated_at
+      label: updated_at
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: deleted_at
+      label: deleted_at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 17
+      name: form_id
+      label: form_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: assigned_to_name
+      label: assigned_to_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: assigned_to_email
+      label: assigned_to_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: assigned_to_phone
+      label: assigned_to_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: category
+      label: category
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: category
+      label: category_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: description
+      label: description_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: assigned_to_name_label
+      label: assigned_to_name_label
+      hint: null
+      type: text
+      options: []
+      required: false

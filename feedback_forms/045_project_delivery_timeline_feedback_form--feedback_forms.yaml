@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Project Delivery Timeline Feedback Form
+    pages:
+    - id: 1
+      name: project_delivery_timeline_feedback_form_project_id
+      label: Project Id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: project_delivery_timeline_feedback_form_form_status
+      label: Form Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Not Started''}'
+      - '{''value'': ''In Progress''}'
+      - '{''value'': ''On Hold''}'
+      - '{''value'': ''Completed''}'
+      required: true
+    - id: 3
+      name: project_delivery_timeline_feedback_form_delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: project_delivery_timeline_feedback_form_delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: project_delivery_timeline_feedback_form_additional_info
+      label: Additional Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: project_delivery_timeline_feedback_form_submitting_date
+      label: Submitting Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: project_delivery_timeline_feedback_form_submitting_time
+      label: Submitting Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: project_delivery_timeline_feedback_form_respondent_email
+      label: Respondent Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: project_delivery_timeline_feedback_form_respondent_phone
+      label: Respondent Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: project_delivery_timeline_feedback_form_feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: project_delivery_timeline_feedback_form_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

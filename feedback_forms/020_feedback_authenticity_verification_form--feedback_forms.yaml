@@ -1,0 +1,92 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: feedback_authenticity_verification_form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: authenticity_type
+      label: Type of Feedback
+      hint: null
+      type: select_one
+      options:
+      - Authentic
+      - Non Authentic
+      required: false
+    - id: 4
+      name: reason_for_inauthenticity
+      label: Reason for Inauthenticity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: verification_method
+      label: Verification Method
+      hint: null
+      type: select_multiple
+      options:
+      - Phone call
+      - Video call
+      - In-person meeting
+      - Document verification
+      required: true
+    - id: 6
+      name: verification_method_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_verified
+      label: Date Verified
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_verified
+      label: Time Verified
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: verified_by
+      label: Verified By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false

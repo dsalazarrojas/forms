@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mini Contact Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: message
+      label: Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: feedback_type
+      label: What do you have feedback on?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Product''}'
+      - '{''id'': 2, ''label'': ''Website''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: true
+    - id: 7
+      name: feedback
+      label: Additional feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: animation
+      label: animation
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 9
+      name: animation_speed
+      label: animation_speed
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Fast''}'
+      - '{''id'': 2, ''label'': ''Slow''}'
+      required: false
+    - id: 10
+      name: animation_repeat
+      label: animation_repeat
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Once''}'
+      - '{''id'': 2, ''label'': ''Loop''}'
+      required: false
+    - id: 11
+      name: other_info
+      label: Other information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: other_info_repeat
+      label: Other information
+      hint: null
+      type: text
+      options: []
+      required: false

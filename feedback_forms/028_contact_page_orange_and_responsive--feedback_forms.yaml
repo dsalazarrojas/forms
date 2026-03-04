@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Page Orange And Responsive
+    pages:
+    - id: 1
+      name: welcome
+      label: Contact Us Today
+      hint: Send us your feedback
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Your email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Your phone
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: inquiry_type
+      label: Type of Inquiry
+      hint: Select one
+      type: select_one
+      options:
+      - Question
+      - Comment
+      - Suggestion
+      - Complaint
+      - Compliment
+      - Other
+      required: true
+    - id: 6
+      name: department
+      label: Department
+      hint: Which department
+      type: select_one
+      options:
+      - Sales
+      - Support
+      - Billing
+      - Marketing
+      - General
+      required: false
+    - id: 7
+      name: subject
+      label: Subject
+      hint: Brief subject
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: details
+      label: Details
+      hint: Full details
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: rating
+      label: Overall Rating
+      hint: Rate your experience
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: false
+    - id: 10
+      name: contact_preference
+      label: Contact Preference
+      hint: How to respond
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - No Response Needed
+      required: true
+    - id: 11
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else
+      type: text
+      options: []
+      required: false

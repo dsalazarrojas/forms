@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: retail_product_placement_feedback_form
+    pages:
+    - id: 1
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_rating
+      label: Product Rating
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 3
+      name: product_price
+      label: Product Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: product_placement
+      label: Product Placement
+      hint: null
+      type: select_multiple
+      options:
+      - Aisle 1
+      - Aisle 2
+      - Aisle 3
+      - Aisle 4
+      - Aisle 5
+      required: false
+    - id: 5
+      name: product_description
+      label: Product Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: store_hours
+      label: Store Hours
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

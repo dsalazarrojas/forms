@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: leadership_network_feedback
+    pages:
+    - id: 1
+      name: intro
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: experience
+      label: How was your experience with our leadership network?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: communication
+      label: How would you rate the communication of our leadership network?
+      hint: null
+      type: select_one
+      options:
+      - Very Strongly Agree
+      - Somewhat Agree
+      - Neither
+      - Somewhat Disagree
+      - Strongly Disagree
+      required: false
+    - id: 4
+      name: events
+      label: Have you attended any events hosted by our network?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 5
+      name: feedback_comments
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email_address
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submission
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

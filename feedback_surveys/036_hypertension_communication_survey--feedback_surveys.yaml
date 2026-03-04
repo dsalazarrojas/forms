@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hypertension Communication Survey
+    pages:
+    - id: 1
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Male''}'
+      - '{''label'': ''Female''}'
+      - '{''label'': ''Other''}'
+      - '{''label'': ''Prefer not to say''}'
+      required: false
+    - id: 3
+      name: occupation
+      label: occupation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: education_level
+      label: Education Level
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''No High school''}'
+      - '{''label'': ''High school''}'
+      - '{''label'': ''Some college''}'
+      - '{''label'': ''College''}'
+      - '{''label'': ''Post-Graduate Degree''}'
+      required: false
+    - id: 5
+      name: income
+      label: income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: doctor
+      label: Doctor
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 7
+      name: family_member
+      label: Family Member
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 8
+      name: media
+      label: Media
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 9
+      name: friend
+      label: Friend
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 10
+      name: other_source
+      label: Other Source
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 11
+      name: internet
+      label: Internet
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 12
+      name: other
+      label: Other
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sports Event Concessions Feedback Survey
+    pages:
+    - id: 1
+      name: concession_quality
+      label: How would you rate concession quality
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 2
+      name: concession_services
+      label: How would you rate concession services
+      hint: null
+      type: select_one
+      options:
+      - Quick
+      - Fast
+      - Medium
+      - Slow
+      required: false
+    - id: 3
+      name: concession_value
+      label: How likely are you to purchase from concessions at this event
+      hint: null
+      type: select_one
+      options:
+      - Very Likely
+      - Somewhat Likely
+      - Not Likely
+      required: false
+    - id: 4
+      name: event_satisfaction
+      label: How satisfied are you with your overall event experience
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      required: false
+    - id: 5
+      name: purchase_intent
+      label: How likely are you to attend this event again
+      hint: null
+      type: select_one
+      options:
+      - Very Likely
+      - Somewhat Likely
+      - Not Likely
+      required: false
+    - id: 6
+      name: additional_comments
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

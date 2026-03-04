@@ -1,0 +1,195 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Building Maintenance Scheduling Feedback Survey
+    pages:
+    - id: 1
+      name: survey_date
+      label: Survey Date
+      hint: When are you completing this
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: property_name
+      label: Property or Building Name
+      hint: Name of your building
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: unit_number
+      label: Unit or Floor Number
+      hint: Your specific location
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: maintenance_request_date
+      label: Date of Recent Maintenance Request
+      hint: When was work scheduled
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: type_of_maintenance
+      label: Type of Maintenance Performed
+      hint: What work was done
+      type: select_multiple
+      options:
+        - HVAC Service
+        - Plumbing Repair
+        - Electrical Work
+        - Cleaning
+        - Inspection
+        - Other
+      required: false
+    - id: 6
+      name: scheduling_ease
+      label: How Easy Was It to Schedule the Appointment
+      hint: Ease of scheduling process
+      type: select_one
+      options:
+        - Very Easy
+        - Easy
+        - Neutral
+        - Difficult
+        - Very Difficult
+      required: true
+    - id: 7
+      name: appointment_timing
+      label: Was the Appointment Timing Convenient
+      hint: Worked with your schedule
+      type: select_one
+      options:
+        - Very Convenient
+        - Convenient
+        - Somewhat Convenient
+        - Inconvenient
+        - Very Inconvenient
+      required: true
+    - id: 8
+      name: available_time_slots
+      label: Were Available Time Slots Adequate
+      hint: Options given for scheduling
+      type: select_one
+      options:
+        - Excellent
+        - Good
+        - Fair
+        - Poor
+        - None
+      required: true
+    - id: 9
+      name: online_scheduling
+      label: Preferred Scheduling Method
+      hint: How you prefer to schedule
+      type: select_one
+      options:
+        - Online Portal
+        - Phone Call
+        - Email
+        - In-Person
+        - No Preference
+      required: true
+    - id: 10
+      name: advance_notice
+      label: Adequate Advance Notice Provided
+      hint: Warning time before appointment
+      type: select_one
+      options:
+        - More than 2 weeks
+        - 1-2 weeks
+        - 3-7 days
+        - 1-2 days
+        - Less than 1 day
+        - No notice given
+      required: true
+    - id: 11
+      name: reminder_effectiveness
+      label: Effectiveness of Appointment Reminders
+      hint: Reminder communications
+      type: select_one
+      options:
+        - Very Effective
+        - Effective
+        - Somewhat Effective
+        - Not Effective
+        - No reminders provided
+      required: true
+    - id: 12
+      name: flexibility
+      label: Ability to Reschedule If Needed
+      hint: Flexibility with appointments
+      type: select_one
+      options:
+        - Very Flexible
+        - Flexible
+        - Somewhat Flexible
+        - Not Flexible
+        - Not Possible
+      required: true
+    - id: 13
+      name: communication_quality
+      label: Communication Quality About Appointment
+      hint: Clarity and responsiveness
+      type: select_one
+      options:
+        - Excellent
+        - Good
+        - Fair
+        - Poor
+      required: true
+    - id: 14
+      name: occupant_coordination
+      label: Coordination With Tenant or Occupant Needs
+      hint: Consideration of your needs
+      type: select_one
+      options:
+        - Excellent
+        - Good
+        - Fair
+        - Poor
+      required: true
+    - id: 15
+      name: documentation
+      label: Clear Documentation of Appointment
+      hint: Confirmation and details provided
+      type: select_one
+      options:
+        - Very Clear
+        - Clear
+        - Somewhat Clear
+        - Unclear
+        - Not Provided
+      required: true
+    - id: 16
+      name: improvement_suggestions
+      label: How Can We Improve Scheduling
+      hint: Your suggestions for improvement
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: overall_satisfaction
+      label: Overall Satisfaction With Scheduling
+      hint: General satisfaction level
+      type: select_one
+      options:
+        - Very Satisfied
+        - Satisfied
+        - Neutral
+        - Dissatisfied
+        - Very Dissatisfied
+      required: true

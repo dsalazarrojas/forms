@@ -1,0 +1,166 @@
+inputSchema:
+  type: object
+  properties:
+    title: Architectural Symposium Proposal Submission
+    pages:
+    - id: 1
+      name: section_presenter_info
+      label: -- Presenter Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: presenter_name
+      label: Presenter Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: presenter_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: presenter_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: presenter_organization
+      label: Organization or Institution
+      hint: Firm, university, studio, etc
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: presenter_title
+      label: Title or Position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: presenter_bio
+      label: Brief Bio or Background
+      hint: Professional background summary
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_proposal
+      label: -- Proposal Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: proposal_title
+      label: Proposal Title
+      hint: Title of your presentation
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: proposal_category
+      label: Proposal Category
+      hint: null
+      type: select_one
+      options:
+      - Design innovation
+      - Sustainability
+      - Technology
+      - Urban planning
+      - Historic preservation
+      - Education
+      - Professional practice
+      - Other
+      required: true
+    - id: 11
+      name: proposal_description
+      label: Proposal Description
+      hint: 100-200 word summary
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: learning_outcomes
+      label: Learning Outcomes for Attendees
+      hint: What will participants learn?
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: section_format
+      label: -- Presentation Format --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: presentation_format
+      label: Preferred Format
+      hint: null
+      type: select_one
+      options:
+      - 45-minute talk
+      - 20-minute talk
+      - Panel discussion
+      - Workshop
+      - Demonstration
+      - Other
+      required: true
+    - id: 15
+      name: presentation_length
+      label: Presentation Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: technical_requirements
+      label: Technical Requirements
+      hint: AV needs, projector, etc
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: section_materials
+      label: -- Supporting Materials --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: presentation_slides
+      label: Presentation Slides (if available)
+      hint: PDF or PowerPoint file
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: project_images
+      label: Project Images or Supporting Media
+      hint: Photos, renderings, videos
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: additional_documents
+      label: Additional Documents
+      hint: Papers, case studies, references
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true

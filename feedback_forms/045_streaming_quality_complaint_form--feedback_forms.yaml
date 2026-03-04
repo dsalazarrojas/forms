@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Streaming Quality Complaint Form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: streaming_service
+      label: Streaming Service
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: issue_date_prophets
+      label: Issue Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: issue_time
+      label: Issue Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: issue_time_zone
+      label: Issue Time Zone
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: issue_details
+      label: Issue Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: report_user_id
+      label: Report User ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: report_time
+      label: Report Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: report_time_zone
+      label: Report Time Zone
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: streaming_service_provider
+      label: Streaming Service Provider
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: report_comment
+      label: Report Comment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: report_category
+      label: Report Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: report_status
+      label: Report Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 16
+      name: report_priority
+      label: Report Priority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: report_assignee
+      label: Report Assignee
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: report_resolution
+      label: Report Resolution
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: report_closed
+      label: Report Closed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: report_closed_date
+      label: Report Closed Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: report_closed_time
+      label: Report Closed Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 22
+      name: report_closed_time_zone
+      label: Report Closed Time Zone
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: report_comment
+      label: Report Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: report_comments
+      label: Report Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: report_user_comment
+      label: Report User Comment
+      hint: null
+      type: text
+      options: []
+      required: false

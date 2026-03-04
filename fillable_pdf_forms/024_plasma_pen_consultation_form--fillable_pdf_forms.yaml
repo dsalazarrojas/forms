@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: Plasma Pen Consultation Form
+    pages:
+    - id: 1
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medical_history
+      label: medical_history
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: consent_1
+      label: I understand that
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': True}'
+      - '{''id'': 2, ''value'': False}'
+      - '{''id'': 3, ''value'': ''unsure''}'
+      required: false
+    - id: 6
+      name: consent_2
+      label: I have read
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': True}'
+      - '{''id'': 2, ''value'': False}'
+      - '{''id'': 3, ''value'': ''unsure''}'
+      required: false

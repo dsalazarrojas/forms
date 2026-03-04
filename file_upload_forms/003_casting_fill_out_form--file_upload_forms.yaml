@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: Casting Fill Out Form
+    pages:
+    - id: 1
+      name: actor_details_header
+      label: -- Actor Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Legal Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: stage_name
+      label: Stage Name
+      hint: If different from legal name
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Use international format if applicable
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: union_status
+      label: Union Affiliation
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - SAG-AFTRA
+      - Equity
+      - Non-Union
+      - Other
+      required: true
+    - id: 7
+      name: agent_name
+      label: Talent Agency or Agent Name
+      hint: Write Independent if self-represented
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: physical_attributes_header
+      label: -- Physical Attributes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: actor_height
+      label: Height
+      hint: e.g. 5 foot 10 inches
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: eye_color
+      label: Eye Color
+      hint: null
+      type: select_one
+      options:
+      - Brown
+      - Blue
+      - Green
+      - Hazel
+      - Grey
+      - Other
+      required: true
+    - id: 11
+      name: hair_color
+      label: Hair Color
+      hint: null
+      type: select_one
+      options:
+      - Black
+      - Brown
+      - Blonde
+      - Red
+      - Grey
+      - Bald
+      - Other
+      required: true
+    - id: 12
+      name: materials_header
+      label: -- Materials and Links --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: headshot_instruction
+      label: Please ensure you have your headshot ready for upload
+      hint: We will contact you for file submission if the system is busy
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: reel_link
+      label: Demo Reel Link
+      hint: YouTube, Vimeo, or personal website
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: resume_link
+      label: Online Resume Link
+      hint: Actors Access, Casting Networks, etc.
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: special_skills
+      label: Special Skills
+      hint: e.g. Dialects, Martial Arts, Musical Instruments
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: location_base
+      label: Primary Location Base
+      hint: City and State
+      type: text
+      options: []
+      required: true

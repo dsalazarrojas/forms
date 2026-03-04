@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: APC Waiver Request Form
+    pages:
+    - id: 1
+      name: author_full_name
+      label: Author Full Name
+      hint: Enter your complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: author_email
+      label: Author Email
+      hint: Professional email for communication about this request
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: author_institution
+      label: Author Institution
+      hint: Name of your affiliated institution
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: manuscript_title
+      label: Manuscript Title
+      hint: Title of the manuscript for which you're requesting a waiver
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: journal_name
+      label: Journal Name
+      hint: Name of the journal to which you're submitting
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: manuscript_id
+      label: Manuscript ID
+      hint: If available, provide the manuscript ID assigned by the journal
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: waiver_reason
+      label: Reason for Waiver Request
+      hint: Select the primary reason for your waiver request
+      type: select_one
+      options:
+      - Financial Hardship
+      - Institutional Policy
+      - Developing Country
+      - Early Career Researcher
+      - Other
+      required: true
+    - id: 8
+      name: financial_hardship_details
+      label: Financial Hardship Details
+      hint: If applicable, provide details about your financial situation
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: institutional_funding_status
+      label: Institutional Funding Status
+      hint: Does your institution have funds available for APCs?
+      type: select_one
+      options:
+      - Yes, but insufficient
+      - Yes, but restricted use
+      - No funding available
+      - Not applicable
+      required: true
+    - id: 10
+      name: country_economic_status
+      label: Country Economic Status
+      hint: What is the economic status of your country according to World Bank classification?
+      type: select_one
+      options:
+      - High Income
+      - Upper Middle Income
+      - Lower Middle Income
+      - Low Income
+      required: true
+    - id: 11
+      name: career_stage
+      label: Career Stage
+      hint: What is your current career stage?
+      type: select_one
+      options:
+      - PhD Student
+      - Postdoctoral Researcher
+      - Early Career Faculty
+      - Mid-Career Faculty
+      - Senior Faculty
+      - Independent Researcher
+      required: true
+    - id: 12
+      name: previous_publication_record
+      label: Previous Publication Record
+      hint: How many articles have you previously published in this journal or similar
+        journals?
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: alternative_funding_sources
+      label: Alternative Funding Sources
+      hint: Have you explored other sources of funding for the APC?
+      type: select_one
+      options:
+      - Yes, none available
+      - Yes, insufficient
+      - No, not applicable
+      - In process of applying
+      required: true
+    - id: 14
+      name: waiver_amount_requested
+      label: Waiver Amount Requested
+      hint: What percentage of the APC are you requesting to be waived?
+      type: select_one
+      options:
+      - 25%
+      - 50%
+      - 75%
+      - 100% (Full Waiver)
+      required: true
+    - id: 15
+      name: supporting_documentation
+      label: Supporting Documentation
+      hint: Upload any documents that support your waiver request (financial statements,
+        institutional letters, etc.)
+      type: text
+      options: []
+      required: false

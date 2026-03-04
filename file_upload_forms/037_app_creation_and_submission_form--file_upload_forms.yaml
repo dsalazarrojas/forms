@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: App Creation And Submission Form
+    pages:
+    - id: 1
+      name: submission_date
+      label: Submission date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: developer_name
+      label: Developer or company name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: developer_email
+      label: Developer email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: developer_phone
+      label: Developer phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: app_name
+      label: Application name
+      hint: Official app name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: app_description
+      label: Application description
+      hint: What does the app do
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: app_category
+      label: Application category
+      hint: null
+      type: select_one
+      options:
+      - Games
+      - Productivity
+      - Lifestyle
+      - Social Networking
+      - Health and Fitness
+      - Music
+      - Entertainment
+      - Business
+      - Finance
+      - Education
+      - Navigation
+      - Other
+      required: true
+    - id: 8
+      name: target_audience
+      label: Target audience
+      hint: Who is this app for
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: app_price
+      label: Application price
+      hint: Free or price in dollars
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: ios_submission
+      label: Submitting to Apple App Store
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not sure
+      required: true
+    - id: 11
+      name: android_submission
+      label: Submitting to Google Play Store
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not sure
+      required: true
+    - id: 12
+      name: other_stores
+      label: Submitting to other app stores
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: app_version
+      label: App version number
+      hint: e.g., 1.0.0
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: minimum_os_requirement
+      label: Minimum OS requirement
+      hint: Oldest version supported
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: app_file_submission
+      label: App file for submission
+      hint: Upload compiled app binary
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: app_icon
+      label: App icon
+      hint: Upload high-resolution icon
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: app_screenshots
+      label: App screenshots provided
+      hint: Multiple screenshots for store listing
+      type: select_one
+      options:
+      - Yes, uploaded
+      - Will provide
+      - Not yet ready
+      required: true
+    - id: 18
+      name: promotional_image
+      label: Promotional graphic or banner
+      hint: For app store listing
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: privacy_policy
+      label: Privacy policy URL provided
+      hint: Link to privacy policy
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: terms_of_service
+      label: Terms of service URL provided
+      hint: Link to terms
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: content_rating
+      label: Content rating
+      hint: Age appropriateness
+      type: select_one
+      options:
+      - 4+
+      - 12+
+      - 17+
+      - Not applicable
+      required: true
+    - id: 22
+      name: copyright_confirmation
+      label: I confirm all content is original or licensed
+      hint: null
+      type: select_one
+      options:
+      - Yes, I confirm
+      - false
+      required: true
+    - id: 23
+      name: testing_status
+      label: App testing status
+      hint: null
+      type: select_one
+      options:
+      - Fully tested and ready
+      - Mostly tested
+      - Limited testing
+      - Not tested
+      required: true
+    - id: 24
+      name: submission_notes
+      label: Additional submission notes
+      hint: null
+      type: text
+      options: []
+      required: false

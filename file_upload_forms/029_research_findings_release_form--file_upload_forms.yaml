@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Research Findings Release Form
+    pages:
+    - id: 1
+      name: research_findings_release_form
+      label: research_findings_release_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: author_signature
+      label: authors_signature
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''author1''}'
+      - '{''value'': ''author2''}'
+      - '{''value'': ''author3''}'
+      required: false
+    - id: 3
+      name: release_date
+      label: release_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: release_time
+      label: release_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: upload_file
+      label: upload_file
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: file_url
+      label: file_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: file_type
+      label: file_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: consent_statement
+      label: consent_statement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: author_name
+      label: author_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: institutional_review
+      label: institutional_review
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: true
+    - id: 12
+      name: approval_statement
+      label: approval_statement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: reviewer_name
+      label: reviewer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: date_approved
+      label: date_approved
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: time_approved
+      label: time_approved
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: approved_by
+      label: approved_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: release_note
+      label: release_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: file_size
+      label: file_size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: file_type
+      label: file_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: author_email
+      label: author_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: author_phone
+      label: author_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: reviewer_email
+      label: reviewer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: reviewer_phone
+      label: reviewer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: institutional_reviewed
+      label: institutional_reviewed
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: true
+    - id: 25
+      name: review_date
+      label: review_date
+      hint: null
+      type: date
+      options: []
+      required: false

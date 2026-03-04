@@ -1,0 +1,129 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: e_commerce_shipping_feedback_survey
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: order_details
+      label: order_details
+      hint: null
+      type: select_one
+      options:
+      - Order Delivered
+      - Order Not Delivered
+      - Order Partially Delivered
+      - Order Not Yet Delivered
+      - Order Cancelled
+      required: true
+    - id: 3
+      name: shipping_details
+      label: shipping_details
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 4
+      name: carrier_used
+      label: carrier_used
+      hint: null
+      type: select_one
+      options:
+      - UPS
+      - FedEx
+      - USPS
+      - Other
+      required: false
+    - id: 5
+      name: delivery_experience
+      label: delivery_experience
+      hint: null
+      type: select_one
+      options:
+      - Delivered On Time
+      - Early
+      - Late
+      - Unknown
+      required: true
+    - id: 6
+      name: communication
+      label: communication
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - In Person
+      - Online
+      required: false
+    - id: 7
+      name: carrier_performance
+      label: carrier_performance
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Unknown
+      required: false
+    - id: 8
+      name: packaging
+      label: packaging
+      hint: null
+      type: select_one
+      options:
+      - Satisfactory
+      - Good
+      - Fair
+      - Poor
+      - Unknown
+      required: false
+    - id: 9
+      name: order_damages
+      label: order_damages
+      hint: null
+      type: select_multiple
+      options:
+      - No Damages
+      - Minor Damages
+      - Major Damages
+      - Unknown
+      required: true
+    - id: 10
+      name: customer_satisfaction
+      label: customer_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Unknown
+      required: true
+    - id: 11
+      name: customer_comments
+      label: customer_comments
+      hint: null
+      type: note
+      options: []
+      required: false

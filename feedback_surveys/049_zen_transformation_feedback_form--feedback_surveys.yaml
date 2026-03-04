@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: zen_transformation_feedback_form
+    pages:
+    - id: 1
+      name: first_name
+      label: FirstName
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: lastName
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: feedback_title
+      label: FeedbackTitle
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: feedback_message
+      label: FeedbackMessage
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: select_one_rating
+      label: SelectOne
+      hint: Select one option
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 7
+      name: phone_number
+      label: phoneNumber
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: select_multiple
+      label: SelectMultiple
+      hint: Select multiple
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: false
+    - id: 9
+      name: rating
+      label: Rating
+      hint: Rate 1-5
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      - option5
+      required: false
+    - id: 10
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: Leave any additional information
+      type: note
+      options: []
+      required: false

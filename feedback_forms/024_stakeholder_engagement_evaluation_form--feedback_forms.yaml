@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stakeholder Engagement Evaluation Form
+    pages:
+    - id: 1
+      name: intro_page
+      label: intro-page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_details_page
+      label: contact-details-page
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: engagement_level_page
+      label: engagement-level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: stakeholder_level_page
+      label: stakeholder-level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 5
+      name: frequency_of_engagement_page
+      label: frequency-of-engagement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: quality_of_service_page
+      label: quality-of-service
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 7
+      name: frequency_of_contact_page
+      label: frequency-of-contact
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: stakeholder_engagement_level_page
+      label: stakeholder-engagement-level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 9
+      name: comments_page
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_info_page
+      label: additional-info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: rating_page
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: feedback_page
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: email_page
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone_page
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

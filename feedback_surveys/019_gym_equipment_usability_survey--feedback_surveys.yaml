@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gym Equipment Usability Survey
+    pages:
+    - id: 1
+      name: home_page
+      label: Home Page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: equipment_availability
+      label: Equipment Availability
+      hint: null
+      type: select_multiple
+      options:
+      - Free Weight Machines
+      - Free Cardio Machines
+      - Free Weight Machines
+      - Free Strength Machines
+      required: false
+    - id: 3
+      name: usability
+      label: How Usable
+      hint: Rate this equipment on a scale of 1-5, with 1 being very poor and 5 being
+        very good
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: availability_days
+      label: Availability Days
+      hint: null
+      type: select_one
+      options:
+      - Mon-Fri
+      - Mon-Thu
+      - Sat-Sun
+      - Mon-Sat
+      - Mon-Thu
+      - Sun
+      required: false
+    - id: 5
+      name: availability_hours
+      label: Availability Hours
+      hint: null
+      type: select_multiple
+      options:
+      - 7am-6pm
+      - 7am-5pm
+      - 8am-6pm
+      - 8am-5pm
+      - 6am-6pm
+      required: false
+    - id: 6
+      name: facilities_improvements
+      label: Facility Improvements
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: member_survey_suggestion
+      label: Member Survey Suggestion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: shift
+      label: Shift
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: day_of_week
+      label: Day of Week
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: comments_departmental
+      label: Comments Departmental
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: email_departmental
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 18
+      name: phone_departmental
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: availability_days_departmental
+      label: Availability Days
+      hint: null
+      type: select_one
+      options:
+      - Mon-Fri
+      - Mon-Thu
+      - Sat-Sun
+      - Mon-Sat
+      - Mon-Thu
+      - Sun
+      required: false
+    - id: 20
+      name: shift_departmental
+      label: Shift
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: departmental_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: departmental_contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: departmental_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 24
+      name: departmental_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: departmental_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

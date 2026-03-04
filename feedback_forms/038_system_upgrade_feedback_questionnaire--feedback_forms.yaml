@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: System Upgrade Feedback Questionnaire
+    pages:
+    - id: 1
+      name: user_experience
+      label: User experience
+      hint: null
+      type: select_one
+      options:
+      - Very Poor
+      - Average
+      - Excellent
+      required: false
+    - id: 2
+      name: upgrade_frequency
+      label: Upgrades frequency
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: select_multiple
+      options:
+      - text
+      - Other
+      required: false
+    - id: 5
+      name: email_address
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: assigned_tool
+      label: Assigned tool
+      hint: null
+      type: select_one
+      options:
+      - Jotform
+      - Other
+      required: false
+    - id: 8
+      name: jotform_account
+      label: Jotform account
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: user_name
+      label: User name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: user_organization
+      label: User organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: user_department
+      label: User department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: user_job_title
+      label: User job title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: user_location
+      label: User location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: feedback_form
+      label: Feedback form
+      hint: null
+      type: select_one
+      options:
+      - Text
+      - Dropdown
+      - Matrix
+      required: false
+    - id: 15
+      name: submission_date
+      label: Submission date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: submission_time
+      label: Submission time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: submitted_by
+      label: Submitted by
+      hint: null
+      type: select_one
+      options:
+      - Automated
+      - Human
+      required: false

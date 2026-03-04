@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Favorite Place Description Survey
+    pages:
+    - id: 1
+      name: favorite_place_description_survey_form_input_1
+      label: Enter your favorite place
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: favorite_place_description_survey_form_input_2
+      label: How did you hear about us?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Social Media''}'
+      - '{''label'': ''Friend''}'
+      - '{''label'': ''Online Search''}'
+      - '{''label'': ''Word of Mouth''}'
+      - '{''label'': ''Other''}'
+      required: true
+    - id: 3
+      name: favorite_place_description_survey_form_input_3
+      label: What makes this place special?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: favorite_place_description_survey_form_input_4
+      label: What activities do you like to do there?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Visit with family''}'
+      - '{''label'': ''Visit with friends''}'
+      - '{''label'': ''Go for a run''}'
+      - '{''label'': ''Other''}'
+      required: true
+    - id: 5
+      name: favorite_place_description_survey_form_input_5
+      label: How often do you visit this place?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Less than once a month''}'
+      - '{''label'': ''About once a week''}'
+      - '{''label'': ''2-3 times a week''}'
+      - '{''label'': ''More than three times a week''}'
+      required: true
+    - id: 6
+      name: favorite_place_description_survey_form_input_6
+      label: When was your most recent visit?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: favorite_place_description_survey_form_input_7
+      label: What time of day do you prefer to visit?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: favorite_place_description_survey_form_input_8
+      label: How would you rate this place?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: favorite_place_description_survey_form_input_9
+      label: Would you recommend this place to others?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: true
+    - id: 10
+      name: favorite_place_description_survey_form_input_10
+      label: Why should we know?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: favorite_place_description_survey_form_input_11
+      label: How can we improve this place?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: other
+      label: Other contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: favorite_place_description_survey_form_input_15
+      label: How did you hear about us?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Social Media''}'
+      - '{''label'': ''Friend''}'
+      - '{''label'': ''Online Search''}'
+      - '{''label'': ''Word of Mouth''}'
+      - '{''label'': ''Other''}'
+      required: true
+    - id: 16
+      name: favorite_place_description_survey_form_input_16
+      label: What do you like about this place?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: favorite_place_description_survey_form_input_17
+      label: How did you learn about this place?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Brochure''}'
+      - '{''label'': ''Billboard''}'
+      - '{''label'': ''Social Media''}'
+      - '{''label'': ''Online Search''}'
+      - '{''label'': ''Other''}'
+      required: true
+    - id: 18
+      name: favorite_place_description_survey_form_input_18
+      label: How did we do?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: favorite_place_description_survey_form_input_19
+      label: Can we follow up with you later?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: favorite_place_description_survey_form_input_20
+      label: How do you like the place?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: favorite_place_description_survey_form_input_21
+      label: What is your favorite time of year to visit?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Winter''}'
+      - '{''label'': ''Spring''}'
+      - '{''label'': ''Summer''}'
+      - '{''label'': ''Autumn''}'
+      required: false
+    - id: 22
+      name: favorite_place_description_survey_form_input_22
+      label: What is your favorite time of day to visit?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Morning''}'
+      - '{''label'': ''Afternoon''}'
+      - '{''label'': ''Evening''}'
+      required: false
+    - id: 23
+      name: favorite_place_description_survey_form_input_23
+      label: Do you want to join our newsletter?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 24
+      name: favorite_place_description_survey_form_input_24
+      label: Would you like to see our newsletter?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 25
+      name: favorite_place_description_survey_form_input_25
+      label: Do you want to receive promotional emails?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false

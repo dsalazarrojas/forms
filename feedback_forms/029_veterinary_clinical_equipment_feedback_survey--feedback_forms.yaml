@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Clinical Equipment Feedback Survey
+    pages:
+    - id: 1
+      name: survey_start
+      label: Survey Start
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: equipment_type
+      label: Equipment Type
+      hint: null
+      type: select_one
+      options:
+      - General Equipment
+      - Diagnostics
+      - Treatment
+      - Other
+      required: false
+    - id: 3
+      name: equipment_location
+      label: Equipment Location
+      hint: null
+      type: select_multiple
+      options:
+      - Central Sterilization
+      - Procedure Room
+      - Clinic
+      - Recovery
+      - Other
+      required: false
+    - id: 4
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: email_hint
+      label: Email Hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false

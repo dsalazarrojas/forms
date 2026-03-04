@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Government Feedback Contact Form
+    pages:
+    - id: 1
+      name: citizen_name
+      label: citizen_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: message
+      label: message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''feedback'', ''label'': ''Feedback''}'
+      - '{''value'': ''suggestion'', ''label'': ''Suggestion''}'
+      - '{''value'': ''other'', ''label'': ''Other''}'
+      required: false
+    - id: 6
+      name: department
+      label: department
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''department1'', ''label'': ''Department 1''}'
+      - '{''value'': ''department2'', ''label'': ''Department 2''}'
+      - '{''value'': ''department3'', ''label'': ''Department 3''}'
+      required: false
+    - id: 7
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email_to
+      label: email_to
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: subject
+      label: subject
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: body
+      label: body
+      hint: null
+      type: note
+      options: []
+      required: false

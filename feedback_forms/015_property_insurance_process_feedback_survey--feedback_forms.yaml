@@ -1,0 +1,223 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Insurance Process Feedback Survey
+    pages:
+    - id: 1
+      name: customer_rating
+      label: customer_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: comments
+      label: customer_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: stage_1_insurance_broker
+      label: insurance_broker
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''highly_satisfied''}'
+      - '{''id'': 2, ''name'': ''somewhat_satisfied''}'
+      - '{''id'': 3, ''name'': ''somewhat_dissatisfied''}'
+      - '{''id'': 4, ''name'': ''highly_dissatisfied''}'
+      required: false
+    - id: 4
+      name: stage_2_policy_issue
+      label: policy_issue
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''no_issues''}'
+      - '{''id'': 2, ''name'': ''issues_with_insurer''}'
+      - '{''id'': 3, ''name'': ''issues_with_broker''}'
+      - '{''id'': 4, ''name'': ''issues_with_process''}'
+      required: false
+    - id: 5
+      name: stage_3_claim_process
+      label: claim_process
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''very_good''}'
+      - '{''id'': 2, ''name'': ''somewhat_good''}'
+      - '{''id'': 3, ''name'': ''neutral''}'
+      - '{''id'': 4, ''name'': ''very_poor''}'
+      - '{''id'': 5, ''name'': ''poor''}'
+      required: false
+    - id: 6
+      name: communication
+      label: communication
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: timeliness
+      label: timeliness
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: overall_experience
+      label: overall_experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: stage_1_insurer_availability
+      label: insurer_availability
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''mostly_available''}'
+      - '{''id'': 2, ''name'': ''somewhat_available''}'
+      - '{''id'': 3, ''name'': ''mostly_unavailable''}'
+      - '{''id'': 4, ''name'': ''completely_unavailable''}'
+      required: false
+    - id: 10
+      name: stage_2_broker_availability
+      label: broker_availability
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''mostly_available''}'
+      - '{''id'': 2, ''name'': ''somewhat_available''}'
+      - '{''id'': 3, ''name'': ''mostly_unavailable''}'
+      - '{''id'': 4, ''name'': ''completely_unavailable''}'
+      required: false
+    - id: 11
+      name: stage_3_documentation
+      label: documentation
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''mostly_documented''}'
+      - '{''id'': 2, ''name'': ''somewhat_documented''}'
+      - '{''id'': 3, ''name'': ''mostly_un_documented''}'
+      - '{''id'': 4, ''name'': ''completely_un_documented''}'
+      required: false
+    - id: 12
+      name: stage_4_follow_up
+      label: follow_up
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''mostly_followed''}'
+      - '{''id'': 2, ''name'': ''somewhat_followed''}'
+      - '{''id'': 3, ''name'': ''mostly_unfollowed''}'
+      - '{''id'': 4, ''name'': ''completely_unfollowed''}'
+      required: false
+    - id: 13
+      name: stage_5_insurance_broker_fees
+      label: insurance_broker_fees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: stage_6_policy_documentation
+      label: policy_documentation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: stage_7_insurer_fees
+      label: insurer_fees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: stage_8_additional_services
+      label: additional_services
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      required: false
+    - id: 17
+      name: stage_9_policy_price
+      label: policy_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: stage_10_broker_fees
+      label: broker_fees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: stage_11_policy_claim
+      label: policy_claim
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''no_claim''}'
+      - '{''id'': 2, ''name'': ''claim_in_progress''}'
+      - '{''id'': 3, ''name'': ''claim_paid_out''}'
+      required: false
+    - id: 20
+      name: stage_12_policy_cancellation
+      label: policy_cancellation
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''no_cancellation''}'
+      - '{''id'': 2, ''name'': ''cancelled''}'
+      - '{''id'': 3, ''name'': ''cancelled_with_reason''}'
+      required: false
+    - id: 21
+      name: stage_13_policy_renewal
+      label: policy_renewal
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''no_renewal''}'
+      - '{''id'': 2, ''name'': ''renewed''}'
+      - '{''id'': 3, ''name'': ''not_yet_renewed''}'
+      required: false
+    - id: 22
+      name: stage_14_policy_changes
+      label: policy_changes
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''no_changes''}'
+      - '{''id'': 2, ''name'': ''yes_changes''}'
+      - '{''id'': 3, ''name'': ''pending_changes''}'
+      required: false
+    - id: 23
+      name: stage_15_insurer_commission
+      label: insurer_commission
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: stage_16_broker_commission
+      label: broker_commission
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false

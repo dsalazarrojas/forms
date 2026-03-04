@@ -1,0 +1,52 @@
+inputSchema:
+  type: object
+  properties:
+    title: Feedback On Inciting Incidents
+    pages:
+    - id: 1
+      name: introduction
+      label: Feedback On Inciting Incidents Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: impact_rating
+      label: Impact Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: detailed_account
+      label: Detailed Account Of Event
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: suggestions
+      label: Suggestion
+      hint: null
+      type: select_multiple
+      options:
+      - Inciting Incident Response
+      - Inciting Incident Review
+      - Inciting Incident Followup
+      required: false
+    - id: 5
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Feedback
+      - Suggestion
+      required: false
+    - id: 6
+      name: date_of_incident
+      label: Date Of Incident
+      hint: null
+      type: date
+      options: []
+      required: false

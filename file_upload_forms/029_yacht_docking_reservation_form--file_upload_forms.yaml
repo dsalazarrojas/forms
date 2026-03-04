@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: yacht_docking_reservation_form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: Please enter your name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: marina
+      label: Marina
+      hint: Please select your marina
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: boat_type
+      label: Boat Type
+      hint: Please select your boat type
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: docking_date
+      label: Docking Date
+      hint: Please select a date
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: docking_time
+      label: Docking Time
+      hint: Please select a time
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: departure_date
+      label: Departure Date
+      hint: Please select a departure date
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: departure_time
+      label: Departure Time
+      hint: Please select a departure time
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: slip_size
+      label: Slip Size
+      hint: Please select slip size
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: reservation_id
+      label: Reservation ID
+      hint: Please enter reservation ID
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: Additional comments
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: file
+      label: File
+      hint: Upload file
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: uploaded_files
+      label: Uploaded Files
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: uploaded_file_type
+      label: Uploaded File Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Image''}'
+      - '{''id'': 2, ''label'': ''Document''}'
+      required: true

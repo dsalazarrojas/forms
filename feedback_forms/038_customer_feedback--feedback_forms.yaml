@@ -1,0 +1,222 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Feedback
+    pages:
+    - id: 1
+      name: first_name
+      label: Customer Name
+      hint: Enter your name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: feedback_message
+      label: Message
+      hint: Tell us what's on your mind
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: product_rating
+      label: Product Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: contact_number
+      label: Contact Number
+      hint: Enter your contact number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: company_name
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Department 1
+      - Department 2
+      - Department 3
+      - Department 4
+      - Department 5
+      - Department 6
+      - Department 7
+      - Department 8
+      required: false
+    - id: 8
+      name: date_of_visit
+      label: Date of Visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_of_visit
+      label: Time of Visit
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: time_of_call
+      label: Time of Call
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: time_of_response
+      label: Time of Response
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: Tell us more about your experience
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: customer_feedback_score
+      label: Customer Feedback Score
+      hint: 1-5 scale
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 14
+      name: customer_suggestion
+      label: Customer Suggestion
+      hint: What do you think could be improved?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: follow_up
+      label: Follow-up
+      hint: Would you like a follow-up call?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: additional_comments
+      label: Additional Comments
+      hint: Enter more about your experience
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - ChatJIMMY
+      - John
+      - Jane
+      - Admin
+      required: false
+    - id: 19
+      name: assigned_at
+      label: Assigned At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: closed_at
+      label: Closed At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: created_at
+      label: Created At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: customer_id
+      label: Customer ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Admin
+      - Customer
+      required: false
+    - id: 26
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: customer_form_id
+      label: Customer Form ID
+      hint: null
+      type: text
+      options: []
+      required: false

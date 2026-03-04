@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Renovation Feedback Form
+    pages:
+    - id: 1
+      name: renovation_project
+      label: Renovation Project
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: project_budget
+      label: Project Budget
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: project_location
+      label: Project Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - minimalist
+      - traditional
+      - modern
+      required: true
+    - id: 5
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: project_manager
+      label: Project Manager
+      hint: null
+      type: select_multiple
+      options:
+      - project manager 1
+      - project manager 2
+      - project manager 3
+      required: true
+    - id: 7
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: goals
+      label: Goals
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: true

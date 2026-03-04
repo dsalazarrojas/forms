@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Project Success Feedback Survey Form
+    pages:
+    - id: 1
+      name: project_success_feedback_survey_form
+      label: Project Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_success_rating
+      label: Overall Project Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: project_success_feedback
+      label: What do you think was the success of this project?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Excellent''}'
+      - '{''option2'': ''Good''}'
+      - '{''option3'': ''Fair''}'
+      - '{''option4'': ''Poor''}'
+      required: false
+    - id: 4
+      name: project_success_improvement_areas
+      label: What areas of improvement do you suggest?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Timeline''}'
+      - '{''option2'': ''Budget''}'
+      - '{''option3'': ''Communication''}'
+      - '{''option4'': ''Scope''}'
+      required: false
+    - id: 5
+      name: project_success_recommendations
+      label: Do you have any recommendations for future projects?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: project_success_feedback_email
+      label: Your Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: project_success_feedback_phone
+      label: Your Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: project_success_feedback_comment
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false

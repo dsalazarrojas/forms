@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: promotional_offer_feedback_questionnaire
+    pages:
+    - id: 1
+      name: intro_page
+      label: intro_page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: offer_type
+      label: offer_type
+      hint: null
+      type: select_one
+      options:
+      - offer_type_1
+      - offer_type_2
+      - offer_type_3
+      required: true
+    - id: 3
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: suggestions
+      label: suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: expected_outcome
+      label: expected_outcome
+      hint: null
+      type: select_one
+      options:
+      - expected_outcome_1
+      - expected_outcome_2
+      - expected_outcome_3
+      required: false
+    - id: 7
+      name: actual_outcome
+      label: actual_outcome
+      hint: null
+      type: select_one
+      options:
+      - actual_outcome_1
+      - actual_outcome_2
+      - actual_outcome_3
+      required: true
+    - id: 8
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: first_responder_training_feedback_questionnaire
+    pages:
+    - id: 1
+      name: name
+      label: first_responder_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: role
+      label: first_responder_role
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: prophets
+      label: training_experience
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: rating
+      label: overall_rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date
+      label: first_responder_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: rating_date
+      label: rating_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: comments_date
+      label: comments_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: additional_comments_2
+      label: additional_comments_2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: additional_comments_3
+      label: additional_comments_3
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: additional_comments_4
+      label: additional_comments_4
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Foreign Exchange Purchase Application
+    pages:
+    - id: 1
+      name: foreign_exchange_purchase_application_form
+      label: Foreign Exchange Purchase Application Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: amount_to_purchase
+      label: amount_to_purchase
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: purchase_currency
+      label: purchase_currency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''USD''}'
+      - '{''id'': 2, ''label'': ''EUR''}'
+      - '{''id'': 3, ''label'': ''JPY''}'
+      - '{''id'': 4, ''label'': ''CNY''}'
+      - '{''id'': 5, ''label'': ''INR''}'
+      required: false
+    - id: 7
+      name: selling_currency
+      label: selling_currency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''USD''}'
+      - '{''id'': 2, ''label'': ''EUR''}'
+      - '{''id'': 3, ''label'': ''JPY''}'
+      - '{''id'': 4, ''label'': ''CNY''}'
+      - '{''id'': 5, ''label'': ''INR''}'
+      required: false
+    - id: 8
+      name: exchange_rate
+      label: exchange_rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: upload_file
+      label: upload_file
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: file
+      label: file
+      hint: null
+      type: text
+      options: []
+      required: false

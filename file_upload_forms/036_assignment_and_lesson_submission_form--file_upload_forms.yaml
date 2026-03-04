@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Assignment And Lesson Submission Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_id
+      label: Student ID
+      hint: Identification number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: For confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: course_name
+      label: Course Name
+      hint: Which course
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: course_code
+      label: Course Code
+      hint: Course identifier
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: instructor_name
+      label: Instructor Name
+      hint: Teacher or professor
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: assignment_title
+      label: Assignment Title
+      hint: Name of assignment
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: assignment_number
+      label: Assignment Number
+      hint: Which assignment
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: lesson_number
+      label: Lesson Number
+      hint: Which lesson
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submission_type
+      label: Submission Type
+      hint: What are you submitting
+      type: select_one
+      options:
+      - Assignment Only
+      - Lesson Materials
+      - Both Assignment and Lessons
+      - Project
+      - Lab Report
+      - Essay
+      required: true
+    - id: 11
+      name: submission_date
+      label: Submission Date
+      hint: When submitting
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: due_date
+      label: Assignment Due Date
+      hint: When it was due
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: file_upload_1
+      label: Upload Main Assignment File
+      hint: Primary submission
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: file_upload_2
+      label: Upload Additional File
+      hint: Optional second file
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: file_upload_3
+      label: Upload Supporting Materials
+      hint: Optional third file
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: file_format
+      label: File Format
+      hint: What format
+      type: select_one
+      options:
+      - PDF
+      - Word Document
+      - PowerPoint
+      - Excel Spreadsheet
+      - Image
+      - Video
+      - Code File
+      - Other
+      required: true
+    - id: 17
+      name: word_count
+      label: Word Count
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: submission_notes
+      label: Submission Notes
+      hint: Comments for instructor
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: late_submission
+      label: Is This a Late Submission
+      hint: Past due date
+      type: select_one
+      options:
+      - No - On Time
+      - Yes - With Permission
+      - Yes - Without Permission
+      required: true
+    - id: 20
+      name: late_reason
+      label: Reason for Late Submission
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: academic_integrity
+      label: I Confirm This Is My Original Work
+      hint: Academic honesty
+      type: select_one
+      options:
+      - Yes I Confirm
+      - 'No'
+      required: true
+    - id: 22
+      name: citations_included
+      label: Are Citations Included
+      hint: References listed
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Applicable
+      required: true
+    - id: 23
+      name: group_project
+      label: Is This a Group Project
+      hint: Team submission
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: group_members
+      label: Group Members Names
+      hint: If group project
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: student_signature
+      label: Student Signature
+      hint: Type name to sign
+      type: text
+      options: []
+      required: true

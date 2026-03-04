@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gas Bottle Disposal Survey
+    pages:
+    - id: 1
+      name: survey_questions_1
+      label: What do you do with your empty gas bottles?
+      hint: null
+      type: select_one
+      options:
+      - Empty them in the bin
+      - Give them to a bottle bank
+      - Give them to a bottle collection point
+      - Other (please specify)
+      required: false
+    - id: 2
+      name: survey_questions_2
+      label: How often do you dispose of empty gas bottles?
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      required: false
+    - id: 3
+      name: survey_questions_3
+      label: What method do you use to dispose of empty gas bottles?
+      hint: null
+      type: select_one
+      options:
+      - Recycling
+      - Waste to landfill
+      - Give to a bottle bank
+      - Other
+      required: false
+    - id: 4
+      name: survey_questions_4
+      label: Are you aware of any local methods for empty gas bottle disposal?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 5
+      name: survey_questions_5
+      label: How many empty gas bottles do you usually dispose of at once?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: survey_questions_6
+      label: Have you ever disposed of an empty gas bottle at a bottle collection
+        point?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: survey_questions_7
+      label: Would you prefer more gas bottle collection points nearby?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Do you have any comments about gas bottle collection in your area?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: contact_info_1
+      label: What is your name?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_info_2
+      label: What is your phone number?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_info_3
+      label: What is your email address?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: contact_info_4
+      label: What is your address?
+      hint: null
+      type: text
+      options: []
+      required: false

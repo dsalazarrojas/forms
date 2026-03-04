@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gym Staff Training Effectiveness Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: What is this survey for?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: training_programs
+      label: What training programs have you attended?
+      hint: null
+      type: select_multiple
+      options:
+      - New Employee Orientation
+      - Continuing Education
+      - Certification
+      required: true
+    - id: 3
+      name: staff_training_effectiveness
+      label: How would you rate your overall effectiveness of staff training?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: training_satisfaction
+      label: How satisfied are you with the training program?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: training_relevance
+      label: How relevant do you think the training programs are to your work?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: communication
+      label: How would you rate the communication with your training instructor?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: feedback
+      label: Do you have any feedback about our staff training programs?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: additional_training
+      label: Is there anything else you think we can do to improve our training programs?
+      hint: null
+      type: text
+      options: []
+      required: false

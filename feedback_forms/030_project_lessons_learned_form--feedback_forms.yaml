@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Project Lessons Learned Form
+    pages:
+    - id: 1
+      name: project_lessons_learned_form
+      label: Project Leaders
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_rating
+      label: rating
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''High''}'
+      - '{''id'': 2, ''label'': ''Low''}'
+      - '{''id'': 3, ''label'': ''Neutral''}'
+      required: false
+    - id: 3
+      name: project_outcome_rating
+      label: outcome_rating
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''High''}'
+      - '{''id'': 2, ''label'': ''Low''}'
+      - '{''id'': 3, ''label'': ''Neutral''}'
+      required: false
+    - id: 4
+      name: lessons_learned
+      label: lessons_learned
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: recommendations
+      label: recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: team_feedback
+      label: team_feedback
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: team_suggestions
+      label: team_suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: project_leads_name
+      label: project_leads_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: pmos_name
+      label: pmos_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: project_leads_contact
+      label: contact_project_leads
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: pmos_contact
+      label: contact_pmos
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: project_leads_email
+      label: project_leads_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: pmos_email
+      label: pmos_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: project_leads_job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: pmos_job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: project_leads_department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Finance''}'
+      - '{''id'': 2, ''label'': ''Marketing''}'
+      - '{''id'': 3, ''label'': ''Sales''}'
+      required: false
+    - id: 17
+      name: pmos_department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Finance''}'
+      - '{''id'': 2, ''label'': ''Marketing''}'
+      - '{''id'': 3, ''label'': ''Sales''}'
+      required: false
+    - id: 18
+      name: project_leads_job_function
+      label: job_function
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Project Manager''}'
+      - '{''id'': 2, ''label'': ''Team Lead''}'
+      - '{''id'': 3, ''label'': ''Team Member''}'
+      required: false
+    - id: 19
+      name: pmos_job_function
+      label: job_function
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Project Manager''}'
+      - '{''id'': 2, ''label'': ''Team Lead''}'
+      - '{''id'': 3, ''label'': ''Team Member''}'
+      required: false
+    - id: 20
+      name: project_leads_manager
+      label: manager
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 21
+      name: pmos_manager
+      label: pmos_manager
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 22
+      name: project_leads_organisation
+      label: organisation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: pmos_organisation
+      label: pmos_organisation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: project_leads_additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: pmos_additional_comments
+      label: pmos_additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false

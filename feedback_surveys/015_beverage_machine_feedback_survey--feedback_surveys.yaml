@@ -1,0 +1,293 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Beverage Machine Feedback Survey
+    pages:
+      - id: 1
+        name: section_header_respondent
+        label: -- Your Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: respondent_name
+        label: Your Name (optional)
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: department
+        label: Department or Location
+        hint: Where do you primarily use the beverage machine?
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: frequency_of_use
+        label: How Often Do You Use the Beverage Machine
+        hint: null
+        type: select_one
+        options:
+          - Daily
+          - Several times per week
+          - Once per week
+          - Few times per month
+          - Rarely
+        required: true
+      - id: 5
+        name: section_header_machine
+        label: -- About the Machine --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: machine_location
+        label: Machine Location
+        hint: Specific location or floor
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: machine_type
+        label: Type of Beverage Machine
+        hint: What kind of machine is it?
+        type: select_one
+        options:
+          - Coffee machine
+          - Soda/soft drink dispenser
+          - Juice dispenser
+          - Water cooler
+          - Multi-beverage vending
+          - Hot water dispenser
+          - Smoothie/blender machine
+          - Other
+        required: true
+      - id: 8
+        name: machine_brand
+        label: Machine Brand or Model (if known)
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: section_header_satisfaction
+        label: -- Machine Satisfaction --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: overall_satisfaction
+        label: Overall Satisfaction with Machine
+        hint: null
+        type: select_one
+        options:
+          - Very satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very dissatisfied
+        required: true
+      - id: 11
+        name: beverage_quality
+        label: Quality of Beverages Dispensed
+        hint: How good are the drinks?
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Poor
+          - Very poor
+        required: true
+      - id: 12
+        name: temperature
+        label: Temperature of Beverages
+        hint: Is the temperature appropriate?
+        type: select_one
+        options:
+          - Always appropriate
+          - Usually appropriate
+          - Sometimes appropriate
+          - Rarely appropriate
+          - Never appropriate
+        required: true
+      - id: 13
+        name: flavor_variety
+        label: Beverage Flavor Variety
+        hint: Are there good options to choose from?
+        type: select_one
+        options:
+          - Excellent variety
+          - Good variety
+          - Adequate variety
+          - Limited variety
+          - Very limited variety
+        required: true
+      - id: 14
+        name: convenience
+        label: Convenience of Using the Machine
+        hint: Is it easy to get a beverage?
+        type: select_one
+        options:
+          - Very convenient
+          - Convenient
+          - Neutral
+          - Inconvenient
+          - Very inconvenient
+        required: true
+      - id: 15
+        name: section_header_functionality
+        label: -- Machine Functionality --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 16
+        name: reliability
+        label: Machine Reliability
+        hint: How often does it work properly?
+        type: select_one
+        options:
+          - Always works
+          - Usually works
+          - Sometimes works
+          - Frequently breaks down
+          - Always broken
+        required: true
+      - id: 17
+        name: user_interface
+        label: Ease of Using Controls
+        hint: Are buttons and controls easy to use?
+        type: select_one
+        options:
+          - Very easy
+          - Easy
+          - Neutral
+          - Difficult
+          - Very difficult
+        required: true
+      - id: 18
+        name: cleanliness
+        label: Cleanliness of Machine
+        hint: How clean is the machine?
+        type: select_one
+        options:
+          - Spotless
+          - Clean
+          - Average
+          - Dirty
+          - Very dirty
+        required: true
+      - id: 19
+        name: section_header_problems
+        label: -- Issues or Problems --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 20
+        name: experienced_problems
+        label: Have You Experienced Problems With This Machine
+        hint: null
+        type: select_one
+        options:
+          - Yes, frequently
+          - Yes, occasionally
+          - Once or twice
+          - No, no problems
+        required: true
+      - id: 21
+        name: problem_description
+        label: What Problems Have You Experienced
+        hint: Describe any issues
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: maintenance_frequency
+        label: How Often is Machine Serviced
+        hint: How frequently does maintenance occur?
+        type: select_one
+        options:
+          - Daily or very frequently
+          - Weekly
+          - Monthly
+          - Occasionally
+          - Never observed
+        required: false
+      - id: 23
+        name: out_of_stock
+        label: How Often Are Beverages Out of Stock
+        hint: null
+        type: select_one
+        options:
+          - Never
+          - Rarely
+          - Sometimes
+          - Often
+          - Always
+        required: true
+      - id: 24
+        name: section_header_improvements
+        label: -- Improvements & Suggestions --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 25
+        name: improvement_areas
+        label: What Could Be Improved (Select all that apply)
+        hint: null
+        type: select_multiple
+        options:
+          - More beverage options
+          - Better temperature control
+          - Improved reliability
+          - Faster service
+          - Better cleanliness
+          - Lower prices
+          - Easier to use
+          - Better maintenance
+          - More machines needed
+        required: true
+      - id: 26
+        name: new_beverage_suggestions
+        label: What New Beverages Would You Like
+        hint: Any suggestions for new options?
+        type: text
+        options: []
+        required: false
+      - id: 27
+        name: price_perception
+        label: Are Prices Fair for Beverages
+        hint: null
+        type: select_one
+        options:
+          - Very fair
+          - Fair
+          - Neutral
+          - Somewhat expensive
+          - Too expensive
+        required: true
+      - id: 28
+        name: additional_comments
+        label: Additional Comments or Suggestions
+        hint: Any other feedback?
+        type: text
+        options: []
+        required: false

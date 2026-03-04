@@ -1,0 +1,90 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Nonprofit Volunteer Resume Upload
+    pages:
+    - id: 1
+      name: upload_resume
+      label: Upload Resume
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: role
+      label: Volunteer Role
+      hint: null
+      type: select_one
+      options:
+      - Volunteer Role 1
+      - Volunteer Role 2
+      - Volunteer Role 3
+      required: true
+    - id: 5
+      name: skills
+      label: Skills
+      hint: null
+      type: select_multiple
+      options:
+      - Skill 1
+      - Skill 2
+      - Skill 3
+      - Skill 4
+      - Skill 5
+      - Skill 6
+      - Skill 7
+      - Skill 8
+      required: true
+    - id: 6
+      name: experience
+      label: Relevant Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: uploaded_resume
+      label: Uploaded Resume
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: upload_other_files
+      label: Upload Other Files
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: uploaded_other_files
+      label: Uploaded Other Files
+      hint: null
+      type: text
+      options: []
+      required: false

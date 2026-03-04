@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: photo_upload_for_virtual_assessment
+    pages:
+    - id: 1
+      name: title
+      label: Photo Upload For Virtual Assessment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - File Upload Forms
+      - Other
+      required: true
+    - id: 3
+      name: description
+      label: Description
+      hint: Enter a short description of the item.
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: photo
+      label: Photo
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: upload
+      label: Upload
+      hint: null
+      type: select_multiple
+      options:
+      - Photo 1
+      - Photo 2
+      - Photo 3
+      required: true
+    - id: 6
+      name: note
+      label: Note
+      hint: Additional information about the item.
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: description2
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: file
+      label: File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true

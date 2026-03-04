@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Knock Down Experience Survey
+    pages:
+    - id: 1
+      name: customer_satisfaction
+      label: Customer Satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 2
+      name: safety_concerns
+      label: Safety Concerns
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: improvement_opportunities
+      label: Improvement Opportunities
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Media Post Feedback Survey
+    pages:
+    - id: 1
+      name: post_id
+      label: Post ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: rating
+      label: Rating
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 4
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submitted
+      label: Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false

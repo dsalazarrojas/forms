@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: New Resident Vehicle Registration Form
+    pages:
+    - id: 1
+      name: resident_vehicle_details
+      label: resident_vehicle_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: resident_info
+      label: resident_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: documentation
+      label: documentation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: parking_details
+      label: parking_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: vehicle_image
+      label: vehicle_image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: vehicle_registration_form
+      label: vehicle_registration_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: parking_application
+      label: parking_application
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: parking_application_fee
+      label: parking_application_fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: parking_application_fee_amount
+      label: parking_application_fee_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: parking_application_fee_currency
+      label: parking_application_fee_currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - CNY
+      required: false
+    - id: 11
+      name: parking_application_fee_discount
+      label: parking_application_fee_discount
+      hint: null
+      type: number
+      options: []
+      required: false

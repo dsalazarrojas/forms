@@ -1,0 +1,144 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Research Paper Submission Form
+    pages:
+    - id: 1
+      name: paper_submission_intro
+      label: Academic Research Paper Submission
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: submitter_name
+      label: Submitting Author Name
+      hint: Full name of the primary author submitting the paper
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: submitter_email
+      label: Submitting Author Email
+      hint: Professional email for correspondence about this submission
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: submitter_institution
+      label: Submitting Author Institution
+      hint: University or organization affiliation of the submitting author
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: paper_title
+      label: Paper Title
+      hint: Full title of the research paper being submitted
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: paper_abstract
+      label: Abstract
+      hint: Concise summary of the research paper (typically 150-300 words)
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: research_field
+      label: Research Field
+      hint: Primary field or discipline of the research
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: keywords
+      label: Keywords
+      hint: 3-5 keywords that describe the main topics of the paper
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: paper_type
+      label: Type of Paper
+      hint: What type of paper is this?
+      type: select_one
+      options:
+      - Original research
+      - Review article
+      - Case study
+      - Methodology paper
+      - Short communication
+      - Conference paper
+      - Other
+      required: true
+    - id: 10
+      name: co_authors
+      label: Co-authors
+      hint: List all co-authors with their institutions
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: word_count
+      label: Word Count
+      hint: Approximate word count of the manuscript
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: funding_sources
+      label: Funding Sources
+      hint: List any funding sources that supported this research
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: conflict_of_interest
+      label: Conflict of Interest Statement
+      hint: Declare any potential conflicts of interest
+      type: select_one
+      options:
+      - No conflicts of interest
+      - Have declared in manuscript
+      - Have potential conflicts
+      - Need to clarify
+      required: true
+    - id: 14
+      name: ethical_approval
+      label: Ethical Approval
+      hint: Was ethical approval obtained for this research (if human subjects involved)?
+      type: select_one
+      options:
+      - Yes, approved
+      - Not applicable
+      - In process
+      - Not required
+      required: true
+    - id: 15
+      name: manuscript_file_upload
+      label: Manuscript File Upload
+      hint: Upload the main manuscript file (PDF, DOC, or DOCX format)
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: supplementary_materials
+      label: Supplementary Materials
+      hint: Upload any supplementary materials (figures, tables, datasets, etc.)
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submission_certification
+      label: Submission Certification
+      hint: I certify that this submission is original work and has not been published
+        elsewhere
+      type: select_one
+      options:
+      - Yes, I certify
+      - Yes, with minor revisions from prior work
+      - No, it has been published elsewhere
+      - In press elsewhere
+      required: true

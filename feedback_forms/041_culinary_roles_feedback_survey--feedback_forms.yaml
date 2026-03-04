@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: CulinaryRolesFeedbackSurvey
+    pages:
+    - id: 1
+      name: surveyintroduction
+      label: What is your current culinary background?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: positioninrestaurant
+      label: What is your current position in the kitchen?
+      hint: null
+      type: select_multiple
+      options:
+      - Pastry
+      - Line cook
+      - Sous chef
+      - Chef de Partie
+      - Executive Chef
+      - Owner/Operator
+      - Manager/ Director
+      - Food blogger
+      - Other
+      required: false
+    - id: 3
+      name: experienceyears
+      label: How many years of experience do you have in the culinary industry?
+      hint: Please enter a number
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: feedback
+      label: feedback
+      hint: Please provide feedback about our service
+      type: note
+      options: []
+      required: false

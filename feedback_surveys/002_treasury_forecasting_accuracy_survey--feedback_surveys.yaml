@@ -1,0 +1,85 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Treasury Forecasting Accuracy Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: forecasting_methods
+      label: Forecasting Methods
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Automated''}'
+      - '{''value'': ''In-house''}'
+      - '{''value'': ''Manual''}'
+      required: false
+    - id: 3
+      name: accuracy_level
+      label: Forecasting Accuracy Level
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''High''}'
+      - '{''value'': ''Medium''}'
+      - '{''value'': ''Low''}'
+      required: false
+    - id: 4
+      name: challenges
+      label: Challenges
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Cash flow management''}'
+      - '{''value'': ''Inaccurate forecasting''}'
+      - '{''value'': ''Lack of visibility''}'
+      - '{''value'': ''Other (please specify)''}'
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: finance_team_feedback
+      label: Finance Team Feedback
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Strongly Agree''}'
+      - '{''value'': ''Somewhat Agree''}'
+      - '{''value'': ''Neutral''}'
+      - '{''value'': ''Somewhat Disagree''}'
+      - '{''value'': ''Strongly Disagree''}'
+      required: false
+    - id: 7
+      name: non_finance_team_feedback
+      label: Non-finance Team Feedback
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Strongly Agree''}'
+      - '{''value'': ''Somewhat Agree''}'
+      - '{''value'': ''Neutral''}'
+      - '{''value'': ''Somewhat Disagree''}'
+      - '{''value'': ''Strongly Disagree''}'
+      required: false

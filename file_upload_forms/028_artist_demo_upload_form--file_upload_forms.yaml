@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Artist Demo Upload Form
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- Artist Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: artist_name
+      label: Artist or Band Name
+      hint: How you want to be credited
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: artist_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: artist_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: artist_location
+      label: Location or City
+      hint: Where are you based?
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: artist_website
+      label: Website or Social Media
+      hint: Link to your online presence
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: section_header_2
+      label: -- Artist Profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: primary_genre
+      label: Primary Genre
+      hint: Main music genre
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: secondary_genres
+      label: Secondary Genres
+      hint: Other genres you work with
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: artist_bio
+      label: Artist Biography
+      hint: Brief bio (100-200 words)
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: years_active
+      label: Years Active
+      hint: How long have you been making music?
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: section_header_3
+      label: -- Demo Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: demo_title
+      label: Demo Title
+      hint: Name of this demo project
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: number_of_tracks
+      label: Number of Tracks in Demo
+      hint: How many songs are included?
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: demo_duration
+      label: Total Duration of Demo
+      hint: Total length in minutes
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: section_header_4
+      label: -- Demo Upload --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: demo_file_upload
+      label: Demo File Upload
+      hint: Upload your demo MP3 or audio file
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: streaming_link
+      label: Streaming Link or URL
+      hint: Link to Spotify, SoundCloud, YouTube, etc.
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_header_5
+      label: -- Track Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: track_listing
+      label: Track Listing and Credits
+      hint: List of songs with composer/producer credits
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: production_notes
+      label: Production Notes
+      hint: Information about how the demo was produced
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: section_header_6
+      label: -- Submission Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: submission_purpose
+      label: Purpose of This Submission
+      hint: Why are you submitting this demo?
+      type: select_one
+      options:
+      - Label Review
+      - Festival or Venue Booking
+      - Collaboration Opportunity
+      - General Review
+      - Competition Entry
+      - Licensing Inquiry
+      - Other
+      required: true
+    - id: 24
+      name: copyright_confirmation
+      label: I Confirm I Hold Copyright to This Work
+      hint: You own the rights to this demo
+      type: select_one
+      options:
+      - Yes, I own the rights
+      - No, I do not own the rights
+      required: true
+    - id: 25
+      name: submission_agreement
+      label: I Agree to the Submission Terms
+      hint: Accept submission guidelines
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true

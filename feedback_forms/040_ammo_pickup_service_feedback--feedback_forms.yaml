@@ -1,0 +1,430 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ammo Pickup Service Feedback
+    pages:
+    - id: 1
+      name: section_order_info
+      label: -- Order Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: order_number
+      label: Order Number
+      hint: From confirmation
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: pickup_date
+      label: Pickup Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: pickup_time
+      label: Pickup Time
+      hint: Approximate time
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: pickup_location
+      label: Pickup Location
+      hint: Which location
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_customer_info
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: email
+      label: Email Address
+      hint: For follow-up
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: customer_type
+      label: Customer Type
+      hint: null
+      type: select_one
+      options:
+      - First-time customer
+      - Returning customer
+      - Regular customer
+      - Member
+      required: false
+    - id: 12
+      name: section_pickup_experience
+      label: -- Pickup Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: scheduling_ease
+      label: Ease of Scheduling Pickup
+      hint: 1 being very difficult and 5 being very easy
+      type: select_one
+      options:
+      - 1 - Very Difficult
+      - 2 - Difficult
+      - 3 - Neutral
+      - 4 - Easy
+      - 5 - Very Easy
+      required: true
+    - id: 14
+      name: notification_quality
+      label: Quality of Pickup Notifications
+      hint: 1 being very poor and 5 being excellent
+      type: select_one
+      options:
+      - 1 - Very Poor
+      - 2 - Poor
+      - 3 - Neutral
+      - 4 - Good
+      - 5 - Excellent
+      required: false
+    - id: 15
+      name: wait_time
+      label: Wait Time at Pickup
+      hint: null
+      type: select_one
+      options:
+      - No wait
+      - Less than 5 minutes
+      - 5-10 minutes
+      - 11-20 minutes
+      - More than 20 minutes
+      required: true
+    - id: 16
+      name: wait_time_satisfaction
+      label: Satisfaction with Wait Time
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: false
+    - id: 17
+      name: section_staff_service
+      label: -- Staff Service --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: staff_friendliness
+      label: Staff Friendliness
+      hint: null
+      type: select_one
+      options:
+      - Very friendly
+      - Friendly
+      - Neutral
+      - Unfriendly
+      - Very unfriendly
+      required: true
+    - id: 19
+      name: staff_knowledge
+      label: Staff Knowledge
+      hint: About products and services
+      type: select_one
+      options:
+      - Very knowledgeable
+      - Knowledgeable
+      - Neutral
+      - Not knowledgeable
+      - Very unknowledgeable
+      required: false
+    - id: 20
+      name: staff_efficiency
+      label: Staff Efficiency
+      hint: Speed of service
+      type: select_one
+      options:
+      - Very efficient
+      - Efficient
+      - Neutral
+      - Inefficient
+      - Very inefficient
+      required: true
+    - id: 21
+      name: staff_professionalism
+      label: Staff Professionalism
+      hint: null
+      type: select_one
+      options:
+      - Very professional
+      - Professional
+      - Neutral
+      - Unprofessional
+      - Very unprofessional
+      required: false
+    - id: 22
+      name: section_order_accuracy
+      label: -- Order Accuracy --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: order_correct
+      label: Was Your Order Correct
+      hint: null
+      type: select_one
+      options:
+      - Yes - Completely correct
+      - Yes - Minor issue
+      - No - Wrong items
+      - No - Missing items
+      - No - Damaged items
+      required: true
+    - id: 24
+      name: order_issue_detail
+      label: Describe Any Issues
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: packaging_condition
+      label: Condition of Packaging
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      required: false
+    - id: 26
+      name: product_quality
+      label: Product Quality
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very poor
+      required: false
+    - id: 27
+      name: section_facility
+      label: -- Pickup Facility --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: facility_cleanliness
+      label: Facility Cleanliness
+      hint: null
+      type: select_one
+      options:
+      - Very clean
+      - Clean
+      - Neutral
+      - Dirty
+      - Very dirty
+      required: false
+    - id: 29
+      name: facility_organization
+      label: Facility Organization
+      hint: Layout and signage
+      type: select_one
+      options:
+      - Very well organized
+      - Well organized
+      - Neutral
+      - Poorly organized
+      - Very poorly organized
+      required: false
+    - id: 30
+      name: parking_availability
+      label: Parking Availability
+      hint: null
+      type: select_one
+      options:
+      - Plenty of parking
+      - Adequate parking
+      - Limited parking
+      - Poor parking
+      - No parking available
+      required: false
+    - id: 31
+      name: accessibility
+      label: Accessibility
+      hint: For disabled persons
+      type: select_one
+      options:
+      - Very accessible
+      - Accessible
+      - Neutral
+      - Not accessible
+      - Very inaccessible
+      required: false
+    - id: 32
+      name: section_value
+      label: -- Value --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 33
+      name: price_satisfaction
+      label: Price Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 34
+      name: value_for_money
+      label: Value for Money
+      hint: null
+      type: select_one
+      options:
+      - Excellent value
+      - Good value
+      - Fair value
+      - Poor value
+      - Very poor value
+      required: true
+    - id: 35
+      name: section_overall
+      label: -- Overall Satisfaction --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 36
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: With pickup service
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 37
+      name: likelihood_recommend
+      label: Likelihood to Recommend
+      hint: 0 being not at all likely and 10 being extremely likely
+      type: select_one
+      options:
+      - 0-6 - Not likely
+      - 7-8 - Likely
+      - 9-10 - Extremely likely
+      required: true
+    - id: 38
+      name: likelihood_return
+      label: Likelihood to Use Again
+      hint: null
+      type: select_one
+      options:
+      - Definitely will
+      - Probably will
+      - Might or might not
+      - Probably will not
+      - Definitely will not
+      required: true
+    - id: 39
+      name: compared_to_competitors
+      label: How Does This Compare to Competitors
+      hint: null
+      type: select_one
+      options:
+      - Much better
+      - Somewhat better
+      - About the same
+      - Somewhat worse
+      - Much worse
+      - First time using
+      required: false
+    - id: 40
+      name: section_feedback
+      label: -- Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 41
+      name: best_aspect
+      label: What Did You Like Best
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 42
+      name: areas_improvement
+      label: What Could Be Improved
+      hint: Suggestions
+      type: text
+      options: []
+      required: false
+    - id: 43
+      name: additional_services
+      label: What Additional Services Would You Like
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 44
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 45
+      name: contact_permission
+      label: May We Contact You for Follow-up
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false

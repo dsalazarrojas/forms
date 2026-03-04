@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: e_commerce_assistance_survey
+    pages:
+    - id: 1
+      name: general_info
+      label: General Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: feedback
+      label: Feedback
+      hint: null
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Somewhat Dissatisfied
+      - Neutral
+      - Somewhat Satisfied
+      - Very Satisfied
+      required: true
+    - id: 4
+      name: purchase_experience
+      label: purchase_experience
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 5
+      name: communication_channels
+      label: communication_channels
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - Live Chat
+      - In-app
+      required: false
+    - id: 6
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: suggestions
+      label: suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email_open
+      label: email_open
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: purchase_value
+      label: purchase_value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: purchase_amount
+      label: purchase_amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: time_spent
+      label: time_spent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: purchase_channel
+      label: purchase_channel
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - In-store
+      - Social Media
+      required: false
+    - id: 15
+      name: purchase_type
+      label: purchase_type
+      hint: null
+      type: select_one
+      options:
+      - Product
+      - Service
+      - Other
+      required: false
+    - id: 16
+      name: product_name
+      label: product_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: product_type
+      label: product_type
+      hint: null
+      type: select_one
+      options:
+      - Electronics
+      - Clothing
+      - Home Goods
+      - Books
+      - Furniture
+      required: false
+    - id: 18
+      name: product_price_range
+      label: product_price_range
+      hint: null
+      type: select_multiple
+      options:
+      - $0-$50
+      - $50-$100
+      - $100-$200
+      - More than $200
+      required: false
+    - id: 19
+      name: order_id
+      label: order_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: user_info
+      label: user_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: product_info
+      label: product_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: purchase_date
+      label: purchase_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: purchase_time
+      label: purchase_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: email_sent
+      label: email_sent
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Not Applicable
+      required: true
+    - id: 25
+      name: follow_up
+      label: follow_up
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Not Applicable
+      required: false

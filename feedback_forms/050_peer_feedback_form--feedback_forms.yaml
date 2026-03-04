@@ -1,0 +1,62 @@
+inputSchema:
+  type: object
+  properties:
+    title: Peer Feedback Form
+    pages:
+    - id: 1
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: feedback_question_1
+      label: How likely is this peer to be a future collaborator?
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 3
+      name: feedback_question_2
+      label: How well did you find our team's communication effective?
+      hint: null
+      type: select_multiple
+      options:
+      - Not very effective
+      - Somewhat effective
+      - Very effective
+      required: false
+    - id: 4
+      name: feedback_question_3
+      label: What are some areas for improvement?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: feedback_question_4
+      label: What are some areas where this peer excels?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: overall_comments
+      label: Overall Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

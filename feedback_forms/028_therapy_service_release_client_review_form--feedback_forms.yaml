@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Therapy Service Release & Client Review Form
+    pages:
+    - id: 1
+      name: client_review
+      label: Client Review
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: testimonial_release
+      label: Testimonial Release
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      - '{''value'': ''Undecided''}'
+      required: false
+    - id: 4
+      name: share_testimonial
+      label: Share Testimonial
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Publicly''}'
+      - '{''value'': ''Privately''}'
+      - '{''value'': ''On request''}'
+      required: false
+    - id: 5
+      name: share_on_facebook
+      label: Share on Facebook
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: share_on_twitter
+      label: Share on Twitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: Date
+      hint: mm/dd/yyyy
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: Time
+      hint: "hh:mm am/pm"
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: client_consent
+      label: Client Consent
+      hint: null
+      type: text
+      options: []
+      required: false

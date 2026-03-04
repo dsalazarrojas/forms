@@ -1,0 +1,222 @@
+inputSchema:
+  type: object
+  properties:
+    title: Games Attendance Feedback Survey
+    pages:
+    - id: 1
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: game_title
+      label: Game Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: game_attendee_rating
+      label: Game Attendee Rating
+      hint: null
+      type: select_multiple
+      options:
+      - 1/5
+      - 2/5
+      - 3/5
+      - 4/5
+      - 5/5
+      required: false
+    - id: 4
+      name: feedback_question_1
+      label: What did you think about the event?
+      hint: null
+      type: select_one
+      options:
+      - I had a great time
+      - I had a good time
+      - It was okay
+      - I had a bad time
+      - I did not attend
+      required: false
+    - id: 5
+      name: feedback_question_2
+      label: Were there any issues that prevented you from fully enjoying the event?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Unable to attend
+      required: false
+    - id: 6
+      name: event_organizer
+      label: Event Organizer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: event_location
+      label: Event Location
+      hint: null
+      type: select_one
+      options:
+      - On-site
+      - Off-site
+      required: false
+    - id: 8
+      name: event_organizers_name
+      label: Event Organizer's Name
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: event_date2
+      label: Event Date 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: event_duration
+      label: Event Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: event_organizer2
+      label: Event Organizer 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: event_organizer3
+      label: Event Organizer 3
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: game_type
+      label: Game Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: feedback_question_1
+      label: What did you think about the game?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: feedback_question_2
+      label: Were there any rules or regulations that prevented you from fully enjoying
+        the event?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: game_attendee_number
+      label: Number of Games Attended
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: game_organizer2
+      label: Game Organizer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: game_organizer3
+      label: Game Organizer 3
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: game_organizer4
+      label: Game Organizer 4
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: event_organizer5
+      label: Event Organizer 5
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: event_organizer6
+      label: Event Organizer 6
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: game_organizer
+      label: Game Organizer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

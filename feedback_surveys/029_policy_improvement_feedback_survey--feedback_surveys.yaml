@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: policy_improvement_feedback_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: policy_areas
+      label: policy_areas
+      hint: null
+      type: select_multiple
+      options:
+      - Policy Area 1
+      - Policy Area 2
+      required: false
+    - id: 3
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: suggested_improvements
+      label: suggested_improvements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: additional_feedback
+      label: additional_feedback
+      hint: null
+      type: text
+      options: []
+      required: false

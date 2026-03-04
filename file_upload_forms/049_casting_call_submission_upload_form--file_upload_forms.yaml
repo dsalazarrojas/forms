@@ -1,0 +1,180 @@
+inputSchema:
+  type: object
+  properties:
+    title: Casting Call Submission Upload Form
+    pages:
+    - id: 1
+      name: submission_header_section
+      label: -- Submission Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: submission_date
+      label: Submission Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: casting_call_id
+      label: Casting Call ID or Reference
+      hint: From the original casting announcement
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: production_title
+      label: Production Title
+      hint: Name of project you are auditioning for
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: applicant_information_section
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: full_name
+      label: Full Name
+      hint: Legal or professional name
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: city_state
+      label: City and State
+      hint: Where you are based
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: role_applied_section
+      label: -- Role Applied For --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: primary_role
+      label: Primary Role Applied For
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: secondary_roles
+      label: Secondary Role Options
+      hint: Other roles you are interested in
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: materials_submission_section
+      label: -- Materials Submission --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: headshot_upload
+      label: Headshot Photo
+      hint: Upload professional headshot (JPG/PNG/PDF)
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: resume_upload
+      label: Resume or CV
+      hint: Upload acting resume (PDF/DOC/DOCX)
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: reel_video
+      label: Demo Reel or Video Link
+      hint: YouTube, Vimeo, or similar platform link
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: additional_photos
+      label: Additional Photos
+      hint: Upload up to 3 additional photos
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: experience_section
+      label: -- Experience Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: years_of_experience
+      label: Years of Acting Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: previous_work
+      label: Previous Film/TV/Theater Credits
+      hint: List major credits or projects
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: training_section
+      label: -- Training and Skills --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: special_skills
+      label: Special Skills or Talents
+      hint: Languages, accents, stunts, sports, etc.
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: representation_section
+      label: -- Representation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: agent_contact
+      label: Agent or Manager Contact (if applicable)
+      hint: Name, agency, phone, email
+      type: text
+      options: []
+      required: false

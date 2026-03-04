@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Creative Contributions Survey
+    pages:
+    - id: 1
+      name: creative_contributions_survey
+      label: creative_contributions_survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Feedback Surveys
+      - General Feedback
+      - Product Feedback
+      required: true
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 4
+      name: form_id
+      label: form_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: output_file
+      label: output_file
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: jotform_form_id
+      label: jotform_form_id
+      hint: null
+      type: number
+      options: []
+      required: false

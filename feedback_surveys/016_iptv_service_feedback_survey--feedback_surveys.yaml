@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: iptv_service_feedback_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: rating_channel
+      label: How often do you watch TV channels?
+      hint: null
+      type: select_multiple
+      options:
+      - Channel A
+      - Channel B
+      - Channel C
+      required: false
+    - id: 3
+      name: rating_quality
+      label: How would you rate the quality of the channels?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 4
+      name: rating_content
+      label: How would you rate the content of the channels?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 5
+      name: rating_service
+      label: How would you rate the service of the IPTV provider?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 6
+      name: feedback_comments
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: rating_idea
+      label: Do you have any ideas for improvement?
+      hint: null
+      type: select_multiple
+      options:
+      - Option A
+      - Option B
+      - Option C
+      required: false
+    - id: 8
+      name: rating_watching_frequency
+      label: How many hours do you watch IPTV per day?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: rating_satisfaction
+      label: How satisfied are you with IPTV?
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: false
+    - id: 10
+      name: rating_why
+      label: Why are you not watching IPTV?
+      hint: null
+      type: select_one
+      options:
+      - Option A
+      - Option B
+      - Option C
+      required: false
+    - id: 11
+      name: rating_device
+      label: What device do you use to watch IPTV?
+      hint: null
+      type: select_multiple
+      options:
+      - Option A
+      - Option B
+      - Option C
+      required: false
+    - id: 12
+      name: rating_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false

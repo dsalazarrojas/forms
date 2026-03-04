@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dynamic Presentation Feedback
+    pages:
+    - id: 1
+      name: presentation_id
+      label: Session Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: speaker_id
+      label: Speaker Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: session_type
+      label: Session Type
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 4
+      name: session_rating
+      label: Rating (1-5)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: session_feedback
+      label: Session Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: speaker_feedback
+      label: Speaker Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: session_improvement
+      label: Session Improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: speaker_improvement
+      label: Speaker Improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: will_attend_again
+      label: Will Attend Again
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

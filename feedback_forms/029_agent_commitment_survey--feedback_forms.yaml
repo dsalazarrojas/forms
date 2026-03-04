@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agent Commitment Survey
+    pages:
+    - id: 1
+      name: header
+      label: -- Agent Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: agent_name
+      label: Agent name
+      hint: Full name of the agent
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: role
+      label: Role
+      hint: Agent role or title
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: tenure_months
+      label: Tenure months
+      hint: Number of months with the company
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: commitment_level
+      label: Current commitment level
+      hint: Rate your commitment to goals
+      type: select_one
+      options:
+      - Highly committed
+      - Committed
+      - Neutral
+      - Disengaged
+      required: true
+    - id: 6
+      name: alignment_with_goals
+      label: Alignment with organizational goals
+      hint: How aligned do you feel with goals
+      type: select_one
+      options:
+      - Strongly aligned
+      - Aligned
+      - Neutral
+      - Not aligned
+      required: true
+    - id: 7
+      name: barriers_to_commitment
+      label: Barriers to commitment
+      hint: Identify factors limiting commitment
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: support_needed
+      label: Support needed from management
+      hint: Describe any resources or help needed
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: recommended_actions
+      label: Recommended actions to improve commitment
+      hint: Suggestions for leadership
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: willing_to_participate_in_followup
+      label: Willing to participate in follow up
+      hint: Choose yes if open to further discussion
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

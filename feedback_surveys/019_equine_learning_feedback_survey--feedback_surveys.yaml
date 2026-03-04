@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Equine Learning Feedback Survey
+    pages:
+    - id: 1
+      name: first_session
+      label: Was the equine learning session helpful
+      hint: null
+      type: select_multiple
+      options:
+      - Session was helpful
+      - Session was somewhat helpful
+      - Session was not helpful
+      required: true
+    - id: 2
+      name: instructor_performance
+      label: Instructor's performance
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Poor
+      - Very poor
+      required: true
+    - id: 3
+      name: instruction
+      label: Quality of instruction
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: facilities
+      label: Facilities and equipment
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: materials
+      label: Materials and resources
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Poor
+      - Very poor
+      required: true
+    - id: 6
+      name: overall_experience
+      label: Overall experience
+      hint: null
+      type: select_multiple
+      options:
+      - Very good
+      - Somewhat good
+      - Neutral
+      - Somewhat bad
+      - Very bad
+      required: true
+    - id: 7
+      name: will_recommend
+      label: Will you recommend this equine learning session
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 8
+      name: session_date
+      label: Session date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: session_time
+      label: Session time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: session_duration
+      label: Session duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: note
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Participant email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: phone
+      label: Participant phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: name
+      label: Participant name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: program
+      label: Program name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: session_number
+      label: Session number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: feedback_frequency
+      label: How often do you attend equine learning sessions
+      hint: null
+      type: select_one
+      options:
+      - Once or twice
+      - More than once
+      - Never
+      - Do not know
+      required: true
+    - id: 18
+      name: attended_other_sessions
+      label: Have you attended other equine learning sessions
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Do not know
+      required: true
+    - id: 19
+      name: will_attend_other_sessions
+      label: Will you attend other equine learning sessions
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Do not know
+      required: true
+    - id: 20
+      name: other_sessions
+      label: Why do you plan to attend other equine learning sessions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: instructor_qualifications
+      label: Instructor qualifications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: instructor_feedback
+      label: Comments on the instructor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: facility_condition
+      label: Facility condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: facility_location
+      label: Facility location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: facility_rating
+      label: Facility rating
+      hint: null
+      type: number
+      options: []
+      required: false

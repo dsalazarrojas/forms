@@ -1,0 +1,255 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Artisan Market Feedback Survey Form
+    pages:
+      - id: 1
+        name: section_header_1
+        label: -- Respondent Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: visitor_type
+        label: Are You a Visitor or Vendor?
+        hint: What is your role at this market?
+        type: select_one
+        options:
+          - Visitor - Browsing Only
+          - Visitor - Made Purchase
+          - Vendor - Displaying Products
+          - Vendor - Selling Products
+          - Staff or Organizer
+        required: true
+      - id: 3
+        name: respondent_name
+        label: Your Name (Optional)
+        hint: Your first and last name
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: email_address
+        label: Email Address (Optional)
+        hint: For follow-up communications
+        type: email
+        options: []
+        required: false
+      - id: 5
+        name: visit_date
+        label: Today's Date
+        hint: When are you visiting the market?
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: section_header_2
+        label: -- Market Experience --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: first_time_visitor
+        label: Is This Your First Time at This Market?
+        hint: Have you attended before?
+        type: select_one
+        options:
+          - Yes, first time
+          - No, I have visited before
+          - Regular visitor
+        required: true
+      - id: 8
+        name: visit_frequency
+        label: How Often Do You Attend This Market?
+        hint: Your attendance frequency
+        type: select_one
+        options:
+          - First time
+          - Occasionally
+          - Quarterly
+          - Monthly
+          - Multiple times per month
+          - Weekly
+        required: false
+      - id: 9
+        name: market_atmosphere
+        label: How Would You Rate the Market Atmosphere?
+        hint: Overall environment and ambiance
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+        required: true
+      - id: 10
+        name: section_header_3
+        label: -- Product and Vendor Feedback --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: product_variety
+        label: Product Variety and Quality
+        hint: Are there enough product options and quality items?
+        type: select_one
+        options:
+          - Excellent selection and quality
+          - Good variety and quality
+          - Adequate
+          - Limited variety or quality
+          - Poor selection
+        required: true
+      - id: 12
+        name: vendor_friendliness
+        label: Vendor Friendliness and Service
+        hint: How helpful and welcoming were vendors?
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+        required: true
+      - id: 13
+        name: pricing_fairness
+        label: Pricing Fairness and Value
+        hint: Do prices represent good value?
+        type: select_one
+        options:
+          - Very fair and good value
+          - Fair prices
+          - Reasonable
+          - Slightly overpriced
+          - Significantly overpriced
+        required: false
+      - id: 14
+        name: section_header_4
+        label: -- Logistics and Facilities --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 15
+        name: facility_condition
+        label: Facility Condition and Cleanliness
+        hint: Overall condition of the venue
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+        required: true
+      - id: 16
+        name: parking_access
+        label: Parking and Access
+        hint: Ease of parking and entrance access
+        type: select_one
+        options:
+          - Excellent - easy parking and access
+          - Good - adequate parking
+          - Average
+          - Difficult parking
+          - Very poor access
+        required: false
+      - id: 17
+        name: signage_navigation
+        label: Signage and Navigation
+        hint: Easy to find vendors and products?
+        type: select_one
+        options:
+          - Very clear and easy
+          - Clear
+          - Adequate
+          - Confusing
+          - Very confusing
+        required: false
+      - id: 18
+        name: section_header_5
+        label: -- Overall Satisfaction --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: overall_satisfaction
+        label: Overall Satisfaction with Market
+        hint: Rate your overall experience
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+        required: true
+      - id: 20
+        name: likelihood_return
+        label: Likelihood to Return
+        hint: Will you come back to this market?
+        type: select_one
+        options:
+          - Very Likely
+          - Likely
+          - Uncertain
+          - Unlikely
+          - Very Unlikely
+        required: true
+      - id: 21
+        name: section_header_6
+        label: -- Feedback and Suggestions --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 22
+        name: improvement_areas
+        label: What Could Be Improved?
+        hint: Suggestions for enhancement
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: favorite_aspects
+        label: What Did You Enjoy Most?
+        hint: Best parts of your market experience
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: additional_products
+        label: Products or Services You Would Like to See
+        hint: Items or services you wish were available
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: recommendation
+        label: Would You Recommend This Market to Friends?
+        hint: Final recommendation
+        type: select_one
+        options:
+          - Yes, definitely
+          - Yes, probably
+          - Maybe
+          - No, probably not
+          - No, definitely not
+        required: true

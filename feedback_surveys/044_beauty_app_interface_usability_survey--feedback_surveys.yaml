@@ -1,0 +1,211 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Beauty App Interface Usability Survey
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Your Name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: email_address
+        label: Email Address
+        hint: For follow-up
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: age_group
+        label: Age Group
+        hint: Your age range
+        type: select_one
+        options:
+          - Under 18
+          - 18-24
+          - 25-34
+          - 35-44
+          - 45-54
+          - 55-64
+          - 65+
+        required: true
+      - id: 4
+        name: tech_proficiency
+        label: Technology Proficiency
+        hint: How tech savvy are you
+        type: select_one
+        options:
+          - Very Tech Savvy
+          - Somewhat Tech Savvy
+          - Average
+          - Not Very Tech Savvy
+        required: true
+      - id: 5
+        name: app_usage_frequency
+        label: How Often Do You Use the App
+        hint: Usage frequency
+        type: select_one
+        options:
+          - Multiple Times Daily
+          - Once Daily
+          - Several Times Weekly
+          - Once Weekly
+          - Rarely
+        required: true
+      - id: 6
+        name: overall_satisfaction
+        label: Overall Satisfaction
+        hint: Rate your experience
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+        required: true
+      - id: 7
+        name: ease_of_navigation
+        label: Ease of Navigation
+        hint: How easy to navigate
+        type: select_one
+        options:
+          - Very Easy
+          - Easy
+          - Neutral
+          - Difficult
+          - Very Difficult
+        required: true
+      - id: 8
+        name: visual_design
+        label: Visual Design Rating
+        hint: How does it look
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Poor
+          - Very Poor
+        required: true
+      - id: 9
+        name: loading_speed
+        label: Loading Speed
+        hint: How fast is the app
+        type: select_one
+        options:
+          - Very Fast
+          - Fast
+          - Average
+          - Slow
+          - Very Slow
+        required: true
+      - id: 10
+        name: feature_discoverability
+        label: Feature Discoverability
+        hint: Easy to find features
+        type: select_one
+        options:
+          - Very Easy
+          - Easy
+          - Neutral
+          - Difficult
+          - Very Difficult
+        required: true
+      - id: 11
+        name: checkout_experience
+        label: Checkout Experience
+        hint: How was checkout
+        type: select_one
+        options:
+          - Very Smooth
+          - Smooth
+          - Neutral
+          - Frustrating
+          - Very Frustrating
+          - Have Not Used
+        required: true
+      - id: 12
+        name: search_functionality
+        label: Search Functionality
+        hint: How well does search work
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Poor
+          - Very Poor
+          - Have Not Used
+        required: true
+      - id: 13
+        name: favorite_features
+        label: Favorite Features
+        hint: What do you like
+        type: select_multiple
+        options:
+          - Product Search
+          - Virtual Try-On
+          - Reviews
+          - Recommendations
+          - Loyalty Program
+          - Quick Reorder
+          - Tutorials
+          - None
+        required: true
+      - id: 14
+        name: areas_for_improvement
+        label: Areas Needing Improvement
+        hint: What needs work
+        type: text
+        options: []
+        required: true
+      - id: 15
+        name: bug_encountered
+        label: Have You Encountered Bugs
+        hint: Any issues
+        type: select_one
+        options:
+          - Yes - Frequently
+          - Yes - Occasionally
+          - No - Never
+        required: true
+      - id: 16
+        name: bug_description
+        label: Bug Description
+        hint: Describe any bugs
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: would_recommend
+        label: Would You Recommend This App
+        hint: To others
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Not Sure
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 18
+        name: additional_feedback
+        label: Additional Feedback
+        hint: Any other comments
+        type: text
+        options: []
+        required: false

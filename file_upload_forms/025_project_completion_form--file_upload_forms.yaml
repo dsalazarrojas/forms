@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Project Completion Form
+    pages:
+    - id: 1
+      name: project_completion_form
+      label: Project Completion Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_fields
+      label: Form Fields
+      hint: Select the fields to fill out
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: form_file
+      label: Form File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_description
+      label: Form Description
+      hint: null
+      type: text
+      options: []
+      required: false

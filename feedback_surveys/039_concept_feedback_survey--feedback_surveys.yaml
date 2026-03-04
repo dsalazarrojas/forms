@@ -1,0 +1,242 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Concept Feedback Survey
+    pages:
+      - id: 1
+        name: survey_id
+        label: Survey ID
+        hint: Unique survey identifier
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: survey_date
+        label: Survey Date
+        hint: Date of survey
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: respondent_name
+        label: Respondent Name
+        hint: Your name
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: email_address
+        label: Email Address
+        hint: Your email address
+        type: email
+        options: []
+        required: false
+      - id: 5
+        name: respondent_type
+        label: Respondent Type
+        hint: Select your role
+        type: select_one
+        options:
+          - Customer
+          - Employee
+          - Stakeholder
+          - Partner
+          - Investor
+          - Other
+        required: true
+      - id: 6
+        name: concept_name
+        label: Concept Name
+        hint: Name of concept being reviewed
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: concept_category
+        label: Concept Category
+        hint: Select concept category
+        type: select_one
+        options:
+          - Product Idea
+          - Service Idea
+          - Feature Enhancement
+          - Marketing Campaign
+          - Process Improvement
+          - Business Model
+          - Other
+        required: true
+      - id: 8
+        name: first_impression
+        label: First Impression
+        hint: Rate your first impression
+        type: select_one
+        options:
+          - 5 - Excellent
+          - 4 - Good
+          - 3 - Average
+          - 2 - Poor
+          - 1 - Very Poor
+        required: true
+      - id: 9
+        name: concept_clarity
+        label: Concept Clarity
+        hint: How clear is the concept
+        type: select_one
+        options:
+          - 5 - Very Clear
+          - 4 - Clear
+          - 3 - Somewhat Clear
+          - 2 - Unclear
+          - 1 - Very Unclear
+        required: true
+      - id: 10
+        name: perceived_value
+        label: Perceived Value
+        hint: Rate the perceived value
+        type: select_one
+        options:
+          - 5 - Very High Value
+          - 4 - High Value
+          - 3 - Moderate Value
+          - 2 - Low Value
+          - 1 - No Value
+        required: true
+      - id: 11
+        name: uniqueness_rating
+        label: Uniqueness Rating
+        hint: How unique is this concept
+        type: select_one
+        options:
+          - 5 - Very Unique
+          - 4 - Unique
+          - 3 - Somewhat Unique
+          - 2 - Common
+          - 1 - Not Unique
+        required: true
+      - id: 12
+        name: feasibility_rating
+        label: Feasibility Rating
+        hint: How feasible is implementation
+        type: select_one
+        options:
+          - 5 - Very Feasible
+          - 4 - Feasible
+          - 3 - Somewhat Feasible
+          - 2 - Difficult
+          - 1 - Not Feasible
+        required: true
+      - id: 13
+        name: market_appeal
+        label: Market Appeal
+        hint: Rate the market appeal
+        type: select_one
+        options:
+          - 5 - Very High Appeal
+          - 4 - High Appeal
+          - 3 - Moderate Appeal
+          - 2 - Low Appeal
+          - 1 - No Appeal
+        required: true
+      - id: 14
+        name: likelihood_to_use
+        label: Likelihood to Use
+        hint: How likely would you use this
+        type: select_one
+        options:
+          - 5 - Definitely Would Use
+          - 4 - Probably Would Use
+          - 3 - Might Use
+          - 2 - Probably Would Not Use
+          - 1 - Definitely Would Not Use
+        required: true
+      - id: 15
+        name: likelihood_to_recommend
+        label: Likelihood to Recommend
+        hint: How likely would you recommend
+        type: select_one
+        options:
+          - 5 - Definitely Would Recommend
+          - 4 - Probably Would Recommend
+          - 3 - Might Recommend
+          - 2 - Probably Would Not Recommend
+          - 1 - Definitely Would Not Recommend
+        required: true
+      - id: 16
+        name: strengths
+        label: Concept Strengths
+        hint: What are the strengths
+        type: text
+        options: []
+        required: true
+      - id: 17
+        name: weaknesses
+        label: Concept Weaknesses
+        hint: What are the weaknesses
+        type: text
+        options: []
+        required: true
+      - id: 18
+        name: concerns
+        label: Concerns or Risks
+        hint: List any concerns
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: suggestions_for_improvement
+        label: Suggestions for Improvement
+        hint: How could this be improved
+        type: text
+        options: []
+        required: true
+      - id: 20
+        name: target_audience
+        label: Target Audience Feedback
+        hint: Who do you think is the target audience
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: pricing_feedback
+        label: Pricing Feedback
+        hint: What would be a fair price
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: competitive_comparison
+        label: Competitive Comparison
+        hint: How does this compare to alternatives
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: overall_rating
+        label: Overall Rating
+        hint: Overall concept rating
+        type: select_one
+        options:
+          - 5 - Excellent
+          - 4 - Good
+          - 3 - Average
+          - 2 - Poor
+          - 1 - Very Poor
+        required: true
+      - id: 24
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback
+        type: text
+        options: []
+        required: false

@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Devotional Book Feedback Survey
+    pages:
+    - id: 1
+      name: survey_start
+      label: What do you think of this book?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: book_rating
+      label: Rate this book
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: favorite_part
+      label: Which part did you like the most?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Cover''}'
+      - '{''label'': ''Story''}'
+      - '{''label'': ''Characters''}'
+      - '{''label'': ''Message''}'
+      required: false
+    - id: 4
+      name: feedback
+      label: Any feedback or suggestions?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false

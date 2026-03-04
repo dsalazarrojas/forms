@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Expense Governance Awareness Survey
+    pages:
+    - id: 1
+      name: expense_governance_awareness_survey_form
+      label: Expense Governance Awareness Survey Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: finance_team
+      label: Finance and Compliance Teams
+      hint: Select the team(s) you belong to
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: expense_policies
+      label: Do you understand our expense policies?
+      hint: null
+      type: select_one
+      options:
+      - Very Well
+      - Sort of
+      - Not at all
+      required: false
+    - id: 4
+      name: training_gap
+      label: What type of training would be helpful to improve your understanding
+        of expense policies?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: suggestions
+      label: Do you have any suggestions for improving our expense policies?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: finance_department
+      label: Finance Department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: compliance_department
+      label: Compliance Department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: hr_department
+      label: HR Department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: suggestion_comments
+      label: Please describe any suggestions
+      hint: null
+      type: text
+      options: []
+      required: false

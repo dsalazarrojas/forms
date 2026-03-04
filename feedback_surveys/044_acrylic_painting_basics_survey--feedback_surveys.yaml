@@ -1,0 +1,110 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Acrylic Painting Basics Survey
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: previous_painting_experience
+      label: Previous Painting Experience
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Some Watercolor
+      - Some Oil
+      - Advanced Artist
+      required: true
+    - id: 3
+      name: instructor_clarity_rating
+      label: Instructor Clarity Rating
+      hint: 1 - unclear, 5 - very clear
+      type: select_one
+      options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      required: true
+    - id: 4
+      name: techniques_mastered
+      label: Techniques Mastered
+      hint: Select areas where you feel confident
+      type: select_multiple
+      options:
+      - Color Mixing
+      - Glazing
+      - Impasto
+      - Blending
+      - Scumbling
+      required: false
+    - id: 5
+      name: pace_of_the_class
+      label: Pace of the Class
+      hint: null
+      type: select_one
+      options:
+      - Too Slow
+      - Just Right
+      - Too Fast
+      required: true
+    - id: 6
+      name: quality_of_materials_provided
+      label: Quality of Materials Provided
+      hint: Paints, brushes, and canvases
+      type: select_one
+      options:
+      - Poor
+      - Good
+      - Excellent
+      - I brought my own
+      required: true
+    - id: 7
+      name: most_challenging_aspect_of_acrylics
+      label: Most Challenging Aspect of Acrylics
+      hint: e.g., Fast drying time, Color matching
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: what_would_you_like_to_learn_next
+      label: What would you like to learn next?
+      hint: Future workshop ideas
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: would_you_take_an_advanced_course
+      label: Would you take an advanced course?
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      - Maybe
+      required: true
+    - id: 10
+      name: practice_note
+      label: -- Keep painting and practicing --
+      hint: null
+      type: note
+      options: []
+      required: false

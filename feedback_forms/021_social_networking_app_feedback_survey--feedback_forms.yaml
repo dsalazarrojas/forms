@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Networking App Feedback Survey
+    pages:
+    - id: 1
+      name: user_satisfaction
+      label: How satisfied are you with the Social Networking App?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: feature_usage
+      label: What features do you use most often in the Social Networking App?
+      hint: null
+      type: select_multiple
+      options:
+      - Social Media Features
+      - Search Functionality
+      - User Profile
+      - Others
+      required: false
+    - id: 3
+      name: improvement_ideas
+      label: Do you have any improvement ideas for the Social Networking App?
+      hint: null
+      type: select_one
+      options:
+      - Better design and layout
+      - Improved performance and speed
+      - New features and functionality
+      - More users and interactions
+      required: false
+    - id: 4
+      name: submission
+      label: Would you like to submit your feedback?
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Not submit
+      required: false

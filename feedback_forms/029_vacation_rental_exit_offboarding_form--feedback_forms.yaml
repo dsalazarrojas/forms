@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vacation Rental Exit Offboarding Form
+    pages:
+    - id: 1
+      name: vacation_rental_exit_offboarding_form
+      label: Check Out
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vacation_rental_exit_offboarding_form_check_out_date
+      label: Check Out Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: vacation_rental_exit_offboarding_form_check_out_time
+      label: Check Out Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: vacation_rental_exit_offboarding_form_check_out_time_zone
+      label: Check Out Time Zone
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: vacation_rental_exit_offboarding_form_location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: vacation_rental_exit_offboarding_form_note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: vacation_rental_exit_offboarding_form_check_out_status
+      label: Check Out Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: vacation_rental_exit_offboarding_form_check_out_comment
+      label: Check Out Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: vacation_rental_exit_offboarding_form_additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: vacation_rental_exit_offboarding_form_check_out_status
+      label: Check Out Status
+      hint: Please select all that apply
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false

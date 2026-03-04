@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Truck Air Intake Upgrade Request Form
+    pages:
+    - id: 1
+      name: shop_id
+      label: Shop
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: service_team
+      label: Service Team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: fleet_operator
+      label: Fleet Operator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: upload_file
+      label: Upload File
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: file_name
+      label: File Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: intake_type
+      label: Intake Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: intake_status
+      label: Intake Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: intake_priority
+      label: Intake Priority
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: due_date
+      label: Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: intake_date
+      label: Intake Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: intake_time
+      label: Intake Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: intake_location
+      label: Intake Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: intake_notes
+      label: Intake Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 20
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: service_type
+      label: Service Type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: air_leak_type
+      label: Air Leak Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: air_filter_status
+      label: Air Filter Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 24
+      name: air_filter_priority
+      label: Air Filter Priority
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: air_filter_due_date
+      label: Air Filter Due Date
+      hint: null
+      type: date
+      options: []
+      required: false

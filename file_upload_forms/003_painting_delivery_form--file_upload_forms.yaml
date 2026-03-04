@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Painting Delivery Form
+    pages:
+    - id: 1
+      name: recipient_details
+      label: Recipient details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: recipient_name
+      label: Recipient name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: recipient_email
+      label: Recipient email
+      hint: 'Format: johndoe@example.com'
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: recipient_phone
+      label: Recipient phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: delivery_instructions
+      label: Delivery instructions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: special_instructions
+      label: Special instructions
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Pickup
+      - Delivery
+      - Shipping
+      required: false

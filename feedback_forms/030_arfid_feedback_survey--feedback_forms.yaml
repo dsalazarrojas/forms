@@ -1,0 +1,114 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: ARFID Feedback Survey
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Name
+      hint: Your name (optional)
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: respondent_email
+      label: Email
+      hint: Your email (optional, for follow-up)
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: feedback_category
+      label: Feedback Category
+      hint: What category does your feedback relate to?
+      type: select_one
+      options: ["Product Quality", "Customer Service", "User Experience", "Technical Support", "Pricing", "Features", "Other"]
+      required: true
+    - id: 4
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: How satisfied are you with our service/product?
+      type: select_one
+      options: ["Very Satisfied", "Satisfied", "Neutral", "Dissatisfied", "Very Dissatisfied"]
+      required: true
+    - id: 5
+      name: experience_rating
+      label: Experience Rating
+      hint: Rate your overall experience
+      type: select_one
+      options: ["Excellent", "Good", "Average", "Poor", "Terrible"]
+      required: true
+    - id: 6
+      name: frequency_of_use
+      label: Frequency of Use
+      hint: How often do you use our service/product?
+      type: select_one
+      options: ["Daily", "Weekly", "Monthly", "Rarely", "First Time"]
+      required: true
+    - id: 7
+      name: recommendation_likelihood
+      label: Likelihood to Recommend
+      hint: How likely are you to recommend us to others?
+      type: select_one
+      options: ["Very Likely", "Likely", "Neutral", "Unlikely", "Very Unlikely"]
+      required: true
+    - id: 8
+      name: positive_aspects
+      label: Positive Aspects
+      hint: What do you like most about our service/product?
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: improvement_areas
+      label: Areas for Improvement
+      hint: What aspects could be improved?
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: feature_requests
+      label: Feature Requests
+      hint: What features would you like to see added?
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: complaint_details
+      label: Complaint Details
+      hint: If you had any negative experiences, please describe them
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: support_interaction_rating
+      label: Support Interaction Rating
+      hint: If you contacted support, how would you rate the interaction?
+      type: select_one
+      options: ["Excellent", "Good", "Average", "Poor", "Terrible"]
+      required: false
+    - id: 13
+      name: value_perception
+      label: Value Perception
+      hint: Do you feel you're getting good value for your investment?
+      type: select_one
+      options: ["Excellent Value", "Good Value", "Fair Value", "Poor Value", "Don't Know"]
+      required: false
+    - id: 14
+      name: anonymity_preference
+      label: Anonymity Preference
+      hint: Do you wish to remain anonymous?
+      type: select_one
+      options: ["Yes", "No"]
+      required: false

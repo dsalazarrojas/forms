@@ -1,0 +1,166 @@
+inputSchema:
+  type: object
+  properties:
+    title: CSV Importer Form
+    pages:
+    - id: 1
+      name: requester_info_header
+      label: -- Import Request Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Requested By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Sales
+      - Marketing
+      - Customer Success
+      - Product
+      - Operations
+      - Finance
+      - IT
+      required: true
+    - id: 4
+      name: priority
+      label: Import Priority
+      hint: null
+      type: select_one
+      options:
+      - Standard
+      - Urgent - Time Sensitive
+      - Critical - Production Blocker
+      required: true
+    - id: 5
+      name: data_target_header
+      label: -- Target System and Data --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: target_system
+      label: Target System
+      hint: Where is this data going
+      type: select_one
+      options:
+      - Production Database
+      - Sandbox Environment
+      - CRM
+      - Analytics Warehouse
+      - Billing Platform
+      required: true
+    - id: 7
+      name: object_type
+      label: Object or Table Name
+      hint: e.g. Users, Orders, Inventory
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: action_type
+      label: Action Type
+      hint: null
+      type: select_one
+      options:
+      - Insert - New records only
+      - Update - Existing records
+      - Upsert - Mixed
+      - Delete - Bulk removal
+      required: true
+    - id: 9
+      name: file_specs_header
+      label: -- File Specifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: row_count
+      label: Estimated Number of Rows
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: column_mapping_required
+      label: Is Custom Column Mapping Required
+      hint: null
+      type: select_one
+      options:
+      - true
+      - No - Uses standard template
+      required: true
+    - id: 12
+      name: encoding
+      label: File Encoding
+      hint: null
+      type: select_one
+      options:
+      - UTF-8
+      - ISO-8859-1
+      - ASCII
+      - Other
+      required: true
+    - id: 13
+      name: delimiter
+      label: Column Delimiter
+      hint: null
+      type: select_one
+      options:
+      - Comma
+      - Semicolon
+      - Tab
+      - Pipe
+      required: true
+    - id: 14
+      name: validation_rules_header
+      label: -- Validation and Safety --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: backup_confirmed
+      label: Target data has been backed up
+      hint: required for production updates
+      type: select_one
+      options:
+      - true
+      - Not Applicable
+      required: true
+    - id: 16
+      name: dry_run_requested
+      label: Request dry-run report first
+      hint: recommended for large imports
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: error_handling
+      label: Error Handling Strategy
+      hint: null
+      type: select_one
+      options:
+      - Stop on first error
+      - Skip errored rows and continue
+      required: true
+    - id: 18
+      name: additional_instructions
+      label: Additional Import Instructions
+      hint: null
+      type: text
+      options: []
+      required: false

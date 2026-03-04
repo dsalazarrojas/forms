@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Skin Treatment Feedback Survey
+    pages:
+    - id: 1
+      name: skin_treatment_feedback_survey
+      label: Feedback Survey
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: skin_treatment_feedback_survey_2
+      label: Treatment Experience
+      hint: null
+      type: select_multiple
+      options:
+      - Good, Very Good, Excellent
+      - Other
+      required: false
+    - id: 3
+      name: skin_treatment_feedback_survey_3
+      label: Satisfaction Level
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied, Satisfied, Neutral, Dissatisfied, Very Dissatisfied
+      - Other
+      required: false
+    - id: 4
+      name: skin_treatment_feedback_survey_4
+      label: Skin Type
+      hint: null
+      type: select_one
+      options:
+      - Normal, Sensitive, Oily, Combination, Dry
+      - Other
+      required: false
+    - id: 5
+      name: skin_treatment_feedback_survey_5
+      label: Recommended Products
+      hint: null
+      type: select_multiple
+      options:
+      - Product 1, Product 2, Product 3
+      - Other
+      required: false
+    - id: 6
+      name: skin_treatment_feedback_survey_6
+      label: Treatment Area
+      hint: null
+      type: select_multiple
+      options:
+      - Face, Neck, Hands
+      - Other
+      required: false

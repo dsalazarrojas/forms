@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: public_room_audio_feedback_form
+    pages:
+    - id: 1
+      name: audio_quality
+      label: Sound Quality
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 2
+      name: sound_system
+      label: Sound System
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: room_acoustics
+      label: Room Acoustics
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: event_time
+      label: Event Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false

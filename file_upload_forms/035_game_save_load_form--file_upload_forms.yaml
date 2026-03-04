@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: Game Save Load Form
+    pages:
+    - id: 1
+      name: save_request
+      label: save_request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: load_request
+      label: load_request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: game_name
+      label: game_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: platform
+      label: platform
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: game_id
+      label: game_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: file_upload
+      label: file_upload
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: true
+    - id: 8
+      name: load_time
+      label: load_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - New
+      - In Progress
+      - Done
+      required: false
+    - id: 10
+      name: priority
+      label: priority
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 11
+      name: due_date
+      label: due_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: due_time
+      label: due_time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: select_one
+      options:
+      - QA Team
+      - Support Team
+      - Game Team
+      required: false
+    - id: 14
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: game_platform
+      label: game_platform
+      hint: null
+      type: select_one
+      options:
+      - Console
+      - Mobile
+      - PC
+      required: false
+    - id: 16
+      name: game_type
+      label: game_type
+      hint: null
+      type: select_multiple
+      options:
+      - Action
+      - Adventure
+      - Casual
+      required: false
+    - id: 17
+      name: save_file_id
+      label: save_file_id
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 18
+      name: load_file_id
+      label: load_file_id
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 19
+      name: load_game_id
+      label: load_game_id
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 20
+      name: save_game_id
+      label: save_game_id
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 21
+      name: game_version_id
+      label: game_version_id
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 22
+      name: platform_id
+      label: platform_id
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false
+    - id: 23
+      name: save_game_time
+      label: save_game_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: save_game_date
+      label: save_game_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: load_game_time
+      label: load_game_time
+      hint: null
+      type: time
+      options: []
+      required: false

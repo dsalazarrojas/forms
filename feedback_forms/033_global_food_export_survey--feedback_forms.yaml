@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Global Food Export Survey
+    pages:
+    - id: 1
+      name: global_food_export_survey_page_1
+      label: Global Food Export Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: export_markets
+      label: exportMarkets
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Market A''}'
+      - '{''label'': ''Market B''}'
+      - '{''label'': ''Market C''}'
+      required: false
+    - id: 3
+      name: export_products
+      label: exportProducts
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Product 1''}'
+      - '{''label'': ''Product 2''}'
+      - '{''label'': ''Product 3''}'
+      required: false
+    - id: 4
+      name: logistics
+      label: logistics
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: required_info
+      label: required_info
+      hint: null
+      type: text
+      options: []
+      required: false

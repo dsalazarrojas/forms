@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: dental_patient_feedback_form
+    pages:
+    - id: 1
+      name: patient_feedback
+      label: Patient Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: dental_experience
+      label: Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: dentist_service
+      label: Service
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: dentist_staff
+      label: Staff
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Poor
+      required: false
+    - id: 5
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: would_recommend
+      label: Would Recommend
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Unlikely
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,88 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Player Experience Feedback Survey
+    pages:
+    - id: 1
+      name: game_experience
+      label: Game Experience
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Very Positive''}'
+      - '{''id'': 2, ''label'': ''Positive''}'
+      - '{''id'': 3, ''label'': ''Neutral''}'
+      - '{''id'': 4, ''label'': ''Negative''}'
+      - '{''id'': 5, ''label'': ''Very Negative''}'
+      required: false
+    - id: 2
+      name: playtested_games
+      label: Have you played our game?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 3
+      name: suggestions
+      label: Do you have any suggestions for our team?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: satisfaction
+      label: How satisfied are you with our game?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Very Satisfied''}'
+      - '{''id'': 2, ''label'': ''Satisfied''}'
+      - '{''id'': 3, ''label'': ''Neutral''}'
+      - '{''id'': 4, ''label'': ''Dissatisfied''}'
+      - '{''id'': 5, ''label'': ''Very Dissatisfied''}'
+      required: false
+    - id: 5
+      name: feedback
+      label: What did you like or dislike about our game?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_info
+      label: What is your email address or phone number?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: favorite_features
+      label: What are your favorite features of our game?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Graphics''}'
+      - '{''id'': 2, ''label'': ''Music''}'
+      - '{''id'': 3, ''label'': ''Story''}'
+      - '{''id'': 4, ''label'': ''Gameplay''}'
+      required: false
+    - id: 8
+      name: improvement_suggestions
+      label: What would you like to see improved in our game?
+      hint: null
+      type: text
+      options: []
+      required: false

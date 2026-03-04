@@ -1,0 +1,38 @@
+inputSchema:
+  type: object
+  properties:
+    title: Metalectri Feedback Form
+    pages:
+    - id: 1
+      name: metalectri_feedback_form_page_1
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: metalectri_feedback_form_page_2
+      label: How can we improve?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: metalectri_feedback_form_page_3
+      label: Contact Information
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: metalectri_feedback_form_page_4
+      label: What date and time?
+      hint: Please enter date and time
+      type: date
+      options: []
+      required: false

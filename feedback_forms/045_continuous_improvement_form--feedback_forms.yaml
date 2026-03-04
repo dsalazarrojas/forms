@@ -1,0 +1,142 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Continuous Improvement Form
+    pages:
+      - id: 1
+        name: improvement_header
+        label: -- Continuous Improvement Suggestion --
+        hint: Help us enhance our processes and service quality
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: name_optional
+        label: Name (Optional)
+        hint: Leave blank for anonymous feedback
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: department_affected
+        label: Department or Process Affected
+        hint: Which area of the organization will this improve
+        type: select_one
+        options:
+          - Customer Service
+          - Manufacturing/Production
+          - Software/IT Systems
+          - HR and Administration
+          - Finance and Procurement
+          - Other
+        required: true
+      - id: 4
+        name: problem_description_header
+        label: -- Current Issue or Inefficiency --
+        hint: Describe the situation as it exists today
+        type: note
+        options: []
+        required: false
+      - id: 5
+        name: current_pain_point
+        label: Description of Current Pain Point
+        hint: What is the specific problem or bottleneck
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: frequency_of_issue
+        label: How often does this issue occur
+        hint: null
+        type: select_one
+        options:
+          - Daily
+          - Weekly
+          - Monthly
+          - Infrequently
+        required: true
+      - id: 7
+        name: solution_idea_header
+        label: -- Proposed Improvement Idea --
+        hint: Share your vision for a better way to work
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: proposed_improvement_idea
+        label: Describe your Improvement Idea
+        hint: Be as specific as possible about the change
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: expected_benefits_category
+        label: Primary Benefit of this Change
+        hint: null
+        type: select_multiple
+        options:
+          - Cost Savings
+          - Time Reduction
+          - Error/Defect Reduction
+          - Improved Safety
+          - Better Customer Experience
+          - Increased Employee Satisfaction
+        required: true
+      - id: 10
+        name: impact_quantification
+        label: Estimated Impact (Optional)
+        hint: e.g., Save 5 hours per week, reduce waste by 10 percent
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: resource_requirements_est
+        label: Are specific resources or tools needed for this change
+        hint: e.g., New software, staff training, physical equipment
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: priority_level_suggestion
+        label: Suggested Priority Level
+        hint: null
+        type: select_one
+        options:
+          - Low - Nice to have
+          - Medium - Important for efficiency
+          - High - Critical/Urgent improvement
+        required: true
+      - id: 13
+        name: submission_date_improvement
+        label: Date of Submission
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 14
+        name: follow_up_interest
+        label: Would you like to be part of the implementation team
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 15
+        name: contact_email_followup
+        label: Follow-up Email (If name provided)
+        hint: null
+        type: email
+        options: []
+        required: false

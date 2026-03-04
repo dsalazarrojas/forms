@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rendition Download Request Form
+    pages:
+    - id: 1
+      name: rendition_download_request_form_1
+      label: File Rendition Request
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: rendition_file
+      label: Rendition File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: file_rendition
+      label: File Rendition
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 0, ''label'': ''None''}'
+      - '{''value'': 1, ''label'': ''1x''}'
+      - '{''value'': 2, ''label'': ''2x''}'
+      - '{''value'': 3, ''label'': ''4x''}'
+      - '{''value'': 4, ''label'': ''8x''}'
+      required: false
+    - id: 4
+      name: rendition_formats
+      label: Rendition Formats
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''pdf'', ''label'': ''PDF''}'
+      - '{''value'': ''jpeg'', ''label'': ''JPEG''}'
+      - '{''value'': ''png'', ''label'': ''PNG''}'
+      - '{''value'': ''tiff'', ''label'': ''TIFF''}'
+      required: false
+    - id: 5
+      name: delivery_timeline
+      label: Delivery Timeline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: file_rendition_due_date
+      label: Rendition Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: email_notification
+      label: Email Notification
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      required: false
+    - id: 8
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: number
+      options: []
+      required: false

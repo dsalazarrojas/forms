@@ -1,0 +1,274 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Community Safety Improvement Survey
+    pages:
+      - id: 1
+        name: respondent_info
+        label: Respondent Information
+        hint: Your details
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: first_name
+        label: First Name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: last_name
+        label: Last Name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: email
+        label: Email Address
+        hint: For follow-up
+        type: email
+        options: []
+        required: false
+      - id: 5
+        name: neighborhood
+        label: Your Neighborhood or Area
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: zip_code
+        label: ZIP Code
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: resident_type
+        label: How Long Have You Lived Here
+        hint: null
+        type: select_one
+        options:
+        - Less than 1 year
+        - 1-3 years
+        - 3-5 years
+        - 5-10 years
+        - 10+ years
+        required: true
+      - id: 8
+        name: safety_perception
+        label: Safety Perception
+        hint: How safe do you feel
+        type: note
+        options: []
+        required: false
+      - id: 9
+        name: overall_safety
+        label: How Safe Do You Feel in Your Neighborhood
+        hint: null
+        type: select_one
+        options:
+        - Very Safe
+        - Safe
+        - Neutral
+        - Unsafe
+        - Very Unsafe
+        required: true
+      - id: 10
+        name: safety_day
+        label: How Safe Do You Feel During the Day
+        hint: null
+        type: select_one
+        options:
+        - Very Safe
+        - Safe
+        - Neutral
+        - Unsafe
+        - Very Unsafe
+        required: true
+      - id: 11
+        name: safety_night
+        label: How Safe Do You Feel at Night
+        hint: null
+        type: select_one
+        options:
+        - Very Safe
+        - Safe
+        - Neutral
+        - Unsafe
+        - Very Unsafe
+        required: true
+      - id: 12
+        name: safety_trend
+        label: Has Safety Improved or Declined
+        hint: Over the past year
+        type: select_one
+        options:
+        - Significantly Improved
+        - Somewhat Improved
+        - Stayed the Same
+        - Somewhat Declined
+        - Significantly Declined
+        required: true
+      - id: 13
+        name: concerns
+        label: Safety Concerns
+        hint: What worries you
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: concern_types
+        label: What Are Your Main Safety Concerns
+        hint: Select all that apply
+        type: select_multiple
+        options:
+        - Violent Crime
+        - Property Crime
+        - Drug Activity
+        - Gang Activity
+        - Traffic Safety
+        - Poor Lighting
+        - Abandoned Buildings
+        - Loitering
+        - Vandalism
+        - Domestic Violence
+        - None
+        required: true
+      - id: 15
+        name: concern_location
+        label: Where Do You Feel Most Unsafe
+        hint: Specific locations
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: incident_experience
+        label: Have You Been a Victim of Crime
+        hint: In the past 2 years
+        type: select_one
+        options:
+        - Yes
+        - No
+        - Prefer Not to Say
+        required: true
+      - id: 17
+        name: incident_details
+        label: Incident Details
+        hint: If comfortable sharing
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: improvements
+        label: Safety Improvements
+        hint: What would help
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: improvement_priorities
+        label: What Improvements Would Help Most
+        hint: Select up to 3
+        type: select_multiple
+        options:
+        - More Police Patrols
+        - Better Street Lighting
+        - Neighborhood Watch
+        - Security Cameras
+        - Youth Programs
+        - Community Events
+        - Traffic Calming
+        - Building Maintenance
+        - Mental Health Services
+        - Job Programs
+        required: true
+      - id: 20
+        name: lighting
+        label: Is Street Lighting Adequate
+        hint: null
+        type: select_one
+        options:
+        - Yes - Very Adequate
+        - Yes - Mostly Adequate
+        - No - Needs Improvement
+        - No - Very Poor
+        required: true
+      - id: 21
+        name: police_presence
+        label: Is Police Presence Adequate
+        hint: null
+        type: select_one
+        options:
+        - Yes - Very Adequate
+        - Yes - Mostly Adequate
+        - No - Needs Improvement
+        - No - Very Poor
+        required: true
+      - id: 22
+        name: community_engagement
+        label: Are You Involved in Community Safety
+        hint: Neighborhood watch, etc.
+        type: select_one
+        options:
+        - Yes - Very Involved
+        - Yes - Somewhat Involved
+        - No - But Interested
+        - No - Not Interested
+        required: true
+      - id: 23
+        name: willing_volunteer
+        label: Would You Volunteer for Safety Programs
+        hint: null
+        type: select_one
+        options:
+        - Yes
+        - No
+        - Maybe
+        required: true
+      - id: 24
+        name: communication
+        label: How Do You Prefer to Receive Safety Updates
+        hint: null
+        type: select_multiple
+        options:
+        - Email
+        - Text Messages
+        - Social Media
+        - Community Meetings
+        - Flyers
+        - Website
+        - Mobile App
+        required: false
+      - id: 25
+        name: trust_authorities
+        label: How Much Do You Trust Local Authorities
+        hint: null
+        type: select_one
+        options:
+        - Very Much
+        - Somewhat
+        - Neutral
+        - Not Much
+        - Not At All
+        required: true
+      - id: 26
+        name: additional_comments
+        label: Additional Comments or Suggestions
+        hint: Share your ideas
+        type: text
+        options: []
+        required: false

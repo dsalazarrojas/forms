@@ -1,0 +1,381 @@
+inputSchema:
+  type: object
+  properties:
+    title: Biotech Lab Results Upload Form
+    pages:
+    - id: 1
+      name: researcher_information
+      label: Researcher Information
+      hint: Enter your details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: researcher_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: researcher_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: researcher_id
+      label: Researcher ID
+      hint: Employee or lab ID number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: Work email address
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: department
+      label: Department
+      hint: Your department or division
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: lab_name
+      label: Lab Name
+      hint: Name of your laboratory
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: project_information
+      label: Project Information
+      hint: Enter project details
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: project_name
+      label: Project Name
+      hint: Name of research project
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: project_code
+      label: Project Code
+      hint: Project identification number
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: principal_investigator
+      label: Principal Investigator
+      hint: Name of PI
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: experiment_details
+      label: Experiment Details
+      hint: Describe the experiment
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: experiment_id
+      label: Experiment ID
+      hint: Experiment identification number
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: experiment_title
+      label: Experiment Title
+      hint: Title of experiment
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: experiment_date
+      label: Experiment Date
+      hint: When was experiment conducted
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: experiment_type
+      label: Experiment Type
+      hint: Type of experiment
+      type: select_one
+      options:
+      - PCR Analysis
+      - Western Blot
+      - ELISA
+      - Cell Culture
+      - Flow Cytometry
+      - Sequencing
+      - Mass Spectrometry
+      - Microscopy
+      - Other
+      required: true
+    - id: 18
+      name: sample_information
+      label: Sample Information
+      hint: Details about samples
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: sample_type
+      label: Sample Type
+      hint: Type of samples tested
+      type: select_one
+      options:
+      - Blood
+      - Tissue
+      - Cell Line
+      - DNA
+      - RNA
+      - Protein
+      - Serum
+      - Plasma
+      - Other
+      required: true
+    - id: 20
+      name: sample_count
+      label: Number of Samples
+      hint: How many samples were tested
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: sample_ids
+      label: Sample IDs
+      hint: List sample identification numbers
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: results_information
+      label: Results Information
+      hint: Upload and describe results
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: results_summary
+      label: Results Summary
+      hint: Brief summary of findings
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: results_status
+      label: Results Status
+      hint: Status of results
+      type: select_one
+      options:
+      - Preliminary
+      - Final
+      - Pending Review
+      - Requires Validation
+      required: true
+    - id: 25
+      name: quality_control
+      label: Quality Control
+      hint: Was QC performed
+      type: select_one
+      options:
+      - Yes - Passed
+      - Yes - Failed
+      - No - Not Required
+      - Pending
+      required: true
+    - id: 26
+      name: file_upload_section
+      label: File Upload Section
+      hint: Upload your result files
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: result_files
+      label: Result Files
+      hint: Upload data files
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: file_format
+      label: File Format
+      hint: Format of uploaded files
+      type: select_multiple
+      options:
+      - PDF
+      - Excel
+      - CSV
+      - Image (JPG, PNG)
+      - TIFF
+      - Raw Data
+      - Other
+      required: true
+    - id: 29
+      name: file_description
+      label: File Description
+      hint: Describe what each file contains
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: file_size
+      label: Total File Size
+      hint: Approximate size in MB
+      type: number
+      options: []
+      required: false
+    - id: 31
+      name: additional_files
+      label: Additional Files
+      hint: Upload any supplementary files
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: metadata
+      label: Metadata
+      hint: Additional information about files
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: analysis_details
+      label: Analysis Details
+      hint: Describe analysis methods
+      type: note
+      options: []
+      required: false
+    - id: 34
+      name: analysis_method
+      label: Analysis Method
+      hint: Method used for analysis
+      type: text
+      options: []
+      required: true
+    - id: 35
+      name: software_used
+      label: Software Used
+      hint: Analysis software
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: software_version
+      label: Software Version
+      hint: Version number
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: statistical_methods
+      label: Statistical Methods
+      hint: Statistical tests applied
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: observations
+      label: Observations
+      hint: Notable observations
+      type: text
+      options: []
+      required: false
+    - id: 39
+      name: anomalies
+      label: Anomalies or Issues
+      hint: Any unexpected results or issues
+      type: text
+      options: []
+      required: false
+    - id: 40
+      name: conclusions
+      label: Preliminary Conclusions
+      hint: Initial conclusions from results
+      type: text
+      options: []
+      required: false
+    - id: 41
+      name: next_steps
+      label: Next Steps
+      hint: Recommended follow-up actions
+      type: text
+      options: []
+      required: false
+    - id: 42
+      name: review_information
+      label: Review Information
+      hint: For review and approval
+      type: note
+      options: []
+      required: false
+    - id: 43
+      name: reviewer_name
+      label: Reviewer Name
+      hint: Name of reviewer
+      type: text
+      options: []
+      required: false
+    - id: 44
+      name: review_status
+      label: Review Status
+      hint: Current review status
+      type: select_one
+      options:
+      - Pending Review
+      - Under Review
+      - Approved
+      - Approved with Comments
+      - Requires Revision
+      required: true
+    - id: 45
+      name: review_comments
+      label: Review Comments
+      hint: Comments from reviewer
+      type: text
+      options: []
+      required: false
+    - id: 46
+      name: approval_date
+      label: Approval Date
+      hint: Date of approval
+      type: date
+      options: []
+      required: false
+    - id: 47
+      name: submission_timestamp
+      label: Submission Timestamp
+      hint: When was this submitted
+      type: time
+      options: []
+      required: true
+    - id: 48
+      name: researcher_signature
+      label: Researcher Confirmation
+      hint: Confirm accuracy of submission
+      type: select_one
+      options:
+      - I certify these results are accurate
+      - I confirm all information is correct
+      required: true

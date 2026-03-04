@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Garden Design Order Form
+    pages:
+    - id: 1
+      name: garden_design_order_form
+      label: garden_design_order_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_type
+      label: project_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: client_name
+      label: client_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: design_service
+      label: design_service
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: package_option
+      label: package_option
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Package 1''}'
+      - '{''text'': ''Package 2''}'
+      - '{''text'': ''Package 3''}'
+      required: false
+    - id: 10
+      name: total_price
+      label: total_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: upload_file
+      label: upload_file
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: signature
+      label: signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: signature_date
+      label: signature_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: signature_time
+      label: signature_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Cash''}'
+      - '{''text'': ''Credit Card''}'
+      - '{''text'': ''Bank Transfer''}'
+      required: false
+    - id: 16
+      name: payment_status
+      label: payment_status
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Unpaid''}'
+      - '{''text'': ''Paid''}'
+      required: false
+    - id: 17
+      name: payment_amount
+      label: payment_amount
+      hint: null
+      type: number
+      options: []
+      required: false

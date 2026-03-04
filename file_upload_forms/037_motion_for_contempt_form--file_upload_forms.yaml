@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Motion For Contempt Form
+    pages:
+    - id: 1
+      name: motion_for_contempt_form
+      label: Motion For Contempt
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: court_order_violation_details
+      label: Court Order Violation Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: individual_attorney_legal_clinic
+      label: Individual Attorneys Legal Clinic
+      hint: null
+      type: select_one
+      options:
+      - Individual
+      - Attorney
+      - Legal Clinic
+      required: false
+    - id: 4
+      name: date_of_violation
+      label: Date Of Violation
+      hint: Date of violation (MM/DD/YYYY)
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_of_violation
+      label: Time Of Violation
+      hint: "Time of violation (HH:MM AM/PM)"
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: time_of_violation_time_zone
+      label: Time Zone
+      hint: Select your time zone
+      type: select_multiple
+      options:
+      - Eastern
+      - Central
+      - Mountain
+      - Pacific
+      - Alaska
+      - Atlantic
+      required: false
+    - id: 7
+      name: motion_status
+      label: Motion Status
+      hint: Select status of the contempt motion
+      type: select_multiple
+      options:
+      - Filed
+      - Dismissed
+      - Sua Sponte
+      required: false
+    - id: 8
+      name: date_of_hearing
+      label: Date Of Hearing
+      hint: Date of hearing (MM/DD/YYYY)
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: court_name
+      label: Court Name
+      hint: Enter name of court
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: judge_name
+      label: Judge Name
+      hint: Enter name of judge
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: case_number
+      label: Case Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: motion_number
+      label: Motion Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: motion_date
+      label: Motion Date
+      hint: Date of contempt motion (MM/DD/YYYY)
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: motion_time
+      label: Motion Time
+      hint: "Time of contempt motion (HH:MM AM/PM)"
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: motion_status_2
+      label: Motion Status 2
+      hint: Select status of the contempt motion
+      type: select_multiple
+      options:
+      - Filed
+      - Dismissed
+      - Sua Sponte
+      required: false
+    - id: 16
+      name: court_address
+      label: Court Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: motion_reason
+      label: Motion Reason
+      hint: Enter reason for filing the contempt motion
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: motion_description
+      label: Motion Description
+      hint: Enter description of the contempt motion
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: file_upload
+      label: File Upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: file_upload_label
+      label: File Upload Label
+      hint: Label for the uploaded file
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: file_upload_description
+      label: File Upload Description
+      hint: Description of the uploaded file
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: file_type
+      label: File Type
+      hint: null
+      type: select_one
+      options:
+      - PDF
+      - DOCX
+      - DOC
+      - XLSX
+      - XLS
+      required: false
+    - id: 23
+      name: file_size
+      label: File Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: file_upload_required
+      label: File Upload Required
+      hint: Select if a file is required
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
+      required: false
+    - id: 25
+      name: file_upload_max_size
+      label: File Upload Max Size
+      hint: null
+      type: number
+      options: []
+      required: false

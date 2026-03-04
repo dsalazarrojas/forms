@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workplace Accessibility Feedback Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: accessibility_issues
+      label: Accessibility Issues
+      hint: null
+      type: select_multiple
+      options:
+      - Ergonomic issues with workspace furniture
+      - Limited wheelchair accessibility
+      - Inadequate lighting or electrical issues
+      required: true
+    - id: 4
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: employee_input
+      label: Employee Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: time_submitted
+      label: Time Submitted
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - HR
+      - Management
+      - Other
+      required: true
+    - id: 9
+      name: submitted_to
+      label: Submitted To
+      hint: null
+      type: select_multiple
+      options:
+      - Manager
+      - Supervisor
+      - HR
+      - Other
+      required: true
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

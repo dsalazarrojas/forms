@@ -1,0 +1,64 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Performance Appraisal Feedback Evaluation Form
+    pages:
+    - id: 1
+      name: performance_appraisal_feedback
+      label: Performance Appraisal Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: performance_appraisal_comments
+      label: Performance Appraisal Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: performance_improvement_actions
+      label: Performance Improvement Actions
+      hint: null
+      type: select_multiple
+      options:
+      - Improved
+      - Needs Improvement
+      - Unsatisfactory
+      required: true
+    - id: 4
+      name: performance_rater
+      label: Rater
+      hint: null
+      type: select_one
+      options:
+      - Manager
+      - Director
+      - Team Member
+      required: true
+    - id: 5
+      name: performance_appraisal_date
+      label: Appraisal Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: performance_appraisal_feedback_evaluation_form_page_2
+      label: Page 2
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,85 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Flight Damage Report Form
+    pages:
+    - id: 1
+      name: report_details
+      label: Report details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: flight_number
+      label: flight_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: passenger_name
+      label: passenger_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: passenger_type
+      label: passenger_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Adult'', ''value'': ''Adult''}'
+      - '{''id'': 2, ''label'': ''Child'', ''value'': ''Child''}'
+      - '{''id'': 3, ''label'': ''Infant'', ''value'': ''Infant''}'
+      required: false
+    - id: 5
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: image_url
+      label: image_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: damage_level
+      label: damage_level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Minor'', ''value'': ''Minor''}'
+      - '{''id'': 2, ''label'': ''Major'', ''value'': ''Major''}'
+      - '{''id'': 3, ''label'': ''Complete'', ''value'': ''Complete''}'
+      required: false
+    - id: 8
+      name: upload_file
+      label: upload_file
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

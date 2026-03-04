@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: emergency_response_petition_form
+    pages:
+    - id: 1
+      name: organization
+      label: organization_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: message
+      label: message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: support
+      label: support
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 6
+      name: initiative
+      label: initiative
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: End Of Life Support Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_info
+      label: Patient Information
+      hint: Please enter your information
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: care_team
+      label: Care Team Involved
+      hint: Enter the care team involved in your end-of-life care
+      type: select_multiple
+      options:
+      - Team 1
+      - Team 2
+      - Team 3
+      required: false
+    - id: 4
+      name: care_location
+      label: Care Location
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 5
+      name: symptoms
+      label: Symptoms
+      hint: Please enter the symptoms you experienced
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: care_type
+      label: Type of Care
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 7
+      name: care_quality
+      label: Quality of Care
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 8
+      name: emotional_support
+      label: Emotional Support
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 9
+      name: spiritual_support
+      label: Spiritual Support
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 10
+      name: physical_pain
+      label: Physical Pain
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: emotional_pain
+      label: Emotional Pain
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: spiritual_pain
+      label: Spiritual Pain
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 14
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: recommendations
+      label: Recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: contact_info
+      label: Contact Information
+      hint: Please enter your contact information
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: survey_complete
+      label: Survey Complete
+      hint: Thank you for taking the time to complete this survey!
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: patient_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: patient_gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 20
+      name: patient_race
+      label: Race
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 21
+      name: patient_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 22
+      name: caregiver_info
+      label: Caregiver Information
+      hint: Please enter the caregiver's information
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: caregiver_name
+      label: Caregiver Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: caregiver_relationship
+      label: Caregiver Relationship
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 25
+      name: submission
+      label: Submission
+      hint: null
+      type: email
+      options: []
+      required: false

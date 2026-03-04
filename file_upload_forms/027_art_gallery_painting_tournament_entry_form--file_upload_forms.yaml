@@ -1,0 +1,256 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Gallery Painting Tournament Entry Form
+    pages:
+    - id: 1
+      name: entry_date
+      label: Entry Date
+      hint: Date of tournament entry
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: artist_name
+      label: Artist Name
+      hint: Full name or business name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: studio_name
+      label: Studio Name
+      hint: Name of your studio or business
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address
+      label: Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip_code
+      label: Zip Code
+      hint: Postal or zip code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: website
+      label: Website
+      hint: Artist website or portfolio
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: social_media_handle
+      label: Social Media Handle
+      hint: Instagram or other social media
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: tournament_category
+      label: Tournament Category
+      hint: Category of entry
+      type: select_one
+      options:
+      - Oil Painting
+      - Acrylic Painting
+      - Watercolor
+      - Mixed Media
+      - Digital Painting
+      - Open Category
+      required: true
+    - id: 13
+      name: painting_title
+      label: Painting Title
+      hint: Title of your entry
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: painting_dimensions
+      label: Painting Dimensions
+      hint: Width x Height in inches
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: painting_year
+      label: Painting Year
+      hint: Year created
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: painting_description
+      label: Painting Description
+      hint: Describe your painting
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: artist_statement
+      label: Artist Statement
+      hint: Brief artist statement
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: years_experience
+      label: Years Experience
+      hint: Years of painting experience
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - More than 10 years
+      required: true
+    - id: 19
+      name: previous_competitions
+      label: Previous Competitions
+      hint: Have you entered competitions before
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: previous_competition_details
+      label: Previous Competition Details
+      hint: List previous competitions
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: artwork_value
+      label: Artwork Value
+      hint: Estimated value of entry
+      type: select_one
+      options:
+      - Under $500
+      - $500-$1,000
+      - $1,000-$5,000
+      - $5,000-$10,000
+      - Over $10,000
+      required: false
+    - id: 22
+      name: insurance_coverage
+      label: Insurance Coverage
+      hint: Do you have insurance for your artwork
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 23
+      name: delivery_method
+      label: Delivery Method
+      hint: How will you deliver your artwork
+      type: select_one
+      options:
+      - Personal Delivery
+      - Ship to Gallery
+      - Gallery Pickup
+      - Other
+      required: true
+    - id: 24
+      name: framing_status
+      label: Framing Status
+      hint: Is your artwork framed
+      type: select_one
+      options:
+      - Yes - Framed
+      - No - Unframed
+      - Will Be Framed
+      required: true
+    - id: 25
+      name: hanging_hardware
+      label: Hanging Hardware
+      hint: Does your artwork have hanging hardware
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Applicable
+      required: true
+    - id: 26
+      name: entry_fee_payment
+      label: Entry Fee Payment
+      hint: How will you pay the entry fee
+      type: select_one
+      options:
+      - Credit Card
+      - PayPal
+      - Check
+      - Bank Transfer
+      required: true
+    - id: 27
+      name: terms_accepted
+      label: Terms Accepted
+      hint: I accept the tournament terms and conditions
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 28
+      name: image_upload_consent
+      label: Image Upload Consent
+      hint: I consent to uploading images of my work
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 29
+      name: publicity_consent
+      label: Publicity Consent
+      hint: I consent to my work being used for promotion
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 30
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

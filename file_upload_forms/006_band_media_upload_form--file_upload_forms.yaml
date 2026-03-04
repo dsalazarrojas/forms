@@ -1,0 +1,131 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Band Media Upload Form
+    pages:
+      - id: 1
+        name: band_identification_header
+        label: -- Band Identification --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: band_name
+        label: Band Name
+        hint: Legal name for contracts and promotion
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: primary_contact
+        label: Contact Person
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: contact_email
+        label: Email Address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 5
+        name: media_links_header
+        label: -- Press Kit and Media Assets --
+        hint: Please provide public links (Dropbox, Google Drive, etc.) for each asset
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: press_photo_link
+        label: High-Resolution Press Photo Link
+        hint: Minimum 300 DPI recommended
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: band_bio_link
+        label: Electronic Press Kit (EPK) or Bio PDF Link
+        hint: Detailed history and career highlights
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: stage_plot_link
+        label: Stage Plot and Input List Link
+        hint: Required for sound engineering preparation
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: tech_rider_link
+        label: Technical Rider Link
+        hint: List of required equipment and backline
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: hospitality_rider_link
+        label: Hospitality Rider Link
+        hint: Catering and dressing room requirements
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: social_media_header
+        label: -- Social Media and Streaming --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: website_url
+        label: Official Website
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: spotify_link
+        label: Spotify Artist Profile Link
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: instagram_handle
+        label: Instagram Handle
+        hint: e.g., @bandname
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: additional_media_notes
+        label: Additional Media Information
+        hint: Any passwords for protected links or special instructions
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: agreement
+        label: Content Usage Authorization
+        hint: Check all that apply
+        type: select_multiple
+        options:
+          - I authorize the use of these photos for promotional purposes
+          - I confirm that the band owns the rights to all provided media
+          - I agree to be contacted regarding upcoming opportunities
+        required: true

@@ -1,0 +1,339 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Building Design Release Client Feedback Form
+    pages:
+      - id: 1
+        name: project_info
+        label: -- Project Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: project_name
+        label: Project name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: client_name
+        label: Client name or organization
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: client_contact
+        label: Your name and title
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: client_email
+        label: Email address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 6
+        name: design_phase
+        label: Design phase being reviewed
+        hint: null
+        type: select_one
+        options:
+          - Schematic Design (SD)
+          - Design Development (DD)
+          - Construction Documents (CD)
+          - Tender Documents
+          - Other
+        required: true
+      - id: 7
+        name: release_date
+        label: Design package release date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 8
+        name: overall_feedback
+        label: -- Overall Feedback --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 9
+        name: design_satisfaction
+        label: Overall satisfaction with design
+        hint: null
+        type: select_one
+        options:
+          - Very satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very dissatisfied
+        required: true
+      - id: 10
+        name: design_meets_requirements
+        label: Design meets project requirements
+        hint: null
+        type: select_one
+        options:
+          - Yes, fully meets requirements
+          - Yes, mostly meets requirements
+          - Partially meets requirements
+          - Does not meet requirements
+          - Unclear
+        required: true
+      - id: 11
+        name: innovation_level
+        label: Level of innovation and creativity
+        hint: null
+        type: select_one
+        options:
+          - Excellent - Innovative approach
+          - Good - Creative solution
+          - Adequate - Conventional approach
+          - Below expectations
+          - Missing creativity
+        required: true
+      - id: 12
+        name: design_aesthetics
+        label: -- Design Aesthetics --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 13
+        name: aesthetic_appeal
+        label: Aesthetic appeal of design
+        hint: null
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Acceptable
+          - Poor
+          - Unacceptable
+        required: true
+      - id: 14
+        name: material_selection
+        label: Material and color selections
+        hint: null
+        type: select_one
+        options:
+          - Excellent choices
+          - Good selections
+          - Acceptable
+          - Need reconsideration
+          - Unacceptable
+        required: true
+      - id: 15
+        name: functionality
+        label: -- Functionality and Practicality --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 16
+        name: spatial_layout
+        label: Spatial layout and flow
+        hint: null
+        type: select_one
+        options:
+          - Excellent - Well designed
+          - Good - Functional
+          - Acceptable
+          - Needs revision
+          - Poor - Major issues
+        required: true
+      - id: 17
+        name: space_adequacy
+        label: Space adequacy for intended use
+        hint: null
+        type: select_one
+        options:
+          - More than adequate
+          - Adequate
+          - Somewhat adequate
+          - Inadequate
+          - Very inadequate
+        required: true
+      - id: 18
+        name: accessibility
+        label: Accessibility and inclusivity
+        hint: null
+        type: select_one
+        options:
+          - Excellent - Fully accessible
+          - Good - Mostly accessible
+          - Adequate - Meets minimum standards
+          - Poor - Limited accessibility
+          - Not addressed
+        required: true
+      - id: 19
+        name: sustainability
+        label: Sustainability features
+        hint: null
+        type: select_one
+        options:
+          - Comprehensive sustainable design
+          - Good sustainability efforts
+          - Some sustainable features
+          - Minimal attention to sustainability
+          - No sustainability features
+        required: true
+      - id: 20
+        name: technical_aspects
+        label: -- Technical Aspects --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 21
+        name: document_quality
+        label: Quality of design documents
+        hint: null
+        type: select_one
+        options:
+          - Excellent - Clear and complete
+          - Good - Mostly clear
+          - Adequate
+          - Poor - Unclear
+          - Incomplete
+        required: true
+      - id: 22
+        name: technical_feasibility
+        label: Technical feasibility
+        hint: null
+        type: select_one
+        options:
+          - Highly feasible
+          - Feasible
+          - Somewhat feasible
+          - Challenging
+          - Not feasible
+        required: true
+      - id: 23
+        name: buildability
+        label: Buildability and constructability
+        hint: null
+        type: select_one
+        options:
+          - Excellent - Easy to build
+          - Good - Standard construction
+          - Acceptable - Some complexity
+          - Challenging - Complex details
+          - Unrealistic - Not buildable
+        required: true
+      - id: 24
+        name: cost_expectations
+        label: -- Cost and Timeline --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 25
+        name: cost_alignment
+        label: Design aligns with budget expectations
+        hint: null
+        type: select_one
+        options:
+          - Yes, within budget
+          - Likely within budget
+          - Uncertain
+          - Likely exceeds budget
+          - Significantly exceeds budget
+        required: true
+      - id: 26
+        name: timeline_realistic
+        label: Timeline appears realistic
+        hint: null
+        type: select_one
+        options:
+          - Yes, very realistic
+          - Yes, achievable
+          - Uncertain
+          - Tight but possible
+          - Unrealistic
+        required: true
+      - id: 27
+        name: concerns_issues
+        label: -- Concerns and Issues --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 28
+        name: major_concerns
+        label: Major concerns with design
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 29
+        name: required_changes
+        label: Required changes or revisions
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 30
+        name: optional_suggestions
+        label: Optional suggestions for improvement
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 31
+        name: approval_status
+        label: -- Approval Status --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 32
+        name: design_approval
+        label: Design approval status
+        hint: null
+        type: select_one
+        options:
+          - Approved - No revisions needed
+          - Approved with minor revisions
+          - Conditional approval - requires changes
+          - Not approved - major revisions needed
+          - Rejected - redesign required
+        required: true
+      - id: 33
+        name: next_steps
+        label: Preferred timeline for next phase
+        hint: null
+        type: select_one
+        options:
+          - Proceed immediately
+          - Proceed within 1 week
+          - Allow 2-3 weeks for review
+          - Need extended timeline
+          - Pending other decisions
+        required: false
+      - id: 34
+        name: additional_comments
+        label: Additional comments or notes
+        hint: null
+        type: text
+        options: []
+        required: false

@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Family Memory Sharing Form
+    pages:
+    - id: 1
+      name: family_story
+      label: Family Story
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: family_media
+      label: Family Media
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: family_members
+      label: Family Members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: family_events
+      label: Family Events
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: file_upload
+      label: File Upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: family_relationships
+      label: Family Relationships
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: family_hobbies
+      label: Family Hobbies
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: family_interests
+      label: Family Interests
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: family_travel
+      label: Family Travel
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: family_occupation
+      label: Family Occupation
+      hint: null
+      type: text
+      options: []
+      required: false

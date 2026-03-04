@@ -1,0 +1,238 @@
+inputSchema:
+  type: object
+  properties:
+    title: Content Creator Recommendation Form
+    pages:
+    - id: 1
+      name: recommender_name
+      label: Recommender Name
+      hint: Full name of person providing recommendation
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: recommender_email
+      label: Recommender Email
+      hint: Email address for verification
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: recommender_phone
+      label: Recommender Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: recommender_title
+      label: Recommender Title
+      hint: Your job title or position
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: organization_name
+      label: Organization Name
+      hint: Name of your company or organization
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: recommendation_date
+      label: Recommendation Date
+      hint: Date of this recommendation
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: creator_name
+      label: Content Creator Name
+      hint: Full name of creator being recommended
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: creator_email
+      label: Content Creator Email
+      hint: Email of creator being recommended
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: relationship_to_creator
+      label: Relationship to Creator
+      hint: How do you know this creator?
+      type: select_one
+      options:
+      - Former Employer
+      - Current Employer
+      - Colleague
+      - Client
+      - Collaborator
+      - Professor or Teacher
+      - Mentor
+      - Other
+      required: true
+    - id: 10
+      name: relationship_duration
+      label: Relationship Duration
+      hint: How long have you known this creator?
+      type: select_one
+      options:
+      - Less than 6 months
+      - 6 months to 1 year
+      - 1 to 2 years
+      - 2 to 5 years
+      - Over 5 years
+      required: true
+    - id: 11
+      name: creator_specialty
+      label: Creator Specialty
+      hint: What type of content do they create?
+      type: select_one
+      options:
+      - Video Content
+      - Written Content
+      - Social Media Content
+      - Graphic Design
+      - Photography
+      - Audio/Podcast
+      - Multiple Types
+      required: true
+    - id: 12
+      name: quality_of_work
+      label: Quality of Work
+      hint: Rate the quality of their work
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 13
+      name: creativity_rating
+      label: Creativity Rating
+      hint: Rate their creativity
+      type: select_one
+      options:
+      - Exceptional
+      - Very Creative
+      - Creative
+      - Somewhat Creative
+      - Not Creative
+      required: true
+    - id: 14
+      name: reliability_rating
+      label: Reliability Rating
+      hint: Rate their reliability
+      type: select_one
+      options:
+      - Extremely Reliable
+      - Very Reliable
+      - Reliable
+      - Somewhat Reliable
+      - Unreliable
+      required: true
+    - id: 15
+      name: communication_skills
+      label: Communication Skills
+      hint: Rate their communication abilities
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 16
+      name: professionalism
+      label: Professionalism
+      hint: Rate their professionalism
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 17
+      name: ability_to_meet_deadlines
+      label: Ability to Meet Deadlines
+      hint: How well do they meet deadlines?
+      type: select_one
+      options:
+      - Always On Time
+      - Usually On Time
+      - Sometimes Late
+      - Often Late
+      - Always Late
+      required: true
+    - id: 18
+      name: teamwork_skills
+      label: Teamwork Skills
+      hint: Rate their ability to work with others
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 19
+      name: would_hire_again
+      label: Would You Hire or Work With Them Again?
+      hint: How likely are you to work with them again?
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Neutral
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 20
+      name: recommendation_strength
+      label: Recommendation Strength
+      hint: How strongly do you recommend this creator?
+      type: select_one
+      options:
+      - Highly Recommend
+      - Recommend
+      - Somewhat Recommend
+      - Neutral
+      - Do Not Recommend
+      required: true
+    - id: 21
+      name: strengths
+      label: Creator Strengths
+      hint: What are their greatest strengths?
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: areas_for_growth
+      label: Areas for Growth
+      hint: What areas could they improve?
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: notable_projects
+      label: Notable Projects
+      hint: Describe any notable projects they worked on
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information to share
+      type: text
+      options: []
+      required: false

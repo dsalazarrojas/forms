@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: XML File Update Request Form
+    pages:
+    - id: 1
+      name: xml_file_update_request
+      label: XML File Update Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: file_upload
+      label: Select a File to Upload
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: file
+      label: File
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: update_request_details
+      label: Update Request Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: update_type
+      label: Update Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

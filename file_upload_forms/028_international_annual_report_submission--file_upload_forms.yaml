@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: international_annual_report_submission
+    pages:
+    - id: 1
+      name: organization_name
+      label: organization_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reporting_period
+      label: reporting_period
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: reporting_date
+      label: reporting_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: reporting_cycle
+      label: reporting_cycle
+      hint: null
+      type: select_one
+      options:
+      - January - February
+      - March - April
+      - May - June
+      - July - August
+      - September - October
+      - November - December
+      required: false
+    - id: 5
+      name: file_attachments
+      label: file_attachments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: supporting_documents
+      label: supporting_documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submitted_on
+      label: submitted_on
+      hint: null
+      type: date
+      options: []
+      required: false

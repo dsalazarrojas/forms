@@ -1,0 +1,285 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Aligner Integration Feedback Survey
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Respondent Name
+      hint: Full name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: practice_name
+      label: Practice/Clinic Name
+      hint: Name of dental practice
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: practice_type
+      label: Practice Type
+      hint: Type of practice
+      type: select_one
+      options:
+      - Private practice
+      - Group practice
+      - DSO/Corporate
+      - Hospital/Clinic
+      - Academic institution
+      required: true
+    - id: 5
+      name: role_in_practice
+      label: Your Role
+      hint: Your position
+      type: select_one
+      options:
+      - Dentist/Orthodontist
+      - Dental Assistant
+      - Treatment Coordinator
+      - Office Manager
+      - IT Staff
+      - Other
+      required: true
+    - id: 6
+      name: aligner_system_used
+      label: Aligner System Used
+      hint: Which system do you use?
+      type: select_one
+      options:
+      - Invisalign
+      - ClearCorrect
+      - Spark Aligners
+      - SureSmile
+      - Other
+      required: true
+    - id: 7
+      name: integration_type
+      label: Integration Type
+      hint: What type of integration?
+      type: select_one
+      options:
+      - Practice management software
+      - Imaging software
+      - Scanning system
+      - Treatment planning
+      - Patient communication
+      - Billing system
+      required: true
+    - id: 8
+      name: integration_duration
+      label: How Long Using Integration?
+      hint: Duration of use
+      type: select_one
+      options:
+      - Less than 1 month
+      - 1-3 months
+      - 4-6 months
+      - 7-12 months
+      - Over 1 year
+      required: true
+    - id: 9
+      name: ease_of_setup
+      label: Ease of Initial Setup
+      hint: Rate the setup process
+      type: select_one
+      options:
+      - Very Easy
+      - Easy
+      - Moderate
+      - Difficult
+      - Very Difficult
+      required: true
+    - id: 10
+      name: ease_of_use
+      label: Ease of Daily Use
+      hint: Rate daily usability
+      type: select_one
+      options:
+      - Very Easy
+      - Easy
+      - Moderate
+      - Difficult
+      - Very Difficult
+      required: true
+    - id: 11
+      name: reliability_rating
+      label: Reliability Rating
+      hint: Rate system reliability
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very Poor
+      required: true
+    - id: 12
+      name: data_sync_accuracy
+      label: Data Sync Accuracy
+      hint: Rate data synchronization
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very Poor
+      required: true
+    - id: 13
+      name: workflow_improvement
+      label: Workflow Improvement
+      hint: Has integration improved workflow?
+      type: select_one
+      options:
+      - Significantly improved
+      - Somewhat improved
+      - No change
+      - Somewhat worse
+      - Significantly worse
+      required: true
+    - id: 14
+      name: time_savings
+      label: Time Savings Per Week
+      hint: Estimated hours saved
+      type: select_one
+      options:
+      - No time saved
+      - 1-2 hours
+      - 3-5 hours
+      - 6-10 hours
+      - Over 10 hours
+      required: true
+    - id: 15
+      name: patient_experience_impact
+      label: Impact on Patient Experience
+      hint: How has it affected patients?
+      type: select_one
+      options:
+      - Significantly improved
+      - Somewhat improved
+      - No change
+      - Somewhat worse
+      - Significantly worse
+      required: true
+    - id: 16
+      name: technical_support_rating
+      label: Technical Support Rating
+      hint: Rate vendor support
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very Poor
+      - Not applicable
+      required: false
+    - id: 17
+      name: issues_encountered
+      label: Issues Encountered
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - None
+      - Connection problems
+      - Data sync errors
+      - Slow performance
+      - Crashes/freezes
+      - User interface issues
+      - Training gaps
+      - Other
+      required: true
+    - id: 18
+      name: issue_frequency
+      label: Issue Frequency
+      hint: How often do issues occur?
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Sometimes
+      - Often
+      - Very Often
+      required: true
+    - id: 19
+      name: feature_requests
+      label: Desired Features
+      hint: What features would you add?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: training_adequacy
+      label: Training Adequacy
+      hint: Was training sufficient?
+      type: select_one
+      options:
+      - More than sufficient
+      - Sufficient
+      - Adequate
+      - Insufficient
+      - No training provided
+      required: true
+    - id: 21
+      name: value_for_cost
+      label: Value for Cost
+      hint: Rate the value
+      type: select_one
+      options:
+      - Excellent value
+      - Good value
+      - Fair value
+      - Poor value
+      - Very poor value
+      required: true
+    - id: 22
+      name: recommend_to_others
+      label: Recommend to Others
+      hint: Would you recommend?
+      type: select_one
+      options:
+      - Very likely
+      - Likely
+      - Neutral
+      - Unlikely
+      - Very unlikely
+      required: true
+    - id: 23
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: Rate overall satisfaction
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 24
+      name: additional_feedback
+      label: Additional Feedback
+      hint: Any other comments
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: excellence_in_customer_service_nomination_form
+    pages:
+    - id: 1
+      name: form_title
+      label: Excellence In Customer Service Nomination Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_description
+      label: The Excellence in Customer Service Nomination Form allows users to recognize
+        outstanding service representatives, facilitating easy nominations and acknowledgments
+        within your organization
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: select_one_nominated
+      label: Who is the person being nominated?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''John Doe''}'
+      - '{''value'': ''Jane Doe''}'
+      - '{''value'': ''Other''}'
+      required: false

@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gym Accessibility For Disabled Members Survey
+    pages:
+    - id: 1
+      name: general_questions
+      label: How do you generally feel about your experience at our gym?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: parking
+      label: Accessibility of the parking facilities?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: entrance_and_exit
+      label: Accessibility of the entrance and exit?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: accessibility_features
+      label: What accessibility features do you need?
+      hint: null
+      type: select_multiple
+      options:
+      - Wheelchair accessible entrance
+      - Wheelchair accessible restrooms
+      - Accessible changing rooms
+      - Accessible showers
+      - Accessible pool facilities
+      - Accessible gym equipment
+      - Accessible changing areas
+      - Accessible showers with grab bars
+      - Accessible toilets with handrails
+      - Accessible drinking fountains
+      - Accessible drinking fountains with no steps
+      - Accessible drinking fountains with no steps or doors
+      - Accessible drinking fountains with no steps or doors and showers
+      - Accessible drinking fountains with no steps or doors and showers and pool
+      required: false
+    - id: 5
+      name: accessibility_features_2
+      label: What accessibility features do you need?
+      hint: null
+      type: select_one
+      options:
+      - Wheelchair accessible entrance
+      - Wheelchair accessible restrooms
+      - Accessible changing rooms
+      - Accessible showers
+      - Accessible pool facilities
+      - Accessible gym equipment
+      - Accessible changing areas
+      - Accessible showers with grab bars
+      - Accessible toilets with handrails
+      - Accessible drinking fountains
+      - Accessible drinking fountains with no steps
+      - Accessible drinking fountains with no steps or doors
+      - Accessible drinking fountains with no steps or doors and showers
+      required: false
+    - id: 6
+      name: feedback
+      label: Do you have any further feedback?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: contact_details
+      label: Please provide your contact details
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Please provide your phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: date
+      label: Date of Visit
+      hint: null
+      type: date
+      options: []
+      required: false

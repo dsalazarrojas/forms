@@ -1,0 +1,217 @@
+inputSchema:
+  type: object
+  properties:
+    title: Audit Scheduling Experience Survey
+    pages:
+    - id: 1
+      name: survey_date
+      label: Survey Completion Date
+      hint: When you are completing this survey
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: respondent_name
+      label: Your Name
+      hint: Full name of the respondent
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_name
+      label: Company Name
+      hint: Name of your organization
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department_name
+      label: Department Name
+      hint: Your department or division
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: audit_schedule_date
+      label: When Was Your Audit Scheduled
+      hint: Approximate date of the scheduling experience
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: scheduling_ease
+      label: Ease of Scheduling the Audit
+      hint: How easy was it to schedule the audit
+      type: select_one
+      options:
+      - Very Difficult
+      - Difficult
+      - Moderate
+      - Easy
+      - Very Easy
+      required: true
+    - id: 7
+      name: scheduling_method
+      label: Scheduling Method Used
+      hint: How did you schedule the audit
+      type: select_one
+      options:
+      - Online Portal
+      - Email
+      - Phone Call
+      - In-Person Meeting
+      - Other
+      required: true
+    - id: 8
+      name: communication_quality
+      label: Communication Quality
+      hint: Quality of communication about scheduling
+      type: select_one
+      options:
+      - Very Poor
+      - Poor
+      - Average
+      - Good
+      - Excellent
+      required: true
+    - id: 9
+      name: responsiveness_rating
+      label: Auditor Responsiveness
+      hint: How responsive was the audit team
+      type: select_one
+      options:
+      - Very Unresponsive
+      - Unresponsive
+      - Neutral
+      - Responsive
+      - Very Responsive
+      required: true
+    - id: 10
+      name: flexibility_satisfaction
+      label: Flexibility with Scheduling
+      hint: Were auditors flexible with timing preferences
+      type: select_one
+      options:
+      - Very Inflexible
+      - Inflexible
+      - Somewhat Flexible
+      - Flexible
+      - Very Flexible
+      required: true
+    - id: 11
+      name: timeline_adequacy
+      label: Was Timeline Adequate for Preparation
+      hint: Did you have enough time to prepare
+      type: select_one
+      options:
+      - Not at All
+      - Barely
+      - Somewhat
+      - Mostly Yes
+      - Definitely Yes
+      required: true
+    - id: 12
+      name: scheduling_notice_days
+      label: Days Notice Given for Audit
+      hint: Approximately how many days advance notice
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: clear_instructions
+      label: Clear Instructions Provided
+      hint: Were instructions clear about expectations
+      type: select_one
+      options:
+      - Not Clear At All
+      - Unclear
+      - Somewhat Clear
+      - Clear
+      - Very Clear
+      required: true
+    - id: 14
+      name: document_requirements
+      label: Document Requirements Clarity
+      hint: Were document requirements clearly explained
+      type: select_one
+      options:
+      - Very Unclear
+      - Unclear
+      - Somewhat Clear
+      - Clear
+      - Very Clear
+      required: true
+    - id: 15
+      name: scheduling_confirmation
+      label: Confirmation Details Received
+      hint: Did you receive adequate confirmation details
+      type: select_one
+      options:
+      - No Details
+      - Minimal Details
+      - Basic Details
+      - Complete Details
+      - Excellent Details
+      required: true
+    - id: 16
+      name: point_of_contact
+      label: Was Single Point of Contact Available
+      hint: Could you contact one person for questions
+      type: select_one
+      options:
+      - Not Available
+      - Rarely
+      - Sometimes
+      - Mostly
+      - Always
+      required: true
+    - id: 17
+      name: overall_experience
+      label: Overall Scheduling Experience
+      hint: General satisfaction with scheduling process
+      type: select_one
+      options:
+      - Very Unsatisfied
+      - Unsatisfied
+      - Neutral
+      - Satisfied
+      - Very Satisfied
+      required: true
+    - id: 18
+      name: improvement_areas
+      label: Areas for Improvement
+      hint: What could be improved in the scheduling process
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: future_audit_willingness
+      label: Willing to Schedule Another Audit
+      hint: Would you schedule with this auditor again
+      type: select_one
+      options:
+      - Definitely Not
+      - Probably Not
+      - Unsure
+      - Probably Yes
+      - Definitely Yes
+      required: true
+    - id: 20
+      name: recommend_auditor
+      label: Would You Recommend This Auditor
+      hint: Would you recommend to other organizations
+      type: select_one
+      options:
+      - Definitely Not
+      - Probably Not
+      - Unsure
+      - Probably Yes
+      - Definitely Yes
+      required: false
+    - id: 21
+      name: contact_email
+      label: Your Email Address
+      hint: For any follow-up questions
+      type: email
+      options: []
+      required: false

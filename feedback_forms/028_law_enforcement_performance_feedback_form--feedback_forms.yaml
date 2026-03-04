@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Law Enforcement Performance Feedback Form
+    pages:
+    - id: 1
+      name: police_interaction
+      label: How was your interaction with the police?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: police_officer_name
+      label: What was the name of the police officer you interacted with?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: police_department_name
+      label: Which police department did you interact with?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_interaction
+      label: What date did you interact with the police on?
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: time_of_interaction
+      label: What time did you interact with the police on?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: rating
+      label: Rate your satisfaction with the police interaction
+      hint: On a scale of 1-10
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: comments
+      label: Comments about your interaction with the police
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Your email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone_number
+      label: Your phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: additional_comments
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: additional_feedback
+      label: Additional feedback about the police interaction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: report_incident
+      label: Did you experience any issues during your interaction with the police?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 13
+      name: incident_details
+      label: Can you provide more details about the incident?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: follow_up_action
+      label: What follow-up action do you recommend the police department take as
+        a result of your feedback?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

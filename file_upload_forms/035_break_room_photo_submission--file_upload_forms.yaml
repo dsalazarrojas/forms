@@ -1,0 +1,193 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Break Room Photo Submission
+    pages:
+      - id: 1
+        name: employee_name
+        label: Employee Full Name
+        hint: Your full legal name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: employee_email
+        label: Email Address
+        hint: Work email address
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: employee_id
+        label: Employee ID
+        hint: Your employee ID number
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: department
+        label: Department
+        hint: Your department or team
+        type: select_one
+        options:
+          - Human Resources
+          - Engineering
+          - Marketing
+          - Sales
+          - Operations
+          - Finance
+          - Customer Support
+          - Product
+          - Other
+        required: true
+      - id: 5
+        name: office_location
+        label: Office Location
+        hint: Which office is this for
+        type: select_one
+        options:
+          - Headquarters
+          - Downtown Office
+          - West Coast Office
+          - East Coast Office
+          - Remote Workspace
+          - Other
+        required: true
+      - id: 6
+        name: break_room_location
+        label: Break Room Location
+        hint: Which break room are you submitting
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: floor_or_level
+        label: Floor or Level
+        hint: Floor number or level
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: photo_date
+        label: Photo Date
+        hint: When was this photo taken
+        type: date
+        options: []
+        required: true
+      - id: 9
+        name: photo_time
+        label: Photo Time
+        hint: What time was this taken
+        type: time
+        options: []
+        required: false
+      - id: 10
+        name: photo_type
+        label: Photo Type
+        hint: What does this photo show
+        type: select_one
+        options:
+          - Overall Break Room
+          - Seating Area
+          - Kitchen Area
+          - Vending Machines
+          - Cleanliness Issue
+          - Maintenance Needed
+          - New Feature
+          - Other
+        required: true
+      - id: 11
+        name: photo_description
+        label: Photo Description
+        hint: Describe what is in the photo
+        type: text
+        options: []
+        required: true
+      - id: 12
+        name: condition_status
+        label: Condition Status
+        hint: What is the condition shown
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Needs Attention
+          - Poor
+          - Requires Immediate Action
+        required: true
+      - id: 13
+        name: issue_category
+        label: Issue Category
+        hint: What type of issue if any
+        type: select_multiple
+        options:
+          - No Issues
+          - Cleanliness
+          - Maintenance
+          - Supplies Low
+          - Equipment Broken
+          - Safety Concern
+          - Capacity Issue
+          - Other
+        required: true
+      - id: 14
+        name: issue_description
+        label: Issue Description
+        hint: Describe any issues in detail
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: priority_level
+        label: Priority Level
+        hint: How urgent is this
+        type: select_one
+        options:
+          - Low
+          - Medium
+          - High
+          - Critical
+        required: true
+      - id: 16
+        name: suggested_improvements
+        label: Suggested Improvements
+        hint: Any suggestions for improvement
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: follow_up_needed
+        label: Follow-Up Needed
+        hint: Does this require follow-up
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 18
+        name: additional_photos
+        label: Additional Photos
+        hint: Do you have more photos to submit
+        type: select_one
+        options:
+          - Yes, Will Submit Separately
+          - No, This Is All
+        required: true
+      - id: 19
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback or notes
+        type: text
+        options: []
+        required: false

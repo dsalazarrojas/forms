@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: HR Service Quality Survey
+    pages:
+    - id: 1
+      name: hr_service_quality_survey_form
+      label: hr_service_quality_survey_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - HR
+      - Finance
+      - Operations
+      required: false
+    - id: 4
+      name: hr_service_quality_survey_form_comments
+      label: hr_service_quality_survey_form_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: overall_rating
+      label: overall_rating
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      required: false
+    - id: 6
+      name: satisfaction_with_hrservices
+      label: satisfaction_with_hrservices
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: rating_hrservices
+      label: rating_hrservices
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: feedback
+      label: feedback
+      hint: null
+      type: note
+      options: []
+      required: false

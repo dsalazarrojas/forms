@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: operational_strategy_survey
+    pages:
+    - id: 1
+      name: page1
+      label: what_is_your_position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: page2
+      label: what_are_your_main_responsibilities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: page3
+      label: which_department
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: page4
+      label: what_are_your_goals
+      hint: null
+      type: text
+      options: []
+      required: false

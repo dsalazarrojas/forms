@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: App Functionality Feedback Assessment Form
+    pages:
+    - id: 1
+      name: technical_info_header
+      label: -- Technical Environment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: device_model
+      label: Device Model
+      hint: e.g. iPhone 13, Samsung S21
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: os_version
+      label: Operating System Version
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: app_version
+      label: App Version
+      hint: Found in settings or about section
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: functionality_rating
+      label: Overall Functionality Rating
+      hint: 1 is buggy, 5 is flawless
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: loading_time_satisfaction
+      label: Loading Time Satisfaction
+      hint: How fast does the app open?
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      required: true
+    - id: 7
+      name: stability_rating
+      label: Stability and Crash Frequency
+      hint: null
+      type: select_one
+      options:
+      - Never Crashes
+      - Rarely Crashes
+      - Occasional Crashes
+      - Frequent Crashes
+      required: true
+    - id: 8
+      name: navigation_ease
+      label: Ease of Navigation
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: offline_functionality
+      label: Offline Functionality Performance
+      hint: null
+      type: select_one
+      options:
+      - Works Great
+      - Works with Limitations
+      - Doesn - t Work
+      - N/A
+      required: false
+    - id: 10
+      name: sync_speed_rating
+      label: Data Syncing Speed
+      hint: null
+      type: select_one
+      options:
+      - Instant
+      - Fast
+      - Slow
+      - Failed Syncs
+      required: true
+    - id: 11
+      name: notification_reliability
+      label: Notification Reliability
+      hint: null
+      type: select_one
+      options:
+      - Always On Time
+      - Sometimes Delayed
+      - Never Received
+      - N/A
+      required: false
+    - id: 12
+      name: bug_description
+      label: Describe any bugs or errors encountered
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: impact_on_productivity
+      label: Impact of issues on your productivity
+      hint: null
+      type: select_one
+      options:
+      - No Impact
+      - Minor Inconvenience
+      - Significant Delay
+      - Total Blocker
+      required: true

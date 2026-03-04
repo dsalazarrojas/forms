@@ -1,0 +1,156 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Audit Resource Utilization Survey
+    pages:
+      - id: 1
+        name: survey_date
+        label: Survey Date
+        hint: When is this survey being completed
+        type: date
+        options: []
+        required: true
+      - id: 2
+        name: department_name
+        label: Department Name
+        hint: Name of department being surveyed
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: team_member_name
+        label: Team Member Name
+        hint: Your name
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: employee_id
+        label: Employee ID
+        hint: Your employee identification number
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: resource_access_satisfaction
+        label: Satisfaction with Resource Access
+        hint: How satisfied are you with access to needed resources
+        type: select_one
+        options: ['Very Unsatisfied', 'Unsatisfied', 'Neutral', 'Satisfied', 'Very Satisfied']
+        required: true
+      - id: 6
+        name: resource_adequacy
+        label: Are Resources Adequate for Your Role
+        hint: Do you have sufficient resources to perform your duties
+        type: select_one
+        options: ['Definitely Not', 'Mostly Not', 'Somewhat', 'Mostly Yes', 'Definitely Yes']
+        required: true
+      - id: 7
+        name: tools_and_equipment
+        label: Tools and Equipment Status
+        hint: Select all that apply to your situation
+        type: select_multiple
+        options: ['Outdated Equipment', 'Insufficient Quantity', 'Difficult to Access', 'Poor Training', 'Adequate and Current', 'Excellent Quality']
+        required: false
+      - id: 8
+        name: technology_utilization
+        label: Technology Utilization Level
+        hint: How effectively are you using technology
+        type: select_one
+        options: ['Very Low', 'Low', 'Moderate', 'High', 'Very High']
+        required: true
+      - id: 9
+        name: training_quality
+        label: Quality of Training Received
+        hint: Rate the training you received
+        type: select_one
+        options: ['Poor', 'Below Average', 'Average', 'Good', 'Excellent']
+        required: true
+      - id: 10
+        name: budget_constraints
+        label: Budget Constraints Impact
+        hint: How much do budget limits affect your work
+        type: select_one
+        options: ['No Impact', 'Minimal Impact', 'Moderate Impact', 'Significant Impact', 'Severe Impact']
+        required: true
+      - id: 11
+        name: staffing_levels
+        label: Staffing Level Adequacy
+        hint: Are current staffing levels adequate
+        type: select_one
+        options: ['Severely Understaffed', 'Understaffed', 'Adequately Staffed', 'Well Staffed', 'Over Staffed']
+        required: true
+      - id: 12
+        name: resource_allocation_fairness
+        label: Resource Allocation Fairness
+        hint: Is resource allocation fair across teams
+        type: select_one
+        options: ['Very Unfair', 'Unfair', 'Neutral', 'Fair', 'Very Fair']
+        required: false
+      - id: 13
+        name: biggest_resource_gap
+        label: Biggest Resource Gap
+        hint: What resource do you need most
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: efficiency_improvement_potential
+        label: Efficiency Improvement Potential
+        hint: Could efficiency improve with better resources
+        type: select_one
+        options: ['Very Unlikely', 'Unlikely', 'Possibly', 'Likely', 'Very Likely']
+        required: true
+      - id: 15
+        name: improvement_suggestions
+        label: Specific Improvement Suggestions
+        hint: What changes would help most
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: communication_effectiveness
+        label: Resource Information Communication
+        hint: How well are resources communicated to teams
+        type: select_one
+        options: ['Very Poor', 'Poor', 'Average', 'Good', 'Excellent']
+        required: true
+      - id: 17
+        name: support_availability
+        label: IT and Support Team Availability
+        hint: Are support resources available when needed
+        type: select_one
+        options: ['Never Available', 'Rarely Available', 'Sometimes Available', 'Usually Available', 'Always Available']
+        required: true
+      - id: 18
+        name: overall_satisfaction
+        label: Overall Satisfaction with Resources
+        hint: General satisfaction rating
+        type: select_one
+        options: ['Very Unsatisfied', 'Unsatisfied', 'Neutral', 'Satisfied', 'Very Satisfied']
+        required: true
+      - id: 19
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback about resource utilization
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: contact_email
+        label: Email for Follow-Up
+        hint: If you would like to discuss further
+        type: email
+        options: []
+        required: false

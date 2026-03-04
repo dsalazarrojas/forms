@@ -1,0 +1,320 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Animal Shelter Website Experience Survey
+    pages:
+    - id: 1
+      name: visitor_email
+      label: Email Address
+      hint: Optional - for follow-up
+      type: email
+      options: []
+      required: false
+    - id: 2
+      name: visit_date
+      label: Date of Visit
+      hint: When did you visit the website
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: visit_device
+      label: Device Used
+      hint: Computer, tablet, or mobile
+      type: select_one
+      options:
+      - Desktop Computer
+      - Laptop
+      - Tablet
+      - Mobile Phone
+      - Other
+      required: true
+    - id: 4
+      name: first_time_visitor
+      label: First Time Visitor
+      hint: Is this your first visit
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: visit_frequency
+      label: How Often Do You Visit
+      hint: Frequency of website visits
+      type: select_one
+      options:
+      - First visit
+      - Occasionally
+      - Monthly
+      - Weekly
+      - Daily
+      required: false
+    - id: 6
+      name: section_purpose
+      label: -- Visit Purpose --
+      hint: Why you came to the website
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: visit_purpose
+      label: Main Reason for Your Visit
+      hint: What you came to do
+      type: select_one
+      options:
+      - View available animals
+      - Adopt a pet
+      - Donate
+      - Volunteer
+      - Get information
+      - Report animal
+      - Other
+      required: true
+    - id: 8
+      name: accomplished_goal
+      label: Did You Accomplish Your Goal
+      hint: Were you able to do what you wanted
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Partially
+      required: true
+    - id: 9
+      name: section_design
+      label: -- Website Design and Layout --
+      hint: How the website looks and feels
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: visual_appeal
+      label: Overall Visual Appeal
+      hint: Rate from 1 (Poor) to 5 (Excellent)
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Good
+      - 4 - Very Good
+      - 5 - Excellent
+      required: true
+    - id: 11
+      name: color_scheme
+      label: Color Scheme and Design
+      hint: Rate from 1 (Poor) to 5 (Excellent)
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Good
+      - 4 - Very Good
+      - 5 - Excellent
+      required: true
+    - id: 12
+      name: layout_organization
+      label: Layout and Organization
+      hint: Rate from 1 (Confusing) to 5 (Excellent)
+      type: select_one
+      options:
+      - 1 - Very Confusing
+      - 2 - Confusing
+      - 3 - Neutral
+      - 4 - Well-organized
+      - 5 - Excellent
+      required: true
+    - id: 13
+      name: section_navigation
+      label: -- Navigation and Usability --
+      hint: How easy it is to use the site
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: ease_of_navigation
+      label: Ease of Navigation
+      hint: Rate from 1 (Difficult) to 5 (Very Easy)
+      type: select_one
+      options:
+      - 1 - Very Difficult
+      - 2 - Difficult
+      - 3 - Neutral
+      - 4 - Easy
+      - 5 - Very Easy
+      required: true
+    - id: 15
+      name: find_information
+      label: Easy to Find Information
+      hint: Rate from 1 (Difficult) to 5 (Very Easy)
+      type: select_one
+      options:
+      - 1 - Very Difficult
+      - 2 - Difficult
+      - 3 - Neutral
+      - 4 - Easy
+      - 5 - Very Easy
+      required: true
+    - id: 16
+      name: menu_structure
+      label: Menu and Navigation Structure
+      hint: Rate from 1 (Confusing) to 5 (Excellent)
+      type: select_one
+      options:
+      - 1 - Very Confusing
+      - 2 - Confusing
+      - 3 - Neutral
+      - 4 - Good
+      - 5 - Excellent
+      required: true
+    - id: 17
+      name: mobile_experience
+      label: Mobile Experience
+      hint: Rate from 1 (Poor) to 5 (Excellent)
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Good
+      - 4 - Very Good
+      - 5 - Excellent
+      required: false
+    - id: 18
+      name: section_content
+      label: -- Content Quality --
+      hint: Information and content on the site
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: content_relevance
+      label: Relevance of Content
+      hint: Rate from 1 (Irrelevant) to 5 (Very Relevant)
+      type: select_one
+      options:
+      - 1 - Irrelevant
+      - 2 - Somewhat Irrelevant
+      - 3 - Neutral
+      - 4 - Relevant
+      - 5 - Very Relevant
+      required: true
+    - id: 20
+      name: animal_listings
+      label: Animal Listings Quality
+      hint: Rate from 1 (Poor) to 5 (Excellent)
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Good
+      - 4 - Very Good
+      - 5 - Excellent
+      required: true
+    - id: 21
+      name: image_quality
+      label: Photo and Image Quality
+      hint: Rate from 1 (Poor) to 5 (Excellent)
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Good
+      - 4 - Very Good
+      - 5 - Excellent
+      required: true
+    - id: 22
+      name: section_functionality
+      label: -- Website Functionality --
+      hint: How well the site works
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: page_load_speed
+      label: Page Load Speed
+      hint: Rate from 1 (Very Slow) to 5 (Very Fast)
+      type: select_one
+      options:
+      - 1 - Very Slow
+      - 2 - Slow
+      - 3 - Moderate
+      - 4 - Fast
+      - 5 - Very Fast
+      required: true
+    - id: 24
+      name: broken_links
+      label: Encountered Broken Links or Errors
+      hint: Did you find broken links
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: search_functionality
+      label: Search Functionality
+      hint: Rate from 1 (Poor) to 5 (Excellent)
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Good
+      - 4 - Very Good
+      - 5 - Excellent
+      required: false
+    - id: 26
+      name: section_feedback
+      label: -- Your Feedback --
+      hint: Additional comments and suggestions
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: satisfaction_level
+      label: Overall Satisfaction Level
+      hint: Rate from 1 (Very Unsatisfied) to 5 (Very Satisfied)
+      type: select_one
+      options:
+      - 1 - Very Unsatisfied
+      - 2 - Unsatisfied
+      - 3 - Neutral
+      - 4 - Satisfied
+      - 5 - Very Satisfied
+      required: true
+    - id: 28
+      name: likely_recommend
+      label: Likely to Recommend Website
+      hint: Rate from 1 (Very Unlikely) to 5 (Very Likely)
+      type: select_one
+      options:
+      - 1 - Very Unlikely
+      - 2 - Unlikely
+      - 3 - Neutral
+      - 4 - Likely
+      - 5 - Very Likely
+      required: true
+    - id: 29
+      name: improvements_suggestions
+      label: Suggestions for Improvement
+      hint: What could we do better
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: additional_feedback
+      label: Additional Feedback or Comments
+      hint: Any other thoughts
+      type: text
+      options: []
+      required: false

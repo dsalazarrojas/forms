@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Logistics Delivery Punctuality Inquiry Form
+    pages:
+    - id: 1
+      name: delivery_date
+      label: Delivery Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: delivery_time
+      label: Delivery Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: arrival_time
+      label: Arrived Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: punctuality
+      label: Punctuality Status
+      hint: null
+      type: select_one
+      options:
+      - On Time
+      - Early
+      - Late
+      - Undetermined
+      required: false
+    - id: 5
+      name: feedback_comments
+      label: Feedback Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: carrier_name
+      label: Carrier Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: carrier_rating
+      label: Carrier Rating
+      hint: null
+      type: select_one
+      options:
+      - '5'
+      - '4'
+      - '3'
+      - '2'
+      - '1'
+      required: false
+    - id: 8
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false

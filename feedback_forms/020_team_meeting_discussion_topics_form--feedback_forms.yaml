@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Team Meeting Discussion Topics Form
+    pages:
+    - id: 1
+      name: meeting_topic
+      label: Meeting Topic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: agenda_item
+      label: Agenda Item
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: meeting_date
+      label: Meeting Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: meeting_time
+      label: Meeting Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: meeting_location
+      label: Meeting Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: attendees
+      label: Attendees
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: discussion_topic
+      label: Discussion Topic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: action_items
+      label: Action Items
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,149 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Client Campaign Content Upload Form
+    pages:
+      - id: 1
+        name: campaign_intro
+        label: -- Campaign Content Submission --
+        hint: Please provide all assets and details for the upcoming campaign launch.
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: campaign_name
+        label: Campaign Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: client_name
+        label: Client Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: launch_date
+        label: Target Launch Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: channels_header
+        label: -- Campaign Channels --
+        hint: Select all intended channels
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: targeted_channels
+        label: Campaign Channels
+        hint: null
+        type: select_multiple
+        options:
+          - Social Media (Meta/LinkedIn/X)
+          - Google Search/Display
+          - Email Newsletter
+          - SMS Marketing
+          - Landing Page / Web
+          - Video (YouTube/Connected TV)
+          - Print/Physical Media
+        required: true
+      - id: 7
+        name: asset_details_header
+        label: -- Asset Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: asset_inventory_list
+        label: Description of Assets Provided
+        hint: e.g. 5 Ad banners, 1 Video file, 3 Email templates
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: copy_status
+        label: Is campaign copy/text included in the upload?
+        hint: null
+        type: select_one
+        options:
+          - Yes, final and approved
+          - Draft version only
+          - Need agency to write copy
+        required: true
+      - id: 10
+        name: tracking_links_needed
+        label: Do you require custom tracking (UTM) links created?
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No, already provided
+        required: true
+      - id: 11
+        name: primary_kpi
+        label: Primary Success Metric (KPI)
+        hint: e.g. Clicks, Conversions, Brand Awareness
+        type: text
+        options: []
+        required: true
+      - id: 12
+        name: upload_method_header
+        label: -- Secure Submission --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 13
+        name: asset_portal_upload_confirm
+        label: Have you uploaded assets to the client portal?
+        hint: null
+        type: select_one
+        options:
+          - Yes, upload complete
+          - No, using cloud link below
+        required: true
+      - id: 14
+        name: cloud_link_backup
+        label: Backup Cloud Link (if applicable)
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: submission_authorized_by
+        label: Authorized By (Name)
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 16
+        name: submission_date
+        label: Date of Submission
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 17
+        name: campaign_footer
+        label: -- Campaign intake recorded --
+        hint: Your account manager will review and confirm within 24 hours.
+        type: note
+        options: []
+        required: false

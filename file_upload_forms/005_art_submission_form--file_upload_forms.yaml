@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Submission Form
+    pages:
+    - id: 1
+      name: artist_info_header
+      label: -- Artist Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: artist_name
+      label: Artist Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: artist_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: artist_bio
+      label: Brief Artist Bio
+      hint: Max 200 words
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: artwork_info_header
+      label: -- Artwork Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: artwork_title
+      label: Title of the Work
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: category
+      label: Submission Category
+      hint: Select the best fit
+      type: select_one
+      options:
+      - Painting
+      - Sculpture
+      - Photography
+      - Mixed Media
+      - Digital Art
+      required: true
+    - id: 8
+      name: dimensions_weight
+      label: Dimensions and Weight
+      hint: e.g. 24x36 inches, 5 lbs
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: year_completed
+      label: Year Completed
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: artist_statement
+      label: Statement About the Piece
+      hint: Describe the inspiration or meaning
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: upload_notice
+      label: Please ensure high resolution images are ready for upload
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: authenticity_confirmation
+      label: I certify this is my original work
+      hint: null
+      type: select_one
+      options:
+      - Yes, I Certify
+      - Other
+      required: true

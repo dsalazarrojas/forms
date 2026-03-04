@@ -1,0 +1,243 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Backup Storage Requisition Form
+    pages:
+      - id: 1
+        name: section_requester
+        label: -- Requester Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: requester_name
+        label: Requester Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: requester_email
+        label: Email Address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: requester_phone
+        Label: Phone Number
+        hint: null
+        type: phone
+        options: []
+        required: false
+      - id: 5
+        name: department
+        label: Department
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: manager_name
+        Label: Manager/Supervisor Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: section_requisition
+        label: -- Storage Requisition Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: storage_type
+        label: Type of Storage Needed
+        hint: null
+        type: select_one
+        options:
+          - External Hard Drive
+          - Network Attached Storage (NAS)
+          - Cloud Storage Subscription
+          - Tape Storage
+          - SAN (Storage Area Network)
+          - Other
+        required: true
+      - id: 9
+        name: storage_capacity
+        Label: Required Storage Capacity
+        hint: null
+        type: select_one
+        options:
+          - 1 TB
+          - 2 TB
+          - 4 TB
+          - 8 TB
+          - 16 TB
+          - 32 TB
+          - Custom
+        required: true
+      - id: 10
+        name: custom_capacity
+        Label: Custom Capacity (if selected)
+        hint: Specify in TB or GB
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: storage_purpose
+        Label: Primary Purpose for Storage
+        hint: null
+        type: select_one
+        options:
+          - Daily Backups
+          - Archive Storage
+          - Disaster Recovery
+          - Development/Testing
+          - Long-term Retention
+          - Multiple Purposes
+        required: true
+      - id: 12
+        name: data_type
+        Label: Type of Data to Store
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Documents
+          - Databases
+          - Application Files
+          - Media Files
+          - Email Archives
+          - System Images
+          - Logs
+        required: true
+      - id: 13
+        name: estimated_data_size
+        Label: Current Estimated Data Size
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 14
+        name: growth_projection
+        Label: Expected Data Growth Per Year
+        hint: Percentage or amount
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: section_requirements
+        label: -- Technical Requirements --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 16
+        name: access_type
+        Label: Access Type Required
+        hint: null
+        type: select_one
+        options:
+          - Local Network Access
+          - Remote Access
+          - Both Local and Remote
+          - Cloud-based Only
+        required: true
+      - id: 17
+        name: backup_frequency
+        Label: Backup Frequency
+        hint: null
+        type: select_one
+        options:
+          - Continuous
+          - Hourly
+          - Daily
+          - Weekly
+          - Monthly
+          - On-Demand
+        required: true
+      - id: 18
+        name: encryption_needed
+        Label: Encryption Required?
+        hint: null
+        type: select_one
+        options:
+          - "Yes"
+          - "No"
+        required: true
+      - id: 19
+        name: redundancy_required
+        Label: Redundancy/RAID Configuration Needed?
+        hint: null
+        type: select_one
+        options:
+          - "Yes - RAID 1"
+          - "Yes - RAID 5"
+          - "Yes - RAID 6"
+          - "No"
+        required: false
+      - id: 20
+        name: section_compliance
+        label: -- Compliance and Security --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 21
+        name: compliance_standards
+        Label: Required Compliance Standards
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - GDPR
+          - HIPAA
+          - SOC 2
+          - PCI DSS
+          - NIST
+          - None
+        required: false
+      - id: 22
+        name: data_classification
+        Label: Data Classification Level
+        hint: null
+        type: select_one
+        options:
+          - Public
+          - Internal
+          - Confidential
+          - Highly Restricted
+        required: true
+      - id: 23
+        name: section_timing
+        label: -- Timeline and Budget --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 24
+        name: needed_by_date
+        Label: Date Needed By
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 25
+        name: budget_code
+        Label: Cost Center or Budget Code
+        hint: null
+        type: text
+        options: []
+        required: false

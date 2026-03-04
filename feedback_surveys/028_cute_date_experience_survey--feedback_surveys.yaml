@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cute Date Experience Survey
+    pages:
+    - id: 1
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: partner
+      label: Who was the date with?
+      hint: null
+      type: select_one
+      options:
+      - Alice
+      - Bob
+      - Charlie
+      required: false
+    - id: 3
+      name: memorable_moment
+      label: Was there a memorable moment?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 4
+      name: feedback
+      label: What was your feedback?
+      hint: Be as detailed as possible
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_type
+      label: What type of date was this?
+      hint: null
+      type: select_one
+      options:
+      - First Date
+      - Repeat Date
+      - Casual Date
+      required: false
+    - id: 6
+      name: fun
+      label: Was the date fun?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 7
+      name: memorable_moment_details
+      label: What makes it memorable?
+      hint: Be as detailed as possible
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: would_you_like
+      label: Would you like to do this again?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: why
+      label: Why or why not?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: rating
+      label: Rate your experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: recommend
+      label: Would you recommend this?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: would_recommend_reason
+      label: Why or why not?
+      hint: null
+      type: text
+      options: []
+      required: false

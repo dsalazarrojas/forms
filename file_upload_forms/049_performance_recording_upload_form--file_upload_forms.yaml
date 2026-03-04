@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Performance Recording Upload Form
+    pages:
+    - id: 1
+      name: performer_name
+      label: Performer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: recording_file
+      label: Recording File
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: performance_type
+      label: Performance Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false

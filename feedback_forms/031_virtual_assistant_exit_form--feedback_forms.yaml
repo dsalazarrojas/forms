@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Assistant Exit Form
+    pages:
+    - id: 1
+      name: virtual_assistant_exit_form
+      label: Virtual Assistant Exit Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: client_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: service_details
+      label: service_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: service_type
+      label: service_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: service_provider
+      label: service_provider
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: service_agreement
+      label: service_agreement
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: exit_reason
+      label: exit_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_info
+      label: additional_info
+      hint: null
+      type: text
+      options: []
+      required: false

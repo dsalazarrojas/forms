@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Program Feedback Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Student Program Feedback Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: program_title
+      label: program_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: rating
+      label: rating
+      hint: Rate this program out of 5
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: date
+      label: date
+      hint: Date of the program
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: time
+      label: time
+      hint: Time of the program
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: select_one_program
+      label: select_one_program
+      hint: Select a program
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 10
+      name: select_multiple_programs
+      label: select_multiple_programs
+      hint: Select multiple programs
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 11
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: form_assigned_to
+      label: Form assigned to
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: created
+      label: Created
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: updated
+      label: Updated
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: assigned_to
+      label: Assigned to
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: form_category
+      label: Form Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: form_description
+      label: Form Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: form_assigned_tool
+      label: Form assigned tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: version
+      label: Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: version_date
+      label: Version Date
+      hint: null
+      type: text
+      options: []
+      required: false

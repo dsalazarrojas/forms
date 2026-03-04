@@ -1,0 +1,155 @@
+inputSchema:
+  type: object
+  properties:
+    title: Aviatra Client Interest and Metrics
+    pages:
+    - id: 1
+      name: section_client_profile
+      label: -- Client Profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: business_name
+      label: Business Name
+      hint: Registered name or DBA
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_business_metrics
+      label: -- Business Metrics --
+      hint: Help us understand your current scale
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: revenue_stage
+      label: Current Revenue Stage
+      hint: Annual Gross Revenue
+      type: select_one
+      options:
+      - $0 - $10,000 (Seed/Pre-revenue)
+      - $10,001 - $50,000
+      - $50,001 - $100,000
+      - $100,001 - $500,000
+      - Over $500,000
+      required: true
+    - id: 8
+      name: employee_count
+      label: Number of Employees
+      hint: Including yourself and part-time staff
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: years_in_business
+      label: Years in Business
+      hint: Since official registration
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: industry_category
+      label: Primary Industry
+      hint: null
+      type: select_one
+      options:
+      - Retail/E-commerce
+      - Technology/SaaS
+      - Professional Services
+      - Manufacturing/Craft
+      - Creative/Arts
+      - Food and Beverage
+      required: true
+    - id: 11
+      name: section_program_interest
+      label: -- GROW Program Interest --
+      hint: Tell us about your goals for the program
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: interest_level
+      label: Level of Interest in GROW Program
+      hint: How committed are you to joining?
+      type: select_one
+      options:
+      - Very High (Ready to start)
+      - High (Likely to join)
+      - Moderate (Seeking more info)
+      - Low (Just browsing)
+      required: true
+    - id: 13
+      name: program_goals
+      label: Specific Program Goals
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Scaling Business Operations
+      - Marketing and Brand Development
+      - Financial Planning and Investment
+      - Networking and Mentorship
+      - Operational Efficiency
+      required: true
+    - id: 14
+      name: biggest_challenge
+      label: Current Biggest Business Challenge
+      hint: Briefly describe your main pain point
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: hears_source
+      label: How did you hear about Aviatra?
+      hint: null
+      type: select_one
+      options:
+      - Social Media (FB/IG/LI)
+      - Word of Mouth/Referral
+      - Aviatra Website
+      - Local Networking Event
+      - Partner Organization
+      required: true
+    - id: 16
+      name: workshop_preference
+      label: Preferred Workshop Timing
+      hint: When are you most likely to attend sessions?
+      type: select_one
+      options:
+      - Weekday Mornings
+      - Weekday Evenings
+      - Weekends
+      - Virtual (Self-paced)
+      required: true
+    - id: 17
+      name: participant_acknowledgment
+      label: Acknowledgment
+      hint: I agree to share my business data for program metrics
+      type: select_one
+      options:
+      - Yes, I agree
+      - Other
+      required: true

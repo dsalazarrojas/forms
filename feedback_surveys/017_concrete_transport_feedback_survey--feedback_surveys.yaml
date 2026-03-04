@@ -1,0 +1,102 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Concrete Transport Feedback Survey
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Respondent name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: company_name
+        label: Company name
+        hint: Optional company or site name
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: delivery_date
+        label: Delivery date
+        hint: Date of the concrete delivery
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: timeliness
+        label: Delivery timeliness rating
+        hint: Was the delivery on time
+        type: select_one
+        options:
+          - On time
+          - Late
+          - Early
+        required: true
+      - id: 5
+        name: concrete_quality
+        label: Concrete quality rating
+        hint: Visual and performance assessment
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 6
+        name: driver_professionalism
+        label: Driver professionalism rating
+        hint: Courtesy and communication
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+        required: false
+      - id: 7
+        name: documentation_accuracy
+        label: Documentation accuracy
+        hint: Ticket and load information correct
+        type: select_one
+        options:
+          - Accurate
+          - Some errors
+          - Inaccurate
+        required: false
+      - id: 8
+        name: issues_reported
+        label: Issues reported at delivery
+        hint: Describe any problems encountered
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: follow_up_needed
+        label: Follow up needed
+        hint: Does the vendor need to follow up
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: false
+      - id: 10
+        name: additional_comments
+        label: Additional comments
+        hint: Any suggestions for improvement
+        type: text
+        options: []
+        required: false

@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Finance Online Session Feedback
+    pages:
+    - id: 1
+      name: workshop_attended
+      label: Did you attend the workshop
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: finance_topic
+      label: What finance topic was the workshop about
+      hint: null
+      type: select_one
+      options:
+      - Investing
+      - Saving
+      - Budgeting
+      - Retirement
+      - Taxation
+      - Cryptocurrency
+      - Other
+      required: false
+    - id: 3
+      name: session_satisfaction
+      label: How satisfied were you with the session
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 4
+      name: suggestions
+      label: Do you have any suggestions for future sessions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: session_date
+      label: Session date
+      hint: YYYY-MM-DD, 2022-01-01
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: session_time
+      label: Session start time
+      hint: "HH:MM AM/PM"
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: session_duration
+      label: Session duration
+      hint: "HH:MM"
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: session_location
+      label: Session location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: session_facilitator_name
+      label: Session facilitator name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: session_facilitator_contact_info
+      label: Session facilitator contact information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: participant_name
+      label: Participant name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: participant_email
+      label: Participant email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: workshop_attended_with
+      label: With whom did you attend the workshop
+      hint: null
+      type: select_multiple
+      options:
+      - Alone
+      - With friends
+      - With family
+      required: false

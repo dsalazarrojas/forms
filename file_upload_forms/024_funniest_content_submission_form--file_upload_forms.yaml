@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Funniest Content Submission Form
+    pages:
+    - id: 1
+      name: user_joke
+      label: User Joke
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_story
+      label: User Story
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: user_media
+      label: User Media
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Funny''}'
+      - '{''id'': 2, ''label'': ''Story''}'
+      - '{''id'': 3, ''label'': ''Joke''}'
+      required: false
+    - id: 5
+      name: subcategory
+      label: Subcategory
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Funny''}'
+      - '{''id'': 2, ''label'': ''Story''}'
+      required: false
+    - id: 6
+      name: content_type
+      label: Content Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''text''}'
+      - '{''id'': 2, ''label'': ''image''}'
+      - '{''id'': 3, ''label'': ''video''}'
+      required: false
+    - id: 7
+      name: tags
+      label: Tags
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''funny''}'
+      - '{''id'': 2, ''label'': ''story''}'
+      required: false
+    - id: 8
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: user_email
+      label: User E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: user_phone
+      label: User Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: user_location
+      label: User Location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Online''}'
+      - '{''id'': 2, ''label'': ''Offline''}'
+      required: false
+    - id: 12
+      name: user_website
+      label: User Website
+      hint: null
+      type: text
+      options: []
+      required: false

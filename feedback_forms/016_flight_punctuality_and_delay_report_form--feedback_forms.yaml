@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Flight Punctuality And Delay Report Form
+    pages:
+    - id: 1
+      name: flight_punctuality_and_delay_report_form_page_1
+      label: Delay Report Form
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''flight_report'', ''name'': ''Flight Report''}'
+      - '{''id'': ''delay_report'', ''name'': ''Delay Report''}'
+      required: true
+    - id: 2
+      name: flight_punctuality_and_delay_report_form_page_2
+      label: Flight Information
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: flight_punctuality_and_delay_report_form_page_3
+      label: Flight Details
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': ''flight_number'', ''name'': ''Flight Number''}'
+      - '{''id'': ''flight_date'', ''name'': ''Flight Date''}'
+      - '{''id'': ''flight_status'', ''name'': ''Flight Status''}'
+      - '{''id'': ''flight_cancellation_reason'', ''name'': ''Flight Cancellation
+        Reason''}'
+      required: true
+    - id: 4
+      name: flight_punctuality_and_delay_report_form_page_4
+      label: Arrival and Departure
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''on_time'', ''name'': ''On Time''}'
+      - '{''id'': ''delayed'', ''name'': ''Delayed''}'
+      - '{''id'': ''cancelled'', ''name'': ''Cancelled''}'
+      - '{''id'': ''diverted'', ''name'': ''Diverted''}'
+      required: true
+    - id: 5
+      name: flight_punctuality_and_delay_report_form_page_5
+      label: Reason for Delay
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': ''weather'', ''name'': ''Weather''}'
+      - '{''id'': ''mechanical'', ''name'': ''Mechanical''}'
+      - '{''id'': ''air_traffic'', ''name'': ''Air Traffic''}'
+      - '{''id'': ''ground_traffic'', ''name'': ''Ground Traffic''}'
+      - '{''id'': ''other'', ''name'': ''Other''}'
+      required: false
+    - id: 6
+      name: flight_punctuality_and_delay_report_form_page_6
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: flight_punctuality_and_delay_report_form_page_7
+      label: Support Team
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''primary_contact'', ''name'': ''Primary Contact''}'
+      - '{''id'': ''secondary_contact'', ''name'': ''Secondary Contact''}'
+      - '{''id'': ''support_team'', ''name'': ''Support Team''}'
+      required: true
+    - id: 8
+      name: flight_punctuality_and_delay_report_form_page_8
+      label: Support Team Contact Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: flight_punctuality_and_delay_report_form_page_9
+      label: Submit
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': ''submit_now'', ''name'': ''Submit Now''}'
+      - '{''id'': ''submit_later'', ''name'': ''Submit Later''}'
+      required: true
+    - id: 10
+      name: flight_punctuality_and_delay_report_form_page_10
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: flight_punctuality_and_delay_report_form_page_11
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: flight_punctuality_and_delay_report_form_page_12
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: flight_punctuality_and_delay_report_form_page_13
+      label: Your Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: flight_punctuality_and_delay_report_form_page_14
+      label: Your Position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: flight_punctuality_and_delay_report_form_page_15
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: flight_punctuality_and_delay_report_form_page_16
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: flight_punctuality_and_delay_report_form_page_17
+      label: Email
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: flight_punctuality_and_delay_report_form_page_18
+      label: Your Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: flight_punctuality_and_delay_report_form_page_19
+      label: Your Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: flight_punctuality_and_delay_report_form_page_20
+      label: Your Time Zone
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: flight_punctuality_and_delay_report_form_page_21
+      label: Your Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 22
+      name: flight_punctuality_and_delay_report_form_page_22
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: flight_punctuality_and_delay_report_form_page_23
+      label: Date and Time
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: flight_punctuality_and_delay_report_form_page_24
+      label: Your Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: flight_punctuality_and_delay_report_form_page_25
+      label: Submit Now
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': ''submit_now'', ''name'': ''Submit Now''}'
+      - '{''id'': ''submit_later'', ''name'': ''Submit Later''}'
+      required: true

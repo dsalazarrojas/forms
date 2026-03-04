@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Thelocalproject Version C Community Civic Groups
+    pages:
+    - id: 1
+      name: community_civic_groups
+      label: community_civic_groups
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: version
+      label: version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: file_upload
+      label: file_upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: file_type
+      label: file_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

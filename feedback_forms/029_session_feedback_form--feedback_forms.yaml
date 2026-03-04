@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Session Feedback Form
+    pages:
+    - id: 1
+      name: organizer_name
+      label: Organizer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: review
+      label: Review
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: category
+      label: Category
+      hint: Feedback Forms, Counselor Forms
+      type: select_multiple
+      options:
+      - Feedback Forms
+      - Counselor Forms
+      - Other Forms
+      required: false
+    - id: 7
+      name: description
+      label: Description
+      hint: A session feedback form is a questionnaire used by event organizers to
+        gather customer reviews about their events.
+      type: text
+      options: []
+      required: false

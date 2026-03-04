@@ -1,0 +1,232 @@
+inputSchema:
+  type: object
+  properties:
+    title: Saddle Bench Feedback Survey
+    pages:
+    - id: 1
+      name: satisfaction
+      label: How satisfied are you
+      hint: null
+      type: select_multiple
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neither satisfied nor dissatisfied
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      required: false
+    - id: 2
+      name: comfort
+      label: How comfortable are you with the saddle
+      hint: null
+      type: select_one
+      options:
+      - Very comfortable
+      - Somewhat comfortable
+      - Neutral
+      - Somewhat uncomfortable
+      - Very uncomfortable
+      required: false
+    - id: 3
+      name: improvement
+      label: How can we improve the saddle?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_info
+      label: How can we contact you?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: additional_comments
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: rating
+      label: Rating (1-5)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: facility
+      label: Which facility?
+      hint: null
+      type: select_one
+      options:
+      - Facility A
+      - Facility B
+      - Facility C
+      - Facility D
+      required: false
+    - id: 8
+      name: department
+      label: Which department?
+      hint: null
+      type: select_one
+      options:
+      - Department A
+      - Department B
+      - Department C
+      - Department D
+      required: false
+    - id: 9
+      name: shift
+      label: Which shift?
+      hint: null
+      type: select_one
+      options:
+      - 1st shift
+      - 2nd shift
+      - 3rd shift
+      - 4th shift
+      required: false
+    - id: 10
+      name: contact_shift
+      label: How often do you work on this shift?
+      hint: null
+      type: select_one
+      options:
+      - Always
+      - Frequently
+      - Rarely
+      - Never
+      required: false
+    - id: 11
+      name: contact_time
+      label: What time do you contact us?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: contact_date
+      label: On which date do you contact us?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: contact_method
+      label: How do you contact us?
+      hint: null
+      type: select_one
+      options:
+      - Call
+      - Email
+      - Text
+      required: false
+    - id: 14
+      name: contact_other
+      label: Do you have any other contact preferences?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 15
+      name: additional_comments_2
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: rating_2
+      label: Rating (1-5)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: facility_2
+      label: Which facility?
+      hint: null
+      type: select_one
+      options:
+      - Facility A
+      - Facility B
+      - Facility C
+      - Facility D
+      required: false
+    - id: 18
+      name: department_2
+      label: Which department?
+      hint: null
+      type: select_one
+      options:
+      - Department A
+      - Department B
+      - Department C
+      - Department D
+      required: false
+    - id: 19
+      name: shift_2
+      label: Which shift?
+      hint: null
+      type: select_one
+      options:
+      - 1st shift
+      - 2nd shift
+      - 3rd shift
+      - 4th shift
+      required: false
+    - id: 20
+      name: contact_shift_2
+      label: How often do you work on this shift?
+      hint: null
+      type: select_one
+      options:
+      - Always
+      - Frequently
+      - Rarely
+      - Never
+      required: false
+    - id: 21
+      name: contact_time_2
+      label: What time do you contact us?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: contact_date_2
+      label: On which date do you contact us?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: contact_method_2
+      label: How do you contact us?
+      hint: null
+      type: select_one
+      options:
+      - Call
+      - Email
+      - Text
+      required: false
+    - id: 24
+      name: contact_other_2
+      label: Do you have any other contact preferences?
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

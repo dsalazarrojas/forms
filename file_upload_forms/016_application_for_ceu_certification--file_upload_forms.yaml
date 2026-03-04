@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Application For CEU Certification
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Applicant name
+      hint: Full name of certifying participant
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email address
+      hint: For certificate delivery
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: course_title
+      label: Course title
+      hint: Title of the course or workshop
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_completed
+      label: Date completed
+      hint: Completion date of course
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: ceu_hours
+      label: CEU hours claimed
+      hint: Decimal number of CEU hours
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: supporting_document
+      label: Supporting document filename
+      hint: Indicate uploaded certificate or proof
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: institution
+      label: Issuing institution
+      hint: Organization that delivered the course
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: verification_preference
+      label: Verification preference
+      hint: How you prefer verification completed
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Manual review
+      required: false
+    - id: 9
+      name: contact_phone
+      label: Contact phone number
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: Additional comments
+      type: text
+      options: []
+      required: false

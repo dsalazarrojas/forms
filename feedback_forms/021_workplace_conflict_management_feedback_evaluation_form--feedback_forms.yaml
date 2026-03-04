@@ -1,0 +1,37 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workplace Conflict Management Feedback Evaluation Form
+    pages:
+    - id: 1
+      name: category
+      label: feedback forms
+      hint: null
+      type: select_multiple
+      options:
+      - Feedback Forms
+      - Other
+      required: false
+    - id: 2
+      name: form_description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: assigned_tool
+      label: assigned tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: true
+    - id: 4
+      name: form_id
+      label: form id
+      hint: null
+      type: number
+      options: []
+      required: false

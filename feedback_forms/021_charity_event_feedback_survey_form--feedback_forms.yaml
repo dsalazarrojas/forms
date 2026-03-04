@@ -1,0 +1,174 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Charity Event Feedback Survey Form
+    pages:
+      - id: 1
+        name: attendee_name
+        label: Your Name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: attendee_email
+        label: Email Address
+        hint: For follow-up
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: event_name
+        label: Event Name
+        hint: Which event
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: event_date
+        label: Event Date
+        hint: When attended
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: overall_experience
+        label: Overall Experience Rating
+        hint: Rate your experience
+        type: select_one
+        options:
+          - Excellent
+          - Very good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 6
+        name: event_organization
+        label: Event Organization
+        hint: How well organized
+        type: select_one
+        options:
+          - Very well organized
+          - Well organized
+          - Adequately organized
+          - Poorly organized
+          - Very poorly organized
+        required: true
+      - id: 7
+        name: venue_satisfaction
+        label: Venue Satisfaction
+        hint: Location quality
+        type: select_one
+        options:
+          - Very satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very dissatisfied
+        required: true
+      - id: 8
+        name: program_content
+        label: Program Content Quality
+        hint: Activities and presentations
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below average
+          - Poor
+        required: true
+      - id: 9
+        name: networking_opportunities
+        label: Networking Opportunities
+        hint: Chance to connect
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below average
+          - Poor
+        required: true
+      - id: 10
+        name: food_beverage
+        label: Food and Beverage
+        hint: If provided
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below average
+          - Poor
+          - Not provided
+        required: true
+      - id: 11
+        name: value_assessment
+        label: Value for Time and Money
+        hint: Was it worthwhile
+        type: select_one
+        options:
+          - Excellent value
+          - Good value
+          - Fair value
+          - Poor value
+          - Very poor value
+        required: true
+      - id: 12
+        name: best_aspect
+        label: What was the best aspect
+        hint: Highlight
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: improvement_needed
+        label: What needs improvement
+        hint: Suggestions
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: attend_again
+        label: Would you attend again
+        hint: Future attendance
+        type: select_one
+        options:
+          - Definitely yes
+          - Probably yes
+          - Might or might not
+          - Probably no
+          - Definitely no
+        required: true
+      - id: 15
+        name: recommend_to_others
+        label: Would you recommend to others
+        hint: Recommendation likelihood
+        type: select_one
+        options:
+          - Very likely
+          - Likely
+          - Neutral
+          - Unlikely
+          - Very unlikely
+        required: true
+      - id: 16
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback
+        type: text
+        options: []
+        required: false

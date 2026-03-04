@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wildlife Park Visitor Expectation Survey
+    pages:
+    - id: 1
+      name: park_visit_plan
+      label: Park Visit Plan
+      hint: null
+      type: select_one
+      options:
+      - Wildlife Park Map
+      - Self Guided
+      - Guided Tour
+      - Audio Guide
+      required: false
+    - id: 2
+      name: visit_frequency
+      label: Visit Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Rarely
+      - Occasionally
+      - Often
+      - Every time I visit
+      required: false
+    - id: 3
+      name: age_group
+      label: Age Group
+      hint: null
+      type: select_one
+      options:
+      - Adult
+      - Children
+      - Senior
+      - Group
+      required: false
+    - id: 4
+      name: visit_purpose
+      label: Visit Purpose
+      hint: null
+      type: select_one
+      options:
+      - General Admission
+      - Special Event
+      - Group Visit
+      - School Group
+      required: false
+    - id: 5
+      name: park_experience
+      label: Park Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: visit_frequency_other
+      label: Visit Frequency Other
+      hint: If often, please specify
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

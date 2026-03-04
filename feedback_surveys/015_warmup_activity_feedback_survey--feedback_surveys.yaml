@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Warmup Activity Feedback Survey
+    pages:
+    - id: 1
+      name: warmup_survey_1
+      label: Warmup Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: warmup_survey_2
+      label: How did you feel about the session?
+      hint: How did you feel about the session?
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: warmup_survey_3
+      label: What did you enjoy most about the session?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: warmup_survey_4
+      label: What would you improve?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: warmup_survey_5
+      label: How likely are you to recommend this activity?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: warmup_survey_6
+      label: Do you want to participate again in a warmup session?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

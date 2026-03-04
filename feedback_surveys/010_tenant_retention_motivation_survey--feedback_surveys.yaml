@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tenant Retention Motivation Survey
+    pages:
+    - id: 1
+      name: tenant_retention_motivation_survey_form
+      label: tenant_retention_motivation_survey_form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: how_satisfied
+      label: how_satisfied
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 3
+      name: likely_to_renew
+      label: likely_to_renew
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: renewal_intent
+      label: renewal_intent
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 5
+      name: improvement_ideas
+      label: improvement_ideas
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: suggestions_for_improvement
+      label: suggestions_for_improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: tenant_satisfaction
+      label: tenant_satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true

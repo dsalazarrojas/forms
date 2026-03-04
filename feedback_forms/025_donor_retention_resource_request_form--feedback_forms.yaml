@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Donor Retention Resource Request Form
+    pages:
+    - id: 1
+      name: donor_retention_resource_request_form
+      label: DonorRetentionResourceRequest
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: nonprofit_name
+      label: NonprofitName
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: resource_request
+      label: ResourceRequest
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: Submit
+      hint: null
+      type: select_multiple
+      options:
+      - Donor Engagement Team
+      - Donor Retention Team
+      - Nonprofit
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: submit_to
+      label: Submit To
+      hint: null
+      type: select_one
+      options:
+      - Donor Retention Team
+      - Donor Engagement Team
+      - Nonprofit
+      required: true
+    - id: 12
+      name: email_address
+      label: Email Address
+      hint: null
+      type: text
+      options: []
+      required: true

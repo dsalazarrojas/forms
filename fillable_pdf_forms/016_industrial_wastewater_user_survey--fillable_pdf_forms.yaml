@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: industrial_wastewater_user_survey
+    pages:
+    - id: 1
+      name: user_name
+      label: UserName
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: user_phone
+      label: UserPhone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: wastewater_type
+      label: WastewaterType
+      hint: null
+      type: select_one
+      options:
+      - Discharge
+      - Industrial wastewater
+      - Stormwater
+      - Septage
+      - Agricultural waste
+      required: true
+    - id: 4
+      name: wastewater_characteristics
+      label: WastewaterCharacteristics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: waste_management_practices
+      label: WasteManagementPractices
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: waste_management_goals
+      label: WasteManagementGoals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: wastewater_sources
+      label: WastewaterSources
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: wastewater_treatment
+      label: WastewaterTreatment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: wastewater_destination
+      label: WastewaterDestination
+      hint: null
+      type: select_multiple
+      options:
+      - Discharge
+      - Storage
+      - Treatment
+      - Disposal
+      required: true
+    - id: 10
+      name: wastewater_frequency
+      label: WastewaterFrequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Monthly
+      - Yearly
+      required: true
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: industrial_facility
+      label: IndustrialFacility
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 13
+      name: facility_type
+      label: FacilityType
+      hint: null
+      type: select_one
+      options:
+      - Manufacturing
+      - Chemical
+      - Mining
+      - Construction
+      - Other
+      required: true
+    - id: 14
+      name: facility_location
+      label: FacilityLocation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: facility_size
+      label: FacilitySize
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      - VeryLarge
+      required: true
+    - id: 16
+      name: facility_name
+      label: FacilityName
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: contact_person
+      label: ContactPerson
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: contact_email
+      label: ContactEmail
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 19
+      name: contact_phone
+      label: ContactPhone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: contact_facility
+      label: ContactFacility
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: facility_address
+      label: FacilityAddress
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: facility_city
+      label: FacilityCity
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: facility_state
+      label: FacilityState
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: facility_zip
+      label: FacilityZip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: facility_country
+      label: FacilityCountry
+      hint: null
+      type: text
+      options: []
+      required: false

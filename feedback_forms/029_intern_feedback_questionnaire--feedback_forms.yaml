@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: intern_feedback_questionnaire
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Enter your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Enter your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: Enter your email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: work_unit
+      label: Work Unit
+      hint: Enter your work unit
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: feedback_question
+      label: What did you learn about the company culture?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: feedback_comment
+      label: What suggestions do you have for improvement?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: overall_rating
+      label: Overall Rating (out of 5)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: date_of_completion
+      label: Date of Completion
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: time_of_completion
+      label: Time of Completion
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: rating_of_satisfaction
+      label: Rating of Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: rating_of_skills
+      label: Rating of Skills
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 12
+      name: rating_of_supervisor
+      label: Rating of Supervisor
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 13
+      name: rating_of_resources
+      label: Rating of Resources
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 14
+      name: rating_of_mission
+      label: Rating of Mission
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 15
+      name: rating_of_culture
+      label: Rating of Culture
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 16
+      name: rating_of_environment
+      label: Rating of Environment
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 17
+      name: rating_of_leadership
+      label: Rating of Leadership
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 18
+      name: rating_of_team
+      label: Rating of Team
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 19
+      name: rating_of_supervisor_rating
+      label: Rating of Supervisor Rating
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 20
+      name: rating_of_supervisor_support
+      label: Rating of Supervisor Support
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 21
+      name: rating_of_supervisor_quality
+      label: Rating of Supervisor Quality
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Poor
+      required: true
+    - id: 22
+      name: rating_of_supervisor_communication
+      label: Rating of Supervisor Communication
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 23
+      name: rating_of_supervisor_friendly
+      label: Rating of Supervisor Friendly
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 24
+      name: rating_of_internship
+      label: Rating of Internship
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 25
+      name: rating_of_program
+      label: Rating of Program
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: true

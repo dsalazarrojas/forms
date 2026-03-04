@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: gym_trial_experience_survey
+    pages:
+    - id: 1
+      name: trial_experience
+      label: How do you rate your overall experience of our gym?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: services
+      label: Which service did you use during your trial?
+      hint: null
+      type: select_one
+      options:
+      - Recreational activities
+      - Nutrition advice
+      - Fitness classes
+      required: true
+    - id: 3
+      name: trainers
+      label: Were the trainers helpful?
+      hint: null
+      type: select_multiple
+      options:
+      - Not helpful
+      - Somewhat helpful
+      - Very helpful
+      required: true
+    - id: 4
+      name: facilities
+      label: How would you rate our facilities?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      required: true
+    - id: 5
+      name: cleanliness
+      label: How clean was the facility?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: atmosphere
+      label: How did you feel about our atmosphere?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 7
+      name: staff
+      label: How helpful were the staff?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 8
+      name: overall
+      label: What could we improve on?
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Organizer Feedback Form
+    pages:
+    - id: 1
+      name: personal_organizer_feedback
+      label: How do you feel about the Personal Organizer?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very positive''}'
+      - '{''label'': ''Somewhat positive''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat negative''}'
+      - '{''label'': ''Very negative''}'
+      required: false
+    - id: 2
+      name: how_do_you_find_us
+      label: How do we find you?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Extremely satisfied''}'
+      - '{''label'': ''Somewhat satisfied''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat dissatisfied''}'
+      - '{''label'': ''Extremely dissatisfied''}'
+      required: false
+    - id: 3
+      name: personal_organizer_usefulness
+      label: How useful is the Personal Organizer?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very useful''}'
+      - '{''label'': ''Somewhat useful''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat useless''}'
+      - '{''label'': ''Very useless''}'
+      required: false
+    - id: 4
+      name: how_would_you_rate
+      label: How would you rate your experience?
+      hint: out of 5
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: have_used_organizer_before
+      label: Have you used the Personal Organizer before?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

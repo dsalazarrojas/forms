@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Grilled Wings Feedback Survey
+    pages:
+    - id: 1
+      name: grilled_wings_feedback_1
+      label: Grilled Wings Feedback Form 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rating_taste
+      label: Rate The Taste
+      hint: On a scale of 1-5, rate the taste of the grilled wing
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: rating_quality
+      label: Rate The Quality
+      hint: On a scale of 1-5, rate the quality of the grilled wing
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: rating_appearance
+      label: Rate The Appearance
+      hint: On a scale of 1-5, rate the appearance of the grilled wing
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: rating_service
+      label: Rate The Service
+      hint: On a scale of 1-5, rate the service you received
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: recommendation_taste
+      label: Recommend For Taste
+      hint: Would you recommend this product for its taste?
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 7
+      name: recommendation_quality
+      label: Recommend For Quality
+      hint: Would you recommend this product for its quality?
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 8
+      name: recommendation_appearance
+      label: Recommend For Appearance
+      hint: Would you recommend this product for its appearance?
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 9
+      name: recommendation_service
+      label: Recommend For Service
+      hint: Would you recommend this product for its service?
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 10
+      name: rating_satisfied
+      label: Are You Satisfied
+      hint: How satisfied are you with the grilled wing?
+      type: select_one
+      options:
+      - '{''value'': ''Very Satisfied''}'
+      - '{''value'': ''Somewhat Satisfied''}'
+      - '{''value'': ''Somewhat Dissatisfied''}'
+      - '{''value'': ''Very Dissatisfied''}'
+      - '{''value'': ''Not At All''}'
+      required: false
+    - id: 11
+      name: rating_would_buy
+      label: Would You Buy
+      hint: Would you purchase this product again?
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 12
+      name: rating_improve
+      label: Would You Improve
+      hint: Would you recommend this product to someone else?
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 13
+      name: rating_improve_reason
+      label: Why Would You Improve
+      hint: Please select the reason(s) that you would improve
+      type: select_multiple
+      options:
+      - '{''value'': ''Taste''}'
+      - '{''value'': ''Quality''}'
+      - '{''value'': ''Appearance''}'
+      - '{''value'': ''Service''}'
+      required: false
+    - id: 14
+      name: rating_improve_other
+      label: Other
+      hint: Please specify your own reason
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: rating_improve_other_reason
+      label: Other Reason
+      hint: Please enter the reason
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: rating_improve_suggestion
+      label: Suggestion
+      hint: Please enter a suggestion
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: rating_improve_action
+      label: Action
+      hint: Please select the action
+      type: select_one
+      options:
+      - '{''value'': ''Implemented''}'
+      - '{''value'': ''Not Implemented''}'
+      required: false
+    - id: 18
+      name: rating_improve_comments
+      label: Comments
+      hint: Please enter any comments
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: contact_company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: contact_title
+      label: Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: contact_message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

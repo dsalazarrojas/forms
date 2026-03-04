@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: restaurant_food_photos
+    pages:
+    - id: 1
+      name: restaurant_food_photos_1
+      label: take_food_photos
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: restaurant_food_photos_2
+      label: menu_items
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: restaurant_food_photos_3
+      label: photos_uploaded
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      required: false
+    - id: 4
+      name: restaurant_food_photos_4
+      label: upload_photos
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: restaurant_food_photos_5
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: restaurant_food_photos_6
+      label: restaurant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: restaurant_food_photos_7
+      label: restaurant_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: restaurant_food_photos_8
+      label: menu_item_name
+      hint: null
+      type: text
+      options: []
+      required: false

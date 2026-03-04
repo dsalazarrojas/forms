@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Support Session Progress Survey
+    pages:
+    - id: 1
+      name: support_session_progress_survey
+      label: support_session_progress_survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: business_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: session_start_time
+      label: session_start_time
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: session_end_time
+      label: session_end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: session_duration
+      label: session_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: rating
+      label: rating
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Very Good''}'
+      - '{''label'': ''Okay''}'
+      - '{''label'': ''Not Good''}'
+      - '{''label'': ''Not at all''}'
+      required: true
+    - id: 7
+      name: open_ended_question_1
+      label: open-ended-question-1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: open_ended_question_2
+      label: open-ended-question-2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: open_ended_question_3
+      label: open-ended-question-3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: close_ended_question_1
+      label: close-ended-question-1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: close_ended_question_2
+      label: close-ended-question-2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: support_session_progress_survey
+      label: support_session_progress_survey
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Highly Satisfied''}'
+      - '{''label'': ''Moderately Satisfied''}'
+      - '{''label'': ''Not Satisfied''}'
+      - '{''label'': ''Not at all''}'
+      - '{''label'': ''Not Sure''}'
+      required: false
+    - id: 13
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: follow_up_needed
+      label: follow_up_needed
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 17
+      name: follow_up_comments
+      label: follow_up_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: open_ended_question_4
+      label: open-ended-question-4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: close_ended_question_3
+      label: close-ended-question-3
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: follow_up_phone
+      label: follow_up_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: follow_up_email
+      label: follow_up_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: follow_up_comments
+      label: follow_up_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: open_ended_question_5
+      label: open-ended-question-5
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: follow_up_phone_number
+      label: follow_up_phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: follow_up_email_number
+      label: follow_up_email_number
+      hint: null
+      type: text
+      options: []
+      required: false

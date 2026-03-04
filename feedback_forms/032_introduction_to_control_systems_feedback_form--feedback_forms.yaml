@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Introduction To Control Systems Feedback Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: course_id
+      label: Course
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: session_id
+      label: Session
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: feedback_rating
+      label: Feedback Rating
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 5
+      name: feedback_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: participant_instructor_rating
+      label: Participant Instructor Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: content
+      label: Content
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: instructor_facilitation
+      label: Instructor Facilitation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: materials
+      label: Materials
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: feedback_rating_average
+      label: Average Feedback Rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 12
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 13
+      name: rating_average
+      label: Average
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

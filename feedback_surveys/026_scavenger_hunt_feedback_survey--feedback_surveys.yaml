@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Scavenger Hunt Feedback Survey
+    pages:
+    - id: 1
+      name: scavenger_hunt_form_name
+      label: What was your overall experience like?
+      hint: None
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 2
+      name: difficulty_level
+      label: Difficulty Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: rating
+      label: Overall Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: select_multiple
+      options:
+      - Improve game content
+      - Improve event staff
+      - Improve event timing
+      - Improve game rules
+      - Other (please specify)
+      required: false
+    - id: 5
+      name: scavenger_hunt_activity
+      label: Scavenger Hunt Activity
+      hint: null
+      type: select_one
+      options:
+      - Scavenger hunt event
+      - Social gathering
+      - Game
+      - Other (please specify)
+      required: false
+    - id: 6
+      name: game_duration
+      label: How long did you play for?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: event_duration
+      label: How long did the event last?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: participant_teams
+      label: Number of teams
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: participant_count
+      label: Number of participants
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: team_size
+      label: Team Size
+      hint: null
+      type: number
+      options: []
+      required: false

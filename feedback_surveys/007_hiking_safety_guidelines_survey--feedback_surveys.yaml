@@ -1,0 +1,113 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Hiking Safety Guidelines Survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: What do you do most often when on the trail?
+      hint: null
+      type: select_multiple
+      options:
+      - Always with a buddy
+      - Always with a guide
+      - Sometimes with a buddy, sometimes alone
+      - Never with a buddy
+      required: true
+    - id: 2
+      name: trail_conditions_page
+      label: Describe your typical trail conditions.
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: experience_level_page
+      label: What level of hiking experience do you have?
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Expert
+      required: true
+    - id: 4
+      name: safety_habits_page
+      label: Which of the following safety habits do you usually follow?
+      hint: null
+      type: select_multiple
+      options:
+      - Always
+      - Sometimes
+      - Never
+      required: true
+    - id: 5
+      name: emergency_procedure_page
+      label: What is your emergency procedure?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: group_size_page
+      label: How many people are in your hiking group?
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 7
+      name: guide_training_page
+      label: Have you ever received safety training from a guide or guide company?
+      hint: null
+      type: select_multiple
+      options:
+      - Always
+      - Sometimes
+      - Never
+      required: true
+    - id: 8
+      name: gear_page
+      label: What gear do you typically bring on a hike?
+      hint: null
+      type: select_multiple
+      options:
+      - Map
+      - Compass
+      - First Aid Kit
+      - Emergency Shelter
+      - Emergency Whistle
+      - Headlamp/Flashlight
+      - Fire Starter
+      - Knife
+      - Other (please specify)
+      required: false
+    - id: 9
+      name: emergency_contact_page
+      label: Provide emergency contact information.
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: survey_complete_page
+      label: Thanks for taking the time to complete our survey!
+      hint: null
+      type: note
+      options: []
+      required: false

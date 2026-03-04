@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Film Festival Delegation Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_project_name
+      label: Participant project name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_project_category
+      label: Participant project category
+      hint: null
+      type: select_one
+      options:
+      - Action
+      - Drama
+      - Comedy
+      - Romance
+      - Horror
+      - Thriller
+      - Science fiction
+      - Documentary
+      required: true
+    - id: 4
+      name: participant_project_url
+      label: Participant project URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_email
+      label: Participant email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: participant_phone
+      label: Participant phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: participant_address
+      label: Participant address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: participant_note
+      label: Participant note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: participant_project_note
+      label: Participant project note
+      hint: null
+      type: text
+      options: []
+      required: false

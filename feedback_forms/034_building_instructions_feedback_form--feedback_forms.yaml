@@ -1,0 +1,331 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Building Instructions Feedback Form
+    pages:
+      - id: 1
+        name: feedback_header
+        label: -- Building Instructions Feedback --
+        hint: Help us improve our building and construction instructions
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: respondent_name
+        label: Your name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: respondent_role
+        label: Your role or position
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: company_organization
+        label: Company or organization
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: respondent_email
+        label: Email address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 6
+        name: instruction_info
+        label: -- Instructions Being Reviewed --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: instruction_type
+        label: Type of instructions reviewed
+        hint: null
+        type: select_one
+        options:
+          - Assembly instructions
+          - Operating manual
+          - Maintenance guide
+          - Safety procedures
+          - Construction procedures
+          - Installation guide
+          - User manual
+          - Training material
+          - Other
+        required: true
+      - id: 8
+        name: instruction_title
+        label: Title or name of instructions
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: instruction_version
+        label: Instruction version or date
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: review_context
+        label: Context for review
+        hint: null
+        type: select_one
+        options:
+          - Initial review
+          - Pre-publication review
+          - Field test review
+          - Post-implementation review
+          - General feedback
+          - Other
+        required: true
+      - id: 11
+        name: overall_assessment
+        label: -- Overall Assessment --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: usefulness_rating
+        label: Overall usefulness of instructions
+        hint: null
+        type: select_one
+        options:
+          - Excellent - Very useful
+          - Good - Mostly useful
+          - Adequate - Somewhat useful
+          - Poor - Not very useful
+          - Inadequate - Not useful
+        required: true
+      - id: 13
+        name: clarity_rating
+        label: Clarity of instructions
+        hint: null
+        type: select_one
+        options:
+          - Excellent - Very clear
+          - Good - Mostly clear
+          - Adequate - Somewhat clear
+          - Poor - Unclear
+          - Very poor - Confusing
+        required: true
+      - id: 14
+        name: completeness_rating
+        label: Completeness of information
+        hint: null
+        type: select_one
+        options:
+          - Excellent - All information included
+          - Good - Most information present
+          - Adequate - Basic information
+          - Poor - Missing important sections
+          - Very poor - Severely incomplete
+        required: true
+      - id: 15
+        name: organization_rating
+        label: Organization and structure
+        hint: null
+        type: select_one
+        options:
+          - Excellent - Well organized
+          - Good - Logical flow
+          - Adequate - Acceptable structure
+          - Poor - Confusing organization
+          - Very poor - Disorganized
+        required: true
+      - id: 16
+        name: specific_feedback
+        label: -- Specific Feedback Areas --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 17
+        name: formatting_quality
+        label: Formatting and visual presentation
+        hint: null
+        type: select_one
+        options:
+          - Excellent - Professional appearance
+          - Good - Adequate formatting
+          - Acceptable - Readable
+          - Poor - Formatting issues
+          - Very poor - Difficult to read
+        required: true
+      - id: 18
+        name: diagram_quality
+        label: Diagrams and illustrations
+        hint: null
+        type: select_one
+        options:
+          - Excellent - Clear and helpful
+          - Good - Mostly useful
+          - Adequate - Present but basic
+          - Poor - Not helpful
+          - Not present - Needed
+        required: true
+      - id: 19
+        name: technical_accuracy
+        label: Technical accuracy of information
+        hint: null
+        type: select_one
+        options:
+          - Excellent - Accurate throughout
+          - Good - Mostly accurate
+          - Some errors noted
+          - Multiple errors found
+          - Significant inaccuracies
+        required: true
+      - id: 20
+        name: language_level
+        label: Appropriate language level and terminology
+        hint: null
+        type: select_one
+        options:
+          - Excellent - Well pitched
+          - Good - Appropriate for audience
+          - Acceptable - Understandable
+          - Poor - Too technical
+          - Very poor - Incomprehensible
+        required: true
+      - id: 21
+        name: step_clarity
+        label: Step-by-step instructions clarity
+        hint: null
+        type: select_one
+        options:
+          - Excellent - Easy to follow
+          - Good - Generally clear steps
+          - Adequate - Steps understandable
+          - Poor - Confusing sequence
+          - Very poor - Unclear steps
+        required: true
+      - id: 22
+        name: improvement_areas
+        label: -- Improvement Suggestions --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 23
+        name: main_weaknesses
+        label: Main weaknesses or problem areas
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 24
+        name: missing_content
+        label: Missing or unclear content
+        hint: Specific sections that need work
+        type: text
+        options: []
+        required: true
+      - id: 25
+        name: improvement_suggestions
+        label: Specific improvement suggestions
+        hint: How to make instructions better
+        type: text
+        options: []
+        required: true
+      - id: 26
+        name: additions_needed
+        label: Content that should be added
+        hint: null
+        type: select_multiple
+        options:
+          - Safety warnings
+          - More diagrams
+          - Video tutorials
+          - Troubleshooting section
+          - FAQ section
+          - More detailed steps
+          - Examples
+          - Glossary
+          - Index
+          - Other
+        required: false
+      - id: 27
+        name: usability
+        label: -- Usability and Accessibility --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 28
+        name: physical_format
+        label: Physical format preferences
+        hint: null
+        type: select_one
+        options:
+          - Printed booklet
+          - Digital PDF
+          - Online interactive
+          - Video format
+          - Mobile app
+          - Combination of formats
+        required: false
+      - id: 29
+        name: accessibility_rating
+        label: Accessibility for diverse users
+        hint: null
+        type: select_one
+        options:
+          - Excellent - Accessible to all
+          - Good - Mostly accessible
+          - Adequate - Basic accessibility
+          - Poor - Limited accessibility
+          - Not accessible
+        required: false
+      - id: 30
+        name: user_experience
+        label: Overall user experience
+        hint: null
+        type: select_one
+        options:
+          - Excellent - Great experience
+          - Good - Positive experience
+          - Adequate - Acceptable experience
+          - Poor - Frustrating experience
+          - Very poor - Very difficult
+        required: true
+      - id: 31
+        name: would_recommend
+        label: Would you recommend these instructions?
+        hint: null
+        type: select_one
+        options:
+          - Yes, strongly recommend
+          - Yes, recommend with notes
+          - Neutral - Adequate as-is
+          - No, recommend revisions first
+          - No, needs significant work
+        required: true
+      - id: 32
+        name: additional_comments
+        label: Additional comments or observations
+        hint: null
+        type: text
+        options: []
+        required: false

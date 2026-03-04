@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shift Patterns And Mental Fatigue Survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: intro_message
+      label: This isประก a survey about shift work.
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: mental_fatigue
+      label: What kind of shift work do you do?
+      hint: Select all that apply.
+      type: select_multiple
+      options:
+      - Morning shifts
+      - Afternoon shifts
+      - Night shifts
+      - Rotating shifts
+      - On call shifts
+      required: false
+    - id: 4
+      name: sleep_duration
+      label: What is your sleep duration?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: work_duration
+      label: How many hours do you work per day?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: rest_breaks
+      label: Do you get regular rest breaks?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: mental_health
+      label: mental_health
+      hint: Please select one option.
+      type: select_multiple
+      options:
+      - Stressful
+      - Anxious
+      - Depressed
+      - Happy
+      - Content
+      required: true
+    - id: 8
+      name: supervisor_support
+      label: Does your supervisor support your well-being?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: suggestions
+      label: What would improve your well-being?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: final_message
+      label: Any final comments?
+      hint: null
+      type: text
+      options: []
+      required: false

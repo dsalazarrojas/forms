@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Saved_and_single_fellowship_feedback_form
+    pages:
+    - id: 1
+      name: feedback_form
+      label: Saved_and_single_fellowship_feedback_form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: feedback
+      label: Your_opinion_counts
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: submit_button
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''save''}'
+      - '{''id'': 2, ''name'': ''cancel''}'
+      - '{''id'': 3, ''name'': ''submit''}'
+      required: false
+    - id: 4
+      name: email
+      label: E_mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: P hone
+      hint: null
+      type: text
+      options: []
+      required: false

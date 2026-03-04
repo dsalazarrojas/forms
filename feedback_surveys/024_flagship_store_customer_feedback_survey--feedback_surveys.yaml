@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Flagship Store Customer Feedback Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: How was your experience at Flagship Store?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rating
+      label: How would you rate your overall experience?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Excellent''}'
+      - '{''value'': ''Good''}'
+      - '{''value'': ''Fair''}'
+      - '{''value'': ''Poor''}'
+      required: false
+    - id: 3
+      name: rating_scale
+      label: How would you rate our customer service?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: date
+      label: What date did you visit Flagship Store?
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: What time did you visit Flagship Store?
+      hint: "h:mm a"
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: note
+      label: What did you like about Flagship Store?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: note_2
+      label: How can we improve?
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,164 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mentor Evaluation Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: challenges_encountered
+      label: Challenges Encountered
+      hint: null
+      type: select_multiple
+      options:
+      - Time management
+      - Communication
+      - Teamwork
+      - Problem-solving
+      - Interpersonal
+      - Adaptability
+      required: true
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: evaluation_score
+      label: Evaluation Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: score_scale
+      label: Score Scale
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 11
+      name: evaluation
+      label: Evaluation
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 12
+      name: recommendations
+      label: Recommendations
+      hint: null
+      type: select_multiple
+      options:
+      - Improve time management
+      - Improve communication skills
+      - Improve problem-solving skills
+      - Improve adaptability
+      - Improve interpersonal skills
+      required: true
+    - id: 13
+      name: challenges_solved
+      label: Challenges Solved
+      hint: null
+      type: select_multiple
+      options:
+      - Time management
+      - Communication
+      - Teamwork
+      - Problem-solving
+      - Interpersonal
+      required: true
+    - id: 14
+      name: challenges_not_solved
+      label: Challenges Not Solved
+      hint: null
+      type: select_multiple
+      options:
+      - Time management
+      - Communication
+      - Teamwork
+      - Problem-solving
+      - Interpersonal
+      required: true
+    - id: 15
+      name: evaluation_comments
+      label: Evaluation Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: final_evaluation
+      label: Final Evaluation
+      hint: null
+      type: select_one
+      options:
+      - Highly Satisfactory
+      - Moderately Satisfactory
+      - Needs Improvement
+      required: true
+    - id: 17
+      name: mentor_comments
+      label: Mentor Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: final_comment
+      label: Final Comments
+      hint: null
+      type: note
+      options: []
+      required: false

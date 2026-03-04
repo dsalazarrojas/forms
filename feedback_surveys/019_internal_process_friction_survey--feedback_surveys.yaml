@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Internal Process Friction Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: team_members
+      label: Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - Team Lead
+      - Senior
+      - Other
+      required: false
+    - id: 3
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - CEO
+      - Manager
+      - Team Member
+      - Other
+      required: false
+    - id: 4
+      name: frequency
+      label: How often do you experience friction
+      hint: On a scale of 1-10
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: pain_points
+      label: What are your top 3 pain points
+      hint: Please enter your top 3 pain points in the format of 1. pain point 1,
+        2. pain point 2, 3. pain point 3
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: proposed_solution
+      label: Proposed solution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: action_plan
+      label: Action Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_feedback
+      label: Additional Feedback
+      hint: null
+      type: text
+      options: []
+      required: false

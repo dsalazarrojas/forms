@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agricultural Yield Data Submission Form
+    pages:
+    - id: 1
+      name: farm_info_header
+      label: -- Farm Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: farm_name
+      label: Farm Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: field_id
+      label: Field ID
+      hint: Source of the harvest
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: harvest_data_header
+      label: -- Harvest Data --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: crop_type
+      label: Crop Type
+      hint: e.g. Corn, Soybeans
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: harvest_date
+      label: Harvest Date
+      hint: Date crop was pulled
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: total_weight
+      label: Total Weight
+      hint: Specify units (lbs, tons, bushels)
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: moisture_content
+      label: Moisture Content (%)
+      hint: Percentage
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: crop_quality
+      label: Grade or Quality
+      hint: USDA Grade if applicable
+      type: select_one
+      options:
+      - Grade 1
+      - Grade 2
+      - Grade 3
+      - Feed Grade
+      - Reject
+      required: true
+    - id: 10
+      name: storage_location
+      label: Storage Location
+      hint: Silo or warehouse ID
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: operations_header
+      label: -- Operations Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: operator_name
+      label: Operator Name
+      hint: Who harvested?
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: machinery_used
+      label: Machinery Used
+      hint: Combine ID or Truck ID
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: uploads_note
+      label: Uploads
+      hint: Please upload weigh tickets and photos to the portal
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: comments
+      label: Additional Comments
+      hint: Any issues during harvest?
+      type: text
+      options: []
+      required: false

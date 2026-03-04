@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cross Team Collaboration Feedback Survey
+    pages:
+    - id: 1
+      name: team_lead
+      label: Team Lead
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: team_members
+      label: Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: collaboration_frequency
+      label: Collaboration Frequency
+      hint: How often do you collaborate with this team?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: communication_style
+      label: Communication Style
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: communication_style_frequency
+      label: Communication Style Frequency
+      hint: How often do you feel you communicate effectively with this team?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: communication_style_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: trust_level
+      label: Trust Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 8
+      name: collaboration_quality
+      label: Collaboration Quality
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Poor
+      required: false

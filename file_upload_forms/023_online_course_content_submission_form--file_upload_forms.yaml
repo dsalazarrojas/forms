@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Course Content Submission Form
+    pages:
+    - id: 1
+      name: course_title
+      label: Course Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: course_author
+      label: Course Author
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: course_date
+      label: Date of Last Update
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: course_description
+      label: Description of the Course
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: file_upload_1
+      label: Course File Upload 1
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: course_file_type_1
+      label: File Type 1
+      hint: null
+      type: select_one
+      options:
+      - Label 1
+      - Label 2
+      required: true
+    - id: 7
+      name: file_upload_2
+      label: Course File Upload 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: course_file_type_2
+      label: File Type 2
+      hint: null
+      type: select_one
+      options:
+      - Label 1
+      - Label 2
+      required: false
+    - id: 9
+      name: course_notes
+      label: Course Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: course_tags
+      label: Course Tags
+      hint: null
+      type: select_multiple
+      options:
+      - Tag 1
+      - Tag 2
+      required: false
+    - id: 11
+      name: course_email
+      label: Course Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: course_phone
+      label: Course Phone
+      hint: null
+      type: text
+      options: []
+      required: false

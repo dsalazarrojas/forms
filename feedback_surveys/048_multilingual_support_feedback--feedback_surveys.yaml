@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Multilingual Support Feedback
+    pages:
+    - id: 1
+      name: survey_title
+      label: Enter Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: language
+      label: Select Language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - French
+      - Spanish
+      - Chinese
+      - Arabic
+      - Japanese
+      - Portuguese
+      - Korean
+      - German
+      required: false
+    - id: 3
+      name: question_1
+      label: How would you rate your overall satisfaction with our support?
+      hint: Scale of 1-5
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: question_2
+      label: Was your language support experience good?
+      hint: true/false
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: question_3
+      label: Can we improve anything about your experience?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: question_4
+      label: How can we improve our language support?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: suggestion
+      label: Suggest an improvement or suggestion
+      hint: null
+      type: text
+      options: []
+      required: false

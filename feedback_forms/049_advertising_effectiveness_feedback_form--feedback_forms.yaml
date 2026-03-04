@@ -1,0 +1,156 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Advertising Effectiveness Feedback Form
+    pages:
+    - id: 1
+      name: respondent_information_section
+      label: -- Respondent Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: age_group
+      label: Age Group
+      hint: Which age group do you belong to
+      type: select_one
+      options: ["18-24", "25-34", "35-44", "45-54", "55-64", "65+"]
+      required: true
+    - id: 3
+      name: gender
+      label: Gender
+      hint: Your gender identity
+      type: select_one
+      options: ["Male", "Female", "Non-binary", "Prefer not to say"]
+      required: true
+    - id: 4
+      name: occupation
+      label: Occupation
+      hint: Your current occupation or field of work
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: campaign_exposure_section
+      label: -- Campaign Exposure --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: campaign_name_brand
+      label: Campaign Name Brand
+      hint: Which advertising campaign are you providing feedback on
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: ad_format_seen
+      label: Ad Format Seen
+      hint: In what format did you see the advertisement
+      type: select_one
+      options: ["TV Commercial", "Online Video", "Social Media", "Print Advertisement", "Radio", "Billboard", "Email", "Other"]
+      required: true
+    - id: 8
+      name: exposure_frequency
+      label: Exposure Frequency
+      hint: How often have you seen this advertisement
+      type: select_one
+      options: ["Once", "2-3 times", "4-6 times", "More than 6 times", "Can't recall"]
+      required: true
+    - id: 9
+      name: ad_recall_section
+      label: -- Ad Recall --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: ad_memorability
+      label: Ad Memorability
+      hint: How memorable was the advertisement
+      type: select_one
+      options: ["Very memorable", "Somewhat memorable", "Neutral", "Not very memorable", "Not memorable at all"]
+      required: true
+    - id: 11
+      name: key_message_recall
+      label: Key Message Recall
+      hint: What was the main message of the advertisement
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: brand_recall
+      label: Brand Recall
+      hint: What brand was being advertised
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: ad_effectiveness_section
+      label: -- Ad Effectiveness --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: attention_grabbing
+      label: Attention Grabbing
+      hint: How effective was the ad at grabbing your attention
+      type: select_one
+      options: ["Very effective", "Somewhat effective", "Neutral", "Not very effective", "Not effective at all"]
+      required: true
+    - id: 15
+      name: message_clarity
+      label: Message Clarity
+      hint: How clear was the message conveyed in the advertisement
+      type: select_one
+      options: ["Very clear", "Clear", "Neutral", "Unclear", "Very unclear"]
+      required: true
+    - id: 16
+      name: emotional_connection
+      label: Emotional Connection
+      hint: Did the advertisement create an emotional connection with you
+      type: select_one
+      options: ["Strongly agree", "Agree", "Neutral", "Disagree", "Strongly disagree"]
+      required: true
+    - id: 17
+      name: purchase_intent_section
+      label: -- Purchase Intent --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: purchase_likelihood
+      label: Purchase Likelihood
+      hint: How likely are you to purchase the product/service after seeing the ad
+      type: select_one
+      options: ["Very likely", "Somewhat likely", "Neutral", "Not very likely", "Not likely at all"]
+      required: true
+    - id: 19
+      name: recommendation_likelihood
+      label: Recommendation Likelihood
+      hint: How likely are you to recommend the brand to others after seeing the ad
+      type: select_one
+      options: ["Very likely", "Somewhat likely", "Neutral", "Not very likely", "Not likely at all"]
+      required: true
+    - id: 20
+      name: overall_impression
+      label: Overall Impression
+      hint: What is your overall impression of the advertising campaign
+      type: text
+      options: []
+      required: true

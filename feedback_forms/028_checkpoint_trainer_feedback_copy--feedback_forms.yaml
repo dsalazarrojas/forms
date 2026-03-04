@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: Checkpoint Trainer Feedback Copy
+    pages:
+    - id: 1
+      name: section_training_metadata
+      label: -- Training Session Info --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: trainee_full_name
+      label: Trainee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: trainer_full_name
+      label: Trainer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: training_session_date
+      label: Date of Training
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: session_module_title
+      label: Training Module / Course Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_expectations
+      label: -- Expectations and Outcomes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: met_initial_expectations
+      label: Did the training meet your expectations
+      hint: null
+      type: select_one
+      options:
+      - Exceeded Expectations
+      - Met Expectations
+      - Below Expectations
+      required: true
+    - id: 8
+      name: trainer_knowledge_rating
+      label: Trainer demonstrated high subject knowledge
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Neutral
+      - Disagree
+      required: true
+    - id: 9
+      name: clarity_of_instructions_rating
+      label: Clarity of instructions and explanations
+      hint: null
+      type: select_one
+      options:
+      - Very Clear
+      - Clear
+      - Somewhat Clear
+      - Not Clear
+      required: true
+    - id: 10
+      name: section_detailed_feedback
+      label: -- Detailed Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: most_helpful_training_section
+      label: What was the most helpful part of the session
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: areas_for_improvement_trainer
+      label: How could the trainer improve
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: pacing_of_training
+      label: Rating of Training Pacing
+      hint: null
+      type: select_one
+      options:
+      - Too Fast
+      - Just Right
+      - Too Slow
+      required: true
+    - id: 14
+      name: training_environment_rating
+      label: Rating of training facilities / platform
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 15
+      name: trainees_concerns_questions
+      label: Any remaining concerns or questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: overall_trainer_score
+      label: Overall Rating for the Trainer
+      hint: 1 to 5 stars
+      type: select_one
+      options:
+      - 1 Star
+      - 2 Stars
+      - 3 Stars
+      - 4 Stars
+      - 5 Stars
+      required: true
+    - id: 17
+      name: trainee_signature_ack
+      label: Feedback Verification Signature
+      hint: null
+      type: select_one
+      options:
+      - Submitted and Verified
+      - Other
+      required: true

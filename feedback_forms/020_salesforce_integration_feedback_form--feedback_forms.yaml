@@ -1,0 +1,47 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: salesforce_integration_feedback_form
+    pages:
+    - id: 1
+      name: salesforce_integration
+      label: Salesforce Integration
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: feedback_question_1
+      label: What do you think about the current integration?
+      hint: Your feedback helps us improve the integration!
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: feedback_question_2
+      label: How can we improve the current integration?
+      hint: Your suggestions are valuable, thanks for sharing!
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: category
+      label: Category
+      hint: Select a category that best describes your feedback
+      type: select_multiple
+      options:
+      - bug
+      - feature_request
+      - general
+      required: false

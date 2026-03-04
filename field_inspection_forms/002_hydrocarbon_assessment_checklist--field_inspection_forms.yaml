@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hydrocarbon Assessment Checklist
+    pages:
+    - id: 1
+      name: hydrocarbon_storage
+      label: Hydrocarbon Storage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: spill_response
+      label: Spill Response
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: staff_training
+      label: Staff Training
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: hydrocarbon_storage_condition
+      label: Hydrocarbon Storage Condition
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Fair
+      - Poor
+      required: true
+    - id: 5
+      name: spill_response_equipment
+      label: Spill Response Equipment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: corrective_action
+      label: Corrective Action
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: hydrocarbon_storage_equipment
+      label: Hydrocarbon Storage Equipment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: spill_response_training
+      label: Spill Response Training
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: hydrocarbon_spill_frequency
+      label: Hydrocarbon Spill Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 10
+      name: spill_response_time
+      label: Spill Response Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: spill_response_time_unit
+      label: Spill Response Time Unit
+      hint: null
+      type: select_one
+      options:
+      - Minutes
+      - Hours
+      - Days
+      required: true
+    - id: 12
+      name: hydrocarbon_spill_size
+      label: Hydrocarbon Spill Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: spill_location
+      label: Spill Location
+      hint: null
+      type: select_one
+      options:
+      - Tank
+      - Pipeline
+      - Pipeline and tank
+      - Other
+      required: true
+    - id: 14
+      name: spill_date
+      label: Spill Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: spill_time
+      label: Spill Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 16
+      name: spill_location_lat
+      label: Spill Location Latitude
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: spill_location_long
+      label: Spill Location Longitude
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: hydrocarbon_storage_location
+      label: Hydrocarbon Storage Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: hydrocarbon_storage_capacity
+      label: Hydrocarbon Storage Capacity
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: hydrocarbon_spill_volumes
+      label: Hydrocarbon Spill Volumes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: corrective_action_status
+      label: Corrective Action Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - In Progress
+      - Not Started
+      required: true
+    - id: 22
+      name: corrective_action_date
+      label: Corrective Action Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: staff_training_status
+      label: Staff Training Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - In Progress
+      - Not Started
+      required: true
+    - id: 25
+      name: staff_training_date
+      label: Staff Training Date
+      hint: null
+      type: date
+      options: []
+      required: false

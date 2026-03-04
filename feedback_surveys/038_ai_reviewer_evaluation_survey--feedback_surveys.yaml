@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: AI Reviewer Evaluation Survey
+    pages:
+    - id: 1
+      name: reviewer_id_section
+      label: '--- Reviewer Identification ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: ai_model_name
+      label: AI Reviewer Version or Model Name
+      hint: Enter the specific version or name of the AI reviewer you are evaluating.
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: review_date
+      label: Date of Review
+      hint: Select the date the AI review was performed.
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: accuracy_relevance_section
+      label: '--- Accuracy & Relevance ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: overall_accuracy
+      label: Overall Accuracy of the AI Review
+      hint: Rate how accurate the feedback was on a scale of 1-5.
+      type: select_one
+      options:
+      - 1 - Very Inaccurate
+      - 2 - Somewhat Inaccurate
+      - 3 - Neutral
+      - 4 - Somewhat Accurate
+      - 5 - Very Accurate
+      required: true
+    - id: 6
+      name: error_types
+      label: Types of Errors Observed
+      hint: Select all that apply if you noticed any issues.
+      type: select_multiple
+      options:
+      - Factual Errors
+      - Logical Inconsistencies
+      - Inappropriate Tone
+      - Grammatical Issues
+      - Irrelevant Content
+      - None
+      required: false
+    - id: 7
+      name: captured_main_points
+      label: Did the AI capture the main points correctly?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Partially
+      required: true
+    - id: 8
+      name: clarity_tone_section
+      label: '--- Clarity & Tone ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: clarity_of_feedback
+      label: Clarity of AI Feedback
+      hint: How easy was it to understand the AI's comments?
+      type: select_one
+      options:
+      - Very Clear
+      - Clear
+      - Neutral
+      - Unclear
+      - Very Unclear
+      required: true
+    - id: 10
+      name: ai_tone
+      label: Tone of the AI Reviewer
+      hint: null
+      type: select_one
+      options:
+      - Professional & Helpful
+      - Neutral
+      - Overly Critical
+      - Generic/Robotic
+      - Encouraging
+      required: true
+    - id: 11
+      name: usefulness_section
+      label: '--- Usefulness & Trust ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: review_usefulness
+      label: How useful was the review for your improvements?
+      hint: null
+      type: select_one
+      options:
+      - Highly Useful
+      - Useful
+      - Somewhat Useful
+      - Not Useful
+      required: true
+    - id: 13
+      name: trust_for_future
+      label: Would you trust this AI reviewer for future evaluations?
+      hint: null
+      type: select_one
+      options:
+      - Definitely
+      - Likely
+      - Unsure
+      - Unlikely
+      - Definitely Not
+      required: true
+    - id: 14
+      name: improvement_suggestions
+      label: Specific suggestions for improving the AI reviewer
+      hint: What could the AI do better next time?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contact_info_section
+      label: '--- Contact Information (Optional) ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: contact_phone
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false

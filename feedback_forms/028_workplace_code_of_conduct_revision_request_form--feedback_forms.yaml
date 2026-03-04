@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workplace Code Of Conduct Revision Request Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Workplace Code Of Conduct Revision Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: description
+      label: description
+      hint: A clear and concise description of the change or suggestion
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: policy_area
+      label: policy_area
+      hint: null
+      type: select_one
+      options:
+      - Area of Code of Conduct
+      - Area 1
+      - Area 2
+      required: false
+    - id: 4
+      name: policy_section
+      label: policy_section
+      hint: null
+      type: select_multiple
+      options:
+      - Section 1
+      - Section 2
+      - Section 3
+      required: false
+    - id: 5
+      name: policy_clause
+      label: policy_clause
+      hint: A specific clause or rule within the policy or section
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: reason_for_request
+      label: reason_for_request
+      hint: A clear and concise description of the reason for the request
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: suggest_changes
+      label: suggest_changes
+      hint: Provide specific changes and suggestions for improvement
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submitter_name
+      label: submitter_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submitter_email
+      label: submitter_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: submitter_phone
+      label: submitter_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitter_department
+      label: submitter_department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitter_title
+      label: submitter_title
+      hint: null
+      type: text
+      options: []
+      required: false

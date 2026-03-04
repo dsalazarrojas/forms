@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mobile Bartending Service Feedback Survey
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - Bartender
+      - Event Planner
+      - Venue
+      required: false
+    - id: 3
+      name: date_of_event
+      label: Date of Event
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_of_event
+      label: Time of Event
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false

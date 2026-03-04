@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Feedback On Pricing
+    pages:
+    - id: 1
+      name: price_perception
+      label: How do you perceive our price?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 2
+      name: value_for_money
+      label: How does it compare to your expected value?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 3
+      name: pricing_clarity
+      label: How clear is our pricing information?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 4
+      name: overall_satisfaction
+      label: Overall satisfaction with our price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: price_range
+      label: How does it compare to other prices?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 6
+      name: price_change
+      label: Are you more or less likely to buy because of our price?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 7
+      name: price_influence
+      label: How important is price in your purchasing decision?
+      hint: null
+      type: number
+      options: []
+      required: true

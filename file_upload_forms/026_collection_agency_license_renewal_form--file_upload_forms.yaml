@@ -1,0 +1,290 @@
+inputSchema:
+  type: object
+  properties:
+    title: Collection Agency License Renewal Form
+    pages:
+    - id: 1
+      name: agency_name
+      label: Collection Agency Name
+      hint: Legal business name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: agency_type
+      label: Agency Type
+      hint: Business structure
+      type: select_one
+      options:
+      - Corporation
+      - LLC
+      - Partnership
+      - Sole Proprietorship
+      - Other
+      required: true
+    - id: 3
+      name: license_number
+      label: Current License Number
+      hint: License to renew
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: license_expiry
+      label: Current License Expiry Date
+      hint: When does it expire
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: renewal_date
+      label: Renewal Request Date
+      hint: Date of submission
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: primary_contact_name
+      label: Primary Contact Name
+      hint: Main contact person
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: primary_contact_title
+      label: Primary Contact Title
+      hint: Job title
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: primary_contact_email
+      label: Primary Contact Email
+      hint: Email address
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: primary_contact_phone
+      label: Primary Contact Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: business_address
+      label: Business Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: business_city
+      label: City
+      hint: City name
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: business_state
+      label: State
+      hint: State name
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: business_zip
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: mailing_address
+      label: Mailing Address
+      hint: If different
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: years_in_business
+      label: Years in Business
+      hint: How long operating
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - 10-20 years
+      - Over 20 years
+      required: true
+    - id: 16
+      name: number_of_employees
+      label: Number of Employees
+      hint: Total staff count
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: number_of_collectors
+      label: Number of Collectors
+      hint: Licensed collectors
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: services_provided
+      label: Services Provided
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - First Party Collections
+      - Third Party Collections
+      - Debt Buying
+      - Skip Tracing
+      - Legal Collections
+      - Medical Collections
+      - Commercial Collections
+      - Consumer Collections
+      required: true
+    - id: 19
+      name: bond_information
+      label: Surety Bond Information
+      hint: Bond provider and amount
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: bond_amount
+      label: Bond Amount
+      hint: Coverage amount
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: bond_expiry
+      label: Bond Expiry Date
+      hint: When bond expires
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: insurance_provider
+      label: Insurance Provider
+      hint: Liability insurance
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: insurance_coverage
+      label: Insurance Coverage Amount
+      hint: Policy coverage
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: insurance_expiry
+      label: Insurance Expiry Date
+      hint: When insurance expires
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: complaints_filed
+      label: Complaints Filed Against Agency
+      hint: In the past year
+      type: select_one
+      options:
+      - None
+      - 1-2
+      - 3-5
+      - 6-10
+      - Over 10
+      required: true
+    - id: 26
+      name: complaint_details
+      label: Complaint Details
+      hint: Describe if any
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: disciplinary_actions
+      label: Disciplinary Actions
+      hint: Any actions taken
+      type: select_one
+      options:
+      - None
+      - Warning Issued
+      - Fine Assessed
+      - License Suspended
+      - License Revoked
+      required: true
+    - id: 28
+      name: continuing_education
+      label: Continuing Education Completed
+      hint: Required training
+      type: select_one
+      options:
+      - Yes All Staff
+      - Yes Some Staff
+      - In Progress
+      - Not Completed
+      required: true
+    - id: 29
+      name: financial_statement
+      label: Financial Statement Upload
+      hint: Attach current statement
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: bond_certificate
+      label: Bond Certificate Upload
+      hint: Attach certificate
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: insurance_certificate
+      label: Insurance Certificate Upload
+      hint: Attach certificate
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: sample_collection_letters
+      label: Sample Collection Letters Upload
+      hint: Attach examples
+      type: text
+      options: []
+      required: true
+    - id: 33
+      name: renewal_fee
+      label: Renewal Fee Payment
+      hint: Fee amount due
+      type: text
+      options: []
+      required: true
+    - id: 34
+      name: payment_method
+      label: Payment Method
+      hint: How will you pay
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Check
+      - Wire Transfer
+      - ACH
+      required: true
+    - id: 35
+      name: authorized_signature
+      label: Authorized Signature
+      hint: I certify this information is accurate
+      type: select_one
+      options:
+      - Yes I Certify
+      - Other
+      required: true

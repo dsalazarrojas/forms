@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Game Feedback Form
+    pages:
+    - id: 1
+      name: game_name
+      label: Game Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: game_rating
+      label: Game Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: rating_value
+      label: Rating Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: rating_scale
+      label: Rating Scale
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 6
+      name: feedback_date
+      label: Feedback Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: feedback_time
+      label: Feedback Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: game_type
+      label: Game Type
+      hint: null
+      type: select_multiple
+      options:
+      - Tabletop
+      - Video Game
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parent Teacher Organization Guidelines Feedback
+    pages:
+    - id: 1
+      name: feedback_on_clarity
+      label: Feedback on Clarity
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: feedback_on_effectiveness
+      label: Feedback on Effectiveness
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 3
+      name: feedback_on_ease_of_use
+      label: Feedback on Ease of Use
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 4
+      name: suggestions_for_improvements
+      label: Suggestions for Improvements
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: fairness_and_unbiasness
+      label: Do you feel that the guidelines are fair and unbiased?
+      hint: null
+      type: select_one
+      options:
+      - Agree
+      - Somewhat Agree
+      - Neither Agree nor Disagree
+      - Somewhat Disagree
+      - Strongly Disagree
+      required: true
+    - id: 9
+      name: other_comments
+      label: Do you have any other comments or suggestions?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: prophets_of_guidelines
+      label: How would you rate the prophets of the guidelines?
+      hint: null
+      type: select_multiple
+      options:
+      - Extremely Useful
+      - Pretty Useful
+      - Not Very Useful
+      required: false
+    - id: 11
+      name: feedback_on_input
+      label: Would you like to receive feedback on your input?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 12
+      name: visit_frequency
+      label: How often do you visit the school website?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: social_media_visit_frequency
+      label: How often do you visit the school social media page?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: event_attendance
+      label: Have you attended a school event in the last 30 days?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 15
+      name: overall_experience
+      label: How do you rate your overall experience with the school?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 16
+      name: communication
+      label: What do you rate the school’s communication about school events?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 17
+      name: other_feedback
+      label: Do you have any other feedback or suggestions?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: app_usage
+      label: How often do you use the school’s mobile app?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: prophets_of_email_newsletters
+      label: How useful are the school’s email news letters?
+      hint: null
+      type: select_multiple
+      options:
+      - Extremely Useful
+      - Pretty Useful
+      - Not Very Useful
+      required: false
+    - id: 20
+      name: website_usage
+      label: How often do you visit the school’s website?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: website_ease_of_use
+      label: Do you find the school’s website easy to use?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 22
+      name: other_suggestions
+      label: Do you have any other feedback or suggestions for the school’s website?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: social_media_presence
+      label: How would you rate the school’s social media presence?
+      hint: null
+      type: select_multiple
+      options:
+      - Extremely Useful
+      - Pretty Useful
+      - Not Very Useful
+      required: true

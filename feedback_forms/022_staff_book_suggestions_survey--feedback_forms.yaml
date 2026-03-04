@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Staff Book Suggestions Survey
+    pages:
+    - id: 1
+      name: staff_book_suggestions_survey_form
+      label: What is your favorite book suggestion?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: staff_book_suggestions_survey_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: staff_book_suggestions_survey_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: staff_book_suggestions_survey_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: staff_book_suggestions_survey_book_suggestions
+      label: Book Suggestions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: staff_book_suggestions_survey_department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: staff_book_suggestions_survey_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: staff_book_suggestions_survey_agree
+      label: Do you agree to share your email and phone number?
+      hint: null
+      type: select_one
+      options:
+      - Agree
+      - Disagree
+      - Undecided
+      required: true
+    - id: 9
+      name: staff_book_suggestions_survey_agree_to_share
+      label: Agree to share your email and phone number?
+      hint: null
+      type: select_multiple
+      options:
+      - Agree
+      - Disagree
+      - Undecided
+      required: false
+    - id: 10
+      name: staff_book_suggestions_survey_submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

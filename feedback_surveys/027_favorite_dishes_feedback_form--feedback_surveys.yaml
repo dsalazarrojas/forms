@@ -1,0 +1,61 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Favorite Dishes Feedback Form
+    pages:
+    - id: 1
+      name: favorite_dishes_feedback_form
+      label: favorite_dishes_feedback_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Option 1'', ''value'': ''Option 1''}'
+      - '{''id'': 2, ''name'': ''Option 2'', ''value'': ''Option 2''}'
+      - '{''id'': 3, ''name'': ''Option 3'', ''value'': ''Option 3''}'
+      - '{''id'': 4, ''name'': ''Option 4'', ''value'': ''Option 4''}'
+      - '{''id'': 5, ''name'': ''Option 5'', ''value'': ''Option 5''}'
+      required: false
+    - id: 3
+      name: dish_rating
+      label: dish_rating
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''1/5'', ''value'': 1}'
+      - '{''id'': 2, ''name'': ''2/5'', ''value'': 2}'
+      - '{''id'': 3, ''name'': ''3/5'', ''value'': 3}'
+      - '{''id'': 4, ''name'': ''4/5'', ''value'': 4}'
+      - '{''id'': 5, ''name'': ''5/5'', ''value'': 5}'
+      required: false
+    - id: 4
+      name: menu_opinions
+      label: menu_opinions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false

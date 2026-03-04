@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Room Design Approval Upload Form
+    pages:
+    - id: 1
+      name: room_design_approval_upload_form_1
+      label: Room Design Approval
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: file_to_upload
+      label: File to Upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: room_id
+      label: Room ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: room_name
+      label: Room Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: file_package
+      label: File Package
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: file_size_limit
+      label: File Size Limit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: file_type
+      label: File Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: upload_file
+      label: Upload File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: upload_successful
+      label: Upload Successful
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: upload_successful_hint
+      label: Upload Successful Hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: error_message
+      label: Error Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: room_design_approval_upload_form_category
+      label: Upload Form Category
+      hint: null
+      type: select_one
+      options:
+      - File Upload Forms
+      - Room Design Forms
+      required: false
+    - id: 13
+      name: room_design_approval_upload_form_category_hint
+      label: Upload Form Category Hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: room_design_approval_upload_form_sub_category
+      label: Upload Form Sub Category
+      hint: null
+      type: select_one
+      options:
+      - Room Design Forms
+      - Facilities Forms
+      required: false

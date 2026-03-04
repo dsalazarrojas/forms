@@ -1,0 +1,79 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Government Business License Submission Form
+    pages:
+    - id: 1
+      name: business_license_application
+      label: Submit Business License Application
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: business_type
+      label: Business Type
+      hint: What kind of business is this?
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Sole Proprietorship''}'
+      - '{''id'': 2, ''label'': ''Partnership''}'
+      - '{''id'': 3, ''label'': ''Corporation''}'
+      - '{''id'': 4, ''label'': ''Limited Liability Company (LLC)''}'
+      required: false
+    - id: 3
+      name: business_location
+      label: Business Location
+      hint: What is the location of your business?
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: business_address
+      label: Address
+      hint: What is the address of your business?
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: business_contact
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: business_license_type
+      label: License Type
+      hint: What type of license do you need?
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''General Business License''}'
+      - '{''id'': 2, ''label'': ''Specialized Business License''}'
+      - '{''id'': 3, ''label'': ''Both''}'
+      required: false
+    - id: 7
+      name: document_upload
+      label: Document Upload
+      hint: Upload required documents
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

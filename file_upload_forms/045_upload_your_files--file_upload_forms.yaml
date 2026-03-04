@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Upload Your Files
+    pages:
+    - id: 1
+      name: file_upload
+      label: upload_files
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: file_type
+      label: file_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 4, ''name'': ''text'', ''label'': ''Text'', ''value'': ''text''}'
+      - '{''id'': 5, ''name'': ''image'', ''label'': ''Image'', ''value'': ''image''}'
+      - '{''id'': 6, ''name'': ''other'', ''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 4
+      name: file_size
+      label: file_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: upload_date
+      label: upload_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: upload_time
+      label: upload_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false

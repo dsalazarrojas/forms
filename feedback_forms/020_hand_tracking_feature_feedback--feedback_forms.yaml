@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hand Tracking Feature Feedback
+    pages:
+    - id: 1
+      name: feature_feedback
+      label: feature_feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: comment
+      label: comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: feature_impact
+      label: impact
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: suggestion
+      label: suggestion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: expected_improvement
+      label: expected_improvement
+      hint: null
+      type: select_one
+      options:
+      - Hand tracking is working as expected
+      - Hand tracking needs a little more work
+      - Hand tracking is broken
+      required: true
+    - id: 7
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: feedback_category
+      label: feedback_category
+      hint: null
+      type: select_multiple
+      options:
+      - AR/VR teams
+      - Game Studios
+      - Product developers
+      required: true
+    - id: 9
+      name: email_address
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: expected_next_steps
+      label: expected_next_steps
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Not sure
+      required: true
+    - id: 12
+      name: additional_feedback
+      label: additional_feedback
+      hint: null
+      type: text
+      options: []
+      required: false

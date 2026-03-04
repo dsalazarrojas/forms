@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Magazine Page License Application
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: intended_uses
+      label: Intended Uses
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: usage_details
+      label: Usage Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: file_upload_1
+      label: File Upload 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: file_upload_2
+      label: File Upload 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: submission_tracking
+      label: Submission Tracking
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: form_submission
+      label: Form Submission
+      hint: null
+      type: text
+      options: []
+      required: false

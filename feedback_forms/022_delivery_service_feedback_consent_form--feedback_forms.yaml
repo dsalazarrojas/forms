@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Delivery Service Feedback Consent Form
+    pages:
+    - id: 1
+      name: customer_feedback
+      label: customer feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: delivery_service_improvement
+      label: delivery service improvement
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 3
+      name: contact_number
+      label: contact number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email_address
+      label: email address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: feedback_details
+      label: feedback details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: consent
+      label: consent
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 7
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: National Policy Conference Raffle Survey
+    pages:
+    - id: 1
+      name: national_policy_conference_raffle_survey
+      label: session_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: contact_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: favorite_session
+      label: favorite_session
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: session_rating
+      label: session_rating
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 8
+      name: raffle_entry
+      label: raffle_entry
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false

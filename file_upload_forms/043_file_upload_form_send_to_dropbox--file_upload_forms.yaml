@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: file_upload_form_send_to_dropbox
+    pages:
+    - id: 1
+      name: upload_file
+      label: Upload File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: upload_type
+      label: File Type
+      hint: Choose a file type
+      type: select_multiple
+      options:
+      - pdf
+      - image
+      - video
+      required: false
+    - id: 3
+      name: file_size
+      label: File Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: upload_to
+      label: Upload To
+      hint: null
+      type: select_one
+      options:
+      - Dropbox
+      - Google Drive
+      - Microsoft OneDrive
+      required: false
+    - id: 5
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - other
+      required: false
+    - id: 8
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: created_at
+      label: Created At
+      hint: null
+      type: time
+      options: []
+      required: false

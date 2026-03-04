@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Idea Submission Form
+    pages:
+    - id: 1
+      name: idea_submission_form_page_1
+      label: What is the best way to improve our company?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: idea_submission_form_page_2
+      label: How do you think you can improve our company?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: idea_submission_form_page_3
+      label: What is the most significant improvement you have observed in your time
+        at the company?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Communication''}'
+      - '{''id'': 2, ''label'': ''Organization''}'
+      - '{''id'': 3, ''label'': ''Teamwork''}'
+      - '{''id'': 4, ''label'': ''Leadership''}'
+      - '{''id'': 5, ''label'': ''Management''}'
+      required: true
+    - id: 4
+      name: idea_submission_form_page_4
+      label: Do you have any other feedback or suggestions?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: idea_submission_form_page_5
+      label: How do you feel about our company culture?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Positive''}'
+      - '{''id'': 2, ''label'': ''Negative''}'
+      required: true
+    - id: 6
+      name: idea_submission_form_page_6
+      label: Is there anything else we can do to make our company better?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: idea_submission_form_page_7
+      label: How often would you like to receive emails from us?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Daily''}'
+      - '{''id'': 2, ''label'': ''Weekly''}'
+      - '{''id'': 3, ''label'': ''Monthly''}'
+      required: true
+    - id: 8
+      name: idea_submission_form_page_8
+      label: How do you rate our customer service?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: idea_submission_form_page_9
+      label: Have you had a positive experience with our customer service department?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: true
+    - id: 10
+      name: idea_submission_form_page_10
+      label: Any other comments?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: idea_submission_form_page_11
+      label: What is the best way to contact you?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Phone''}'
+      - '{''id'': 2, ''label'': ''Email''}'
+      - '{''id'': 3, ''label'': ''Chat''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: true
+    - id: 12
+      name: idea_submission_form_page_12
+      label: What is the best time to contact you?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: idea_submission_form_page_13
+      label: How do you usually access our system?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Laptop''}'
+      - '{''id'': 2, ''label'': ''Desktop''}'
+      - '{''id'': 3, ''label'': ''Mobile''}'
+      - '{''id'': 4, ''label'': ''Tablet''}'
+      - '{''id'': 5, ''label'': ''Other''}'
+      required: true
+    - id: 14
+      name: idea_submission_form_page_14
+      label: What is the best time zone for our system to be available?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: idea_submission_form_page_15
+      label: What is your age?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: idea_submission_form_page_16
+      label: What is your job title?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: idea_submission_form_page_17
+      label: What is your department?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Sales''}'
+      - '{''id'': 2, ''label'': ''Marketing''}'
+      - '{''id'': 3, ''label'': ''Support''}'
+      - '{''id'': 4, ''label'': ''Development''}'
+      required: true
+    - id: 18
+      name: idea_submission_form_page_18
+      label: How long have you been working at our company?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: idea_submission_form_page_19
+      label: What is your salary range?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: idea_submission_form_page_20
+      label: Is there anything else we can do to make our company better?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: idea_submission_form_page_21
+      label: How do you rate the overall experience of working at our company?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Good''}'
+      - '{''id'': 2, ''label'': ''Bad''}'
+      - '{''id'': 3, ''label'': ''Neutral''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: true
+    - id: 22
+      name: idea_submission_form_page_22
+      label: Do you have a suggestion for us?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: idea_submission_form_page_23
+      label: Is there anything else we can do to improve our company?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: idea_submission_form_page_24
+      label: Do you have any other comments or suggestions?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: idea_submission_form_page_25
+      label: Is there anything else we can do to make our company better?
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,154 @@
+inputSchema:
+  type: object
+  properties:
+    title: Planning Condition Change Application
+    pages:
+    - id: 1
+      name: first_page
+      label: Page 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: second_page
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_file
+      label: File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: project_id
+      label: Project ID
+      hint: Unique project ID
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: change_requester
+      label: Change Requester
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: project_team_members
+      label: Project Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: date_change_happened
+      label: Date Change Happened
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_change_happened
+      label: Time Change Happened
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: condition_change_details
+      label: Condition Change Details
+      hint: Provide a brief description of the change
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: change_request_status
+      label: Change Request Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: submitter
+      label: Submitter
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submitter_department
+      label: Submitter Department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: submitter_designation
+      label: Submitter Designation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: submitter_location
+      label: Submitter Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: form_file2
+      label: File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: project_team_leads
+      label: Project Team Leads
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: change_request_comments
+      label: Change Request Comments
+      hint: null
+      type: text
+      options: []
+      required: false

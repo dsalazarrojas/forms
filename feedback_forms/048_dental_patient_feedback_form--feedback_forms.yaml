@@ -1,0 +1,36 @@
+inputSchema:
+  type: object
+  properties:
+    title: dental_patient_feedback_form
+    pages:
+    - id: 1
+      name: feedback_form
+      label: Feedback Form
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false

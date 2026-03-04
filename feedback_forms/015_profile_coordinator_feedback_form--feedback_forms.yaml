@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Profile Coordinator Feedback Form
+    pages:
+    - id: 1
+      name: profile_coordinator_feedback_form
+      label: Profile Coordinator Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: overall_experience
+      label: overall_experience
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Satisfied''}'
+      - '{''label'': ''Somewhat Satisfied''}'
+      - '{''label'': ''Somewhat Dissatisfied''}'
+      - '{''label'': ''Very Dissatisfied''}'
+      required: false
+    - id: 3
+      name: profile_coordinator_helpful
+      label: profile_coordinator_helpful
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: suggestions
+      label: suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_us
+      label: contact_us
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false

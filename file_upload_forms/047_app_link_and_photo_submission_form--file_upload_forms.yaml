@@ -1,0 +1,173 @@
+inputSchema:
+  type: object
+  properties:
+    title: App Link And Photo Submission Form
+    pages:
+    - id: 1
+      name: submission_date
+      label: Submission date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: submitter_name
+      label: Submitter name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: submitter_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: submitter_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: submission_type
+      label: Type of submission
+      hint: null
+      type: select_one
+      options:
+      - App link only
+      - Photos only
+      - Both app link and photos
+      required: true
+    - id: 6
+      name: app_name
+      label: App name
+      hint: Name of the application
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: app_category
+      label: App category
+      hint: What type of app is this
+      type: select_one
+      options:
+      - Games
+      - Productivity
+      - Social
+      - Education
+      - Business
+      - Health and Fitness
+      - Entertainment
+      - Lifestyle
+      - Other
+      required: true
+    - id: 8
+      name: ios_app_link
+      label: iOS app store link
+      hint: Link to Apple App Store
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: android_app_link
+      label: Android app store link
+      hint: Link to Google Play Store
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: web_app_link
+      label: Web app or website link
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: app_description
+      label: Brief app description
+      hint: What does this app do
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: app_version
+      label: Current app version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: release_date
+      label: App release or launch date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: app_icon
+      label: App icon or logo image
+      hint: Upload high-resolution icon
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: app_screenshots
+      label: App screenshots
+      hint: Upload multiple screenshots
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: promotional_images
+      label: Promotional or banner images
+      hint: Marketing images if available
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: demo_video
+      label: Demo video link
+      hint: YouTube or Vimeo link
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: developer_name
+      label: Developer or company name
+      hint: Who created this app
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: developer_website
+      label: Developer website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: additional_links
+      label: Any additional relevant links
+      hint: Portfolio, social media, etc
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submission_notes
+      label: Additional notes or comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: terms_agreement
+      label: I agree to the submission terms
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - false
+      required: true

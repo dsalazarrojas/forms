@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Custom Leather Design Inquiry
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: design_details
+      label: Design Details
+      hint: Describe your leather design concept
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: material_preferences
+      label: Material Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - '{''Leather Type'': ''Leather''}'
+      - '{''Color'': ''Color''}'
+      - '{''Texture'': ''Texture''}'
+      required: false
+    - id: 4
+      name: upload_images
+      label: Upload Images
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: project_expectations
+      label: Project Expectations
+      hint: null
+      type: text
+      options: []
+      required: false

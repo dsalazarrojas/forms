@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: Off Road Experience Feedback Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: experience_date
+      label: experience_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: off_road_vehicle_type
+      label: off_road_vehicle_type
+      hint: null
+      type: select_one
+      options:
+      - Aek
+      - Car
+      - Bike
+      - Quad
+      - Horse
+      - Other
+      required: true
+    - id: 4
+      name: trail_condition
+      label: trail_condition
+      hint: null
+      type: select_one
+      options:
+      - Difficult
+      - Easy
+      - Medium
+      required: true
+    - id: 5
+      name: trail_length
+      label: trail_length
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: overall_experience
+      label: overall_experience
+      hint: null
+      type: select_multiple
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Bad
+      required: true
+    - id: 7
+      name: suggestions_for_improvement
+      label: suggestions_for_improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: location
+      label: location
+      hint: null
+      type: select_multiple
+      options:
+      - Mountain
+      - Desert
+      - Forest
+      - Other
+      required: true
+    - id: 12
+      name: guide_name
+      label: guide_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: guide_rating
+      label: guide_rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: guide_experience
+      label: guide_experience
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Bad
+      required: true
+    - id: 15
+      name: guide_skills
+      label: guide_skills
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Bad
+      required: true
+    - id: 16
+      name: safety_guidance
+      label: safety_guidance
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Bad
+      required: true
+    - id: 17
+      name: goals
+      label: goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: follow_up
+      label: follow_up
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: contact_method
+      label: contact_method
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - Other
+      required: true
+    - id: 20
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: participant_signature
+      label: participant_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: guide_signature
+      label: guide_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: signature_timestamp
+      label: signature_timestamp
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 25
+      name: participant_agreement
+      label: participant_agreement
+      hint: null
+      type: select_multiple
+      options:
+      - I understand that I will receive a copy of my feedback
+      - I understand that the guide has a right to use the feedback as they wish
+      required: true

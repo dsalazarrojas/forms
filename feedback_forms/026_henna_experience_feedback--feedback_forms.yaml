@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Henna Experience Feedback
+    pages:
+    - id: 1
+      name: artist
+      label: Henna Artist
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: session
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: rating
+      label: Client Satisfaction Rating
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: true
+    - id: 4
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: recommendation
+      label: Recommendation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: session_date
+      label: Session Date
+      hint: null
+      type: time
+      options: []
+      required: false

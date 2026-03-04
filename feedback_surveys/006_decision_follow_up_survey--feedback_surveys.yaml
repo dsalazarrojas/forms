@@ -1,0 +1,100 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Decision Follow Up Survey
+    pages:
+    - id: 1
+      name: decision_follow_up_survey
+      label: Decision Follow Up Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: decision_leader
+      label: Decision Leader
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: decision_outcome
+      label: Decision Outcome
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Positive''}'
+      - '{''id'': 2, ''label'': ''Negative''}'
+      - '{''id'': 3, ''label'': ''Neutral''}'
+      required: false
+    - id: 5
+      name: project_manager
+      label: Project Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_decision
+      label: Date of Decision
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_of_decision
+      label: Time of Decision
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: decision_satisfied
+      label: Decision Satisfied
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 9
+      name: impact_on_project
+      label: Impact on Project
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''High''}'
+      - '{''id'': 2, ''label'': ''Low''}'
+      required: false
+    - id: 10
+      name: suggestion_for_improvement
+      label: Suggestion for Improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: suggestion_for_improvement_other
+      label: Other (if needed)
+      hint: null
+      type: text
+      options: []
+      required: false

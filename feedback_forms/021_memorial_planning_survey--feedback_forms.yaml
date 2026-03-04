@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Memorial Planning Survey
+    pages:
+    - id: 1
+      name: memorial_planning_survey
+      label: Memorial Planning Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: select_one
+      options:
+      - First Name
+      - Last Name
+      - Phone
+      - Email
+      required: true
+    - id: 3
+      name: memorial_preferences
+      label: Memorial Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Preferred Service Location
+      - Preferred Casket Type
+      - Preferred Urn Type
+      - Preferred Cremation Urn Type
+      required: true
+    - id: 4
+      name: memorial_services
+      label: Memorial Services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: funeral_preferences
+      label: Funeral Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: memorial_preferences_2
+      label: Memorial Preferences 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: submit_button
+      label: Submit
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: confirm_submission
+      label: Confirm Submission
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

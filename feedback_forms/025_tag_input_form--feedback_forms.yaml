@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tag Input Form
+    pages:
+    - id: 1
+      name: form_tag_input
+      label: Tag Input
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: tag_1
+      label: tags
+      hint: null
+      type: select_one
+      options:
+      - tag1
+      - tag2
+      - tag3
+      - tag4
+      required: false
+    - id: 3
+      name: tag_2
+      label: tags 2
+      hint: null
+      type: select_one
+      options:
+      - tag5
+      - tag6
+      - tag7
+      required: false
+    - id: 4
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

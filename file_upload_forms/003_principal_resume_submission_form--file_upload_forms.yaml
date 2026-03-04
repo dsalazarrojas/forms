@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Principal Resume Submission Form
+    pages:
+    - id: 1
+      name: principal_name
+      label: Principal Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: school_address
+      label: School Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: resume_attachment
+      label: Resume Attachment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: resume
+      label: Resume
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: resume_type
+      label: Resume Type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 8
+      name: principal_experience
+      label: Principal Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: years_of_experience
+      label: Years of Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: school_district
+      label: School District
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: school_boards_achieved
+      label: School Boards Achieved
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 12
+      name: resume_upload_instructions
+      label: Resume Upload Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: additional_information
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: principal_references
+      label: Principal References
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: school_board_certifications
+      label: School Board Certifications
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false

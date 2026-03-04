@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Guest Comment Form
+    pages:
+    - id: 1
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: comment
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: rating_value
+      label: Rating Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - category_1
+      - category_2
+      - category_3
+      - category_4
+      - category_5
+      - category_6
+      required: false
+    - id: 10
+      name: department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - department_1
+      - department_2
+      - department_3
+      - department_4
+      - department_5
+      - department_6
+      required: false
+    - id: 11
+      name: comment_type
+      label: Comment Type
+      hint: null
+      type: select_one
+      options:
+      - comment_type_1
+      - comment_type_2
+      - comment_type_3
+      required: false

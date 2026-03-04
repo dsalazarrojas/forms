@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Retention Interview Form
+    pages:
+    - id: 1
+      name: employee_retention_interview_form
+      label: Welcome to the Employee Retention Interview Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_satisfaction
+      label: job_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very High''}'
+      - '{''label'': ''High''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Low''}'
+      - '{''label'': ''Very Low''}'
+      required: false
+    - id: 3
+      name: communication_with_manager
+      label: communication_with_manager
+      hint: How often do you have one-on-one meetings with your manager?
+      type: select_multiple
+      options:
+      - '{''label'': ''Daily''}'
+      - '{''label'': ''Weekly''}'
+      - '{''label'': ''Monthly''}'
+      - '{''label'': ''Never''}'
+      required: false
+    - id: 4
+      name: feedback
+      label: feedback
+      hint: What are some feedbacks that you have for your manager?
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_of_birth
+      label: time_of_birth
+      hint: null
+      type: time
+      options: []
+      required: false

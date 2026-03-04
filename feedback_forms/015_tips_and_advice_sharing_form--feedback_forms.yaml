@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tips And Advice Sharing Form
+    pages:
+    - id: 1
+      name: user_input_1
+      label: User Input 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_input_2
+      label: User Input 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: tips_and_advice
+      label: Tips And Advice
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: share_with
+      label: Share With
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 7
+      name: submit_date
+      label: Submit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: submission_type
+      label: Submission Type
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false

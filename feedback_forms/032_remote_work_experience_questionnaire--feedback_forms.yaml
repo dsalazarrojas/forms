@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Remote Work Experience Questionnaire
+    pages:
+    - id: 1
+      name: first_page
+      label: Work Experience
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: remote_work_frequency
+      label: How many days a week do you work remotely?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: work_location
+      label: Where do you work?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: work_location_details
+      label: Work location details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: work_environment
+      label: What kind of work environment do you typically work in?
+      hint: Choose one of the options below
+      type: select_one
+      options:
+      - Office
+      - Home
+      - Co-working space
+      - Outdoor
+      required: true
+    - id: 6
+      name: work_schedule
+      label: What kind of schedule do you typically keep?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Regular business hours
+      - Flexible hours
+      - Flexible hours with core hours
+      - Variable
+      required: true
+    - id: 7
+      name: productivity_tools
+      label: What tools and software do you use to stay productive while working remotely?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: challenges_faced
+      label: What challenges do you face while working remotely?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: benefits_of_remote_work
+      label: What benefits do you think you get from working remotely?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: feedback
+      label: Do you have any other feedback?
+      hint: null
+      type: note
+      options: []
+      required: false

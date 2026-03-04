@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Educational Board Feedback Survey
+    pages:
+    - id: 1
+      name: school_district_name
+      label: School District Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: feedback_questions
+      label: What is your feedback on our educational board?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: satisfaction_rating
+      label: How satisfied are you with our educational board?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: suggestions
+      label: Do you have any suggestions for our educational board?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: school_districts
+      label: Which school district are you associated with?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: educational_board_rating
+      label: Educational Board Rating
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Highly Satisfied''}'
+      - '{''option2'': ''Moderately Satisfied''}'
+      - '{''option3'': ''Somewhat Satisfied''}'
+      - '{''option4'': ''Very Dissatisfied''}'
+      - '{''option5'': ''Not At All Satisfied''}'
+      required: true
+    - id: 11
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Feedback Surveys''}'
+      - '{''option2'': ''Education Surveys''}'
+      - '{''option3'': ''Other''}'
+      required: true
+    - id: 13
+      name: category_other
+      label: Category Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Feedback Surveys''}'
+      - '{''option2'': ''Education Surveys''}'
+      required: false
+    - id: 16
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: role
+      label: Role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: job_function
+      label: Job Function
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: job_title_2
+      label: Job Title 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: department_2
+      label: Department 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: role_2
+      label: Role 2
+      hint: null
+      type: text
+      options: []
+      required: false

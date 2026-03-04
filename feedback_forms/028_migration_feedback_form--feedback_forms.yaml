@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Migration Feedback Form
+    pages:
+    - id: 1
+      name: migration_feedback_form_1
+      label: migration_process
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: migration_feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: migration_experience
+      label: migration_experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: suggestion
+      label: suggestion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: submit
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false

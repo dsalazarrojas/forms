@@ -1,0 +1,52 @@
+inputSchema:
+  type: object
+  properties:
+    title: Visual Effects Feedback Form
+    pages:
+    - id: 1
+      name: form_title
+      label: form_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_type
+      label: project_type
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      - Option 5
+      required: false
+    - id: 3
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: project_rating
+      label: project_rating
+      hint: On a scale of 1-10
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: project_notes
+      label: project_notes
+      hint: Add any further notes or comments about the project.
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: project_image
+      label: project_image
+      hint: null
+      type: text
+      options: []
+      required: false

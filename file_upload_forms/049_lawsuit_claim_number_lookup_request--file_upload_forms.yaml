@@ -1,0 +1,167 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lawsuit Claim Number Lookup Request
+    pages:
+    - id: 1
+      name: requester_name
+      label: Requester Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: firm_name
+      label: Firm Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: firm_phone
+      label: Firm Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: firm_email
+      label: Firm Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: case_number
+      label: Case Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: documents
+      label: Supporting Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_submitted
+      label: Time Submitted
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: lawsuit_claim_number
+      label: Lawsuit Claim Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: file_uploaded
+      label: File Uploaded
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: selected_lawsuit_claim
+      label: Selected Lawsuit Claim
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: selected_lawsuit_claim_number
+      label: Selected Lawsuit Claim Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: selected_lawsuit_claim_type
+      label: Selected Lawsuit Claim Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: submitter
+      label: Submitter
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: submitter_address
+      label: Submitter Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submitter_company
+      label: Submitter Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: date_received
+      label: Date Received
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: time_received
+      label: Time Received
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: case_status
+      label: Case Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

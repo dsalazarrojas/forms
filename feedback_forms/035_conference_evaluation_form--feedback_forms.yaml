@@ -1,0 +1,267 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Conference Evaluation Form
+    pages:
+      - id: 1
+        name: evaluation_intro
+        label: Conference Evaluation
+        hint: Help us improve future events
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: attendee_name
+        label: Your Name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: attendee_email
+        label: Email Address
+        hint: For follow-up
+        type: email
+        options: []
+        required: false
+      - id: 4
+        name: conference_name
+        label: Conference Name
+        hint: Event evaluated
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: conference_date
+        label: Conference Date
+        hint: When attended
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: overall_ratings
+        label: Overall Ratings
+        hint: Rate your experience
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: overall_satisfaction
+        label: Overall Satisfaction
+        hint: Rate the conference
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 8
+        name: content_quality
+        label: Content Quality
+        hint: Rate session content
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 9
+        name: speaker_quality
+        label: Speaker Quality
+        hint: Rate the speakers
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 10
+        name: venue_rating
+        label: Venue Rating
+        hint: Rate the facility
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 11
+        name: organization_rating
+        label: Organization Rating
+        hint: Rate event management
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 12
+        name: specific_ratings
+        label: Specific Ratings
+        hint: Detailed feedback
+        type: note
+        options: []
+        required: false
+      - id: 13
+        name: registration_process
+        label: Registration Process
+        hint: Rate sign-up experience
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: false
+      - id: 14
+        name: check_in_experience
+        label: Check-In Experience
+        hint: Rate arrival process
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: false
+      - id: 15
+        name: networking_opportunities
+        label: Networking Opportunities
+        hint: Rate chances to connect
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: false
+      - id: 16
+        name: catering_quality
+        label: Catering Quality
+        hint: Rate food and beverage
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+          - Did Not Use
+        required: false
+      - id: 17
+        name: materials_provided
+        label: Materials Provided
+        hint: Rate handouts and resources
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: false
+      - id: 18
+        name: value_assessment
+        label: Value Assessment
+        hint: Was it worth it
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: value_for_money
+        label: Value for Money
+        hint: Rate cost versus benefit
+        type: select_one
+        options:
+          - Excellent Value
+          - Good Value
+          - Fair Value
+          - Poor Value
+          - Very Poor Value
+        required: true
+      - id: 20
+        name: met_expectations
+        label: Met Expectations
+        hint: Did it meet your goals
+        type: select_one
+        options:
+          - Exceeded Expectations
+          - Met Expectations
+          - Below Expectations
+        required: true
+      - id: 21
+        name: would_recommend
+        label: Would Recommend
+        hint: Tell others about it
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Maybe
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 22
+        name: would_attend_again
+        label: Would Attend Again
+        hint: Future attendance
+        type: select_one
+        options:
+          - Definitely
+          - Probably
+          - Maybe
+          - Probably Not
+          - Definitely Not
+        required: true
+      - id: 23
+        name: best_aspects
+        label: Best Aspects
+        hint: What was best
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: areas_for_improvement
+        label: Areas for Improvement
+        hint: What could be better
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback
+        type: text
+        options: []
+        required: false
+      - id: 26
+        name: future_topics
+        label: Topics for Future Conferences
+        hint: What to include next time
+        type: text
+        options: []
+        required: false

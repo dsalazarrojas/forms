@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Annual Hook Inspection Report
+    pages:
+    - id: 1
+      name: inspection_date
+      label: Inspection Date
+      hint: Date when the hook inspection was conducted
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: inspector_name
+      label: Inspector Name
+      hint: Full name of the person conducting the inspection
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: inspector_id
+      label: Inspector ID or Employee Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: facility_name
+      label: Facility or Location Name
+      hint: Name of the facility where inspection occurred
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: hook_id
+      label: Hook Identification Number
+      hint: Serial number or unique identifier for the hook
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: hook_type
+      label: Hook Type
+      hint: null
+      type: select_one
+      options:
+      - Single Hook
+      - Double Hook
+      - Eye Hook
+      - Swivel Hook
+      - Magnetic Lifting Hook
+      - Other
+      required: true
+    - id: 7
+      name: hook_capacity
+      label: Rated Load Capacity
+      hint: Maximum safe working load in pounds or kilograms
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: last_inspection_date
+      label: Date of Last Inspection
+      hint: Previous annual inspection date
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: visual_condition
+      label: Visual Condition Assessment
+      hint: Overall appearance and visible wear
+      type: select_one
+      options:
+      - Excellent - No visible defects
+      - Good - Minor surface wear
+      - Fair - Some visible damage
+      - Poor - Significant damage
+      - Unsafe - Immediate removal required
+      required: true
+    - id: 10
+      name: surface_cracks
+      label: Surface Cracks or Fractures Detected
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Minor cracks
+      - Moderate cracks
+      - Severe cracks
+      required: true
+    - id: 11
+      name: deformation_check
+      label: Evidence of Deformation or Bending
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Minor deformation
+      - Moderate deformation
+      - Severe deformation
+      required: true
+    - id: 12
+      name: thread_condition
+      label: Thread Condition and Wear
+      hint: Condition of any threads or fastening points
+      type: select_one
+      options:
+      - Clean and intact
+      - Slight wear
+      - Moderate wear
+      - Severely worn or damaged
+      required: true
+    - id: 13
+      name: rust_corrosion
+      label: Rust or Corrosion Present
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Surface rust only
+      - Moderate corrosion
+      - Severe corrosion - unsafe
+      required: true
+    - id: 14
+      name: load_test_performed
+      label: Load Test Performed
+      hint: Was the hook subjected to load testing
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: test_weight_used
+      label: Test Weight Applied
+      hint: Weight used during load testing in kilograms or pounds
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: test_result
+      label: Load Test Result
+      hint: null
+      type: select_one
+      options:
+      - Passed - No deformation
+      - Passed - Minimal deformation
+      - Failed - Excessive deformation
+      - Failed - Hook damaged
+      required: false
+    - id: 17
+      name: defects_found
+      label: Defects or Issues Found
+      hint: Describe any specific problems or deficiencies
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: inspection_photos
+      label: Inspection Photos Attached
+      hint: Document visual evidence with photographs
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: corrective_action_required
+      label: Corrective Action Required
+      hint: null
+      type: select_one
+      options:
+      - None - Hook approved for use
+      - Minor repairs needed
+      - Major repairs required
+      - Hook must be retired from service
+      required: true
+    - id: 20
+      name: corrective_action_details
+      label: Details of Corrective Actions
+      hint: Specify what repairs or actions are needed
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: next_inspection_date
+      label: Scheduled Next Inspection Date
+      hint: When the next annual inspection is scheduled
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: inspector_signature
+      label: Inspector Certification
+      hint: I certify this inspection was conducted properly
+      type: select_one
+      options:
+      - Certified
+      - Not certified
+      required: true

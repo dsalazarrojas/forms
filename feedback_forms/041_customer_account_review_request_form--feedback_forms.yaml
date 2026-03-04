@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Account Review Request Form
+    pages:
+    - id: 1
+      name: customer_account_review_request_form
+      label: Customer Account Review Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: review_request_type
+      label: Review Request Type
+      hint: null
+      type: select_one
+      options:
+      - Review Request
+      - Cancel Account
+      - Upgrade Account
+      required: false
+    - id: 6
+      name: account_details
+      label: Account Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: review_request_comment
+      label: Review Request Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_of_last_contact
+      label: Date of Last Contact
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: last_contact_method
+      label: Last Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - In Person
+      - Video Call
+      required: false
+    - id: 10
+      name: last_contact_details
+      label: Last Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: review_request_due_date
+      label: Review Request Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Video Call
+      - In Person
+      required: false
+    - id: 13
+      name: review_request_status
+      label: Review Request Status
+      hint: null
+      type: select_multiple
+      options:
+      - Pending
+      - Processing
+      - Completed
+      required: false
+    - id: 14
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

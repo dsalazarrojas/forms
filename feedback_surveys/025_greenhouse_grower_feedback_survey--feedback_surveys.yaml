@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: Greenhouse Grower Feedback Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: operation_satisfaction
+      label: operation_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 3
+      name: operations
+      label: operations
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: challenges
+      label: challenges
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: satisfaction
+      label: satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 6
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: operator_operations_hours
+      label: operator_operations_hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: operator_operations_value
+      label: operator_operations_value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: operator_satisfaction
+      label: operator_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 10
+      name: operations_challenges
+      label: operations_challenges
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: challenges_satisfaction
+      label: challenges_satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 12
+      name: overall_satisfaction
+      label: overall_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 13
+      name: suggestions
+      label: suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: operator_name
+      label: operator_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: operator_email
+      label: operator_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: operator_phone
+      label: operator_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: operator_comments
+      label: operator_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: operator_department
+      label: operator_department
+      hint: null
+      type: text
+      options: []
+      required: false

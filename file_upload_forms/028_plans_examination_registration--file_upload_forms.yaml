@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: PlansExaminationRegistration
+    pages:
+    - id: 1
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: plan_documents
+      label: Plan Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: review_comments
+      label: Review Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: review_request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: review_request_time
+      label: Request Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: reviewing_team
+      label: Reviewing Team
+      hint: null
+      type: select_one
+      options:
+      - Contractors
+      - Designers
+      - Reviewing Teams
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_multiple
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 10
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,62 @@
+inputSchema:
+  type: object
+  properties:
+    title: learning_resources_survey
+    pages:
+    - id: 1
+      name: course_info
+      label: What is your role at the institution?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: learning_resources_used
+      label: What learning resources are you using?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: resource_efficacy
+      label: How would you rate the effectiveness of these resources?
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 4
+      name: accessibility
+      label: How would you rate the accessibility of these resources?
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 5
+      name: comments
+      label: Do you have any comments or suggestions?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: date_submitted
+      label: What date did you take this survey on?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_submitted
+      label: What time did you take this survey on?
+      hint: null
+      type: time
+      options: []
+      required: false

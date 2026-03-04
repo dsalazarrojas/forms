@@ -1,0 +1,212 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Call Lights And Floor Mats Survey
+    pages:
+      - id: 1
+        name: section_respondent_info
+        label: -- Respondent Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: respondent_name
+        label: Your Name
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: respondent_department
+        label: Department or Unit
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: respondent_role
+        label: Your Role
+        hint: null
+        type: select_one
+        options:
+          - Nursing Staff
+          - Care Assistant
+          - Housekeeping
+          - Facility Management
+          - Administrative
+          - Other
+        required: true
+      - id: 5
+        name: years_employed
+        label: Years Employed at Facility
+        hint: null
+        type: select_one
+        options:
+          - Less than 1 year
+          - 1-2 years
+          - 3-5 years
+          - 6-10 years
+          - More than 10 years
+        required: true
+      - id: 6
+        name: section_call_lights
+        label: -- Call Lights Assessment --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: call_lights_functionality
+        label: How would you rate call light functionality
+        hint: null
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+          - Non-functional
+        required: true
+      - id: 8
+        name: call_lights_reliability
+        label: Call lights are consistently reliable
+        hint: null
+        type: select_one
+        options:
+          - Strongly Agree
+          - Agree
+          - Neutral
+          - Disagree
+          - Strongly Disagree
+        required: true
+      - id: 9
+        name: call_lights_responsiveness
+        label: Response time to call lights is adequate
+        hint: null
+        type: select_one
+        options:
+          - Strongly Agree
+          - Agree
+          - Neutral
+          - Disagree
+          - Strongly Disagree
+        required: true
+      - id: 10
+        name: call_lights_maintenance
+        label: How often do call lights malfunction
+        hint: null
+        type: select_one
+        options:
+          - Never
+          - Rarely
+          - Sometimes
+          - Often
+          - Very Often
+        required: true
+      - id: 11
+        name: call_lights_issues
+        label: Describe any call light issues you experience
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: section_floor_mats
+        label: -- Floor Mats Assessment --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 13
+        name: floor_mats_safety
+        label: Floor mats effectively prevent slips and falls
+        hint: null
+        type: select_one
+        options:
+          - Strongly Agree
+          - Agree
+          - Neutral
+          - Disagree
+          - Strongly Disagree
+        required: true
+      - id: 14
+        name: floor_mats_condition
+        label: Overall condition of floor mats
+        hint: null
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+          - Replace Needed
+        required: true
+      - id: 15
+        name: floor_mats_placement
+        label: Floor mats are strategically placed
+        hint: null
+        type: select_one
+        options:
+          - Strongly Agree
+          - Agree
+          - Neutral
+          - Disagree
+          - Strongly Disagree
+        required: true
+      - id: 16
+        name: floor_mats_cleanliness
+        label: Floor mats are kept clean and maintained
+        hint: null
+        type: select_one
+        options:
+          - Always
+          - Usually
+          - Sometimes
+          - Rarely
+          - Never
+        required: true
+      - id: 17
+        name: floor_mats_issues
+        label: Describe any floor mat hazards or concerns
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: section_overall_feedback
+        label: -- Overall Safety Feedback --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: safety_equipment_adequate
+        label: Safety equipment is adequate for patient care
+        hint: null
+        type: select_one
+        options:
+          - Strongly Agree
+          - Agree
+          - Neutral
+          - Disagree
+          - Strongly Disagree
+        required: true
+      - id: 20
+        name: improvement_suggestions
+        label: Suggestions for improving safety equipment
+        hint: null
+        type: text
+        options: []
+        required: false

@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Support Evaluation Form
+    pages:
+    - id: 1
+      name: page_1
+      label: Feedback Information
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: support_service
+      label: Support Service
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Chat
+      - In Person
+      required: false
+    - id: 6
+      name: issue_resolution
+      label: Issue Resolution
+      hint: null
+      type: select_multiple
+      options:
+      - Solved
+      - Not Solved
+      - Partially Solved
+      required: false
+    - id: 7
+      name: customer_support_rating
+      label: Customer Support Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: page_2
+      label: Support Team Feedback
+      hint: null
+      type: select_one
+      options:
+      - Support Team A
+      - Support Team B
+      - Support Team C
+      required: false
+    - id: 10
+      name: feedback_on_support_team
+      label: Feedback on Support Team
+      hint: null
+      type: select_multiple
+      options:
+      - Team A
+      - Team B
+      - Team C
+      required: false

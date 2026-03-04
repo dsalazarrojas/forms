@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Health Gamification Acceptance Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: what_do_you_know
+      label: what-do-you-know
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: level_of_knowledge
+      label: level-of-knowledge
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: how_much_do_you_agree
+      label: how-much-do-you-agree
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 5
+      name: gamification_features
+      label: gamification-features
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: motivation
+      label: motivation
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 7
+      name: how_much_fun
+      label: how-much-fun
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: will_recommend
+      label: will-recommend
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 9
+      name: why_not
+      label: why-not
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: suggestions
+      label: suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: demographic_info
+      label: demographic-info
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 13
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: location
+      label: location
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 15
+      name: contact_info
+      label: contact-info
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: gender
+      label: gender
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 19
+      name: race
+      label: race
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 20
+      name: ethnicity
+      label: ethnicity
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 21
+      name: employment_status
+      label: employment-status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 22
+      name: education
+      label: education
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 23
+      name: employment_type
+      label: employment-type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 24
+      name: occupation
+      label: occupation
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 25
+      name: how_often
+      label: how-often
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true

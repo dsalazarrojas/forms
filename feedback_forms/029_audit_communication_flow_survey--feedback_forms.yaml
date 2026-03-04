@@ -1,0 +1,248 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Audit Communication Flow Survey
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Your Name
+        hint: Optional - leave blank for anonymous
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: respondent_email
+        label: Email Address
+        hint: Optional - for follow-up if needed
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: department
+        label: Department
+        hint: Your department or team
+        type: select_one
+        options:
+          - Finance
+          - Accounting
+          - Internal Audit
+          - External Audit
+          - Compliance
+          - Risk Management
+          - Operations
+          - IT
+          - Other
+        required: true
+      - id: 4
+        name: role_level
+        label: Role Level
+        hint: Your level in the organization
+        type: select_one
+        options:
+          - Entry Level
+          - Staff
+          - Senior
+          - Manager
+          - Director
+          - Executive
+        required: true
+      - id: 5
+        name: years_experience
+        label: Years of Experience
+        hint: Years in audit or related field
+        type: select_one
+        options:
+          - Less than 1 year
+          - 1-3 years
+          - 4-6 years
+          - 7-10 years
+          - Over 10 years
+        required: true
+      - id: 6
+        name: survey_date
+        label: Survey Date
+        hint: Date of this survey
+        type: date
+        options: []
+        required: true
+      - id: 7
+        name: audit_type_involvement
+        label: Audit Type Involvement
+        hint: What types of audits are you involved in?
+        type: select_multiple
+        options:
+          - Internal audit
+          - External audit
+          - Compliance audit
+          - IT audit
+          - Financial audit
+          - Operational audit
+          - Forensic audit
+        required: true
+      - id: 8
+        name: communication_clarity
+        label: Communication Clarity
+        hint: Rate the clarity of audit communications
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 9
+        name: communication_frequency
+        label: Communication Frequency
+        hint: How often do you receive audit updates?
+        type: select_one
+        options:
+          - Daily
+          - Weekly
+          - Bi-weekly
+          - Monthly
+          - Quarterly
+          - Only when issues arise
+        required: true
+      - id: 10
+        name: communication_channels
+        label: Communication Channels
+        hint: Which channels are used for audit communication?
+        type: select_multiple
+        options:
+          - Email
+          - Team meetings
+          - One-on-one meetings
+          - Instant messaging
+          - Project management tools
+          - Phone calls
+          - Video conferences
+        required: true
+      - id: 11
+        name: information_timeliness
+        label: Information Timeliness
+        hint: How timely is audit information shared?
+        type: select_one
+        options:
+          - Always timely
+          - Usually timely
+          - Sometimes delayed
+          - Often delayed
+          - Always delayed
+        required: true
+      - id: 12
+        name: feedback_mechanism
+        label: Feedback Mechanism
+        hint: Is there a clear feedback mechanism?
+        type: select_one
+        options:
+          - Yes, very clear
+          - Yes, somewhat clear
+          - Neutral
+          - Not very clear
+          - No feedback mechanism
+        required: true
+      - id: 13
+        name: stakeholder_engagement
+        label: Stakeholder Engagement
+        hint: How well are stakeholders engaged?
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 14
+        name: issue_escalation
+        label: Issue Escalation
+        hint: Is the issue escalation process clear?
+        type: select_one
+        options:
+          - Very clear
+          - Somewhat clear
+          - Neutral
+          - Unclear
+          - No escalation process
+        required: true
+      - id: 15
+        name: documentation_accessibility
+        label: Documentation Accessibility
+        hint: How accessible is audit documentation?
+        type: select_one
+        options:
+          - Very accessible
+          - Accessible
+          - Neutral
+          - Difficult to access
+          - Very difficult to access
+        required: true
+      - id: 16
+        name: cross_department_communication
+        label: Cross-Department Communication
+        hint: Rate communication with other departments
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 17
+        name: technology_effectiveness
+        label: Technology Effectiveness
+        hint: How effective are communication tools?
+        type: select_one
+        options:
+          - Very effective
+          - Effective
+          - Neutral
+          - Ineffective
+          - Very ineffective
+        required: true
+      - id: 18
+        name: communication_barriers
+        label: Communication Barriers
+        hint: What barriers exist in audit communication?
+        type: select_multiple
+        options:
+          - Time zone differences
+          - Language barriers
+          - Technical issues
+          - Lack of resources
+          - Unclear responsibilities
+          - Information overload
+          - None
+        required: true
+      - id: 19
+        name: improvement_suggestions
+        label: Improvement Suggestions
+        hint: How can audit communication be improved?
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: overall_satisfaction
+        label: Overall Satisfaction
+        hint: Rate overall satisfaction with audit communication
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+        required: true

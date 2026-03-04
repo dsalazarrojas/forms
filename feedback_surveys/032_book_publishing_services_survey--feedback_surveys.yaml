@@ -1,0 +1,265 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Book Publishing Services Survey
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Full Name
+        hint: Enter your first and last name
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: email_address
+        label: Email Address
+        hint: Your contact email
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: company_name
+        label: Company Name
+        hint: Your company or organization
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: service_used
+        label: Which Service Did You Use
+        hint: Select the service you received
+        type: select_one
+        options:
+          - Editing Services
+          - Cover Design
+          - Formatting
+          - Marketing
+          - Distribution
+          - Publishing Package
+          - Multiple Services
+        required: true
+      - id: 5
+        name: project_date
+        label: When Did You Use Our Services
+        hint: Approximate date of service
+        type: date
+        options: []
+        required: false
+      - id: 6
+        name: book_title
+        label: Book Title
+        hint: Title of your book
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: overall_satisfaction
+        label: Overall Satisfaction
+        hint: Rate your overall satisfaction
+        type: select_one
+        options:
+          - Very Satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very Dissatisfied
+        required: true
+      - id: 8
+        name: quality_rating
+        label: Quality of Work Rating
+        hint: Rate the quality of work
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 9
+        name: communication_rating
+        label: Communication Rating
+        hint: Rate our communication
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 10
+        name: timeliness_rating
+        label: Timeliness Rating
+        hint: Rate how well we met deadlines
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 11
+        name: value_rating
+        label: Value for Money Rating
+        hint: Rate the value received
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 12
+        name: professionalism_rating
+        label: Professionalism Rating
+        hint: Rate our professionalism
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 13
+        name: team_responsiveness
+        label: Team Responsiveness
+        hint: How responsive was our team
+        type: select_one
+        options:
+          - Very Responsive
+          - Responsive
+          - Neutral
+          - Slow to Respond
+          - Unresponsive
+        required: true
+      - id: 14
+        name: expectations_met
+        label: Were Your Expectations Met
+        hint: Did we meet your expectations
+        type: select_one
+        options:
+          - Exceeded Expectations
+          - Met Expectations
+          - Mostly Met
+          - Below Expectations
+          - Far Below Expectations
+        required: true
+      - id: 15
+        name: would_recommend
+        label: Would You Recommend Us
+        hint: Would you recommend our services
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Not Sure
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 16
+        name: would_use_again
+        label: Would You Use Our Services Again
+        hint: Would you work with us again
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Not Sure
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 17
+        name: best_aspect
+        label: What Did You Like Best
+        hint: Select the best aspect
+        type: select_one
+        options:
+          - Quality of Work
+          - Customer Service
+          - Turnaround Time
+          - Pricing
+          - Communication
+          - Expertise
+        required: true
+      - id: 18
+        name: improvement_area
+        label: What Could We Improve
+        hint: Select area for improvement
+        type: select_one
+        options:
+          - Communication
+          - Turnaround Time
+          - Pricing
+          - Quality
+          - Customer Service
+          - Nothing to Improve
+        required: true
+      - id: 19
+        name: specific_feedback
+        label: Specific Feedback
+        hint: Share any specific feedback
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: team_member_mention
+        label: Any Team Member to Recognize
+        hint: Name anyone who was exceptional
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: additional_services
+        label: Interested in Additional Services
+        hint: Would you use more services
+        type: select_multiple
+        options:
+          - Editing
+          - Cover Design
+          - Formatting
+          - Marketing
+          - Distribution
+          - Not at This Time
+        required: false
+      - id: 22
+        name: how_did_you_hear
+        label: How Did You Hear About Us
+        hint: How did you find our services
+        type: select_one
+        options:
+          - Search Engine
+          - Social Media
+          - Referral
+          - Website
+          - Advertisement
+          - Other
+        required: false
+      - id: 23
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback to share
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: survey_date
+        label: Survey Date
+        hint: Date of survey completion
+        type: date
+        options: []
+        required: true

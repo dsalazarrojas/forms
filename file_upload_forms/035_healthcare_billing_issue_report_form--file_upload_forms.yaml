@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare Billing Issue Report Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Healthcare Billing Issue Report Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: upload_document
+      label: upload_document
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: billing_concern
+      label: billing_concern
+      hint: null
+      type: select_one
+      options:
+      - Overcharge
+      - Undercharge
+      - Missing Charges
+      - Incorrect Bill
+      - Unpaid Bill
+      - Other (specify)
+      required: false
+    - id: 5
+      name: issue_description
+      label: issue_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_preferred
+      label: contact_preferred
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Text Message
+      - Mail
+      required: false
+    - id: 7
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: form_comments
+      label: form_comments
+      hint: null
+      type: text
+      options: []
+      required: false

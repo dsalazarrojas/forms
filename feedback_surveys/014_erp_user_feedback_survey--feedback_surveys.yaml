@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: ERP User Feedback Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: satisfaction
+      label: satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: user_satisfaction
+      label: user_satisfaction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: user_satisfaction_scale
+      label: user_satisfaction_scale
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      required: false
+    - id: 5
+      name: department
+      label: department
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: suggestion
+      label: suggestion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comment
+      label: comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: department_1
+      label: department_1
+      hint: null
+      type: select_one
+      options:
+      - Department A
+      - Department B
+      - Department C
+      - Department D
+      - Department E
+      required: false
+    - id: 11
+      name: department_2
+      label: department_2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: department_3
+      label: department_3
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

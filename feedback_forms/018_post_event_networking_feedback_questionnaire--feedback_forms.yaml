@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: Post Event Networking Feedback Questionnaire
+    pages:
+    - id: 1
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: attendee_count
+      label: Number of Attendees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: networking_opportunities
+      label: Networking Opportunities
+      hint: null
+      type: select_multiple
+      options:
+      - Attendees
+      - Speakers
+      - Sponsors
+      required: false
+    - id: 4
+      name: quality_of_networking
+      label: Quality of Networking
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      required: false
+    - id: 5
+      name: suggestions_for_improvement
+      label: Suggestions for Improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false

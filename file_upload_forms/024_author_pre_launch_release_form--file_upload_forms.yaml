@@ -1,0 +1,222 @@
+inputSchema:
+  type: object
+  properties:
+    title: Author Pre Launch Release Form
+    pages:
+    - id: 1
+      name: submission_date
+      label: Submission Date
+      hint: When are you submitting this form
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: author_name
+      label: Author Name
+      hint: Full name of author
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: author_email
+      label: Author Email
+      hint: Your email contact
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: author_phone
+      label: Author Phone
+      hint: Your contact phone
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: work_title
+      label: Work Title
+      hint: Title of the book or work
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: work_type
+      label: Type of Work
+      hint: What type of work is this
+      type: select_one
+      options:
+      - Novel
+      - Non-Fiction
+      - Poetry
+      - Novella
+      - Short Story Collection
+      - Anthology
+      - Academic Work
+      - Other
+      required: true
+    - id: 7
+      name: work_genre
+      label: Genre or Category
+      hint: Primary genre
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: target_audience
+      label: Target Audience
+      hint: Who is this work for
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: planned_launch_date
+      label: Planned Launch Date
+      hint: When will it be released
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: pre_launch_period
+      label: Pre-Launch Access Period
+      hint: How long before official launch
+      type: select_one
+      options:
+      - 1-2 Weeks
+      - 1 Month
+      - 2 Months
+      - 3 Months
+      - Other Timeline
+      required: true
+    - id: 11
+      name: manuscript_file
+      label: Manuscript File Upload
+      hint: Upload the work file
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: file_format
+      label: File Format
+      hint: What format is the file
+      type: select_one
+      options:
+      - PDF
+      - EPUB
+      - MOBI
+      - Word Document
+      - Google Docs Link
+      - Other
+      required: true
+    - id: 13
+      name: review_copy_count
+      label: Number of Review Copies Allowed
+      hint: How many advance copies can be shared
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: reviewer_restrictions
+      label: Reviewer Restrictions
+      hint: Who can receive advance copies
+      type: select_multiple
+      options:
+      - Approved Book Reviewers
+      - Journalists
+      - Educators
+      - Influencers
+      - Beta Readers
+      - No Restrictions
+      required: true
+    - id: 15
+      name: nda_required
+      label: Non-Disclosure Agreement Required
+      hint: Do reviewers need to sign NDA
+      type: select_one
+      options:
+      - Yes - NDA Required
+      - No - NDA Not Needed
+      - Optional - Encouraged
+      required: true
+    - id: 16
+      name: embargo_date
+      label: Embargo Date for Reviews
+      hint: When can reviews be published
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: publication_rights
+      label: Which Rights Are Being Granted
+      hint: Select applicable rights
+      type: select_multiple
+      options:
+      - Print Edition Review
+      - eBook Review
+      - Audio Review
+      - Media Coverage
+      - Social Media Promotion
+      - Educational Use
+      - All Rights
+      required: true
+    - id: 18
+      name: marketing_permission
+      label: Permission to Use in Marketing
+      hint: Can reviews be used for promotion
+      type: select_one
+      options:
+      - Yes - Full Permission
+      - Yes - With Attribution Only
+      - Yes - With Author Approval
+      - No - Reviews for Personal Use Only
+      required: true
+    - id: 19
+      name: social_media_sharing
+      label: Social Media Sharing Allowed
+      hint: Can reviewers post on social media
+      type: select_one
+      options:
+      - Yes - Encouraged
+      - Yes - Permitted
+      - Limited - Certain Platforms Only
+      - No - Private Review Only
+      required: true
+    - id: 20
+      name: excerpt_usage
+      label: Excerpt Publishing Permission
+      hint: Can reviewers publish excerpts
+      type: select_one
+      options:
+      - Full Text Allowed
+      - Up to 10% Excerpts Allowed
+      - No Excerpts - Summary Only
+      - No Publishing - Private Only
+      required: true
+    - id: 21
+      name: contact_for_questions
+      label: Who to Contact with Questions
+      hint: Point of contact for reviewers
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: contact_email
+      label: Contact Email
+      hint: Email for review inquiries
+      type: email
+      options: []
+      required: true
+    - id: 23
+      name: additional_instructions
+      label: Additional Instructions or Notes
+      hint: Any special requirements for reviewers
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: legal_agreement
+      label: I Agree to These Terms
+      hint: Accept pre-launch terms
+      type: select_one
+      options:
+      - Agree
+      - Do Not Agree
+      required: true

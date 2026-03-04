@@ -1,0 +1,239 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Platform Promotion Feedback Form
+    pages:
+    - id: 1
+      name: feedback_form
+      label: Feedback Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: promotional_campaign
+      label: Promotional Campaign
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: campaign_type
+      label: Campaign Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Social'', ''label'': ''Social''}'
+      - '{''id'': 2, ''name'': ''Influencer'', ''label'': ''Influencer''}'
+      - '{''id'': 3, ''name'': ''Affiliate'', ''label'': ''Affiliate''}'
+      required: true
+    - id: 5
+      name: campaign_link
+      label: Campaign Link
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: feedback
+      label: Feedback
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Very Satisfied'', ''label'': ''Very Satisfied''}'
+      - '{''id'': 2, ''name'': ''Satisfied'', ''label'': ''Satisfied''}'
+      - '{''id'': 3, ''name'': ''Not Satisfied'', ''label'': ''Not Satisfied''}'
+      - '{''id'': 4, ''name'': ''Very Dissatisfied'', ''label'': ''Very Dissatisfied''}'
+      required: true
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: platform
+      label: Platform
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Google'', ''label'': ''Google''}'
+      - '{''id'': 2, ''name'': ''Social'', ''label'': ''Social''}'
+      required: true
+    - id: 9
+      name: recommended_features
+      label: Recommended Features
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True, ''label'': True}'
+      - '{''id'': 2, ''name'': False, ''label'': False}'
+      required: true
+    - id: 10
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Follow-up'', ''label'': ''Follow-up''}'
+      - '{''id'': 2, ''name'': False, ''label'': False}'
+      required: true
+    - id: 11
+      name: email_subject
+      label: Email Subject
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: email_body
+      label: Email Body
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: email_sent
+      label: Email Sent
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Sent'', ''label'': ''Sent''}'
+      - '{''id'': 2, ''name'': ''Not Sent'', ''label'': ''Not Sent''}'
+      required: true
+    - id: 14
+      name: email_to
+      label: To Email
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''To Email'', ''label'': ''To Email''}'
+      - '{''id'': 2, ''name'': ''From Email'', ''label'': ''From Email''}'
+      - '{''id'': 3, ''name'': False, ''label'': False}'
+      required: true
+    - id: 15
+      name: email_from
+      label: Email From
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: platform_promotions
+      label: Platform Promotions
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True, ''label'': True}'
+      - '{''id'': 2, ''name'': False, ''label'': False}'
+      required: true
+    - id: 17
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: platform_promotions_link
+      label: Platform Promotions Link
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: follow_up_time
+      label: Follow-up Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 20
+      name: follow_up_method
+      label: Follow-up Method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Chat'', ''label'': ''Chat''}'
+      - '{''id'': 2, ''name'': ''Email'', ''label'': ''Email''}'
+      - '{''id'': 3, ''name'': ''Phone'', ''label'': ''Phone''}'
+      - '{''id'': 4, ''name'': ''In-app'', ''label'': ''In-app''}'
+      - '{''id'': 5, ''name'': False, ''label'': False}'
+      required: true
+    - id: 21
+      name: platform_promotions_time
+      label: Platform Promotions Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 22
+      name: platform_promotions_comments
+      label: Platform Promotions Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: recommended_features_link
+      label: Recommended Features Link
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: follow_up_link
+      label: Follow-up Link
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: platform_link
+      label: Platform Link
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: platform_promotions
+      label: Platform Promotions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Google'', ''label'': ''Google''}'
+      - '{''id'': 2, ''name'': ''Social'', ''label'': ''Social''}'
+      required: true
+    - id: 28
+      name: platform_promotions_comments
+      label: Platform Promotions Comments
+      hint: null
+      type: text
+      options: []
+      required: true

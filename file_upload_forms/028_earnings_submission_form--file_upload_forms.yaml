@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Earnings Submission Form
+    pages:
+    - id: 1
+      name: earnings_details
+      label: Earnings Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_1
+      label: Date 1
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: amount_1
+      label: Amount 1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: date_2
+      label: Date 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: amount_2
+      label: Amount 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: submission_method
+      label: Submission Method
+      hint: null
+      type: select_one
+      options:
+      - Invoicing
+      - Payroll
+      - Other
+      required: true
+    - id: 8
+      name: uploaded_file
+      label: Uploaded File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: uploaded_file_type
+      label: Uploaded File Type
+      hint: null
+      type: select_one
+      options:
+      - PDF
+      - DOCX
+      - CSV
+      - Excel
+      - PNG
+      - GIF
+      - BMP
+      - JPG
+      - TIF
+      - TIFF
+      required: true
+    - id: 10
+      name: uploaded_file_name
+      label: Uploaded File Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: uploaded_file_url
+      label: Uploaded File URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: uploaded_file_size
+      label: Uploaded File Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: uploaded_file_description
+      label: Uploaded File Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: uploaded_file_status
+      label: Uploaded File Status
+      hint: null
+      type: select_one
+      options:
+      - Uploaded
+      - Not Uploaded
+      required: false

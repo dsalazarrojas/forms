@@ -1,0 +1,107 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Accounting Team Feedback Survey
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Respondent Name (Optional)
+      hint: Your name if you wish to be identified
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: role_in_team
+      label: Your Role in the Accounting Team
+      hint: Select your position in the accounting department
+      type: select_one
+      options: ["Staff Accountant", "Senior Accountant", "Supervisor", "Manager", "Director", "CFO", "Intern", "Other"]
+      required: true
+    - id: 3
+      name: years_with_team
+      label: Years with the Accounting Team
+      hint: How long have you been part of this accounting team
+      type: select_one
+      options: ["Less than 1 year", "1-2 years", "3-5 years", "6-10 years", "More than 10 years"]
+      required: true
+    - id: 4
+      name: overall_job_satisfaction
+      label: Overall Job Satisfaction
+      hint: Rate your overall satisfaction with your role in the accounting team
+      type: select_one
+      options: ["Very satisfied", "Satisfied", "Neutral", "Dissatisfied", "Very dissatisfied"]
+      required: true
+    - id: 5
+      name: workload_manageability
+      label: Workload Manageability
+      hint: Is your current workload manageable
+      type: select_one
+      options: ["Very manageable", "Manageable", "Somewhat manageable", "Difficult to manage", "Unmanageable"]
+      required: true
+    - id: 6
+      name: team_collaboration_quality
+      label: Quality of Team Collaboration
+      hint: How would you rate the collaboration within the accounting team
+      type: select_one
+      options: ["Excellent", "Good", "Average", "Poor", "Very poor"]
+      required: true
+    - id: 7
+      name: communication_effectiveness
+      label: Effectiveness of Team Communication
+      hint: How effective is the communication within the accounting team
+      type: select_one
+      options: ["Very effective", "Effective", "Neutral", "Ineffective", "Very ineffective"]
+      required: true
+    - id: 8
+      name: resource_availability
+      label: Availability of Necessary Resources
+      hint: Do you have access to the resources you need to perform your job effectively
+      type: select_one
+      options: ["Always", "Mostly", "Sometimes", "Rarely", "Never"]
+      required: true
+    - id: 9
+      name: professional_development_opportunities
+      label: Professional Development Opportunities
+      hint: Are there adequate opportunities for professional growth and development
+      type: select_one
+      options: ["Abundant", "Sufficient", "Adequate", "Limited", "Insufficient"]
+      required: true
+    - id: 10
+      name: management_support_level
+      label: Level of Management Support
+      hint: How well does management support the accounting team
+      type: select_one
+      options: ["Excellent", "Good", "Average", "Poor", "Very poor"]
+      required: true
+    - id: 11
+      name: challenges_faced
+      label: Major Challenges Faced
+      hint: Select all major challenges you face in your role
+      type: select_multiple
+      options: ["Heavy workload", "Tight deadlines", "Lack of resources", "Inadequate training", "Poor communication", "Outdated systems", "Unclear expectations", "Limited career growth"]
+      required: false
+    - id: 12
+      name: suggestions_for_improvement
+      label: Suggestions for Team Improvement
+      hint: What would most improve the accounting team's effectiveness
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: additional_feedback
+      label: Additional Feedback
+      hint: Any other comments about the accounting team or work environment
+      type: text
+      options: []
+      required: false

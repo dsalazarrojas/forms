@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Engagement Strategy Feedback Form
+    pages:
+    - id: 1
+      name: customer_engagement_strategy_feedback_form
+      label: customer-engagement-strategy-feedback-form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: customer_name
+      label: customer-name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: customer_email
+      label: customer-email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: customer_phone
+      label: customer-phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submission_date
+      label: submission-date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: submission_time
+      label: submission-time
+      hint: null
+      type: time
+      options: []
+      required: false

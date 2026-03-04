@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: onsite_measurement_form
+    pages:
+    - id: 1
+      name: onsite_measurement_form_page_1
+      label: Upload files and pictures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: file_uploads
+      label: File Uploads
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: measurement_pictures
+      label: measurement_pictures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: onsite_measurement_form_page_2
+      label: Onsite Measurement Form 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: upload_file
+      label: upload_file
+      hint: null
+      type: text
+      options: []
+      required: false

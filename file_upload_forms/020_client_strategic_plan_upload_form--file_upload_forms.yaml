@@ -1,0 +1,234 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Strategic Plan Upload Form
+    pages:
+    - id: 1
+      name: client_info_section
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name or Company
+      hint: Organization submitting the strategic plan
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person
+      label: Contact Person Name
+      hint: Primary contact for this submission
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Email Address
+      hint: For correspondence about the plan
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: submission_date
+      label: Date of Submission
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: plan_details_section
+      label: -- Strategic Plan Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: plan_period
+      label: Planning Period Covered by this Plan
+      hint: Example - Year 2024-2025
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: plan_type
+      label: Type of Strategic Plan
+      hint: null
+      type: select_one
+      options:
+      - Annual Strategic Plan
+      - 3-Year Strategic Plan
+      - 5-Year Strategic Plan
+      - Department Plan
+      - Division Plan
+      - Divisional Plan
+      - Company-Wide Plan
+      - Other
+      required: true
+    - id: 10
+      name: primary_focus_areas
+      label: Primary focus areas or strategic initiatives
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: key_objectives
+      label: Key objectives and goals
+      hint: Describe the main strategic goals
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: implementation_timeline
+      label: Implementation timeline
+      hint: When will this plan be executed?
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: document_upload_section
+      label: -- Document Upload --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: strategic_plan_document
+      label: Upload Strategic Plan Document (PDF preferred)
+      hint: Main strategic plan document
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: executive_summary
+      label: Upload Executive Summary (optional)
+      hint: 1-2 page summary of the plan
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: supporting_documents
+      label: Upload supporting documents (optional)
+      hint: Financial projections, market analysis, etc.
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: appendices
+      label: Upload appendices or supplementary materials (optional)
+      hint: Charts, data, references, etc.
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: implementation_section
+      label: -- Implementation and Support --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: implementation_support_needed
+      label: What type of implementation support do you need?
+      hint: null
+      type: select_multiple
+      options:
+      - Plan Review and Feedback
+      - Resource Allocation Guidance
+      - Timeline Development
+      - Risk Assessment
+      - Performance Metrics Design
+      - Stakeholder Communication
+      - Change Management Support
+      - Other
+      required: false
+    - id: 20
+      name: budget_allocated
+      label: Has budget been allocated for plan implementation?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Yet Determined
+      required: false
+    - id: 21
+      name: stakeholder_alignment
+      label: Level of stakeholder alignment on this plan
+      hint: null
+      type: select_one
+      options:
+      - Full Alignment
+      - Mostly Aligned
+      - Some Concerns
+      - Significant Disagreement
+      - Not Yet Shared
+      required: false
+    - id: 22
+      name: key_risks
+      label: Identified key risks or obstacles
+      hint: What could prevent successful implementation?
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: success_metrics
+      label: How will success be measured?
+      hint: What are the key performance indicators?
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: review_section
+      label: -- Plan Review Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: review_status
+      label: Current review or approval status
+      hint: null
+      type: select_one
+      options:
+      - Draft - Awaiting Internal Review
+      - Under Review
+      - Approved Internally
+      - Board Approved
+      - Ready for Implementation
+      - In Implementation
+      - Under Revision
+      required: true
+    - id: 26
+      name: previous_feedback
+      label: Has this plan received external feedback before?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 27
+      name: revisions_from_feedback
+      label: Changes made based on previous feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: additional_information
+      label: Additional information or context
+      hint: null
+      type: text
+      options: []
+      required: false

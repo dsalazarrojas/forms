@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: Livestock Welfare Advocacy Survey
+    pages:
+    - id: 1
+      name: first_page
+      label: Livestock Welfare
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: select_multiple
+      options:
+      - First Name
+      - Last Name
+      - Email
+      - Phone
+      required: true
+    - id: 3
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: animal_type
+      label: What type of animals do you have?
+      hint: null
+      type: select_one
+      options:
+      - Cow
+      - Pig
+      - Sheep
+      - Chicken
+      - Other (please specify below)
+      required: false
+    - id: 5
+      name: other_animal
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: concerns
+      label: What are your concerns for the animal welfare?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: support_resources
+      label: Support Resources
+      hint: null
+      type: select_multiple
+      options:
+      - Local Support Group
+      - Online Support Group
+      - Hotline
+      - Email
+      - Phone
+      required: true
+    - id: 8
+      name: follow_up
+      label: Do you have any follow up questions or concerns?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assigned_date
+      label: Assigned Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - Unread
+      - Read
+      - Approved
+      required: true
+    - id: 15
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submitted_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submitted
+      label: None
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

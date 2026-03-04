@@ -1,0 +1,104 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Quality Incident Treatment Feedback Form
+    pages:
+    - id: 1
+      name: feedback_form
+      label: Quality Incident Treatment Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Not Applicable''}'
+      - '{''value'': ''Other''}'
+      - '{''value'': ''Quality Incident''}'
+      required: false
+    - id: 4
+      name: severity
+      label: Severity
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Low''}'
+      - '{''value'': ''Medium''}'
+      - '{''value'': ''High''}'
+      required: false
+    - id: 5
+      name: treatment_details
+      label: Treatment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: action_taken
+      label: Action Taken
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Category A''}'
+      - '{''value'': ''Category B''}'
+      required: false
+    - id: 9
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone_numbers
+      label: Phone Numbers
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''+1 123 456 7890''}'
+      - '{''value'': ''+1 987 654 3210''}'
+      - '{''value'': ''+2 111 111 1111''}'
+      required: false
+    - id: 11
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

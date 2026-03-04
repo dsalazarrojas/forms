@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Supervisor Observation Feedback Report Form
+    pages:
+    - id: 1
+      name: supervisor_observation_feedback_report_form_page_1
+      label: supervisor_observation_feedback_report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: supervisor_observation_feedback_form_comments
+      label: supervisor_observation_feedback_form_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: supervisor_observation_feedback_form_rating
+      label: supervisor_observation_feedback_form_rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 4
+      name: supervisor_observation_feedback_form_score
+      label: supervisor_observation_feedback_form_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: supervisor_observation_feedback_report_form_comments
+      label: supervisor_observation_feedback_report_form_comments
+      hint: null
+      type: text
+      options: []
+      required: false

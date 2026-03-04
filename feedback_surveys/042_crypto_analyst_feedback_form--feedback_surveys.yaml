@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Crypto Analyst Feedback Form
+    pages:
+    - id: 1
+      name: analysis_quality
+      label: Analysis Quality
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 2
+      name: challenges
+      label: Challenges
+      hint: null
+      type: select_one
+      options:
+      - Major
+      - Minor
+      - None
+      required: false
+    - id: 3
+      name: improvement_areas
+      label: Improvement Areas
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: tools_use
+      label: Tools Use
+      hint: null
+      type: select_one
+      options:
+      - Very Important
+      - Somewhat Important
+      - Not Important
+      required: false
+    - id: 5
+      name: tool_recommendation
+      label: Tools Recommendation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

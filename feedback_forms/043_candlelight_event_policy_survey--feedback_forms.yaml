@@ -1,0 +1,180 @@
+inputSchema:
+  type: object
+  properties:
+    title: Candlelight Event Policy Survey
+    pages:
+    - id: 1
+      name: event_details_section
+      label: -- Event Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: candlelight_event_name
+      label: Event Name
+      hint: What was the name of the gathering
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: candlelight_event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: candlelight_organizer_name
+      label: Organizer Name
+      hint: Primary contact for the event
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: candlelight_organization_group
+      label: Organization or Group
+      hint: Which club or department hosted this
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: policy_feedback_section
+      label: -- Policy Feedback --
+      hint: How do you feel about our rules
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: candlelight_policy_clarity
+      label: Clarity of the Candlelight Policy
+      hint: Was the information easy to understand
+      type: select_one
+      options:
+      - Very Poor
+      - Poor
+      - Average
+      - Good
+      - Excellent
+      required: true
+    - id: 8
+      name: candlelight_safety_guidelines_rating
+      label: Adequacy of safety guidelines
+      hint: Did the rules feel sufficient for fire prevention
+      type: select_one
+      options:
+      - Very Poor
+      - Poor
+      - Average
+      - Good
+      - Excellent
+      required: true
+    - id: 9
+      name: candlelight_fire_safety_satisfaction
+      label: Satisfaction with fire safety requirements
+      hint: null
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Dissatisfied
+      - Neutral
+      - Satisfied
+      - Very Satisfied
+      required: true
+    - id: 10
+      name: specific_policies_section
+      label: -- Specific Policies --
+      hint: Feedback on certain rules
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: battery_candle_policy_support
+      label: Support for battery-operated candles only
+      hint: Stance on banning open flames
+      type: select_one
+      options:
+      - Strongly Support
+      - Support
+      - Neutral
+      - Oppose
+      - Strongly Oppose
+      required: true
+    - id: 12
+      name: drip_guard_policy_opinion
+      label: Policy on drip guards for wax candles
+      hint: Use of protective layers to prevent mess
+      type: select_one
+      options:
+      - Necessary
+      - Optional
+      - Unnecessary
+      required: true
+    - id: 13
+      name: candle_count_policy_opinion
+      label: Policy on maximum candle count per area
+      hint: Limits on the number of candles in one space
+      type: select_one
+      options:
+      - Reasonable
+      - Too Restrictive
+      - Too Loose
+      required: true
+    - id: 14
+      name: event_experience_section
+      label: -- Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: candlelight_event_issues
+      label: Any issues encountered during the event
+      hint: Describe any problems with compliance or safety
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: approval_process_feedback
+      label: Feedback on the approval process
+      hint: How was your experience getting the event cleared
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: host_again_likelihood
+      label: Likelihood of hosting another candlelight event
+      hint: 1 to 10 scale
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: improvements_section
+      label: -- Improvements --
+      hint: Help us refine our approach
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: policy_improvement_suggestions
+      label: Top three suggestions for policy improvement
+      hint: Specific ideas for change
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: policy_agreement_final_check
+      label: I have read and agree to all current policy terms
+      hint: Commitment to following the updated rules
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: feedback_submission_date
+      label: Date of Feedback
+      hint: null
+      type: date
+      options: []
+      required: true

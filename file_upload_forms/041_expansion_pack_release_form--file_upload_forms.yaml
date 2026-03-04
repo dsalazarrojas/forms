@@ -1,0 +1,55 @@
+inputSchema:
+  type: object
+  properties:
+    title: Expansion Pack Release Form
+    pages:
+    - id: 1
+      name: expansion_pack_release_form
+      label: prophets
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: game_version
+      label: game version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: release_date
+      label: release date
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: promotional_assets
+      label: promotional assets
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: internal_approvals
+      label: internal approvals
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: game_team_members
+      label: game team members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cylinder Feedback Form
+    pages:
+    - id: 1
+      name: user_rating
+      label: Rating
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Poor''}'
+      - '{''id'': 2, ''label'': ''Average''}'
+      - '{''id'': 3, ''label'': ''Excellent''}'
+      required: false
+    - id: 2
+      name: overall_satisfaction
+      label: Overall satisfaction
+      hint: Rate your overall satisfaction with this cylinder
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Very dissatisfied''}'
+      - '{''id'': 2, ''label'': ''Neutral''}'
+      - '{''id'': 3, ''label'': ''Very satisfied''}'
+      required: false
+    - id: 3
+      name: performance
+      label: Performance
+      hint: Rate the cylinder's performance
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Poor''}'
+      - '{''id'': 2, ''label'': ''Average''}'
+      - '{''id'': 3, ''label'': ''Excellent''}'
+      required: false
+    - id: 4
+      name: maintenance_cost
+      label: Maintenance cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: product_quality
+      label: Product quality
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Poor''}'
+      - '{''id'': 2, ''label'': ''Average''}'
+      - '{''id'': 3, ''label'': ''Excellent''}'
+      required: false
+    - id: 6
+      name: improvement_suggestions
+      label: Improvement suggestions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: contact_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: job_title
+      label: Job title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: shift
+      label: Shift
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: time_zone
+      label: Time zone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: feedback_type
+      label: Type of feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: feedback_details
+      label: Feedback details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: rating_scale
+      label: Rating scale
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''0-25''}'
+      - '{''id'': 2, ''label'': ''26-50''}'
+      - '{''id'': 3, ''label'': ''51-75''}'
+      - '{''id'': 4, ''label'': ''76-100''}'
+      required: false
+    - id: 19
+      name: rating_scale_comment
+      label: Rating scale comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: product_id
+      label: Product ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: product_name
+      label: Product name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: product_description
+      label: Product description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: product_status
+      label: Product status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Active''}'
+      - '{''id'': 2, ''label'': ''Inactive''}'
+      - '{''id'': 3, ''label'': ''Archived''}'
+      required: false
+    - id: 24
+      name: user_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

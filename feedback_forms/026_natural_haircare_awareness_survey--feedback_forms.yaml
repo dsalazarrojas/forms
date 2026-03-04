@@ -1,0 +1,161 @@
+inputSchema:
+  type: object
+  properties:
+    title: Natural Haircare Awareness Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: haircare_routine
+      label: haircare_routine
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': [''natural'', ''chemical'']}'
+      - '{''label'': ''natural''}'
+      - '{''label'': ''chemical''}'
+      required: true
+    - id: 3
+      name: haircare_product_usage
+      label: haircare_product_usage
+      hint: null
+      type: select_multiple
+      options:
+      - '{''options'': [True, False]}'
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: true
+    - id: 4
+      name: haircare_importance
+      label: haircare_importance
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: haircare_preferred_product
+      label: haircare_preferred_product
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': [''shampoo'', ''conditioner'', ''serum'']}'
+      - '{''label'': ''shampoo''}'
+      - '{''label'': ''conditioner''}'
+      - '{''label'': ''serum''}'
+      required: true
+    - id: 6
+      name: haircare_frequency
+      label: haircare_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''options'': [''daily'', ''weekly'', ''monthly'']}'
+      - '{''label'': ''daily''}'
+      - '{''label'': ''weekly''}'
+      - '{''label'': ''monthly''}'
+      required: false
+    - id: 7
+      name: haircare_habit
+      label: haircare_habit
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': [''morning'', ''evening'', ''nighttime'']}'
+      - '{''label'': ''morning''}'
+      - '{''label'': ''evening''}'
+      - '{''label'': ''nighttime''}'
+      required: false
+    - id: 8
+      name: haircare_frequency_time
+      label: haircare_frequency_time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: haircare_frequency_duration
+      label: haircare_frequency_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: haircare_product_quality
+      label: haircare_product_quality
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': [''excellent'', ''good'', ''fair'']}'
+      - '{''label'': ''excellent''}'
+      - '{''label'': ''good''}'
+      - '{''label'': ''fair''}'
+      required: false
+    - id: 11
+      name: haircare_product_cost
+      label: haircare_product_cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: haircare_product_importance
+      label: haircare_product_importance
+      hint: null
+      type: select_multiple
+      options:
+      - '{''options'': [''high'', ''moderate'', ''low'']}'
+      - '{''label'': ''high''}'
+      - '{''label'': ''moderate''}'
+      - '{''label'': ''low''}'
+      required: false
+    - id: 13
+      name: haircare_product_satisfaction
+      label: haircare_product_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': [''satisfied'', ''neutral'', ''dissatisfied'']}'
+      - '{''label'': ''satisfied''}'
+      - '{''label'': ''neutral''}'
+      - '{''label'': ''dissatisfied''}'
+      required: false
+    - id: 14
+      name: haircare_awareness
+      label: haircare_awareness
+      hint: null
+      type: select_multiple
+      options:
+      - '{''options'': [''natural'', ''chemical'']}'
+      - '{''label'': ''natural''}'
+      - '{''label'': ''chemical''}'
+      required: false
+    - id: 15
+      name: haircare_awareness_source
+      label: haircare_awareness_source
+      hint: null
+      type: select_multiple
+      options:
+      - '{''options'': [''social media'', ''advertising'', ''friends'']}'
+      - '{''label'': ''social media''}'
+      - '{''label'': ''advertising''}'
+      - '{''label'': ''friends''}'
+      required: false
+    - id: 16
+      name: haircare_awareness_reason
+      label: haircare_awareness_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: haircare_awareness_note
+      label: haircare_awareness_note
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,47 @@
+inputSchema:
+  type: object
+  properties:
+    title: feedback_on_recent_engagement
+    pages:
+    - id: 1
+      name: engagement
+      label: Engagement
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant
+      label: Participant
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

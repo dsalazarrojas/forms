@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Art Installation Feedback Form
+    pages:
+      - id: 1
+        name: visitor_name
+        label: Visitor name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: installation_name
+        label: Installation name
+        hint: Name or title of installation
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: visit_date
+        label: Visit date
+        hint: Date of visit
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: engagement_level
+        label: Engagement level
+        hint: How engaging was the installation
+        type: select_one
+        options: [Very engaging, Somewhat engaging, Neutral, Not engaging]
+        required: true
+      - id: 5
+        name: accessibility
+        label: Accessibility experience
+        hint: Any accessibility issues encountered
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: sensory_experience
+        label: Sensory experience feedback
+        hint: Audio lighting interactivity notes
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: learning_outcome
+        label: Learning outcome
+        hint: What did you learn from the installation
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: recommend_to_others
+        label: Recommend to others
+        hint: Would you recommend visiting
+        type: select_one
+        options: [Yes, No]
+        required: true
+      - id: 9
+        name: suggestions
+        label: Suggestions
+        hint: How the installation could be improved
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: contact_for_follow_up
+        label: Contact for follow up
+        hint: Provide email if you want a response
+        type: email
+        options: []
+        required: false

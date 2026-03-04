@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: mediation_session_discharge_form
+    pages:
+    - id: 1
+      name: mediation_session_discharge_form_questions
+      label: mediation_session_discharge_form_questions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: mediation_session_discharge_form_participant_feedback
+      label: mediation_session_discharge_form_participant_feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: mediation_session_discharge_form_outcome_details
+      label: mediation_session_discharge_form_outcome_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: mediation_session_discharge_form_outcome_status
+      label: mediation_session_discharge_form_outcome_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 5
+      name: mediation_session_discharge_form_sign_off
+      label: mediation_session_discharge_form_sign_off
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: mediation_session_discharge_form_comments
+      label: mediation_session_discharge_form_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: mediation_session_discharge_form_mediation_session_id
+      label: mediation_session_discharge_form_mediation_session_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: mediation_session_discharge_form_mediation_session_date
+      label: mediation_session_discharge_form_mediation_session_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: mediation_session_discharge_form_mediation_session_time
+      label: mediation_session_discharge_form_mediation_session_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: mediation_session_discharge_form_mediation_session_start_time
+      label: mediation_session_discharge_form_mediation_session_start_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: mediation_session_discharge_form_mediation_session_end_time
+      label: mediation_session_discharge_form_mediation_session_end_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: mediation_session_discharge_form_mediation_session_length
+      label: mediation_session_discharge_form_mediation_session_length
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: mediation_session_discharge_form_participant_agreed
+      label: mediation_session_discharge_form_participant_agreed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

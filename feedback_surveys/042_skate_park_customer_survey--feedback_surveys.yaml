@@ -1,0 +1,151 @@
+inputSchema:
+  type: object
+  properties:
+    title: skate_park_customer_survey
+    pages:
+    - id: 1
+      name: park_experience
+      label: Have you visited this skate park before
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: safety_feeling
+      label: How safe did you feel during your visit
+      hint: null
+      type: select_one
+      options:
+      - Very safe
+      - Somewhat safe
+      - Not very safe
+      - Not safe at all
+      required: true
+    - id: 3
+      name: facilities
+      label: How clean were the restrooms and surrounding facilities
+      hint: null
+      type: select_multiple
+      options:
+      - Very clean
+      - Somewhat clean
+      - Not very clean
+      - Not clean at all
+      required: true
+    - id: 4
+      name: staff_helpfulness
+      label: How helpful were the staff on duty
+      hint: null
+      type: select_one
+      options:
+      - Very helpful
+      - Somewhat helpful
+      - Not very helpful
+      - Not helpful at all
+      required: true
+    - id: 5
+      name: amenities
+      label: Were the amenities and services available what you needed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: overall_satisfaction
+      label: How satisfied are you with your visit
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Not very satisfied
+      - Not satisfied at all
+      required: true
+    - id: 7
+      name: comments
+      label: Any additional comments about your visit
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: contact_details
+      label: Your contact information
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: park_name
+      label: What is the name of this park
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: park_visit_date
+      label: Date of visit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: park_staff_name
+      label: Name of staff member you interacted with
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: park_staff_email
+      label: Email of staff member you interacted with
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: park_staff_phone
+      label: Phone number of staff member you interacted with
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: skatepark_id
+      label: How often do you visit this skate park
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      - Never
+      required: true
+    - id: 15
+      name: sk8_park_location
+      label: Which location did you visit?
+      hint: null
+      type: select_multiple
+      options:
+      - Skate Park A
+      - Skate Park B
+      - Skate Park C
+      required: true
+    - id: 16
+      name: age
+      label: Age
+      hint: null
+      type: select_one
+      options:
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55-64
+      - 65 or older
+      required: true

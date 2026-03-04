@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mockup Design Feedback Form
+    pages:
+    - id: 1
+      name: mockup_title
+      label: Mockup Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: stakeholder_name
+      label: Stakeholder Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: mockup_rating
+      label: Usability Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: mockup_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: user's email address
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comments_for_design_team
+      label: Comments for Design Team
+      hint: Actionable comments for the design team to refine the concept
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments_for_developer
+      label: Comments for Developer
+      hint: Technical comments or questions for the developer
+      type: text
+      options: []
+      required: false

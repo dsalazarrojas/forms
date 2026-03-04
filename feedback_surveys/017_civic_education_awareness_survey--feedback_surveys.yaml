@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: Civic Education Awareness Survey
+    pages:
+    - id: 1
+      name: survey_intro
+      label: -- Civic Awareness Assessment --
+      hint: Your answers help us improve civic education in our community
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: age_bracket
+      label: Age Range
+      hint: null
+      type: select_one
+      options:
+      - 14-17
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55 plus
+      required: true
+    - id: 3
+      name: education_level
+      label: Highest Level of Education Completed
+      hint: null
+      type: select_one
+      options:
+      - Some High School
+      - High School Diploma
+      - Some College
+      - Bachelor's Degree
+      - Graduate Degree
+      required: true
+    - id: 4
+      name: knowledge_header
+      label: -- Civic Knowledge Check --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: govt_branches_count
+      label: How many branches of government are there in the United States?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: bill_of_rights_awareness
+      label: Which document contains the first ten amendments to the Constitution?
+      hint: null
+      type: select_one
+      options:
+      - Declaration of Independence
+      - Bill of Rights
+      - Articles of Confederation
+      - Magna Carta
+      required: true
+    - id: 7
+      name: local_rep_awareness
+      label: Do you know the name of your local city council representative?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Sure
+      required: true
+    - id: 8
+      name: civic_duty_perception
+      label: How important is it for citizens to vote in local elections?
+      hint: 1 = Not Important, 5 = Essential
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: interest_level_politics
+      label: Level of interest in local community issues
+      hint: null
+      type: select_one
+      options:
+      - Very Interested
+      - Somewhat Interested
+      - Neutral
+      - Uninterested
+      required: true
+    - id: 10
+      name: information_sources
+      label: Where do you primarily get your civic and political information?
+      hint: Select up to 3
+      type: select_multiple
+      options:
+      - Social Media
+      - Local News (TV/Print)
+      - National News
+      - Word of Mouth
+      - Government Websites
+      - Community Forums
+      required: true
+    - id: 11
+      name: barriers_to_education
+      label: What is the biggest barrier to learning more about civic responsibilities?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: program_interest
+      label: Would you attend a free community workshop on local governance?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - Maybe
+      - false
+      required: false
+    - id: 13
+      name: improvement_suggestion
+      label: One way the city could better inform residents of their rights
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: follow_up_email
+      label: Email for results or program updates (Optional)
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: submission_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,55 @@
+inputSchema:
+  type: object
+  properties:
+    title: Website User Acceptance Testing Feedback Form
+    pages:
+    - id: 1
+      name: usertestingusability
+      label: What was your overall impression of the website?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: userbugreport
+      label: Did you experience any issues during your visit?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: userbugreport_1
+      label: If yes, please describe the issue
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: userusatisfy
+      label: How would you rate your overall satisfaction with the website?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: usersuggestimprovement
+      label: Do you have any suggestions for improvement?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: usersuggestimprovement_1
+      label: Describe your suggestion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: usertestingfeedback
+      label: Do you want to provide any additional comments or feedback about your
+        experience?
+      hint: null
+      type: text
+      options: []
+      required: false

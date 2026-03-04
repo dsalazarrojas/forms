@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ceramic Planter Kit Registration
+    pages:
+    - id: 1
+      name: registration_date
+      label: Registration Date
+      hint: Date of product registration
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: Full name of purchaser
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Email Address
+      hint: Email for registration confirmation
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: customer_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_address
+      label: Shipping Address
+      hint: Address where product was delivered
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: purchase_date
+      label: Purchase Date
+      hint: Date of product purchase
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: purchase_location
+      label: Purchase Location
+      hint: Where did you purchase the kit
+      type: select_one
+      options:
+      - Company website
+      - Amazon
+      - Etsy
+      - Local garden center
+      - Home improvement store
+      - Craft store
+      - Gift received
+      - Other
+      required: true
+    - id: 8
+      name: order_number
+      label: Order Number
+      hint: Order confirmation number if available
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: planter_kit_model
+      label: Planter Kit Model
+      hint: Which kit did you purchase
+      type: select_one
+      options:
+      - Small succulent kit
+      - Medium herb garden kit
+      - Large indoor planter kit
+      - Outdoor ceramic kit
+      - Bonsai starter kit
+      - Terrarium kit
+      - Complete collection set
+      required: true
+    - id: 10
+      name: planter_color
+      label: Planter Color
+      hint: Color of your ceramic planter
+      type: select_one
+      options:
+      - White
+      - Black
+      - Gray
+      - Beige
+      - Blue
+      - Green
+      - Terracotta
+      - Multi-color
+      required: true
+    - id: 11
+      name: kit_contents_complete
+      label: Kit Contents Complete
+      hint: Did your kit include all listed items
+      type: select_one
+      options:
+      - Yes - All items present
+      - No - Missing items
+      required: true
+    - id: 12
+      name: missing_items
+      label: Missing Items
+      hint: List any missing components
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: condition_on_arrival
+      label: Condition on Arrival
+      hint: What was the condition when delivered
+      type: select_one
+      options:
+      - Perfect condition
+      - Minor cosmetic issues
+      - Damaged - needs replacement
+      required: true
+    - id: 14
+      name: intended_use
+      label: Intended Use
+      hint: What will you plant in your planter
+      type: select_one
+      options:
+      - Succulents
+      - Herbs
+      - Flowers
+      - Vegetables
+      - Houseplant
+      - Decorative only
+      - Other
+      required: true
+    - id: 15
+      name: gardening_experience
+      label: Gardening Experience Level
+      hint: How would you rate your experience
+      type: select_one
+      options:
+      - Beginner - First time gardener
+      - Novice - Some experience
+      - Intermediate - Regular gardener
+      - Advanced - Experienced gardener
+      - Expert - Master gardener
+      required: true
+    - id: 16
+      name: photo_upload
+      label: Upload Photo of Your Planter
+      hint: Share a photo of your registered planter
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: newsletter_signup
+      label: Newsletter Signup
+      hint: Receive gardening tips and product updates
+      type: select_one
+      options:
+      - Yes - Sign me up
+      - No - Not interested
+      required: true
+    - id: 18
+      name: referral_source
+      label: How Did You Hear About Us
+      hint: Source of product awareness
+      type: select_one
+      options:
+      - Social media
+      - Online search
+      - Friend or family
+      - In-store display
+      - Advertisement
+      - Blog or magazine
+      - Other
+      required: false
+    - id: 19
+      name: would_recommend
+      label: Would You Recommend This Product
+      hint: Likelihood of recommending to others
+      type: select_one
+      options:
+      - Definitely yes
+      - Probably yes
+      - Not sure
+      - Probably not
+      - Definitely not
+      required: true
+    - id: 20
+      name: additional_feedback
+      label: Additional Comments
+      hint: Any other feedback about your purchase
+      type: text
+      options: []
+      required: false

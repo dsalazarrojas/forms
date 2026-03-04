@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Religious Service Feedback Survey
+    pages:
+    - id: 1
+      name: worship_service_rating
+      label: Worship Service Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: sermon_satisfaction
+      label: Was the sermon helpful?
+      hint: null
+      type: select_multiple
+      options:
+      - Not helpful
+      - Helpful
+      - Somewhat helpful
+      - Very helpful
+      required: false
+    - id: 3
+      name: overall_satisfaction
+      label: Overall, how satisfied are you with the service?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: service_quality
+      label: Service quality
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      required: true
+    - id: 5
+      name: music_quality
+      label: Music quality
+      hint: null
+      type: select_multiple
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      - Did not play music
+      - Too loud
+      required: true
+    - id: 6
+      name: speaker_quality
+      label: Speaker quality
+      hint: null
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      required: true
+    - id: 7
+      name: worship_service_improve
+      label: What can be improved?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: other_improvement
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: worship_service_frequency
+      label: How often do you attend the worship service?
+      hint: null
+      type: select_multiple
+      options:
+      - Never
+      - Rarely
+      - Occasionally
+      - Frequently
+      - Always
+      required: true

@@ -1,0 +1,227 @@
+inputSchema:
+  type: object
+  properties:
+    title: luxury_travel_experience_feedback_form
+    pages:
+    - id: 1
+      name: trip_type
+      label: What was the trip type
+      hint: null
+      type: select_one
+      options:
+      - Luxury
+      - Adventure
+      - Wellness
+      - Relaxation
+      - Cultural
+      - Food and Wine
+      - Beach
+      - City
+      required: false
+    - id: 2
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      required: false
+    - id: 3
+      name: staff_professionalism
+      label: Staff Professionalism
+      hint: How would you rate the staffs' friendliness
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: services_quality
+      label: Services Quality
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: services_quality_additional_comments
+      label: Additional comments about services quality
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: amenities_quality
+      label: Amenities quality
+      hint: How would you rate the quality of the hotel's amenities
+      type: select_multiple
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 7
+      name: amenities_quality_additional_comments
+      label: Additional comments about amenities quality
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: communication
+      label: Communication
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 9
+      name: communication_additional_comments
+      label: Additional comments about communication
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: facilities
+      label: Facilities
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 11
+      name: facilities_additional_comments
+      label: Additional comments about facilities
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: cleanliness
+      label: Cleanliness
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 13
+      name: cleanliness_additional_comments
+      label: Additional comments about cleanliness
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: staff_helpfulness
+      label: Staff helpfulness
+      hint: How friendly and helpful were the hotel staff
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: overall_value
+      label: Overall value
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 16
+      name: overall_value_additional_comments
+      label: Additional comments about overall value
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: trip_value
+      label: Trip value
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 18
+      name: trip_value_additional_comments
+      label: Additional comments about trip value
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: trip_value_for_money
+      label: Trip value for money
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 20
+      name: trip_value_for_money_additional_comments
+      label: Additional comments about trip value for money
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: staff_willingness_to_help
+      label: Staff willingness to help
+      hint: How willing to help were the hotel staff
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: would_recommend
+      label: Would you recommend this trip
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 23
+      name: would_recommend_additional_comments
+      label: Additional comments about would recommend
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: travel_experience
+      label: Travel Experience
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 25
+      name: travel_experience_additional_comments
+      label: Additional comments about travel experience
+      hint: null
+      type: note
+      options: []
+      required: false

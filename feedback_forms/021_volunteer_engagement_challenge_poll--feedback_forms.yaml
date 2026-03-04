@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Volunteer Engagement Challenge Poll
+    pages:
+    - id: 1
+      name: volunteer_engagement_challenge_poll_1
+      label: volunteer_engagement_challenge_p
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: volunteer_engagement_challenge_suggestions
+      label: suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: volunteer_engagement_challenge_experience
+      label: experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: volunteer_engagement_challenge_programs
+      label: programs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: volunteer_engagement_challenge_programs_other
+      label: other_programs
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Subscription Content Quality Feedback Form
+    pages:
+    - id: 1
+      name: subscription_content_quality
+      label: What do you think of the latest content?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: satisfaction
+      label: What do you like most about our service?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: recommendations
+      label: Do you have any recommendations for improvement?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: contact_info
+      label: How can we contact you for follow-up discussions?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: additional_comments
+      label: Do you have any additional comments or feedback?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: subscription_status
+      label: What is your current subscription status?
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Canceled
+      required: true
+    - id: 8
+      name: content_type
+      label: What type of content do you usually consume on our platform?
+      hint: null
+      type: select_multiple
+      options:
+      - Blogs
+      - Videos
+      - Podcasts
+      - Articles
+      - Newsletters
+      required: true

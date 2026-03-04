@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: State Seal Design Feedback
+    pages:
+    - id: 1
+      name: state_seal_design_feedback_page
+      label: State Seal Design Feedback Page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: state_seal_design_feedback_input
+      label: Select Design Concept
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Option 1''}'
+      - '{''value'': ''Option 2''}'
+      - '{''value'': ''Option 3''}'
+      required: true
+    - id: 3
+      name: state_seal_color_rating
+      label: Seal Color Rating
+      hint: Rate the color of the design
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: state_seal_shape_rating
+      label: Seal Shape Rating
+      hint: Rate the shape of the design
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: state_seal_font_rating
+      label: Seal Font Rating
+      hint: Rate the font of the design
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: state_seal_design_rating
+      label: Overall Design Rating
+      hint: Rate overall design
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: state_seal_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: state_seal_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: state_seal_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: state_seal_additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false

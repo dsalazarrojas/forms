@@ -1,0 +1,32 @@
+inputSchema:
+  type: object
+  properties:
+    title: Responsive Upload Form
+    pages:
+    - id: 1
+      name: file_input
+      label: File Input
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: file_input_2
+      label: Additional Files
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: upload_button
+      label: Upload
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Page Red And Responsive
+    pages:
+    - id: 1
+      name: intro
+      label: Send Us a Message
+      hint: We will get back to you
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: Your phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: location
+      label: Your Location
+      hint: City and State
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: service_interest
+      label: Service of Interest
+      hint: What interests you
+      type: select_one
+      options:
+      - Service A
+      - Service B
+      - Service C
+      - Consulting
+      - Support
+      - Other
+      required: true
+    - id: 7
+      name: timeline
+      label: Project Timeline
+      hint: When do you need this
+      type: select_one
+      options:
+      - Immediately
+      - Within a Week
+      - Within a Month
+      - Just Planning
+      required: false
+    - id: 8
+      name: budget
+      label: Budget Range
+      hint: Estimated budget
+      type: select_one
+      options:
+      - Under $1000
+      - $1000 to $5000
+      - $5000 to $10000
+      - Over $10000
+      required: false
+    - id: 9
+      name: message
+      label: Message
+      hint: Your inquiry
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: how_heard
+      label: How Did You Hear About Us
+      hint: Referral source
+      type: select_one
+      options:
+      - Online Search
+      - Social Media
+      - Referral
+      - Advertisement
+      - Other
+      required: false
+    - id: 11
+      name: consent
+      label: Consent to Contact
+      hint: May we contact you
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

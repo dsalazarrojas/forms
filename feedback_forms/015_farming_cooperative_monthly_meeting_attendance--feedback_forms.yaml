@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Farming Cooperative Monthly Meeting Attendance
+    pages:
+    - id: 1
+      name: meeting_date
+      label: Meeting Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: member_name
+      label: Member Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: role
+      label: Role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: attended
+      label: Attended
+      hint: null
+      type: select_one
+      options:
+      - Member
+      - Non-Member
+      - Unable to attend
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: feedback
+      label: Feedback
+      hint: null
+      type: select_multiple
+      options:
+      - Feedback on meetings
+      - Suggestions
+      - Other
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments_email
+      label: Comments Email
+      hint: null
+      type: select_multiple
+      options:
+      - Send comments directly
+      - Send comments via email
+      - Do not send comments
+      required: false
+    - id: 10
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false

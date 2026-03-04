@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: new_design_feedback_form
+    pages:
+    - id: 1
+      name: new_design_feedback_form
+      label: New Design Feedback Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: design_id
+      label: design_id
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: feedback
+      label: feedback
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''1'', ''label'': ''Very good''}'
+      - '{''value'': ''2'', ''label'': ''Average''}'
+      - '{''value'': ''3'', ''label'': ''Poor''}'
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''ChatJimmy'', ''label'': ''ChatJimmy''}'
+      - '{''value'': ''JohnDoe'', ''label'': ''John Doe''}'
+      required: false

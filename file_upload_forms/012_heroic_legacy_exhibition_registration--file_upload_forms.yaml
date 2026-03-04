@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: heroic-legacy-exhibition-registration
+    pages:
+    - id: 1
+      name: exhibition_legacy_exhibition_registration
+      label: form-title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: participant-name
+      hint: Required field
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_email
+      label: participant-email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: artwork_description
+      label: artwork-description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: file_upload
+      label: upload-artwork-preview
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: participant_website
+      label: participant-website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: participant_social_media_links
+      label: participant-social-media-links
+      hint: null
+      type: select_multiple
+      options:
+      - Facebook
+      - Twitter
+      - Instagram
+      - LinkedIn
+      - YouTube
+      required: false
+    - id: 8
+      name: participant_agree
+      label: agree-to-terms
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 9
+      name: artwork_category
+      label: artwork-category
+      hint: null
+      type: select_one
+      options:
+      - Painting
+      - Print
+      - Digital Art
+      - Sculpture
+      - Other
+      required: false
+    - id: 10
+      name: artwork_price
+      label: artwork-price
+      hint: null
+      type: number
+      options: []
+      required: false

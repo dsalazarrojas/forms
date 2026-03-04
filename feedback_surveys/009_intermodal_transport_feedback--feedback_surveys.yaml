@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: intermodal_transport_feedback
+    pages:
+    - id: 1
+      name: transfer_type
+      label: Transfer Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Airport''}'
+      - '{''option2'': ''Train Station''}'
+      - '{''option3'': ''Bus Stop''}'
+      required: false
+    - id: 2
+      name: date_of_transfer
+      label: Date Of Transfer
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time_of_transfer
+      label: Time Of Transfer
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: origin_location
+      label: Origin Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: destination_location
+      label: Destination Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: transfer_mode
+      label: Transfer Mode
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Car''}'
+      - '{''option2'': ''Bus''}'
+      - '{''option3'': ''Train''}'
+      required: false
+    - id: 7
+      name: travel_mode
+      label: Travel Mode
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Car''}'
+      - '{''option2'': ''Bus''}'
+      - '{''option3'': ''Train''}'
+      - '{''option4'': ''Walking''}'
+      required: false
+    - id: 8
+      name: travel_time
+      label: Travel Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: mode_of_transport
+      label: Mode Of Transport
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Airplane''}'
+      - '{''option2'': ''Train''}'
+      - '{''option3'': ''Bus''}'
+      - '{''option4'': ''Other''}'
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: satisfaction_level
+      label: Satisfaction Level
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''High''}'
+      - '{''option2'': ''Medium''}'
+      - '{''option3'': ''Low''}'
+      required: false
+    - id: 12
+      name: improvement_areas
+      label: Improvement Areas
+      hint: null
+      type: text
+      options: []
+      required: false

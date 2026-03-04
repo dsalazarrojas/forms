@@ -1,0 +1,227 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animation Dialogue Sync Request Form
+    pages:
+    - id: 1
+      name: project_header
+      label: -- Project Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: project_name
+      label: Project Name
+      hint: Name of your animation project
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_name
+      label: Client or Studio Name
+      hint: Your organization name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: project_manager_email
+      label: Project Manager Email
+      hint: Primary contact for this project
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: project_manager_phone
+      label: Project Manager Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: project_type_header
+      label: -- Project Type and Specifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: project_type
+      label: Type of Animation Project
+      hint: Select the project type
+      type: select_one
+      options:
+      - Feature Film
+      - TV Series
+      - Short Film
+      - Commercial or Advertisement
+      - Training Video
+      - Web Series
+      - Music Video
+      - Other
+      required: true
+    - id: 8
+      name: animation_style
+      label: Animation Style
+      hint: What type of animation
+      type: select_one
+      options:
+      - 2D Traditional
+      - 3D CGI
+      - Stop-Motion
+      - Motion Capture
+      - Hybrid
+      - Other
+      required: true
+    - id: 9
+      name: video_length
+      label: Total Video Length
+      hint: Approximate duration of final project
+      type: select_one
+      options:
+      - 30 seconds or less
+      - 1-5 minutes
+      - 5-15 minutes
+      - 15-30 minutes
+      - 30+ minutes
+      required: true
+    - id: 10
+      name: target_language
+      label: Target Language for Dialogue
+      hint: Primary language for audio
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - French
+      - Mandarin
+      - Japanese
+      - Multiple Languages
+      - Other
+      required: true
+    - id: 11
+      name: dialogue_details_header
+      label: -- Dialogue and Audio Specifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: dialogue_type
+      label: Type of Dialogue Content
+      hint: What kind of dialogue
+      type: select_multiple
+      options:
+      - Voice-over Narration
+      - Character Dialogue
+      - Ambient Sound Effects
+      - Music Sync
+      - ADR (Additional Dialogue Recording)
+      - Foreign Language Dubbing
+      required: true
+    - id: 13
+      name: audio_format
+      label: Preferred Audio Format
+      hint: Format for dialogue files
+      type: select_one
+      options:
+      - WAV
+      - MP3
+      - AAC
+      - AIFF
+      - No preference
+      required: false
+    - id: 14
+      name: sync_requirements
+      label: Specific Sync Requirements
+      hint: Any special requirements or notes
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: files_section_header
+      label: -- File Submissions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: script_attachment_note
+      label: Script or Dialogue Document
+      hint: Upload your script or dialogue list
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: storyboard_note
+      label: Storyboard or Animatic
+      hint: Timing reference for dialogue sync
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: reference_video_note
+      label: Reference Video or Rough Cut
+      hint: Video file showing animation sequences
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: timeline_header
+      label: -- Project Timeline --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: project_start_date
+      label: Project Start Date
+      hint: When dialogue sync work should begin
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: sync_completion_date
+      label: Required Completion Date
+      hint: When dialogue sync must be finished
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: budget_header
+      label: -- Budget and Payment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: project_budget
+      label: Project Budget Range
+      hint: Estimated budget for dialogue sync
+      type: select_one
+      options:
+      - Under 1000
+      - 1000-5000
+      - 5000-10000
+      - 10000-25000
+      - Over 25000
+      - To be determined
+      required: false
+    - id: 24
+      name: payment_terms
+      label: Preferred Payment Terms
+      hint: How would you like to pay
+      type: select_one
+      options:
+      - Full payment upfront
+      - 50% deposit, 50% on completion
+      - Milestone-based payments
+      - Flexible - to be discussed
+      required: false
+    - id: 25
+      name: additional_info
+      label: Additional Project Information
+      hint: Any other details or special requests
+      type: text
+      options: []
+      required: false

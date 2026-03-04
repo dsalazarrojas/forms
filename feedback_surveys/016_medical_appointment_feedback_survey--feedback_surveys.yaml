@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Appointment Feedback Survey
+    pages:
+    - id: 1
+      name: feedback_survey
+      label: Medical Appointment Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: experience_rating
+      label: What was your overall experience at this appointment?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: provider_care_rating
+      label: How would you rate the care you received from the provider?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: appointment_satisfaction
+      label: How satisfied were you with this appointment?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: provider_communication
+      label: How would you rate the provider's communication with you?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: appointment_time
+      label: How long did your appointment take?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: provider_wait_time
+      label: How long did you wait in the waiting area?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: provider_punctuality
+      label: Was the provider on time for your appointment?
+      hint: null
+      type: select_one
+      options:
+      - On Time
+      - Late
+      - Early
+      required: false
+    - id: 9
+      name: appointment_punctuality
+      label: Was your appointment started on time?
+      hint: null
+      type: select_one
+      options:
+      - On Time
+      - Late
+      - Early
+      required: false
+    - id: 10
+      name: feedback
+      label: Additional comments or feedback about your appointment?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: provider_rating
+      label: Would you recommend this provider?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: appointment_rating
+      label: Would you recommend this appointment?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: appointment_type
+      label: What type of appointment was this?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

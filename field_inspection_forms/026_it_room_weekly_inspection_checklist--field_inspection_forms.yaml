@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: IT Room Weekly Inspection Checklist
+    pages:
+    - id: 1
+      name: inspector_details
+      label: Inspector Details
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''John Doe''}'
+      - '{''name'': ''Jane Doe''}'
+      - '{''name'': ''Other''}'
+      required: false
+    - id: 2
+      name: date_of_inspection
+      label: Date of Inspection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: equipment_condition
+      label: Equipment Condition
+      hint: Check the condition of all equipment
+      type: select_multiple
+      options:
+      - '{''name'': ''Good''}'
+      - '{''name'': ''Fair''}'
+      - '{''name'': ''Poor''}'
+      - '{''name'': ''Unknown''}'
+      required: false
+    - id: 4
+      name: cleanliness
+      label: Cleanliness
+      hint: Check the cleanliness of the room
+      type: select_multiple
+      options:
+      - '{''name'': ''Good''}'
+      - '{''name'': ''Fair''}'
+      - '{''name'': ''Poor''}'
+      required: false
+    - id: 5
+      name: temperature
+      label: Temperature
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: security_issues
+      label: Security Issues
+      hint: Check for any security issues
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: equipment_condition_details
+      label: Equipment Condition Details
+      hint: Provide details about equipment condition
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: cleanliness_details
+      label: Cleanliness Details
+      hint: Provide details about cleanliness
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: temperature_details
+      label: Temperature Details
+      hint: Provide details about temperature
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: security_issues_details
+      label: Security Issues Details
+      hint: Provide details about security issues
+      type: text
+      options: []
+      required: false

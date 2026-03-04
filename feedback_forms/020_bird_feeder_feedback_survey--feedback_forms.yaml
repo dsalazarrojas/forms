@@ -1,0 +1,337 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bird Feeder Feedback Survey
+    pages:
+    - id: 1
+      name: section_respondent_info
+      label: -- Respondent Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_name
+      label: Your Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: respondent_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: respondent_location
+      label: City or Region
+      hint: Where you are located
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: survey_date
+      label: Feedback Date
+      hint: Date you are providing feedback
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: section_feeder_experience
+      label: -- Feeder Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: product_model
+      label: Bird Feeder Model
+      hint: Which feeder model do you own
+      type: select_one
+      options:
+      - Classic Tube Feeder
+      - Hopper Feeder
+      - Platform Feeder
+      - Suet Feeder
+      - Thistle Feeder
+      - Hummingbird Feeder
+      - Other Model
+      required: true
+    - id: 8
+      name: ownership_duration
+      label: How Long Have You Owned This Feeder
+      hint: Duration of ownership
+      type: select_one
+      options:
+      - Less than 1 Month
+      - 1-3 Months
+      - 3-6 Months
+      - 6-12 Months
+      - Over 1 Year
+      required: true
+    - id: 9
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: Rate your satisfaction 1-10
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: quality_rating
+      label: Product Quality
+      hint: Rate the quality of the feeder
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 11
+      name: durability_rating
+      label: Durability and Weather Resistance
+      hint: How well does it hold up
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 12
+      name: section_functionality
+      label: -- Functionality and Design --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: ease_of_use
+      label: Ease of Use and Assembly
+      hint: Was it easy to set up and use
+      type: select_one
+      options:
+      - Very Easy
+      - Fairly Easy
+      - Somewhat Difficult
+      - Very Difficult
+      required: true
+    - id: 14
+      name: refill_ease
+      label: Ease of Refilling
+      hint: How easy is it to refill
+      type: select_one
+      options:
+      - Very Easy
+      - Easy
+      - Somewhat Difficult
+      - Difficult
+      required: true
+    - id: 15
+      name: cleaning_maintenance
+      label: Ease of Cleaning and Maintenance
+      hint: How easy to clean
+      type: select_one
+      options:
+      - Very Easy
+      - Easy
+      - Somewhat Difficult
+      - Difficult
+      required: true
+    - id: 16
+      name: capacity_rating
+      label: Seed Capacity
+      hint: Is the capacity adequate
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Adequate
+      - Too Small
+      required: true
+    - id: 17
+      name: section_birds
+      label: -- Bird Activity --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: bird_visit_frequency
+      label: Bird Visit Frequency
+      hint: How often do birds visit
+      type: select_one
+      options:
+      - Daily Multiple Times
+      - Daily
+      - Several Times per Week
+      - Weekly
+      - Rarely
+      - Never
+      required: true
+    - id: 19
+      name: bird_species
+      label: Bird Species Observed
+      hint: Which species have you seen
+      type: select_multiple
+      options:
+      - Cardinals
+      - Chickadees
+      - Finches
+      - Sparrows
+      - Woodpeckers
+      - Blue Jays
+      - Nuthatches
+      - Other Species
+      required: false
+    - id: 20
+      name: favorite_bird_observed
+      label: Favorite Bird Species Observed
+      hint: Which species do you most enjoy
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: bird_population_change
+      label: Change in Bird Population
+      hint: Have bird visits changed
+      type: select_one
+      options:
+      - Significantly Increased
+      - Increased
+      - About the Same
+      - Decreased
+      - Significantly Decreased
+      required: false
+    - id: 22
+      name: section_seed_preferences
+      label: -- Seed and Food Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: seed_type_used
+      label: Type of Seed Used
+      hint: What seed do you typically use
+      type: select_multiple
+      options:
+      - Black Oil Sunflower
+      - Nyjer (Thistle)
+      - Safflower
+      - Mixed Seed
+      - Suet
+      - Mealworms
+      - Other
+      required: false
+    - id: 24
+      name: seed_waste
+      label: Seed Waste Level
+      hint: How much seed is wasted
+      type: select_one
+      options:
+      - Minimal Waste
+      - Some Waste
+      - Moderate Waste
+      - Excessive Waste
+      required: false
+    - id: 25
+      name: pest_problems
+      label: Problems with Squirrels or Pests
+      hint: Any pest-related issues
+      type: select_one
+      options:
+      - No Problems
+      - Minor Problems
+      - Moderate Problems
+      - Severe Problems
+      required: false
+    - id: 26
+      name: section_issues
+      label: -- Problems or Issues --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: experienced_problems
+      label: Experienced Any Problems
+      hint: Any issues with the feeder
+      type: select_one
+      options:
+      - No Problems
+      - Minor Issues
+      - Moderate Issues
+      - Severe Issues
+      required: true
+    - id: 28
+      name: problems_description
+      label: Describe Problems or Issues
+      hint: What problems have you experienced
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: section_value
+      label: -- Value and Pricing --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: value_for_money
+      label: Value for Money
+      hint: Was it worth the price
+      type: select_one
+      options:
+      - Excellent Value
+      - Good Value
+      - Fair Value
+      - Poor Value
+      required: true
+    - id: 31
+      name: price_reasonable
+      label: Was the Price Reasonable
+      hint: Did price match quality
+      type: select_one
+      options:
+      - Yes, Very Reasonable
+      - Reasonable
+      - Slightly High
+      - Way Too High
+      required: true
+    - id: 32
+      name: section_recommendations
+      label: -- Recommendations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 33
+      name: would_recommend
+      label: Would You Recommend This Feeder
+      hint: Would you suggest to others
+      type: select_one
+      options:
+      - Strongly Recommend
+      - Recommend
+      - Neutral
+      - Not Recommend
+      - Strongly Advise Against
+      required: true
+    - id: 34
+      name: improvement_suggestions
+      label: Suggestions for Improvement
+      hint: How could the feeder be improved
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: additional_feedback
+      label: Additional Comments
+      hint: Share any other feedback
+      type: text
+      options: []
+      required: false

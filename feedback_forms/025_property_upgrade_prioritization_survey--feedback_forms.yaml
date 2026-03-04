@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: property_upgrade_prioritization_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Property Upgrade Prioritization Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: property_address
+      label: Property Address
+      hint: Enter your property address
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: property_type
+      label: Property Type
+      hint: Select a property type
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      - Industrial
+      required: false
+    - id: 4
+      name: property_size
+      label: Property Size
+      hint: null
+      type: select_multiple
+      options:
+      - Large
+      - Extra Large
+      required: false
+    - id: 5
+      name: priority_request
+      label: Priority Request
+      hint: Select your priority request
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 6
+      name: request_description
+      label: Request Description
+      hint: Describe your upgrade request
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: budget_allocation
+      label: Budget Allocation
+      hint: Select a budget allocation option
+      type: select_multiple
+      options:
+      - 1-1000
+      - 1001-5000
+      - 5001-10000
+      required: false
+    - id: 8
+      name: contact_number
+      label: Contact Number
+      hint: Enter your contact number
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: email_address
+      label: Email Address
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: message
+      label: Additional Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: confirm_upgrade
+      label: Confirm Upgrade Request
+      hint: Check this box to confirm your upgrade request
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: terms_and_conditions
+      label: I Agree
+      hint: Please agree to the terms and conditions
+      type: select_one
+      options:
+      - agree
+      - disagree
+      required: false

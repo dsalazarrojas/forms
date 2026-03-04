@@ -1,0 +1,267 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conservation Efforts Community Inquiry Form
+    pages:
+    - id: 1
+      name: inquiry_date
+      label: Inquiry Date
+      hint: Date of inquiry
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: respondent_name
+      label: Your Name
+      hint: Optional - may remain anonymous
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: respondent_email
+      label: Email Address
+      hint: For follow-up if desired
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: respondent_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: Your address
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: postal_code
+      label: Postal Code
+      hint: ZIP or postal code
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: residency_status
+      label: Residency Status
+      hint: Are you a local resident
+      type: select_one
+      options:
+      - Full-time resident
+      - Part-time resident
+      - Business owner
+      - Property owner
+      - Visitor
+      - Other
+      required: true
+    - id: 9
+      name: residency_duration
+      label: How Long Have You Lived Here
+      hint: Length of residency
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1 to 5 years
+      - 5 to 10 years
+      - 10 to 20 years
+      - More than 20 years
+      - Lifetime
+      required: true
+    - id: 10
+      name: awareness_level
+      label: Awareness of Local Conservation Efforts
+      hint: How aware are you of conservation work
+      type: select_one
+      options:
+      - Very aware
+      - Somewhat aware
+      - Neutral
+      - Not very aware
+      - Not aware at all
+      required: true
+    - id: 11
+      name: awareness_sources
+      label: How Did You Learn About Conservation Efforts
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Local news
+      - Social media
+      - Community meetings
+      - Friends or neighbors
+      - Organization website
+      - Events
+      - Signage
+      - School programs
+      - Not aware of any efforts
+      required: false
+    - id: 12
+      name: valued_resources
+      label: What Natural Resources Do You Value Most
+      hint: Select all that are important to you
+      type: select_multiple
+      options:
+      - Clean water
+      - Forests and trees
+      - Wildlife habitat
+      - Parks and open space
+      - Agricultural land
+      - Wetlands
+      - Trails and recreation
+      - Scenic views
+      - Air quality
+      - Other
+      required: true
+    - id: 13
+      name: valued_resources_other
+      label: Other Resources
+      hint: Specify if other selected
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: participation_history
+      label: Have You Participated in Conservation Activities
+      hint: Past participation
+      type: select_one
+      options:
+      - Yes - Regularly
+      - Yes - Occasionally
+      - Yes - Once
+      - No - Never
+      required: true
+    - id: 15
+      name: participation_types
+      label: Types of Activities Participated In
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Volunteer events
+      - Educational workshops
+      - Fundraising
+      - Advocacy
+      - Citizen science
+      - Trail maintenance
+      - Tree planting
+      - Clean-up events
+      - None
+      required: false
+    - id: 16
+      name: barriers_to_participation
+      label: What Prevents You from Participating More
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Lack of time
+      - Lack of information
+      - Physical limitations
+      - Transportation issues
+      - Scheduling conflicts
+      - Not interested
+      - Cost
+      - None - I participate regularly
+      required: true
+    - id: 17
+      name: interest_level
+      label: Interest in Future Participation
+      hint: How interested are you
+      type: select_one
+      options:
+      - Very interested
+      - Somewhat interested
+      - Neutral
+      - Not very interested
+      - Not interested
+      required: true
+    - id: 18
+      name: preferred_activities
+      label: What Activities Would You Like to See
+      hint: Select all of interest
+      type: select_multiple
+      options:
+      - Educational programs
+      - Family-friendly events
+      - Volunteer opportunities
+      - Guided nature walks
+      - Workshops
+      - Youth programs
+      - Senior programs
+      - Evening events
+      - Weekend events
+      - Other
+      required: true
+    - id: 19
+      name: communication_preference
+      label: How Would You Like to Receive Information
+      hint: Select preferred methods
+      type: select_multiple
+      options:
+      - Email
+      - Social media
+      - Postal mail
+      - Phone calls
+      - Community bulletin
+      - Website
+      - Local newspaper
+      - None
+      required: true
+    - id: 20
+      name: priority_issues
+      label: What Conservation Issues Are Most Important to You
+      hint: Select top priorities
+      type: select_multiple
+      options:
+      - Water quality
+      - Wildlife protection
+      - Climate change
+      - Habitat restoration
+      - Invasive species
+      - Land preservation
+      - Sustainable agriculture
+      - Recreation access
+      - Environmental education
+      - Other
+      required: true
+    - id: 21
+      name: priority_issues_other
+      label: Other Issues
+      hint: Specify if other selected
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: willingness_to_donate
+      label: Would You Consider Donating to Conservation
+      hint: Interest in financial support
+      type: select_one
+      options:
+      - Yes - Definitely
+      - Yes - Possibly
+      - Unsure
+      - false
+      required: true
+    - id: 23
+      name: suggestions
+      label: What Suggestions Do You Have for Improvement
+      hint: Your ideas for better conservation efforts
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other feedback
+      type: text
+      options: []
+      required: false

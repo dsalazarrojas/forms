@@ -1,0 +1,156 @@
+inputSchema:
+  type: object
+  properties:
+    title: Account Statement Review Form
+    pages:
+    - id: 1
+      name: section_customer_info
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: account_number
+      label: Account Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_statement_details
+      label: -- Statement Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: statement_period
+      label: Statement Period Under Review
+      hint: e.g., January 2026
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: statement_date
+      label: Statement Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: statement_balance
+      label: Statement Closing Balance
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: balance_accurate
+      label: Is the Statement Balance Accurate
+      hint: null
+      type: select_one
+      options:
+      - Yes, the balance is correct
+      - No, there is a discrepancy
+      - I am not sure
+      required: true
+    - id: 11
+      name: section_discrepancies
+      label: -- Discrepancies (if applicable) --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: discrepancy_type
+      label: Type of Discrepancy
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Unauthorized transaction
+      - Duplicate charge
+      - Missing payment or credit
+      - Incorrect amount
+      - Wrong date on transaction
+      - Unrecognized fee
+      - No discrepancy
+      required: true
+    - id: 13
+      name: discrepancy_amount
+      label: Discrepancy Amount (if applicable)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: discrepancy_description
+      label: Description of the Discrepancy
+      hint: Provide details about the transaction in question
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: expected_correct_amount
+      label: Expected Correct Amount
+      hint: What you believe the correct balance or transaction amount should be
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: section_resolution
+      label: -- Resolution Preference --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: preferred_resolution
+      label: Preferred Resolution
+      hint: null
+      type: select_one
+      options:
+      - Account credit
+      - Refund
+      - Corrected statement
+      - Further investigation
+      - No action needed
+      required: true
+    - id: 18
+      name: preferred_contact_method
+      label: Preferred Contact Method for Follow-Up
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Mail
+      required: true
+    - id: 19
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

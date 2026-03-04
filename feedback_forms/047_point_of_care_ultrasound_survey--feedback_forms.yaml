@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: point_of_care_ultrasound_survey
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: date_of_care
+      label: date_of_care
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_of_care
+      label: time_of_care
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: type_of_technology
+      label: type_of_technology
+      hint: null
+      type: select_one
+      options:
+      - USG
+      - CT
+      - MRI
+      - Ultrasound
+      required: false
+    - id: 7
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submitted_on
+      label: submitted_on
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: submitted_at
+      label: submitted_at
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: institution
+      label: institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: team
+      label: team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: rating_scale
+      label: rating_scale
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 17
+      name: comments_on_scales
+      label: comments_on_scales
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: suggestions
+      label: suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submitted_to
+      label: submitted_to
+      hint: null
+      type: select_multiple
+      options:
+      - Ultrasound Program
+      - Ultrasound Director
+      - Chair
+      - Dean
+      - Residency Coordinator
+      - Other
+      required: false
+    - id: 20
+      name: submitted_by_id
+      label: submitted_by_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: submitted_at_id
+      label: submitted_at_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: submitted_on_id
+      label: submitted_on_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: rating_score
+      label: rating_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: submitted_to_id
+      label: submitted_to_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: total_score
+      label: total_score
+      hint: null
+      type: number
+      options: []
+      required: false

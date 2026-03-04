@@ -1,0 +1,102 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Anonymous Story Submission Form
+    pages:
+    - id: 1
+      name: story_title
+      label: Title of Your Story
+      hint: Give your narrative a brief name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: story_text
+      label: Narrative
+      hint: Share your experience or story here
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: story_theme
+      label: Primary Theme
+      hint: null
+      type: select_one
+      options:
+      - Personal Growth
+      - Workplace Experience
+      - Community Event
+      - Travel
+      - Health Journey
+      - Other
+      required: true
+    - id: 4
+      name: audience
+      label: Intended Audience
+      hint: Who do you want to read this?
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: sensitive_content
+      label: Does this story contain sensitive or triggering content?
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: true
+    - id: 6
+      name: submission_date
+      label: Date of Experience (Approximate)
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: submission_category
+      label: Submission Category
+      hint: null
+      type: select_one
+      options:
+      - Fiction
+      - Non-Fiction
+      - Poetry
+      - Essay
+      required: true
+    - id: 8
+      name: publication_consent
+      label: Do you consent to this being published anonymously?
+      hint: null
+      type: select_one
+      options:
+      - I consent to anonymous publication
+      - Do not publish, for review only
+      required: true
+    - id: 9
+      name: motivation
+      label: Why are you sharing this story today?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: follow_up_permission
+      label: May we use this story for educational purposes?
+      hint: null
+      type: select_one
+      options:
+      - Yes
+      - No
+      required: true

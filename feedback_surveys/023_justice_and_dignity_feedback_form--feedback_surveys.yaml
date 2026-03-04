@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Justice And Dignity Feedback Form
+    pages:
+    - id: 1
+      name: service_felt_welcoming
+      label: How did you feel when using our service?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_felt_respectful
+      label: Were you treated with respect?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 3
+      name: service_felt_fair
+      label: Did you feel our service was fair?
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 4
+      name: date
+      label: Date of visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: Time of visit
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: Your Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: Your Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_info
+      label: Additional information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: team_leader
+      label: Was a team leader present during your visit?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: feedback
+      label: Additional feedback
+      hint: null
+      type: text
+      options: []
+      required: false

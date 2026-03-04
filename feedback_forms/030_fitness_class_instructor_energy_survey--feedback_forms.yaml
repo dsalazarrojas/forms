@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Class Instructor Energy Survey
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 6
+      name: availability_monday
+      label: Availability Monday
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: availability_tuesday
+      label: Availability Tuesday
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: availability_wednesday
+      label: Availability Wednesday
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: availability_thursday
+      label: Availability Thursday
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: availability_friday
+      label: Availability Friday
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: availability_saturday
+      label: Availability Saturday
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: availability_sunday
+      label: Availability Sunday
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: time_of_day
+      label: Time of Day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: time_of_day_range
+      label: Time of Day Range
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: energy_level
+      label: Energy Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 16
+      name: exercise_intensity
+      label: Exercise Intensity
+      hint: null
+      type: select_multiple
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 17
+      name: instructor_type
+      label: Instructor Type
+      hint: null
+      type: select_multiple
+      options:
+      - Personal
+      - Small Group
+      - Large Group
+      - Outdoor
+      required: false
+    - id: 18
+      name: experience_level
+      label: Experience Level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 19
+      name: certification
+      label: Certification
+      hint: null
+      type: select_multiple
+      options:
+      - Certified
+      - Non-Certified
+      - No Preference
+      required: false
+    - id: 20
+      name: preferred_time
+      label: Preferred Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: preferred_location
+      label: Preferred Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: preferred_location_type
+      label: Preferred Location Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: available_days
+      label: Available Days
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: available_time
+      label: Available Time
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: comments
+      label: Comments
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

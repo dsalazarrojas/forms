@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Weight Loss Program Feedback
+    pages:
+    - id: 1
+      name: introduction
+      label: How did you hear about this program?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: program_name
+      label: Weight loss program
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: program_length
+      label: How long did you participate in the program?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''2 weeks''}'
+      - '{''value'': 2, ''label'': ''4 weeks''}'
+      - '{''value'': 3, ''label'': ''6 weeks''}'
+      - '{''value'': 4, ''label'': ''8 weeks''}'
+      - '{''value'': 5, ''label'': ''12 weeks''}'
+      required: false
+    - id: 4
+      name: program_type
+      label: What type of program did you participate in?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Online'', ''label'': ''Online''}'
+      - '{''value'': ''In-person'', ''label'': ''In-person''}'
+      - '{''value'': ''Hybrid'', ''label'': ''Hybrid''}'
+      - '{''value'': ''Virtual'', ''label'': ''Virtual''}'
+      required: false
+    - id: 5
+      name: program_rating
+      label: How would you rate your overall experience?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''1/5''}'
+      - '{''value'': 2, ''label'': ''2/5''}'
+      - '{''value'': 3, ''label'': ''3/5''}'
+      - '{''value'': 4, ''label'': ''4/5''}'
+      - '{''value'': 5, ''label'': ''5/5''}'
+      required: false
+    - id: 6
+      name: rating_comment
+      label: Why did you rate your experience this way?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: feedback_comments
+      label: What were your thoughts about your experience?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: rating_satisfied
+      label: Were you satisfied with your experience?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': True}'
+      - '{''value'': 2, ''label'': False}'
+      - '{''value'': 3, ''label'': ''Undecided''}'
+      required: false
+    - id: 9
+      name: rating_reasons
+      label: Why did you feel this way?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''Lack of time''}'
+      - '{''value'': 2, ''label'': ''Cost was too high''}'
+      - '{''value'': 3, ''label'': ''Program was too difficult''}'
+      - '{''value'': 4, ''label'': ''Too many commitments''}'
+      - '{''value'': 5, ''label'': ''Other (please specify in the box below)''}'
+      required: false
+    - id: 10
+      name: other_reasons
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: program_improvements
+      label: What could we improve?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: additional_comments
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

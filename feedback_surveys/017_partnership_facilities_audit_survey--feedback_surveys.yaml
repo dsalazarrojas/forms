@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Partnership Facilities Audit Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: facility_address
+      label: facility_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: facility_name
+      label: facility_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: facility_type
+      label: facility_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Manufacturing''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 5
+      name: facility_rating
+      label: facility_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: rating_observation
+      label: rating_observation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: partner_name
+      label: partner_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: partner_title
+      label: partner_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: facility_compliance
+      label: facility_compliance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: facility_observations
+      label: facility_observations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: facility_comments
+      label: facility_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: facility_ratings
+      label: facility_ratings
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1}'
+      - '{''value'': 2}'
+      - '{''value'': 3}'
+      - '{''value'': 4}'
+      required: false
+    - id: 13
+      name: audit_date
+      label: audit_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: auditor
+      label: auditor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: partner_comments
+      label: partner_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: facility_rating_averages
+      label: facility_rating_averages
+      hint: null
+      type: note
+      options: []
+      required: false

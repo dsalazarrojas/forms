@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Transmission Issues Feedback Survey
+    pages:
+    - id: 1
+      name: transmission_issues_survey
+      label: What is your transmission issue
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: car_model
+      label: car_model
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: transmission_problem_description
+      label: describe_your_transmission_problem
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: service_center_visit
+      label: have_you_visited_service_center
+      hint: null
+      type: select_one
+      options:
+      - '{''Service Center Visit'': True}'
+      - '{''Service Center Visit'': False}'
+      required: true
+    - id: 5
+      name: mechanic_comment
+      label: what_did_mechanic_say
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: service_order_number
+      label: service_order_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: issue_description
+      label: transmission_problem_description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: problem_solved
+      label: problem_solved
+      hint: null
+      type: select_one
+      options:
+      - Problem Solved
+      - Problem Not Solved
+      required: true
+    - id: 9
+      name: will_contact_again
+      label: will_you_contact_us_again
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Possibly
+      required: true

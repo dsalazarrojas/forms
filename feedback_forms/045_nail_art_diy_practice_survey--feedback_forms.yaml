@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nail Art DIY Practice Survey
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: nail_art_skills
+      label: Nail Art Skills
+      hint: null
+      type: select_multiple
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 3
+      name: feedback_level
+      label: Feedback Level
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 4
+      name: nail_art_difficulty
+      label: Difficulty
+      hint: null
+      type: select_one
+      options:
+      - Very Easy
+      - Easy
+      - Medium
+      - Hard
+      - Very Hard
+      required: false
+    - id: 5
+      name: practice_frequency
+      label: Practice Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      required: false
+    - id: 6
+      name: nail_art_interest
+      label: Nail Art Interest
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 7
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false

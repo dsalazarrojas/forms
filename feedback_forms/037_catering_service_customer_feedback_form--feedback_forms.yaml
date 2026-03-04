@@ -1,0 +1,261 @@
+inputSchema:
+  type: object
+  properties:
+    title: Catering Service Customer Feedback Form
+    pages:
+    - id: 1
+      name: customer_name
+      label: Your Name
+      hint: Your full name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Your contact phone
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: event_date
+      label: Event Date
+      hint: When was your event
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: event_type
+      label: Event Type
+      hint: What type of event
+      type: select_one
+      options:
+      - Wedding
+      - Corporate Event
+      - Birthday Party
+      - Anniversary
+      - Conference
+      - Private Party
+      - Holiday Party
+      - Other
+      required: true
+    - id: 6
+      name: event_location
+      label: Event Location
+      hint: Where was the event
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: guest_count
+      label: Number of Guests
+      hint: How many guests
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: Rate your overall experience
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 9
+      name: food_quality
+      label: Food Quality
+      hint: Rate the food
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 10
+      name: food_presentation
+      label: Food Presentation
+      hint: Rate the presentation
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 11
+      name: food_temperature
+      label: Food Temperature
+      hint: Was food served at proper temperature
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Acceptable
+      - Poor
+      - Very Poor
+      required: true
+    - id: 12
+      name: portion_size
+      label: Portion Size
+      hint: Were portions adequate
+      type: select_one
+      options:
+      - More Than Enough
+      - Just Right
+      - Somewhat Small
+      - Too Small
+      required: true
+    - id: 13
+      name: menu_variety
+      label: Menu Variety
+      hint: Rate the selection
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 14
+      name: service_quality
+      label: Service Quality
+      hint: Rate the service
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 15
+      name: staff_professionalism
+      label: Staff Professionalism
+      hint: Rate the staff
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 16
+      name: staff_friendliness
+      label: Staff Friendliness
+      hint: Rate staff friendliness
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 17
+      name: timeliness
+      label: Timeliness
+      hint: Was service on time
+      type: select_one
+      options:
+      - Early
+      - On Time
+      - Slightly Late
+      - Very Late
+      required: true
+    - id: 18
+      name: setup_quality
+      label: Setup Quality
+      hint: Rate the setup
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 19
+      name: value_for_money
+      label: Value for Money
+      hint: Was it worth the cost
+      type: select_one
+      options:
+      - Excellent Value
+      - Good Value
+      - Fair Value
+      - Poor Value
+      - Very Poor Value
+      required: true
+    - id: 20
+      name: dietary_accommodation
+      label: Dietary Accommodation
+      hint: Were dietary needs met
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Acceptable
+      - Poor
+      - Not Applicable
+      required: false
+    - id: 21
+      name: would_recommend
+      label: Would You Recommend Us
+      hint: Would you recommend to others
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Neutral
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 22
+      name: would_use_again
+      label: Would You Use Again
+      hint: Would you use our services again
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Neutral
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 23
+      name: best_aspect
+      label: What Did You Like Best
+      hint: Highlight of the service
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: areas_for_improvement
+      label: Areas for Improvement
+      hint: What could be better
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other feedback
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Railway Track Safety Inspection Form
+    pages:
+    - id: 1
+      name: railway_track_safety_inspection_form_page_1
+      label: Railway Track Safety Inspection Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: track_geometry
+      label: track-geometry
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: track_surface
+      label: track-surface
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: track_signs
+      label: track-signs
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: inspection_date
+      label: inspection-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: safety_certificate
+      label: safety-certificate
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 7
+      name: inspector_name
+      label: inspector-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: contact_number
+      label: contact-number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: asset_id
+      label: asset-id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: railway_track_condition
+      label: railway-track-condition
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 13
+      name: track_geometry_condition
+      label: track-geometry-condition
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 14
+      name: track_geometry_measurements
+      label: track-geometry-measurements
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 15
+      name: track_safety_inspection_form_status
+      label: track-safety-inspection-form-status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false

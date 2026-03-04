@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Construction Bid Document Upload Form
+    pages:
+    - id: 1
+      name: project_name
+      label: Project Name
+      hint: Name of the construction project
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: project_number
+      label: Project Number
+      hint: Reference or bid number if applicable
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contractor_name
+      label: Contractor Company Name
+      hint: Legal name of bidding company
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contractor_license
+      label: Contractor License Number
+      hint: State or local license number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_person
+      label: Contact Person
+      hint: Primary contact for this bid
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_email
+      label: Contact Email
+      hint: Email address for correspondence
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: contact_phone
+      label: Contact Phone
+      hint: Phone number for questions
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: bid_submission_date
+      label: Bid Submission Date
+      hint: Date of this submission
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: bid_deadline
+      label: Bid Deadline
+      hint: Project bid deadline date
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: document_type
+      label: Document Type Being Submitted
+      hint: Select the type of document
+      type: select_one
+      options:
+      - Complete Bid Package
+      - Preliminary Bid
+      - Revised Bid
+      - Supplemental Documents
+      - Clarification Request
+      - Withdrawal Notice
+      required: true
+    - id: 11
+      name: bid_amount
+      label: Total Bid Amount
+      hint: Total dollar amount of bid
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: project_timeline
+      label: Proposed Project Timeline
+      hint: Estimated completion time in days or weeks
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: bid_documents
+      label: Bid Documents Upload
+      hint: Upload your bid documents and proposals
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: drawings_included
+      label: Drawings Included
+      hint: Are drawings part of your submission
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: specifications_included
+      label: Specifications Included
+      hint: Are specifications included
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: bonding_capacity
+      label: Bonding Capacity
+      hint: Maximum bond amount available
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: insurance_coverage
+      label: Insurance Coverage Amount
+      hint: Total liability coverage amount
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: previous_experience
+      label: Relevant Previous Experience
+      hint: Describe similar projects completed
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: references_provided
+      label: References Provided
+      hint: Can you provide project references
+      type: select_one
+      options:
+      - Yes, Attached
+      - Yes, Available on Request
+      - false
+      required: false
+    - id: 20
+      name: special_conditions
+      label: Special Conditions or Exceptions
+      hint: Note any exceptions to bid requirements
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: bid_validity_period
+      label: Bid Validity Period
+      hint: How long is this bid valid
+      type: select_one
+      options:
+      - 30 days
+      - 60 days
+      - 90 days
+      - 120 days
+      - Other
+      required: true
+    - id: 22
+      name: authorized_signature
+      label: Authorized Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: signature_date
+      label: Signature Date
+      hint: Date of signature
+      type: date
+      options: []
+      required: true

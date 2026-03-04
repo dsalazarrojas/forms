@@ -1,0 +1,80 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: performance-appraisal-feedback-questionnaire
+    pages:
+    - id: 1
+      name: feedback_form
+      label: Feedback Form
+      hint: null
+      type: select_multiple
+      options:
+      - Feedback on performance
+      - Feedback on goals
+      - Feedback on job description
+      required: false
+    - id: 2
+      name: performance_goals
+      label: Performance and Goals
+      hint: null
+      type: select_one
+      options:
+      - Exceeds expectations
+      - Meets expectations
+      - Needs improvement
+      required: false
+    - id: 3
+      name: job_description
+      label: Job Description
+      hint: null
+      type: select_one
+      options:
+      - Too vague
+      - Too specific
+      - Just right
+      required: false
+    - id: 4
+      name: performance_criteria
+      label: Performance criteria
+      hint: Please specify the performance criteria that the employee is being appraised
+        on.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: feedback_comments
+      label: Feedback comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: recommended_developer_salary
+      label: Recommended Developer Salary
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: false
+    - id: 7
+      name: recommended_salary_increase
+      label: Recommended salary increase
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false

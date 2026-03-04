@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: Watched Content Feedback Form
+    pages:
+    - id: 1
+      name: video_rating
+      label: Video Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: rating_comment
+      label: Rating Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: watched_content_type
+      label: Watched Content Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Video''}'
+      - '{''id'': 2, ''label'': ''Webinar''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: true
+    - id: 4
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

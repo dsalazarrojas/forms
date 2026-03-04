@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bed Bug Case Evaluation Form
+    pages:
+    - id: 1
+      name: section_reporting_party
+      label: -- Reporting Party Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: reporter_name
+      label: Name of Person Reporting
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_location_info
+      label: -- Incident Location --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: unit_number
+      label: Unit or Apartment Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: area_of_infestation
+      label: Specific Area(s) of Infestation
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Master Bedroom
+      - Guest Bedroom(s)
+      - Living Room Furniture
+      - Baseboards / Carpets
+      - Throughout Entire Unit
+      required: true
+    - id: 9
+      name: section_case_details
+      label: -- Case Evaluation and Evidence --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: initial_discovery_date
+      label: Date when activity was first noticed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: evidence_type_observed
+      label: Type of Evidence Observed
+      hint: null
+      type: select_multiple
+      options:
+      - Live Insects
+      - Shell Casings (Exuviae)
+      - Dark Spotting (Fecal matter)
+      - Blood Spots on Linens
+      - Bites on Inhabitants
+      required: true
+    - id: 12
+      name: infestation_severity_perception
+      label: Perceived Severity of Infestation
+      hint: null
+      type: select_one
+      options:
+      - Low (Few signs, localized)
+      - Medium (Visible signs in one room)
+      - High (Visible signs in multiple rooms)
+      - Extreme (Heavy activity observed)
+      required: true
+    - id: 13
+      name: previous_treatments_attempted
+      label: Have any previous treatments been attempted?
+      hint: Including DIY or professional
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: treatment_history_details
+      label: Details of previous treatments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: evidence_photos_count
+      label: Number of evidence photos available for upload
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: additional_observations
+      label: Additional Observations or Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: evaluation_request_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true

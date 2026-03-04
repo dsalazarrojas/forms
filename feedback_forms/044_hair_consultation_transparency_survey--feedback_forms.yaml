@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hair Consultation Transparency Survey
+    pages:
+    - id: 1
+      name: client_feedback
+      label: Client Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: consultation_type
+      label: Consultation Type
+      hint: null
+      type: select_one
+      options:
+      - On-site consultation
+      - Phone call consultation
+      - Video call consultation
+      required: true
+    - id: 3
+      name: price_clarity
+      label: Pricing Clarity
+      hint: null
+      type: select_multiple
+      options:
+      - Clear and transparent
+      - Somewhat clear
+      - Not clear
+      required: false
+    - id: 4
+      name: expectations
+      label: Expectations
+      hint: null
+      type: select_multiple
+      options:
+      - Price and services
+      - Service quality
+      - Consultation experience
+      required: false
+    - id: 5
+      name: satisfaction
+      label: Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 6
+      name: additional_comments
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Library Resources Assessment Form
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: library_resources
+      label: library_resources
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: library_hours_of_operation
+      label: library_hours_of_operation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: library_collections
+      label: library_collections
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: library_electronic_collection
+      label: library_electronic_collection
+      hint: null
+      type: select_multiple
+      options:
+      - Books and e-books
+      - Journals and articles
+      - Research databases
+      - Digital media
+      - Other (please specify) (text)
+      required: false
+    - id: 6
+      name: access_to_resources
+      label: access_to_resources
+      hint: null
+      type: select_one
+      options:
+      - Always available
+      - Sometimes available
+      - Not available
+      required: false
+    - id: 7
+      name: resource_availability_during_library_hours
+      label: resource_availability_during_library_hours
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 8
+      name: availability_of_resources_outside_library_hours
+      label: availability_of_resources_outside_library_hours
+      hint: null
+      type: select_multiple
+      options:
+      - Available
+      - Not available
+      required: false
+    - id: 9
+      name: availability_of_resources_at_other_sites
+      label: availability_of_resources_at_other_sites
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: availability_of_print_resources
+      label: availability_of_print_resources
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: access_to_faculty
+      label: access_to_faculty
+      hint: null
+      type: select_one
+      options:
+      - Faculty members
+      - Students
+      - Staff
+      required: false
+    - id: 12
+      name: access_to_library_resources_for_non_majors
+      label: access_to_library_resources_for_non_majors
+      hint: null
+      type: select_one
+      options:
+      - Non-majors
+      - Majors
+      - All students
+      required: false
+    - id: 13
+      name: access_to_library_resources_for_majors
+      label: access_to_library_resources_for_majors
+      hint: null
+      type: select_one
+      options:
+      - Majors
+      - Non-majors
+      - All students
+      required: false
+    - id: 14
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submit
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Other
+      required: false

@@ -1,0 +1,179 @@
+inputSchema:
+  type: object
+  properties:
+    title: Assignment Answer Submission Form
+    pages:
+    - id: 1
+      name: student_first_name
+      label: First Name
+      hint: Student first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_last_name
+      label: Last Name
+      hint: Student last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_id
+      label: Student ID Number
+      hint: Institutional student ID
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: student_email
+      label: Email Address
+      hint: Student email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: course_name
+      label: Course Name
+      hint: Name of the course
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: course_number
+      label: Course Number
+      hint: Course identification number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: instructor_name
+      label: Instructor Name
+      hint: Name of course instructor
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: assignment_title
+      label: Assignment Title
+      hint: Title or name of assignment
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: assignment_number
+      label: Assignment Number
+      hint: Which assignment number?
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: submission_date
+      label: Submission Date
+      hint: Date assignment is being submitted
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: submission_time
+      label: Submission Time
+      hint: Time of submission
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: due_date
+      label: Assignment Due Date
+      hint: Original due date
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: is_late_submission
+      label: Is This a Late Submission?
+      hint: Was it submitted after due date?
+      type: select_one
+      options:
+      - 'No'
+      - 'Yes'
+      required: true
+    - id: 14
+      name: days_late
+      label: Days Late (if applicable)
+      hint: Number of days past due date
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: submission_format
+      label: Submission File Format
+      hint: What format is the assignment?
+      type: select_one
+      options:
+      - PDF
+      - Word Document
+      - Text File
+      - Spreadsheet
+      - Presentation
+      - Image Files
+      - Code/Programming
+      - Audio/Video
+      - Other
+      required: true
+    - id: 16
+      name: file_submission
+      label: Upload Assignment File
+      hint: Attach your completed assignment
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: assignment_description
+      label: Brief Description of Submission
+      hint: Summary of what you are submitting
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: plagiarism_declaration
+      label: I confirm this work is my own original work
+      hint: Plagiarism statement
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: sources_cited
+      label: Sources or References Used
+      hint: Any sources you consulted
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: help_acknowledged
+      label: Any Help Received Acknowledged
+      hint: Tutoring, peer review, etc.
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: technical_issues
+      label: Any Technical Issues Experienced?
+      hint: Problems uploading or formatting?
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: additional_notes
+      label: Additional Comments or Notes
+      hint: Anything else for the instructor?
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: student_signature
+      label: Student Signature
+      hint: Type your name as signature
+      type: text
+      options: []
+      required: true

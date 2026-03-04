@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: Boat Trade Evaluation Survey
+    pages:
+    - id: 1
+      name: customer_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: customer_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: dealership_name
+      label: Name of Dealership or Broker
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: trade_evaluation_date
+      label: Date of Trade Evaluation
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: boat_traded_manufacturer
+      label: Boat Traded - Manufacturer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: boat_traded_model
+      label: Boat Traded - Model
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: boat_traded_year
+      label: Boat Traded - Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: trade_in_value_offered
+      label: Trade-In Value Offered
+      hint: Amount in dollars
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: trade_value_assessment
+      label: How fair was the trade-in value
+      hint: null
+      type: select_one
+      options:
+      - Very Fair
+      - Fair
+      - Somewhat Fair
+      - Unfair
+      - Very Unfair
+      required: true
+    - id: 11
+      name: evaluation_thoroughness
+      label: Was the evaluation thorough and detailed
+      hint: null
+      type: select_one
+      options:
+      - Very Thorough
+      - Thorough
+      - Somewhat Thorough
+      - Not Thorough
+      - Very Insufficient
+      required: true
+    - id: 12
+      name: inspector_professionalism
+      label: Professionalism of the Inspector
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very Poor
+      required: true
+    - id: 13
+      name: evaluation_explanation
+      label: Did they explain the evaluation process clearly
+      hint: null
+      type: select_one
+      options:
+      - Yes, very clear
+      - Yes, mostly clear
+      - Somewhat clear
+      - Not very clear
+      - Not at all clear
+      required: true
+    - id: 14
+      name: condition_assessment_accuracy
+      label: Accuracy of Condition Assessment
+      hint: Did they correctly identify boat condition
+      type: select_one
+      options:
+      - Very Accurate
+      - Mostly Accurate
+      - Somewhat Accurate
+      - Not Very Accurate
+      - Inaccurate
+      required: true
+    - id: 15
+      name: evaluation_time
+      label: Time taken for evaluation
+      hint: null
+      type: select_one
+      options:
+      - Less than 15 minutes
+      - 15-30 minutes
+      - 30-60 minutes
+      - 1-2 hours
+      - More than 2 hours
+      required: true
+    - id: 16
+      name: comparable_value_research
+      label: Did they research comparable boat values
+      hint: null
+      type: select_one
+      options:
+      - Yes, thoroughly researched
+      - Yes, some research
+      - Minimal research
+      - No research done
+      - Unsure
+      required: true
+    - id: 17
+      name: new_boat_purchase
+      label: Did you purchase a boat from them
+      hint: null
+      type: select_one
+      options:
+      - Yes, purchased
+      - No, purchased elsewhere
+      - Still deciding
+      - Did not purchase
+      required: true
+    - id: 18
+      name: new_boat_satisfaction
+      label: Satisfaction with new boat purchase
+      hint: If applicable
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      - Not Applicable
+      required: true
+    - id: 19
+      name: overall_experience_rating
+      label: Overall Trade-In Experience Rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very Poor
+      required: true
+    - id: 20
+      name: recommendation_likelihood
+      label: Would you recommend this dealer
+      hint: null
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Maybe
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 21
+      name: improvement_suggestions
+      label: Suggestions for Improvement
+      hint: How could they improve their service
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other feedback
+      type: text
+      options: []
+      required: false

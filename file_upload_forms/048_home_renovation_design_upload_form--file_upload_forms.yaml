@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: home_renovation_design_upload_form
+    pages:
+    - id: 1
+      name: file_type
+      label: File Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: file_size
+      label: File Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: upload_file
+      label: Upload File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: file_name
+      label: File Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: project_details
+      label: Project Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: designer_name
+      label: Designer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: designer_phone
+      label: Designer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: designer_email
+      label: Designer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: contractor_name
+      label: Contractor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contractor_phone
+      label: Contractor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contractor_email
+      label: Contractor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false

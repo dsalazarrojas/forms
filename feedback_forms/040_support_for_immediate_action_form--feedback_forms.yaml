@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: Support For Immediate Action Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Enter your name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: request_type
+      label: Request type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: request_description
+      label: Description of the request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_information
+      label: Contact information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: urgent_level
+      label: Level of urgency
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 7
+      name: requested_action
+      label: Action requested
+      hint: null
+      type: text
+      options: []
+      required: false

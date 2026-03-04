@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare Experience Review Request Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: visit_date
+      label: Visit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: rating
+      label: Rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Neutral
+      - Bad
+      - Very Bad
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - Emergency
+      - Family
+      - Cardiology
+      - Orthopedic
+      - Pediatrics
+      - Dermatology
+      - Neurology
+      - Neurosurgery
+      - Urology
+      required: false
+    - id: 8
+      name: question_1
+      label: What were you experiencing before coming in?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: question_2
+      label: How did your visit go?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: question_3
+      label: What can we improve?
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,187 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Arbitration Feedback Survey
+    pages:
+    - id: 1
+      name: section_respondent_info
+      label: -- Respondent Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_name
+      label: Your Full Name
+      hint: Optional - for follow-up purposes
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: case_number
+      label: Case Number
+      hint: For identification purposes
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: respondent_role
+      label: Your Role in the Arbitration
+      hint: null
+      type: select_one
+      options:
+      - Claimant
+      - Respondent
+      - Legal Representative
+      - Witness
+      - Observer
+      required: true
+    - id: 5
+      name: section_overall_experience
+      label: -- Overall Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: overall_satisfaction
+      label: Overall satisfaction with arbitration process
+      hint: null
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Dissatisfied
+      - Neutral
+      - Satisfied
+      - Very Satisfied
+      required: true
+    - id: 7
+      name: fairness_of_process
+      label: The process was fair and impartial
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 8
+      name: outcome_satisfaction
+      label: Satisfaction with the outcome
+      hint: null
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Dissatisfied
+      - Neutral
+      - Satisfied
+      - Very Satisfied
+      required: true
+    - id: 9
+      name: section_arbitrator
+      label: -- Arbitrator Performance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: arbitrator_preparedness
+      label: Arbitrator was well-prepared and knowledgeable
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 11
+      name: arbitrator_communication
+      label: Arbitrator communicated decisions clearly
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 12
+      name: section_process_efficiency
+      label: -- Process Efficiency --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: process_timely
+      label: The arbitration process was timely
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 14
+      name: cost_reasonableness
+      label: Arbitration costs were reasonable
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 15
+      name: section_improvements
+      label: -- Areas for Improvement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: challenges_encountered
+      label: Main challenges or issues encountered
+      hint: Describe any problems you faced
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: improvement_suggestions
+      label: Suggestions for process improvement
+      hint: How could the process be better?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: recommend_arbitration
+      label: Would you recommend arbitration to others?
+      hint: null
+      type: select_one
+      options:
+      - Definitely Not
+      - Probably Not
+      - Undecided
+      - Probably Yes
+      - Definitely Yes
+      required: true

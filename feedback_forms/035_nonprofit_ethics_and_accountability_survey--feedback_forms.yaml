@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nonprofit Ethics And Accountability Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Welcome to our survey!
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: ethics_practices
+      label: What are your concerns about nonprofit ethics?
+      hint: null
+      type: select_multiple
+      options:
+      - Trust
+      - Transparency
+      - Accountability
+      - Integrity
+      - Fairness
+      required: false
+    - id: 3
+      name: accountability_measures
+      label: What accountability measures would you like to see implemented?
+      hint: null
+      type: select_multiple
+      options:
+      - Financial
+      - Performance
+      - Governance
+      - Communication
+      - Conflict of Interest
+      required: false
+    - id: 4
+      name: organizational_culture
+      label: What are your concerns about our organizational culture?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: survey_experience
+      label: How would you rate your overall experience with this survey?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: contact_us
+      label: How would you like to be contacted about your feedback?
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Mail
+      - Online
+      required: false
+    - id: 7
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,153 @@
+inputSchema:
+  type: object
+  properties:
+    title: Flood Information Session Feedback
+    pages:
+    - id: 1
+      name: session_id
+      label: Session ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: rating
+      label: Rating
+      hint: Rate this session from 1 to 5
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: topics
+      label: Topics
+      hint: What topics would you like to see covered in future sessions?
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: session_rating_average
+      label: Session Rating Average
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: topic_rating_average
+      label: Topic Rating Average
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_manager_rating
+      label: Emergency Manager Rating
+      hint: How would you rate the emergency manager's performance?
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 12
+      name: emergency_manager_performance
+      label: Emergency Manager Performance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: local_authority_rating
+      label: Local Authority Rating
+      hint: How would you rate the local authority's performance?
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 14
+      name: local_authority_performance
+      label: Local Authority Performance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: community_group_rating
+      label: Community Group Rating
+      hint: How would you rate the community group's performance?
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 16
+      name: community_group_performance
+      label: Community Group Performance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: rating_scale
+      label: Rating Scale
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: rating_scale_help
+      label: Rating Scale Help
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submitted_on
+      label: Submitted on
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: submitted_by
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false

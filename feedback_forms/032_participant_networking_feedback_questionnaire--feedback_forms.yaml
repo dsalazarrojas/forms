@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Participant Networking Feedback Questionnaire
+    pages:
+    - id: 1
+      name: event_details
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_details_0
+      label: Event Location
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''On-site''}'
+      - '{''value'': ''Virtual''}'
+      - '{''value'': ''Hybrid''}'
+      required: false
+    - id: 3
+      name: event_details_1
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Networking''}'
+      - '{''value'': ''Educational''}'
+      - '{''value'': ''Social''}'
+      required: false
+    - id: 4
+      name: event_details_2
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: event_details_3
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: networking_details
+      label: Networking Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: networking_details_0
+      label: What did you do at the event?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Networked with speakers''}'
+      - '{''value'': ''Attended sessions''}'
+      - '{''value'': ''Spoke at sessions''}'
+      - '{''value'': ''Other (please specify)''}'
+      required: false
+    - id: 8
+      name: networking_details_1
+      label: What do you hope to accomplish at this event?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Network with attendees''}'
+      - '{''value'': ''Engage with speakers''}'
+      - '{''value'': ''Learn from others''}'
+      - '{''value'': ''Other (please specify)''}'
+      required: false
+    - id: 9
+      name: networking_details_2
+      label: How would you rate your overall experience?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: networking_details_3
+      label: What did you find most valuable at the event?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false

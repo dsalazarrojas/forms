@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: media_new_series_pilot_opinion_survey_form
+    pages:
+    - id: 1
+      name: pilot_opinion_survey
+      label: New Series Pilot Opinion Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: viewing_experience
+      label: How would you rate the viewing experience?
+      hint: Rate on a scale of 1-5
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: overall_reception
+      label: Overall reception
+      hint: Rate on a scale of 1-5
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: interest_in_future_episodes
+      label: Would you be interested in future episodes?
+      hint: null
+      type: select_multiple
+      options:
+      - Interest in future episodes
+      - Not interested in future episodes
+      - Undecided on future episodes
+      required: false
+    - id: 5
+      name: suggestions_for_improvement
+      label: What suggestions do you have for improvement?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: Your email address
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: Your phone number
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_time_watched
+      label: Date and time watched
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_watched
+      label: Time watched
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: media_consumption
+      label: How do you typically consume media?
+      hint: null
+      type: select_one
+      options:
+      - Watching TV shows on a computer or mobile device
+      - Watching TV shows on a TV set
+      - Listening to podcasts or radio
+      - Reading articles or books
+      - Other
+      required: false
+    - id: 11
+      name: media_consumption_frequency
+      label: How often do you typically consume media?
+      hint: null
+      type: select_one
+      options:
+      - Every day
+      - Several times a week
+      - Occasionally
+      - Rarely
+      - Never
+      required: false

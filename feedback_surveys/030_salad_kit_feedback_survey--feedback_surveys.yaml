@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: Salad Kit Feedback Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Welcome to our survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: meal_kit_name
+      label: What is your meal kit name?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: satisfaction_level
+      label: How would you rate your satisfaction level with this meal kit?
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      required: false
+    - id: 4
+      name: product_quality
+      label: What did you think of the quality of the products in this meal kit?
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 5
+      name: value_for_money
+      label: How would you rate the value for money of this meal kit?
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Bad
+      required: false
+    - id: 6
+      name: price
+      label: How much did you pay for this meal kit?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: contact_method
+      label: How did you get in touch with us?
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Online chat
+      - In-person
+      required: false
+    - id: 8
+      name: comments
+      label: Do you have any comments about this meal kit?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_us
+      label: Would you like to be contacted for further discussion?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: email
+      label: What is your email address?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: What is your phone number?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: social_media
+      label: Which social media do you use?
+      hint: null
+      type: select_multiple
+      options:
+      - Facebook
+      - Twitter
+      - Instagram
+      - LinkedIn
+      - Other
+      required: false
+    - id: 13
+      name: follow_up
+      label: Would you like to be contacted for future product and marketing decisions?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: follow_up_frequency
+      label: How often would you like to be contacted?
+      hint: null
+      type: select_multiple
+      options:
+      - Every day
+      - Every week
+      - Every month
+      - Every 3 months
+      - Never
+      required: false

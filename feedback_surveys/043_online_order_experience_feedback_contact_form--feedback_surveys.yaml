@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: online_order_experience_feedback_contact_form
+    pages:
+    - id: 1
+      name: feedback_form
+      label: Feedback form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_info
+      label: customer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: order_info
+      label: order
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_method
+      label: contact method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Phone''}'
+      - '{''label'': ''Email''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 5
+      name: contact_method_other
+      label: other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: feedback_details
+      label: details
+      hint: Please provide any additional information about your experience
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: comment
+      label: comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: rating
+      label: rating
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Poor''}'
+      - '{''label'': ''Bad''}'
+      required: false
+    - id: 14
+      name: rating_details
+      label: rating_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: order_id
+      label: order_id
+      hint: null
+      type: text
+      options: []
+      required: false

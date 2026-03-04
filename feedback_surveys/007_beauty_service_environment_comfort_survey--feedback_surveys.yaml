@@ -1,0 +1,244 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Beauty Service Environment Comfort Survey
+    pages:
+      - id: 1
+        name: client_name
+        label: Full Name
+        hint: Optional - you may remain anonymous
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: visit_date
+        label: Date of Visit
+        hint: When did you visit our salon
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: service_received
+        label: Service Received
+        hint: What service did you receive today
+        type: select_one
+        options:
+          - Haircut and Style
+          - Hair Color
+          - Manicure
+          - Pedicure
+          - Facial
+          - Massage
+          - Waxing
+          - Makeup
+          - Multiple Services
+          - Other
+        required: true
+      - id: 4
+        name: overall_comfort
+        label: Overall Comfort Level
+        hint: How comfortable did you feel during your visit
+        type: select_one
+        options:
+          - Very Comfortable
+          - Comfortable
+          - Neutral
+          - Uncomfortable
+          - Very Uncomfortable
+        required: true
+      - id: 5
+        name: temperature_comfort
+        label: Temperature Comfort
+        hint: How comfortable was the temperature in the salon
+        type: select_one
+        options:
+          - Too Cold
+          - Slightly Cold
+          - Just Right
+          - Slightly Warm
+          - Too Warm
+        required: true
+      - id: 6
+        name: seating_comfort
+        label: Seating Comfort
+        hint: How comfortable was your seating
+        type: select_one
+        options:
+          - Very Comfortable
+          - Comfortable
+          - Neutral
+          - Uncomfortable
+          - Very Uncomfortable
+        required: true
+      - id: 7
+        name: lighting_comfort
+        label: Lighting Comfort
+        hint: How would you rate the lighting
+        type: select_one
+        options:
+          - Too Dim
+          - Slightly Dim
+          - Just Right
+          - Slightly Bright
+          - Too Bright
+        required: true
+      - id: 8
+        name: noise_level
+        label: Noise Level
+        hint: How would you describe the noise level
+        type: select_one
+        options:
+          - Too Quiet
+          - Pleasantly Quiet
+          - Just Right
+          - Somewhat Loud
+          - Too Loud
+        required: true
+      - id: 9
+        name: music_preference
+        label: Music Preference
+        hint: How was the background music
+        type: select_one
+        options:
+          - Too Loud
+          - Slightly Loud
+          - Just Right
+          - Too Soft
+          - No Music Preferred
+        required: false
+      - id: 10
+        name: cleanliness_rating
+        label: Cleanliness Rating
+        hint: How clean was the facility
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+        required: true
+      - id: 11
+        name: waiting_area_comfort
+        label: Waiting Area Comfort
+        hint: How comfortable was the waiting area
+        type: select_one
+        options:
+          - Very Comfortable
+          - Comfortable
+          - Neutral
+          - Uncomfortable
+          - Very Uncomfortable
+          - Did Not Use
+        required: true
+      - id: 12
+        name: privacy_level
+        label: Privacy Level
+        hint: How was your sense of privacy during service
+        type: select_one
+        options:
+          - Very Private
+          - Adequately Private
+          - Neutral
+          - Not Private Enough
+          - No Privacy
+        required: true
+      - id: 13
+        name: aroma_scent
+        label: Aroma and Scent
+        hint: How would you rate the scents in the salon
+        type: select_one
+        options:
+          - Very Pleasant
+          - Pleasant
+          - Neutral
+          - Unpleasant
+          - Overwhelming
+          - No Scent Noticed
+        required: false
+      - id: 14
+        name: bathroom_cleanliness
+        label: Bathroom Cleanliness
+        hint: How clean was the bathroom
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+          - Did Not Use
+        required: true
+      - id: 15
+        name: equipment_condition
+        label: Equipment and Tools Condition
+        hint: How was the condition of equipment and tools
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+        required: true
+      - id: 16
+        name: ventilation
+        label: Ventilation and Air Quality
+        hint: How was the air quality and ventilation
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below Average
+          - Poor
+        required: true
+      - id: 17
+        name: accessibility
+        label: Accessibility
+        hint: How accessible was the facility
+        type: select_one
+        options:
+          - Very Accessible
+          - Accessible
+          - Neutral
+          - Difficult to Access
+          - Not Accessible
+        required: false
+      - id: 18
+        name: favorite_feature
+        label: Favorite Feature of Our Environment
+        hint: What did you like most about our salon environment
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: improvement_suggestions
+        label: Suggestions for Improvement
+        hint: What could we improve about our environment
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: will_return
+        label: Will You Return
+        hint: Based on your comfort experience will you return
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Maybe
+          - Probably No
+          - Definitely No
+        required: true

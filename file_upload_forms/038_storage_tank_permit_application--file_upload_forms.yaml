@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Storage Tank Permit Application
+    pages:
+    - id: 1
+      name: first_page
+      label: first_page
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: facility_info
+      label: Facility Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: tank_details
+      label: Tank Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: submit_form
+      label: Submit Form
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: file_uploads
+      label: File Uploads
+      hint: null
+      type: text
+      options: []
+      required: false

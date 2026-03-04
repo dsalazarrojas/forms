@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Uniform Drawing Submission Form
+    pages:
+    - id: 1
+      name: artist_info
+      label: Artist Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: drawing_info
+      label: Drawing Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: upload_file
+      label: File Upload
+      hint: null
+      type: number
+      options: []
+      required: false

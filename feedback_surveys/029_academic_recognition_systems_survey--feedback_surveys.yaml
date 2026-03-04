@@ -1,0 +1,161 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Recognition Systems Survey
+    pages:
+    - id: 1
+      name: recognition_systems_intro
+      label: Academic Recognition Systems Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_role
+      label: Your Role in the Institution
+      hint: What is your primary role?
+      type: select_one
+      options:
+      - Faculty member
+      - Graduate student
+      - Undergraduate student
+      - Administrative staff
+      - Postdoctoral researcher
+      - Visiting scholar
+      - Other
+      required: true
+    - id: 3
+      name: years_at_institution
+      label: Years at This Institution
+      hint: How long have you been affiliated with this institution?
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: department_college
+      label: Department or College
+      hint: Your primary department or college affiliation
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: awareness_of_recognition_programs
+      label: Awareness of Recognition Programs
+      hint: How aware are you of the recognition programs available at your institution?
+      type: select_one
+      options:
+      - Very aware
+      - Somewhat aware
+      - Minimally aware
+      - Not aware at all
+      required: true
+    - id: 6
+      name: participation_in_recognition_programs
+      label: Participation in Recognition Programs
+      hint: Have you ever participated in any recognition programs?
+      type: select_one
+      options:
+      - Yes, as recipient
+      - Yes, as nominator
+      - Yes, as evaluator
+      - No, but interested
+      - No, not interested
+      required: true
+    - id: 7
+      name: variety_of_recognition_types
+      label: Variety of Recognition Types
+      hint: How satisfied are you with the variety of recognition types offered? (1-5
+        scale)
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: frequency_of_recognition_opportunities
+      label: Frequency of Recognition Opportunities
+      hint: How satisfied are you with the frequency of recognition opportunities?
+        (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: transparency_of_selection_process
+      label: Transparency of Selection Process
+      hint: How transparent is the selection process for recognition? (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: adequacy_of_recognition_rewards
+      label: Adequacy of Recognition Rewards
+      hint: How adequate are the rewards or recognition given? (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: impact_of_recognition_on_motivation
+      label: Impact of Recognition on Motivation
+      hint: How much does recognition motivate you in your work? (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: recognition_systems_challenges
+      label: Challenges with Recognition Systems
+      hint: What challenges do you see with current recognition systems? (Select all
+        that apply)
+      type: select_multiple
+      options:
+      - Limited categories
+      - Inadequate rewards
+      - Poor visibility
+      - Complex nomination process
+      - Lack of transparency
+      - Infrequent opportunities
+      - Bias in selection
+      - None
+      required: false
+    - id: 13
+      name: preferred_recognition_methods
+      label: Preferred Recognition Methods
+      hint: What methods of recognition do you prefer? (Select all that apply)
+      type: select_multiple
+      options:
+      - Public ceremonies
+      - Monetary awards
+      - Professional development opportunities
+      - Certificates
+      - Published recognition
+      - Peer nominations
+      - Student nominations
+      - Other
+      required: false
+    - id: 14
+      name: recognition_impact_on_retention
+      label: Recognition Impact on Retention
+      hint: How much does recognition impact your decision to stay at the institution?
+        (1-5 scale)
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: suggestions_for_improvement
+      label: Suggestions for Improvement
+      hint: What would improve the recognition systems at your institution?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: additional_recognition_programs_desired
+      label: Additional Recognition Programs Desired
+      hint: What additional recognition programs would you like to see?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: overall_satisfaction_with_recognition
+      label: Overall Satisfaction with Recognition
+      hint: How satisfied are you overall with recognition at your institution? (1-5
+        scale)
+      type: number
+      options: []
+      required: true

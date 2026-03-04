@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: theme_park_feedback_form
+    pages:
+    - id: 1
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: favorite_ride
+      label: favorite_ride
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''The Incredible Journey''}'
+      - '{''label'': ''Space Blasters''}'
+      - '{''label'': ''Wild West''}'
+      required: false
+    - id: 3
+      name: park_staff_interaction
+      label: Park Staff Interaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: ride_satisfaction
+      label: Ride Satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Very Satisfied''}'
+      - '{''label'': ''Somewhat Satisfied''}'
+      - '{''label'': ''Not at All Satisfied''}'
+      required: true
+    - id: 5
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

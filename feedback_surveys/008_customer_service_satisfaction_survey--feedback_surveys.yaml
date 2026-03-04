@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Service Satisfaction Survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: Intro
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_quality
+      label: Service
+      hint: How would you rate the service quality?
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 3
+      name: communication_skills
+      label: Communication
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: resolution
+      label: Resolution
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 5
+      name: time_response
+      label: Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - phone
+      - email
+      - online
+      - other
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: online
+      label: Online
+      hint: null
+      type: select_one
+      options:
+      - online
+      - online
+      - online
+      - online
+      - online
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: customer_id
+      label: prophets
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: customer_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: customer_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: customer_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: customer_online
+      label: Online
+      hint: null
+      type: select_one
+      options:
+      - online
+      - online
+      - online
+      - online
+      - online
+      required: false
+    - id: 16
+      name: feedback_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

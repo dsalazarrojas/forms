@@ -1,0 +1,167 @@
+inputSchema:
+  type: object
+  properties:
+    title: virtual_workshop_feedback_form
+    pages:
+    - id: 1
+      name: virtual_workshop_id
+      label: virtual_workshop_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: user_id
+      label: user_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: event_id
+      label: event_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: feedback_type
+      label: feedback_type
+      hint: null
+      type: select_one
+      options:
+      - Event
+      - Session
+      required: false
+    - id: 5
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: comment
+      label: comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: created_at
+      label: created_at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: updated_at
+      label: updated_at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: submitted_at
+      label: submitted_at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: session_id
+      label: session_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: session_rating
+      label: session_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: event_rating
+      label: event_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: overall_rating
+      label: overall_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: suggestion
+      label: suggestion
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: session_suggestion
+      label: session_suggestion
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: event_suggestion
+      label: event_suggestion
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: overall_suggestion
+      label: overall_suggestion
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: session_attendance
+      label: session_attendance
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 21
+      name: event_attendance
+      label: event_attendance
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 22
+      name: overall_attendance
+      label: overall_attendance
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

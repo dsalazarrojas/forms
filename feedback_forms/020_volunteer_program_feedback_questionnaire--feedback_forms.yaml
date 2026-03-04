@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Volunteer Program Feedback Questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: welcome_to_the_volunteer_program
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: volunteer_program_participation
+      label: how_long_have_you_been_participating_in_the_volunteer_program
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: volunteer_role
+      label: what_was_your_volunteer_role
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: feedback_areas
+      label: overall_feeling
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: volunteer_program_experience
+      label: what_did_you_find_most_helpful
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: areas_of_improvement
+      label: areas_for_improvement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: participant_support
+      label: did_you_receive_the_right_support
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: future_volunteer_programs
+      label: would_you_participate_in_further_volunteer_programs
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: overall_satisfaction
+      label: overall_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false

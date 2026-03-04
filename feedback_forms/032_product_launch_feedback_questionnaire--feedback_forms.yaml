@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: product_launch_feedback_questionnaire
+    pages:
+    - id: 1
+      name: product_launch_feedback
+      label: product launch feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: product_launch_rating
+      label: product launch rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: product_launch_implementation_date
+      label: product launch implementation date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: product_launch_implementation_date_range
+      label: product launch implementation date range
+      hint: null
+      type: select_one
+      options:
+      - 1-2 weeks
+      - 2-4 weeks
+      - More than 4 weeks
+      required: false
+    - id: 5
+      name: product_launch_feedback_form_fields
+      label: product launch feedback form fields
+      hint: null
+      type: select_multiple
+      options:
+      - Field 1
+      - Field 2
+      - Field 3
+      required: false
+    - id: 6
+      name: product_launch_improvement_suggestions
+      label: product launch improvement suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: product_launch_improvement_suggestions_email
+      label: product launch improvement suggestions email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: product_launch_improvement_suggestions_phone
+      label: product launch improvement suggestions phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: product_launch_improvement_suggestions_note
+      label: product launch improvement suggestions note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: product_launch_improvement_suggestions_attachment
+      label: product launch improvement suggestions attachment
+      hint: null
+      type: text
+      options: []
+      required: false

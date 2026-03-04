@@ -1,0 +1,52 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Taste Testing Form
+    pages:
+    - id: 1
+      name: food_taste_testing_form
+      label: Food Taste Testing Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: taste_rating
+      label: Taste Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: food_description
+      label: Food Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: like_dislike_scale
+      label: Like/Dislike Scale
+      hint: null
+      type: select_multiple
+      options:
+      - Strongly Like
+      - Somewhat Like
+      - Neither
+      - Somewhat Dislike
+      - Strongly Dislike
+      required: false

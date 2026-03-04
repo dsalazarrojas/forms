@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: P2P Crypto Trading Feedback
+    pages:
+    - id: 1
+      name: trade_title
+      label: Trade
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rating
+      label: Rate
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Bad
+      - Good
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: trade_type
+      label: Type of Trade
+      hint: null
+      type: select_multiple
+      options:
+      - P2P
+      - Escrow
+      - Hybrid
+      required: false
+    - id: 5
+      name: trade_date
+      label: Trade
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: trade_time
+      label: Trade Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: comment
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: security
+      label: Security
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 9
+      name: product
+      label: Product
+      hint: null
+      type: select_multiple
+      options:
+      - Binance
+      - Huobi
+      - FTX
+      required: false
+    - id: 10
+      name: community
+      label: Community
+      hint: null
+      type: select_multiple
+      options:
+      - Discord
+      - Telegram
+      - Reddit
+      required: false
+    - id: 11
+      name: platform
+      label: Platform
+      hint: null
+      type: select_multiple
+      options:
+      - Coinbase
+      - Binance
+      - Kraken
+      required: false
+    - id: 12
+      name: trade_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Failed
+      - Pending
+      required: false
+    - id: 13
+      name: trade_amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: trade_fees
+      label: Fees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: trade_fees_type
+      label: Fees Type
+      hint: null
+      type: select_one
+      options:
+      - Fixed
+      - Percentage
+      - Variable
+      required: false
+    - id: 16
+      name: trade_fees_amount
+      label: Fees Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: trade_fees_currency
+      label: Fees Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - BTC
+      required: false
+    - id: 18
+      name: support
+      label: Support
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - Live Chat
+      required: false
+    - id: 19
+      name: trade_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: trade_rating_1
+      label: Rating 1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: trade_rating_2
+      label: Rating 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: trade_rating_3
+      label: Rating 3
+      hint: null
+      type: number
+      options: []
+      required: false

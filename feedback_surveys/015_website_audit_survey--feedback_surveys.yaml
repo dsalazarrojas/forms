@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Website Audit Survey
+    pages:
+    - id: 1
+      name: website_performance
+      label: What is your overall website performance?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Poor
+      required: false
+    - id: 2
+      name: website_features
+      label: How would you rate website features?
+      hint: null
+      type: select_multiple
+      options:
+      - Navigation
+      - Content
+      - Aesthetics
+      - Usability
+      required: false
+    - id: 3
+      name: website_content
+      label: What is your primary reason for visiting our website?
+      hint: null
+      type: select_one
+      options:
+      - To learn more about our services
+      - To get in touch with us
+      - For entertainment
+      - Other
+      required: false
+    - id: 4
+      name: user_experience
+      label: How would you rate your overall experience?
+      hint: null
+      type: select_one
+      options:
+      - Positive
+      - Negative
+      - Neutral
+      required: false
+    - id: 5
+      name: website_navigation
+      label: What do you think about our website navigation?
+      hint: null
+      type: select_one
+      options:
+      - Easy to navigate
+      - Difficult to navigate
+      - Not navigated at all
+      required: false
+    - id: 6
+      name: time_spent_on_site
+      label: How much time did you spend on our website?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: return_visit
+      label: How likely are you to return to our website?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: feedback
+      label: Do you have any feedback on our website?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: What is your email?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: contact_number
+      label: What is your phone number?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: File Record And Update Form
+    pages:
+    - id: 1
+      name: file_record_and_update_form_1
+      label: file_record_and_update_form_1_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: file_record_and_update_form_2
+      label: file_record
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: file_update_form
+      label: file_update_form
+      hint: Please select one option
+      type: select_one
+      options:
+      - '{''text'': ''option_1'', ''value'': ''option_1''}'
+      - '{''text'': ''option_2'', ''value'': ''option_2''}'
+      required: true
+    - id: 4
+      name: file_revision_date
+      label: file_revision_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: file_revision_time
+      label: file_revision_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: file_notes
+      label: file_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: file_email
+      label: file_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: file_phone
+      label: file_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: file_recorded_by
+      label: file_recorded_by
+      hint: null
+      type: select_multiple
+      options:
+      - '{''text'': ''option_1'', ''value'': ''option_1''}'
+      - '{''text'': ''option_2'', ''value'': ''option_2''}'
+      required: true
+    - id: 10
+      name: file_update_date
+      label: file_update_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: file_update_time
+      label: file_update_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: file_status
+      label: file_status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''text'': ''option_1'', ''value'': ''option_1''}'
+      - '{''text'': ''option_2'', ''value'': ''option_2''}'
+      required: true
+    - id: 13
+      name: file_version
+      label: file_version
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: file_update_notes
+      label: file_update_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: file_recorded_by_name
+      label: file_recorded_by_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: file_update_by
+      label: file_update_by
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''option_1'', ''value'': ''option_1''}'
+      - '{''text'': ''option_2'', ''value'': ''option_2''}'
+      required: true
+    - id: 17
+      name: file_update_by_name
+      label: file_update_by_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: file_file_type
+      label: file_file_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''text'': ''option_1'', ''value'': ''option_1''}'
+      - '{''text'': ''option_2'', ''value'': ''option_2''}'
+      required: true
+    - id: 19
+      name: file_file_name
+      label: file_file_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: file_file_size
+      label: file_file_size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: file_file_description
+      label: file_file_description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: file_file_url
+      label: file_file_url
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: file_upload_by
+      label: file_upload_by
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''option_1'', ''value'': ''option_1''}'
+      - '{''text'': ''option_2'', ''value'': ''option_2''}'
+      required: true
+    - id: 24
+      name: file_upload_date
+      label: file_upload_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: file_upload_time
+      label: file_upload_time
+      hint: null
+      type: time
+      options: []
+      required: true

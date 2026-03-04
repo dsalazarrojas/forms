@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: News Entry Submission Form
+    pages:
+    - id: 1
+      name: submit_news_entry
+      label: Submit News Entry
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: news_entry_details
+      label: News Entry Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: news_entry_image
+      label: News Entry Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: newsroom_editor
+      label: Newsroom Editor
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''editor1''}'
+      - '{''id'': 2, ''name'': ''editor2''}'
+      - '{''id'': 3, ''name'': ''editor3''}'
+      required: false
+    - id: 5
+      name: news_entry_attachments
+      label: News Entry Attachments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false

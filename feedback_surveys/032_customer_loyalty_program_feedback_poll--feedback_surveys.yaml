@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Loyalty Program Feedback Poll
+    pages:
+    - id: 1
+      name: customer_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: program_name
+      label: Program Name
+      hint: Write your program name (e.g. "Customer Loyalty")
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: rating
+      label: Rating
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: date_joined
+      label: Date Joined
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_last_survey
+      label: Time Last Survey
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: contact_preferred
+      label: Contact Preferred
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 9
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email_preferred
+      label: Email Preferred
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 11
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: age_range
+      label: Age Range
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 14
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 15
+      name: survey_completed
+      label: Survey Completed
+      hint: null
+      type: time
+      options: []
+      required: false

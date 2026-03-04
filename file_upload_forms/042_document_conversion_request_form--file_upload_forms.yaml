@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Document Conversion Request Form
+    pages:
+    - id: 1
+      name: document_conversion_request_form
+      label: Document Conversion Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: input_file
+      label: Input File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: output_format
+      label: Output Format
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: document_conversion_method
+      label: Conversion Method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: file_name
+      label: File Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: file_size
+      label: File Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: upload_date
+      label: Upload Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: upload_time
+      label: Upload Time
+      hint: null
+      type: time
+      options: []
+      required: false

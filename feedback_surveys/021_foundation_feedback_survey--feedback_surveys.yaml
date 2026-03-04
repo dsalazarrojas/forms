@@ -1,0 +1,47 @@
+inputSchema:
+  type: object
+  properties:
+    title: Foundation Feedback Survey
+    pages:
+    - id: 1
+      name: survey_title
+      label: Foundation Feedback Survey
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: feedback_question
+      label: What was your experience like?
+      hint: Please describe your experience
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: satisfaction_score
+      label: Satisfaction Score (1-5)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Your Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Your Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: suggestions_for_improvement
+      label: Suggestions for improvement
+      hint: null
+      type: text
+      options: []
+      required: false

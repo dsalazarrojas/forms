@@ -1,0 +1,225 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Cocktail Equipment Feedback Form
+    pages:
+    - id: 1
+      name: section_respondent_info
+      label: -- Respondent Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: bar_name
+      label: Bar or Establishment Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: profession
+      label: Profession
+      hint: null
+      type: select_one
+      options:
+      - Professional bartender
+      - Home bartender
+      - Enthusiast
+      - Student
+      - Other
+      required: true
+    - id: 6
+      name: section_equipment_details
+      label: -- Equipment Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: equipment_name
+      label: Equipment Name or Product
+      hint: What equipment are you reviewing?
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: equipment_category
+      label: Equipment Category
+      hint: null
+      type: select_one
+      options:
+      - Shakers and mixing tools
+      - Jiggers and measures
+      - Glassware
+      - Strainers and filters
+      - Bottle pourers
+      - Ice tools
+      - Barware sets
+      - Other
+      required: true
+    - id: 9
+      name: manufacturer
+      label: Manufacturer or Brand
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: purchase_date
+      label: Date of Purchase
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: section_experience
+      label: -- User Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: duration_used
+      label: How Long Have You Used This Equipment?
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 month
+      - 1-3 months
+      - 3-6 months
+      - 6-12 months
+      - Over 1 year
+      required: true
+    - id: 13
+      name: frequency_use
+      label: Frequency of Use
+      hint: How often do you use it?
+      type: select_one
+      options:
+      - Daily
+      - Several times a week
+      - Weekly
+      - Occasionally
+      - Rarely
+      required: true
+    - id: 14
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: Rate your satisfaction
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 15
+      name: section_quality
+      label: -- Quality and Performance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: quality_rating
+      label: Quality and Durability
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very poor
+      required: true
+    - id: 17
+      name: ease_of_use
+      label: Ease of Use
+      hint: null
+      type: select_one
+      options:
+      - Very easy
+      - Easy
+      - Neutral
+      - Difficult
+      - Very difficult
+      required: true
+    - id: 18
+      name: value_for_money
+      label: Value for Money
+      hint: Is the price fair?
+      type: select_one
+      options:
+      - Excellent value
+      - Good value
+      - Adequate value
+      - Poor value
+      - Very poor value
+      required: true
+    - id: 19
+      name: section_feedback
+      label: -- Detailed Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: strengths
+      label: What do you like about this equipment?
+      hint: Describe the strengths
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: weaknesses
+      label: What could be improved?
+      hint: Areas for improvement
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: would_recommend
+      label: Would you recommend this equipment?
+      hint: null
+      type: select_one
+      options:
+      - Definitely
+      - Probably
+      - Maybe
+      - Probably not
+      - Definitely not
+      required: true
+    - id: 23
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other feedback
+      type: text
+      options: []
+      required: false

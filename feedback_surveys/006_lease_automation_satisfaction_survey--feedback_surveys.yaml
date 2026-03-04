@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lease Automation Satisfaction Survey
+    pages:
+    - id: 1
+      name: lease_automation_survey
+      label: Lease Automation Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: feedback_lease_automation
+      label: Feedback On Lease Automation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: lease_automation_important
+      label: How Important
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Very Unimportant''}'
+      - '{''value'': ''Somewhat Unimportant''}'
+      - '{''value'': ''Neutral''}'
+      - '{''value'': ''Somewhat Important''}'
+      - '{''value'': ''Very Important''}'
+      required: false
+    - id: 4
+      name: lease_automation_important_score
+      label: Important Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: lease_automation_improvement
+      label: Lease Automation Improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: finance_survey
+      label: Finance
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      - '{''value'': ''Maybe''}'
+      required: false
+    - id: 7
+      name: operations_survey
+      label: Operations
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      - '{''value'': ''Maybe''}'
+      required: false
+    - id: 8
+      name: lease_survey_automation_issues
+      label: Lease Automation Issues
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      - '{''value'': ''Maybe''}'
+      required: false

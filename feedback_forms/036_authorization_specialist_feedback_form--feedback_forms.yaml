@@ -1,0 +1,245 @@
+inputSchema:
+  type: object
+  properties:
+    title: Authorization Specialist Feedback Form
+    pages:
+    - id: 1
+      name: feedback_date
+      label: Feedback Date
+      hint: When you are providing feedback
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: respondent_name
+      label: Your Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: respondent_email
+      label: Email Address
+      hint: Your email contact
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: respondent_phone
+      label: Phone Number
+      hint: Your contact phone
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: facility_name
+      label: Facility or Provider Name
+      hint: Healthcare provider you work with
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: specialist_name
+      label: Authorization Specialist Name
+      hint: Name of specialist you are evaluating
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: interaction_date
+      label: Date of Recent Interaction
+      hint: When did you interact with specialist
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: interaction_type
+      label: Type of Interaction
+      hint: How did you interact
+      type: select_one
+      options:
+      - Phone Call
+      - Email
+      - In-Person
+      - Chat/Messaging
+      - Video Call
+      - Mail
+      - Other
+      required: true
+    - id: 9
+      name: responsiveness
+      label: Specialist Responsiveness
+      hint: How quickly did they respond
+      type: select_one
+      options:
+      - Extremely Slow
+      - Slow
+      - Average
+      - Quick
+      - Very Quick
+      required: true
+    - id: 10
+      name: response_time
+      label: Typical Response Time
+      hint: Average time to respond
+      type: select_one
+      options:
+      - Same Day
+      - 1-2 Days
+      - 3-5 Days
+      - 1-2 Weeks
+      - Longer Than 2 Weeks
+      required: true
+    - id: 11
+      name: knowledge_expertise
+      label: Knowledge and Expertise
+      hint: Did they know their job
+      type: select_one
+      options:
+      - Lacking Knowledge
+      - Basic Knowledge
+      - Adequate Knowledge
+      - Strong Knowledge
+      - Expert Level
+      required: true
+    - id: 12
+      name: problem_resolution
+      label: Problem Resolution Ability
+      hint: Could they help solve issues
+      type: select_one
+      options:
+      - Could Not Help
+      - Limited Help
+      - Adequate Help
+      - Good Solution
+      - Excellent Solution
+      required: true
+    - id: 13
+      name: communication_clarity
+      label: Communication Clarity
+      hint: Was information clearly explained
+      type: select_one
+      options:
+      - Very Unclear
+      - Unclear
+      - Somewhat Clear
+      - Clear
+      - Very Clear
+      required: true
+    - id: 14
+      name: professionalism
+      label: Professional Demeanor
+      hint: How professional were they
+      type: select_one
+      options:
+      - Very Unprofessional
+      - Unprofessional
+      - Neutral
+      - Professional
+      - Very Professional
+      required: true
+    - id: 15
+      name: courtesy_respect
+      label: Courtesy and Respect
+      hint: Were you treated respectfully
+      type: select_one
+      options:
+      - Very Disrespectful
+      - Disrespectful
+      - Neutral
+      - Respectful
+      - Very Respectful
+      required: true
+    - id: 16
+      name: follow_through
+      label: Follow-Through on Commitments
+      hint: Did they follow up as promised
+      type: select_one
+      options:
+      - Never
+      - Rarely
+      - Sometimes
+      - Usually
+      - Always
+      required: true
+    - id: 17
+      name: authorization_accuracy
+      label: Authorization Accuracy
+      hint: Were authorizations correct
+      type: select_one
+      options:
+      - Frequently Incorrect
+      - Often Incorrect
+      - Mostly Correct
+      - Usually Correct
+      - Always Correct
+      required: true
+    - id: 18
+      name: process_efficiency
+      label: Process and Procedure Efficiency
+      hint: Did they streamline the process
+      type: select_one
+      options:
+      - Very Inefficient
+      - Inefficient
+      - Average
+      - Efficient
+      - Very Efficient
+      required: true
+    - id: 19
+      name: documentation_quality
+      label: Documentation and Record Keeping
+      hint: Were records well maintained
+      type: select_one
+      options:
+      - Poor Quality
+      - Below Average
+      - Average
+      - Good Quality
+      - Excellent Quality
+      required: true
+    - id: 20
+      name: issue_experienced
+      label: Issues or Problems Experienced
+      hint: Any problems with specialist
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: positive_experience
+      label: Positive Aspects of Experience
+      hint: What went well
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: improvement_suggestions
+      label: Suggestions for Improvement
+      hint: How could service be improved
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: General satisfaction rating
+      type: select_one
+      options:
+      - Very Unsatisfied
+      - Unsatisfied
+      - Neutral
+      - Satisfied
+      - Very Satisfied
+      required: true
+    - id: 24
+      name: would_recommend
+      label: Would Recommend This Specialist
+      hint: Would you recommend them
+      type: select_one
+      options:
+      - Definitely Not
+      - Probably Not
+      - Unsure
+      - Probably Yes
+      - Definitely Yes
+      required: false

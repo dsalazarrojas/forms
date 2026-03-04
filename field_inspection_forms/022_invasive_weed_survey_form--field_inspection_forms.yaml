@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Invasive Weed Survey Form
+    pages:
+    - id: 1
+      name: species_name
+      label: Species Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sighting_date
+      label: Sighting Date
+      hint: mm/dd/yy
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: sighting_time
+      label: Sighting Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: sighting_description
+      label: Sighting Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: follow_up_status
+      label: Follow-up Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: follow_up_notes
+      label: Follow-up Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: follow_up_time
+      label: Follow-up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: species_id
+      label: Species ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: priority_level
+      label: Priority Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      - Medium
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: follow_up_status_other
+      label: Follow-up Status Other
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false

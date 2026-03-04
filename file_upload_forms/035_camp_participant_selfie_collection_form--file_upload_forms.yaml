@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camp Participant Selfie Collection Form
+    pages:
+    - id: 1
+      name: selfie_collection_intro_header
+      label: -- Participant Photo Submission --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_full_name_selfie
+      label: Participant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: camper_id_number_selfie
+      label: Camper ID Number (Optional)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: cabin_group_assignment_selfie
+      label: Cabin or Group Name
+      hint: e.g., Oak Cabin, Trailblazers
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: photo_submission_header
+      label: -- Photo Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: photo_purpose_selfie
+      label: Primary Purpose of this Photo
+      hint: Why are you submitting this selfie?
+      type: select_one
+      options:
+      - ID Badge / Profile Photo
+      - Activity Participation Evidence
+      - Group Yearbook - Memory Book
+      - Social Media Feature
+      - Staff Recognition
+      required: true
+    - id: 7
+      name: photo_upload_placeholder
+      label: -- Selfie Upload Instructions --
+      hint: Please ensure the photo is clear, shows only your face, and has a neutral
+        background.
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: uploaded_file_reference_selfie
+      label: File Name or Reference ID
+      hint: Provided by the upload tool
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: photo_use_consent_selfie
+      label: Consent to Use this Photo
+      hint: I grant permission to use this photo for the purpose stated above
+      type: select_one
+      options:
+      - I Consent
+      - Other
+      required: true
+    - id: 10
+      name: privacy_acknowledgment_selfie
+      label: Privacy and Security Acknowledgment
+      hint: I understand this photo will be stored in the camp's secure database
+      type: select_one
+      options:
+      - I Acknowledge
+      - Other
+      required: true
+    - id: 11
+      name: selfie_submission_date
+      label: Date of Photo
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: uploader_role_selfie
+      label: Who is uploading this photo?
+      hint: null
+      type: select_one
+      options:
+      - The Participant
+      - Parent - Guardian
+      - Camp Counselor - Staff
+      required: true
+    - id: 13
+      name: additional_photo_notes
+      label: Additional Notes or Context
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submission_verification_code
+      label: Verification Code (If applicable)
+      hint: null
+      type: text
+      options: []
+      required: false

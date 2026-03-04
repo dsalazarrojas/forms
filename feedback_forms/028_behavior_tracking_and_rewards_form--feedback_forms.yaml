@@ -1,0 +1,240 @@
+inputSchema:
+  type: object
+  properties:
+    title: Behavior Tracking And Rewards Form
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: student_id
+      label: Student ID
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: grade_level
+      label: Grade Level
+      hint: Current grade
+      type: select_one
+      options:
+      - Kindergarten
+      - 1st Grade
+      - 2nd Grade
+      - 3rd Grade
+      - 4th Grade
+      - 5th Grade
+      - 6th Grade
+      - 7th Grade
+      - 8th Grade
+      required: true
+    - id: 4
+      name: teacher_name
+      label: Teacher Name
+      hint: Primary teacher
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: tracking_period_start
+      label: Tracking Period Start
+      hint: Start date for tracking
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: tracking_period_end
+      label: Tracking Period End
+      hint: End date for tracking
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: target_behaviors
+      label: Target Behaviors to Increase
+      hint: Select behaviors to work on
+      type: select_multiple
+      options:
+      - Completing assignments on time
+      - Raising hand before speaking
+      - Staying in seat
+      - Following directions
+      - Being respectful to others
+      - Staying on task
+      - Participating in class
+      - Organizing materials
+      - Working quietly
+      - Helping classmates
+      required: true
+    - id: 8
+      name: behaviors_to_decrease
+      label: Behaviors to Decrease
+      hint: Select behaviors to reduce
+      type: select_multiple
+      options:
+      - Calling out without raising hand
+      - Leaving seat without permission
+      - Disrupting class
+      - Not following directions
+      - Being disrespectful
+      - Off-task behavior
+      - Not participating
+      - Disorganized materials
+      - Talking during quiet time
+      - Not completing work
+      required: false
+    - id: 9
+      name: monday_rating
+      label: Monday Rating
+      hint: Rate behavior for Monday
+      type: select_one
+      options:
+      - Excellent (5 points)
+      - Good (4 points)
+      - Satisfactory (3 points)
+      - Needs Improvement (2 points)
+      - Poor (1 point)
+      required: true
+    - id: 10
+      name: monday_notes
+      label: Monday Notes
+      hint: Comments for Monday
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: tuesday_rating
+      label: Tuesday Rating
+      hint: Rate behavior for Tuesday
+      type: select_one
+      options:
+      - Excellent (5 points)
+      - Good (4 points)
+      - Satisfactory (3 points)
+      - Needs Improvement (2 points)
+      - Poor (1 point)
+      required: true
+    - id: 12
+      name: tuesday_notes
+      label: Tuesday Notes
+      hint: Comments for Tuesday
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: wednesday_rating
+      label: Wednesday Rating
+      hint: Rate behavior for Wednesday
+      type: select_one
+      options:
+      - Excellent (5 points)
+      - Good (4 points)
+      - Satisfactory (3 points)
+      - Needs Improvement (2 points)
+      - Poor (1 point)
+      required: true
+    - id: 14
+      name: wednesday_notes
+      label: Wednesday Notes
+      hint: Comments for Wednesday
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: thursday_rating
+      label: Thursday Rating
+      hint: Rate behavior for Thursday
+      type: select_one
+      options:
+      - Excellent (5 points)
+      - Good (4 points)
+      - Satisfactory (3 points)
+      - Needs Improvement (2 points)
+      - Poor (1 point)
+      required: true
+    - id: 16
+      name: thursday_notes
+      label: Thursday Notes
+      hint: Comments for Thursday
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: friday_rating
+      label: Friday Rating
+      hint: Rate behavior for Friday
+      type: select_one
+      options:
+      - Excellent (5 points)
+      - Good (4 points)
+      - Satisfactory (3 points)
+      - Needs Improvement (2 points)
+      - Poor (1 point)
+      required: true
+    - id: 18
+      name: friday_notes
+      label: Friday Notes
+      hint: Comments for Friday
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: total_points
+      label: Total Points Earned
+      hint: Sum of all daily points
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: reward_goal
+      label: Reward Goal
+      hint: What reward is student working toward
+      type: select_one
+      options:
+      - Extra recess time
+      - Computer time
+      - Homework pass
+      - Class helper role
+      - Small prize
+      - Certificate
+      - Lunch with teacher
+      - Free choice activity
+      - Other
+      required: true
+    - id: 21
+      name: reward_earned
+      label: Reward Earned This Week
+      hint: Did student earn their reward
+      type: select_one
+      options:
+      - Yes earned and received
+      - Yes earned not yet received
+      - No did not earn
+      - N/A
+      required: true
+    - id: 22
+      name: parent_signature
+      label: Parent Initials
+      hint: Parent or guardian initials
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: teacher_comments
+      label: Teacher Comments
+      hint: Overall comments for the week
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: next_week_goals
+      label: Goals for Next Week
+      hint: What should student focus on next
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Norse Pagan Community Survey
+    pages:
+    - id: 1
+      name: form_intro
+      label: Form Intro
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: pagan_practices
+      label: pagan_practices
+      hint: null
+      type: select_one
+      options:
+      - Asatru
+      - Wicca
+      - Heathen
+      - Druidry
+      - Feri
+      - Hellenism
+      - Other (please describe)
+      required: false
+    - id: 3
+      name: practice_frequency
+      label: How often do you practice?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Several times a week
+      - Weekly
+      - Monthly
+      - Rarely
+      - Never
+      required: false
+    - id: 4
+      name: demographics
+      label: demographics
+      hint: null
+      type: select_multiple
+      options:
+      - age
+      - sex
+      - orientation
+      - race
+      - ethnicity
+      required: false
+    - id: 5
+      name: community_size
+      label: How many people in your community?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: group_type
+      label: What type of group do you belong to?
+      hint: null
+      type: select_one
+      options:
+      - Local group
+      - Regional group
+      - Local group + Local group
+      - Local group + Regional group
+      - None
+      required: false
+    - id: 7
+      name: pagan_interests
+      label: What interests you most?
+      hint: null
+      type: select_multiple
+      options:
+      - Community service
+      - Education
+      - Artisan skills
+      - Ritual and magic
+      - Music
+      - Other
+      required: false
+    - id: 8
+      name: needs_resources
+      label: What resources would you like to see?
+      hint: null
+      type: select_multiple
+      options:
+      - Community space
+      - Events
+      - Community outreach
+      - Online support
+      - Other (please describe)
+      required: false
+    - id: 9
+      name: form_outro
+      label: Form Outro
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: impression_review_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_service_survey
+      label: Product or Service
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Product''}'
+      - '{''label'': ''Service''}'
+      - '{''label'': ''Event''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 3
+      name: product_service_name
+      label: Product/Service Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: impression
+      label: First Impression
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: onboarding_process
+      label: Onboarding Process
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Easy to use''}'
+      - '{''label'': ''Not easy to use''}'
+      - '{''label'': ''N/A''}'
+      required: false
+    - id: 6
+      name: onboarding_process_details
+      label: Onboarding Process Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: onboarding_process_rating
+      label: Onboarding Process Rating
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 8
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 9
+      name: improvement_priorities
+      label: Improvement Priorities
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Product/Service Development''}'
+      - '{''label'': ''User Experience''}'
+      - '{''label'': ''Onboarding Process''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: position
+      label: Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: role
+      label: Role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: role_department
+      label: Role/Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: feedback_survey_comments
+      label: Survey Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: follow_up_details
+      label: Follow-up Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_rating
+      label: Follow-up Rating
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 24
+      name: follow_up_improvement
+      label: Follow-up Improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: follow_up_improvement_details
+      label: Follow-up Improvement Details
+      hint: null
+      type: text
+      options: []
+      required: false

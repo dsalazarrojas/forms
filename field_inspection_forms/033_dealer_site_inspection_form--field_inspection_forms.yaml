@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dealer Site Inspection Form
+    pages:
+    - id: 1
+      name: site_inspection_form
+      label: Dealer Site Inspection Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: site_visit_id
+      label: Visit ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: site_visit_date
+      label: Site Visit Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: site_visit_time
+      label: Site Visit Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: dealer_id
+      label: Dealer ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: site_inspector_id
+      label: Site Inspector ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: site_visit_description
+      label: Site Visit Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: site_location
+      label: Site Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: photos_taken
+      label: Photos Taken
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: photos_description
+      label: Photos Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: observations
+      label: Observations
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: action_items
+      label: Action Items
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: site_inspection_completed
+      label: Site Inspection Completed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: site_inspection_notes
+      label: Site Inspection Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: site_visit_type
+      label: Site Visit Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: attachment_upload_id
+      label: Attachment Upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: attachments
+      label: Attachments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: site_visit_status
+      label: Site Visit Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 20
+      name: inspector_signature
+      label: Inspector Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: inspector_name
+      label: Inspector Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: inspector_title
+      label: Inspector Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: inspector_company
+      label: Inspector Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: inspector_contact
+      label: Inspector Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: dealer_contact
+      label: Dealer Contact
+      hint: null
+      type: text
+      options: []
+      required: true

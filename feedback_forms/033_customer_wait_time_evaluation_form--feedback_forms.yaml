@@ -1,0 +1,62 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Wait Time Evaluation Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_wait_time
+      label: Customer Wait Time
+      hint: Enter customer wait time in minutes
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: staff_attendance
+      label: Staff Attendance
+      hint: How many staff members were present during your visit?
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: staff_attendance_hint
+      label: How many staff members were present during your visit?
+      hint: Enter number of staff
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: customer_feedback
+      label: Customer Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: customer_feedback_hint
+      label: How would you rate your overall experience?
+      hint: Rate from 1-5
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 7
+      name: customer_satisfaction
+      label: Customer Satisfaction
+      hint: null
+      type: note
+      options: []
+      required: false

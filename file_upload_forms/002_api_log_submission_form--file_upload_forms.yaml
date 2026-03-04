@@ -1,0 +1,144 @@
+inputSchema:
+  type: object
+  properties:
+    title: API Log Submission Form
+    pages:
+    - id: 1
+      name: section_header_reporter_info
+      label: -- Reporter Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: reporter_name
+      label: Your full name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: reporter_email
+      label: Your email address
+      hint: We will use this to follow up on your submission
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department or team
+      hint: null
+      type: select_one
+      options:
+      - Engineering
+      - QA
+      - IT Operations
+      - DevOps
+      - Product
+      - Other
+      required: true
+    - id: 5
+      name: section_header_incident_details
+      label: -- Incident Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: incident_date
+      label: Date the incident occurred
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: incident_time
+      label: Approximate time the incident occurred
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: api_endpoint
+      label: API endpoint affected
+      hint: e.g. /api/v1/users
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: http_method
+      label: HTTP method used
+      hint: null
+      type: select_one
+      options:
+      - GET
+      - POST
+      - PUT
+      - PATCH
+      - DELETE
+      - OPTIONS
+      required: true
+    - id: 10
+      name: http_status_code
+      label: HTTP status code returned
+      hint: e.g. 500, 403, 404
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: severity
+      label: Severity level of the incident
+      hint: null
+      type: select_one
+      options:
+      - Critical - Service Down
+      - High - Major Feature Impacted
+      - Medium - Minor Feature Impacted
+      - Low - Cosmetic or Informational
+      required: true
+    - id: 12
+      name: environment
+      label: Environment where the issue occurred
+      hint: null
+      type: select_one
+      options:
+      - Production
+      - Staging
+      - Development
+      - QA
+      required: true
+    - id: 13
+      name: error_message
+      label: Error message or response body
+      hint: Paste the error message or relevant portion of the response
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: steps_to_reproduce
+      label: Steps to reproduce the issue
+      hint: Describe how to reproduce the problem
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: expected_behavior
+      label: Expected behavior
+      hint: What should have happened
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: actual_behavior
+      label: Actual behavior observed
+      hint: What actually happened
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: additional_context
+      label: Additional context or notes
+      hint: Any other information that may help with troubleshooting
+      type: text
+      options: []
+      required: false

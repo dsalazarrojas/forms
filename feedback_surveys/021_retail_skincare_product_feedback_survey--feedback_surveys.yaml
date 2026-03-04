@@ -1,0 +1,226 @@
+inputSchema:
+  type: object
+  properties:
+    title: <string>
+    pages:
+    - id: 1
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: review
+      label: Review
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: recommendation
+      label: Recommendation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: purchase_location
+      label: Purchase Location
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - In-store
+      required: false
+    - id: 6
+      name: purchase_date
+      label: Purchase Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: product_rating
+      label: Product Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: product_relevance
+      label: How Relevant
+      hint: null
+      type: select_one
+      options:
+      - Highly relevant
+      - Somewhat relevant
+      - Not relevant
+      required: false
+    - id: 9
+      name: satisfaction
+      label: Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: purchase_frequency
+      label: Purchase Frequency
+      hint: null
+      type: select_one
+      options:
+      - 1-2 times
+      - 3-5 times
+      - 6-10 times
+      - More than 10 times
+      required: false
+    - id: 11
+      name: price_range
+      label: Price Range
+      hint: null
+      type: select_one
+      options:
+      - $0-$50
+      - $51-$100
+      - $101-$200
+      - $201-$500
+      required: false
+    - id: 12
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: contact_title
+      label: Contact Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: contact_company
+      label: Contact Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: purchase_time
+      label: Purchase Time
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - In-store
+      - Both
+      required: false
+    - id: 19
+      name: purchase_method
+      label: Purchase Method
+      hint: null
+      type: select_one
+      options:
+      - Card
+      - Cash
+      - Mobile Wallet
+      - Other
+      required: false
+    - id: 20
+      name: purchase_source
+      label: Purchase Source
+      hint: null
+      type: select_one
+      options:
+      - Social Media
+      - Search Engine
+      - Email
+      - Word of Mouth
+      required: false
+    - id: 21
+      name: purchase_influencer
+      label: Purchase Influencer
+      hint: null
+      type: select_one
+      options:
+      - Influencer
+      - Social Media
+      - Recommendation
+      - Online Advertisment
+      required: false
+    - id: 22
+      name: purchase_channel
+      label: Purchase Channel
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - In-store
+      - Mobile
+      - Other
+      required: false
+    - id: 23
+      name: purchase_medium
+      label: Purchase Medium
+      hint: null
+      type: select_one
+      options:
+      - Online
+      - In-store
+      - Print
+      - TV
+      required: false
+    - id: 24
+      name: purchase_reason
+      label: Purchase Reason
+      hint: null
+      type: select_one
+      options:
+      - Convenience
+      - Quality
+      - Price
+      - Recommendation
+      required: false
+    - id: 25
+      name: purchase_device
+      label: Purchase Device
+      hint: null
+      type: select_one
+      options:
+      - Desktop
+      - Mobile
+      - Tablet
+      - Other
+      required: false

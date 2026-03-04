@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nonprofit Social Impact Reporting Practices Survey
+    pages:
+    - id: 1
+      name: reporting_methods_1
+      label: How often do you use reporting methods?
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Bi-annually
+      - Annually
+      required: false
+    - id: 2
+      name: reporting_frequency_2
+      label: At which level do you report your impact?
+      hint: null
+      type: select_one
+      options:
+      - Grantor
+      - Grantee
+      - Both
+      required: false
+    - id: 3
+      name: reporting_format_3
+      label: Which reporting format is used?
+      hint: null
+      type: select_one
+      options:
+      - Financial
+      - Narrative
+      - Data
+      - Other
+      required: false
+    - id: 4
+      name: impact_measurement_4
+      label: What methods do you use to measure impact?
+      hint: null
+      type: select_multiple
+      options:
+      - Logical Framework
+      - Outcome Mapping
+      - Theory of Change
+      - Balanced Scorecard
+      - Other
+      required: false
+    - id: 5
+      name: reporting_frequency_5
+      label: How often do you report your impact?
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Bi-annually
+      - Annually
+      required: false
+    - id: 6
+      name: challenges_6
+      label: What are some common challenges you face when reporting?
+      hint: null
+      type: select_multiple
+      options:
+      - Lack of data
+      - Inadequate resources
+      - Insufficient time
+      - Other
+      required: false
+    - id: 7
+      name: support_needs_7
+      label: What kind of support do you need?
+      hint: null
+      type: select_multiple
+      options:
+      - Financial
+      - Logistical
+      - Technical
+      - Other
+      required: false
+    - id: 8
+      name: form_submission_8
+      label: Are you interested in providing feedback on our form?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email_9
+      label: Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone_10
+      label: Phone
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: School Communication Feedback Form
+    pages:
+    - id: 1
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: feedback_on_channel_effectiveness
+      label: How effectively do you feel the school communicates with you
+      hint: null
+      type: select_one
+      options:
+      - Communication is clear and timely
+      - Communication is somewhat clear but not always timely
+      - Not clear or timely
+      required: true
+    - id: 4
+      name: feedback_on_channel_usage
+      label: How often do you use our communication channels?
+      hint: null
+      type: select_multiple
+      options:
+      - Emails
+      - Text messages
+      - Phone calls
+      - In-person meetings
+      - Other
+      required: true
+    - id: 5
+      name: feedback_on_updates
+      label: How effectively do you feel our communication helps you stay up-to-date
+      hint: null
+      type: select_one
+      options:
+      - Very effective
+      - Somewhat effective
+      - Not effective
+      required: true
+    - id: 6
+      name: additional_feedback
+      label: Do you have any additional feedback for us?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false

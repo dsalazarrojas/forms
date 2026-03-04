@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cybersecurity Data Recovery Referral Form
+    pages:
+    - id: 1
+      name: form_data
+      label: Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Malware''}'
+      - '{''id'': 2, ''label'': ''Phishing''}'
+      - '{''id'': 3, ''label'': ''Ransomware''}'
+      - '{''id'': 4, ''label'': ''Data Breach''}'
+      - '{''id'': 5, ''label'': ''Other''}'
+      required: false
+    - id: 3
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: affected_assets
+      label: Affected Assets
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: recovery_actions
+      label: Recovery Actions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: form_submitter
+      label: Form Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: form_submitter_email
+      label: Form Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: organization_address
+      label: Organization Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: organization_phone
+      label: Organization Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: upload_file
+      label: Upload File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: file_metadata
+      label: File Metadata
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: file_type
+      label: File Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''CSV''}'
+      - '{''id'': 2, ''label'': ''Excel''}'
+      - '{''id'': 3, ''label'': ''PDF''}'
+      - '{''id'': 4, ''label'': ''Word''}'
+      required: false
+    - id: 18
+      name: upload_file2
+      label: Upload File 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: file_metadata2
+      label: File Metadata 2
+      hint: null
+      type: text
+      options: []
+      required: false

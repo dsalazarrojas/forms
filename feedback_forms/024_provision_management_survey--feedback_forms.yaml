@@ -1,0 +1,90 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Provision Management Survey
+    pages:
+    - id: 1
+      name: stock_types
+      label: Stock Types
+      hint: null
+      type: select_multiple
+      options:
+      - Canned Goods
+      - Dry Goods
+      - Fruits & Vegetables
+      - Meat, Poultry & Seafood
+      - Dairy Products
+      - Bakery Products
+      - Beverages
+      - Pantry Goods
+      - Freezer Goods
+      - Cosmetics & Toiletries
+      - Pharmaceuticals
+      - Cleaning Supplies
+      - Non Food Items
+      - Health & Beauty
+      - Household Items
+      - Miscellaneous
+      required: false
+    - id: 2
+      name: restocking_frequency
+      label: Restocking Frequency
+      hint: null
+      type: select_one
+      options:
+      - Every 1-2 weeks
+      - Every 3-4 weeks
+      - Weekly
+      - As Needed
+      - Bi-Weekly
+      required: false
+    - id: 3
+      name: stock_management
+      label: Stock Management
+      hint: null
+      type: select_one
+      options:
+      - Automated
+      - Semi-Automated
+      - Manual
+      - No Stock Management
+      required: false
+    - id: 4
+      name: challenges
+      label: Stock Management Challenges
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: improvement_ideas
+      label: Improvement Ideas
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false

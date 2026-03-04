@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hand Sanitizer Stand Feedback
+    pages:
+    - id: 1
+      name: hand_sanitizer_stand_feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: how_usualy_used
+      label: how often is it used
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: satisfaction
+      label: satisfaction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: improvement_suggestions
+      label: improvement suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: hygiene_management
+      label: how do you rate hygiene management
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Fair''}'
+      - '{''label'': ''Poor''}'
+      required: false
+    - id: 6
+      name: contact_info
+      label: contact info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

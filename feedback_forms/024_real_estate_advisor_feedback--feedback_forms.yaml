@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: real_estate_advisor_feedback
+    pages:
+    - id: 1
+      name: real_estate_advisor_feedback
+      label: feedback_form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: advisor_rating
+      label: rate_advisor
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: comments
+      label: what_did_you_think
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: feedback_email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: feedback_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: feedback_date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: feedback_time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: real_estate_advisor
+      label: real_estate_advisor
+      hint: null
+      type: select_one
+      options:
+      - John Doe
+      - Jane Doe
+      - Bob Smith
+      required: false
+    - id: 9
+      name: satisfaction_level
+      label: satisfaction_level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 10
+      name: real_estate_agency
+      label: real_estate_agency
+      hint: null
+      type: select_one
+      options:
+      - Agency A
+      - Agency B
+      - Agency C
+      required: false

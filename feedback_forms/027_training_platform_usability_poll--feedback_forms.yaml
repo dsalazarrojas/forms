@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Training Platform Usability Poll
+    pages:
+    - id: 1
+      name: training_platform_usability_poll_form
+      label: training_platform_usability_poll_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: usability
+      label: usability
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''1 - Very Good''}'
+      - '{''label'': ''2 - Good''}'
+      - '{''label'': ''3 - Fair''}'
+      - '{''label'': ''4 - Poor''}'
+      required: false
+    - id: 3
+      name: content_relevance
+      label: content_relevance
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''1 - Very relevant''}'
+      - '{''label'': ''2 - Somewhat relevant''}'
+      - '{''label'': ''3 - Not very relevant''}'
+      - '{''label'': ''4 - Not at all relevant''}'
+      required: false
+    - id: 4
+      name: overall_satisfaction
+      label: overall_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''1 - Very satisfied''}'
+      - '{''label'': ''2 - Somewhat satisfied''}'
+      - '{''label'': ''3 - Neutral''}'
+      - '{''label'': ''4 - Somewhat dissatisfied''}'
+      - '{''label'': ''5 - Very dissatisfied''}'
+      required: false
+    - id: 5
+      name: suggestions
+      label: suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: cancel
+      label: cancel
+      hint: null
+      type: text
+      options: []
+      required: false

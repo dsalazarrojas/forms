@@ -1,0 +1,97 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Animated GIF Feedback Form
+    pages:
+    - id: 1
+      name: section_welcome_note
+      label: -- Welcome to our Feedback Form --
+      hint: We value your creative input
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: feedback_full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: section_contact_note
+      label: -- Contact Information --
+      hint: We might follow up on your suggestions
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: feedback_email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: section_experience_note
+      label: -- Your Experience --
+      hint: Tell us how you feel about the product
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: overall_satisfaction_score
+      label: Overall Satisfaction Rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent - Highly Satisfied
+      - Good - Satisfied
+      - Neutral - Fine
+      - Poor - Dissatisfied
+      required: true
+    - id: 7
+      name: section_comments_note
+      label: -- Detailed Comments --
+      hint: The more detail, the better
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: feedback_message_body
+      label: Feedback Message
+      hint: Share your thoughts here
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: section_performance_note
+      label: -- How did we do? --
+      hint: Rate our visual elements
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: visual_improvement_suggestions
+      label: Suggestions for Visual Improvements
+      hint: Any specific animations or styles you like?
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: section_thank_you_note
+      label: -- Thank You for Your Feedback --
+      hint: Have a wonderful day
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,54 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gifted Down Payment Verification Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: gifted_fund_info
+      label: Gifted Fund Info
+      hint: Please provide details of the gifted funds.
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: upload_file
+      label: Upload File
+      hint: null
+      type: text
+      options: []
+      required: true

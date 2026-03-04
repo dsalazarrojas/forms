@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: executive_coaching_feedback_form
+    pages:
+    - id: 1
+      name: session_number
+      label: Session Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: feedback_type
+      label: What type of feedback
+      hint: null
+      type: select_one
+      options:
+      - Feedback on session content
+      - Feedback on session facilitation
+      - Feedback on overall experience
+      required: false
+    - id: 3
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: On a scale of 1-5
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: action_items
+      label: Action Items
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: recommendations
+      label: Recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: session_facilitators
+      label: Session Facilitators
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: session_materials
+      label: Session Materials
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: session_location
+      label: Session Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: session_length
+      label: Session Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: session_start_time
+      label: Session Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: session_end_time
+      label: Session End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: action_items_agreed
+      label: Action Items Agreed On
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: action_items_due_date
+      label: Action Items Due Date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Human Cell Expansion Feedback Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: expansion_status
+      label: Expansion Status
+      hint: null
+      type: select_one
+      options:
+      - Fully Expanded
+      - Partially Expanded
+      - Not Expanded
+      required: true
+    - id: 4
+      name: expansion_comments
+      label: Expansion Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: lab_instrumentation
+      label: Lab Instrumentation
+      hint: null
+      type: select_multiple
+      options:
+      - PCR
+      - Western Blot
+      - Mass Spectrometry
+      - Microscopy
+      - Flow Cytometry
+      required: true
+    - id: 6
+      name: sample_type
+      label: Sample Type
+      hint: null
+      type: select_one
+      options:
+      - Sample 1
+      - Sample 2
+      - Sample 3
+      required: true
+    - id: 7
+      name: expansion_method
+      label: Expansion Method
+      hint: null
+      type: select_one
+      options:
+      - Method 1
+      - Method 2
+      - Method 3
+      required: true
+    - id: 8
+      name: expansion_notes
+      label: Expansion Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: expansion_comments
+      label: Expansion Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: cell_count
+      label: Cell Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: cell_viability
+      label: Cell Viability
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: expansion_rate
+      label: Expansion Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: expansion_efficiency
+      label: Expansion Efficiency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: cell_expansion_status
+      label: Cell Expansion Status
+      hint: null
+      type: select_one
+      options:
+      - Expanded
+      - Not Expanded
+      required: true
+    - id: 15
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: submitted_time
+      label: Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: submitted_by_name
+      label: Submitted By Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: lab_instrument
+      label: Lab Instrument
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: lab_instrument_type
+      label: Lab Instrument Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: lab_instrument_model
+      label: Lab Instrument Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: instrument_notes
+      label: Instrument Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: lab_technician
+      label: Lab Technician
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: lab_technician_signature
+      label: Lab Technician Signature
+      hint: null
+      type: text
+      options: []
+      required: false

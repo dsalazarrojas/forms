@@ -1,0 +1,309 @@
+inputSchema:
+  type: object
+  properties:
+    title: Aircraft Maintenance Sales Inquiry Form
+    pages:
+    - id: 1
+      name: contact_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_name
+      label: Company Name
+      hint: Your organization
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: address
+      label: Street Address
+      hint: Business address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: country
+      label: Country
+      hint: Country
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: inquiry_date
+      label: Inquiry Date
+      hint: Date of inquiry
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: service_type
+      label: Service Type Needed
+      hint: What service do you need
+      type: select_one
+      options:
+      - Routine maintenance
+      - Major overhaul
+      - Engine maintenance
+      - Avionics upgrade
+      - Airframe repair
+      - Component repair
+      - Inspection services
+      - Emergency AOG
+      - Consulting
+      - Other
+      required: true
+    - id: 14
+      name: aircraft_make
+      label: Aircraft Make
+      hint: Manufacturer
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: aircraft_model
+      label: Aircraft Model
+      hint: Model
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: aircraft_year
+      label: Aircraft Year
+      hint: Year of manufacture
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: aircraft_registration
+      label: Aircraft Registration
+      hint: Tail number
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: aircraft_serial
+      label: Aircraft Serial Number
+      hint: Manufacturer serial
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: total_airframe_hours
+      label: Total Airframe Hours
+      hint: Total time
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: engine_type
+      label: Engine Type
+      hint: Engine make and model
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: engine_hours
+      label: Engine Hours
+      hint: Time since new or overhaul
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: maintenance_description
+      label: Maintenance Needed
+      hint: Describe the work required
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: urgency
+      label: Urgency Level
+      hint: How urgent is this
+      type: select_one
+      options:
+      - Emergency, AOG
+      - Urgent, within 1 week
+      - Soon, within 1 month
+      - Routine, flexible timing
+      - Planning for future
+      required: true
+    - id: 24
+      name: preferred_timeline
+      label: Preferred Timeline
+      hint: When do you need service
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: location_preference
+      label: Service Location Preference
+      hint: Where should work be done
+      type: select_one
+      options:
+      - At your facility
+      - At our location
+      - On-site at airport
+      - Mobile service
+      - Flexible
+      required: true
+    - id: 26
+      name: budget_range
+      label: Estimated Budget Range
+      hint: Budget for this work
+      type: select_one
+      options:
+      - Under $10,000
+      - $10,000-$50,000
+      - $50,000-$100,000
+      - $100,000-$500,000
+      - Over $500,000
+      - Need estimate first
+      required: false
+    - id: 27
+      name: current_maintenance_provider
+      label: Current Maintenance Provider
+      hint: Who currently services your aircraft
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: reason_for_inquiry
+      label: Reason for Inquiry
+      hint: Why are you seeking new service
+      type: select_one
+      options:
+      - New aircraft acquisition
+      - Dissatisfied with current provider
+      - Relocating
+      - Specific expertise needed
+      - Cost considerations
+      - Capacity issues
+      - Other
+      required: true
+    - id: 29
+      name: additional_services
+      label: Additional Services Interested In
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Annual inspections
+      - Engine overhaul
+      - Avionics installation
+      - Interior refurbishment
+      - Exterior painting
+      - Component repair
+      - 24/7 support
+      - Maintenance tracking
+      required: false
+    - id: 30
+      name: how_heard
+      label: How Did You Hear About Us
+      hint: Source of referral
+      type: select_one
+      options:
+      - Online search
+      - Industry referral
+      - Previous customer
+      - Trade show
+      - Advertisement
+      - Other
+      required: false
+    - id: 31
+      name: documents_attached
+      label: Documents Attached
+      hint: Do you have documents to share
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 32
+      name: document_types
+      label: Document Types
+      hint: What are you attaching
+      type: select_multiple
+      options:
+      - Maintenance records
+      - Logbooks
+      - Work orders
+      - Inspection reports
+      - Photos
+      - Other
+      required: false
+    - id: 33
+      name: best_contact_time
+      label: Best Time to Contact
+      hint: When should we call
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Any time
+      required: true
+    - id: 34
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: contact_signature
+      label: Contact Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: true

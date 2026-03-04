@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Teamwork Project Advancement Survey
+    pages:
+    - id: 1
+      name: teamwork_collaboration
+      label: Teamwork
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: current_project_status
+      label: Current Project Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 3
+      name: project_milestone_satisfaction
+      label: Project Milestone Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: project_milestone_importance
+      label: Project Milestone Importance
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: collaboration_level
+      label: Collaboration Level
+      hint: null
+      type: select_one
+      options:
+      - Collaboration Level
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 6
+      name: collaboration_comments
+      label: Collaboration Comments
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 7
+      name: challenges
+      label: Challenges
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: improvement_ideas
+      label: Improvement Ideas
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: true

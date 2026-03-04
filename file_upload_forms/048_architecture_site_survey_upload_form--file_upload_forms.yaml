@@ -1,0 +1,158 @@
+inputSchema:
+  type: object
+  properties:
+    title: Architecture Site Survey Upload Form
+    pages:
+    - id: 1
+      name: section_survey_info
+      label: -- Survey Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: surveyor_name
+      label: Surveyor Name
+      hint: Person conducting the survey
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: surveyor_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: surveyor_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: survey_date
+      label: Survey Date
+      hint: Date survey was conducted
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: section_site_details
+      label: -- Site Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: site_address
+      label: Site Address
+      hint: Full address or property name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: parcel_number
+      label: Parcel Number or ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: site_area_sf
+      label: Site Area (Square Feet)
+      hint: Total lot size
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: survey_type
+      label: Type of Survey
+      hint: null
+      type: select_one
+      options:
+      - Boundary survey
+      - Topographic survey
+      - Condition assessment
+      - Site analysis
+      - Hazard assessment
+      - Other
+      required: true
+    - id: 11
+      name: section_findings
+      label: -- Survey Findings --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: general_conditions
+      label: General Site Conditions
+      hint: Describe the site conditions
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: existing_structures
+      label: Existing Structures or Features
+      hint: Buildings, trees, utilities, etc
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: site_constraints
+      label: Site Constraints or Issues
+      hint: Problems found during survey
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: recommendations
+      label: Surveyor Recommendations
+      hint: Suggestions for consideration
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: section_documents
+      label: -- Supporting Documents --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: survey_plan
+      label: Survey Plan or Drawings
+      hint: PDF, CAD, or image files
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: site_photos
+      label: Site Photos or Images
+      hint: Documentation of site conditions
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: survey_measurements
+      label: Survey Measurements or Data
+      hint: Spreadsheet or document file
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: utility_maps
+      label: Utility Location Maps
+      hint: Underground utilities, services
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: additional_documentation
+      label: Additional Documentation
+      hint: Zoning info, environmental reports
+      type: text
+      options: []
+      required: false

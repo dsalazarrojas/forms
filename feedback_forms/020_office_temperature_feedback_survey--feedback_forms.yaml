@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: office_temperature_feedback_survey
+    pages:
+    - id: 1
+      name: office_temperature
+      label: Temperature
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: feedback
+      label: Feedback
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Very cold''}'
+      - '{''option2'': ''Uncomfortable''}'
+      - '{''option3'': ''Too hot''}'
+      - '{''option4'': ''Comfortable''}'
+      - '{''option5'': ''Too cold''}'
+      - '{''option6'': ''Just right''}'
+      required: true
+    - id: 3
+      name: classroom
+      label: Classroom
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: goals
+      label: Goals
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: building_location
+      label: Building Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: time_spent_at_desk
+      label: Time Spent at Desk
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: meeting_room
+      label: Meeting Room
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: time_spent_in_meeting_room
+      label: Meeting Room Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: time_spent_in_cubical
+      label: Cubicle Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: time_spent_outside
+      label: Time Spent Outside
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true

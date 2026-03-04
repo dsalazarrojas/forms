@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: W9 Form
+    pages:
+    - id: 1
+      name: w9_form_page_1
+      label: w9_form_page_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tax_year
+      label: tax_year
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: employer_identification_number
+      label: employer_identification_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: employee_address
+      label: employee_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: employer_address
+      label: employer_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: tax_withholding
+      label: tax_withholding
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: signature_block
+      label: signature_block
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: signature_drawing
+      label: signature_drawing
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: employee_signature
+      label: employee_signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: employee_date
+      label: employee_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: employer_ein
+      label: employer_ein
+      hint: null
+      type: text
+      options: []
+      required: true

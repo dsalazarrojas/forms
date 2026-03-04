@@ -1,0 +1,217 @@
+inputSchema:
+  type: object
+  properties:
+    title: nostalgic_media_submission_form
+    pages:
+    - id: 1
+      name: user_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: user_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: user_email
+      label: Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: user_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: submission_title
+      label: Submission Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: submission_url
+      label: Submission Url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submission_file
+      label: Submission File
+      hint: null
+      type: select_one
+      options:
+      - image
+      - video
+      required: true
+    - id: 8
+      name: submission_description
+      label: Submission Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: submission_categories
+      label: Submission Categories
+      hint: null
+      type: select_multiple
+      options:
+      - art
+      - history
+      - literature
+      - music
+      - etc.
+      required: true
+    - id: 10
+      name: submission_permissions
+      label: Submission Permissions
+      hint: null
+      type: select_one
+      options:
+      - public
+      - private
+      required: true
+    - id: 11
+      name: submission_tags
+      label: Submission Tags
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submission_notes
+      label: Submission Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - in-progress
+      - approved
+      - archived
+      required: true
+    - id: 14
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 16
+      name: submission_tags_2
+      label: Submission Tags
+      hint: null
+      type: select_multiple
+      options:
+      - art
+      - history
+      - music
+      required: false
+    - id: 17
+      name: submission_tags_3
+      label: Submission Tags
+      hint: null
+      type: select_multiple
+      options:
+      - literature
+      - music
+      - etc.
+      required: false
+    - id: 18
+      name: submission_tags_4
+      label: Submission Tags
+      hint: null
+      type: select_multiple
+      options:
+      - public
+      - private
+      required: false
+    - id: 19
+      name: submission_tags_5
+      label: Submission Tags
+      hint: null
+      type: select_multiple
+      options:
+      - in-progress
+      - approved
+      - archived
+      required: false
+    - id: 20
+      name: submission_tags_6
+      label: Submission Tags
+      hint: null
+      type: select_multiple
+      options:
+      - art
+      - history
+      - literature
+      required: false
+    - id: 21
+      name: submission_tags_7
+      label: Submission Tags
+      hint: null
+      type: select_multiple
+      options:
+      - music
+      - etc.
+      required: false
+    - id: 22
+      name: submission_tags_8
+      label: Submission Tags
+      hint: null
+      type: select_multiple
+      options:
+      - private
+      - Other
+      required: false
+    - id: 23
+      name: submission_tags_9
+      label: Submission Tags
+      hint: null
+      type: select_multiple
+      options:
+      - in-progress
+      - Other
+      required: false
+    - id: 24
+      name: submission_tags_10
+      label: Submission Tags
+      hint: null
+      type: select_multiple
+      options:
+      - approved
+      - Neutral
+      - Dissatisfied
+      required: false
+    - id: 25
+      name: submission_tags_11
+      label: Submission Tags
+      hint: null
+      type: select_multiple
+      options:
+      - archived
+      - Other
+      required: false

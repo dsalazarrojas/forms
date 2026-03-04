@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: PDF Conversion Questionnaire
+    pages:
+    - id: 1
+      name: file_uploads
+      label: File Uploads
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: format_preference
+      label: Format Preference
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''PDF''}'
+      - '{''label'': ''JPG''}'
+      - '{''label'': ''PNG''}'
+      - '{''label'': ''CSV''}'
+      - '{''label'': ''XML''}'
+      required: false
+    - id: 3
+      name: urgency
+      label: Urgency
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Low''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''High''}'
+      required: false
+    - id: 4
+      name: file_description
+      label: File Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: file_size
+      label: File Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: file_type
+      label: File Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''PDF''}'
+      - '{''label'': ''DOCX''}'
+      - '{''label'': ''CSV''}'
+      required: false
+    - id: 7
+      name: submit
+      label: Submit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false

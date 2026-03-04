@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Reporting Channel Form
+    pages:
+    - id: 1
+      name: reporting_channel_form
+      label: Report Issue
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: report_type
+      label: Report Type
+      hint: null
+      type: select_one
+      options:
+      - Reporting Concern
+      - Issue
+      - Feedback
+      - Other
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: issue_details
+      label: Issue Details
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_email
+      label: Contact E-mail
+      hint: 'null'
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: Contact Phone
+      hint: 'null'
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_other
+      label: Contact Other
+      hint: 'null'
+      type: text
+      options: []
+      required: false

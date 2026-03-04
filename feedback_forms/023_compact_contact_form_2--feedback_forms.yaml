@@ -1,0 +1,40 @@
+inputSchema:
+  type: object
+  properties:
+    title: Compact Contact Form 2
+    pages:
+    - id: 1
+      name: name
+      label: Full name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email address
+      hint: For a response
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone number
+      hint: Optional contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: subject
+      label: Subject
+      hint: Short subject for your message
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: message
+      label: Message
+      hint: Provide details or feedback
+      type: text
+      options: []
+      required: true

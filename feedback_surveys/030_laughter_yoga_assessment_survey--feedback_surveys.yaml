@@ -1,0 +1,162 @@
+inputSchema:
+  type: object
+  properties:
+    title: laughter_yoga_assessment_survey--feedback_surveys
+    pages:
+    - id: 1
+      name: intro
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: how_well_did_participants_connect_with_each_other
+      label: did_participants_connect_with_each_other
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: how_well_did_participants_connect_with_each_other_how_well_did_participants_participate
+      label: participants_participate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: how_did_participants_feel_before_laughter_yoga
+      label: how_did_participants_feel_before
+      hint: null
+      type: select_one
+      options:
+      - Very relaxed
+      - Somewhat relaxed
+      - Not at all relaxed
+      - Not sure
+      - Don't know
+      - Rather tense
+      - Somewhat tense
+      - Very tense
+      required: false
+    - id: 5
+      name: how_did_participants_feel_after_laughter_yoga
+      label: how_did_participants_feel_after
+      hint: null
+      type: select_multiple
+      options:
+      - Very Happy
+      - Somewhat Happy
+      - Not at all happy
+      - Not sure
+      - Don't know
+      - Rather Happy
+      - Neutral
+      required: false
+    - id: 6
+      name: how_well_did_participants_laugh
+      label: did_participants_laugh
+      hint: null
+      type: select_one
+      options:
+      - Extremely well
+      - Quite well
+      - Somewhat well
+      - Not at all well
+      - Rather poorly
+      - Neutral
+      - Don't know
+      required: false
+    - id: 7
+      name: how_long_was_laughter_yoga_session
+      label: how_long_was_session
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: did_participants_laugh_together
+      label: did_participants_laugh_together
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: suggestions
+      label: suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: did_participants_attend_a_previous_laughter_yoga_session
+      label: did_participants_attend_a_previous_session
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Rather
+      - Rather not
+      - Don't know
+      - Not sure
+      - Neutral
+      required: false
+    - id: 14
+      name: did_participants_recommend_a_session
+      label: did_participants_recommend_a_session
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Rather
+      - Rather not
+      - Don't know
+      - Not sure
+      - Neutral
+      required: false
+    - id: 15
+      name: how_many_previous_sessions
+      label: how_many_previous_sessions
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: how_well_did_participants_connect_with_instructor
+      label: did_participants_connect_with_instructor
+      hint: null
+      type: select_multiple
+      options:
+      - Extremely well
+      - Somewhat well
+      - Not at all
+      - Neutral
+      - Rather poorly
+      - Not sure
+      - Don't know
+      required: false

@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Electric Motorcycle Feedback Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: rating
+      label: Rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 5
+      name: rating_1
+      label: '1'
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: rating_2
+      label: '2'
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: rating_3
+      label: '3'
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: rating_4
+      label: '4'
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: rating_5
+      label: '5'
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: motorcycle_type
+      label: Motorcycle Type
+      hint: null
+      type: select_multiple
+      options:
+      - Electric
+      - Gas-Powered
+      required: true
+    - id: 14
+      name: color
+      label: Color
+      hint: null
+      type: select_one
+      options:
+      - Red
+      - Blue
+      - Green
+      required: true
+    - id: 15
+      name: transmission
+      label: Transmission
+      hint: null
+      type: select_one
+      options:
+      - Automatic
+      - Manual
+      required: true

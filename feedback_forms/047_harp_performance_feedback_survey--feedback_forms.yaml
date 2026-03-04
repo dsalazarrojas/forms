@@ -1,0 +1,143 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: harp-performance-feedback-survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: Intro
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: performance
+      label: Was the harp performance enjoyable?
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': ''Very Good''}'
+      - '{''text'': ''Good''}'
+      - '{''text'': ''Neutral''}'
+      - '{''text'': ''Bad''}'
+      - '{''text'': ''Very Bad''}'
+      required: false
+    - id: 3
+      name: skill_level
+      label: How would you rate the harpist's skill level?
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': 10}'
+      - '{''text'': 9}'
+      - '{''text'': 8}'
+      - '{''text'': 7}'
+      - '{''text'': 6}'
+      - '{''text'': 5}'
+      - '{''text'': 4}'
+      - '{''text'': 3}'
+      - '{''text'': 2}'
+      - '{''text'': 1}'
+      required: false
+    - id: 4
+      name: suggest_for_improvement
+      label: What could be improved about this performance?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: favorite_song
+      label: Was there a favorite song?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''text'': True}'
+      - '{''text'': False}'
+      required: false
+    - id: 6
+      name: favorite_song_name
+      label: If yes, what was it?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_organizer
+      label: How would you rate the event organizer's performance?
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': 10}'
+      - '{''text'': 9}'
+      - '{''text'': 8}'
+      - '{''text'': 7}'
+      - '{''text'': 6}'
+      - '{''text'': 5}'
+      - '{''text'': 4}'
+      - '{''text'': 3}'
+      - '{''text'': 2}'
+      - '{''text'': 1}'
+      required: false
+    - id: 8
+      name: venue
+      label: How would you rate the venue?
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': 10}'
+      - '{''text'': 9}'
+      - '{''text'': 8}'
+      - '{''text'': 7}'
+      - '{''text'': 6}'
+      - '{''text'': 5}'
+      - '{''text'': 4}'
+      - '{''text'': 3}'
+      - '{''text'': 2}'
+      - '{''text'': 1}'
+      required: false
+    - id: 9
+      name: music_venue
+      label: How did you like the music venue?
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': 10}'
+      - '{''text'': 9}'
+      - '{''text'': 8}'
+      - '{''text'': 7}'
+      - '{''text'': 6}'
+      - '{''text'': 5}'
+      - '{''text'': 4}'
+      - '{''text'': 3}'
+      - '{''text'': 2}'
+      - '{''text'': 1}'
+      required: false
+    - id: 10
+      name: recommend_harpist
+      label: Would you recommend this harpist to a friend?
+      hint: null
+      type: select_one
+      options:
+      - '{''text'': 10}'
+      - '{''text'': 9}'
+      - '{''text'': 8}'
+      - '{''text'': 7}'
+      - '{''text'': 6}'
+      - '{''text'': 5}'
+      - '{''text'': 4}'
+      - '{''text'': 3}'
+      - '{''text'': 2}'
+      - '{''text'': 1}'
+      required: false

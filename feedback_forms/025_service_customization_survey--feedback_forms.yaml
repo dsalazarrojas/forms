@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Customization Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Welcome to the survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_preferences
+      label: What is your top preference?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: service_customization
+      label: Which of the following services would you like to customize?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_information
+      label: Please provide your contact information
+      hint: Please include your email address and phone number
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: submission
+      label: Please submit your survey
+      hint: null
+      type: text
+      options: []
+      required: false

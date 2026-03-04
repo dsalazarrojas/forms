@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: dropbox photovideo upload form
+    pages:
+    - id: 1
+      name: title
+      label: Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: file_upload
+      label: File Upload
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Image'', ''value'': ''image''}'
+      - '{''id'': 2, ''label'': ''Video'', ''value'': ''video''}'
+      required: false
+    - id: 4
+      name: upload_file
+      label: Upload File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: confirm_upload
+      label: Confirm Upload
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: file_uploaded
+      label: File Uploaded
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: file_failed
+      label: File Failed
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: error_message
+      label: Error Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: upload_again
+      label: Upload Again
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: confirm_delete
+      label: Confirm Delete
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

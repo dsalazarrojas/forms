@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Apparel Ordering Experience Survey
+    pages:
+    - id: 1
+      name: order_reference
+      label: Order Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: browsing_ease
+      label: How easy was it to find what you were looking for?
+      hint: 1 to 5 scale
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: checkout_experience
+      label: Rating for the Checkout and Payment Process
+      hint: null
+      type: select_one
+      options:
+      - Seamless
+      - Average
+      - Difficult
+      - Failed several times
+      required: true
+    - id: 4
+      name: product_info_clarity
+      label: Was the product information and sizing guide clear?
+      hint: null
+      type: select_one
+      options:
+      - Very Clear
+      - Somewhat Clear
+      - Confusing
+      required: true
+    - id: 5
+      name: delivery_time_satisfaction
+      label: Satisfaction with Delivery Time
+      hint: null
+      type: select_one
+      options:
+      - Faster than expected
+      - On time
+      - Late
+      - Much later than expected
+      required: true
+    - id: 6
+      name: packaging_quality
+      label: Quality of Packaging Upon Arrival
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: product_accuracy
+      label: Did the item match the online description and photos?
+      hint: null
+      type: select_one
+      options:
+      - Yes, exactly
+      - Mostly
+      - No, it was different
+      required: true
+    - id: 8
+      name: size_fit_rating
+      label: Accuracy of the Sizing (How did it fit?)
+      hint: null
+      type: select_one
+      options:
+      - Fits perfectly
+      - Runs small
+      - Runs large
+      required: true
+    - id: 9
+      name: support_satisfaction
+      label: Satisfaction with Customer Support (if contacted)
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Did not contact
+      required: false
+    - id: 10
+      name: repurchase_intent
+      label: How likely are you to purchase from us again?
+      hint: 0 to 10 scale
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: general_feedback
+      label: Any other comments or suggestions for us?
+      hint: null
+      type: text
+      options: []
+      required: false

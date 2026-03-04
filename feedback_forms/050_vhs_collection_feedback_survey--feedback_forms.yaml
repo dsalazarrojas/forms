@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: vhs_collection_feedback_survey
+    pages:
+    - id: 1
+      name: vhs_collection
+      label: What's your VHS collection
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vhs_collection_size
+      label: How big is your collection
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: vhs_condition
+      label: What condition are your VHS tapes in?
+      hint: null
+      type: select_multiple
+      options:
+      - '9'
+      - '8'
+      - '7'
+      - '6'
+      - '5'
+      - '4'
+      - '3'
+      - '2'
+      - '1'
+      required: false
+    - id: 4
+      name: vhs_purchased_date
+      label: When did you start collecting
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: vhs_purchased_from
+      label: Where did you purchase your VHS
+      hint: null
+      type: select_multiple
+      options:
+      - local
+      - online
+      - store
+      - other
+      - market
+      required: false
+    - id: 6
+      name: vhs_collection_type
+      label: What type of collector are you
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: vhs_collection_value
+      label: What's the value of your collection
+      hint: null
+      type: select_multiple
+      options:
+      - high
+      - medium
+      - low
+      - rare
+      required: false
+    - id: 8
+      name: vhs_collection_goals
+      label: Why do you collect VHS
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: vhs_collection_comments
+      label: Add any additional comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: vhs_collection_email
+      label: Your email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: vhs_collection_phone
+      label: Your phone
+      hint: null
+      type: text
+      options: []
+      required: false

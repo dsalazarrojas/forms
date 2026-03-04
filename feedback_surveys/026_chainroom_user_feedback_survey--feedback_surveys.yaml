@@ -1,0 +1,233 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Chainroom User Feedback Survey
+    pages:
+      - id: 1
+        name: survey_date
+        label: Survey Date
+        hint: Date of feedback submission
+        type: date
+        options: []
+        required: true
+      - id: 2
+        name: respondent_name
+        label: Respondent Name
+        hint: Your full name optional
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: respondent_email
+        label: Email Address
+        hint: Email for follow-up
+        type: email
+        options: []
+        required: false
+      - id: 4
+        name: user_type
+        label: User Type
+        hint: How do you use Chainroom
+        type: select_one
+        options:
+          - Individual user
+          - Team member
+          - Team lead
+          - Manager
+          - Administrator
+          - Other
+        required: true
+      - id: 5
+        name: usage_duration
+        label: Usage Duration
+        hint: How long have you been using Chainroom
+        type: select_one
+        options:
+          - Less than 1 month
+          - 1-3 months
+          - 3-6 months
+          - 6-12 months
+          - More than 1 year
+        required: true
+      - id: 6
+        name: usage_frequency
+        label: Usage Frequency
+        hint: How often do you use Chainroom
+        type: select_one
+        options:
+          - Multiple times daily
+          - Once daily
+          - Several times weekly
+          - Once weekly
+          - Less than weekly
+        required: true
+      - id: 7
+        name: overall_satisfaction
+        label: Overall Satisfaction
+        hint: How satisfied are you with Chainroom
+        type: select_one
+        options:
+          - Very satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very dissatisfied
+        required: true
+      - id: 8
+        name: ease_of_use
+        label: Ease of Use
+        hint: Rate how easy Chainroom is to use
+        type: select_one
+        options:
+          - Very easy
+          - Easy
+          - Neutral
+          - Difficult
+          - Very difficult
+        required: true
+      - id: 9
+        name: feature_satisfaction
+        label: Feature Satisfaction
+        hint: How satisfied are you with available features
+        type: select_one
+        options:
+          - Very satisfied
+          - Satisfied
+          - Neutral
+          - Dissatisfied
+          - Very dissatisfied
+        required: true
+      - id: 10
+        name: performance_rating
+        label: Performance Rating
+        hint: Rate the application performance
+        type: select_one
+        options:
+          - Excellent
+          - Very good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 11
+        name: reliability_rating
+        label: Reliability Rating
+        hint: Rate the application reliability
+        type: select_one
+        options:
+          - Excellent
+          - Very good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 12
+        name: customer_support
+        label: Customer Support Rating
+        hint: Rate the customer support
+        type: select_one
+        options:
+          - Excellent
+          - Very good
+          - Good
+          - Fair
+          - Poor
+          - Have not contacted support
+        required: true
+      - id: 13
+        name: most_used_features
+        label: Most Used Features
+        hint: Select the features you use most
+        type: select_multiple
+        options:
+          - Task management
+          - Team collaboration
+          - File sharing
+          - Reporting
+          - Integrations
+          - Mobile app
+          - Notifications
+          - Other
+        required: true
+      - id: 14
+        name: missing_features
+        label: Missing Features
+        hint: What features are missing that you need
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: integration_needs
+        label: Integration Needs
+        hint: What other tools should Chainroom integrate with
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: value_for_money
+        label: Value for Money
+        hint: Rate the value for the price
+        type: select_one
+        options:
+          - Excellent value
+          - Good value
+          - Fair value
+          - Poor value
+          - Very poor value
+        required: true
+      - id: 17
+        name: would_recommend
+        label: Would Recommend
+        hint: Would you recommend Chainroom to others
+        type: select_one
+        options:
+          - Definitely yes
+          - Probably yes
+          - Not sure
+          - Probably not
+          - Definitely not
+        required: true
+      - id: 18
+        name: renewal_likelihood
+        label: Renewal Likelihood
+        hint: How likely are you to renew your subscription
+        type: select_one
+        options:
+          - Definitely will renew
+          - Probably will renew
+          - Not sure
+          - Probably will not renew
+          - Definitely will not renew
+        required: true
+      - id: 19
+        name: best_feature
+        label: Best Feature
+        hint: What do you like most about Chainroom
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: improvement_areas
+        label: Areas for Improvement
+        hint: What should be improved
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: additional_feedback
+        label: Additional Feedback
+        hint: Any other comments or suggestions
+        type: text
+        options: []
+        required: false

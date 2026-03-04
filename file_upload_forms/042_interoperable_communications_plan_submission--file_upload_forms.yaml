@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Interoperable Communications Plan Submission
+    pages:
+    - id: 1
+      name: partner_agency
+      label: Partner Agency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: upload_file
+      label: Upload File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: file_name
+      label: File Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: file_type
+      label: File Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: file_size
+      label: File Size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: review_workflow
+      label: Review Workflow
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

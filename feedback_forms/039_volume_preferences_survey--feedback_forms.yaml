@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Volume Preferences Survey
+    pages:
+    - id: 1
+      name: customer_preferences
+      label: What are your customer preferences
+      hint: Tell us about your customers volume preferences
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: volume
+      label: Volume
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: preferences
+      label: Volume Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Low''}'
+      - '{''id'': 2, ''value'': ''Medium''}'
+      - '{''id'': 3, ''value'': ''High''}'
+      required: false
+    - id: 4
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: frequency
+      label: Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Daily''}'
+      - '{''id'': 2, ''value'': ''Weekly''}'
+      - '{''id'': 3, ''value'': ''Monthly''}'
+      required: false
+    - id: 6
+      name: submit
+      label: Submit
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: Tell us about your email
+      type: email
+      options: []
+      required: false

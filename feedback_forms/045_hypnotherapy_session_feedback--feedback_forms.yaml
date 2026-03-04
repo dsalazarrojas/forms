@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hypnotherapy Session Feedback
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: rating
+      label: Rating
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': 1, ''value'': 1}'
+      - '{''label'': 2, ''value'': 2}'
+      - '{''label'': 3, ''value'': 3}'
+      - '{''label'': 4, ''value'': 4}'
+      - '{''label'': 5, ''value'': 5}'
+      required: false
+    - id: 5
+      name: session_length
+      label: Session Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: session_type
+      label: Session Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''General Session'', ''value'': ''General Session''}'
+      - '{''label'': ''Specialized Session'', ''value'': ''Specialized Session''}'
+      required: false
+    - id: 7
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: session_time
+      label: Session Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: hypnotherapist
+      label: Hypnotherapist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

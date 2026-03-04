@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: SCC Website Feedback
+    pages:
+    - id: 1
+      name: scc_website_feedback
+      label: website
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: scc_website_comment
+      label: website_comment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: scc_website_rating
+      label: website_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: scc_website_score
+      label: how_satisfied
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: scc_website_comments
+      label: website_comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: scc_email
+      label: email
+      hint: example@domain.com
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: scc_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: scc_website_feedback
+      label: website_feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: scc_website_improve
+      label: improve
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: scc_website_suggestions
+      label: suggestions
+      hint: null
+      type: text
+      options: []
+      required: true

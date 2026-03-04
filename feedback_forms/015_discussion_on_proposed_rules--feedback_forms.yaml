@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Discussion On Proposed Rules
+    pages:
+    - id: 1
+      name: policy_name
+      label: Policy name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: review_date_range
+      label: Review date range
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: comment
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: rating_scale
+      label: Rating scale
+      hint: null
+      type: select_one
+      options:
+      - 1 - 2
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 5
+      name: rating_scale_label
+      label: Rating scale label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: rating_value
+      label: Rating value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: submitter_name
+      label: Submitter name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false

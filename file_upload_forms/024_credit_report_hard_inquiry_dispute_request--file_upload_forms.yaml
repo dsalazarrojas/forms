@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Credit Report Hard Inquiry Dispute Request
+    pages:
+    - id: 1
+      name: form_title
+      label: Credit Report Hard Inquiry Dispute Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: file_upload_1
+      label: Document 1
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: file_upload_2
+      label: Document 2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: file_upload_3
+      label: Document 3
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: file_uploads
+      label: Additional Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_authorization
+      label: Customer Authorization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: customer_signature
+      label: Customer Signature
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: dispute_details
+      label: Dispute Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: dispute_description
+      label: Dispute Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: dispute_amount
+      label: Dispute Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: dispute_type
+      label: Dispute Type
+      hint: null
+      type: select_one
+      options:
+      - Credit Account
+      - Credit Card
+      - Other
+      required: true
+    - id: 12
+      name: dispute_start_date
+      label: Dispute Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: dispute_end_date
+      label: Dispute End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: dispute_status
+      label: Dispute Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      - Pending
+      required: true
+    - id: 15
+      name: dispute_resolution
+      label: Dispute Resolution
+      hint: null
+      type: select_one
+      options:
+      - Accepted
+      - Denied
+      - Disputed
+      required: true
+    - id: 16
+      name: resolution_reason
+      label: Resolution Reason
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 19
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: customer_address
+      label: Customer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: credit_bureau
+      label: Credit Bureau
+      hint: null
+      type: select_one
+      options:
+      - Equifax
+      - Experian
+      - TransUnion
+      required: true
+    - id: 22
+      name: credit_score
+      label: Credit Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: credit_limit
+      label: Credit Limit
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: credit_utilization
+      label: Credit Utilization
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

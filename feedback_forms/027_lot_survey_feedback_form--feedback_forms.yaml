@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lot Survey Feedback Form
+    pages:
+    - id: 1
+      name: lot_survey_feedback_form
+      label: Lot Survey Feedback Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: lot_survey_feedback_form_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: lot_survey_feedback_form_rating
+      label: Rating
+      hint: Rate from 1 to 5
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 4
+      name: lot_survey_feedback_form_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: lot_survey_feedback_form_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: lot_survey_feedback_form_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: lot_survey_feedback_form_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: lot_survey_feedback_form_note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: lot_survey_feedback_form_surveyor
+      label: Surveyor
+      hint: null
+      type: select_multiple
+      options:
+      - Surveyor 1
+      - Surveyor 2
+      - Surveyor 3
+      required: true
+    - id: 10
+      name: lot_survey_feedback_form_developer
+      label: Developer
+      hint: null
+      type: select_multiple
+      options:
+      - Developer 1
+      - Developer 2
+      - Developer 3
+      required: true
+    - id: 11
+      name: lot_survey_feedback_form_real_estate
+      label: Real Estate
+      hint: null
+      type: select_multiple
+      options:
+      - Real Estate 1
+      - Real Estate 2
+      - Real Estate 3
+      required: true
+    - id: 12
+      name: lot_survey_feedback_form_other_surveyor
+      label: Other
+      hint: null
+      type: select_multiple
+      options:
+      - Other 1
+      - Other 2
+      - Other 3
+      required: true
+    - id: 13
+      name: lot_survey_feedback_form_other_developer
+      label: Other Developer
+      hint: null
+      type: select_multiple
+      options:
+      - Other 1
+      - Other 2
+      - Other 3
+      required: true
+    - id: 14
+      name: lot_survey_feedback_form_other_real_estate
+      label: Other Real Estate
+      hint: null
+      type: select_multiple
+      options:
+      - Other 1
+      - Other 2
+      - Other 3
+      required: true
+    - id: 15
+      name: lot_survey_feedback_form_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: lot_survey_feedback_form_surveyor_notes
+      label: Surveyor Notes
+      hint: null
+      type: text
+      options: []
+      required: false

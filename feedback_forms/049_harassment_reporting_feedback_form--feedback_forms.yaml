@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Harassment Reporting Feedback Form
+    pages:
+    - id: 1
+      name: harassment_reporting_feedback_form
+      label: First Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incident_date
+      label: Incident Date
+      hint: Date of incident
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: harasser_information
+      label: Harasser Information
+      hint: Name, Position, Email, etc.
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: reporter_information
+      label: Reporter Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: reporting_channel
+      label: Reporting Channel
+      hint: Please select the reporting channel
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Chat
+      - In-person
+      required: false
+    - id: 7
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: incident_location_other
+      label: If other, please specify
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: incident_location_details
+      label: Incident Location Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_one
+      options:
+      - Physical Harassment
+      - Verbal Harassment
+      - Sexual Harassment
+      - Other
+      required: false
+    - id: 11
+      name: reporting_official
+      label: Reported to Official
+      hint: Name of official
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: report_id
+      label: Report ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: submit_form
+      label: Submit
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

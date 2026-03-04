@@ -1,0 +1,274 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Coaching Session Client Feedback Survey Template
+    pages:
+      - id: 1
+        name: client_name
+        label: Client Name
+        hint: Your full name optional
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: email
+        label: Email Address
+        hint: Contact email optional
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: coach_name
+        label: Coach Name
+        hint: Name of your coach
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: feedback_date
+        label: Feedback Date
+        hint: Date of this feedback
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: session_date
+        label: Session Date
+        hint: When was your session
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: session_type
+        label: Session Type
+        hint: What type of session
+        type: select_one
+        options:
+          - Initial Consultation
+          - Regular Session
+          - Follow-Up
+          - Intensive
+          - Group Session
+        required: true
+      - id: 7
+        name: session_format
+        label: Session Format
+        hint: How was session conducted
+        type: select_one
+        options:
+          - In Person
+          - Video Call
+          - Phone Call
+        required: true
+      - id: 8
+        name: overall_rating
+        label: Overall Session Rating
+        hint: Rate the session
+        type: select_one
+        options:
+          - 5 Stars Excellent
+          - 4 Stars Very Good
+          - 3 Stars Good
+          - 2 Stars Fair
+          - 1 Star Poor
+        required: true
+      - id: 9
+        name: value_for_time
+        label: Value for Time Invested
+        hint: Was it worth your time
+        type: select_one
+        options:
+          - Excellent Value
+          - Good Value
+          - Fair Value
+          - Poor Value
+          - Not Worth It
+        required: true
+      - id: 10
+        name: coach_preparation
+        label: Coach Preparation
+        hint: How prepared was your coach
+        type: select_one
+        options:
+          - Very Well Prepared
+          - Prepared
+          - Somewhat Prepared
+          - Not Well Prepared
+          - Unprepared
+        required: true
+      - id: 11
+        name: coach_presence
+        label: Coach Presence and Attention
+        hint: How present was your coach
+        type: select_one
+        options:
+          - Fully Present
+          - Mostly Present
+          - Somewhat Present
+          - Distracted
+          - Not Present
+        required: true
+      - id: 12
+        name: safe_space
+        label: Did You Feel Safe to Share
+        hint: Did you feel comfortable opening up
+        type: select_one
+        options:
+          - Very Safe
+          - Safe
+          - Neutral
+          - Unsafe
+          - Very Unsafe
+        required: true
+      - id: 13
+        name: heard_and_understood
+        label: Did You Feel Heard and Understood
+        hint: Did your coach understand you
+        type: select_one
+        options:
+          - Completely
+          - Mostly
+          - Somewhat
+          - Not Really
+          - Not At All
+        required: true
+      - id: 14
+        name: useful_insights
+        label: Did You Gain Useful Insights
+        hint: Did you learn something valuable
+        type: select_one
+        options:
+          - Yes Significant
+          - Yes Some
+          - Neutral
+          - Not Really
+          - Not At All
+        required: true
+      - id: 15
+        name: actionable_steps
+        label: Did You Identify Actionable Steps
+        hint: Do you know what to do next
+        type: select_one
+        options:
+          - Yes Clear Steps
+          - Yes Some Ideas
+          - Neutral
+          - Not Really
+          - Not At All
+        required: true
+      - id: 16
+        name: coach_strengths
+        label: Coach Strengths
+        hint: What does your coach do well
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: coach_improvements
+        label: Areas for Coach Improvement
+        hint: What could be better
+        type: text
+        options: []
+        required: false
+      - id: 18
+        name: session_highlights
+        label: Session Highlights
+        hint: What stood out to you
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: session_challenges
+        label: Any Challenges in Session
+        hint: What was difficult
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: goal_relevance
+        label: Relevance to Your Goals
+        hint: Did session relate to your goals
+        type: select_one
+        options:
+          - Very Relevant
+          - Relevant
+          - Somewhat Relevant
+          - Not Very Relevant
+          - Not Relevant
+        required: true
+      - id: 21
+        name: energy_level_after
+        label: Energy Level After Session
+        hint: How do you feel now
+        type: select_one
+        options:
+          - Energized
+          - Positive
+          - Neutral
+          - Drained
+          - Negative
+        required: true
+      - id: 22
+        name: clarity_level
+        label: Clarity Level After Session
+        hint: How clear do you feel
+        type: select_one
+        options:
+          - Very Clear
+          - Clear
+          - Neutral
+          - Unclear
+          - Confused
+        required: true
+      - id: 23
+        name: likelihood_to_recommend
+        label: Likelihood to Recommend
+        hint: Would you recommend to others
+        type: select_one
+        options:
+          - Very Likely
+          - Likely
+          - Neutral
+          - Unlikely
+          - Very Unlikely
+        required: true
+      - id: 24
+        name: continue_coaching
+        label: Plan to Continue Coaching
+        hint: Will you have more sessions
+        type: select_one
+        options:
+          - Definitely
+          - Probably
+          - Not Sure
+          - Probably Not
+          - Definitely Not
+        required: true
+      - id: 25
+        name: testimonial_permission
+        label: Can We Use Your Feedback
+        hint: May we share your comments
+        type: select_one
+        options:
+          - Yes Use My Name
+          - Yes Anonymously
+          - No Do Not Share
+        required: false
+      - id: 26
+        name: additional_comments
+        label: Additional Comments
+        hint: Anything else to share
+        type: text
+        options: []
+        required: false

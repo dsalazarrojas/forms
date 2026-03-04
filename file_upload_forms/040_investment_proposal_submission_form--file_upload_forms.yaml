@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Investment Proposal Submission Form
+    pages:
+    - id: 1
+      name: investment_proposal_submission_form
+      label: investment_proposal_submission_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: funding_request_details
+      label: funding_request_details
+      hint: null
+      type: select_one
+      options:
+      - Funding Request 1
+      - Funding Request 2
+      - Funding Request 3
+      required: false
+    - id: 3
+      name: project_description
+      label: project_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: project_location
+      label: project_location
+      hint: null
+      type: select_multiple
+      options:
+      - Location 1
+      - Location 2
+      - Location 3
+      required: false
+    - id: 5
+      name: investment_amount
+      label: investment_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: submission_date
+      label: submission_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: review_status
+      label: review_status
+      hint: null
+      type: select_one
+      options:
+      - Not Reviewed
+      - Approved
+      - Rejected
+      required: false
+    - id: 8
+      name: review_date
+      label: review_date
+      hint: null
+      type: date
+      options: []
+      required: false

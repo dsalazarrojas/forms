@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Casting Call Headshot Upload Form
+    pages:
+    - id: 1
+      name: casting_call_information_section
+      label: -- Casting Call Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: submission_date
+      label: Submission Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: production_title
+      label: Production Title
+      hint: Name of film, show, or project
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: role_applied
+      label: Role(s) Applied For
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: actor_information_section
+      label: -- Actor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: full_name
+      label: Full Name
+      hint: Legal or stage name
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: age_range
+      label: Age Range
+      hint: null
+      type: select_one
+      options:
+      - 18-25
+      - 26-35
+      - 36-45
+      - 46-55
+      - 56-65
+      - 65+
+      - Other
+      required: true
+    - id: 9
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: physical_characteristics_section
+      label: -- Physical Characteristics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: height
+      label: Height
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: hair_color
+      label: Hair Color
+      hint: null
+      type: select_one
+      options:
+      - Black
+      - Brown
+      - Blonde
+      - Red
+      - Gray
+      - Other
+      required: false
+    - id: 14
+      name: eye_color
+      label: Eye Color
+      hint: null
+      type: select_one
+      options:
+      - Blue
+      - Brown
+      - Green
+      - Hazel
+      - Gray
+      - Black
+      - Other
+      required: false
+    - id: 15
+      name: ethnicity
+      label: Ethnicity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: headshot_submission_section
+      label: -- Headshot Submission --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: headshot_file
+      label: Headshot Photo
+      hint: Upload professional headshot (JPG/PNG)
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: additional_photos
+      label: Additional Photos
+      hint: Upload 2-3 more photos if available
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: acting_experience_section
+      label: -- Acting Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: years_experience
+      label: Years of Acting Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: previous_credits
+      label: Previous Acting Credits
+      hint: List films, TV shows, or theater productions
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: agent_information_section
+      label: -- Agent or Manager Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: has_agent
+      label: Do you have an agent or manager?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: agent_contact
+      label: Agent or Manager Name and Contact
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submission_statement
+      label: Submission and Release Agreement
+      hint: I certify that photos are of myself and submission is accurate
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true

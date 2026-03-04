@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Tax Document Upload Form
+    pages:
+    - id: 1
+      name: client_info_header
+      label: -- Client Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: tax_year
+      label: Tax Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: client_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: client_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: tax_filing_status
+      label: Filing Status
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Married filing jointly
+      - Married filing separately
+      - Head of household
+      - Qualifying widow(er)
+      required: true
+    - id: 7
+      name: documents_header
+      label: -- Required Tax Documents --
+      hint: Please upload the following documents
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: w2_forms
+      label: W2 Forms
+      hint: If employed, upload all W2s received
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: 1099_forms
+      label: 1099 Forms
+      hint: Self-employment income, interest, dividends, etc.
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: business_income_documents
+      label: Business Income Documents
+      hint: Profit and loss statements, invoices, etc.
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: deduction_receipts
+      label: Deduction Receipts and Documentation
+      hint: Medical, charitable, business expenses, etc.
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: mortgage_statements
+      label: Mortgage Interest Statements
+      hint: Form 1098 or lender statement
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: property_tax_documents
+      label: Property Tax Statements
+      hint: Real estate or personal property taxes
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: investment_documents
+      label: Investment Documents
+      hint: 1099-B, 1099-DIV, brokerage statements, etc.
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: education_expenses
+      label: Education Expense Documents
+      hint: 1098-T or receipts
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: prior_year_return
+      label: Prior Year Tax Return
+      hint: Previous year return for reference
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: other_documents
+      label: Other Documents
+      hint: Any other relevant tax documents
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: additional_notes
+      label: Additional Notes or Comments
+      hint: Explain any unusual circumstances
+      type: text
+      options: []
+      required: false

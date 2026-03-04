@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Review Posting Consent Form
+    pages:
+    - id: 1
+      name: reviewer_name
+      label: Reviewer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: rating
+      label: Rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 4
+      name: review_text
+      label: Review
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: publish_review
+      label: Publish
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: review_text_2
+      label: Review Text
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: terms_and_conditions
+      label: I understand that I am giving the permission to publish the review on
+        the website.
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: consent_to_publish
+      label: I agree to the terms of service of the website.
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: review_agreement
+      label: I give my consent to publish the review on the website.
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: agreement_2
+      label: I confirm that I have read and understand the website terms of service.
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

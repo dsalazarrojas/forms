@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Volunteer Experience Survey Evaluation Form
+    pages:
+    - id: 1
+      name: volunteer_experience_survey_evaluation_form
+      label: Volunteer Experience Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: event_details
+      label: Event Details
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: volunteer_role
+      label: Volunteer Role
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Volunteer''}'
+      - '{''label'': ''Non-Volunteer''}'
+      required: false
+    - id: 4
+      name: volunteer_organization
+      label: Volunteer Organization
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: event_frequency
+      label: Event Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Once''}'
+      - '{''label'': ''Ongoing''}'
+      - '{''label'': ''Multiple''}'
+      - '{''label'': ''Rarely''}'
+      required: false
+    - id: 6
+      name: feedback
+      label: Feedback
+      hint: Please provide detailed feedback about your volunteer experience.
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: event_location
+      label: Event Location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''On-Site''}'
+      - '{''label'': ''Virtual''}'
+      - '{''label'': ''Both''}'
+      required: false
+    - id: 11
+      name: volunteer_manager
+      label: Volunteer Manager
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Volunteer''}'
+      - '{''label'': ''Non-Volunteer''}'
+      required: false
+    - id: 12
+      name: volunteer_manager_title
+      label: Volunteer Manager Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Fundraising''}'
+      - '{''label'': ''Educational''}'
+      - '{''label'': ''Both''}'
+      required: false
+    - id: 14
+      name: volunteer_type
+      label: Volunteer Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Individual''}'
+      - '{''label'': ''Group''}'
+      - '{''label'': ''Both''}'
+      required: false
+    - id: 15
+      name: hours_served
+      label: Hours Served
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: hours_volunteered
+      label: Hours Volunteered
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: hours_donated
+      label: Hours Donated
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: volunteer_frequency
+      label: Volunteer Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Daily''}'
+      - '{''label'': ''Weekly''}'
+      - '{''label'': ''Monthly''}'
+      - '{''label'': ''Rarely''}'
+      required: false
+    - id: 19
+      name: volunteer_status
+      label: Volunteer Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Active''}'
+      - '{''label'': ''Inactive''}'
+      required: false
+    - id: 20
+      name: manager_rating
+      label: Manager Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: manager_comments
+      label: Manager Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: evaluation_time
+      label: Evaluation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: evaluation_location
+      label: Evaluation Location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''On-Site''}'
+      - '{''label'': ''Virtual''}'
+      - '{''label'': ''Both''}'
+      required: false
+    - id: 25
+      name: evaluation_comments
+      label: Evaluation Comments
+      hint: null
+      type: text
+      options: []
+      required: false

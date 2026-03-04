@@ -1,0 +1,362 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Service Appointment Feedback Form
+    pages:
+    - id: 1
+      name: customer_information
+      label: Customer Information
+      hint: Optional - for follow-up
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email Address
+      hint: For follow-up if needed
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: service_information
+      label: Service Information
+      hint: Details about your visit
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: service_date
+      label: Service Date
+      hint: When was your appointment?
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: service_type
+      label: Service Type
+      hint: What service did you receive?
+      type: select_one
+      options:
+      - Oil change
+      - Routine maintenance
+      - Brake service
+      - Tire service
+      - Engine repair
+      - Transmission service
+      - AC/Heating
+      - Electrical
+      - Suspension/Steering
+      - Inspection
+      - Other
+      required: true
+    - id: 9
+      name: vehicle_year
+      label: Vehicle Year
+      hint: Year
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: vehicle_make
+      label: Vehicle Make
+      hint: Manufacturer
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: vehicle_model
+      label: Vehicle Model
+      hint: Model
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: service_advisor
+      label: Service Advisor
+      hint: Who helped you?
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: How satisfied were you overall?
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 14
+      name: scheduling_experience
+      label: Scheduling Experience
+      hint: Rate the scheduling process
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 15
+      name: appointment_availability
+      label: Appointment Availability
+      hint: Was it easy to get an appointment?
+      type: select_one
+      options:
+      - Very easy
+      - Easy
+      - Neutral
+      - Difficult
+      - Very difficult
+      required: true
+    - id: 16
+      name: wait_time
+      label: Wait Time
+      hint: How long did you wait?
+      type: select_one
+      options:
+      - No wait
+      - Under 15 minutes
+      - 15-30 minutes
+      - 30-60 minutes
+      - Over 60 minutes
+      required: true
+    - id: 17
+      name: wait_time_acceptable
+      label: Was Wait Time Acceptable
+      hint: Yes or no
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: service_quality
+      label: Service Quality
+      hint: Rate the quality of service
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 19
+      name: technician_skill
+      label: Technician Skill
+      hint: Rate the technician's skill
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 20
+      name: service_advisor_rating
+      label: Service Advisor Rating
+      hint: Rate your service advisor
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 21
+      name: communication_rating
+      label: Communication Rating
+      hint: How well did they communicate?
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 22
+      name: explanation_of_services
+      label: Explanation of Services
+      hint: Were services explained clearly?
+      type: select_one
+      options:
+      - Very clearly
+      - Clearly
+      - Somewhat clearly
+      - Unclear
+      - Not explained
+      required: true
+    - id: 23
+      name: facility_cleanliness
+      label: Facility Cleanliness
+      hint: Rate the cleanliness
+      type: select_one
+      options:
+      - Very clean
+      - Clean
+      - Acceptable
+      - Dirty
+      - Very dirty
+      required: true
+    - id: 24
+      name: waiting_area_comfort
+      label: Waiting Area Comfort
+      hint: Rate the waiting area
+      type: select_one
+      options:
+      - Very comfortable
+      - Comfortable
+      - Acceptable
+      - Uncomfortable
+      - Very uncomfortable
+      required: false
+    - id: 25
+      name: value_for_money
+      label: Value for Money
+      hint: Was it worth the price?
+      type: select_one
+      options:
+      - Excellent value
+      - Good value
+      - Fair value
+      - Poor value
+      - Very poor value
+      required: true
+    - id: 26
+      name: pricing_transparency
+      label: Pricing Transparency
+      hint: Was pricing clear?
+      type: select_one
+      options:
+      - Very clear
+      - Clear
+      - Somewhat clear
+      - Unclear
+      - Not clear at all
+      required: true
+    - id: 27
+      name: time_to_complete
+      label: Time to Complete
+      hint: Was it done on time?
+      type: select_one
+      options:
+      - Earlier than promised
+      - On time
+      - Slightly late
+      - Very late
+      - Still not complete
+      required: true
+    - id: 28
+      name: vehicle_condition
+      label: Vehicle Condition After Service
+      hint: How was your vehicle returned?
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 29
+      name: problem_resolved
+      label: Was Problem Resolved
+      hint: Yes or no
+      type: select_one
+      options:
+      - Yes - completely
+      - Yes - partially
+      - No - still having issues
+      - Too soon to tell
+      required: true
+    - id: 30
+      name: likelihood_to_recommend
+      label: Likelihood to Recommend
+      hint: Would you recommend us?
+      type: select_one
+      options:
+      - Definitely yes
+      - Probably yes
+      - Maybe
+      - Probably not
+      - Definitely not
+      required: true
+    - id: 31
+      name: likelihood_to_return
+      label: Likelihood to Return
+      hint: Will you return?
+      type: select_one
+      options:
+      - Definitely yes
+      - Probably yes
+      - Maybe
+      - Probably not
+      - Definitely not
+      required: true
+    - id: 32
+      name: best_aspect
+      label: Best Aspect
+      hint: What did we do well?
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: areas_for_improvement
+      label: Areas for Improvement
+      hint: What could we improve?
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other feedback
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: contact_permission
+      label: Contact Permission
+      hint: Can we contact you?
+      type: select_one
+      options:
+      - Yes - for follow-up
+      - Yes - for survey only
+      - No - do not contact
+      required: false
+    - id: 36
+      name: feedback_date
+      label: Feedback Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

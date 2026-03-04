@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: employee_survey_results_report_form
+    pages:
+    - id: 1
+      name: form_title
+      label: Employee Survey Results Report Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Feedback Forms
+      - Other
+      required: false
+    - id: 3
+      name: form_description
+      label: Description
+      hint: Brief description of the form
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: form_assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 7
+      name: employee_survey_satisfaction
+      label: Employee Survey Satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Not Very Satisfied
+      - Not Satisfied
+      required: false
+    - id: 8
+      name: suggestions_for_improvement
+      label: Suggestions for Improvement
+      hint: List specific suggestions
+      type: select_multiple
+      options:
+      - Satisfy
+      - Unsatisfy
+      required: false
+    - id: 9
+      name: data_collection_method
+      label: Data Collection Method
+      hint: null
+      type: select_one
+      options:
+      - Online Form
+      - In Person
+      - Other
+      required: false
+    - id: 10
+      name: date_of_survey
+      label: Date of Survey
+      hint: Date of the survey
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time_of_survey
+      label: Time of Survey
+      hint: Time of the survey
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: note
+      label: Note
+      hint: Additional comments
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: manager_phone
+      label: Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: manager_note
+      label: Manager Note
+      hint: Additional comments
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Marketing
+      - Sales
+      - Operations
+      required: false
+    - id: 20
+      name: team
+      label: Team
+      hint: null
+      type: select_multiple
+      options:
+      - Sales Team
+      - Management
+      - Marketing Team
+      required: false
+    - id: 21
+      name: region
+      label: Region
+      hint: null
+      type: select_multiple
+      options:
+      - North
+      - South
+      - East
+      required: false
+    - id: 22
+      name: manager_region
+      label: Manager Region
+      hint: null
+      type: select_multiple
+      options:
+      - North
+      - South
+      - East
+      required: false
+    - id: 23
+      name: manager_team
+      label: Manager Team
+      hint: null
+      type: select_multiple
+      options:
+      - Sales Team
+      - Management
+      - Marketing Team
+      required: false
+    - id: 24
+      name: date_of_birth
+      label: Date of Birth
+      hint: Employee Date of Birth
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: years_of_service
+      label: Years of Service
+      hint: null
+      type: number
+      options: []
+      required: false

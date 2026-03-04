@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marina Scheduling Survey
+    pages:
+    - id: 1
+      name: marina_scheduling_form_1
+      label: marina_scheduling_survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: boater_preferences
+      label: boater_preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Boater
+      - Visitor
+      - Other
+      required: true
+    - id: 3
+      name: marina_access_preferences
+      label: marina_access_preferences
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Boat Ramp''}'
+      - '{2: ''Restrooms''}'
+      - '{3: ''Parking''}'
+      - '{4: ''Restaurant''}'
+      - '{5: ''Marina Office''}'
+      - '{6: ''Information Center''}'
+      - '{7: ''Boat Wash Station''}'
+      required: true
+    - id: 4
+      name: marina_services
+      label: marina_services
+      hint: null
+      type: select_multiple
+      options:
+      - Boat Wash Station
+      - Parking
+      - Restaurant
+      - Information Center
+      - Marina Office
+      required: false
+    - id: 5
+      name: marina_amenities
+      label: marina_amenities
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Wi-Fi''}'
+      - '{2: ''Free Parking''}'
+      - '{3: ''Free Restrooms''}'
+      - '{4: ''Boat Trailer Parking''}'
+      - '{5: ''Marina Office''}'
+      required: false
+    - id: 6
+      name: marina_safety
+      label: marina_safety
+      hint: null
+      type: select_one
+      options:
+      - '{1: ''Safety Briefing''}'
+      - '{2: ''Hazard Signage''}'
+      - '{3: ''Marina Emergency Contact''}'
+      - '{4: ''First Aid Kit''}'
+      - '{5: ''Emergency Phone''}'
+      required: false
+    - id: 7
+      name: marina_comments
+      label: marina_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: boater_comments
+      label: boater_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: marina_scheduling
+      label: marina_scheduling
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: marina_scheduling_time
+      label: marina_scheduling_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: marina_email
+      label: marina_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: marina_phone
+      label: marina_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: marina_address
+      label: marina_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: marina_city
+      label: marina_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: marina_state
+      label: marina_state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: marina_zip
+      label: marina_zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: marina_latitude
+      label: marina_latitude
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: marina_longitude
+      label: marina_longitude
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: marina_altitude
+      label: marina_altitude
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: boater_altitude
+      label: boater_altitude
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: marina_rating
+      label: marina_rating
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: marina_survey_completed
+      label: marina_survey_completed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: marina_survey_completed_time
+      label: marina_survey_completed_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: boater_survey_completed
+      label: boater_survey_completed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: marina_submission
+      label: marina_submission
+      hint: null
+      type: text
+      options: []
+      required: false

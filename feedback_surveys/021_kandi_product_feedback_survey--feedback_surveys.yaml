@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Kandi Product Feedback Survey
+    pages:
+    - id: 1
+      name: first_page
+      label: feedback_survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: feedback_type
+      label: feedback_type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: feedback_details
+      label: feedback_details
+      hint: Provide detailed feedback
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: issue_report
+      label: issue_report
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: rating_1
+      label: rating_1
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: rating_2
+      label: rating_2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: rating_3
+      label: rating_3
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: rating_4
+      label: rating_4
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: rating_5
+      label: rating_5
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: improvement_idea
+      label: improvement_idea
+      hint: Share your improvement ideas
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Global Drumming Community Survey
+    pages:
+    - id: 1
+      name: user_experience
+      label: How would you rate your overall experience with our community?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: drum_styles
+      label: What types of drumming do you enjoy the most?
+      hint: null
+      type: select_multiple
+      options:
+      - Jazz
+      - Rock
+      - Classical
+      - Folk
+      - Hip-Hop
+      required: false
+    - id: 3
+      name: community_involvement
+      label: What is your level of involvement in online drumming communities?
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Occasional
+      - Rarely
+      required: false
+    - id: 4
+      name: program_participation
+      label: Which of the following programs do you participate in?
+      hint: null
+      type: select_multiple
+      options:
+      - Workshops
+      - Concerts
+      - Meetups
+      - Online forums
+      required: false
+    - id: 5
+      name: style_connection
+      label: How do you usually connect with other drummers?
+      hint: null
+      type: select_one
+      options:
+      - In-person events
+      - Online forums
+      - Social media
+      - Private messaging
+      required: false
+    - id: 6
+      name: suggestions
+      label: Do you have any suggestions for our community?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: experience_years
+      label: How many years have you been drumming?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: practice_frequency
+      label: How often do you practice drumming?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      required: false
+    - id: 9
+      name: drumming_style_connection
+      label: What is your connection to drummers of other styles?
+      hint: null
+      type: select_one
+      options:
+      - Close
+      - Distant
+      - No connection
+      required: false
+    - id: 10
+      name: program_improvement
+      label: How can we improve our programs for you?
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,197 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Building Noise Mitigation Feedback Survey
+    pages:
+    - id: 1
+      name: survey_date
+      label: Survey Date
+      hint: When completing this survey
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: building_location
+      label: Building Location
+      hint: Name or address of building
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: unit_number
+      label: Your Unit or Room Number
+      hint: Location in building
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: occupancy_duration
+      label: How Long Have You Occupied This Space
+      hint: Duration at this location
+      type: select_one
+      options:
+        - Less than 3 months
+        - 3-6 months
+        - 6 months - 1 year
+        - 1-2 years
+        - Over 2 years
+      required: true
+    - id: 5
+      name: noise_perception
+      label: Current Noise Level Perception
+      hint: How loud is the building
+      type: select_one
+      options:
+        - Very Quiet
+        - Quiet
+        - Moderate
+        - Noisy
+        - Very Noisy
+      required: true
+    - id: 6
+      name: noise_sources
+      label: Primary Sources of Noise
+      hint: What causes the most noise
+      type: select_multiple
+      options:
+        - Traffic Outside
+        - Neighboring Units
+        - Hallway Activity
+        - Plumbing
+        - HVAC Systems
+        - Elevators
+        - Construction
+        - Other
+      required: true
+    - id: 7
+      name: peak_noise_times
+      label: Peak Noise Times
+      hint: When is it most noisy
+      type: select_multiple
+      options:
+        - Early Morning
+        - Mid-Morning
+        - Afternoon
+        - Evening
+        - Night
+        - All Day
+      required: false
+    - id: 8
+      name: noise_impact
+      label: Impact of Noise on Your Activities
+      hint: How much does it affect you
+      type: select_one
+      options:
+        - No Impact
+        - Minimal Impact
+        - Moderate Impact
+        - Significant Impact
+        - Severe Impact
+      required: true
+    - id: 9
+      name: sleep_disturbance
+      label: Noise Disrupts Your Sleep
+      hint: Does it affect sleep quality
+      type: select_one
+      options:
+        - Never
+        - Rarely
+        - Sometimes
+        - Often
+        - Always
+      required: true
+    - id: 10
+      name: work_disturbance
+      label: Noise Affects Work or Study
+      hint: Impacts concentration
+      type: select_one
+      options:
+        - No Impact
+        - Minor Impact
+        - Moderate Impact
+        - Major Impact
+      required: false
+    - id: 11
+      name: previous_complaints
+      label: Have You Reported Noise Issues Before
+      hint: Previous noise complaints
+      type: select_one
+      options:
+        - Yes
+        - No
+      required: false
+    - id: 12
+      name: complaint_response
+      label: Response to Your Noise Complaints
+      hint: How was your complaint handled
+      type: select_one
+      options:
+        - Resolved Quickly
+        - Partially Resolved
+        - Not Resolved
+        - No Action Taken
+        - Not Applicable
+      required: false
+    - id: 13
+      name: mitigation_awareness
+      label: Aware of Noise Mitigation Efforts
+      hint: Know about building improvements
+      type: select_one
+      options:
+        - Very Aware
+        - Somewhat Aware
+        - Minimally Aware
+        - Not Aware
+      required: true
+    - id: 14
+      name: mitigation_effectiveness
+      label: Effectiveness of Mitigation Efforts
+      hint: Have improvements helped
+      type: select_one
+      options:
+        - Very Effective
+        - Effective
+        - Somewhat Effective
+        - Not Effective
+        - No measures in place
+      required: false
+    - id: 15
+      name: suggested_improvements
+      label: Suggested Noise Reduction Improvements
+      hint: What would help
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: willing_to_contribute
+      label: Willing to Contribute to Solutions
+      hint: Can you help address noise
+      type: select_one
+      options:
+        - Yes
+        - Maybe
+        - No
+      required: false
+    - id: 17
+      name: overall_satisfaction
+      label: Overall Satisfaction With Noise Levels
+      hint: General satisfaction
+      type: select_one
+      options:
+        - Very Satisfied
+        - Satisfied
+        - Neutral
+        - Dissatisfied
+        - Very Dissatisfied
+      required: true

@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Educator Course Material Upload Form
+    pages:
+    - id: 1
+      name: course_material
+      label: Course Material
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: material_type
+      label: Material Type
+      hint: null
+      type: select_one
+      options:
+      - Audio
+      - Video
+      - Document
+      required: true
+    - id: 3
+      name: material_category
+      label: Material Category
+      hint: null
+      type: select_multiple
+      options:
+      - Category 1
+      - Category 2
+      - Category 3
+      required: true
+    - id: 4
+      name: uploaded_by
+      label: Uploaded By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: uploaded_at
+      label: Uploaded At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: uploaded_file_name
+      label: Uploaded File Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: uploaded_file_size
+      label: Uploaded File Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: uploaded_file
+      label: Uploaded File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: tags
+      label: Tags
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: material_url
+      label: Material URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: tags_url
+      label: Tags URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: course_name
+      label: Course Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: course_code
+      label: Course Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: course_version
+      label: Course Version
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: course_year
+      label: Course Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: course_semester
+      label: Course Semester
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: course_level
+      label: Course Level
+      hint: null
+      type: select_one
+      options:
+      - Level 1
+      - Level 2
+      required: true
+    - id: 19
+      name: course_subject
+      label: Course Subject
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: course_topic
+      label: Course Topic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: course_credits
+      label: Course Credits
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: course_duration
+      label: Course Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: material_language
+      label: Material Language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - French
+      - Other
+      required: true
+    - id: 24
+      name: material_difficulty
+      label: Material Difficulty
+      hint: null
+      type: select_one
+      options:
+      - Easy
+      - Medium
+      - Hard
+      required: true
+    - id: 25
+      name: course_status
+      label: Course Status
+      hint: null
+      type: select_one
+      options:
+      - Published
+      - Unpublished
+      - Pending
+      required: true

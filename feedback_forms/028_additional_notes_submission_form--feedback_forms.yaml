@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Additional Notes Submission Form
+    pages:
+    - id: 1
+      name: submitter_details
+      label: Submitter details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: submitter_name
+      label: Submitter name
+      hint: Your name for follow up
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: Optional email for clarification
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: related_project
+      label: Related project or ticket
+      hint: Reference if applicable
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: note_subject
+      label: Note subject
+      hint: Short summary of note
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: note_body
+      label: Note body
+      hint: Detailed note or feedback
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: priority
+      label: Priority
+      hint: Urgency of the note
+      type: select_one
+      options: [Low, Medium, High]
+      required: false
+    - id: 8
+      name: attach_reference
+      label: Attachment reference
+      hint: Link to supporting files if any
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: consent_to_contact
+      label: Consent to contact about this note
+      hint: Allow follow up from team
+      type: select_one
+      options: [Yes, No]
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional comments
+      hint: Anything else to add
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,120 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: NICU Resuscitation Feedback Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_type
+      label: event_type
+      hint: null
+      type: select_one
+      options:
+      - Event type
+      - None
+      - Normal Delivery
+      required: true
+    - id: 3
+      name: resuscitation_method
+      label: resuscitation_method
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Intubation
+      - SGA
+      - Bag-Valve-Mask
+      - Other
+      required: false
+    - id: 4
+      name: feedback_resuscitation
+      label: feedback_resuscitation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: feedback_nicu_care_team
+      label: feedback_nicu_care_team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: feedback_qi_staff
+      label: feedback_qi_staff
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: feedback_facility
+      label: feedback_facility
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: feedback_nicu_care_team_training
+      label: feedback_nicu_care_team_training
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: feedback_qi_care_team_training
+      label: feedback_qi_care_team_training
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: feedback_facility
+      label: feedback_facility
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: overall_rating
+      label: overall_rating
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 12
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

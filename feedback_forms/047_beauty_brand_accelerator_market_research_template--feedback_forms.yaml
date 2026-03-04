@@ -1,0 +1,210 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Beauty Brand Accelerator Market Research Template
+    pages:
+      - id: 1
+        name: respondent_name
+        label: Your Name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: email_address
+        label: Email Address
+        hint: For follow-up
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: age_group
+        label: Age Group
+        hint: Your age range
+        type: select_one
+        options:
+          - Under 18
+          - 18-24
+          - 25-34
+          - 35-44
+          - 45-54
+          - 55-64
+          - 65+
+        required: true
+      - id: 4
+        name: gender
+        label: Gender
+        hint: Your gender
+        type: select_one
+        options:
+          - Female
+          - Male
+          - Non-Binary
+          - Prefer Not to Say
+          - Other
+        required: true
+      - id: 5
+        name: location
+        label: Location
+        hint: City and state
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: beauty_spending
+        label: Monthly Beauty Product Spending
+        hint: How much do you spend
+        type: select_one
+        options:
+          - Under $50
+          - $50-$100
+          - $101-$200
+          - $201-$500
+          - Over $500
+        required: true
+      - id: 7
+        name: product_categories
+        label: Product Categories You Purchase
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Skincare
+          - Makeup
+          - Hair Care
+          - Fragrance
+          - Body Care
+          - Nail Care
+          - Tools and Accessories
+        required: true
+      - id: 8
+        name: shopping_channels
+        label: Where Do You Shop
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Department Stores
+          - Beauty Specialty Stores
+          - Drugstores
+          - Online Retailers
+          - Brand Websites
+          - Social Media
+          - Subscription Boxes
+        required: true
+      - id: 9
+        name: brand_loyalty
+        label: Brand Loyalty
+        hint: How loyal are you
+        type: select_one
+        options:
+          - Very Loyal - Stick to Favorites
+          - Somewhat Loyal
+          - Like to Try New Brands
+          - Always Looking for New Products
+        required: true
+      - id: 10
+        name: purchase_factors
+        label: Factors Influencing Purchases
+        hint: Select top 3
+        type: select_multiple
+        options:
+          - Price
+          - Quality
+          - Brand Reputation
+          - Ingredients
+          - Reviews
+          - Recommendations
+          - Packaging
+          - Sustainability
+          - Cruelty-Free Status
+        required: true
+      - id: 11
+        name: new_product_interest
+        label: Interest in Trying New Products
+        hint: How interested
+        type: select_one
+        options:
+          - Very Interested
+          - Somewhat Interested
+          - Neutral
+          - Not Very Interested
+          - Not Interested
+        required: true
+      - id: 12
+        name: price_sensitivity
+        label: Price Sensitivity
+        hint: How important is price
+        type: select_one
+        options:
+          - Very Important - Budget Conscious
+          - Important
+          - Neutral
+          - Not Very Important
+          - Not Important - Quality Over Price
+        required: true
+      - id: 13
+        name: ingredient_awareness
+        label: Ingredient Awareness
+        hint: Do you read labels
+        type: select_one
+        options:
+          - Always Read Ingredients
+          - Sometimes Read
+          - Rarely Read
+          - Never Read
+        required: true
+      - id: 14
+        name: sustainability_importance
+        label: Sustainability Importance
+        hint: How important
+        type: select_one
+        options:
+          - Very Important
+          - Somewhat Important
+          - Neutral
+          - Not Very Important
+          - Not Important
+        required: true
+      - id: 15
+        name: social_media_influence
+        label: Social Media Influence
+        hint: Does it affect purchases
+        type: select_one
+        options:
+          - Heavily Influenced
+          - Somewhat Influenced
+          - Neutral
+          - Not Very Influenced
+          - Not Influenced
+        required: true
+      - id: 16
+        name: pain_points
+        label: Beauty Product Pain Points
+        hint: What frustrates you
+        type: text
+        options: []
+        required: true
+      - id: 17
+        name: unmet_needs
+        label: Unmet Needs in Beauty
+        hint: What products do you wish existed
+        type: text
+        options: []
+        required: true
+      - id: 18
+        name: additional_feedback
+        label: Additional Feedback
+        hint: Any other comments
+        type: text
+        options: []
+        required: false

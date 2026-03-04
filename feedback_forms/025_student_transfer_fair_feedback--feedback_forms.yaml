@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Transfer Fair Feedback
+    pages:
+    - id: 1
+      name: introduction
+      label: Welcome to this form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: overall_experience
+      label: How did you experience this event?
+      hint: Rate your experience from 1-5
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: college_info
+      label: How well was college information presented?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: presenter_info
+      label: What did you learn from the event?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_info
+      label: Were there any events or programs that stood out to you?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: presenter_info
+      label: What did you like about the presenters?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: college_info
+      label: What did you dislike about the colleges?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: overall_value
+      label: Would you attend this event again?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: false
+    - id: 9
+      name: additional_comments
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: false

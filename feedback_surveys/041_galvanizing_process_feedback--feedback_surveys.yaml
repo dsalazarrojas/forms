@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Galvanizing Process Feedback
+    pages:
+    - id: 1
+      name: feedback_form_data
+      label: Feedback Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: galvanizing_process_run
+      label: Galvanizing Process Run
+      hint: Please provide the galvanizing process run number.
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: issues_found
+      label: Issues Found
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Issue with the galvanizing line
+      - Issue with the process
+      - Other
+      required: false
+    - id: 4
+      name: issue_description
+      label: Issue Description
+      hint: Provide a detailed description of the issue.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: satisfaction_rating
+      label: Satisfaction Rating
+      hint: Rate your satisfaction with this galvanizing process run.
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: additional_comments
+      label: Additional Comments
+      hint: Is there anything else you'd like to comment on?
+      type: text
+      options: []
+      required: false

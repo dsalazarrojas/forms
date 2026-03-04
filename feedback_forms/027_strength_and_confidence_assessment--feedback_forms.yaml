@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Strength and Confidence Assessment
+    pages:
+    - id: 1
+      name: self_assessment
+      label: Self Assessment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: confidence_level
+      label: Confidence Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: growth_areas
+      label: Growth Areas
+      hint: Which areas do you feel you've grown in?
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: self_assurance_levels
+      label: Self Assurance Levels
+      hint: Where do you feel you stand on the self-assurance scale?
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 5
+      name: current_level
+      label: Current Level
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 6
+      name: goal_level
+      label: Goal Level
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 7
+      name: progress_towards_goal
+      label: Progress Towards Goal
+      hint: null
+      type: select_one
+      options:
+      - Slow
+      - Medium
+      - Fast
+      required: false
+    - id: 8
+      name: barriers
+      label: Barriers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: next_steps
+      label: Next Steps
+      hint: What steps do you plan on taking?
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: self_reflection
+      label: Self Reflection
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: follow_up_actions
+      label: Follow-up Actions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: self_assurance_level_comments
+      label: Self Assurance Level Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: confidence_level_comments
+      label: Confidence Level Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: follow_up_questions
+      label: Follow-up Questions
+      hint: Are there any additional questions you'd like to ask the assessor?
+      type: text
+      options: []
+      required: false

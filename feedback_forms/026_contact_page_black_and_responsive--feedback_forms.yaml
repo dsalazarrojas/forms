@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Page Black And Responsive
+    pages:
+    - id: 1
+      name: page_header
+      label: Contact Us
+      hint: Get in touch with us
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: visitor_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: visitor_email
+      label: Email Address
+      hint: So we can respond
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: visitor_phone
+      label: Phone Number
+      hint: Optional contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: subject
+      label: Subject
+      hint: What is this regarding
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: category
+      label: Inquiry Category
+      hint: Select category
+      type: select_one
+      options:
+      - General Inquiry
+      - Customer Support
+      - Sales Question
+      - Technical Issue
+      - Feedback
+      - Partnership
+      required: true
+    - id: 7
+      name: message
+      label: Your Message
+      hint: Write your message
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: priority
+      label: Priority
+      hint: How urgent
+      type: select_one
+      options:
+      - Low
+      - Normal
+      - High
+      - Urgent
+      required: false
+    - id: 9
+      name: preferred_response
+      label: Preferred Response Method
+      hint: How to contact you
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - Either
+      required: true
+    - id: 10
+      name: newsletter
+      label: Subscribe to Newsletter
+      hint: Receive updates
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 11
+      name: referral_source
+      label: How Did You Find Us
+      hint: Referral source
+      type: select_one
+      options:
+      - Search Engine
+      - Social Media
+      - Friend Referral
+      - Advertisement
+      - Direct Visit
+      - Other
+      required: false

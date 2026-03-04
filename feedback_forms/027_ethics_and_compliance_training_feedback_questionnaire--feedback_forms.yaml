@@ -1,0 +1,55 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ethics And Compliance Training Feedback Questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: training_satisfaction
+      label: Training Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: instructor_performance
+      label: Instructors Performance
+      hint: Please rate the instructor's performance
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 4
+      name: course_materials
+      label: Course Materials
+      hint: null
+      type: select_multiple
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 5
+      name: feedback_on_training
+      label: Feedback On Training
+      hint: Please provide feedback on the training
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

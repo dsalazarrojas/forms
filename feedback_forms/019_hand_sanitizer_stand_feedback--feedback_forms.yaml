@@ -1,0 +1,40 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hand Sanitizer Stand Feedback
+    pages:
+    - id: 1
+      name: usage_rating
+      label: Overall Usage
+      hint: Rate your overall usage of the hand sanitizer stand.
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: satisfaction_rating
+      label: Overall Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: improvement_suggestion
+      label: Improvement Suggestion
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

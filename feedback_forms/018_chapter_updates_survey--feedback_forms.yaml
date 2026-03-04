@@ -1,0 +1,93 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Chapter Updates Survey
+    pages:
+      - id: 1
+        name: header
+        label: -- Chapter Updates --
+        hint: Provide updates on chapter activities, needs, and announcements
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: update_title
+        label: update title
+        hint: brief headline for the update
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: update_summary
+        label: update summary
+        hint: short description of the update
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: impacted_members
+        label: impacted members
+        hint: who is affected by this update
+        type: select_multiple
+        options:
+          - All members
+          - Leadership
+          - Volunteers
+          - Specific committee
+        required: false
+      - id: 5
+        name: urgency_level
+        label: urgency level
+        hint: indicate the priority of this update
+        type: select_one
+        options:
+          - Low
+          - Medium
+          - High
+        required: true
+      - id: 6
+        name: planned_action
+        label: planned action
+        hint: what will be done in response to this update
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: requested_support
+        label: requested support
+        hint: any assistance requested from members or leadership
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: follow_up_contact
+        label: follow up contact
+        hint: person to contact for more information
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: update_date
+        label: update date
+        hint: date of submission
+        type: date
+        options: []
+        required: true
+      - id: 10
+        name: attachments
+        label: attachments
+        hint: reference to supporting documents if any
+        type: text
+        options: []
+        required: false

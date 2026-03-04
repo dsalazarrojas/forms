@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Satisfaction
+    pages:
+    - id: 1
+      name: introduction
+      label: customer-satisfaction-survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: customer-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: question_1
+      label: what-is-your-relationship-with-this-company
+      hint: null
+      type: select_one
+      options:
+      - option-1
+      - option-2
+      - option-3
+      required: false
+    - id: 4
+      name: question_2
+      label: what-was-the-main-purpose-of-your-visit
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: question_3
+      label: how-do-you-rate-the-quality-of-our-product
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: question_4
+      label: have-you-contacted-our-customer-service
+      hint: null
+      type: select_one
+      options:
+      - option-1
+      - option-2
+      - option-3
+      required: false
+    - id: 7
+      name: question_5
+      label: do-you-had-any-technical-issues-during-your-last-visit
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: question_6
+      label: do-you-have-any-suggestions-for-improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: question_7
+      label: do-you-want-to-receive-future-updates
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: question_8
+      label: do-you-want-to-be-entered-in-our-survey-pool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: question_9
+      label: how-would-you-rate-your-overall-experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: question_10
+      label: do-you-want-to-contact-us
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: customer_email
+      label: customer-email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: customer_phone
+      label: customer-phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: question_11
+      label: do-you-have-any-comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: question_12
+      label: do-you-want-to-be-entered-in-our-survey-pool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

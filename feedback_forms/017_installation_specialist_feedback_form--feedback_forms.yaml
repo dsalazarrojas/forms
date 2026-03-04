@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Installation Specialist Feedback Form
+    pages:
+    - id: 1
+      name: installation_specialist_feedback_form
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: installation_date
+      label: installation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: service_quality
+      label: service_quality
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Excellent'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''Good'', ''value'': 2}'
+      - '{''id'': 3, ''label'': ''Fair'', ''value'': 3}'
+      - '{''id'': 4, ''label'': ''Poor'', ''value'': 4}'
+      required: true
+    - id: 6
+      name: communication
+      label: communication
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Excellent'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''Good'', ''value'': 2}'
+      - '{''id'': 3, ''label'': ''Fair'', ''value'': 3}'
+      - '{''id'': 4, ''label'': ''Poor'', ''value'': 4}'
+      - '{''id'': 5, ''label'': ''Very poor'', ''value'': 5}'
+      required: true
+    - id: 7
+      name: additional_feedback
+      label: additional_feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: overall_experience
+      label: overall_experience
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Excellent'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''Good'', ''value'': 2}'
+      - '{''id'': 3, ''label'': ''Fair'', ''value'': 3}'
+      - '{''id'': 4, ''label'': ''Poor'', ''value'': 4}'
+      - '{''id'': 5, ''label'': ''Very poor'', ''value'': 5}'
+      required: true

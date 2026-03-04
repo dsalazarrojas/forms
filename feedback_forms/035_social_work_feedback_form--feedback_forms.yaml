@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Work Feedback Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Welcome to our Social Work Feedback Form!
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: service_provided
+      label: Service Provided
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: service_recipient
+      label: Service Recipient
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: feedback_question1
+      label: What did we do well?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: feedback_question2
+      label: What could we do better?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: suggestions
+      label: Do you have any suggestions?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: service_recipient_other
+      label: Service Recipient (other)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: date_visited
+      label: Date Visited
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time_visited
+      label: Time Visited
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: staff_member
+      label: Staff Member
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: feedback_score
+      label: Feedback Score
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submit_comment
+      label: Please enter a brief message.
+      hint: null
+      type: text
+      options: []
+      required: true

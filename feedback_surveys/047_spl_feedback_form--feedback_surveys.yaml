@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: SPL Feedback Form
+    pages:
+    - id: 1
+      name: feedback_form
+      label: feedback_form
+      hint: Provide feedback on the SPL
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: comment
+      label: comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: name_of_spl
+      label: name_of_spl
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: rating_of_spl
+      label: rating_of_spl
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: select_one
+      label: select_one
+      hint: Select one
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 12
+      name: select_multiple
+      label: select_multiple
+      hint: Select multiple
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 13
+      name: date_of_visit
+      label: date_of_visit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: time_of_visit
+      label: time_of_visit
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 15
+      name: rating_of_facility
+      label: rating_of_facility
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: name_of_facility
+      label: name_of_facility
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: select_multiple2
+      label: select_multiple2
+      hint: Select multiple 2
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 18
+      name: rating2
+      label: rating2
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: comment2
+      label: comment2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: select_one2
+      label: select_one2
+      hint: Select one 2
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 21
+      name: date2
+      label: date2
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: time2
+      label: time2
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 23
+      name: rating3
+      label: rating3
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: comment3
+      label: comment3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: select_multiple3
+      label: select_multiple3
+      hint: Select multiple 3
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

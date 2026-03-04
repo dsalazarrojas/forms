@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Security Deposit Assistance Application
+    pages:
+    - id: 1
+      name: tenant_name
+      label: Tenant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: application_date
+      label: Application Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: tenant_id
+      label: Tenant ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: deposit_amount
+      label: Deposit Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: upload_deposit
+      label: Upload Deposit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: upload_proof
+      label: Upload Proof
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: upload_documents
+      label: Upload Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: upload_signature
+      label: Upload Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: review_by
+      label: Reviewed By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Not Approved
+      - Pending
+      required: false

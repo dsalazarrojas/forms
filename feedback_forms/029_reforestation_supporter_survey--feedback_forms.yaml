@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Reforestation Supporter Survey
+    pages:
+    - id: 1
+      name: form_title
+      label: Reforestation Supporter Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Email''}'
+      - '{''id'': 2, ''label'': ''Phone''}'
+      required: false
+    - id: 6
+      name: preferred_language
+      label: Preferred Language
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''English''}'
+      - '{''id'': 2, ''label'': ''French''}'
+      - '{''id'': 3, ''label'': ''Spanish''}'
+      required: false
+    - id: 7
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: how_did_you_hear
+      label: How Did You Hear About Us
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Social Media''}'
+      - '{''id'': 2, ''label'': ''Email''}'
+      - '{''id'': 3, ''label'': ''Word of Mouth''}'
+      - '{''id'': 4, ''label'': ''Online Search''}'
+      - '{''id'': 5, ''label'': ''Other''}'
+      - '{''id'': 6, ''label'': ''Friend''}'
+      - '{''id'': 7, ''label'': ''Family''}'
+      - '{''id'': 8, ''label'': ''Print Ad''}'
+      - '{''id'': 9, ''label'': ''Newspaper Ad''}'
+      - '{''id'': 10, ''label'': ''TV Ad''}'
+      required: false
+    - id: 9
+      name: how_satisfied
+      label: How Satisfied
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Very Satisfied''}'
+      - '{''id'': 2, ''label'': ''Satisfied''}'
+      - '{''id'': 3, ''label'': ''Neutral''}'
+      - '{''id'': 4, ''label'': ''Dissatisfied''}'
+      - '{''id'': 5, ''label'': ''Very Dissatisfied''}'
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

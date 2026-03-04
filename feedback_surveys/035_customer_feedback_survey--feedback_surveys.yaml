@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Feedback Survey
+    pages:
+    - id: 1
+      name: customer_feedback_survey
+      label: customer_feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''General'', ''label'': ''General''}'
+      - '{''value'': ''Technical'', ''label'': ''Technical''}'
+      - '{''value'': ''Billing'', ''label'': ''Billing''}'
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: satisfaction_level
+      label: satisfaction level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: service_area
+      label: service area
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Front Desk'', ''label'': ''Front Desk''}'
+      - '{''value'': ''Back Office'', ''label'': ''Back Office''}'
+      - '{''value'': ''Both'', ''label'': ''Both''}'
+      required: false
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: assigned tool
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''chatjimmy'', ''label'': ''chatjimmy''}'
+      - Other
+      required: true
+    - id: 11
+      name: form_id
+      label: form_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: output_file
+      label: output_file
+      hint: null
+      type: text
+      options: []
+      required: false

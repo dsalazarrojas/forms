@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Unemployment Claim Termination Appeal Form
+    pages:
+    - id: 1
+      name: claimant_name
+      label: Claimant Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: claimant_address
+      label: Claimant Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: claimant_phone
+      label: Claimant Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: reason_for_termination
+      label: Reason for Termination
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Layoff''}'
+      - '{''value'': ''Redeployment''}'
+      - '{''value'': ''Retirement''}'
+      - '{''value'': ''Resignation''}'
+      - '{''value'': ''Death''}'
+      - '{''value'': ''Disability''}'
+      required: false
+    - id: 5
+      name: termination_date
+      label: Termination Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: termination_reason
+      label: Termination Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: claimant_signature
+      label: Claimant Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: organization_address
+      label: Organization Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: organization_phone
+      label: Organization Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: termination_request
+      label: Termination Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: file1
+      label: File 1
+      hint: null
+      type: text
+      options: []
+      required: false

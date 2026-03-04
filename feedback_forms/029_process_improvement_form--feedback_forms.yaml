@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Process Improvement Form
+    pages:
+    - id: 1
+      name: category
+      label: Feedback Forms
+      hint: null
+      type: select_one
+      options:
+      - Feedback Forms
+      - Other
+      - None
+      required: false
+    - id: 2
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: note
+      label: Additional Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

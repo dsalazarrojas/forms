@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Form Copy Paste Feedback
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: copy_paste_feature
+      label: Copy Paste Feature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: satisfaction
+      label: Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: issues_found
+      label: Issues Found
+      hint: null
+      type: select_one
+      options:
+      - Device
+      - Browser
+      - Feature
+      - None
+      required: true
+    - id: 5
+      name: issue_description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: true

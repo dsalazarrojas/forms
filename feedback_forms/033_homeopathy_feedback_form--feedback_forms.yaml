@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Homeopathy Feedback Form
+    pages:
+    - id: 1
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_of_treatment
+      label: Date of Treatment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_of_treatment
+      label: Time of Treatment
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: type_of_treatment
+      label: Type of Treatment
+      hint: null
+      type: select_one
+      options:
+      - Acupuncture
+      - Homeopathy
+      - Herbalism
+      required: true
+    - id: 10
+      name: dosage_of_treatment
+      label: Dosage
+      hint: null
+      type: select_multiple
+      options:
+      - 30 minutes
+      - 1 day
+      - 1 week
+      - 1 month
+      - 6 months
+      required: false
+    - id: 11
+      name: follow_up
+      label: Follow up
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Not Sure
+      required: true
+    - id: 12
+      name: follow_up_details
+      label: Follow up Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: assigned_to
+      label: Assigned to
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - chat_bobby
+      - chat_jimmy
+      required: true
+    - id: 15
+      name: assigned_date
+      label: Assigned Date
+      hint: null
+      type: date
+      options: []
+      required: false

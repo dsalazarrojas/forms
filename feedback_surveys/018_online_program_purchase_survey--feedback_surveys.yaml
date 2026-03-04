@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Program Purchase Survey
+    pages:
+    - id: 1
+      name: program_purchase_survey
+      label: Program Purchase Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: program_name
+      label: Program Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: purchase_type
+      label: Purchase Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: purchase_date
+      label: Purchase Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: purchased_from
+      label: Purchased From
+      hint: null
+      type: text
+      options: []
+      required: false

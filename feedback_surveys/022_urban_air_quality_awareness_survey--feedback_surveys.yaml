@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Urban Air Quality Awareness Survey
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: air_quality_perceptions
+      label: Air Quality Perceptions
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Excellent''}'
+      - '{''id'': 2, ''name'': ''Good''}'
+      - '{''id'': 3, ''name'': ''Fair''}'
+      required: false
+    - id: 3
+      name: behavioral_changes
+      label: Behavioral Changes
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      required: false
+    - id: 4
+      name: behaviors
+      label: Behaviors
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Use electric vehicle''}'
+      - '{''id'': 2, ''name'': ''Use public transportation''}'
+      - '{''id'': 3, ''name'': ''Reduce vehicle usage''}'
+      required: false
+    - id: 5
+      name: time_spent_outdoors
+      label: Time Spent Outdoors
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: air_quality
+      label: Air Quality
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: air_quality_score
+      label: Air Quality Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''User''}'
+      - '{''id'': 2, ''name'': ''Guest''}'
+      required: false
+    - id: 12
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: submitted
+      label: Submitted
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Urban''}'
+      - '{''id'': 2, ''name'': ''Rural''}'
+      required: false

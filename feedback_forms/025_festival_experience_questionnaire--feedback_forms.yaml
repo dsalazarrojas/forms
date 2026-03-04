@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Festival Experience Questionnaire
+    pages:
+    - id: 1
+      name: festival_experience_questionnaire
+      label: festival_experience_questionnaire
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: overall_experience
+      label: overall_experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: favorite_performance
+      label: favorite_performance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: favorite_performance_id
+      label: favorite_performance_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: favorite_performance_title
+      label: favorite_performance_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: favorite_performance_description
+      label: favorite_performance_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: favorite_performance_image
+      label: favorite_performance_image
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: favorite_performance_image_id
+      label: favorite_performance_image_id
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: favorite_performance_image_title
+      label: favorite_performance_image_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: favorite_performance_image_description
+      label: favorite_performance_image_description
+      hint: null
+      type: text
+      options: []
+      required: false

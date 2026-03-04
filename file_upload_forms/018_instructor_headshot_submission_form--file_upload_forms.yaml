@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Instructor Headshot Submission Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: file
+      label: File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: upload_file
+      label: Upload File
+      hint: null
+      type: text
+      options: []
+      required: false

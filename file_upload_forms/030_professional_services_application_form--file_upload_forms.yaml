@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Professional Services Application Form
+    pages:
+    - id: 1
+      name: main
+      label: Main
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: file_1
+      label: resume
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: file_2
+      label: portfolio
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: experience
+      label: experience
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: availability
+      label: availability
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: skills
+      label: skills
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: services
+      label: services
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: contact
+      label: contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: confirm
+      label: confirm
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: signature
+      label: signature
+      hint: null
+      type: date
+      options: []
+      required: false

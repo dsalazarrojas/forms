@@ -1,0 +1,26 @@
+inputSchema:
+  type: object
+  properties:
+    title: studio_usage_feedback
+    pages:
+    - id: 1
+      name: session_rating
+      label: Session Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: session_comments
+      label: Session Comments
+      hint: Please share any thoughts or feedback you have about your session.
+      type: text
+      options: []
+      required: false

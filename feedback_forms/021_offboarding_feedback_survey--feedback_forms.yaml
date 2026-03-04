@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Offboarding Feedback Survey
+    pages:
+    - id: 1
+      name: offboarding_feedback_survey_questions
+      label: Offboarding Questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: question_1
+      label: Why are you leaving
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 3
+      name: question_2
+      label: What is your reason for leaving
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: question_3
+      label: How can we improve
+      hint: null
+      type: select_multiple
+      options:
+      - Option A
+      - Option B
+      - Option C
+      required: true
+    - id: 5
+      name: question_4
+      label: Do you have any other feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: offboarding_date
+      label: Offboarding Date
+      hint: MM/DD/YY
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: offboarding_time
+      label: Offboarding Time
+      hint: "12:00 PM"
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: question_5
+      label: How many days in advance
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: question_6
+      label: How can we contact you
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: question_7
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: question_8
+      label: What is your email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: question_9
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: question_10
+      label: Position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: question_11
+      label: What is your role
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 15
+      name: question_12
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tourist attraction feedback questionnaire
+    pages:
+    - id: 1
+      name: tourist_attraction_name
+      label: Tourist Attraction Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: rating
+      label: Rate your experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: rating_comment
+      label: Additional rating comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: tourist_attraction_address
+      label: Tourist attraction address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: feedback
+      label: What do you think can be improved?
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: rating_date
+      label: Rating date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: rating_time
+      label: Rating time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: tourist_attraction_feedback
+      label: How likely are you to recommend this tourist attraction?
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Not at all likely''}'
+      - Other
+      required: false
+    - id: 11
+      name: tourist_attraction_comments
+      label: Any additional comments?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Maybe''}'
+      - Other
+      required: false
+    - id: 12
+      name: tourist_attraction_image
+      label: Attach an image
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: tourist_attraction_document
+      label: Attach a document
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: tourist_attraction_video
+      label: Attach a video
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: tourist_attraction_audio
+      label: Attach an audio
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: tourist_attraction_other_attachment
+      label: Attach other
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: tourist_attraction_other_description
+      label: Attach description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: tourist_attraction_other_filename
+      label: Attach filename
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: tourist_attraction_other_file_type
+      label: Attach file type
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: tourist_attraction_other_file_url
+      label: Attach url
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: tourist_attraction_other_file_size
+      label: Attach file size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: tourist_attraction_other_file_mimetype
+      label: Attach mimetype
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: tourist_attraction_other_file_size_unit
+      label: Attach size unit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: tourist_attraction_other_file_name
+      label: Attach filename
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: tourist_attraction_other_file_description
+      label: Attach description
+      hint: null
+      type: text
+      options: []
+      required: false

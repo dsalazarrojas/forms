@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fire Safety Compliance Feedback Survey
+    pages:
+    - id: 1
+      name: facility_id
+      label: facility
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: equipment_condition_id
+      label: equipment_condition
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: drill_frequency_id
+      label: drill_frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: safety_practices_id
+      label: safety_practices
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Very Good''}'
+      - '{''id'': 2, ''label'': ''Fair''}'
+      - '{''id'': 3, ''label'': ''Poor''}'
+      required: false
+    - id: 5
+      name: comments_id
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: fire_equipment_id
+      label: fire_equipment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: fire_equipment_status_id
+      label: fire_equipment_status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Working''}'
+      - '{''id'': 2, ''label'': ''Not working''}'
+      - '{''id'': 3, ''label'': ''Unknown''}'
+      required: false
+    - id: 8
+      name: fire_equipment_last_inspection_date_id
+      label: fire_equipment_last_inspection_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: fire_equipment_next_inspection_date_id
+      label: fire_equipment_next_inspection_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: fire_equipment_last_inspection_result_id
+      label: fire_equipment_last_inspection_result
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Pass''}'
+      - '{''id'': 2, ''label'': ''Fail''}'
+      - '{''id'': 3, ''label'': ''Unknown''}'
+      required: false
+    - id: 11
+      name: fire_equipment_maintenance_id
+      label: fire_equipment_maintenance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emergency_contact_info_id
+      label: emergency_contact_info
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Media Engagement Questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: What is your favorite social media platform
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: favorite_platform
+      label: What is your favorite social media platform
+      hint: Enter the name of the social media platform
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: how_often_post
+      label: How often do you post on social media
+      hint: null
+      type: select_one
+      options:
+      - Facebook
+      - Twitter
+      - Instagram
+      - TikTok
+      - Pinterest
+      required: false
+    - id: 4
+      name: posting_frequency
+      label: Posting frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Every day
+      - Several times a week
+      - Occasionally
+      required: false
+    - id: 5
+      name: time_of_posting
+      label: Time of posting
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: engagement_preferences
+      label: What do you like most about our social media engagement
+      hint: null
+      type: select_multiple
+      options:
+      - Interaction with friends
+      - Interaction with our brand
+      - Educational content
+      - Entertainment
+      - Other
+      required: false
+    - id: 7
+      name: interaction_with_friends
+      label: What do you like most about our social media interaction with friends
+      hint: Tell us more about our interactions with your friends on social media
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: interaction_with_brand
+      label: What do you like most about our social media interaction with our brand
+      hint: Tell us more about our interactions with your brand on social media
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: educational_content
+      label: What type of educational content would you like to see on our social
+        media
+      hint: Tell us about the type of educational content you would like to see
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: entertainment_content
+      label: What type of entertainment content would you like to see on our social
+        media
+      hint: Tell us about the type of entertainment content you would like to see
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: web_tracking_evaluation_survey
+    pages:
+    - id: 1
+      name: web_tracking_evaluation_survey_page_1
+      label: user_input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tracking_technology
+      label: which_tracking_technology_do_you_use
+      hint: null
+      type: select_one
+      options:
+      - web_tracking_cookies
+      - web_beacons
+      - web_pixel
+      required: false
+    - id: 3
+      name: tracking_data
+      label: what_type_of_data_do_you_collect
+      hint: null
+      type: select_multiple
+      options:
+      - user_data
+      - browser_history
+      - search_history
+      required: false
+    - id: 4
+      name: data_collection
+      label: how_do_you_collect_data
+      hint: null
+      type: select_one
+      options:
+      - server_side
+      - browser_side
+      - both
+      required: false
+    - id: 5
+      name: data_storage
+      label: where_do_you_store_data
+      hint: null
+      type: select_one
+      options:
+      - local_server
+      - remote_server
+      - both
+      required: false
+    - id: 6
+      name: data_security
+      label: how_do_you_protect_your_data
+      hint: null
+      type: select_one
+      options:
+      - encryption
+      - pseudonymization
+      - hashing
+      required: false
+    - id: 7
+      name: survey_experience
+      label: how_would_you_rate_your_survey_experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: user_experience
+      label: how_would_you_rate_your_user_experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: overall_experience
+      label: overall_experience
+      hint: null
+      type: text
+      options: []
+      required: false

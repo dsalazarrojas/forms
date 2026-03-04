@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stock Image Requisition Form
+    pages:
+    - id: 1
+      name: request_form
+      label: Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: image_type
+      label: Image Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''photo''}'
+      - '{''id'': 2, ''name'': ''graphic''}'
+      - '{''id'': 3, ''name'': ''illustration''}'
+      required: false
+    - id: 4
+      name: image_type_id
+      label: Image Type
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: submit_button
+      label: Submit Button
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: project_image_count
+      label: Project Image Count
+      hint: Enter the number of images you need for your project
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: project_image_count_label
+      label: Images Needed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: file
+      label: File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: user
+      label: User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: image_url
+      label: Image URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submit
+      label: Submit
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

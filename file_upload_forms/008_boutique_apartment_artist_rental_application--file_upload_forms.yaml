@@ -1,0 +1,72 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Boutique Apartment Artist Rental Application
+    pages:
+      - id: 1
+        name: applicant_name
+        label: Applicant name
+        hint: Full name of artist
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: contact_email
+        label: Contact email
+        hint: Preferred contact email
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: portfolio_url
+        label: Portfolio URL
+        hint: Link to portfolio or samples
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: proposed_dates
+        label: Proposed residency dates
+        hint: Preferred start and end dates
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: art_medium
+        label: Primary art medium
+        hint: Painting sculpture installation photography etc
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: space_requirements
+        label: Space requirements
+        hint: Size power and storage needs
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: file_uploads
+        label: File uploads
+        hint: Attach portfolio files or images using the upload tool
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: additional_notes
+        label: Additional notes
+        hint: Any other details for the application
+        type: text
+        options: []
+        required: false

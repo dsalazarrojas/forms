@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Character Merchandise Submission
+    pages:
+    - id: 1
+      name: header
+      label: -- Merchandise Submission --
+      hint: Submit product proposals and files for character merchandise review
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: submitter_name
+      label: submitter name
+      hint: full name of the creator or vendor
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: contact email
+      hint: contact for follow up
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: product_name
+      label: product name
+      hint: name of the proposed merchandise
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: product_description
+      label: product description
+      hint: brief description of the item
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: suggested_retail_price
+      label: suggested retail price
+      hint: price in local currency
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: product_files
+      label: product files
+      hint: attach design mockups or photos (reference link)
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: manufacturing_lead_time
+      label: manufacturing lead time
+      hint: estimated production time in weeks
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: licensing_agreement_status
+      label: licensing agreement status
+      hint: indicate if licensing is in place
+      type: select_one
+      options:
+      - Licensed
+      - Pending
+      - Not needed
+      required: true
+    - id: 10
+      name: additional_notes
+      label: additional notes
+      hint: other relevant information
+      type: text
+      options: []
+      required: false

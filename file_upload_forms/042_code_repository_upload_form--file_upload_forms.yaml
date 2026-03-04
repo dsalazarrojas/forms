@@ -1,0 +1,187 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Code Repository Upload Form
+    pages:
+    - id: 1
+      name: section_contributor_info
+      label: -- Contributor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contributor_name
+      label: Contributor Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: github_username
+      label: GitHub Username
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: organization
+      label: Organization or Company
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_repo_details
+      label: -- Repository Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: repo_name
+      label: Repository Name
+      hint: Name of the code repository
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: repo_description
+      label: Repository Description
+      hint: Brief description of the repository
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: repo_url
+      label: Repository URL
+      hint: Link to the repository
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: programming_languages
+      label: Programming Languages Used
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Python
+      - JavaScript
+      - Java
+      - C++
+      - Ruby
+      - Go
+      - Rust
+      - Other
+      required: true
+    - id: 11
+      name: repo_type
+      label: Repository Type
+      hint: null
+      type: select_one
+      options:
+      - Application
+      - Library
+      - Framework
+      - Tool
+      - Documentation
+      - Other
+      required: true
+    - id: 12
+      name: section_upload
+      label: -- Code Upload --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: code_file
+      label: Upload Code File
+      hint: Compressed archive or individual files
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: documentation_file
+      label: Upload Documentation
+      hint: README or documentation file
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: license_type
+      label: License Type
+      hint: null
+      type: select_one
+      options:
+      - MIT
+      - Apache 2.0
+      - GPL
+      - BSD
+      - Proprietary
+      - Other
+      required: true
+    - id: 16
+      name: section_details
+      label: -- Additional Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: version_number
+      label: Version Number
+      hint: Current version of the code
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: dependencies
+      label: Dependencies or Requirements
+      hint: List any external libraries needed
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: installation_instructions
+      label: Installation Instructions
+      hint: How to set up and use the code
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: contact_method
+      label: Preferred Contact Method
+      hint: How should we contact you?
+      type: select_one
+      options:
+      - Email
+      - GitHub
+      - Phone
+      - Other
+      required: false
+    - id: 21
+      name: upload_date
+      label: Upload Date
+      hint: null
+      type: date
+      options: []
+      required: true

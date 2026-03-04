@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Post Event Feedback Form
+    pages:
+    - id: 1
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: attendees
+      label: Attendees
+      hint: null
+      type: select_multiple
+      options:
+      - Attendee 1
+      - Attendee 2
+      - Attendee 3
+      required: true
+    - id: 3
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: select_one
+      options:
+      - Not Satisfied
+      - Somewhat Satisfied
+      - Satisfied
+      required: true
+    - id: 4
+      name: event_organization
+      label: Event Organization
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      required: true
+    - id: 5
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: comment
+      label: Comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: rating_comment
+      label: Rating Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: event_topic
+      label: Event Topic
+      hint: null
+      type: select_one
+      options:
+      - Topic 1
+      - Topic 2
+      required: true
+    - id: 9
+      name: rating_score
+      label: Rating Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: rating_outlook
+      label: Rating Outlook
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Not Very Good
+      required: false

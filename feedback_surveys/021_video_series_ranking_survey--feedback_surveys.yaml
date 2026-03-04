@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Video Series Ranking Survey
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: video_series
+      label: Video Series
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: episode_number
+      label: Episode Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: watched_episodes
+      label: Watched Episodes
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: favorite_episodes
+      label: Favorite Episodes
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: watched_series
+      label: Watched Series
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: watch_time
+      label: Watch Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: watch_date
+      label: Watch Date
+      hint: null
+      type: date
+      options: []
+      required: false

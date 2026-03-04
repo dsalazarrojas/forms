@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Feature Assessment Form
+    pages:
+    - id: 1
+      name: feature_assessment_form
+      label: Feature Assessment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: feature_priority
+      label: Feature Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 3
+      name: product_features
+      label: Product Features
+      hint: null
+      type: select_multiple
+      options:
+      - Feature 1
+      - Feature 2
+      - Feature 3
+      required: false
+    - id: 4
+      name: feature_rationale
+      label: Feature Rationale
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: feature_impact
+      label: Feature Impact
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: business_value
+      label: Business Value
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 7
+      name: product_owner
+      label: Product Owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: stakeholders_involved
+      label: Stakeholders Involved
+      hint: null
+      type: select_multiple
+      options:
+      - Stakeholder 1
+      - Stakeholder 2
+      - Stakeholder 3
+      required: false
+    - id: 9
+      name: business_risks
+      label: Business Risks
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: cost_of_changes
+      label: Cost of Changes
+      hint: null
+      type: number
+      options: []
+      required: false

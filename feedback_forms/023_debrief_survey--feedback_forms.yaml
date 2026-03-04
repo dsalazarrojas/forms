@@ -1,0 +1,70 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Debrief Survey
+    pages:
+    - id: 1
+      name: event_summary
+      label: Event Summary
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: what_went_well
+      label: What Went Well
+      hint: null
+      type: select_multiple
+      options:
+      - Success
+      - Challenges
+      - Opportunities
+      - Other
+      required: false
+    - id: 3
+      name: what_to_improve
+      label: What to Improve
+      hint: null
+      type: select_multiple
+      options:
+      - Communication
+      - Timing
+      - Resources
+      - Other
+      required: false
+    - id: 4
+      name: effectiveness_rating
+      label: Overall Effectiveness Rating
+      hint: null
+      type: select_one
+      options:
+      - Very Effective
+      - Somewhat Effective
+      - Not Effective
+      - Other
+      required: false
+    - id: 5
+      name: feedback
+      label: Open-Ended Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false

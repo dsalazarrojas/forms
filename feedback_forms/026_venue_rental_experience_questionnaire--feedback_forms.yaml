@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: venue_rental_experience_questionnaire
+    pages:
+    - id: 1
+      name: first_page
+      label: first_page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: event_type
+      label: event_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Wedding''}'
+      - '{''id'': 2, ''label'': ''Corporate event''}'
+      - '{''id'': 3, ''label'': ''Birthday party''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: true
+    - id: 3
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: event_start_time
+      label: event_start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: event_end_time
+      label: event_end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: number_of_guests
+      label: number_of_guests
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: event_details
+      label: event_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: overall_experience
+      label: overall_experience
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Very poor''}'
+      - '{''id'': 2, ''label'': ''Poor''}'
+      - '{''id'': 3, ''label'': ''Neutral''}'
+      - '{''id'': 4, ''label'': ''Good''}'
+      - '{''id'': 5, ''label'': ''Excellent''}'
+      required: true
+    - id: 9
+      name: suggestions
+      label: suggestions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: contact_information
+      label: contact_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false

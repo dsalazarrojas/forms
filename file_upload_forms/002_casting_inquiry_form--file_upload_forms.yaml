@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Casting Inquiry Form
+    pages:
+    - id: 1
+      name: section_inquiry_details
+      label: -- Inquiry Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: inquiry_date
+      label: Inquiry Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: production_title
+      label: Production Title
+      hint: Name of the film, TV show, or theater production
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: production_type
+      label: Production Type
+      hint: null
+      type: select_one
+      options:
+      - Film
+      - Television
+      - Theater
+      - Commercial
+      - Web Series
+      - Other
+      required: true
+    - id: 5
+      name: section_talent_information
+      label: -- Talent Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: talent_name
+      label: Talent Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: talent_email
+      label: Talent Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: talent_phone
+      label: Talent Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: talent_age
+      label: Talent Age or Age Range
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: section_role_details
+      label: -- Role Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: character_role
+      label: Character Role
+      hint: Name and brief description of the character
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: role_description
+      label: Role Description
+      hint: Character background, personality, key traits
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: role_size
+      label: Role Size
+      hint: Lead, supporting, or extra
+      type: select_one
+      options:
+      - Lead
+      - Supporting
+      - Featured Extra
+      - Extra
+      - Recurring
+      required: true
+    - id: 14
+      name: screen_time_estimate
+      label: Estimated Screen Time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: section_submission_details
+      label: -- Submission Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: headshot_uploaded
+      label: Headshot Submitted
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: resume_uploaded
+      label: Resume Submitted
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: demo_reel_link
+      label: Demo Reel or Portfolio Link
+      hint: URL to video samples or online portfolio
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: previous_work
+      label: Previous Relevant Work
+      hint: Films, TV shows, or productions similar to this role
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: section_availability
+      label: -- Availability & Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: shooting_dates
+      label: Shooting Dates
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: location_availability
+      label: Can work at shooting location?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Needs relocation assistance
+      required: true
+    - id: 23
+      name: special_skills
+      label: Special Skills or Requirements
+      hint: Stunts, languages, accents, etc.
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: union_status
+      label: Union Status
+      hint: null
+      type: select_one
+      options:
+      - Union
+      - Non-union
+      - Either
+      required: false
+    - id: 25
+      name: notes
+      label: Additional Notes
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

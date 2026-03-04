@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: CMA Plus Up Program Submission
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Applicant name
+      hint: Organization or individual requesting support
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: Contact email
+      hint: For application communication
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: program_requested
+      label: Program requested
+      hint: Name of CMA program or funding stream
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: request_amount
+      label: Request amount
+      hint: Requested funding amount in local currency
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: project_summary
+      label: Project summary
+      hint: Brief summary of how funds will be used
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: supporting_documents
+      label: Supporting documents list
+      hint: Filenames or descriptions of uploaded documents
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: organization_size
+      label: Organization size
+      hint: Number of staff or volunteers
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: project_timeline
+      label: Project timeline
+      hint: Expected start and end dates
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: fiscal_contact
+      label: Fiscal contact name
+      hint: Person responsible for financial reporting
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submission_date
+      label: Submission date
+      hint: Date of application submission
+      type: date
+      options: []
+      required: true

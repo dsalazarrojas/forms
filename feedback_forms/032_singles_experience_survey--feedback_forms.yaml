@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Singles Experience Survey
+    pages:
+    - id: 1
+      name: event_name
+      label: Event Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: event_type
+      label: event_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: event_location
+      label: event_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: event_duration
+      label: event_duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: event_attendees
+      label: event_attendees
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: event_ambiance
+      label: event_ambiance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: event_food_and_drink
+      label: event_food_and_drink
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: event_sound_level
+      label: event_sound_level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: true
+    - id: 13
+      name: event_climate
+      label: event_climate
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: event_safety
+      label: event_safety
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: event_comments
+      label: event_comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: event_rating
+      label: event_rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 19
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: contact_message
+      label: contact_message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: event_suggestion
+      label: event_suggestion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: event_likings
+      label: event_likings
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: event_dislikes
+      label: event_dislikes
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: event_comments
+      label: event_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: event_rating2
+      label: event_rating2
+      hint: null
+      type: number
+      options: []
+      required: false

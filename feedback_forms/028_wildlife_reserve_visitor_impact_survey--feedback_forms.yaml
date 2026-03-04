@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wildlife Reserve Visitor Impact Survey
+    pages:
+    - id: 1
+      name: survey_start
+      label: Survey Start
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: question_1
+      label: How many times have you visited the park?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: question_2
+      label: What time of year were you in the park?
+      hint: null
+      type: select_multiple
+      options:
+      - Spring
+      - Summer
+      - Fall
+      - Winter
+      required: false
+    - id: 7
+      name: question_3
+      label: How long were you in the park?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: question_4
+      label: How likely are you to recommend the park?
+      hint: null
+      type: select_one
+      options:
+      - Very Likely
+      - Somewhat Likely
+      - Not Likely
+      - Not at All
+      required: false
+    - id: 9
+      name: question_5
+      label: How many people were in your party?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: question_6
+      label: Did you visit with a guided tour?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: question_7
+      label: How satisfied are you with your visit?
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      required: false
+    - id: 12
+      name: question_8
+      label: What type of activities did you participate in?
+      hint: null
+      type: select_multiple
+      options:
+      - Hiking
+      - Wildlife watching
+      - Picnicking
+      - Camping
+      - Fishing
+      - Other
+      required: false
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

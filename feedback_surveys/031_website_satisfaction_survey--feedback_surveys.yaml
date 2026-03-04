@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Website Satisfaction Survey
+    pages:
+    - id: 1
+      name: page_one
+      label: Website Satisfaction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: page_two
+      label: What could we improve?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: page_three
+      label: Would you like to leave feedback?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: page_four
+      label: How would you rate your experience?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: page_five
+      label: What is your contact information?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: page_six
+      label: What would you like to see improved?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: page_seven
+      label: How would you rate this experience?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: page_eight
+      label: Would you recommend this website?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: page_nine
+      label: Would you like to participate in further surveys?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Maybe
+      required: false
+    - id: 10
+      name: page_ten
+      label: Do you want to be contacted?
+      hint: Please select all that apply
+      type: select_multiple
+      options:
+      - Yes, phone
+      - Yes, email
+      - Yes, both
+      - No, do not contact me
+      required: false

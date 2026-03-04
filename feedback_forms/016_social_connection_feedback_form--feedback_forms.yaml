@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Connection Feedback Form
+    pages:
+    - id: 1
+      name: intro
+      label: social_connection_feedback_form_intro
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: how_did_you_hear
+      label: how_did_you_hear_about_us
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: how_often_do_you_visit
+      label: how_often_do_you_visit_us
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: how_did_you_feel
+      label: how_did_you_feel_about_your_last_visit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: what_did_you_do
+      label: what_did_you_do_here
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: what_barriers
+      label: what_barriers_did_you_experience
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 7
+      name: how_would_you_rate
+      label: how_would_you_rate_your_experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

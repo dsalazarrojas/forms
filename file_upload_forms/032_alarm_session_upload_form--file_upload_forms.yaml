@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: Alarm Session Upload Form
+    pages:
+    - id: 1
+      name: technician_name
+      label: Technician/Officer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: event_id
+      label: Event or Session ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: incident_date
+      label: Date of Incident
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: incident_time
+      label: Time of Alarm Trigger
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: client_name
+      label: Client Name/Site Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_alarm_data
+      label: -- Alarm Session Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: alarm_type
+      label: Type of Alarm Triggered
+      hint: null
+      type: select_one
+      options:
+      - Intrusion/Burglar
+      - Fire/Smoke
+      - Panic/Duress
+      - Medical Emergency
+      - Environmental (Flood/Temp)
+      - System Fault/Tamper
+      required: true
+    - id: 8
+      name: zone_triggered
+      label: Zone(s) Triggered
+      hint: e.g. Zone 4 - Front Door
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: response_action
+      label: Response Action Taken
+      hint: null
+      type: select_one
+      options:
+      - Dispatched Security
+      - Dispatched Emergency Services
+      - Contacted Keyholder
+      - Remote Reset (False Alarm)
+      - Verified via Video
+      required: true
+    - id: 10
+      name: section_uploads
+      label: -- Supporting Evidence and Logs --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: log_file_present
+      label: System Log File Uploaded?
+      hint: Please attach logs via our secure portal separately if not using this
+        form
+      type: select_one
+      options:
+      - Yes (Attached to ticket)
+      - No (Available on request)
+      required: true
+    - id: 12
+      name: video_clip_available
+      label: Video Clip Evidence Available?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - N/A
+      required: true
+    - id: 13
+      name: session_summary
+      label: Session Summary and Observations
+      hint: Describe the flow of the alarm session
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: outcome_status
+      label: Final Session Outcome
+      hint: null
+      type: select_one
+      options:
+      - Resolved (Genuine Incident)
+      - Resolved (False Alarm - User Error)
+      - Resolved (False Alarm - Technical Fault)
+      - Pending Investigation
+      required: true
+    - id: 15
+      name: follow_up_instructions
+      label: Further Follow-up Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: validation_confirmation
+      label: I confirm that this session data is accurate and complete
+      hint: null
+      type: select_one
+      options:
+      - I confirm
+      - Other
+      required: true

@@ -1,0 +1,52 @@
+inputSchema:
+  type: object
+  properties:
+    title: wildlife_habitat_preservation_awareness_survey
+    pages:
+    - id: 1
+      name: wildlife_habitat_preservation_awareness_survey_first_page
+      label: First Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: wildlife_habitat_preservation_awareness_survey_first_page_questions
+      label: Questions
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: wildlife_habitat_preservation_awareness_survey_first_page_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: wildlife_habitat_preservation_awareness_survey_second_page
+      label: Second Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: wildlife_habitat_preservation_awareness_survey_second_page_questions
+      label: Questions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: wildlife_habitat_preservation_awareness_survey_second_page_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

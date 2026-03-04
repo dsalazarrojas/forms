@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Supersedeas Bond Motion Form
+    pages:
+    - id: 1
+      name: supersedeas_bond_motion_request
+      label: Supersedeas Bond Motion Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: client_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: bond_amount
+      label: bond_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: bond_amount_currency
+      label: bond_amount_currency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: court_name
+      label: court_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: case_number
+      label: case_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: attorney_name
+      label: attorney_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: motion_type
+      label: motion_type
+      hint: null
+      type: select_one
+      options:
+      - Default
+      - Ex Parte
+      - Emergency
+      - Other
+      required: false
+    - id: 11
+      name: bond_amount_status
+      label: bond_amount_status
+      hint: null
+      type: select_multiple
+      options:
+      - Pending
+      - Paid
+      - Denied
+      - Withdrawn
+      required: false
+    - id: 12
+      name: supersedeas_bond_order
+      label: supersedeas_bond_order
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: bond_status
+      label: bond_status
+      hint: null
+      type: select_one
+      options:
+      - Default
+      - Approved
+      - Denied
+      - Withdrawn
+      required: false
+    - id: 14
+      name: supersedeas_bond_motion_request_status
+      label: supersedeas_bond_motion_request_status
+      hint: null
+      type: select_one
+      options:
+      - Default
+      - Approved
+      - Denied
+      - Withdrawn
+      required: false
+    - id: 15
+      name: supersedeas_bond_motion_request_comments
+      label: supersedeas_bond_motion_request_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: supersedeas_bond_motions
+      label: supersedeas_bond_motions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: supersedeas_bond_motion_date
+      label: supersedeas_bond_motion_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: supersedeas_bond_motion_time
+      label: supersedeas_bond_motion_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: supersedeas_bond_motion_requesting_party
+      label: supersedeas_bond_requesting_party
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: supersedeas_bond_motion_type
+      label: supersedeas_bond_motion_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: supersedeas_bond_bail_bond_status
+      label: supersedeas_bond_bail_bond_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 22
+      name: supersedeas_bond_bail_bond_amount
+      label: supersedeas_bond_bail_bond_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: supersedeas_bond_bail_bond_type
+      label: supersedeas_bond_bail_bond_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: supersedeas_bond_bail_bond_filing_fee
+      label: supersedeas_bond_bail_bond_filing_fee
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: supersedeas_bond_bail_bond_filing_fee_currency
+      label: supersedeas_bond_bail_bond_filing_fee_currency
+      hint: null
+      type: text
+      options: []
+      required: false

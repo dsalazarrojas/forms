@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Creative Project Follow Up Form
+    pages:
+    - id: 1
+      name: creative_project_follow_up_form_page
+      label: Project Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_feedback_question_1
+      label: How likely are you to recommend our work?
+      hint: null
+      type: select_one
+      options:
+      - Very Likely
+      - Somewhat Likely
+      - Not Likely
+      required: false
+    - id: 3
+      name: project_feedback_question_2
+      label: What was the most enjoyable part of the project?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: project_feedback_question_3
+      label: What was the biggest challenge we faced?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: project_feedback_question_4
+      label: How can we improve on this project?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: project_rating
+      label: Rating (1-10)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: project_feedback_message
+      label: Additional feedback
+      hint: null
+      type: text
+      options: []
+      required: false

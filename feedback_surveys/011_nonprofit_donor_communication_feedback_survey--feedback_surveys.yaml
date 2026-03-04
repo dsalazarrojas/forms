@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nonprofit Donor Communication Feedback Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: preferred_channels
+      label: Preferred Channels
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': ''Email''}'
+      - '{''option'': ''Social media''}'
+      - '{''option'': ''Phone''}'
+      - '{''option'': ''Postal mail''}'
+      required: false
+    - id: 3
+      name: communication_frequency
+      label: Communication Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''Less than once a week''}'
+      - '{''option'': ''More than once a week''}'
+      - '{''option'': ''Never''}'
+      required: false
+    - id: 4
+      name: updates
+      label: What type of updates do you want to see from us?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': ''News''}'
+      - '{''option'': ''Events''}'
+      - '{''option'': ''Stories''}'
+      - '{''option'': ''Financial reports''}'
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: Share your thoughts
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

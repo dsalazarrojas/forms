@@ -1,0 +1,259 @@
+inputSchema:
+  type: object
+  properties:
+    title: Incident Resolution Feedback Form
+    pages:
+    - id: 1
+      name: incident_resolution_feedback
+      label: incident-resolution-feedback
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': ''Very Satisfied''}'
+      - '{''id'': 2, ''text'': ''Satisfied''}'
+      - '{''id'': 3, ''text'': ''Not Satisfied''}'
+      required: true
+    - id: 2
+      name: resolution_time
+      label: resolution-time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 3
+      name: resolution_date
+      label: resolution-date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: feedback_comments
+      label: feedback-comments
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: contact-email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: contact-phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: resolution_method
+      label: resolution-method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''text'': ''Email''}'
+      - '{''id'': 2, ''text'': ''Phone''}'
+      - '{''id'': 3, ''text'': ''Other''}'
+      - '{''id'': 4, ''text'': ''Chat''}'
+      required: true
+    - id: 8
+      name: follow_up_question_1
+      label: follow-up-question-1
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': True}'
+      - '{''id'': 2, ''text'': False}'
+      - '{''id'': 3, ''text'': ''Not Sure''}'
+      - '{''id'': 4, ''text'': ''Undecided''}'
+      required: false
+    - id: 9
+      name: follow_up_question_2
+      label: follow-up-question-2
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': True}'
+      - '{''id'': 2, ''text'': False}'
+      - '{''id'': 3, ''text'': ''Not Sure''}'
+      - '{''id'': 4, ''text'': ''Undecided''}'
+      required: false
+    - id: 10
+      name: follow_up_question_3
+      label: follow-up-question-3
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': True}'
+      - '{''id'': 2, ''text'': False}'
+      - '{''id'': 3, ''text'': ''Not Sure''}'
+      - '{''id'': 4, ''text'': ''Undecided''}'
+      required: false
+    - id: 11
+      name: follow_up_question_4
+      label: follow-up-question-4
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': True}'
+      - '{''id'': 2, ''text'': False}'
+      - '{''id'': 3, ''text'': ''Not Sure''}'
+      - '{''id'': 4, ''text'': ''Undecided''}'
+      required: false
+    - id: 12
+      name: follow_up_question_5
+      label: follow-up-question-5
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': True}'
+      - '{''id'': 2, ''text'': False}'
+      - '{''id'': 3, ''text'': ''Not Sure''}'
+      - '{''id'': 4, ''text'': ''Undecided''}'
+      required: false
+    - id: 13
+      name: follow_up_question_6
+      label: follow-up-question-6
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': True}'
+      - '{''id'': 2, ''text'': False}'
+      - '{''id'': 3, ''text'': ''Not Sure''}'
+      - '{''id'': 4, ''text'': ''Undecided''}'
+      required: false
+    - id: 14
+      name: follow_up_question_7
+      label: follow-up-question-7
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': True}'
+      - '{''id'': 2, ''text'': False}'
+      - '{''id'': 3, ''text'': ''Not Sure''}'
+      - '{''id'': 4, ''text'': ''Undecided''}'
+      required: false
+    - id: 15
+      name: follow_up_question_8
+      label: follow-up-question-8
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': True}'
+      - '{''id'': 2, ''text'': False}'
+      - '{''id'': 3, ''text'': ''Not Sure''}'
+      - '{''id'': 4, ''text'': ''Undecided''}'
+      required: false
+    - id: 16
+      name: follow_up_question_9
+      label: follow-up-question-9
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': True}'
+      - '{''id'': 2, ''text'': False}'
+      - '{''id'': 3, ''text'': ''Not Sure''}'
+      - '{''id'': 4, ''text'': ''Undecided''}'
+      required: false
+    - id: 17
+      name: follow_up_question_10
+      label: follow-up-question-10
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': True}'
+      - '{''id'': 2, ''text'': False}'
+      - '{''id'': 3, ''text'': ''Not Sure''}'
+      - '{''id'': 4, ''text'': ''Undecided''}'
+      required: false
+    - id: 18
+      name: follow_up_question_11
+      label: follow-up-question-11
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': True}'
+      - '{''id'': 2, ''text'': False}'
+      - '{''id'': 3, ''text'': ''Not Sure''}'
+      - '{''id'': 4, ''text'': ''Undecided''}'
+      required: false
+    - id: 19
+      name: follow_up_question_12
+      label: follow-up-question-12
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': True}'
+      - '{''id'': 2, ''text'': False}'
+      - '{''id'': 3, ''text'': ''Not Sure''}'
+      - '{''id'': 4, ''text'': ''Undecided''}'
+      required: false
+    - id: 20
+      name: follow_up_question_13
+      label: follow-up-question-13
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': True}'
+      - '{''id'': 2, ''text'': False}'
+      - '{''id'': 3, ''text'': ''Not Sure''}'
+      - '{''id'': 4, ''text'': ''Undecided''}'
+      required: false
+    - id: 21
+      name: follow_up_question_14
+      label: follow-up-question-14
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': True}'
+      - '{''id'': 2, ''text'': False}'
+      - '{''id'': 3, ''text'': ''Not Sure''}'
+      - '{''id'': 4, ''text'': ''Undecided''}'
+      required: false
+    - id: 22
+      name: follow_up_question_15
+      label: follow-up-question-15
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': True}'
+      - '{''id'': 2, ''text'': False}'
+      - '{''id'': 3, ''text'': ''Not Sure''}'
+      - '{''id'': 4, ''text'': ''Undecided''}'
+      required: false
+    - id: 23
+      name: follow_up_question_16
+      label: follow-up-question-16
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': True}'
+      - '{''id'': 2, ''text'': False}'
+      - '{''id'': 3, ''text'': ''Not Sure''}'
+      - '{''id'': 4, ''text'': ''Undecided''}'
+      required: false
+    - id: 24
+      name: follow_up_question_17
+      label: follow-up-question-17
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': True}'
+      - '{''id'': 2, ''text'': False}'
+      - '{''id'': 3, ''text'': ''Not Sure''}'
+      - '{''id'': 4, ''text'': ''Undecided''}'
+      required: false
+    - id: 25
+      name: follow_up_question_18
+      label: follow-up-question-18
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': True}'
+      - '{''id'': 2, ''text'': False}'
+      - '{''id'': 3, ''text'': ''Not Sure''}'
+      - '{''id'': 4, ''text'': ''Undecided''}'
+      required: false

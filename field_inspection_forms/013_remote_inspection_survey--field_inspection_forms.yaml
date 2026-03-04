@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: remote_inspection_survey
+    pages:
+    - id: 1
+      name: survey_title
+      label: Remote Inspection Survey
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: facility_name
+      label: facility_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: inspection_date
+      label: inspection_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: inspection_time
+      label: inspection_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: inspection_location
+      label: inspection_location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: facility_type
+      label: facility_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: facility_owner
+      label: facility_owner
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: facility_manager
+      label: facility_manager
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: facility_contact
+      label: facility_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: facility_address
+      label: facility_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: facility_city
+      label: facility_city
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: facility_state
+      label: facility_state
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: facility_zip
+      label: facility_zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: facility_country
+      label: facility_country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: facility_latitude
+      label: facility_latitude
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: facility_longitude
+      label: facility_longitude
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: facility_elevation
+      label: facility_elevation
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: facility_latitude_accuracy
+      label: facility_latitude_accuracy
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: facility_longitude_accuracy
+      label: facility_longitude_accuracy
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: asset_count
+      label: asset_count
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: building_type
+      label: building_type
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: building_size
+      label: building_size
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: facility_status
+      label: facility_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 25
+      name: facility_inspection_id
+      label: facility_inspection_id
+      hint: null
+      type: text
+      options: []
+      required: true

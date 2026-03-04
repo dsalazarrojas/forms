@@ -1,0 +1,52 @@
+inputSchema:
+  type: object
+  properties:
+    title: Residential Lighting Quality Survey
+    pages:
+    - id: 1
+      name: lighting_performance
+      label: Lighting Performance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: energy_efficiency
+      label: Energy Efficiency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: energy_usage
+      label: Energy Usage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: lighting_satisfaction
+      label: Lighting Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 5
+      name: satisfaction_why_not_satisfied
+      label: Why Not Satisfied
+      hint: null
+      type: select_multiple
+      options:
+      - Energy efficiency is low
+      - Lighting fixtures are poor quality
+      - Other
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

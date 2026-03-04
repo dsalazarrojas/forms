@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Insurance Process Feedback Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: feedback_survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: overall_experience
+      label: Overall Experience
+      hint: On a scale of 1-5
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: communication
+      label: Communication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: timeliness
+      label: Timeliness
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: service_quality
+      label: Service Quality
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Poor
+      required: true
+    - id: 6
+      name: resolution
+      label: Resolution
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

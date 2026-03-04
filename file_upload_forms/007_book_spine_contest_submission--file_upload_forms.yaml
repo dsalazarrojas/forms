@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Book Spine Contest Submission
+    pages:
+    - id: 1
+      name: participant_full_name
+      label: Full Name
+      hint: Your complete name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_email
+      label: Email Address
+      hint: We will contact you at this email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: participant_phone
+      label: Phone Number
+      hint: Contact number for contest updates
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: age_group
+      label: Age Group
+      hint: Select your age category
+      type: select_one
+      options:
+      - Under 13
+      - 13-18
+      - 19-30
+      - 31-50
+      - Over 50
+      required: true
+    - id: 5
+      name: school_organization
+      label: School or Organization
+      hint: Your school or organization name
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: book_title_choice
+      label: Which book spine will you design
+      hint: Title of the book
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: book_author
+      label: Book Author
+      hint: Author of the book
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: design_medium
+      label: Design Medium
+      hint: What materials or tools did you use
+      type: select_one
+      options:
+      - Digital
+      - Hand-drawn
+      - Mixed Media
+      - Watercolor
+      - Acrylic Paint
+      - Collage
+      - Other
+      required: true
+    - id: 9
+      name: design_inspiration
+      label: Design Inspiration
+      hint: Briefly describe your creative inspiration
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: spine_design_image
+      label: Upload Spine Design Photo
+      hint: Upload a clear photo of your book spine design
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: book_title_card
+      label: Upload Title Card or Description
+      hint: Upload a photo showing the book title and your name
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: design_dimensions
+      label: Design Dimensions
+      hint: Width x Height in inches
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contest_rules_acceptance
+      label: I agree to the contest rules
+      hint: Please confirm you have read and accept the contest guidelines
+      type: select_one
+      options:
+      - I Accept
+      - I Do Not Accept
+      required: true
+    - id: 14
+      name: permission_to_display
+      label: Permission to Display Work
+      hint: May we display your work at the library
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other information about your submission
+      type: text
+      options: []
+      required: false

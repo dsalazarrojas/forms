@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Staff Performance Feedback Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: staff_member
+      label: Select Staff Member
+      hint: null
+      type: select_one
+      options:
+      - Staff member 1
+      - Staff member 2
+      - Staff member 3
+      required: false
+    - id: 3
+      name: feedback_type
+      label: Feedback Type
+      hint: null
+      type: select_one
+      options:
+      - Formal
+      - Informal
+      - None
+      required: false
+    - id: 4
+      name: feedback_score
+      label: Feedback Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: feedback_comments
+      label: Feedback Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: false

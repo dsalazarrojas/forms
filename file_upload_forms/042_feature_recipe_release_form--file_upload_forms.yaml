@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Feature Recipe Release Form
+    pages:
+    - id: 1
+      name: recipe_data
+      label: Recipe Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: publishing_permission
+      label: Publishing Permission
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: original_ingredients
+      label: Original Ingredients
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: cooking_method
+      label: Cooking Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: recipe_image
+      label: Recipe Image
+      hint: null
+      type: text
+      options: []
+      required: false

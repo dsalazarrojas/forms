@@ -1,0 +1,66 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Cleanup Strategy Survey
+    pages:
+      - id: 1
+        name: respondent_area
+        label: Neighborhood area
+        hint: Area or street name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: priority_issues
+        label: Priority cleanup issues
+        hint: Select top concerns in your area
+        type: select_multiple
+        options:
+          - Litter and trash
+          - Illegal dumping
+          - Overgrown vegetation
+          - Recycling access
+          - Hazardous waste
+        required: true
+      - id: 3
+        name: volunteer_availability
+        label: Volunteer availability
+        hint: Times or days when volunteers are available
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: preferred_cleanup_scale
+        label: Preferred cleanup scale
+        hint: Choose scale of projects
+        type: select_one
+        options:
+          - Block level
+          - Neighborhood level
+          - City wide
+        required: true
+      - id: 5
+        name: support_needed
+        label: Support needed from organization
+        hint: Resources training equipment or funding
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: additional_comments
+        label: Additional comments or suggestions
+        hint: Open ended feedback
+        type: text
+        options: []
+        required: false

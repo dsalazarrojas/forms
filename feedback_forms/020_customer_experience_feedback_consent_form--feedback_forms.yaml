@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Experience Feedback Consent Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Customer Experience Feedback Consent Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: service_type
+      label: Service Type
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Service 1''}'
+      - '{''name'': ''Service 2''}'
+      - '{''name'': ''Service 3''}'
+      required: false
+    - id: 4
+      name: service_frequency
+      label: Service Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: service_satisfaction
+      label: Service Satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Very Good''}'
+      - '{''name'': ''Good''}'
+      - '{''name'': ''Fair''}'
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: signature
+      label: Customer Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: date_of_service
+      label: Date of Service
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_of_service
+      label: Time of Service
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false

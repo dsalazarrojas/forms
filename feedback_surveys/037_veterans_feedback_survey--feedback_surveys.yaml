@@ -1,0 +1,215 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterans Feedback Survey
+    pages:
+    - id: 1
+      name: feedback_survey_form
+      label: Feedback Survey Form
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: satisfaction_rating
+      label: Satisfaction Rating
+      hint: null
+      type: select_one
+      options:
+      - '5'
+      - '4'
+      - '3'
+      - '2'
+      - '1'
+      required: false
+    - id: 3
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: veteran_name
+      label: Veteran Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_service
+      label: Date of Service
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: rating_comments
+      label: Rating Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: program_evaluation
+      label: Program Evaluation
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 9
+      name: program_improvement
+      label: Program Improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: rating_scale
+      label: Rating Scale
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 11
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: veteran_status
+      label: Veteran Status
+      hint: null
+      type: select_one
+      options:
+      - Honorably Discharged
+      - Other
+      required: false
+    - id: 14
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      required: false
+    - id: 15
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: contact_phone_number
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: contact_email_address
+      label: Contact Email Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: program_name
+      label: Program Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: service_connected
+      label: Service Connected
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 20
+      name: years_of_service
+      label: Years of Service
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: branch_of_service
+      label: Branch of Service
+      hint: null
+      type: select_one
+      options:
+      - Army
+      - Marine Corps
+      - Navy
+      - Air Force
+      - Coast Guard
+      - Other
+      required: false
+    - id: 22
+      name: rating_scale_comments
+      label: Rating Scale Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: rating_scale_range
+      label: Rating Scale Range
+      hint: null
+      type: select_one
+      options:
+      - 1-5
+      - 1-4
+      - '5'
+      required: false
+    - id: 24
+      name: program_rating
+      label: Program Rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 25
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: true

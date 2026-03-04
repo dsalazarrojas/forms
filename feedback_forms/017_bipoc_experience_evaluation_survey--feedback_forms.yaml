@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: BIPOC Experience Evaluation Survey
+    pages:
+    - id: 1
+      name: respondent_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: organization_name
+      label: Organization or Program Name
+      hint: Which program or organization did you participate with?
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: program_duration
+      label: How long have you been involved?
+      hint: Weeks, months, or years
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: overall_experience_rating
+      label: Overall Experience Rating
+      hint: Rate from 1 (poor) to 10 (excellent)
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: belonging_feeling
+      label: Do you feel a sense of belonging in this space?
+      hint: null
+      type: select_one
+      options:
+      - Strongly Yes
+      - true
+      - Neutral
+      - false
+      - Strongly No
+      required: true
+    - id: 7
+      name: cultural_relevance
+      label: How culturally relevant is the program?
+      hint: null
+      type: select_one
+      options:
+      - Highly relevant
+      - Relevant
+      - Somewhat relevant
+      - Not relevant
+      - Unknown
+      required: false
+    - id: 8
+      name: support_received
+      label: What support did you experience?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Emotional support
+      - Professional development
+      - Networking opportunities
+      - Leadership training
+      - Financial assistance
+      - Mental health resources
+      - Community building
+      - Career guidance
+      required: false
+    - id: 9
+      name: leadership_representation
+      label: Is there adequate BIPOC representation in leadership?
+      hint: null
+      type: select_one
+      options:
+      - Yes, excellent
+      - Yes, adequate
+      - Somewhat
+      - false
+      - Unsure
+      required: false
+    - id: 10
+      name: challenges_faced
+      label: What challenges have you faced?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: discrimination_experienced
+      label: Have you experienced discrimination or bias?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not sure
+      - Prefer not to say
+      required: false
+    - id: 12
+      name: improvements_needed
+      label: What improvements would you suggest?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: recommendation
+      label: Would you recommend this program to others?
+      hint: null
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Unsure
+      - Probably No
+      - Definitely No
+      required: false
+    - id: 14
+      name: future_involvement
+      label: Will you continue to be involved?
+      hint: null
+      type: select_one
+      options:
+      - Yes, definitely
+      - Probably
+      - Unsure
+      - Probably not
+      - No, I am leaving
+      required: false
+    - id: 15
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

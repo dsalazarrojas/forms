@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Public Safety Written Exam Survey
+    pages:
+    - id: 1
+      name: exam_sessions
+      label: Exam Sessions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: instructions
+      label: Instructions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: difficulty_level
+      label: Difficulty Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 4
+      name: exam_informatio
+      label: Exam Instructions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: exam_session_difficulty
+      label: Exam Session Difficulty
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: exam_session_instructions
+      label: Exam Session Instructions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: exam_session_time
+      label: Exam Session Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: exam_session_duration
+      label: Exam Session Duration
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: exam_session_notes
+      label: Exam Session Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 11
+      name: exam_session_date
+      label: Exam Session Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: exam_session_score
+      label: Exam Session Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: exam_session_outcome
+      label: Exam Session Outcome
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: exam_session_outcome_justification
+      label: Exam Session Outcome Justification
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: exam_session_justification
+      label: Exam Session Justification
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: exam_session_comments
+      label: Exam Session Comments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: exam_session_difficulty_justification
+      label: Exam Session Difficulty Justification
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: exam_session_difficulty_score
+      label: Exam Session Difficulty Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: exam_instructio
+      label: Exam Instructions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: exam_session_score_justification
+      label: Exam Session Score Justification
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: exam_session_difficulty_level
+      label: Exam Session Difficulty Level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 22
+      name: exam_session_comments_justification
+      label: Exam Session Comments Justification
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: exam_session_instructio
+      label: Exam Session Instructions
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: exam_session_outcome_justification
+      label: Exam Session Outcome Justification
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: exam_session_outcome
+      label: Exam Session Outcome
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

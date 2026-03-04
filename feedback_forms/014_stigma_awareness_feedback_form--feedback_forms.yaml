@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stigma Awareness Feedback Form
+    pages:
+    - id: 1
+      name: user_information
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: program_impact
+      label: Program Impact
+      hint: Please enter numbers only
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: program_impact_questions
+      label: Program Impact Questions
+      hint: null
+      type: select_multiple
+      options:
+      - Impact of our program on stigma
+      - Impact of our program on your mental health
+      - Overall impact of our program on your life
+      required: false
+    - id: 4
+      name: program_support
+      label: Program Support
+      hint: null
+      type: select_one
+      options:
+      - Community Group
+      - School
+      - Nonprofit
+      required: false
+    - id: 5
+      name: community_group
+      label: Community Group
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: school_email
+      label: School Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: school_phone
+      label: School Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: nonprofit
+      label: Nonprofit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: nonprofit_email
+      label: Nonprofit Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: nonprofit_phone
+      label: Nonprofit Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: program_locations
+      label: Program Locations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: program_duration
+      label: Program Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: stigma_perceptions
+      label: Stigma Perceptions
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Other (please specify)
+      required: false
+    - id: 15
+      name: program_questions
+      label: Program Questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: program_questions_hint
+      label: Program Questions Hint
+      hint: Please describe your thoughts on our program in more detail
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: program_support_questions
+      label: Program Support Questions
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Other (please specify)
+      required: false
+    - id: 18
+      name: program_support_questions_hint
+      label: Program Support Questions Hint
+      hint: Please describe why or why not
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: program_support
+      label: Program Support
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 20
+      name: program_support_hint
+      label: Program Support Hint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: user_mental_health
+      label: User Mental Health
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Other (please specify)
+      required: false
+    - id: 22
+      name: user_mental_health_hint
+      label: User Mental Health Hint
+      hint: None
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: stigma_perceptions_question_1
+      label: Stigma Perceptions Question 1
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Other (please specify)
+      required: false
+    - id: 24
+      name: stigma_perceptions_question_1_hint
+      label: Stigma Perceptions Question 1 Hint
+      hint: None
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: stigma_perceptions_question_2
+      label: Stigma Perceptions Question 2
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Other (please specify)
+      required: false

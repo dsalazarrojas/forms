@@ -1,0 +1,312 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cargo Security Inspection Form
+    pages:
+    - id: 1
+      name: inspection_header
+      label: Cargo Security Inspection Report
+      hint: Complete inspection documentation for security compliance
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: inspection_id
+      label: Inspection ID Number
+      hint: Unique inspection identifier
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: inspection_date
+      label: Inspection Date
+      hint: Date of inspection
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: inspection_time
+      label: Inspection Time
+      hint: Start time of inspection
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: inspector_name
+      label: Inspector Name
+      hint: Certified inspector conducting inspection
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: inspector_id
+      label: Inspector ID Number
+      hint: Badge or employee number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: inspection_location
+      label: Inspection Location
+      hint: Facility or site name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: cargo_info
+      label: Cargo Information
+      hint: Shipment details
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: shipment_number
+      label: Shipment or Container Number
+      hint: Tracking identifier
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: cargo_type
+      label: Type of Cargo
+      hint: Cargo classification
+      type: select_one
+      options:
+      - General freight
+      - Hazardous materials
+      - Perishable goods
+      - High value items
+      - Temperature controlled
+      - Oversized cargo
+      - Other
+      required: true
+    - id: 11
+      name: origin_point
+      label: Origin Point
+      hint: Where cargo originated
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: destination
+      label: Final Destination
+      hint: Delivery location
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: carrier_info
+      label: Carrier Information
+      hint: Transport company details
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: vehicle_info
+      label: Vehicle Information
+      hint: Transport vehicle details
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: vehicle_type
+      label: Vehicle Type
+      hint: Mode of transport
+      type: select_one
+      options:
+      - Truck - box
+      - Truck - flatbed
+      - Truck - refrigerated
+      - Shipping container
+      - Air cargo
+      - Rail car
+      - Other
+      required: true
+    - id: 16
+      name: vehicle_id
+      label: Vehicle Identification Number
+      hint: License plate or unit number
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: driver_name
+      label: Driver Name
+      hint: Operator name
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: driver_license
+      label: Driver License Number
+      hint: License verification
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: security_checklist
+      label: Security Inspection Checklist
+      hint: Complete all applicable items
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: seal_integrity
+      label: Seal Integrity Check
+      hint: Container seal condition
+      type: select_one
+      options:
+      - Intact and verified
+      - Intact - number mismatch
+      - Broken or tampered
+      - Not applicable
+      required: true
+    - id: 21
+      name: seal_number
+      label: Seal Number
+      hint: Recorded seal identifier
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: container_condition
+      label: Container or Vehicle Condition
+      hint: Physical state assessment
+      type: select_one
+      options:
+      - Excellent - no issues
+      - Good - minor wear
+      - Fair - some damage
+      - Poor - significant damage
+      - Unacceptable - not secure
+      required: true
+    - id: 23
+      name: cargo_securement
+      label: Cargo Securement Check
+      hint: Load stability assessment
+      type: select_one
+      options:
+      - Properly secured
+      - Minor adjustments needed
+      - Major adjustments needed
+      - Not secured - unsafe
+      - Not applicable
+      required: true
+    - id: 24
+      name: documentation_check
+      label: Documentation Verification
+      hint: Papers and manifests
+      type: select_one
+      options:
+      - Complete and accurate
+      - Minor discrepancies
+      - Major discrepancies
+      - Missing documentation
+      required: true
+    - id: 25
+      name: hazardous_materials
+      label: Hazardous Materials Present
+      hint: Hazmat cargo indicator
+      type: select_one
+      options:
+      - Yes - properly declared
+      - Yes - improperly declared
+      - false
+      - Unknown
+      required: true
+    - id: 26
+      name: temperature_check
+      label: Temperature Verification
+      hint: For temperature-controlled cargo
+      type: select_one
+      options:
+      - Within required range
+      - Slightly out of range
+      - Significantly out of range
+      - Not applicable
+      required: false
+    - id: 27
+      name: temperature_reading
+      label: Temperature Reading
+      hint: Current temperature
+      type: number
+      options: []
+      required: false
+    - id: 28
+      name: inspection_findings
+      label: Inspection Findings
+      hint: Summary of observations
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: discrepancies_found
+      label: Were Any Discrepancies Found
+      hint: Issues identified
+      type: select_one
+      options:
+      - Yes - see details
+      - No - all clear
+      required: true
+    - id: 30
+      name: discrepancy_details
+      label: Describe Discrepancies Found
+      hint: Detailed explanation
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: photos_taken
+      label: Were Photos Taken
+      hint: Photographic documentation
+      type: select_one
+      options:
+      - Yes - attached
+      - Yes - will provide
+      - false
+      required: true
+    - id: 32
+      name: inspection_result
+      label: Overall Inspection Result
+      hint: Pass or fail determination
+      type: select_one
+      options:
+      - Pass - no issues
+      - Pass with conditions
+      - Fail - corrections required
+      - Fail - rejected
+      required: true
+    - id: 33
+      name: corrective_actions
+      label: Required Corrective Actions
+      hint: Steps needed to comply
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: reinspection_required
+      label: Is Reinspection Required
+      hint: Follow-up inspection needed
+      type: select_one
+      options:
+      - Yes - schedule required
+      - No - passed
+      - Pending review
+      required: true
+    - id: 35
+      name: inspector_signature_date
+      label: Inspector Signature Date
+      hint: Date of completion
+      type: date
+      options: []
+      required: true
+    - id: 36
+      name: supervisor_review
+      label: Supervisor Review Required
+      hint: Management acknowledgment
+      type: select_one
+      options:
+      - Yes - pending
+      - Yes - completed
+      - false
+      required: true

@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: event_vendor_support_feedback_survey
+    pages:
+    - id: 1
+      name: event_vendor_survey
+      label: event_vendor_survey
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: satisfaction_score
+      label: feedback_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: feedback
+      label: vendor_support_issues
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: suggestions
+      label: suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: event_planner_name
+      label: event_planner_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: event_planner_email
+      label: event_planner_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: vendor_name
+      label: vendor_name
+      hint: null
+      type: text
+      options: []
+      required: false

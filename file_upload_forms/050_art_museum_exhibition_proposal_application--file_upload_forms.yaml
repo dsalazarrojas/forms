@@ -1,0 +1,168 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Museum Exhibition Proposal Application
+    pages:
+    - id: 1
+      name: proposal_overview_header
+      label: -- Exhibition Proposal Overview --
+      hint: We welcome innovative and diverse exhibition concepts
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: lead_applicant_name
+      label: Lead Applicant - Curator Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: applicant_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: organization_affiliation
+      label: Organizational Affiliation (If any)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: concept_details_header
+      label: -- Exhibition Concept --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: working_exhibition_title
+      label: Working Title of the Exhibition
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: exhibition_summary
+      label: Executive Summary (Max 300 words)
+      hint: Provide a high-level overview of the exhibition's theme and importance
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: primary_artistic_focus
+      label: Primary Artistic Focus
+      hint: null
+      type: select_multiple
+      options:
+      - Contemporary Art
+      - Historical - Period Specific
+      - Multi-disciplinary - Digital
+      - Community-based Art
+      - Thematic - Social Issues
+      required: true
+    - id: 10
+      name: proposed_artists
+      label: List of Proposed Artists
+      hint: Include key names only
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: logistics_and_requirements_header
+      label: -- Logistics and Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: preferred_exhibition_dates
+      label: Preferred Exhibition Timeframe
+      hint: null
+      type: select_one
+      options:
+      - Spring Season (Next Year)
+      - Summer Season (Next Year)
+      - Fall Season (Next Year)
+      - Winter Season (Next Year)
+      - No preference
+      required: true
+    - id: 13
+      name: estimated_gallery_space_needed
+      label: Estimated Gallery Space Needed (sq ft)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: special_installation_needs
+      label: Special Installation Requirements
+      hint: e.g., Substantial power needs, climate control, heavy equipment access
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: estimated_total_budget
+      label: Estimated Total Project Budget
+      hint: Include currency
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: funding_sources_header
+      label: -- Funding and Support --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: secured_funding_details
+      label: Details of Secured Funding or Grants
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: museum_support_requested
+      label: Types of Support Requested from the Museum
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Full Curatorial Support
+      - Venue Space Only
+      - Marketing and PR Support
+      - Educational Programming Support
+      - Financial Co-sponsorship
+      required: true
+    - id: 19
+      name: supporting_docs_note
+      label: -- Supporting Documentation --
+      hint: Note - Please ensure your full proposal document and artist bios are emailed
+        to proposals@museum.org
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: proposal_submission_date
+      label: Date of Submission
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: applicant_signature_name
+      label: Lead Applicant Digital Signature (Type Name)
+      hint: null
+      type: text
+      options: []
+      required: true

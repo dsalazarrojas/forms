@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Shipping Feedback Form
+    pages:
+    - id: 1
+      name: customer_shipping_feedback_form_first_page
+      label: What do you think about our shipping service
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_shipping_feedback_form_second_page
+      label: Rate our customer service
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_shipping_feedback_form_third_page
+      label: shipping_experience
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Very Good'', ''label'': ''Very Good''}'
+      - '{''id'': 2, ''name'': ''Good'', ''label'': ''Good''}'
+      - '{''id'': 3, ''name'': ''Fair'', ''label'': ''Fair''}'
+      required: false
+    - id: 4
+      name: shipping_experience
+      label: shipping_speed
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Fast'', ''label'': ''Fast'', ''value'': 1}'
+      - '{''id'': 2, ''name'': ''Average'', ''label'': ''Average'', ''value'': 2}'
+      - '{''id'': 3, ''name'': ''Slow'', ''label'': ''Slow'', ''value'': 3}'
+      required: false
+    - id: 5
+      name: email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_shipping_feedback_form_note
+      label: customer_shipping_feedback_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: customer_shipping_feedback_form_note_2
+      label: any_other_comments
+      hint: null
+      type: note
+      options: []
+      required: false

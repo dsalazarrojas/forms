@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Motivational Speaker Feedback Form
+    pages:
+    - id: 1
+      name: speaker_rating
+      label: Speaker Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: speaker_evaluation
+      label: Speaker Evaluation
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Excellent''}'
+      - '{''id'': 2, ''name'': ''Good''}'
+      - '{''id'': 3, ''name'': ''Fair''}'
+      required: false
+    - id: 3
+      name: talk_rating
+      label: Talk Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: talk_evaluation
+      label: Talk Evaluation
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Excellent''}'
+      - '{''id'': 2, ''name'': ''Good''}'
+      - '{''id'': 3, ''name'': ''Fair''}'
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: send_your_files_form
+    pages:
+    - id: 1
+      name: send_files
+      label: Send Files
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: files
+      label: Files
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: files_from
+      label: Files From
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: assigned_tool_name
+      label: Assigned Tool Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: files_from_name
+      label: Files From Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: files_from_value
+      label: Files From Value
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool_name_name
+      label: Assigned Tool Name
+      hint: null
+      type: text
+      options: []
+      required: false

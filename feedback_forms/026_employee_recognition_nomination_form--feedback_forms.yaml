@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Recognition Nomination Form
+    pages:
+    - id: 1
+      name: nomination_form
+      label: nomination_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: role
+      label: role
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: department
+      label: department
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: nominee_name
+      label: nominee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: nominee_email
+      label: nominee_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: nominee_phone
+      label: nominee_phone
+      hint: null
+      type: text
+      options: []
+      required: false

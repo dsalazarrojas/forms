@@ -1,0 +1,38 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fan Engagement Feedback Form
+    pages:
+    - id: 1
+      name: feedback_satisfaction
+      label: Feedback Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: feedback_content
+      label: Feedback Content
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_experience
+      label: Event Experience
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: fan_preferences
+      label: Fan Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Action figure
+      - Behind-the-scenes Content
+      - Discounts
+      - Giveaways
+      - Live Events
+      required: false

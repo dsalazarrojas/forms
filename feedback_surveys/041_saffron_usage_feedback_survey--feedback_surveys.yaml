@@ -1,0 +1,263 @@
+inputSchema:
+  type: object
+  properties:
+    title: Saffron Usage Feedback Survey
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: saffron_use
+      label: How often do you use saffron?
+      hint: null
+      type: select_one
+      options:
+      - Slightly
+      - Occasionally
+      - Very frequently
+      required: false
+    - id: 3
+      name: saffron_satisfaction
+      label: How satisfied are you with saffron?
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      required: false
+    - id: 4
+      name: benefits
+      label: What benefits do you get from using saffron?
+      hint: null
+      type: select_multiple
+      options:
+      - Mood improvement
+      - Skin care
+      - Culinary
+      - Other (please specify)
+      required: false
+    - id: 5
+      name: challenges
+      label: What challenges do you face while using saffron?
+      hint: null
+      type: select_multiple
+      options:
+      - Limited availability
+      - High cost
+      - Difficulty preparing
+      - Other (please specify)
+      required: false
+    - id: 6
+      name: comments
+      label: Any comments or suggestions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: saffron_usage_frequency
+      label: How often do you use saffron in cooking?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Less than once a week
+      - 1-2 times a week
+      - 3-4 times a week
+      - 5-6 times a week
+      - Daily
+      required: false
+    - id: 8
+      name: saffron_purchasing_frequency
+      label: How often do you purchase saffron?
+      hint: null
+      type: select_one
+      options:
+      - Never
+      - Less than once a month
+      - Once a month
+      - 2-3 times a month
+      - More often than once a week
+      required: false
+    - id: 9
+      name: saffron_recommend
+      label: Would you recommend saffron to friends and family?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: saffron_importance
+      label: How important is saffron for you?
+      hint: null
+      type: select_one
+      options:
+      - Not at all
+      - Somewhat
+      - Very
+      required: false
+    - id: 11
+      name: saffron_source
+      label: Where do you usually get your saffron?
+      hint: null
+      type: select_one
+      options:
+      - Local store
+      - Online
+      - Other
+      required: false
+    - id: 12
+      name: saffron_cost
+      label: How much do you pay for 1 gram of saffron?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: saffron_satisfaction_rating
+      label: What do you usually pay for 1 gram of saffron?
+      hint: null
+      type: select_one
+      options:
+      - 0-50
+      - 50-75
+      - 75-100
+      - 100-150
+      - 150-200
+      - 200+
+      required: false
+    - id: 14
+      name: saffron_purchasing_frequency_important
+      label: How important is the price when you purchase saffron?
+      hint: null
+      type: select_one
+      options:
+      - Not at all important
+      - Slightly important
+      - Somewhat important
+      - Very important
+      required: false
+    - id: 15
+      name: saffron_price_satisfaction
+      label: Are you satisfied with the price of saffron?
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      required: false
+    - id: 16
+      name: saffron_purchasing_satisfaction
+      label: How satisfied are you with your saffron purchasing experience?
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      required: false
+    - id: 17
+      name: saffron_satisfaction_important
+      label: How important is saffron satisfaction to you?
+      hint: null
+      type: select_one
+      options:
+      - Not at all important
+      - Slightly important
+      - Somewhat important
+      - Very important
+      required: false
+    - id: 18
+      name: saffron_purchasing_frequency_important
+      label: How important is the frequency of saffron purchasing to you?
+      hint: null
+      type: select_one
+      options:
+      - Not at all important
+      - Slightly important
+      - Somewhat important
+      - Very important
+      required: false
+    - id: 19
+      name: saffron_recommends
+      label: How likely is it that you recommend saffron to others?
+      hint: null
+      type: select_one
+      options:
+      - Not at all likely
+      - Somewhat likely
+      - Very likely
+      required: false
+    - id: 20
+      name: saffron_importance
+      label: How would you describe the importance of saffron in your life?
+      hint: null
+      type: select_one
+      options:
+      - Not at all
+      - Slightly
+      - Somewhat
+      - Very important
+      required: false
+    - id: 21
+      name: saffron_importance_of_saffron
+      label: How much would you say saffron adds to your life?
+      hint: null
+      type: select_one
+      options:
+      - Not at all
+      - A little
+      - Somewhat
+      - Very much
+      required: false
+    - id: 22
+      name: saffron_happiness
+      label: How happy do you feel when you use saffron?
+      hint: null
+      type: select_one
+      options:
+      - Not at all
+      - Somewhat
+      - Very happy
+      required: false
+    - id: 23
+      name: saffron_health
+      label: Do you use saffron for health reasons?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 24
+      name: saffron_wellness
+      label: Do you use saffron for wellness reasons?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 25
+      name: saffron_culinary
+      label: Do you use saffron for culinary reasons?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

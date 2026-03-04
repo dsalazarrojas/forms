@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: home_setup_service_feedback
+    pages:
+    - id: 1
+      name: form_title
+      label: Home Setup Service Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Feedback Forms
+      hint: null
+      type: select_one
+      options:
+      - Feedback Forms
+      - Other
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: required_field
+      label: Required Field
+      hint: This field is required.
+      type: text
+      options: []
+      required: false

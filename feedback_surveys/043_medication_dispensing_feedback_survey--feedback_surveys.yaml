@@ -1,0 +1,219 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medication Dispensing Feedback Survey
+    pages:
+    - id: 1
+      name: medication_dispensing_feedback_survey_1
+      label: First Visit
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: medication_dispensing_feedback_survey_2
+      label: How would you rate the overall quality of care provided during your visit?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''very_good''}'
+      - '{''value'': ''good''}'
+      - '{''value'': ''neutral''}'
+      - '{''value'': ''bad''}'
+      - '{''value'': ''very_bad''}'
+      required: false
+    - id: 3
+      name: medication_dispensing_feedback_survey_3
+      label: Were medications dispensed as expected?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      - '{''value'': ''partially''}'
+      required: false
+    - id: 4
+      name: medication_dispensing_feedback_survey_4
+      label: Overall experience during visit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: medication_dispensing_feedback_survey_5
+      label: How would you rate the friendliness of staff during visit
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 6
+      name: medication_dispensing_feedback_survey_6
+      label: How would you rate the helpfulness of staff during visit
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 7
+      name: medication_dispensing_feedback_survey_7
+      label: Was your medication needs met during visit?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 8
+      name: medication_dispensing_feedback_survey_8
+      label: How long did it take for medication to be dispensed?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''less_than_5_minutes''}'
+      - '{''value'': ''5_to_10_minutes''}'
+      - '{''value'': ''11_to_15_minutes''}'
+      - '{''value'': ''more_than_15_minutes''}'
+      required: false
+    - id: 9
+      name: medication_dispensing_feedback_survey_9
+      label: Would you recommend this pharmacy?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: medication_dispensing_feedback_survey_10
+      label: How would you rate the knowledge of staff about your medication?
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 11
+      name: medication_dispensing_feedback_survey_11
+      label: Was information about medication provided during visit?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 12
+      name: medication_dispensing_feedback_survey_12
+      label: Were there any issues with your medication during visit?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: medication_dispensing_feedback_survey_13
+      label: What issues were with your medication during visit?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medication_dispensing_feedback_survey_14
+      label: Did you experience any issues with payment during visit?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: medication_dispensing_feedback_survey_15
+      label: Would you like to provide any additional comments?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: medication_dispensing_feedback_survey_16
+      label: Was the visit during regular business hours?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false
+    - id: 17
+      name: medication_dispensing_feedback_survey_17
+      label: What time was visit during?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: medication_dispensing_feedback_survey_18
+      label: Date of visit?
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: medication_dispensing_feedback_survey_19
+      label: Time of visit?
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: medication_dispensing_feedback_survey_20
+      label: Date of visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: medication_dispensing_feedback_survey_21
+      label: What type of medication was dispensed during the visit?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: medication_dispensing_feedback_survey_22
+      label: Would you like to provide your medication name during visit?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: medication_dispensing_feedback_survey_23
+      label: How would you rate overall satisfaction with this visit?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''very_satisfied''}'
+      - '{''value'': ''satisfied''}'
+      - '{''value'': ''neutral''}'
+      - '{''value'': ''dissatisfied''}'
+      - '{''value'': ''very_dissatisfied''}'
+      required: false
+    - id: 24
+      name: medication_dispensing_feedback_survey_24
+      label: Would you like to provide feedback on this visit?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: medication_dispensing_feedback_survey_25
+      label: Do you consent to use your feedback for improvement?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      required: false

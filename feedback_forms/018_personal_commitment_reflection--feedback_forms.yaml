@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Commitment Reflection
+    pages:
+    - id: 1
+      name: personal_commitment_reflection_form
+      label: What Is Your Goal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: current_status
+      label: Current Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 3
+      name: personal_values
+      label: What Are Your Personal Values
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: growth_areas
+      label: Identify Growth Areas
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: next_steps
+      label: What Are Your Next Steps
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: challenges
+      label: What Are Challenges
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: support_sources
+      label: Support Sources
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: growth_plans
+      label: Growth Plans
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: accountability_partners
+      label: Accountability Partners
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

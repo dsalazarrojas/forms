@@ -1,0 +1,247 @@
+inputSchema:
+  type: object
+  properties:
+    title: Anniversary Trip Feedback Survey
+    pages:
+    - id: 1
+      name: traveler_name
+      label: Full Name
+      hint: Optional - you may remain anonymous
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email Address
+      hint: For follow-up regarding your feedback
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: travel_dates
+      label: Travel Dates
+      hint: When did you travel?
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: destination
+      label: Destination
+      hint: Where did you travel for your anniversary?
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: trip_type
+      label: Type of Trip
+      hint: What type of anniversary trip was this?
+      type: select_one
+      options:
+      - Romantic Getaway
+      - Cruise
+      - All-Inclusive Resort
+      - City Break
+      - Beach Vacation
+      - Adventure Trip
+      - Cultural Tour
+      - Other
+      required: true
+    - id: 6
+      name: travel_party_size
+      label: Number of Travelers
+      hint: How many people traveled?
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: booking_method
+      label: How Did You Book?
+      hint: Select your booking method
+      type: select_one
+      options:
+      - Travel Agency
+      - Online Booking Site
+      - Direct with Hotel
+      - Tour Operator
+      - Package Deal
+      - Other
+      required: true
+    - id: 8
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: How satisfied were you with your anniversary trip?
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 9
+      name: accommodation_rating
+      label: Accommodation Rating
+      hint: Rate your lodging experience
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      - Not Applicable
+      required: true
+    - id: 10
+      name: location_rating
+      label: Destination Rating
+      hint: Rate the destination
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 11
+      name: value_for_money
+      label: Value for Money
+      hint: Did you feel the trip was worth the cost?
+      type: select_one
+      options:
+      - Excellent Value
+      - Good Value
+      - Fair Value
+      - Poor Value
+      - Very Poor Value
+      required: true
+    - id: 12
+      name: highlights
+      label: Trip Highlights
+      hint: What were the best parts of your trip?
+      type: select_multiple
+      options:
+      - Accommodations
+      - Dining Experiences
+      - Activities and Tours
+      - Scenery and Views
+      - Spa and Relaxation
+      - Cultural Experiences
+      - Adventure Activities
+      - Nightlife
+      - Shopping
+      - Privacy and Romance
+      required: true
+    - id: 13
+      name: disappointments
+      label: Areas for Improvement
+      hint: What could have been better?
+      type: select_multiple
+      options:
+      - Nothing - Everything Was Perfect
+      - Accommodation Quality
+      - Cleanliness
+      - Staff Service
+      - Food Quality
+      - Activity Options
+      - Transportation
+      - Weather
+      - Crowds
+      - Cost
+      - Other
+      required: true
+    - id: 14
+      name: service_rating
+      label: Service Quality Rating
+      hint: Rate the overall service received
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 15
+      name: cleanliness_rating
+      label: Cleanliness Rating
+      hint: Rate the cleanliness of accommodations
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: true
+    - id: 16
+      name: anniversary_special_touches
+      label: Anniversary Special Touches
+      hint: Did the provider acknowledge your anniversary?
+      type: select_one
+      options:
+      - Yes, Exceeded Expectations
+      - Yes, Met Expectations
+      - Minimal Acknowledgment
+      - No Acknowledgment
+      - Not Applicable
+      required: true
+    - id: 17
+      name: likelihood_to_recommend
+      label: Likelihood to Recommend
+      hint: Would you recommend this destination to others?
+      type: select_one
+      options:
+      - Very Likely
+      - Likely
+      - Neutral
+      - Unlikely
+      - Very Unlikely
+      required: true
+    - id: 18
+      name: likelihood_to_return
+      label: Likelihood to Return
+      hint: Would you visit this destination again?
+      type: select_one
+      options:
+      - Very Likely
+      - Likely
+      - Neutral
+      - Unlikely
+      - Very Unlikely
+      required: true
+    - id: 19
+      name: best_memory
+      label: Best Memory from the Trip
+      hint: Share your favorite moment
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: suggestions
+      label: Suggestions for Improvement
+      hint: What could make anniversary trips better?
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: photos_shared
+      label: Would You Share Photos?
+      hint: Would you be willing to share photos for marketing?
+      type: select_one
+      options:
+      - Yes, Happy to Share
+      - Maybe
+      - No, Prefer Privacy
+      required: false
+    - id: 22
+      name: future_travel_plans
+      label: Future Anniversary Travel Plans
+      hint: Are you planning another anniversary trip?
+      type: select_one
+      options:
+      - Yes, Already Planning
+      - Considering It
+      - Not Sure
+      - No Plans Currently
+      required: false

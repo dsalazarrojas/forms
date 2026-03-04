@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gym Trainer Evaluation Survey
+    pages:
+    - id: 1
+      name: survey_title
+      label: Gym Trainer Evaluation Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: professionalism
+      label: Professionalism
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: communication
+      label: Communication
+      hint: How would you rate the trainer's communication?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 4
+      name: motivation
+      label: Motivation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: professionalism_scale
+      label: Professionalism Scale
+      hint: null
+      type: select_multiple
+      options:
+      - 1 - 2
+      - 3 - 4
+      - 5 - 6
+      - 7 - 8
+      - 9 - 10
+      required: false
+    - id: 6
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: How satisfied are you with the trainer?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 7
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

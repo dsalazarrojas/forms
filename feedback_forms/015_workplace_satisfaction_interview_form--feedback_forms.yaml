@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: workplace_satisfaction_interview_form
+    pages:
+    - id: 1
+      name: workplace_satisfaction_section
+      label: workplace_satisfaction_section
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: job_satisfaction
+      label: job_satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: work_life_balance
+      label: work_life_balance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: communication
+      label: communication
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: management
+      label: management
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: work_life_balance_2
+      label: work_life_balance_2
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false

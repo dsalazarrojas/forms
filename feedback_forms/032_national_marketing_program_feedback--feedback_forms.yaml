@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: National Marketing Program Feedback
+    pages:
+    - id: 1
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: select_one
+      options:
+      - phone
+      - email
+      - address
+      required: false
+    - id: 3
+      name: feedback_question
+      label: Feedback Question
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: suggestion
+      label: Suggestion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: marketing_program
+      label: Marketing Program
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: marketing_initiative
+      label: Marketing Initiative
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: feedback_date
+      label: Feedback Date
+      hint: null
+      type: date
+      options: []
+      required: false

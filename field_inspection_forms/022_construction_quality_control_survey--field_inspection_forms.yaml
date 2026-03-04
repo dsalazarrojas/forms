@@ -1,0 +1,263 @@
+inputSchema:
+  type: object
+  properties:
+    title: Construction Quality Control Survey
+    pages:
+    - id: 1
+      name: survey_date
+      label: Survey Date
+      hint: Date of quality control survey
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: inspector_name
+      label: Inspector Name
+      hint: Name of quality inspector
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: inspector_credentials
+      label: Inspector Credentials
+      hint: Qualifications or certification
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: project_name
+      label: Project Name
+      hint: Name of construction project
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: project_address
+      label: Project Address
+      hint: Site location
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: area_inspected
+      label: Area or Phase Inspected
+      hint: Specific area or work phase
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: construction_phase
+      label: Construction Phase
+      hint: Current phase of construction
+      type: select_one
+      options:
+      - Site Work
+      - Foundation
+      - Structural Framing
+      - Exterior Envelope
+      - Rough-In MEP
+      - Insulation
+      - Drywall
+      - Finishes
+      - Final
+      required: true
+    - id: 8
+      name: workmanship_quality
+      label: Workmanship Quality
+      hint: Rate overall workmanship
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Acceptable
+      - Below Standard
+      - Unacceptable
+      required: true
+    - id: 9
+      name: materials_quality
+      label: Materials Quality
+      hint: Rate quality of materials used
+      type: select_one
+      options:
+      - As Specified
+      - Acceptable Quality
+      - Below Specification
+      - Unacceptable
+      required: true
+    - id: 10
+      name: specifications_compliance
+      label: Compliance with Specifications
+      hint: Is work per project specifications
+      type: select_one
+      options:
+      - Fully Compliant
+      - Minor Deviations
+      - Major Deviations
+      - Non-Compliant
+      required: true
+    - id: 11
+      name: drawings_compliance
+      label: Compliance with Drawings
+      hint: Is work per approved drawings
+      type: select_one
+      options:
+      - Fully Compliant
+      - Minor Deviations
+      - Major Deviations
+      - Non-Compliant
+      required: true
+    - id: 12
+      name: dimensional_accuracy
+      label: Dimensional Accuracy
+      hint: Are dimensions within tolerance
+      type: select_one
+      options:
+      - Within Tolerance
+      - Minor Deviations
+      - Major Deviations
+      - Out of Tolerance
+      required: true
+    - id: 13
+      name: finish_quality
+      label: Finish Quality
+      hint: Rate quality of finished work
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Acceptable
+      - Needs Improvement
+      - Poor
+      required: false
+    - id: 14
+      name: defects_found
+      label: Number of Defects Found
+      hint: Count of quality defects
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: defect_types
+      label: Types of Defects
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Cracks
+      - Misalignment
+      - Poor Joints
+      - Surface Damage
+      - Incomplete Work
+      - Wrong Materials
+      - Code Violations
+      - Safety Issues
+      - None
+      required: true
+    - id: 16
+      name: defect_description
+      label: Defect Description
+      hint: Describe defects found
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: corrective_action_needed
+      label: Corrective Action Needed
+      hint: What corrections are required
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: rework_required
+      label: Rework Required
+      hint: Does work need to be redone
+      type: select_one
+      options:
+      - Yes, Extensive
+      - Yes, Moderate
+      - Yes, Minor
+      - false
+      required: true
+    - id: 19
+      name: photos_documentation
+      label: Photos Taken
+      hint: Were photos taken for documentation
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 20
+      name: testing_required
+      label: Testing Required
+      hint: Is additional testing needed
+      type: select_one
+      options:
+      - true
+      - false
+      - Already Completed
+      required: false
+    - id: 21
+      name: testing_type
+      label: Type of Testing
+      hint: What tests are needed
+      type: select_multiple
+      options:
+      - Concrete Strength
+      - Soil Compaction
+      - Weld Testing
+      - Air Tightness
+      - Water Testing
+      - Electrical Testing
+      - Pressure Testing
+      - None
+      required: false
+    - id: 22
+      name: hold_point_required
+      label: Hold Point Required
+      hint: Should work stop until approved
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 23
+      name: overall_assessment
+      label: Overall Quality Assessment
+      hint: Final quality determination
+      type: select_one
+      options:
+      - Approved
+      - Approved with Minor Items
+      - Conditional Approval
+      - Rejected
+      required: true
+    - id: 24
+      name: follow_up_required
+      label: Follow-Up Required
+      hint: Is reinspection needed
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 25
+      name: follow_up_date
+      label: Follow-Up Date
+      hint: Scheduled reinspection date
+      type: date
+      options: []
+      required: false
+    - id: 26
+      name: inspector_comments
+      label: Inspector Comments
+      hint: Additional observations
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: inspector_signature
+      label: Inspector Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pre Project Site Assessment
+    pages:
+    - id: 1
+      name: site_details
+      label: Site Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: site_access_instructions
+      label: Site Access Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: site_access_restrictions
+      label: Site Access Restrictions
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      required: false
+    - id: 4
+      name: safety_hazards
+      label: Safety Hazards
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Other (please specify)''}'
+      required: false
+    - id: 5
+      name: safety_hazards_other
+      label: Other Safety Hazards
+      hint: Provide details on other safety hazards
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: site_conditions
+      label: Site Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: site_equipment
+      label: Site Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True}'
+      - '{''label'': False}'
+      - '{''label'': ''Other (please specify)''}'
+      required: false
+    - id: 8
+      name: site_equipment_other
+      label: Other Equipment
+      hint: Provide details on other equipment
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: weather
+      label: Weather
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: weather_conditions
+      label: Weather Conditions
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: emergency_services
+      label: Emergency Services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emergency_contacts
+      label: Emergency Contacts
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: PDF Submit Form
+    pages:
+    - id: 1
+      name: upload_pdf
+      label: Upload PDF
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: uploaded_by
+      label: Uploaded By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: upload_date
+      label: Upload Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: file_url
+      label: File URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: file_name
+      label: File Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 11
+      name: submission_file
+      label: Submission File
+      hint: null
+      type: text
+      options: []
+      required: true

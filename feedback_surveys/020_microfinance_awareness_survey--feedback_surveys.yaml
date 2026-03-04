@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Microfinance Awareness Survey
+    pages:
+    - id: 1
+      name: name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: survey_questions
+      label: Microfinance Awareness
+      hint: null
+      type: select_multiple
+      options:
+      - Microfinance services provide access to credit for small business owners.
+      - Mobile money and microfinance services are the same.
+      required: false
+    - id: 4
+      name: awareness_score
+      label: How aware are you of microfinance services?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: perceived_benefit
+      label: What benefits do you think microfinance services provide?
+      hint: null
+      type: select_one
+      options:
+      - Access to credit for small business owners.
+      - Mobile money and microfinance services.
+      - Financial services for low-income people.
+      required: true
+    - id: 6
+      name: interest_score
+      label: How interested are you in using microfinance services?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: contact
+      label: How did you come across this form?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Facility Access Control Experience Survey
+    pages:
+    - id: 1
+      name: user_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: user_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: facility_access_control_rating
+      label: Facility Access Control
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: user_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: facility_access_control_experience
+      label: Facility Access Control Experience
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Somewhat Good
+      - Average
+      - Somewhat Poor
+      - Very Poor
+      - No Answer
+      required: true
+    - id: 7
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_user
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments_on_assigned_user
+      label: Comments On Assigned User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false

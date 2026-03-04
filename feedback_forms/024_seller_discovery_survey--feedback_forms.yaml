@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Seller Discovery Survey
+    pages:
+    - id: 1
+      name: seller_discovery_survey
+      label: Seller Discovery
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: seller_type
+      label: seller_type
+      hint: Choose one
+      type: select_one
+      options:
+      - Retailer
+      - Wholesaler
+      - Distributor
+      - Other
+      required: false
+    - id: 7
+      name: product_type
+      label: product_type
+      hint: Select multiple
+      type: select_multiple
+      options:
+      - Electronics
+      - Books
+      - Toys
+      - Fashion
+      - Other
+      required: false
+    - id: 8
+      name: product_category
+      label: product_category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: language
+      label: language
+      hint: Choose one
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - French
+      - Other
+      required: false
+    - id: 11
+      name: preferred_contact_method
+      label: preferred_contact_method
+      hint: Choose one
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - In-person
+      required: false
+    - id: 12
+      name: available_time
+      label: available_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: available_days
+      label: available_days
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: timezone
+      label: timezone
+      hint: null
+      type: time
+      options: []
+      required: false

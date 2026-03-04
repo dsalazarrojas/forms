@@ -1,0 +1,43 @@
+inputSchema:
+  type: object
+  properties:
+    title: Inclusive Product Shade Availability Survey
+    pages:
+    - id: 1
+      name: first_page
+      label: Inclusive Product Shade Availability
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: product_type
+      label: Product Type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 4
+      name: shade_availability
+      label: Shade Availability
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fabric Color Poll
+    pages:
+    - id: 1
+      name: intro_page
+      label: intro
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: color_page
+      label: fabric-color
+      hint: null
+      type: select_multiple
+      options:
+      - Blue
+      - Green
+      - Red
+      - Yellow
+      required: false
+    - id: 3
+      name: color_prefs
+      label: fabric-color-preferences
+      hint: What is your favorite fabric color?
+      type: select_one
+      options:
+      - Blue
+      - Green
+      - Red
+      - Yellow
+      required: false
+    - id: 4
+      name: other_color
+      label: other-fabric-color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: submit_page
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Other
+      required: false
+    - id: 6
+      name: follow_up_page
+      label: follow-up
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Creative Writing Workshop Survey Form
+    pages:
+    - id: 1
+      name: workshop_participants
+      label: Workshop Participants
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 5
+      name: comments
+      label: Comments (optional)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: attended_workshop
+      label: Did you attend the workshop?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: attended_workshop_date
+      label: Date attended
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: attended_workshop_time
+      label: Time attended
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: rating
+      label: Rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 10
+      name: rating_scale
+      label: What was your rating for the workshop?
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 11
+      name: rating_comments
+      label: Reasons for your rating
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 12
+      name: satisfaction_level
+      label: How do you rate your satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: true
+    - id: 13
+      name: suggestion
+      label: Any suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: workshop_topics
+      label: Which topics were covered
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: workshop_topics_other
+      label: Any other topics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: workshop_goals
+      label: What were your goals for attending the workshop
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: workshop_goals_other
+      label: Any other goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: workshop_outcomes
+      label: What outcomes did you achieve
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: workshop_outcomes_other
+      label: Any other outcomes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: workshop_recommendation
+      label: Would you recommend this workshop
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: workshop_recommendation_scale
+      label: Why did you recommend this workshop
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: workshop_recommendation_comments
+      label: Reasons for your recommendation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: follow_up_contact
+      label: Can we follow up with you
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: follow_up_preferred
+      label: Preferred contact method
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: follow_up_preferred_method
+      label: Method of contact
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

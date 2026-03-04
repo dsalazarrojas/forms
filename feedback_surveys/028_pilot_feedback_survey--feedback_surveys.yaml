@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pilot Feedback Survey
+    pages:
+    - id: 1
+      name: intro_text
+      label: intro_text
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pilot_name
+      label: pilot_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: flight_experience
+      label: flight_experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: safety_perception
+      label: safety_perception
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': 1}'
+      - '{''option'': 2}'
+      - '{''option'': 3}'
+      - '{''option'': 4}'
+      - '{''option'': 5}'
+      required: false
+    - id: 5
+      name: communication_quality
+      label: communication_quality
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': 1}'
+      - '{''option'': 2}'
+      - '{''option'': 3}'
+      - '{''option'': 4}'
+      required: false
+    - id: 6
+      name: flight_experience
+      label: flight_experience_2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: improvement_opportunities
+      label: improvement_opportunities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submitted
+      label: submitted
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: training_experience
+      label: training_experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: training_quality
+      label: training_quality
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': 1}'
+      - '{''option'': 2}'
+      - '{''option'': 3}'
+      - '{''option'': 4}'
+      required: false
+    - id: 14
+      name: communication_quality_2
+      label: communication_quality_2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option'': 1}'
+      - '{''option'': 2}'
+      - '{''option'': 3}'
+      - '{''option'': 4}'
+      required: false

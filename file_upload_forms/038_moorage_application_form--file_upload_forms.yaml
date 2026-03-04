@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Moorage Application Form
+    pages:
+    - id: 1
+      name: moorage_form
+      label: Moorage Application Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - harbor
+      - marina
+      required: false
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: moorage_type
+      label: Moorage Type
+      hint: null
+      type: select_one
+      options:
+      - single
+      - multiple
+      required: false
+    - id: 7
+      name: moorage_start
+      label: Moorage Start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: moorage_end
+      label: Moorage End
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: form_notes
+      label: Form Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: form_attachment
+      label: Form Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: moorage_attachment
+      label: Moorage Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: moorage_comments
+      label: Moorage Comments
+      hint: null
+      type: text
+      options: []
+      required: false

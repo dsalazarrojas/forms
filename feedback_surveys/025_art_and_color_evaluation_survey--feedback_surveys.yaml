@@ -1,0 +1,236 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Art And Color Evaluation Survey
+    pages:
+        - id: 1
+          name: section_respondent
+          label: -- Respondent Information --
+          hint: null
+          type: note
+          options: []
+          required: false
+        - id: 2
+          name: name
+          label: Your Name
+          hint: Optional
+          type: text
+          options: []
+          required: false
+        - id: 3
+          name: email
+          label: Email Address
+          hint: Optional
+          type: email
+          options: []
+          required: false
+        - id: 4
+          name: age_group
+          label: Age Group
+          hint: null
+          type: select_one
+          options:
+            - Under 18
+            - 18-25
+            - 26-35
+            - 36-45
+            - 46-55
+            - 56-65
+            - 65+
+            - Prefer not to say
+          required: false
+        - id: 5
+          name: survey_date
+          label: Date of Survey
+          hint: null
+          type: date
+          options: []
+          required: true
+        - id: 6
+          name: section_artwork
+          label: -- Artwork Evaluation --
+          hint: null
+          type: note
+          options: []
+          required: false
+        - id: 7
+          name: artwork_title
+          label: Title of Artwork Being Evaluated
+          hint: null
+          type: text
+          options: []
+          required: true
+        - id: 8
+          name: artist_name
+          label: Artist Name
+          hint: If known
+          type: text
+          options: []
+          required: false
+        - id: 9
+          name: visual_impact
+          label: Visual Impact of the Artwork
+          hint: null
+          type: select_one
+          options:
+            - Very strong impact
+            - Strong impact
+            - Moderate impact
+            - Minimal impact
+            - No impact
+          required: true
+        - id: 10
+          name: emotional_response
+          label: Emotional Response to the Artwork
+          hint: null
+          type: select_multiple
+          options:
+            - Joy or happiness
+            - Sadness or melancholy
+            - Excitement or energy
+            - Calm or peace
+            - Confusion or uncertainty
+            - Anger or frustration
+            - Inspiration
+          required: true
+        - id: 11
+          name: artwork_understanding
+          label: Understanding of the Artwork's Message
+          hint: null
+          type: select_one
+          options:
+            - Very clear
+            - Clear
+            - Somewhat clear
+            - Unclear
+            - Very unclear
+          required: true
+        - id: 12
+          name: section_color
+          label: -- Color Evaluation --
+          hint: null
+          type: note
+          options: []
+          required: false
+        - id: 13
+          name: primary_color
+          label: Primary Color or Color Palette
+          hint: Dominant colors in the artwork
+          type: text
+          options: []
+          required: false
+        - id: 14
+          name: color_harmony
+          label: Color Harmony and Balance
+          hint: null
+          type: select_one
+          options:
+            - Excellent
+            - Good
+            - Fair
+            - Poor
+          required: true
+        - id: 15
+          name: color_mood
+          label: How do the colors affect the mood
+          hint: null
+          type: text
+          options: []
+          required: false
+        - id: 16
+          name: color_preference
+          label: Preference for Color Choices
+          hint: null
+          type: select_one
+          options:
+            - Love the colors
+            - Like the colors
+            - Neutral
+            - Dislike the colors
+            - Dislike strongly
+          required: true
+        - id: 17
+          name: section_overall
+          label: -- Overall Assessment --
+          hint: null
+          type: note
+          options: []
+          required: false
+        - id: 18
+          name: artistic_technique
+          label: Technical Skill or Artistic Technique
+          hint: null
+          type: select_one
+          options:
+            - Excellent
+            - Good
+            - Average
+            - Below average
+          required: true
+        - id: 19
+          name: originality
+          label: Originality and Uniqueness
+          hint: null
+          type: select_one
+          options:
+            - Very original
+            - Somewhat original
+            - Conventional
+            - Derivative
+          required: true
+        - id: 20
+          name: overall_rating
+          label: Overall Rating
+          hint: null
+          type: select_one
+          options:
+            - Excellent
+            - Very good
+            - Good
+            - Fair
+            - Poor
+          required: true
+        - id: 21
+          name: would_recommend
+          label: Would you recommend this artwork to others
+          hint: null
+          type: select_one
+          options:
+            - Yes, strongly
+            - Yes
+            - Maybe
+            - No
+            - No, definitely not
+          required: true
+        - id: 22
+          name: section_feedback
+          label: -- Additional Feedback --
+          hint: null
+          type: note
+          options: []
+          required: false
+        - id: 23
+          name: additional_comments
+          label: Additional Comments or Observations
+          hint: null
+          type: text
+          options: []
+          required: false
+        - id: 24
+          name: improvement_suggestions
+          label: Suggestions for Artist Improvement
+          hint: null
+          type: text
+          options: []
+          required: false

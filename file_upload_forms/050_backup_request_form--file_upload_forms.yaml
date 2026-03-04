@@ -1,0 +1,242 @@
+inputSchema:
+  type: object
+  properties:
+    title: Backup Request Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Full Name
+      hint: Your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: department
+      label: Department
+      hint: Your department or team
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: request_date
+      label: Request Date
+      hint: Date of this request
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: backup_type
+      label: Type of Backup Requested
+      hint: Select backup type
+      type: select_one
+      options:
+      - Full system backup
+      - File and folder backup
+      - Database backup
+      - Application backup
+      - Email backup
+      - Virtual machine backup
+      - Cloud data backup
+      required: true
+    - id: 7
+      name: priority_level
+      label: Priority Level
+      hint: Select urgency
+      type: select_one
+      options:
+      - Critical, immediate
+      - High, within 24 hours
+      - Medium, within 3 days
+      - Low, within 1 week
+      - Scheduled, flexible
+      required: true
+    - id: 8
+      name: data_description
+      label: Description of Data to Backup
+      hint: What needs to be backed up
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: data_location
+      label: Data Location
+      hint: Where is the data stored
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: file_paths
+      label: Specific File Paths
+      hint: List paths if known
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: data_size
+      label: Estimated Data Size
+      hint: Approximate size in GB or TB
+      type: select_one
+      options:
+      - Under 10 GB
+      - 10 to 50 GB
+      - 50 to 100 GB
+      - 100 GB to 1 TB
+      - 1 to 5 TB
+      - Over 5 TB
+      - Unknown
+      required: true
+    - id: 12
+      name: file_upload
+      label: Upload File List
+      hint: Upload document with file details if available
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: backup_destination
+      label: Preferred Backup Destination
+      hint: Where should backup be stored
+      type: select_one
+      options:
+      - Primary backup server
+      - Secondary backup server
+      - Cloud storage
+      - External drive
+      - Tape
+      - No preference
+      required: true
+    - id: 14
+      name: retention_requirement
+      label: Retention Requirement
+      hint: How long should backup be kept
+      type: select_one
+      options:
+      - 30 days
+      - 90 days
+      - 1 year
+      - 3 years
+      - 7 years
+      - Permanent
+      - As per policy
+      required: true
+    - id: 15
+      name: encryption_required
+      label: Encryption Required
+      hint: Does this data need special encryption
+      type: select_one
+      options:
+      - Yes, high security
+      - Yes, standard encryption
+      - No, standard backup
+      - Not sure
+      required: true
+    - id: 16
+      name: sensitive_data
+      label: Contains Sensitive Data
+      hint: Does data contain PII or confidential info
+      type: select_one
+      options:
+      - Yes, highly sensitive
+      - Yes, moderately sensitive
+      - No, not sensitive
+      - Not sure
+      required: true
+    - id: 17
+      name: compliance_requirements
+      label: Compliance Requirements
+      hint: Any regulatory requirements
+      type: select_multiple
+      options:
+      - HIPAA
+      - GDPR
+      - PCI DSS
+      - SOX
+      - None
+      - Other
+      required: false
+    - id: 18
+      name: backup_schedule
+      label: Backup Schedule Preference
+      hint: When should backup occur
+      type: select_one
+      options:
+      - Immediately
+      - During business hours
+      - After business hours
+      - Weekend
+      - Scheduled date
+      required: true
+    - id: 19
+      name: preferred_backup_date
+      label: Preferred Backup Date
+      hint: If scheduled, select date
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: restore_testing
+      label: Restore Testing Required
+      hint: Do you want to test restore after backup
+      type: select_one
+      options:
+      - Yes, required
+      - Yes, recommended
+      - No, not needed
+      required: true
+    - id: 21
+      name: notification_preference
+      label: Notification Preference
+      hint: How should you be notified
+      type: select_multiple
+      options:
+      - Email when started
+      - Email when completed
+      - SMS notification
+      - Phone call
+      - No notification needed
+      required: true
+    - id: 22
+      name: special_instructions
+      label: Special Instructions
+      hint: Any additional requirements or notes
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: approval_status
+      label: Manager Approval Status
+      hint: Has your manager approved this request
+      type: select_one
+      options:
+      - Yes, approved
+      - Pending approval
+      - Not yet requested
+      required: true
+    - id: 24
+      name: manager_name
+      label: Manager Name
+      hint: Name of approving manager
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

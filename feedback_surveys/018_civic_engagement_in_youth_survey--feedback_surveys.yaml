@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: Civic Engagement In Youth Survey
+    pages:
+    - id: 1
+      name: youth_survey_intro
+      label: -- Youth Voice and Civic Engagement --
+      hint: We want to hear from the next generation of leaders
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: youth_age
+      label: What is your current age?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: current_school_status
+      label: Current School Status
+      hint: null
+      type: select_one
+      options:
+      - Middle School
+      - High School
+      - College/University
+      - Vocational School
+      - Not in school
+      required: true
+    - id: 4
+      name: volunteer_experience
+      label: Have you ever volunteered for a community project or nonprofit?
+      hint: null
+      type: select_one
+      options:
+      - Yes, regularly
+      - Yes, once or twice
+      - No, but I want to
+      - No interest
+      required: true
+    - id: 5
+      name: service_frequency
+      label: How often do you participate in community service?
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Monthly
+      - A few times a year
+      - Never
+      required: false
+    - id: 6
+      name: preferred_causes
+      label: Which causes do you care about most?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Environment/Climate Change
+      - Animal Welfare
+      - Homelessness and Poverty
+      - Racial Equality
+      - Mental Health Awareness
+      - Arts and Music
+      required: true
+    - id: 7
+      name: voting_attitude
+      label: (If 18 plus) Did you vote in the last local election?
+      hint: (If under 18) Do you plan to vote when you turn 18?
+      type: select_one
+      options:
+      - true
+      - false
+      - Not eligible yet
+      required: true
+    - id: 8
+      name: engagement_barriers
+      label: What stops you from being more involved in your community?
+      hint: null
+      type: select_multiple
+      options:
+      - Lack of time
+      - Lack of transportation
+      - Don't know how to get started
+      - Don't feel my voice matters
+      - Financial constraints
+      required: false
+    - id: 9
+      name: digital_engagement
+      label: Do you use social media to advocate for causes you care about?
+      hint: null
+      type: select_one
+      options:
+      - Very often
+      - Occasionally
+      - Rarely
+      - Never
+      required: true
+    - id: 10
+      name: community_impact_belief
+      label: Do you believe young people can make a real difference in the community?
+      hint: null
+      type: select_one
+      options:
+      - Definitely
+      - Somewhat
+      - Unsure
+      - Probably not
+      required: true
+    - id: 11
+      name: youth_council_interest
+      label: Would you be interested in joining a Youth Advisory Council?
+      hint: null
+      type: select_one
+      options:
+      - Yes, very interested
+      - Maybe
+      - false
+      required: false
+    - id: 12
+      name: leader_nomination
+      label: Name a young person you admire for their civic leadership
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: open_feedback
+      label: What is one thing the city could do to better support youth?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_email_opt
+      label: Email address (if you want to be notified of youth events)
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: parent_consent_if_minor
+      label: If under 13 - I have my parent's permission to fill this out
+      hint: null
+      type: select_one
+      options:
+      - true
+      - Not applicable
+      required: true
+    - id: 16
+      name: survey_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true

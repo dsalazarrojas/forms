@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Course Instructor Feedback Form
+    pages:
+    - id: 1
+      name: instructor_feedback_form
+      label: Instructor Feedback Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: instructor_id
+      label: Instructor ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: feedback_type
+      label: Feedback Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: course_id
+      label: Course ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: feedback_date
+      label: Feedback Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: feedback_note
+      label: Additional Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: instructor_name
+      label: Instructor Name
+      hint: null
+      type: text
+      options: []
+      required: false

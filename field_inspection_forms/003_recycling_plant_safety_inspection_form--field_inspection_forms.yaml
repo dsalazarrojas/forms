@@ -1,0 +1,229 @@
+inputSchema:
+  type: object
+  properties:
+    title: Recycling Plant Safety Inspection Form
+    pages:
+    - id: 1
+      name: plant_address
+      label: Plant Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: plant_name
+      label: plant_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: facility_id
+      label: facility_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: safety_officer
+      label: safety_officer
+      hint: null
+      type: select_one
+      options:
+      - Facility Safety Officer
+      - Maintenance Manager
+      - Supervisor
+      - Operations Manager
+      - Safety Inspector
+      - Quality Manager
+      - General Manager
+      required: true
+    - id: 5
+      name: safety_officer_email
+      label: safety_officer_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: safety_officer_phone
+      label: safety_officer_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: safety_inspector_id
+      label: safety_inspector_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: safety_inspector_phone
+      label: safety_inspector_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: plant_equipment
+      label: plant_equipment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: equipment_condition
+      label: equipment_condition
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Fair
+      - Poor
+      - Not Applicable
+      required: true
+    - id: 11
+      name: electrical_equipment
+      label: electrical_equipment
+      hint: null
+      type: select_multiple
+      options:
+      - Lighting and Power Distribution
+      - Generators
+      - Motors
+      - Other
+      required: true
+    - id: 12
+      name: mechanical_equipment
+      label: mechanical_equipment
+      hint: null
+      type: select_multiple
+      options:
+      - Conveyor Belt
+      - Compressors
+      - Pumps
+      - Other
+      required: true
+    - id: 13
+      name: control_systems
+      label: control_systems
+      hint: null
+      type: select_multiple
+      options:
+      - Sensors and Indicators
+      - Alarm Systems
+      - Valves
+      - Other
+      required: true
+    - id: 14
+      name: safety_signage
+      label: safety_signage
+      hint: null
+      type: select_multiple
+      options:
+      - Warning Signs
+      - Caution Signs
+      - Warning Light Towers
+      - Other
+      required: true
+    - id: 15
+      name: safety_equipment
+      label: safety_equipment
+      hint: null
+      type: select_multiple
+      options:
+      - Fire Extinguisher
+      - First Aid Kit
+      - Eye Wash Station
+      - Other
+      required: true
+    - id: 16
+      name: spill_containment
+      label: spill_containment
+      hint: null
+      type: select_multiple
+      options:
+      - Oil Spill Containment
+      - Chemical Spill Containment
+      - Other
+      required: true
+    - id: 17
+      name: waste_containment
+      label: waste_containment
+      hint: null
+      type: select_multiple
+      options:
+      - Waste Management System
+      - Recycling Bins
+      - Other
+      required: true
+    - id: 18
+      name: training
+      label: training
+      hint: null
+      type: select_multiple
+      options:
+      - New Employee Training
+      - Regular Safety Meeting
+      - Emergency Procedure Training
+      - Other
+      required: true
+    - id: 19
+      name: review
+      label: review
+      hint: null
+      type: select_multiple
+      options:
+      - Regular Review of Safety Inspection
+      - Review of Accident Reporting
+      - Review of Near Miss Reports
+      - Other
+      required: true
+    - id: 20
+      name: follow_up
+      label: follow_up
+      hint: null
+      type: select_multiple
+      options:
+      - Follow up with Safety Officer
+      - Follow up with Supervisor
+      - Follow up with Maintenance Manager
+      - Other
+      required: true
+    - id: 21
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 22
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 24
+      name: submitter
+      label: submitter
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: text
+      options: []
+      required: true

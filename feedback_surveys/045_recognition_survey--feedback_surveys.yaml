@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Recognition Survey
+    pages:
+    - id: 1
+      name: nomination_title
+      label: Nomination title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: nominee_name
+      label: Nominee name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: nominee_email
+      label: Nominee email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: nominee_phone
+      label: Nominee phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: recognition_type
+      label: Type of recognition
+      hint: null
+      type: select_one
+      options:
+      - Team member
+      - Individual contribution
+      - Project lead
+      required: true
+    - id: 6
+      name: recognition_date
+      label: Date recognized
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: recognition_story
+      label: Recognition story
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: recognition_program_experience
+      label: Recognition program experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: impact_impact
+      label: Impact
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 10
+      name: impact_reason
+      label: Reason for impact
+      hint: null
+      type: text
+      options: []
+      required: true

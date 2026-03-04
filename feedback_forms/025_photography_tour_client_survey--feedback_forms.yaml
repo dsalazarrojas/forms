@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: photography_tour_client_survey
+    pages:
+    - id: 1
+      name: survey_title
+      label: Survey Title
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: satisfaction
+      label: Satisfaction Level
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''very_satisfied''}'
+      - '{''option'': ''somewhat_satisfied''}'
+      - '{''option'': ''not_satisfied''}'
+      - '{''option'': ''very_not_satisfied''}'
+      required: true
+    - id: 5
+      name: tour_route
+      label: Route
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: route_improvement
+      label: Route Improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: tour_instructions
+      label: Tour Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: tour_guides
+      label: Tour Guides
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: tour_value
+      label: Tour Value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: tour_satisfaction
+      label: Overall Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''very_satisfied''}'
+      - '{''option'': ''somewhat_satisfied''}'
+      - '{''option'': ''not_satisfied''}'
+      - '{''option'': ''very_not_satisfied''}'
+      required: true
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: photos_taken
+      label: Number of Photos Taken
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: tour_experience
+      label: Tour Experience
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': ''positive''}'
+      - '{''option'': ''negative''}'
+      - '{''option'': ''neutral''}'
+      required: true
+    - id: 14
+      name: recommendation
+      label: Would You Recommend?
+      hint: null
+      type: select_one
+      options:
+      - '{''option'': True}'
+      - '{''option'': False}'
+      required: true
+    - id: 15
+      name: additional_info
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

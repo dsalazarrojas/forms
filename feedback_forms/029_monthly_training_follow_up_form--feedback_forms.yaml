@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Monthly Training Follow Up Form
+    pages:
+    - id: 1
+      name: form_title
+      label: form_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - category_a
+      - category_b
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: training_type
+      label: training_type
+      hint: null
+      type: select_multiple
+      options:
+      - training_type_a
+      - training_type_b
+      required: true
+    - id: 8
+      name: location
+      label: location
+      hint: null
+      type: select_one
+      options:
+      - location_a
+      - location_b
+      required: true
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 11
+      name: participant_id
+      label: participant_id
+      hint: null
+      type: select_one
+      options:
+      - participant_id_a
+      - participant_id_b
+      required: true
+    - id: 12
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: training_status
+      label: training_status
+      hint: null
+      type: select_multiple
+      options:
+      - training_status_a
+      - training_status_b
+      required: true
+    - id: 17
+      name: training_status
+      label: training_status
+      hint: null
+      type: select_multiple
+      options:
+      - training_status_a
+      - training_status_b
+      required: false
+    - id: 18
+      name: participant_comments
+      label: participant_comments
+      hint: null
+      type: select_one
+      options:
+      - participant_comments_a
+      - participant_comments_b
+      required: true
+    - id: 19
+      name: participant_comments
+      label: participant_comments
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: follow_up
+      label: follow_up
+      hint: null
+      type: select_one
+      options:
+      - follow_up_a
+      - follow_up_b
+      required: true
+    - id: 21
+      name: follow_up
+      label: follow_up
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: participant_rating
+      label: participant_rating
+      hint: null
+      type: select_one
+      options:
+      - participant_rating_a
+      - participant_rating_b
+      required: true
+    - id: 23
+      name: participant_rating
+      label: participant_rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 24
+      name: rating_scale
+      label: rating_scale
+      hint: null
+      type: select_one
+      options:
+      - rating_scale_a
+      - rating_scale_b
+      required: false
+    - id: 25
+      name: rating_scale
+      label: rating_scale
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false

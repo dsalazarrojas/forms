@@ -1,0 +1,98 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Accuracy Assessment Survey
+    pages:
+    - id: 1
+      name: survey_header
+      label: -- Accuracy feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_name
+      label: Respondent name
+      hint: Optional for anonymous responses
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: product_or_service
+      label: Product or service
+      hint: Item being assessed
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: accuracy_rating
+      label: Accuracy rating
+      hint: Rate the accuracy or precision
+      type: select_one
+      options:
+        - Very accurate
+        - Accurate
+        - Acceptable
+        - Inaccurate
+        - Very inaccurate
+      required: true
+    - id: 5
+      name: frequency_of_errors
+      label: Frequency of errors
+      hint: How often inaccuracies are observed
+      type: select_one
+      options:
+        - Never
+        - Rarely
+        - Sometimes
+        - Often
+        - Always
+      required: true
+    - id: 6
+      name: impact_of_inaccuracy
+      label: Impact of inaccuracy
+      hint: Describe consequences of inaccuracies
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: examples_of_inaccuracy
+      label: Examples of inaccuracy
+      hint: Provide specific examples if possible
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: suggestions_for_correction
+      label: Suggestions for correction
+      hint: Practical steps to improve accuracy
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: willingness_to_discuss
+      label: Willingness to discuss further
+      hint: Would you like someone to contact you
+      type: select_one
+      options:
+        - Yes
+        - No
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional comments
+      hint: Any other feedback
+      type: text
+      options: []
+      required: false

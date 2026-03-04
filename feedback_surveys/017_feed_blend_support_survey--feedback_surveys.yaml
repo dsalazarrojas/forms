@@ -1,0 +1,151 @@
+inputSchema:
+  type: object
+  properties:
+    title: Feed Blend Support Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: satisfaction
+      label: satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: issue_description
+      label: issue description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: issue_frequency
+      label: issue frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_number
+      label: contact number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: support_channels
+      label: support channels
+      hint: null
+      type: select_multiple
+      options:
+      - phone
+      - email
+      - chat
+      - text
+      required: false
+    - id: 8
+      name: issue_solutions
+      label: issue solutions
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 9
+      name: additional_comments
+      label: additional comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: provider_name
+      label: provider name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: feedback_question
+      label: feedback question
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 12
+      name: how_satisfied
+      label: how satisfied
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 13
+      name: how_satisfied_reason
+      label: reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: next_steps
+      label: next steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: rating_reason
+      label: reason for rating
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: survey_completed
+      label: completed date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: survey_completed_time
+      label: completed time
+      hint: null
+      type: time
+      options: []
+      required: false

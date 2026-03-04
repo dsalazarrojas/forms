@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chapter Review Feedback Form
+    pages:
+    - id: 1
+      name: section_member_info
+      label: -- Member Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: chapter_member_full_name
+      label: Chapter Member Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: member_contact_email
+      label: Member Contact Email
+      hint: For follow-up and verification
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: chapter_organization_name
+      label: Chapter Organization Name
+      hint: Full name of the chapter being reviewed
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_meeting_details
+      label: -- Meeting Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: date_of_meeting_reviewed
+      label: Date of Meeting Reviewed
+      hint: When did the meeting take place?
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: type_of_meeting_event
+      label: Type of Meeting or Event
+      hint: Select the category of the meeting
+      type: select_one
+      options:
+      - Standard Chapter Meeting
+      - Executive Board Meeting
+      - Community Service Project
+      - Social Event
+      - Regional Workshop
+      - Recruitment Event
+      required: true
+    - id: 8
+      name: attendance_format_used
+      label: Attendance Format
+      hint: How did you attend this meeting?
+      type: select_one
+      options:
+      - In-Person
+      - Virtual (Live)
+      - Hybrid
+      - Recorded Session
+      required: true
+    - id: 9
+      name: section_meeting_assessment
+      label: -- Meeting Assessment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: agenda_clarity_rating
+      label: Agenda Clarity Rating
+      hint: How clear was the meeting's agenda?
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: time_management_rating
+      label: Time Management Rating
+      hint: Was the meeting efficient and on time?
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: member_engagement_level
+      label: Member Engagement Level
+      hint: How engaged were the participants?
+      type: select_one
+      options:
+      - High Engagement
+      - Moderate Engagement
+      - Low Engagement
+      - Very Low Engagement
+      required: true
+    - id: 13
+      name: effectiveness_of_leadership
+      label: Effectiveness of Leadership
+      hint: Rate the effectiveness of the meeting leaders
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: section_detailed_feedback
+      label: -- Detailed Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: positive_highlights_meeting
+      label: Positive Highlights of the Meeting
+      hint: What went particularly well?
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: areas_for_improvement_suggestions
+      label: Areas for Improvement Suggestions
+      hint: How can we make future meetings better?
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: relevance_of_content_presented
+      label: Relevance of Content Presented
+      hint: Was the information shared useful to you?
+      type: select_one
+      options:
+      - Very Relevant
+      - Somewhat Relevant
+      - Not Very Relevant
+      - Irrelevant
+      required: true
+    - id: 18
+      name: section_overall_satisfaction
+      label: -- Overall Satisfaction --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: overall_meeting_experience_rating
+      label: Overall Meeting Experience Rating
+      hint: Rate from 1 (Poor) to 5 (Excellent)
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: recommendation_of_future_events
+      label: Recommendation of Future Events
+      hint: Would you recommend this type of meeting to others?
+      type: select_one
+      options:
+      - Highly Recommend
+      - Recommend
+      - Neutral
+      - Do Not Recommend
+      required: true
+    - id: 21
+      name: accuracy_confirmation_member
+      label: Confirmation of Feedback Submission
+      hint: I confirm that I am providing my honest and fair feedback
+      type: select_one
+      options:
+      - I Confirm and Submit
+      - Other
+      required: true
+    - id: 22
+      name: date_of_feedback_submission_log
+      label: Date of Submission
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: additional_comments_feedback
+      label: Additional Comments or Thoughts
+      hint: null
+      type: text
+      options: []
+      required: false

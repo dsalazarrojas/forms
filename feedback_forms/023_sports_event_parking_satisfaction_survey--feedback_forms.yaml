@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sports Event Parking Satisfaction Survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: parking_experience
+      label: How was your overall parking experience?
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      required: false
+    - id: 3
+      name: park_in_minutes
+      label: How long did you spend in the parking lot?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: park_distance
+      label: How far is this parking lot from your destination?
+      hint: null
+      type: select_one
+      options:
+      - 0-5 minutes
+      - 5-10 minutes
+      - 10-15 minutes
+      - 15-30 minutes
+      - More than 30 minutes
+      required: false
+    - id: 5
+      name: parking_facilities
+      label: How would you rate the availability and quality of the parking facilities?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 6
+      name: parking_signage
+      label: How would you rate the signage and directions for the parking lot?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 7
+      name: parking_staff
+      label: How would you rate the friendliness and helpfulness of the parking staff?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 8
+      name: overall_experience
+      label: How would you rate your overall experience with parking?
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 9
+      name: comments
+      label: Do you have any comments or suggestions about your parking experience?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

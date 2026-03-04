@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Knowledge Generation Survey
+    pages:
+    - id: 1
+      name: survey_start
+      label: What's your current role
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: role_other
+      label: Other (specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: knowledge_sources
+      label: What are your primary sources of knowledge?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: knowledge_sources_other
+      label: Other (specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: knowledge_management
+      label: Knowledge management
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: prophets
+      label: Who do you turn to when you need advice?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: advisors
+      label: How many advisors do you have in your network?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: knowledge_distribution
+      label: How do you share and disseminate your knowledge?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: knowledge_self_teaching
+      label: Do you teach or mentor others?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: feedback
+      label: Have you received feedback from others?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: knowledge_self_assessment
+      label: Do you assess your own knowledge?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: self_knowledge_assessment_frequency
+      label: How often do you assess your own knowledge?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: knowledge_self_generation
+      label: Do you generate new knowledge?
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 14
+      name: knowledge_self_reflection
+      label: Do you reflect on your knowledge?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: prophets_other_sources
+      label: Other sources of knowledge?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: knowledge_distribution_channels
+      label: Knowledge distribution channels prophets use?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: advisors_other_channels
+      label: Other knowledge distribution channels?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: knowledge_management_systems
+      label: How do you utilize knowledge management systems?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: advisors_number
+      label: How many advisors?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: knowledge_management
+      label: What kind of knowledge management systems?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: prophets_number
+      label: How many prophets?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: other_prophets
+      label: Other?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: other_advisors
+      label: Other?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: knowledge_self_teaching_frequencies
+      label: How often do you teach or mentor?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: knowledge_self_reflection_frequencies
+      label: How often do you reflect on your knowledge?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

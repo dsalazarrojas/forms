@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: software_api_release_developer_feedback_form
+    pages:
+    - id: 1
+      name: version
+      label: Version
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: release_date
+      label: Release Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: feedback_type
+      label: Feedback Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': ''Bug Report''}'
+      - '{''id'': 2, ''text'': ''Feature Request''}'
+      - '{''id'': 3, ''text'': ''Other''}'
+      required: true
+    - id: 4
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: version_note
+      label: Version Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: version_improved_since
+      label: Improved Since
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: platform
+      label: Platform
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''text'': ''Platform 1''}'
+      - '{''id'': 2, ''text'': ''Platform 2''}'
+      - '{''id'': 3, ''text'': ''Platform 3''}'
+      required: false
+    - id: 10
+      name: release_notes
+      label: Release Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 12
+      name: jira_link
+      label: Jira Link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: jira_comment
+      label: Jira Comment
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,220 @@
+inputSchema:
+  type: object
+  properties:
+    title: Memory Book Submission Form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: story
+      label: Story
+      hint: Tell us about your favorite memory
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: photo
+      label: Photo
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: story_photo
+      label: Story Photo
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submission_time_zone
+      label: Time Zone
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      - '11'
+      - '12'
+      - '13'
+      - '14'
+      - '15'
+      - '16'
+      - '17'
+      - '18'
+      - '19'
+      - '20'
+      - '21'
+      - '22'
+      - '23'
+      - '24'
+      - '25'
+      required: false
+    - id: 10
+      name: note
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: submission_location
+      label: Submission Location
+      hint: null
+      type: select_multiple
+      options:
+      - Home
+      - Office
+      - Outdoor
+      - Online
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - other
+      required: true
+    - id: 13
+      name: form_version
+      label: Form Version
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      - '11'
+      - '12'
+      - '13'
+      - '14'
+      - '15'
+      - '16'
+      - '17'
+      - '18'
+      - '19'
+      - '20'
+      - '21'
+      - '22'
+      - '23'
+      - '24'
+      - '25'
+      required: false
+    - id: 14
+      name: form_id
+      label: Form ID
+      hint: 30004
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - File Upload Forms
+      - Form 2
+      - Form 3
+      - Form 4
+      - Form 5
+      required: true
+    - id: 16
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: output_file
+      label: Output File
+      hint: 023_memory_book_submission_form--file_upload_forms.yaml
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - other
+      required: true
+    - id: 19
+      name: submission_form
+      label: Submission Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - File Upload Forms
+      - Form 2
+      - Form 3
+      - Form 4
+      - Form 5
+      required: true
+    - id: 21
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false

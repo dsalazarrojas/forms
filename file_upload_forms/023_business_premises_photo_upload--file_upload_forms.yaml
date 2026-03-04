@@ -1,0 +1,169 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Premises Photo Upload
+    pages:
+    - id: 1
+      name: section_property_info
+      label: -- Property Information --
+      type: note
+      required: false
+    - id: 2
+      name: property_address
+      label: Property Address
+      hint: Full street address of the premises
+      type: text
+      required: true
+    - id: 3
+      name: property_type
+      label: Property Type
+      hint: Category of the premises
+      type: select_one
+      options:
+      - Office Building
+      - Retail Store
+      - Warehouse
+      - Manufacturing Plant
+      - Restaurant
+      - Medical Facility
+      - Other Commercial
+      required: true
+    - id: 4
+      name: property_size
+      label: Property Size
+      hint: Square footage
+      type: text
+      required: false
+    - id: 5
+      name: section_contact_info
+      label: -- Contact Information --
+      type: note
+      required: false
+    - id: 6
+      name: submitter_name
+      label: Submitter Name
+      hint: Your full name
+      type: text
+      required: true
+    - id: 7
+      name: submitter_email
+      label: Email Address
+      hint: Your contact email
+      type: email
+      required: true
+    - id: 8
+      name: submitter_phone
+      label: Phone Number
+      hint: Your contact number
+      type: text
+      required: false
+    - id: 9
+      name: submitter_role
+      label: Your Role
+      hint: Property manager, owner, etc.
+      type: text
+      required: false
+    - id: 10
+      name: section_inspection_details
+      label: -- Inspection Details --
+      type: note
+      required: false
+    - id: 11
+      name: inspection_purpose
+      label: Purpose of Inspection
+      hint: Why are photos being submitted
+      type: select_one
+      options:
+      - Insurance Documentation
+      - Property Inspection
+      - Damage Assessment
+      - Routine Documentation
+      - Pre-Lease Condition
+      - Post-Repair Verification
+      required: true
+    - id: 12
+      name: inspection_date
+      label: Inspection Date
+      hint: When were photos taken
+      type: date
+      required: true
+    - id: 13
+      name: section_photo_exterior
+      label: -- Exterior Photos --
+      type: note
+      required: false
+    - id: 14
+      name: exterior_photo_front
+      label: Front Exterior Photo
+      hint: Photo of the front of the building
+      type: text
+      required: false
+    - id: 15
+      name: exterior_photo_sides
+      label: Side Views Photo
+      hint: Photo showing sides of building
+      type: text
+      required: false
+    - id: 16
+      name: exterior_photo_roof
+      label: Roof Condition Photo
+      hint: Photo of roof area
+      type: text
+      required: false
+    - id: 17
+      name: section_photo_interior
+      label: -- Interior Photos --
+      type: note
+      required: false
+    - id: 18
+      name: interior_entry
+      label: Entry Area Photo
+      hint: Photo of main entrance area
+      type: text
+      required: false
+    - id: 19
+      name: interior_main_space
+      label: Main Space Photo
+      hint: Photo of primary interior area
+      type: text
+      required: false
+    - id: 20
+      name: interior_utilities
+      label: Utilities and Systems Photo
+      hint: Photo of HVAC, electrical, plumbing
+      type: text
+      required: false
+    - id: 21
+      name: section_damage_assessment
+      label: -- Damage Assessment --
+      type: note
+      required: false
+    - id: 22
+      name: damage_observed
+      label: Any Damage Observed
+      hint: Is there any damage visible
+      type: select_one
+      options:
+      - No damage
+      - Minor damage
+      - Moderate damage
+      - Significant damage
+      required: false
+    - id: 23
+      name: damage_description
+      label: Damage Description
+      hint: Describe any damage found
+      type: text
+      required: false
+    - id: 24
+      name: damage_photos
+      label: Damage Photos
+      hint: Photos of damaged areas
+      type: text
+      required: false
+    - id: 25
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other observations
+      type: text
+      required: false

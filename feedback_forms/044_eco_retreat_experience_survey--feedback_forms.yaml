@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Eco Retreat Experience Survey
+    pages:
+    - id: 1
+      name: survey_participants
+      label: Survey Participants
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: rating
+      label: Rating
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 6
+      name: date_of_experience
+      label: Date of Experience
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: duration_of_stay
+      label: Duration of Stay
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

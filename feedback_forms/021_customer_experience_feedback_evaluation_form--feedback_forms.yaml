@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: customer_experience_feedback_evaluation_form
+    pages:
+    - id: 1
+      name: feedback_rating
+      label: Feedback Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: service_quality
+      label: service_quality
+      hint: How would you rate our service quality?
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 3
+      name: communication_skills
+      label: Communication Skills
+      hint: null
+      type: select_one
+      options:
+      - Friendly
+      - Unfriendly
+      - Neutral
+      required: true
+    - id: 4
+      name: response_time
+      label: Response Time
+      hint: How quickly did we respond to your inquiries?
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: email_response
+      label: Email Response
+      hint: How would you rate our email response time?
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: phone_response
+      label: Phone Response
+      hint: How quickly did we respond over the phone?
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: availability
+      label: Availability
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: customer_service
+      label: Customer Service
+      hint: How would you rate our customer service?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 9
+      name: overall_experience
+      label: Overall Experience
+      hint: Overall, how would you rate your experience with our company?
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true

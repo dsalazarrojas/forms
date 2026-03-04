@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Movement Experience Feedback Survey
+    pages:
+    - id: 1
+      name: movement_experience_feedback_survey
+      label: How did you find the experience?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: movement_experience_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: movement_experience_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: event_feedback
+      label: Event feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: movement_category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: movement_activity
+      label: Activity
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: participant_feedback
+      label: Participant feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: participant_name
+      label: Participant name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: participant_email
+      label: Participant email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: participant_phone
+      label: Participant phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: movement_notes
+      label: Movement notes
+      hint: null
+      type: note
+      options: []
+      required: false

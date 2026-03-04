@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nature Contact Questionnaire
+    pages:
+    - id: 1
+      name: nature_contact_questionnaire
+      label: nature_contact_questionnaire
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Feedback Surveys
+      - Questionnaire Templates
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 5
+      name: output_file
+      label: output_file
+      hint: null
+      type: select_one
+      options:
+      - 008_nature_contact_questionnaire--feedback_surveys.yaml
+      - Other
+      required: false

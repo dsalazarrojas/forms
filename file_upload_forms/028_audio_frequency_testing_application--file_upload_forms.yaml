@@ -1,0 +1,154 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Audio Frequency Testing Application
+    pages:
+      - id: 1
+        name: section_applicant
+        label: -- Applicant Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: applicant_name
+        label: Applicant Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: organization_name
+        label: Organization/Company
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: contact_email
+        label: Contact Email
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 5
+        name: section_device
+        label: -- Device Under Test (DUT) --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: device_model_name
+        label: Device Model Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: device_category
+        label: Device Category
+        hint: null
+        type: select_one
+        options:
+          - Loudspeaker/Transducer
+          - Microphone
+          - Amplifier
+          - Audio Processor/DSP
+          - Headphone/IEM
+          - Consumer Electronic
+        required: true
+      - id: 8
+        name: test_purpose
+        label: Purpose of Testing
+        hint: null
+        type: select_one
+        options:
+          - Product Development
+          - Quality Assurance
+          - Regulatory Compliance
+          - Repair Verification
+          - Benchmarking
+        required: true
+      - id: 9
+        name: section_testing_specs
+        label: -- Testing Specifications --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: frequency_response_range
+        label: Frequency Response Range Required
+        hint: e.g., 20Hz - 40kHz
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: testing_standards
+        label: Applicable Standards
+        hint: e.g., IEC 60268, AES2
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: specific_conditions
+        label: Special Testing Conditions
+        hint: e.g., Anechoic chamber, high humidity, specific voltage
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: section_logistics
+        label: -- Logistics and Scheduling --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: preferred_test_lab
+        label: Preferred Lab Location
+        hint: null
+        type: select_one
+        options:
+          - Central Lab (New York)
+          - West Coast Facility (LA)
+          - European Testing Center (Berlin)
+          - Remote/On-site testing
+        required: true
+      - id: 15
+        name: data_format_required
+        label: Data Export Format
+        hint: null
+        type: select_multiple
+        options:
+          - PDF Report
+          - CSV/Excel Data
+          - CLF Data
+          - EASE Data
+        required: true
+      - id: 16
+        name: application_signature
+        label: Applicant Digital Signature
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 17
+        name: submission_date
+        label: Submission Date
+        hint: null
+        type: date
+        options: []
+        required: true

@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Eco Friendly Customer Sustainability Inquiry
+    pages:
+    - id: 1
+      name: customer_sustainability_priority
+      label: customer_sustainability_priority
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: eco_programs_interest
+      label: eco_programs_interest
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: customer_sustainability_note
+      label: customer_sustainability_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: contact_first_name
+      label: contact_first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_last_name
+      label: contact_last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,254 @@
+inputSchema:
+  type: object
+  properties:
+    title: Allegation Form
+    pages:
+    - id: 1
+      name: complaint_id
+      label: Complaint ID
+      hint: Unique identifier
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: submission_date
+      label: Submission Date
+      hint: Date of complaint
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: complainant_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: complainant_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: complainant_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: complainant_address
+      label: Mailing Address
+      hint: Full address
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_type
+      label: Customer Type
+      hint: Your relationship to company
+      type: select_one
+      options:
+      - Current customer
+      - Former customer
+      - Prospective customer
+      - Employee
+      - Former employee
+      - Vendor/Supplier
+      - Other
+      required: true
+    - id: 8
+      name: allegation_type
+      label: Type of Allegation
+      hint: Category of complaint
+      type: select_one
+      options:
+      - Product quality
+      - Service issue
+      - Billing dispute
+      - Delivery problem
+      - Staff behavior
+      - Safety concern
+      - Discrimination
+      - Harassment
+      - Fraud
+      - Policy violation
+      - Other
+      required: true
+    - id: 9
+      name: incident_date
+      label: Date of Incident
+      hint: When did this occur?
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: incident_time
+      label: Time of Incident
+      hint: Approximate time
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: incident_location
+      label: Location of Incident
+      hint: Where did this happen?
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: employees_involved
+      label: Employees Involved
+      hint: Names if known
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: department_involved
+      label: Department Involved
+      hint: Which department?
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: detailed_description
+      label: Detailed Description
+      hint: Describe what happened
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: witnesses_present
+      label: Were There Witnesses?
+      hint: Anyone else present?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: witness_names
+      label: Witness Names
+      hint: List witnesses
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: evidence_available
+      label: Evidence Available
+      hint: Do you have evidence?
+      type: select_one
+      options:
+      - Yes, documents
+      - Yes, photos
+      - Yes, videos
+      - Yes, recordings
+      - Yes, emails/messages
+      - No evidence
+      required: true
+    - id: 18
+      name: evidence_description
+      label: Evidence Description
+      hint: Describe evidence
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: previous_complaints
+      label: Previous Complaints Filed
+      hint: Have you complained before?
+      type: select_one
+      options:
+      - Yes, about same issue
+      - Yes, about different issue
+      - No, first complaint
+      required: false
+    - id: 20
+      name: impact_description
+      label: How Has This Affected You?
+      hint: Describe the impact
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: desired_resolution
+      label: Desired Resolution
+      hint: What outcome do you want?
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: urgency_level
+      label: Urgency Level
+      hint: How urgent is this?
+      type: select_one
+      options:
+      - Critical - immediate attention
+      - High - within 24 hours
+      - Medium - within 3 days
+      - Low - within 1 week
+      required: true
+    - id: 23
+      name: consent_to_investigate
+      label: Consent to Investigate
+      hint: Allow investigation?
+      type: select_one
+      options:
+      - Yes, I consent
+      - false
+      required: true
+    - id: 24
+      name: confidentiality_request
+      label: Confidentiality Request
+      hint: Keep your identity confidential?
+      type: select_one
+      options:
+      - Yes, keep confidential
+      - No, identity can be shared
+      required: true
+    - id: 25
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: How to reach you?
+      type: select_one
+      options:
+      - Email
+      - Phone call
+      - Text message
+      - Mail
+      required: true
+    - id: 26
+      name: best_time_to_contact
+      label: Best Time to Contact
+      hint: When to reach you?
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: legal_action_consideration
+      label: Considering Legal Action?
+      hint: Are you pursuing legal options?
+      type: select_one
+      options:
+      - true
+      - false
+      - Undecided
+      required: false
+    - id: 28
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else to add
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: signature_confirmation
+      label: Signature Confirmation
+      hint: I certify this information is accurate
+      type: select_one
+      options:
+      - I certify this information is true and accurate
+      - I do not certify
+      required: true

@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Marketing Instructor Feedback Form
+    pages:
+    - id: 1
+      name: instructor_id
+      label: Instructor ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: course_name
+      label: Course Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: suggest_changes
+      label: Suggest Changes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: additional_feedback
+      label: Additional Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: course_rating
+      label: Course Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: would_recommend
+      label: Would You Recommend?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: true
+    - id: 10
+      name: why_recommended
+      label: Why Recommended
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact
+      label: Contact
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: comment
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true

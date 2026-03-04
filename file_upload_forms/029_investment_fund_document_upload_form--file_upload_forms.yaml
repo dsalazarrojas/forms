@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: investment_fund_document_upload_form
+    pages:
+    - id: 1
+      name: document_1
+      label: investment_fund_document
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: investor_name
+      label: investor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: upload_file
+      label: upload_file
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: file_type
+      label: document_type
+      hint: null
+      type: select_multiple
+      options:
+      - Investment Fund Documents
+      - Private Placement Documents
+      - Other
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: select_one
+      label: select_one
+      hint: null
+      type: select_one
+      options:
+      - Select an option
+      - Option 1
+      - Option 2
+      required: false
+    - id: 11
+      name: select_multiple
+      label: select_multiple
+      hint: null
+      type: select_multiple
+      options:
+      - Select One
+      - Option 1
+      - Option 2
+      required: false
+    - id: 12
+      name: text
+      label: text
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: integer
+      label: integer
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: decimal
+      label: decimal
+      hint: null
+      type: number
+      options: []
+      required: false

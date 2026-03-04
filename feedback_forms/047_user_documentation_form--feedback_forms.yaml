@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: user_documentation_form
+    pages:
+    - id: 1
+      name: feedback_input
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: documentation_input
+      label: Documentation request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: support_issue_input
+      label: Support issues
+      hint: null
+      type: select_one
+      options:
+      - Issue 1
+      - Issue 2
+      - Issue 3
+      required: false
+    - id: 4
+      name: date_submitted
+      label: Date submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_submitted
+      label: Time submitted
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: category_input
+      label: Category
+      hint: Select a category
+      type: select_multiple
+      options:
+      - Category 1
+      - Category 2
+      - Category 3
+      required: false

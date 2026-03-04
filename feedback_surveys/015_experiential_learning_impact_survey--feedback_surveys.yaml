@@ -1,0 +1,45 @@
+inputSchema:
+  type: object
+  properties:
+    title: experiential_learning_impact_survey
+    pages:
+    - id: 1
+      name: project_participants
+      label: Participants
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: participant_feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: outcomes
+      label: Outcome
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: skills_gained
+      label: Skills
+      hint: null
+      type: select_one
+      options:
+      - Outcome 1
+      - Outcome 2
+      - Outcome 3
+      required: true
+    - id: 5
+      name: improvement_ideas
+      label: Improvement
+      hint: null
+      type: note
+      options: []
+      required: true

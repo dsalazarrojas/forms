@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: pairwise_comparison_survey
+    pages:
+    - id: 1
+      name: question1
+      label: What is your preference?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: choice1
+      label: Option 1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: choice2
+      label: Option 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: question2
+      label: What is your preference?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: choice3
+      label: Option 3
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: question3
+      label: Do you like?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: question4
+      label: What is your preference?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: choice4
+      label: Option 4
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

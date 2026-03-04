@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: IT Satisfaction Survey
+    pages:
+    - id: 1
+      name: survey_page1
+      label: What is the overall quality of our service?
+      hint: null
+      type: select_one
+      options:
+      - excellent
+      - good
+      - poor
+      - very poor
+      required: false
+    - id: 2
+      name: survey_page2
+      label: How would you rate the speed of our service?
+      hint: null
+      type: select_one
+      options:
+      - very fast
+      - fast
+      - average
+      - slow
+      - very slow
+      required: false
+    - id: 3
+      name: survey_page2
+      label: How would you rate the quality of our service?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: survey_page3
+      label: What is the quality of our service?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: survey_page4
+      label: How likely are you to recommend us?
+      hint: null
+      type: select_one
+      options:
+      - very likely
+      - likely
+      - not likely
+      - not at all likely
+      required: false
+    - id: 6
+      name: survey_page4
+      label: How likely are you to recommend our company?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: survey_page5
+      label: How would you rate our communication?
+      hint: null
+      type: select_one
+      options:
+      - very good
+      - good
+      - average
+      - slow
+      - very slow
+      required: false
+    - id: 8
+      name: survey_page6
+      label: How would you rate our communication?
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Document Upload Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Document Upload Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: document_type
+      label: document_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: document_file
+      label: Document File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: submit
+      label: Upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: file_url
+      label: Document URL
+      hint: null
+      type: text
+      options: []
+      required: false

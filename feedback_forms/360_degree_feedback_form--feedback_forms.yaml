@@ -1,0 +1,186 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 360 Degree Feedback Form
+    pages:
+    - id: 1
+      name: section_header_intro
+      label: '--- Respondent & Subject Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: respondent_name
+      label: Your full name
+      hint: Leave blank to submit anonymously
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: respondent_email
+      label: Your email address
+      hint: Leave blank to remain anonymous
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: relationship_to_subject
+      label: Relationship to the person being reviewed
+      hint: Select the option that best describes your working relationship
+      type: select_one
+      options:
+      - Self
+      - Manager
+      - Peer
+      - Direct report
+      - Cross-functional partner
+      - Other
+      required: true
+    - id: 5
+      name: subject_name
+      label: Employee being reviewed (full name)
+      hint: Enter the person’s legal or preferred full name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: subject_role
+      label: Role / job title of the person being reviewed
+      hint: e.g., Senior Product Manager
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: subject_department
+      label: Department / team
+      hint: null
+      type: select_one
+      options:
+      - Engineering
+      - Product
+      - Sales
+      - Marketing
+      - HR
+      - Operations
+      - Finance
+      - Other
+      required: true
+    - id: 8
+      name: review_date
+      label: Date of this review
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: overall_rating
+      label: Overall performance rating (1-10)
+      hint: 1 = lowest, 10 = highest
+      type: integer
+      options: []
+      required: true
+    - id: 10
+      name: teamwork_rating
+      label: Teamwork / collaboration (1-10)
+      hint: Consider reliability, cooperation, and supportiveness
+      type: integer
+      options: []
+      required: true
+    - id: 11
+      name: communication_rating
+      label: Communication skills (1-10)
+      hint: Clarity, responsiveness, and stakeholder communication
+      type: integer
+      options: []
+      required: true
+    - id: 12
+      name: problem_solving_rating
+      label: Problem solving & decision making (1-10)
+      hint: null
+      type: integer
+      options: []
+      required: true
+    - id: 13
+      name: strengths
+      label: Key strengths observed (select all that apply)
+      hint: Select any that apply
+      type: select_multiple
+      options:
+      - Strong communicator
+      - Highly collaborative
+      - Results-oriented
+      - Strategic thinker
+      - Technical expertise
+      - Reliable and punctual
+      required: false
+    - id: 14
+      name: areas_for_development
+      label: Areas for development (select all that apply)
+      hint: Select any areas where improvement would help performance
+      type: select_multiple
+      options:
+      - Time management
+      - Delegation
+      - Conflict resolution
+      - Attention to detail
+      - Stakeholder engagement
+      - Presentation skills
+      required: false
+    - id: 15
+      name: examples_of_behavior
+      label: Specific examples or situations demonstrating performance
+      hint: Describe behaviors, dates, and outcomes where possible
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: development_suggestions
+      label: Suggestions for development or next steps
+      hint: Training, coaching, stretch assignments, or other support
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: recommendation
+      label: Recommendation regarding role progression
+      hint: Choose the single best recommendation
+      type: select_one
+      options:
+      - Strongly recommend promotion
+      - Recommend for stretch assignment
+      - Recommend targeted coaching
+      - No change recommended
+      - Recommend performance review
+      required: false
+    - id: 18
+      name: anonymity_preference
+      label: Disclosure preference for this feedback
+      hint: Choose whether your identity may be shared with the reviewee
+      type: select_one
+      options:
+      - Share my name with the reviewee
+      - Share anonymously
+      required: true
+    - id: 19
+      name: additional_comments
+      label: Additional comments or context
+      hint: Any further information that would help interpret this feedback
+      type: text
+      options: []
+      required: false

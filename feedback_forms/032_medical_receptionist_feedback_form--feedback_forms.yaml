@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: medical_receptionist_feedback_form
+    pages:
+    - id: 1
+      name: front_desk_staff
+      label: frontDeskStaff
+      hint: null
+      type: select_one
+      options:
+      - Front Desk 1
+      - Front Desk 2
+      - Front Desk 3
+      - Front Desk 4
+      required: false
+    - id: 2
+      name: communication
+      label: communication
+      hint: How would you rate the communication style of your front desk staff?
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      required: false
+    - id: 3
+      name: professionalism
+      label: professionalism
+      hint: How would you rate the overall professionalism of your front desk staff?
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Excellent
+      required: false
+    - id: 4
+      name: reception_experience
+      label: reception_experience
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: rating_scale
+      label: ratingScale
+      hint: null
+      type: number
+      options: []
+      required: false

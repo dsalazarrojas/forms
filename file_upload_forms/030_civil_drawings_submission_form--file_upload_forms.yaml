@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Civil Drawings Submission Form
+    pages:
+    - id: 1
+      name: submission_intro
+      label: -- Project Submission Details --
+      hint: Form for engineers and contractors to submit design drawings
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: submitter_name
+      label: Submitter Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_firm_name
+      label: Engineering/Contracting Firm
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: license_number
+      label: Professional License Number (P.E.)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: project_info_header
+      label: -- Project Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: project_id_number
+      label: Official Project ID/Permit Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: drawing_category
+      label: Category of Drawings
+      hint: null
+      type: select_one
+      options:
+      - Site Plan/Grading
+      - Structural Designs
+      - Utility/Drainage Plans
+      - Traffic/Transportation
+      - Landscape and Irrigation
+      required: true
+    - id: 9
+      name: revision_number
+      label: Drawing Revision Number
+      hint: e.g., Rev 0, Rev 1
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: drawing_date
+      label: Date of Drawings
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: file_upload_instructions
+      label: Note - Please upload all PDF and CAD files to the secure FTP server provided
+        in your project portal
+      hint: Ensure filenames include ProjectID and RevisionNumber
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: sheet_count
+      label: Total Number of Sheets in Set
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: special_submission_notes
+      label: Additional Comments or Revision Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: compliance_certification
+      label: I certify that these drawings comply with all local codes and standards
+      hint: null
+      type: select_one
+      options:
+      - I Certify
+      - Other
+      required: true
+    - id: 15
+      name: submission_timestamp
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: true

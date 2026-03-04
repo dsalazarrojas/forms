@@ -1,0 +1,234 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Athlete Feedback on Facility Maintenance Survey
+    pages:
+      - id: 1
+        name: facility_overview_header
+        label: -- Facility Usage Overview --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: facility_selected
+        label: Primary Facility Evaluated
+        hint: Select the facility you use most frequently
+        type: select_one
+        options:
+          - Main Indoor Gym
+          - Aquatic Center and Pool
+          - Main Stadium and Track
+          - High Performance Training Center
+          - Locker Rooms and Showers
+          - Outdoor Practice Fields
+        required: true
+      - id: 3
+        name: frequency_of_use
+        label: Frequency of Facility Use
+        hint: null
+        type: select_one
+        options:
+          - Daily
+          - 3-4 times per week
+          - Once per week
+          - Occasionally
+        required: true
+      - id: 4
+        name: primary_sport
+        label: Primary Sport
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: cleanliness_header
+        label: -- Cleanliness and Hygiene --
+        hint: 1 is Poor, 5 is Excellent
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: overall_cleanliness
+        label: Overall Facility Cleanliness
+        hint: null
+        type: select_one
+        options:
+          - 1 - Poor
+          - 2 - Fair
+          - 3 - Satisfactory
+          - 4 - Good
+          - 5 - Excellent
+        required: true
+      - id: 7
+        name: hygiene_rating
+        label: Restroom and Locker Room Hygiene
+        hint: null
+        type: select_one
+        options:
+          - 1 - Poor
+          - 2 - Fair
+          - 3 - Satisfactory
+          - 4 - Good
+          - 5 - Excellent
+        required: true
+      - id: 8
+        name: surface_cleanliness
+        label: Training Surface Cleanliness
+        hint: Floors, mats, turf, etc.
+        type: select_one
+        options:
+          - 1 - Poor
+          - 2 - Fair
+          - 3 - Satisfactory
+          - 4 - Good
+          - 5 - Excellent
+        required: true
+      - id: 9
+        name: maintenance_header
+        label: -- Maintenance and Equipment --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: equipment_functionality
+        label: Equipment Functionality Rating
+        hint: Are machines and weights in good repair?
+        type: select_one
+        options:
+          - 1 - Poor
+          - 2 - Fair
+          - 3 - Satisfactory
+          - 4 - Good
+          - 5 - Excellent
+        required: true
+      - id: 11
+        name: lighting_quality
+        label: Lighting Quality and Visibility
+        hint: null
+        type: select_one
+        options:
+          - 1 - Poor
+          - 2 - Fair
+          - 3 - Satisfactory
+          - 4 - Good
+          - 5 - Excellent
+        required: true
+      - id: 12
+        name: climate_control
+        label: Temperature and Ventilation
+        hint: null
+        type: select_one
+        options:
+          - 1 - Poor
+          - 2 - Fair
+          - 3 - Satisfactory
+          - 4 - Good
+          - 5 - Excellent
+        required: true
+      - id: 13
+        name: broken_equipment_notes
+        label: Did you notice any broken or unsafe equipment?
+        hint: Please describe the item and location
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: safety_header
+        label: -- Safety and Security --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 15
+        name: safety_feeling
+        label: Overall Feeling of Safety within the Facility
+        hint: null
+        type: select_one
+        options:
+          - 1 - Very Unsafe
+          - 2 - Unsafe
+          - 3 - Neutral
+          - 4 - Safe
+          - 5 - Very Safe
+        required: true
+      - id: 16
+        name: signage_condition
+        label: Condition of Safety and Directional Signage
+        hint: null
+        type: select_one
+        options:
+          - 1 - Poor
+          - 2 - Fair
+          - 3 - Satisfactory
+          - 4 - Good
+          - 5 - Excellent
+        required: true
+      - id: 17
+        name: first_aid_accessibility
+        label: Accessibility of First Aid Kits and AEDs
+        hint: Do you know where they are and are they accessible?
+        type: select_one
+        options:
+          - 1 - Poor
+          - 2 - Fair
+          - 3 - Satisfactory
+          - 4 - Good
+          - 5 - Excellent
+        required: true
+      - id: 18
+        name: improvements_header
+        label: -- Suggestions for Improvement --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: maintenance_priority
+        label: Top Maintenance Priority
+        hint: What one thing needs immediate attention?
+        type: text
+        options: []
+        required: true
+      - id: 20
+        name: general_suggestions
+        label: General Suggestions for Facility Enhancement
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: response_requested
+        label: Would you like a response from the facility manager?
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 22
+        name: contact_email
+        label: Contact Email Address
+        hint: Required if you requested a response
+        type: email
+        options: []
+        required: false
+      - id: 23
+        name: feedback_date
+        label: Date of Feedback Submission
+        hint: null
+        type: date
+        options: []
+        required: true

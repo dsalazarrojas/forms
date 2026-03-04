@@ -1,0 +1,36 @@
+inputSchema:
+  type: object
+  properties:
+    title: Photography Studio Management Survey
+    pages:
+    - id: 1
+      name: client_feedback
+      label: How was your experience with us?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: studio_services
+      label: What services did you use?
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 3
+      name: rating
+      label: How would you rate our service?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: comments
+      label: Do you have any comments?
+      hint: null
+      type: text
+      options: []
+      required: false

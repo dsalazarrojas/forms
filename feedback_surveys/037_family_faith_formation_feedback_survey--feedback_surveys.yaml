@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Family Faith Formation Feedback Survey
+    pages:
+    - id: 1
+      name: family_name
+      label: Family Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: feedback_suggestions
+      label: Feedback Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 31, ''name'': ''Parent'', ''label'': ''Parent''}'
+      - '{''id'': 32, ''name'': ''Teacher'', ''label'': ''Teacher''}'
+      - '{''id'': 33, ''name'': ''Leader'', ''label'': ''Leader''}'
+      required: true
+    - id: 4
+      name: role_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: role_role_other
+      label: Role Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: satisfaction_rating
+      label: Satisfaction Rating
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 61, ''name'': ''Highly Satisfied'', ''label'': ''Highly Satisfied''}'
+      - '{''id'': 62, ''name'': ''Moderately Satisfied'', ''label'': ''Moderately
+        Satisfied''}'
+      - '{''id'': 63, ''name'': ''Not Satisfied'', ''label'': ''Not Satisfied''}'
+      required: true
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false

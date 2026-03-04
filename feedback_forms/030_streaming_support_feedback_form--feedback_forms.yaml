@@ -1,0 +1,78 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Streaming Support Feedback Form
+    pages:
+    - id: 1
+      name: user_name
+      label: username
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: feedback_message
+      label: feedback_message
+      hint: What is your feedback?
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: streaming_quality
+      label: streaming_quality
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Very Good''}'
+      - '{''id'': 2, ''label'': ''Good''}'
+      - '{''id'': 3, ''label'': ''Fair''}'
+      - '{''id'': 4, ''label'': ''Poor''}'
+      required: false
+    - id: 5
+      name: support_agent
+      label: support_agent
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Chat Jimmy''}'
+      - '{''id'': 2, ''label'': ''Not Selected''}'
+      required: false
+    - id: 6
+      name: support_time
+      label: support_time
+      hint: When did you have your support interaction?
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: additional_comments
+      label: additional_comments
+      hint: Is there anything else you would like to add?
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: streaming_support_feedback_form_additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

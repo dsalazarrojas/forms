@@ -1,0 +1,195 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 3D Material Surface Data Input Form
+    pages:
+    - id: 1
+      name: section_header_operator
+      label: '--- Operator Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Enter your legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: Must be a valid corporate or personal email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: order_date
+      label: Order date
+      hint: Date when the measurement order was placed
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: item_name
+      label: Item or product name
+      hint: Official product or component name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: quantity
+      label: Quantity
+      hint: Enter number of items
+      type: integer
+      options: []
+      required: true
+    - id: 7
+      name: unit_price
+      label: Unit price
+      hint: Price per item in local currency
+      type: decimal
+      options: []
+      required: true
+    - id: 8
+      name: preferred_delivery_method
+      label: Preferred delivery method
+      hint: Choose the most convenient option
+      type: select_one
+      options:
+      - Standard shipping
+      - Express shipping
+      - Pickup
+      - Local delivery
+      required: true
+    - id: 9
+      name: delivery_address
+      label: Delivery address
+      hint: Leave blank if pickup or local delivery
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: requested_delivery_date
+      label: Requested delivery date
+      hint: Optional, if known
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: section_header_measurement
+      label: '--- Measurement Details ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: measurement_date
+      label: Measurement date
+      hint: Date when the surface measurement was performed
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: measurement_time
+      label: Measurement time
+      hint: Time of day when the measurement was taken
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: measurement_method
+      label: Measurement method
+      hint: Select the technique used for the scan
+      type: select_one
+      options:
+      - Laser Scanning
+      - Structured Light
+      - Photogrammetry
+      - Contact Profilometer
+      required: true
+    - id: 15
+      name: calibration_status
+      label: Calibration status
+      hint: Status of the measurement device calibration
+      type: select_one
+      options:
+      - Calibrated
+      - Not Calibrated
+      - Pending
+      required: true
+    - id: 16
+      name: ra_value
+      label: Surface roughness Ra
+      hint: Measured in µm
+      type: decimal
+      options: []
+      required: true
+    - id: 17
+      name: rz_value
+      label: Surface roughness Rz
+      hint: Measured in µm
+      type: decimal
+      options: []
+      required: true
+    - id: 18
+      name: section_header_file_upload
+      label: '--- File Upload Instructions ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: file_upload_link
+      label: 3D Scan File Link
+      hint: Paste the cloud storage URL where the 3D scan file is stored
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: section_header_quality
+      label: '--- Quality Assessment ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: surface_quality_rating
+      label: Surface quality rating
+      hint: Rate the surface from 1 (worst) to 10 (best)
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      required: true
+    - id: 22
+      name: quality_notes
+      label: Quality notes
+      hint: Any additional observations or concerns
+      type: text
+      options: []
+      required: false

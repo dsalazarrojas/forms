@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Team Communication Effectiveness Survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: questions_page
+      label: Questions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: answers_page
+      label: Answers
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: comments_page
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: rating_page
+      label: Rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 6
+      name: team_member_page
+      label: Team Member
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: team_member_list
+      label: Team Member List
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: email_page
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone_page
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: rating_score_page
+      label: Rating Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: overall_rating_page
+      label: Overall Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: submission_page
+      label: Submission
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

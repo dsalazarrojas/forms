@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Group Participation Poll
+    pages:
+    - id: 1
+      name: group_participation_poll_form
+      label: Group Participation Poll Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: available_days
+      label: available_days
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 3
+      name: available_time_slots
+      label: available_time_slots
+      hint: null
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: false
+    - id: 4
+      name: preferred_days
+      label: preferred_days
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 5
+      name: preferred_time_slots
+      label: preferred_time_slots
+      hint: null
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: false
+    - id: 6
+      name: interested_activities
+      label: interested_activities
+      hint: null
+      type: select_one
+      options:
+      - Activity A
+      - Activity B
+      - Activity C
+      - Activity D
+      required: false
+    - id: 7
+      name: available_activities
+      label: available_activities
+      hint: null
+      type: select_multiple
+      options:
+      - Activity A
+      - Activity B
+      - Activity C
+      - Activity D
+      required: false
+    - id: 8
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Plant Variety Release Form
+    pages:
+    - id: 1
+      name: release_request
+      label: release_request
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: variety_name
+      label: variety_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: release_authorization_date
+      label: release_authorization_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: release_requester_name
+      label: release_requester_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: release_requester_phone
+      label: release_requester_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: release_requester_email
+      label: release_requester_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: release_requester_organization
+      label: release_requester_organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: release_requester_address
+      label: release_requester_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: release_requester_city
+      label: release_requester_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: release_requester_state
+      label: release_requester_state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: release_requester_zip
+      label: release_requester_zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: release_requester_country
+      label: release_requester_country
+      hint: null
+      type: text
+      options: []
+      required: false

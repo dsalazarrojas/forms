@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Teacher Satisfaction Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: How was your overall experience with the school?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: teacher_support
+      label: How would you rate the support you receive from your teachers?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: school_resources
+      label: How would you rate the quality of school resources provided?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: communication
+      label: How would you rate the communication from your teachers and school administration?
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Good''}'
+      - '{''option2'': ''Fair''}'
+      - '{''option3'': ''Poor''}'
+      required: true
+    - id: 5
+      name: feedback
+      label: What suggestions do you have for improving the school or teacher support?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: What is your email address?
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: What is your phone number?
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: other_comments
+      label: Is there anything else you would like to share with us?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: teacher_rating
+      label: How would you rate the teacher you have interacted with?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Very Good''}'
+      - '{''option2'': ''Good''}'
+      - '{''option3'': ''Fair''}'
+      - '{''option4'': ''Poor''}'
+      - '{''option5'': ''Not Sure''}'
+      required: true

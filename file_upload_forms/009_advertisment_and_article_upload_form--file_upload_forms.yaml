@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Advertisement And Article Upload Form
+    pages:
+    - id: 1
+      name: submitter_info_header
+      label: -- Submitter Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: submitter_name
+      label: Submitter Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: submitter_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: organization
+      label: Organization / Agency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: content_details_header
+      label: -- Content Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: content_type
+      label: Type of Content
+      hint: What are you uploading?
+      type: select_one
+      options:
+      - Advertisement (Banner/Image)
+      - Sponsored Article (Text/Doc)
+      - Press Release
+      - Video Content
+      - Other
+      required: true
+    - id: 7
+      name: title_headline
+      label: Title / Headline
+      hint: The main title of the piece.
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: publication_date
+      label: Requested Publication Date
+      hint: When should this go live?
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: category_tags
+      label: Category / Tags
+      hint: Select relevant categories.
+      type: select_multiple
+      options:
+      - Tech & Innovation
+      - Lifestyle
+      - Business & Finance
+      - Health & Wellness
+      - Travel
+      required: false
+    - id: 10
+      name: upload_instructions
+      label: Upload Instructions
+      hint: Please ensure files are under 10MB.
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: file_upload_link
+      label: Link to File (Dropbox/Drive)
+      hint: Paste a shareable link to your file here if it's large.
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: content_body
+      label: Article Text (if applicable)
+      hint: You can paste the text directly here.
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: special_instructions
+      label: Editor Instructions
+      hint: Notes for the editorial team.
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: terms_agreement
+      label: Terms of Submission
+      hint: I confirm I have the rights to publish this content.
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true

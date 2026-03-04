@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Catalytic Converter Submission Form
+    pages:
+    - id: 1
+      name: business_info_header
+      label: -- Business Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: Shop or Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person
+      label: Contact Person Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: converter_details_header
+      label: -- Converter Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: vehicle_make_model
+      label: Vehicle Make, Model, and Year
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: serial_number
+      label: Serial Number (if visible)
+      hint: Look for numbers etched on the casing
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: converter_condition
+      label: Current Condition
+      hint: null
+      type: select_one
+      options:
+      - New/OEM Surplus
+      - Used - Good Condition
+      - Used - Damaged Casing
+      - Scrap - Shell only
+      required: true
+    - id: 10
+      name: quantity_submitted
+      label: Quantity of Units
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: photo_instruction
+      label: Please prepare photos of the serial number and overall unit for upload
+      hint: We will contact you for file submission if not already uploaded
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: section_logistics
+      label: -- Logistics and Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: quote_request
+      label: Are you requesting a price quote
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: pickup_delivery_preference
+      label: Preferred Method of Submission
+      hint: null
+      type: select_one
+      options:
+      - Ship to Warehouse
+      - Request Local Pickup
+      - Drop off in person
+      required: true
+    - id: 15
+      name: location_city_state
+      label: Location (City and State)
+      hint: For pickup coordination
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: additional_details
+      label: Any additional notes or information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: legal_declaration
+      label: I certify that these units were obtained legally
+      hint: null
+      type: select_one
+      options:
+      - I Certify
+      - Other
+      required: true

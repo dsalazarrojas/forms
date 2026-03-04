@@ -1,0 +1,180 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Licensing Contract Form
+    pages:
+    - id: 1
+      name: parties_header
+      label: -- Licensing Parties --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: licensor_name
+      label: Licensor Name (Artist or Owner)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: licensee_name
+      label: Licensee Name (Company or Organization)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_person_licensee
+      label: Primary Contact at Licensee
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: artwork_subject_header
+      label: -- Artwork to be Licensed --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: artwork_title_license
+      label: Title of Artwork(s)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: asset_format
+      label: Asset Format to be Provided
+      hint: null
+      type: select_one
+      options:
+      - High-Resolution Digital File (TIFF - RAW)
+      - Standard Digital File (JPEG - PNG)
+      - Physical Original (For scanning - reproduction)
+      - Vector Graphics (AI - SVG)
+      required: true
+    - id: 8
+      name: license_terms_header
+      label: -- Usage and Terms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: scope_of_use
+      label: Scope of Permitted Use
+      hint: null
+      type: select_multiple
+      options:
+      - Commercial Merchandising
+      - Editorial - Publication
+      - Marketing and Advertising
+      - Web - Digital Media only
+      - Film and Television
+      required: true
+    - id: 10
+      name: exclusivity_status
+      label: Exclusivity
+      hint: null
+      type: select_one
+      options:
+      - Exclusive (Within specified market)
+      - Non-Exclusive
+      required: true
+    - id: 11
+      name: territory_of_license
+      label: Geographic Territory
+      hint: null
+      type: select_one
+      options:
+      - Worldwide
+      - North America
+      - Europe
+      - Specific Country (List in notes)
+      required: true
+    - id: 12
+      name: duration_of_license
+      label: Duration of License Term
+      hint: null
+      type: select_one
+      options:
+      - 1 Year
+      - 3 Years
+      - 5 Years
+      - Perpetual (Life of copyright)
+      required: true
+    - id: 13
+      name: compensation_header
+      label: -- Compensation and Royalties --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: flat_fee_amount
+      label: One-time Flat Licensing Fee
+      hint: Specify currency
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: royalty_percentage
+      label: Royalty Percentage (If applicable)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: payment_schedule
+      label: Payment Schedule Details
+      hint: e.g., 50% upfront, 50% on delivery
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: legal_and_signing_header
+      label: -- Legal Declaration --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: attribution_requirement
+      label: Attribution Requirement
+      hint: How should the artist be credited?
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: agreement_confirmation
+      label: I agree to the terms and conditions outlined in this licensing agreement
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 20
+      name: signature_licensor
+      label: Digital Signature of Licensor
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: signature_licensee
+      label: Digital Signature of Licensee
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: contract_date
+      label: Date of Agreement
+      hint: null
+      type: date
+      options: []
+      required: true

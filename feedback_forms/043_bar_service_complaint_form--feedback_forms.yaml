@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bar Service Complaint Form
+    pages:
+    - id: 1
+      name: complaint_date
+      label: Date of Complaint
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: complainant_name
+      label: Your Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: complainant_email
+      label: Email Address
+      hint: Your contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: complainant_phone
+      label: Phone Number
+      hint: Your contact phone
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: visit_date
+      label: Date of Visit
+      hint: When did the issue occur?
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: visit_time
+      label: Time of Visit
+      hint: Approximately what time?
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: bar_name
+      label: Bar Name
+      hint: Name of establishment
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: bar_location
+      label: Bar Location/Address
+      hint: Where is the bar?
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: staff_member_involved
+      label: Staff Member Involved (if known)
+      hint: Name of bartender or server
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: complaint_category
+      label: Complaint Category
+      hint: What is your complaint about?
+      type: select_one
+      options:
+      - Slow Service
+      - Rude Staff
+      - Poor Drink Quality
+      - Incorrect Order
+      - Unsanitary Conditions
+      - Overcharging
+      - Other
+      required: true
+    - id: 11
+      name: service_speed
+      label: Service Speed Issue
+      hint: Was service too slow?
+      type: select_one
+      options:
+      - Extremely Slow
+      - Very Slow
+      - Somewhat Slow
+      - Not About Speed
+      required: false
+    - id: 12
+      name: staff_behavior
+      label: Staff Behavior Issue
+      hint: What was the problem?
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: drink_quality_issue
+      label: Drink Quality Issue
+      hint: What was wrong with the drink?
+      type: select_one
+      options:
+      - Wrong Drink Served
+      - Drink Was Cold
+      - Drink Was Too Strong
+      - Drink Was Too Weak
+      - Incorrect Ingredients
+      - Bad Taste
+      - Other
+      required: false
+    - id: 14
+      name: order_accuracy
+      label: Order Accuracy Issue
+      hint: How was order incorrect?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: cleanliness_issue
+      label: Cleanliness Issue
+      hint: What cleanliness problem occurred?
+      type: select_one
+      options:
+      - Dirty Glass
+      - Dirty Glassware or Bar Top
+      - Dirty Restroom
+      - Dirty Floor
+      - Pest Sighting
+      - Other Sanitation Issue
+      required: false
+    - id: 16
+      name: billing_issue
+      label: Billing Issue
+      hint: What was the problem?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: detailed_complaint
+      label: Detailed Description of Issue
+      hint: Provide complete details of complaint
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: witnesses
+      label: Were There Witnesses?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: witness_names
+      label: Witness Names or Contact Info
+      hint: If available, provide details
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: resolution_desired
+      label: Desired Resolution
+      hint: What would resolve this?
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: refund_requested
+      label: Refund Requested
+      hint: Are you requesting a refund?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Partial Refund
+      required: false
+    - id: 22
+      name: follow_up_preference
+      label: Preferred Follow-Up Method
+      hint: How should we contact you?
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - In Person
+      - Text Message
+      - Mail
+      required: true

@@ -1,0 +1,107 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Active Breaks Feedback Survey
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name (Optional)
+      hint: Your name if you wish to be identified
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: department
+      label: Department
+      hint: Your department in the organization
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: frequency_of_participation
+      label: How Often Do You Participate in Active Breaks
+      hint: How frequently do you participate in active breaks
+      type: select_one
+      options: ["Daily", "Several times per week", "Once a week", "Occasionally", "Never"]
+      required: true
+    - id: 4
+      name: overall_satisfaction
+      label: Overall Satisfaction with Active Breaks
+      hint: Rate your overall satisfaction with the active breaks program
+      type: select_one
+      options: ["Very satisfied", "Satisfied", "Neutral", "Dissatisfied", "Very dissatisfied"]
+      required: true
+    - id: 5
+      name: physical_benefits_perceived
+      label: Physical Benefits Perceived
+      hint: Have you noticed physical benefits from participating in active breaks
+      type: select_one
+      options: ["Significant improvement", "Some improvement", "No change", "Feeling worse"]
+      required: true
+    - id: 6
+      name: mental_energy_improvement
+      label: Mental Energy Improvement
+      hint: Do you feel that active breaks improve your mental energy
+      type: select_one
+      options: ["Significantly", "Moderately", "Slightly", "Not at all"]
+      required: true
+    - id: 7
+      name: favorite_activities
+      label: Favorite Active Break Activities
+      hint: Select your preferred active break activities
+      type: select_multiple
+      options: ["Stretching exercises", "Walking", "Desk yoga", "Breathing exercises", "Strength exercises", "Dance movements", "Mindfulness", "Other"]
+      required: false
+    - id: 8
+      name: ideal_duration
+      label: Ideal Duration for Active Breaks
+      hint: What is the ideal length for an active break
+      type: select_one
+      options: ["5 minutes", "10 minutes", "15 minutes", "20 minutes", "More than 20 minutes"]
+      required: true
+    - id: 9
+      name: timing_preferences
+      label: Preferred Timing for Active Breaks
+      hint: When do you prefer to take active breaks
+      type: select_multiple
+      options: ["Morning", "Mid-morning", "After lunch", "Late afternoon", "Before end of day"]
+      required: false
+    - id: 10
+      name: barriers_to_participation
+      label: Barriers to Participation
+      hint: Select any barriers that prevent you from participating
+      type: select_multiple
+      options: ["Lack of time", "Lack of space", "Lack of motivation", "Work interruptions", "Physical limitations", "No barriers"]
+      required: false
+    - id: 11
+      name: impact_on_work_productivity
+      label: Impact on Work Productivity
+      hint: Do you feel active breaks improve your work productivity
+      type: select_one
+      options: ["Significantly improve", "Moderately improve", "Slightly improve", "No impact", "Decrease productivity"]
+      required: true
+    - id: 12
+      name: suggestions_for_improvement
+      label: Suggestions for Improving Active Breaks
+      hint: Any suggestions for improving the active breaks program
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: additional_feedback
+      label: Additional Feedback
+      hint: Any other comments about the active breaks program
+      type: text
+      options: []
+      required: false

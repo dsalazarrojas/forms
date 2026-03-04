@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Boundaries Feedback Form
+    pages:
+    - id: 1
+      name: page_1
+      label: form_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: feedback_who_was_present
+      label: who_was_present
+      hint: null
+      type: select_one
+      options:
+      - Admin
+      - Manager
+      - Coworker
+      - Other
+      required: true
+    - id: 3
+      name: feedback_why
+      label: why
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: boundary_beings_respected
+      label: boundary_beings_respected
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      - Maybe
+      required: true
+    - id: 5
+      name: boundary_being_respected_frequency
+      label: boundary_being_respected_frequency
+      hint: null
+      type: select_one
+      options:
+      - Often
+      - Sometimes
+      - Rarely
+      - Never
+      required: true
+    - id: 6
+      name: why_not_respected
+      label: why_not_respected
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: form_submit
+      label: form_submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Other
+      required: true

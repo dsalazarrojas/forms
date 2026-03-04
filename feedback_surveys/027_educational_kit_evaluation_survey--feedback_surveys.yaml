@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Educational Kit Evaluation Survey
+    pages:
+    - id: 1
+      name: program_name
+      label: program_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: learning_kit_name
+      label: learning_kit_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: usefulness
+      label: usefulness
+      hint: null
+      type: select_one
+      options:
+      - Very useful
+      - somewhat useful
+      - not very useful
+      - not useful at all
+      required: true
+    - id: 4
+      name: content_quality
+      label: content_quality
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 5
+      name: ease_of_use
+      label: ease_of_use
+      hint: null
+      type: select_one
+      options:
+      - Very easy
+      - Easy
+      - Somewhat difficult
+      - difficult
+      required: true
+    - id: 6
+      name: overall_satisfaction
+      label: overall_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Somewhat satisfied
+      - Not satisfied
+      required: true
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: program_id
+      label: program_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: form_id
+      label: form_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: created_date
+      label: created_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: updated_date
+      label: updated_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: submitted_date
+      label: submitted_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: created_by
+      label: created_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: updated_by
+      label: updated_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: learning_kit_id
+      label: learning_kit_id
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: program_name_2
+      label: program_name_2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: program_type
+      label: program_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: program_length
+      label: program_length
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: location
+      label: location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: evaluation_form
+      label: evaluation_form
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

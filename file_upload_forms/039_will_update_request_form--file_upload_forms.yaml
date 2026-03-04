@@ -1,0 +1,37 @@
+inputSchema:
+  type: object
+  properties:
+    title: will_update_request_form
+    pages:
+    - id: 1
+      name: will_update_request_form_1
+      label: Will Update Request Form 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: signed_authorization
+      label: Signed Authorization
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: will_update_request_description
+      label: Will Update Request Description
+      hint: null
+      type: text
+      options: []
+      required: false

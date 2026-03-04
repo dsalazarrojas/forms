@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Presentation Peer Feedback Form
+    pages:
+    - id: 1
+      name: title
+      label: Presentation Peer Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: speaker
+      label: Peer Who Presented
+      hint: Who gave the presentation?
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: rating
+      label: How would you rate the presentation?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: feedback
+      label: Provide Feedback
+      hint: Be as specific as possible.
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: Date Presented
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: Time Presented
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false

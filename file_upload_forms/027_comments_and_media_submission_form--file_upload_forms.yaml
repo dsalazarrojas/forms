@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Comments And Media Submission Form
+    pages:
+    - id: 1
+      name: submitter_name
+      label: Your Name
+      hint: Full name - optional
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: submitter_email
+      label: Email Address
+      hint: For follow-up if needed
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: submitter_phone
+      label: Phone Number
+      hint: Optional contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: submission_date
+      label: Submission Date
+      hint: Date of submission
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: section_header_comment_type
+      label: -- Comment Type --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: comment_category
+      label: Comment Category
+      hint: What type of feedback is this
+      type: select_one
+      options:
+      - General Comment
+      - Question
+      - Suggestion
+      - Complaint
+      - Compliment
+      - Bug Report
+      - Feature Request
+      - Other
+      required: true
+    - id: 7
+      name: subject
+      label: Subject
+      hint: Brief subject line
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_header_message
+      label: -- Your Message --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: message
+      label: Your Comment or Message
+      hint: Please describe your feedback in detail
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: priority
+      label: Priority Level
+      hint: How urgent is this matter
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      - Urgent
+      required: true
+    - id: 11
+      name: section_header_media_upload
+      label: -- Media Upload --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: has_media
+      label: Do You Have Media to Submit
+      hint: Images, videos, or documents
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: media_type
+      label: Media Type
+      hint: What type of media are you submitting
+      type: select_multiple
+      options:
+      - Image
+      - Video
+      - Audio
+      - Document
+      - Screenshot
+      - Other
+      required: false
+    - id: 14
+      name: media_files
+      label: Upload Media Files
+      hint: Attach your files here
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: media_description
+      label: Media Description
+      hint: Describe what you are uploading
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: section_header_context
+      label: -- Context --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: related_product
+      label: Related Product or Service
+      hint: What product or service is this about
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: related_url
+      label: Related URL
+      hint: Link to relevant page
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: device_used
+      label: Device Used
+      hint: What device are you using
+      type: select_one
+      options:
+      - Desktop Computer
+      - Laptop
+      - Tablet
+      - Mobile Phone
+      - Other
+      required: false
+    - id: 20
+      name: browser_used
+      label: Browser Used
+      hint: Which browser
+      type: select_one
+      options:
+      - Chrome
+      - Firefox
+      - Safari
+      - Edge
+      - Opera
+      - Other
+      required: false
+    - id: 21
+      name: section_header_permissions
+      label: -- Permissions --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: contact_permission
+      label: May We Contact You
+      hint: Can we follow up about your submission
+      type: select_one
+      options:
+      - Yes Please
+      - No Thanks
+      required: true
+    - id: 23
+      name: public_display
+      label: Public Display Permission
+      hint: Can we display your comment publicly
+      type: select_one
+      options:
+      - Yes Allowed
+      - No Private
+      - With Approval
+      required: true
+    - id: 24
+      name: terms_accepted
+      label: Terms and Conditions
+      hint: I agree to the submission terms
+      type: select_one
+      options:
+      - Yes I Agree
+      - No I Do Not Agree
+      required: true
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

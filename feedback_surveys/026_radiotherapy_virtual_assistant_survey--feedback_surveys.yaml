@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Radiotherapy Virtual Assistant Survey
+    pages:
+    - id: 1
+      name: first_page
+      label: Welcome Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: radiotherapy_assistance
+      label: How often do you use the radiotherapy virtual assistant?
+      hint: null
+      type: select_one
+      options:
+      - Very often
+      - Occasionally
+      - Rarely
+      - Never
+      required: true
+    - id: 3
+      name: satisfaction_with_assistance
+      label: How satisfied are you with the radiotherapy virtual assistant?
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Neutral
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 4
+      name: improvement_opportunities
+      label: Are there any features you would like to see improved in the radiotherapy
+        virtual assistant?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: next_steps
+      label: What's next?
+      hint: null
+      type: date
+      options: []
+      required: false

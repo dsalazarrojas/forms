@@ -1,0 +1,90 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: User Interface Feedback Survey
+    pages:
+    - id: 1
+      name: intro
+      label: intro
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: feedback
+      label: What was your overall impression of the interface?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: suggestions
+      label: Do you have any suggestions?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: rate_design
+      label: Rate the design
+      hint: null
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Good
+      - 4 - Very Good
+      - 5 - Excellent
+      required: false
+    - id: 5
+      name: rate_usability
+      label: Rate the usability
+      hint: null
+      type: select_one
+      options:
+      - 1 - Poor
+      - 2 - Fair
+      - 3 - Good
+      - 4 - Very Good
+      - 5 - Excellent
+      required: false
+    - id: 6
+      name: rate_pleasefix
+      label: What needs to be improved in this interface?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: rate_priority
+      label: Rate your priority for improvement
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 8
+      name: rating_score
+      label: Rate your overall satisfaction with the interface?
+      hint: null
+      type: select_one
+      options:
+      - 1 - Unsatisfied
+      - 2 - Neutral
+      - 3 - Satisfied
+      - 4 - Very Satisfied
+      - 5 - Extremely Satisfied
+      required: false

@@ -1,0 +1,163 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Award Ceremony Feedback Form
+    pages:
+      - id: 1
+        name: section_attendee_info
+        label: -- Attendee Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: attendee_name
+        label: Attendee Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: email_address
+        label: Email Address
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: ceremony_name
+        label: Ceremony Name
+        hint: Which event did you attend?
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: ceremony_date
+        label: Ceremony Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: section_event_feedback
+        label: -- Event Experience Feedback --
+        hint: Rate the following aspects on a scale of 1 to 5
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: overall_satisfaction
+        label: Overall Event Satisfaction
+        hint: Your general impression
+        type: select_one
+        options:
+          - 1 - Unsatisfactory
+          - 2 - Poor
+          - 3 - Average
+          - 4 - Good
+          - 5 - Outstanding
+        required: true
+      - id: 8
+        name: venue_quality
+        label: Venue and Atmosphere Quality
+        hint: Comfort, decor, and location
+        type: select_one
+        options:
+          - 1 - Poor
+          - 2 - Fair
+          - 3 - Average
+          - 4 - Good
+          - 5 - Excellent
+        required: true
+      - id: 9
+        name: catering_quality
+        label: Food and Beverage Quality
+        hint: Taste, variety, and service
+        type: select_one
+        options:
+          - 1 - Poor
+          - 2 - Fair
+          - 3 - Average
+          - 4 - Good
+          - 5 - Excellent
+        required: true
+      - id: 10
+        name: pacing_timing
+        label: Ceremony Pacing and Timing
+        hint: Length and flow of the program
+        type: select_one
+        options:
+          - 1 - Too slow
+          - 2 - Slow
+          - 3 - Just right
+          - 4 - Fast
+          - 5 - Too fast
+        required: true
+      - id: 11
+        name: mc_quality
+        label: Host and MC Performance
+        hint: Engagement and professionalism
+        type: select_one
+        options:
+          - 1 - Poor
+          - 2 - Fair
+          - 3 - Average
+          - 4 - Good
+          - 5 - Excellent
+        required: true
+      - id: 12
+        name: favorite_part
+        label: What part did you like most?
+        hint: Highlight of the ceremony
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: improvement_areas
+        label: Areas for Improvement
+        hint: What would you change for next year?
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: attendance_likelihood
+        label: Likelihood of Attending Next Year
+        hint: Future interest
+        type: select_one
+        options:
+          - Very Likely
+          - Likely
+          - Neutral
+          - Unlikely
+          - Very Unlikely
+        required: true
+      - id: 15
+        name: referral_source
+        label: How did you hear about the event?
+        hint: null
+        type: select_one
+        options:
+          - Direct Email
+          - Social Media
+          - Colleague/Friend
+          - Company Website
+          - Newsletter
+        required: true
+      - id: 16
+        name: additional_comments
+        label: Any other comments?
+        hint: General feedback or praises
+        type: text
+        options: []
+        required: false

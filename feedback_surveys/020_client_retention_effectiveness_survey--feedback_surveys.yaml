@@ -1,0 +1,156 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Retention Effectiveness Survey
+    pages:
+    - id: 1
+      name: survey_intro
+      label: -- Client Retention Feedback Survey --
+      hint: Your insights help us serve you better
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Your Name or Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_tenure
+      label: How Long Have You Been a Customer?
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-2 years
+      - 2-5 years
+      - 5-10 years
+      - 10+ years
+      required: true
+    - id: 4
+      name: loyalty_rating
+      label: How Loyal Are You to Our Brand?
+      hint: null
+      type: select_one
+      options:
+      - Extremely loyal
+      - Very loyal
+      - Somewhat loyal
+      - Not very loyal
+      - Not at all loyal
+      required: true
+    - id: 5
+      name: primary_reasons_staying
+      label: What Are Your Main Reasons for Staying With Us?
+      hint: null
+      type: select_multiple
+      options:
+      - Quality of service
+      - Competitive pricing
+      - Customer service
+      - Brand reputation
+      - Loyalty rewards
+      - Convenience
+      - Other
+      required: true
+    - id: 6
+      name: satisfaction_level
+      label: Overall Satisfaction Level
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 7
+      name: product_service_quality
+      label: Quality of Products and Services
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Fair
+      - Poor
+      required: true
+    - id: 8
+      name: value_perception
+      label: Perceived Value for Money
+      hint: null
+      type: select_one
+      options:
+      - Excellent value
+      - Good value
+      - Fair value
+      - Poor value
+      - Very poor value
+      required: true
+    - id: 9
+      name: customer_support_experience
+      label: Customer Support Experience
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Satisfactory
+      - Poor
+      - Very poor
+      required: true
+    - id: 10
+      name: areas_needing_improvement
+      label: Areas Needing Improvement
+      hint: What could we do better?
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: recommendation_likelihood
+      label: How Likely Are You to Recommend Us?
+      hint: On a scale where 0 is not at all and 10 is extremely likely
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: factors_affecting_retention
+      label: What Factors Could Cause You to Leave?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: competitive_alternatives
+      label: Are You Considering Alternatives?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - Occasionally researching
+      - Actively evaluating options
+      - Close to switching
+      - Already have an alternative
+      required: true
+    - id: 14
+      name: engagement_programs
+      label: Interest in Loyalty or Engagement Programs
+      hint: null
+      type: select_one
+      options:
+      - Very interested
+      - Interested
+      - Somewhat interested
+      - Not interested
+      required: false
+    - id: 15
+      name: additional_feedback
+      label: Additional Feedback or Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false

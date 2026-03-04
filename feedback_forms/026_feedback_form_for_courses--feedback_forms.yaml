@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: feedback_form_for_courses
+    pages:
+    - id: 1
+      name: course_name
+      label: Feedback Course
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: feedback_type
+      label: Feedback Type
+      hint: Please select a feedback type.
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''general''}'
+      - '{''id'': 2, ''name'': ''technical''}'
+      - '{''id'': 3, ''name'': ''course_materials''}'
+      - '{''id'': 4, ''name'': ''support''}'
+      required: true
+    - id: 3
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: suggestions
+      label: Suggest
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact
+      label: Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: submit
+      label: Submit Feedback
+      hint: null
+      type: text
+      options: []
+      required: false

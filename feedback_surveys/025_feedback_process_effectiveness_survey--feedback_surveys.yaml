@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Feedback Process Effectiveness Survey
+    pages:
+    - id: 1
+      name: feedback_process_effectiveness_survey_title
+      label: Feedback Process Effectiveness Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Feedback Surveys
+      - Other Surveys
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - other
+      required: false
+    - id: 6
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: description
+      label: Description
+      hint: The Feedback Process Effectiveness Survey helps organizations collect
+        insights on their feedback processes, enabling improvements and enhancing
+        workplace culture through effective data collection.
+      type: note
+      options: []
+      required: false

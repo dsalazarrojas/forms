@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Payment Process Feedback Form
+    pages:
+    - id: 1
+      name: payment_process_feedback_form
+      label: Payment Process Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: payment_method_used
+      label: Payment Method Used
+      hint: null
+      type: select_one
+      options:
+      - Payment by credit card
+      - Payment by bank transfer
+      - Payment by cash
+      - Payment by other
+      required: false
+    - id: 4
+      name: feedback_on_payment_process
+      label: Feedback on Payment Process
+      hint: Be as detailed as possible.
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: rating
+      label: Rate this form
+      hint: null
+      type: select_one
+      options:
+      - One
+      - Two
+      - Three
+      - Four
+      - Five
+      required: false
+    - id: 8
+      name: additional_feedback
+      label: Additional feedback
+      hint: null
+      type: text
+      options: []
+      required: false

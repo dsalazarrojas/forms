@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Team Feedback Survey
+    pages:
+    - id: 1
+      name: team_leadership
+      label: team-leadership
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: communication
+      label: communication
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Strongly disagree''}'
+      - '{''value'': 2, ''label'': ''Somewhat disagree''}'
+      - '{''value'': 3, ''label'': ''Neutral''}'
+      - '{''value'': 4, ''label'': ''Somewhat agree''}'
+      - '{''value'': 5, ''label'': ''Strongly agree''}'
+      required: false
+    - id: 3
+      name: team_work_environment
+      label: team-work-environment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: collaboration
+      label: collaboration
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''Team members often work together on tasks and
+        projects''}'
+      - '{''value'': 2, ''label'': ''Team members often share knowledge and ideas''}'
+      - '{''value'': 3, ''label'': ''Team members often help each other with work''}'
+      - '{''value'': 4, ''label'': ''Team members often communicate effectively''}'
+      required: false
+    - id: 5
+      name: problem_prophetsolving
+      label: problem-solving
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: decision_making
+      label: decision-making
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Top-down''}'
+      - '{''value'': 2, ''label'': ''Bottom-up''}'
+      - '{''value'': 3, ''label'': ''Both''}'
+      required: false
+    - id: 7
+      name: conflict_resolution
+      label: conflict-resolution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: recognition
+      label: recognition
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Not often''}'
+      - '{''value'': 2, ''label'': ''Occasionally''}'
+      - '{''value'': 3, ''label'': ''Often''}'
+      - '{''value'': 4, ''label'': ''Almost always''}'
+      required: false
+    - id: 9
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: communication_channels
+      label: communication-channels
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''Email''}'
+      - '{''value'': 2, ''label'': ''Phone''}'
+      - '{''value'': 3, ''label'': ''Instant Messenger''}'
+      - '{''value'': 4, ''label'': ''In-person''}'
+      required: false
+    - id: 11
+      name: collaboration_tools
+      label: collaboration-tools
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''Asana''}'
+      - '{''value'': 2, ''label'': ''Trello''}'
+      - '{''value'': 3, ''label'': ''Slack''}'
+      - '{''value'': 4, ''label'': ''Microsoft Teams''}'
+      required: false
+    - id: 12
+      name: work_satisfaction
+      label: work-satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Very dissatisfied''}'
+      - '{''value'': 2, ''label'': ''Somewhat dissatisfied''}'
+      - '{''value'': 3, ''label'': ''Neutral''}'
+      - '{''value'': 4, ''label'': ''Somewhat satisfied''}'
+      - '{''value'': 5, ''label'': ''Very satisfied''}'
+      required: false
+    - id: 13
+      name: time_spend
+      label: time-spend
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Less than 20''}'
+      - '{''value'': 2, ''label'': ''21-40''}'
+      - '{''value'': 3, ''label'': ''41-60''}'
+      - '{''value'': 4, ''label'': ''61-80''}'
+      - '{''value'': 5, ''label'': ''81-100''}'
+      required: false

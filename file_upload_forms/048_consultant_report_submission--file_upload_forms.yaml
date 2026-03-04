@@ -1,0 +1,173 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Consultant Report Submission
+    pages:
+      - id: 1
+        name: section_report_ident
+        label: -- Report and Consultant Identification --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: report_title_ident
+        label: Report Title/Description
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: consultant_full_name_ident
+        label: Consultant Full Name or Legal Entity
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: consultant_email_ident
+        label: Consultant Contact Email
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 5
+        name: project_reference_ident
+        label: Project Reference/Contract ID
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: internal_sponsor_ident
+        label: Internal Sponsor/Project Manager (Name)
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: section_report_details
+        label: -- Report Details and Findings --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: report_type_ident
+        label: Primary Report Category
+        hint: Select the most appropriate category
+        type: select_one
+        options:
+          - Monthly/Weekly Status Update
+          - Preliminary Findings Report
+          - Strategic Recommendation Report
+          - Final Project Completion Report
+          - Technical/Audit Report
+          - Market Analysis/Research Findings
+        required: true
+      - id: 9
+        name: executive_summary_desc
+        label: Executive Summary of Key Findings
+        hint: Max 1000 characters
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: primary_recommendation_ident
+        label: Primary Professional Recommendation
+        hint: One clear and actionable advice
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: section_file_verification
+        label: -- File Verification and Upload --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: report_pdf_uploaded_verified
+        label: Full PDF Report Document Uploaded
+        hint: null
+        type: select_one
+        options:
+          - Yes - Uploaded to Portal
+          - No - Required before submission
+        required: true
+      - id: 13
+        name: raw_data_appendix_uploaded
+        label: Raw Data or Technical Appendix Uploaded (If applicable)
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+          - N/A
+        required: true
+      - id: 14
+        name: visual_assets_uploaded_checklist
+        label: Supporting Visual Assets Ready for Portal (PPT/Images)
+        hint: Check all that apply
+        type: select_multiple
+        options:
+          - High-res Images (PNG/JPG)
+          - Presentation Slides (PPTX)
+          - Video/Screen Recording (MP4)
+          - No Visual Assets Required
+        required: true
+      - id: 15
+        name: section_compliance_auth
+        label: -- Compliance and Authorization --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 16
+        name: data_privacy_compliance_ack
+        label: Acknowledgment of Data Privacy and GDPR Compliance
+        hint: null
+        type: select_one
+        options:
+          - I Acknowledge and Confirm
+          - I Disagree
+        required: true
+      - id: 17
+        name: authorized_representative_name_label
+        label: Authorized Representative Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 18
+        name: submission_date
+        label: Date of Report Submission
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 19
+        name: additional_submission_notes
+        label: Additional Submission Instructions or Notes
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: internal_review_status_auto_label
+        label: Internal Review Status (For Sponsor)
+        hint: For internal use
+        type: text
+        options: []
+        required: false

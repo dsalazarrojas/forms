@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: gearbox_design_feedback_form
+    pages:
+    - id: 1
+      name: design_rating
+      label: Design Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: design_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: trial_outcome
+      label: Trial Outcome
+      hint: Please choose one of the following options
+      type: select_one
+      options:
+      - Good
+      - Poor
+      required: true
+    - id: 4
+      name: continuous_improvement
+      label: Continuous Improvement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: attachment
+      label: Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_completed
+      label: Time Completed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: rating_scale
+      label: Rating Scale
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Scale 1
+      - Scale 2
+      - Scale 3
+      required: true
+    - id: 11
+      name: trial_notes
+      label: Trial Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: trial_rating
+      label: Trial Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: trial_outcome_rating
+      label: Trial Outcome Rating
+      hint: null
+      type: number
+      options: []
+      required: false

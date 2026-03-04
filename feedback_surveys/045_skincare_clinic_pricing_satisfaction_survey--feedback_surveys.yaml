@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Skincare Clinic Pricing Satisfaction Survey
+    pages:
+    - id: 1
+      name: survey_form_data
+      label: First Time Visitor
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: visit_frequency
+      label: How often do you visit the clinic?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''New Client''}'
+      - '{''option2'': ''Regular Client''}'
+      - '{''option3'': ''Rarely''}'
+      required: false
+    - id: 3
+      name: price_sensitivity
+      label: What is your price sensitivity?
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Not Sensitive''}'
+      - '{''option2'': ''Somewhat Sensitive''}'
+      - '{''option3'': ''Very Sensitive''}'
+      required: true
+    - id: 4
+      name: price_range
+      label: Have you visited us in the past 3 months?
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Less than 1 month''}'
+      - '{''option2'': ''1-3 months''}'
+      - '{''option3'': ''More than 3 months''}'
+      required: true
+    - id: 5
+      name: price_range2
+      label: What is the price of our service compared to your expectations?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: price_range3
+      label: How would you rate the value for money?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: price_range4
+      label: What is your expectation for the service price?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: price_range5
+      label: How much would you be willing to pay for our service?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: price_range6
+      label: Would you be willing to pay more for the service?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: price_range7
+      label: Have you considered visiting another clinic for service?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: price_range8
+      label: Would you recommend our service to a friend or colleague?
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': True}'
+      - '{''option2'': False}'
+      required: true

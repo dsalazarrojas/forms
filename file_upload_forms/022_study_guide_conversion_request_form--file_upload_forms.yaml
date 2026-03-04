@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: study_guide_conversion_request_form
+    pages:
+    - id: 1
+      name: submitter
+      label: Submitting User
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: study_guide_id
+      label: Study Guide Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: format_request
+      label: Requested Format
+      hint: null
+      type: select_one
+      options:
+      - pdf
+      - epub
+      - other
+      required: false
+    - id: 5
+      name: submitter_department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - math
+      - science
+      - other
+      required: false
+    - id: 6
+      name: file_name
+      label: File Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submitter_note
+      label: Submitter Note
+      hint: null
+      type: text
+      options: []
+      required: false

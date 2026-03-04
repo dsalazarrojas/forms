@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tumor Sample Submission Form
+    pages:
+    - id: 1
+      name: user_input_1
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: user_contact_1
+      label: Contact Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: user_address_1
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: user_email_1
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: user_phone_1
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: user_date_1
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: user_time_1
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: user_specimen_id_1
+      label: Specimen ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: user_disease_1
+      label: Disease
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: user_tumor_size_1
+      label: Tumor Size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: user_tumor_stage_1
+      label: Tumor Stage
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: user_biopsy_1
+      label: Biopsy
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: user_surgery_1
+      label: Surgery
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: user_sequencing_1
+      label: Sequencing
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: user_document_1
+      label: Document Upload
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: user_upload_doc_1
+      label: Upload Documentation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: user_upload_sample_1
+      label: Upload Sample
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: user_notes_1
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: user_signature_1
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: user_verification_date_1
+      label: Verification Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: user_verification_time_1
+      label: Verification Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 22
+      name: user_signature_2
+      label: Second Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: user_comments_1
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: user_consent_form_1
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: user_consent_form_2
+      label: Second Consent
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

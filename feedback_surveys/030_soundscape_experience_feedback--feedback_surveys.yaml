@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Soundscape Experience Feedback
+    pages:
+    - id: 1
+      name: participant_rating
+      label: Participant Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: emotion_rating
+      label: Emotion Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: favorite_part
+      label: Did you like it
+      hint: null
+      type: select_one
+      options:
+      - I loved it
+      - it was okay
+      - did not like it
+      required: false
+    - id: 4
+      name: favorite_sound_effect
+      label: Favorite Sound Effect
+      hint: null
+      type: select_one
+      options:
+      - water
+      - forest
+      - ocean
+      - city
+      required: false
+    - id: 5
+      name: participant_feedback
+      label: Participant Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: suggestion
+      label: Suggestion
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: contact_info
+      label: Contact Info
+      hint: Your name
+      type: text
+      options: []
+      required: false

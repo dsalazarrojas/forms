@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Livestock Feed Optimization Survey
+    pages:
+    - id: 1
+      name: page_1
+      label: What is the name of your farm?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: page_2
+      label: How many animals do you have on your farm?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: page_3
+      label: How often do you feed your livestock?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: page_4
+      label: What is the primary feed type used on your farm?
+      hint: null
+      type: select_multiple
+      options:
+      - Wheat
+      - Corn
+      - Soybean
+      - Alfalfa
+      - Other
+      required: false
+    - id: 5
+      name: page_5
+      label: What are your top three challenges when it comes to feeding your livestock?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: page_6
+      label: What is your current method for determining when to start and stop feeding
+        your livestock?
+      hint: null
+      type: select_one
+      options:
+      - Visual inspection
+      - Weight check
+      - Schedule
+      - Other
+      required: false
+    - id: 7
+      name: page_7
+      label: What type of data do you currently use to monitor your animal's health?
+      hint: null
+      type: select_multiple
+      options:
+      - Body condition scores
+      - Growth rate
+      - Health status
+      - Other
+      required: false
+    - id: 8
+      name: page_8
+      label: Are you currently using any external data or information to guide your
+        feeding decisions?
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 9
+      name: page_9
+      label: How often do you review and update your feeding plan?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Never
+      required: false
+    - id: 10
+      name: page_10
+      label: How satisfied are you with the current feeding plan on your farm?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: page_11
+      label: What is the most important factor to consider when making feeding decisions?
+      hint: null
+      type: select_multiple
+      options:
+      - Feed costs
+      - Animal health
+      - Production efficiency
+      - Other
+      required: false
+    - id: 12
+      name: page_12
+      label: What are some of the biggest benefits you've seen from using your current
+        feeding plan?
+      hint: null
+      type: text
+      options: []
+      required: false

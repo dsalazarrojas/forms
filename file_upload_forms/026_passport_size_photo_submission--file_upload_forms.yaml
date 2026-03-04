@@ -1,0 +1,156 @@
+inputSchema:
+  type: object
+  properties:
+    title: Passport Size Photo Submission
+    pages:
+    - id: 1
+      name: passport_size_photo_submission
+      label: Submit Photos
+      hint: null
+      type: select_multiple
+      options:
+      - Photo 1
+      - Photo 2
+      - Photo 3
+      required: false
+    - id: 2
+      name: file
+      label: File
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: upload
+      label: Upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: confirm
+      label: Confirm
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: confirm_note
+      label: Confirm Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: select_one
+      label: Select One
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 13
+      name: select_multiple
+      label: Select Multiple
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: true
+    - id: 14
+      name: date_range
+      label: Date Range
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: time_range
+      label: Time Range
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: decimal
+      label: Decimal
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: integer
+      label: Integer
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: text_area
+      label: Text Area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: text_area_labelled
+      label: Text Area Labelled
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: checkbox
+      label: Checkbox
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

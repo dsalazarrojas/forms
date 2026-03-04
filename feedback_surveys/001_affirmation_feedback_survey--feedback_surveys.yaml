@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Affirmation Feedback Survey
+    pages:
+    - id: 1
+      name: section_header
+      label: -- Workplace Affirmation Feedback Survey --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_email
+      label: Employee Email
+      hint: Please provide your official company email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: culture_satisfaction
+      label: Overall satisfaction with company culture
+      hint: how satisfied are you with the general workplace atmosphere
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 4
+      name: affirmation_frequency
+      label: Frequency of receiving positive recognition
+      hint: How often do you receive affirmations or praise
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      - Never
+      required: true
+    - id: 5
+      name: primary_source
+      label: Source of most frequent affirmations
+      hint: Who gives you the most positive feedback
+      type: select_one
+      options:
+      - Direct Manager
+      - Peer or Colleague
+      - Senior Leadership
+      - External Clients
+      - Others
+      required: false
+    - id: 6
+      name: recent_example
+      label: Specific example of a recent affirmation received
+      hint: Briefly describe a time you felt appreciated recently
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: motivation_impact
+      label: Impact of affirmations on motivation
+      hint: Does recognition improve your work performance
+      type: select_one
+      options:
+      - Significant Improvement
+      - Moderate Improvement
+      - Slight Improvement
+      - No Impact
+      required: true
+    - id: 8
+      name: management_feedback_satisfaction
+      label: Satisfaction with feedback from management
+      hint: Are you happy with the quality of feedback from your supervisor
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 9
+      name: improvement_suggestions
+      label: Suggestions for improving the affirmation process
+      hint: How can we better recognize employee contributions
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: preferred_methods
+      label: Preferred methods of receiving recognition
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Private email or message
+      - Public shout-out in meetings
+      - Formal award or certificate
+      - Monetary bonus or gift card
+      - Extra time off
+      required: false
+    - id: 11
+      name: value_scale
+      label: On a scale of 1-10, how valued do you feel?
+      hint: 1 being not valued at all, 10 being highly valued
+      type: number
+      options: []
+      required: true

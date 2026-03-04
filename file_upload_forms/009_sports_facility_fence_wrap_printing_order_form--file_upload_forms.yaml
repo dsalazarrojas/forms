@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sports Facility Fence Wrap Printing Order Form
+    pages:
+    - id: 1
+      name: user_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 2
+      name: facility_name
+      label: Facility Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: facility_type
+      label: Facility Type
+      hint: null
+      type: select_one
+      options:
+      - Sports
+      - Venue
+      - Print Shop
+      required: false
+    - id: 4
+      name: artwork_upload
+      label: Upload Artwork
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: upload_artwork
+      label: Uploader Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Stripe
+      - PayPal
+      - Bank Transfer
+      required: false
+    - id: 7
+      name: order_quantity
+      label: Order Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: shipping_address
+      label: Shipping Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: billing_address
+      label: Billing Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: payment_status
+      label: Payment Status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Unpaid
+      - Partially Paid
+      required: false
+    - id: 12
+      name: upload_additional_file
+      label: Upload Additional File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: additional_file_info
+      label: Additional File Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: facility_location
+      label: Facility Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: facility_phone
+      label: Facility Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: facility_fax
+      label: Facility Fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: facility_contact_person
+      label: Facility Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: facility_contact_email
+      label: Facility Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: facility_website
+      label: Facility Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: facility_notes
+      label: Facility Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: order_date
+      label: Order Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: order_due_date
+      label: Order Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: order_status
+      label: Order Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Approved - In Progress
+      - Completed
+      - In Progress
+      - Rejected
+      required: false
+    - id: 24
+      name: upload_proof_of_payment
+      label: Upload Proof of Payment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: proof_of_payment_info
+      label: Proof of Payment Information
+      hint: null
+      type: text
+      options: []
+      required: false

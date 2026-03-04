@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Content Upload Form
+    pages:
+    - id: 1
+      name: uploader_details_header
+      label: -- Uploader Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: uploader_role
+      label: Your Relationship to the Content
+      hint: null
+      type: select_one
+      options:
+      - Original Creator/Owner
+      - Authorized Representative
+      - Employee/Staff Member
+      - Other
+      required: true
+    - id: 5
+      name: content_info_header
+      label: -- Content Information --
+      hint: Describe the files you are uploading
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: content_title
+      label: Title of the Content
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: content_type
+      label: Type of Content
+      hint: null
+      type: select_one
+      options:
+      - Image/Photo (JPG, PNG)
+      - Video (MP4, MOV)
+      - Document (PDF, DOCX)
+      - Audio (MP3, WAV)
+      - Compressed Archive (ZIP, RAR)
+      required: true
+    - id: 8
+      name: file_description
+      label: Brief Description of Content
+      hint: Tell us what this file is for (Max 100 words)
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: file_count
+      label: Number of Files being Uploaded
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: file_name_reference
+      label: Main File Name Reference
+      hint: e.g., project_final_v1.mp4
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: legal_compliance_header
+      label: -- Legal and Terms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: copyright_confirmation
+      label: I confirm I have the rights to upload this content
+      hint: No copyrighted material without permission
+      type: select_one
+      options:
+      - Yes, I have full rights
+      - Yes, I have permission from the owner
+      required: true
+    - id: 13
+      name: sensitivity_level
+      label: Content Sensitivity
+      hint: null
+      type: select_one
+      options:
+      - Public - Can be used anywhere
+      - Internal Only - Not for external use
+      - Highly Confidential - Secure storage only
+      required: true
+    - id: 14
+      name: terms_agreement
+      label: I agree to the storage and usage terms
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true
+    - id: 15
+      name: upload_date
+      label: Date of Submission
+      hint: null
+      type: date
+      options: []
+      required: true

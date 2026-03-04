@@ -1,0 +1,71 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Open Access Repository Upload Request Form
+    pages:
+    - id: 1
+      name: author_first_name
+      label: Author First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: author_last_name
+      label: Author Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: author_email
+      label: Author Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: manuscript_file_1
+      label: Upload Manuscript 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: manuscript_file_2
+      label: Upload Manuscript 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: repository_selection
+      label: Repository Selection
+      hint: null
+      type: select_one
+      options:
+      - Open Access
+      - Closed Access
+      - Hybrid
+      - Author's Choice
+      required: false
+    - id: 7
+      name: access_rights
+      label: Access Rights
+      hint: null
+      type: select_multiple
+      options:
+      - Public
+      - Private
+      required: false

@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Toolbox Meeting Feedback
+    pages:
+    - id: 1
+      name: meeting_rating
+      label: Meeting Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: safety_concerns
+      label: Safety Concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: safety_suggestion
+      label: Safety Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: improvement_areas
+      label: Improvement Areas
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: meeting_notes
+      label: Meeting Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: safety_leaders
+      label: Safety Leaders
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: safety_equipment
+      label: Safety Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

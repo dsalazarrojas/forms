@@ -1,0 +1,191 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Beauty Brand Mission Awareness Survey
+    pages:
+      - id: 1
+        name: respondent_header
+        label: -- Respondent Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: full_name
+        label: Full Name
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: email
+        label: Email Address
+        hint: null
+        type: email
+        options: []
+        required: false
+      - id: 4
+        name: age_group
+        label: Age Group
+        hint: null
+        type: select_one
+        options: [18-25, 26-35, 36-45, 46-55, 56+]
+        required: true
+      - id: 5
+        name: customer_type
+        label: Are You a Current Customer
+        hint: null
+        type: select_one
+        options: ["Yes, Regular Customer", "Yes, Occasional Customer", "No, Not a Customer"]
+        required: true
+      - id: 6
+        name: brand_awareness_header
+        label: -- Brand Awareness --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: brand_familiarity
+        label: How Familiar Are You with This Brand
+        hint: null
+        type: select_one
+        options: [Not Familiar, Slightly Familiar, Moderately Familiar, Very Familiar]
+        required: true
+      - id: 8
+        name: discover_method
+        label: How Did You First Discover This Brand
+        hint: null
+        type: select_one
+        options: [Social Media, Friends/Family, Search Engine, Advertising, In-Store, Influencer, Other]
+        required: true
+      - id: 9
+        name: brand_perception
+        label: Overall Brand Perception
+        hint: null
+        type: select_one
+        options: [Very Negative, Negative, Neutral, Positive, Very Positive]
+        required: true
+      - id: 10
+        name: mission_awareness_header
+        label: -- Mission Awareness --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 11
+        name: mission_awareness
+        label: Are You Aware of the Brand Mission
+        hint: null
+        type: select_one
+        options: ["Yes, Fully Aware", "Yes, Somewhat Aware", "No, Not Aware"]
+        required: true
+      - id: 12
+        name: mission_understanding
+        label: Understanding of the Brand Mission
+        hint: If aware - describe in your own words
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: values_alignment_header
+        label: -- Values and Alignment --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: values_alignment
+        label: Do the Brand Values Align with Your Own
+        hint: null
+        type: select_one
+        options: [Strongly Disagree, Disagree, Neutral, Agree, Strongly Agree]
+        required: true
+      - id: 15
+        name: sustainability_awareness
+        label: Awareness of Sustainability Practices
+        hint: null
+        type: select_one
+        options: [Not Aware, Slightly Aware, Moderately Aware, Very Aware]
+        required: true
+      - id: 16
+        name: ethical_practices_awareness
+        label: Awareness of Ethical Practices
+        hint: Cruelty-free, fair trade, etc.
+        type: select_one
+        options: [Not Aware, Slightly Aware, Moderately Aware, Very Aware]
+        required: true
+      - id: 17
+        name: impact_perception
+        label: Perceived Positive Impact on Society
+        hint: null
+        type: select_one
+        options: [Very Negative, Negative, Neutral, Positive, Very Positive]
+        required: true
+      - id: 18
+        name: communication_header
+        label: -- Communication and Messaging --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: messaging_clarity
+        label: Clarity of Brand Messaging
+        hint: null
+        type: select_one
+        options: [Very Unclear, Unclear, Neutral, Clear, Very Clear]
+        required: true
+      - id: 20
+        name: messaging_frequency
+        label: Frequency of Mission Communication
+        hint: null
+        type: select_one
+        options: [Too Rare, Rare, Just Right, Frequent, Too Frequent]
+        required: true
+      - id: 21
+        name: preferred_channels
+        label: Preferred Channels for Mission Information
+        hint: null
+        type: select_multiple
+        options: [Social Media, Email, Website, In-Store, Ads, Third-party Reviews]
+        required: true
+      - id: 22
+        name: loyalty_header
+        label: -- Brand Loyalty Impact --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 23
+        name: mission_impact_purchase
+        label: Does Mission Awareness Influence Your Purchase
+        hint: null
+        type: select_one
+        options: [Not at All, Slightly, Moderately, Significantly, Very Significantly]
+        required: true
+      - id: 24
+        name: recommendation
+        label: Would You Recommend Based on Mission
+        hint: null
+        type: select_one
+        options: [Definitely Not, Probably Not, Unsure, Probably Yes, Definitely Yes]
+        required: true
+      - id: 25
+        name: improvement_suggestions
+        label: Suggestions for Better Mission Communication
+        hint: null
+        type: text
+        options: []
+        required: false

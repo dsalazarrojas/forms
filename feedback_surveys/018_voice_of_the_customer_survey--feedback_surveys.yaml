@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Voice Of The Customer Survey
+    pages:
+    - id: 1
+      name: intro_page
+      label: intro_page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: feedback_type
+      label: feedback_type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Positive''}'
+      - '{''label'': ''Negative''}'
+      - '{''label'': ''Neutral''}'
+      required: true
+    - id: 3
+      name: feedback_text
+      label: feedback_text
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email_address
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: time_of_call
+      label: time_of_call
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: date_of_call
+      label: date_of_call
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: customer_feedback
+      label: customer_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: customer_satisfaction
+      label: customer_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Satisfied''}'
+      - '{''label'': ''Unsatisfied''}'
+      - '{''label'': ''Neutral''}'
+      required: true
+    - id: 10
+      name: additional_feedback
+      label: additional_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: employee_email
+      label: employee_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: employee_phone
+      label: employee_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: supervisor_email
+      label: supervisor_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: supervisor_phone
+      label: supervisor_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: supervisor_name
+      label: supervisor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: team
+      label: team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: customer_survey_link
+      label: customer_survey_link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: customer_survey_text
+      label: customer_survey_text
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: customer_survey_email
+      label: customer_survey_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: customer_survey_phone
+      label: customer_survey_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: employee_survey_link
+      label: employee_survey_link
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,84 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Academic Recognition Fairness Survey
+    pages:
+    - id: 1
+      name: respondent_info
+      label: -- Respondent Profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: role
+      label: Role within institution
+      hint: Select your role
+      type: select_one
+      options:
+        - Student
+        - Faculty
+        - Staff
+        - Administrator
+      required: true
+    - id: 3
+      name: perception_of_fairness
+      label: Perception of fairness in recognition
+      hint: Rate how fair recognition processes are
+      type: select_one
+      options:
+        - Very fair
+        - Fair
+        - Neutral
+        - Unfair
+        - Very unfair
+      required: true
+    - id: 4
+      name: examples_of_unfairness
+      label: Examples of unfair practices observed
+      hint: Describe incidents or patterns
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: impact_on_morale
+      label: Impact of perceived unfairness on morale
+      hint: Brief description of effects
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: recommendations
+      label: Recommendations to improve fairness
+      hint: Practical policy or practice suggestions
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: willingness_to_participate
+      label: Willingness to join fairness review groups
+      hint: Indicate interest in participating
+      type: select_one
+      options:
+        - Yes
+        - Maybe
+        - No
+      required: true
+    - id: 8
+      name: contact_email
+      label: Contact email for follow up
+      hint: Optional email for contact
+      type: email
+      options: []
+      required: false

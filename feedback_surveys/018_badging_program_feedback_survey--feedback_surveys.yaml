@@ -1,0 +1,245 @@
+inputSchema:
+  type: object
+  properties:
+    title: Badging Program Feedback Survey
+    pages:
+    - id: 1
+      name: section_intro
+      label: -- Badging Program Feedback --
+      hint: Your feedback helps us improve our program
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: participant_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: badge_earned
+      Label: Badge Name(s) Earned
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: completion_date
+      Label: Completion Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: section_value
+      label: -- Perceived Value --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: overall_satisfaction
+      Label: Overall Satisfaction With Badge Program
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 8
+      name: value_for_career
+      Label: Value for Career Development
+      hint: null
+      type: select_one
+      options:
+      - Highly Valuable
+      - Valuable
+      - Somewhat Valuable
+      - Not Valuable
+      - Unsure
+      required: true
+    - id: 9
+      name: recognition_importance
+      Label: Importance of Badge Recognition
+      hint: null
+      type: select_one
+      options:
+      - Very Important
+      - Important
+      - Neutral
+      - Somewhat Important
+      - Not Important
+      required: false
+    - id: 10
+      name: section_program
+      label: -- Program Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: program_clarity
+      Label: Program Requirements Were Clear
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly Disagree
+      required: true
+    - id: 12
+      name: content_quality
+      Label: Content Quality and Relevance
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - Very Poor
+      required: true
+    - id: 13
+      name: difficulty_level
+      Label: Difficulty Level Was Appropriate
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly Disagree
+      required: false
+    - id: 14
+      name: completion_timeframe
+      Label: Reasonable Time to Complete
+      hint: null
+      type: select_one
+      options:
+      - Too Short
+      - About Right
+      - Too Long
+      required: false
+    - id: 15
+      name: section_support
+      label: -- Support and Resources --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: support_quality
+      Label: Quality of Support Received
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      - No Support Received
+      required: false
+    - id: 17
+      name: resource_adequacy
+      Label: Resources Were Adequate
+      hint: Materials, mentoring, feedback, etc.
+      type: select_one
+      options:
+      - Strongly Agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly Disagree
+      required: true
+    - id: 18
+      name: section_impact
+      label: -- Impact and Benefits --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: skill_improvement
+      Label: Skill Improvement From Program
+      hint: null
+      type: select_one
+      options:
+      - Significant Improvement
+      - Moderate Improvement
+      - Some Improvement
+      - Minimal Improvement
+      - No Improvement
+      required: true
+    - id: 20
+      name: confidence_increase
+      Label: Increase in Confidence
+      hint: null
+      type: select_one
+      options:
+      - Significant Increase
+      - Moderate Increase
+      - Small Increase
+      - No Change
+      - Decreased
+      required: false
+    - id: 21
+      name: employment_impact
+      Label: Impact on Employment or Opportunities
+      hint: null
+      type: select_one
+      options:
+      - Very Positive
+      - Positive
+      - Neutral
+      - Negative
+      - Unsure
+      required: false
+    - id: 22
+      name: section_improvement
+      label: -- Areas for Improvement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: improvement_suggestions
+      Label: Suggestions for Program Improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: recommend_program
+      Label: Would You Recommend This Badge Program to Others?
+      hint: null
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Not Sure
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 25
+      name: feedback_submission
+      Label: Thank You for Your Valuable Feedback
+      hint: null
+      type: select_one
+      options:
+      - Feedback Submitted
+      - Other
+      required: true

@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Municipality Citizen Input Information Collection Form
+    pages:
+    - id: 1
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: resident_department
+      label: resident_department
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: service_concerns
+      label: service_concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: resident_information
+      label: resident_information
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''None'', ''value'': 0}'
+      - '{''label'': ''Mayor'', ''value'': 1}'
+      - '{''label'': ''Department 1'', ''value'': 2}'
+      - '{''label'': ''Department 2'', ''value'': 3}'
+      required: true
+    - id: 5
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: resident_feedback_rating
+      label: resident_feedback_rating
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Good'', ''value'': 5}'
+      - '{''label'': ''Good'', ''value'': 4}'
+      - '{''label'': ''Neutral'', ''value'': 3}'
+      - '{''label'': ''Bad'', ''value'': 2}'
+      - '{''label'': ''Very Bad'', ''value'': 1}'
+      required: true
+    - id: 11
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false

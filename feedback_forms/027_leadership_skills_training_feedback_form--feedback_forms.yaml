@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: leadership_skills_training_feedback_form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: session_date
+      label: session_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: training_type
+      label: Training type
+      hint: null
+      type: select_one
+      options:
+      - Leadership Skills
+      - Team Collaboration
+      - Communication
+      required: true
+    - id: 4
+      name: effectiveness
+      label: Effectiveness
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: recommendations
+      label: Recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: suggestions
+      label: Suggestions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: participant_comments
+      label: Participant Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: trainer_rating
+      label: Trainer Rating
+      hint: null
+      type: select_one
+      options:
+      - 1-2
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 9
+      name: trainer_comments
+      label: Trainer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: select_one
+      options:
+      - 1-2
+      - '3'
+      - '4'
+      - '5'
+      required: true
+    - id: 11
+      name: session_facilitators
+      label: Session facilitators
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: session_facilitators_2
+      label: Session facilitators 2
+      hint: null
+      type: text
+      options: []
+      required: false

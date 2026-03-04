@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Activity Feedback Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Name (Optional)
+      hint: Your name if you wish to be identified
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: activity_name
+      label: Name of Activity
+      hint: Name of the activity you participated in
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: activity_date
+      label: Date of Activity
+      hint: When did you participate in this activity
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: overall_satisfaction
+      label: Overall Satisfaction
+      hint: How satisfied were you with the activity overall
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 5
+      name: activity_quality
+      label: Quality of the Activity
+      hint: How would you rate the quality of the activity
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very poor
+      required: true
+    - id: 6
+      name: staff_performance
+      label: Staff Performance
+      hint: How would you rate the performance of the staff
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very poor
+      required: true
+    - id: 7
+      name: facility_condition
+      label: Condition of Facilities
+      hint: How would you rate the condition of the facilities
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very poor
+      required: true
+    - id: 8
+      name: value_for_money
+      label: Value for Money
+      hint: Do you feel the activity provided good value for money
+      type: select_one
+      options:
+      - Excellent value
+      - Good value
+      - Fair value
+      - Poor value
+      - Very poor value
+      required: true
+    - id: 9
+      name: likelihood_to_recommend
+      label: Likelihood to Recommend
+      hint: How likely are you to recommend this activity to others
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: positive_aspects
+      label: Positive Aspects
+      hint: What did you like most about the activity
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: areas_for_improvement
+      label: Areas for Improvement
+      hint: What could be improved about the activity
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other feedback about the activity
+      type: text
+      options: []
+      required: false

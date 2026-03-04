@@ -1,0 +1,45 @@
+inputSchema:
+  type: object
+  properties:
+    title: Technical Product Documentation Feedback Questionnaire
+    pages:
+    - id: 1
+      name: feedback_form
+      label: Technical Feedback
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: product_experience
+      label: Product Experience
+      hint: Please rate your product experience
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: feedback_description
+      label: What do you think?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: product_documentation
+      label: Documentation Quality
+      hint: How would you rate the quality of our product documentation?
+      type: select_one
+      options:
+      - Documentation is well-organized and easy to understand
+      - The documentation is not well-organized
+      - I don't know
+      required: false
+    - id: 5
+      name: feedback_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

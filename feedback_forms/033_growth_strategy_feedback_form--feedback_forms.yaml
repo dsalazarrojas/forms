@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Growth Strategy Feedback Form
+    pages:
+    - id: 1
+      name: feedback_form_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: feedback_form_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: feedback_form_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: feedback_form_organization
+      label: Organization
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: feedback_form_position
+      label: Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: feedback_form_department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: feedback_form_job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: feedback_form_feedback_category
+      label: Feedback Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: feedback_form_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: feedback_form_recommendation
+      label: Recommendation
+      hint: null
+      type: text
+      options: []
+      required: false

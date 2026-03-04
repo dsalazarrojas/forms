@@ -1,0 +1,264 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Comprehensive Record Survey
+    pages:
+      - id: 1
+        name: survey_id
+        label: Survey ID
+        hint: Unique survey identifier
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: survey_date
+        label: Survey Date
+        hint: Date of survey completion
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: customer_name
+        label: Customer Name
+        hint: Your full name
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: customer_email
+        label: Customer Email
+        hint: Your email address
+        type: email
+        options: []
+        required: false
+      - id: 5
+        name: customer_id
+        label: Customer ID
+        hint: Your customer account number
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: service_date
+        label: Service Date
+        hint: Date you received service
+        type: date
+        options: []
+        required: true
+      - id: 7
+        name: service_type
+        label: Service Type
+        hint: Type of service received
+        type: select_one
+        options:
+          - Product Purchase
+          - Technical Support
+          - Customer Service
+          - Installation Service
+          - Repair Service
+          - Consultation
+          - Delivery Service
+          - Other
+        required: true
+      - id: 8
+        name: service_location
+        label: Service Location
+        hint: Where did you receive service
+        type: select_one
+        options:
+          - In Store
+          - Online
+          - Phone
+          - At Home
+          - At Business
+          - Other
+        required: true
+      - id: 9
+        name: employee_name
+        label: Employee Name
+        hint: Name of employee who assisted you
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: overall_satisfaction
+        label: Overall Satisfaction
+        hint: Rate your overall satisfaction
+        type: select_one
+        options:
+          - 5 - Very Satisfied
+          - 4 - Satisfied
+          - 3 - Neutral
+          - 2 - Dissatisfied
+          - 1 - Very Dissatisfied
+        required: true
+      - id: 11
+        name: service_quality_rating
+        label: Service Quality Rating
+        hint: Rate the quality of service
+        type: select_one
+        options:
+          - 5 - Excellent
+          - 4 - Good
+          - 3 - Average
+          - 2 - Poor
+          - 1 - Very Poor
+        required: true
+      - id: 12
+        name: staff_friendliness
+        label: Staff Friendliness
+        hint: Rate staff friendliness
+        type: select_one
+        options:
+          - 5 - Very Friendly
+          - 4 - Friendly
+          - 3 - Neutral
+          - 2 - Unfriendly
+          - 1 - Very Unfriendly
+        required: true
+      - id: 13
+        name: staff_knowledge
+        label: Staff Knowledge
+        hint: Rate staff knowledge and expertise
+        type: select_one
+        options:
+          - 5 - Very Knowledgeable
+          - 4 - Knowledgeable
+          - 3 - Adequate
+          - 2 - Lacking
+          - 1 - Very Lacking
+        required: true
+      - id: 14
+        name: response_time
+        label: Response Time
+        hint: How would you rate the response time
+        type: select_one
+        options:
+          - Very Fast
+          - Fast
+          - Acceptable
+          - Slow
+          - Very Slow
+        required: true
+      - id: 15
+        name: problem_resolution
+        label: Problem Resolution
+        hint: Was your problem resolved
+        type: select_one
+        options:
+          - Yes, Completely
+          - Yes, Partially
+          - No, Not Resolved
+          - No Problem Reported
+        required: true
+      - id: 16
+        name: value_for_money
+        label: Value for Money
+        hint: Rate the value for money
+        type: select_one
+        options:
+          - Excellent Value
+          - Good Value
+          - Fair Value
+          - Poor Value
+          - Very Poor Value
+        required: true
+      - id: 17
+        name: cleanliness_rating
+        label: Cleanliness Rating
+        hint: Rate the cleanliness of facility
+        type: select_one
+        options:
+          - 5 - Very Clean
+          - 4 - Clean
+          - 3 - Acceptable
+          - 2 - Dirty
+          - 1 - Very Dirty
+          - Not Applicable
+        required: false
+      - id: 18
+        name: wait_time
+        label: Wait Time
+        hint: How long did you wait
+        type: select_one
+        options:
+          - No Wait
+          - Less than 5 Minutes
+          - 5 to 15 Minutes
+          - 15 to 30 Minutes
+          - More than 30 Minutes
+        required: true
+      - id: 19
+        name: likelihood_to_recommend
+        label: Likelihood to Recommend
+        hint: How likely are you to recommend us
+        type: select_one
+        options:
+          - 10 - Extremely Likely
+          - 9 - Very Likely
+          - 8 - Likely
+          - 7 - Somewhat Likely
+          - 6 or Below - Not Likely
+        required: true
+      - id: 20
+        name: likelihood_to_return
+        label: Likelihood to Return
+        hint: How likely are you to return
+        type: select_one
+        options:
+          - Definitely Will Return
+          - Probably Will Return
+          - Might Return
+          - Probably Will Not Return
+          - Definitely Will Not Return
+        required: true
+      - id: 21
+        name: best_aspect
+        label: Best Aspect
+        hint: What was the best aspect of your experience
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: areas_for_improvement
+        label: Areas for Improvement
+        hint: What could we improve
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: follow_up_permission
+        label: Follow Up Permission
+        hint: May we contact you about your feedback
+        type: select_one
+        options:
+          - Yes, Please Contact Me
+          - No, Do Not Contact
+        required: true
+      - id: 25
+        name: survey_complete
+        label: Survey Complete
+        hint: Have you completed the survey
+        type: select_one
+        options:
+          - Yes, Complete
+          - No, Incomplete
+        required: true

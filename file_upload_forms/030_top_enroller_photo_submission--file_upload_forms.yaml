@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: top_enroller_photo_submission
+    pages:
+    - id: 1
+      name: user_info
+      label: User Info
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: participant_photo
+      label: Participant Photo
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_details
+      label: Participant Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: false

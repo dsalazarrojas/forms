@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Essential Oils Massage Feedback
+    pages:
+    - id: 1
+      name: massage_feedback
+      label: How would you rate your overall experience?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: therapist_rating
+      label: Therapist
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''1 - Not Satisfied'', ''value'': ''Not Satisfied''}'
+      - '{''label'': ''2 - Somewhat Satisfied'', ''value'': ''Somewhat Satisfied''}'
+      - '{''label'': ''3 - Neutral'', ''value'': ''Neutral''}'
+      - '{''label'': ''4 - Somewhat Satisfied'', ''value'': ''Somewhat Satisfied''}'
+      - '{''label'': ''5 - Very Satisfied'', ''value'': ''Very Satisfied''}'
+      required: false
+    - id: 3
+      name: massage_quality
+      label: The massage quality of your therapist
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Too Hard'', ''value'': ''Too Hard''}'
+      - '{''label'': ''Too Soft'', ''value'': ''Too Soft''}'
+      - '{''label'': ''Just right'', ''value'': ''Just right''}'
+      required: false
+    - id: 4
+      name: oil_selection
+      label: Which essential oil was used during the massage?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Lavender'', ''value'': ''Lavender''}'
+      - '{''label'': ''Eucalyptus'', ''value'': ''Eucalyptus''}'
+      - '{''label'': ''Frankincense'', ''value'': ''Frankincense''}'
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

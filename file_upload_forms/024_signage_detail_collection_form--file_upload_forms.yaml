@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: Signage Detail Collection Form
+    pages:
+    - id: 1
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: design_assets
+      label: Design Assets
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: approvals
+      label: Approvals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Pending
+      - Rejected
+      required: false
+    - id: 5
+      name: project_status_label
+      label: Project Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: sign_type
+      label: Sign Type
+      hint: null
+      type: select_multiple
+      options:
+      - Wall Sign
+      - Floor Sign
+      - Directional Sign
+      - Informational Sign
+      - Logo Sign
+      - Monument Sign
+      - Menu Board
+      - Directional Sign
+      - Directional Sign
+      required: false
+    - id: 7
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: sign_color
+      label: Sign Color
+      hint: null
+      type: select_one
+      options:
+      - Black
+      - White
+      - Blue
+      - Red
+      - Green
+      - Yellow
+      - Purple
+      - Orange
+      required: false
+    - id: 9
+      name: sign_size
+      label: Sign Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: project_budget
+      label: Project Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: project_start_date
+      label: Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: project_end_date
+      label: Project End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: file_uploader_1
+      label: File Uploader 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: file_uploader_2
+      label: File Uploader 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: project_approver
+      label: Project Approver
+      hint: null
+      type: select_multiple
+      options:
+      - John Doe
+      - Jane Smith
+      - Bob Johnson
+      required: false
+    - id: 16
+      name: project_approver_label
+      label: Project Approver
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: project_notes
+      label: Project Notes
+      hint: null
+      type: note
+      options: []
+      required: false

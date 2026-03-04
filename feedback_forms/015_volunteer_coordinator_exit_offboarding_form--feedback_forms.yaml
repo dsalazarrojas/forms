@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Volunteer Coordinator Exit Offboarding Form
+    pages:
+    - id: 1
+      name: volunteer_coordinator_exit_offboarding_form_page_1
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: volunteer_coordinator_exit_offboarding_form_page_2
+      label: Offboarding Process
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Satisfied'', ''value'': 4}'
+      - '{''label'': ''Somewhat Satisfied'', ''value'': 2}'
+      - '{''label'': ''Not Satisfied'', ''value'': 1}'
+      required: true
+    - id: 3
+      name: volunteer_coordinator_exit_offboarding_form_page_3
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: volunteer_coordinator_exit_offboarding_form_page_4
+      label: Future Opportunities
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Continue volunteering'', ''value'': 1}'
+      - '{''label'': ''Maybe'', ''value'': 2}'
+      - '{''label'': ''None'', ''value'': 3}'
+      required: true
+    - id: 5
+      name: volunteer_coordinator_exit_offboarding_form_page_5
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: volunteer_coordinator_exit_offboarding_form_page_6
+      label: volunteer_coordinator_exit_offboarding_form_page_6
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: volunteer_coordinator_exit_offboarding_form_page_7
+      label: volunteer_coordinator_exit_offboarding_form_page_7
+      hint: null
+      type: text
+      options: []
+      required: false

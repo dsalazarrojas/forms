@@ -1,0 +1,249 @@
+inputSchema:
+  type: object
+  properties:
+    title: Milestone Sharing Survey
+    pages:
+    - id: 1
+      name: milestone_sharing_survey
+      label: Project
+      hint: null
+      type: select_one
+      options:
+      - Milestone Sharing
+      - Project Management
+      - Project Initiation
+      - Project Planning
+      - Project Execution
+      - Project Closure
+      - Project Monitoring
+      - Project Control
+      - Project Support
+      - Project Review
+      - Project Approval
+      - Project Scheduling
+      - Project Budgeting
+      - Project Reporting
+      - Project Quality
+      - Project Risk Management
+      - Project Quality Management
+      - Project Change Management
+      required: false
+    - id: 2
+      name: milestone_sharing_survey_project
+      label: Project
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: milestone_sharing_survey_project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: milestone_sharing_survey_project_phase
+      label: Project Phase
+      hint: null
+      type: select_one
+      options:
+      - Initiation Phase
+      - Planning Phase
+      - Execution Phase
+      - Closure Phase
+      - Monitoring Phase
+      - Control Phase
+      - Support Phase
+      required: true
+    - id: 5
+      name: milestone_sharing_survey_project_phase_details
+      label: Project Phase Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: milestone_sharing_survey_wins
+      label: Wins
+      hint: null
+      type: select_multiple
+      options:
+      - Project Wins
+      - Departmental Wins
+      - Personal Wins
+      - Milestone Wins
+      - Team Wins
+      - Process Wins
+      - Product Wins
+      - Quality Wins
+      - Scheduling Wins
+      - Resource Wins
+      - Scope Wins
+      - Budget Wins
+      - Risk Wins
+      required: true
+    - id: 7
+      name: milestone_sharing_survey_wins_details
+      label: Wins Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: milestone_sharing_survey_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: milestone_sharing_survey_date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: milestone_sharing_survey_time_submitted
+      label: Time Submitted
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: milestone_sharing_survey_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: milestone_sharing_survey_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: milestone_sharing_survey_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: milestone_sharing_survey_additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: milestone_sharing_survey_suggestions
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: milestone_sharing_survey_project_lead
+      label: Project Lead
+      hint: null
+      type: select_one
+      options:
+      - Lead 1
+      - Lead 2
+      - Lead 3
+      - Lead 4
+      - Lead 5
+      - Lead 6
+      required: true
+    - id: 17
+      name: milestone_sharing_survey_team_member
+      label: Team Member
+      hint: null
+      type: select_multiple
+      options:
+      - Team 1
+      - Team 2
+      - Team 3
+      - Team 4
+      - Team 5
+      - Team 6
+      - Team 7
+      - Team 8
+      - Team 9
+      - Team 10
+      required: true
+    - id: 18
+      name: milestone_sharing_survey_department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Department 1
+      - Department 2
+      - Department 3
+      - Department 4
+      - Department 5
+      - Department 6
+      - Department 7
+      - Department 8
+      - Department 9
+      - Department 10
+      required: true
+    - id: 19
+      name: milestone_sharing_survey_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: milestone_sharing_survey_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 21
+      name: milestone_sharing_survey_file
+      label: File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: milestone_sharing_survey_additional_file
+      label: Additional File
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: milestone_sharing_survey_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: milestone_sharing_survey_additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: milestone_sharing_survey_satisfied
+      label: Satisfied
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Very Satisfied
+      - Neutral
+      - Somewhat Satisfied
+      - Very Somewhat Satisfied
+      required: true

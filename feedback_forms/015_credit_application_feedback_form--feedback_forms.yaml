@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: Credit Application Feedback Form
+    pages:
+    - id: 1
+      name: overall_experience
+      label: Overall Experience
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: application_process
+      label: Application Process
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: communication
+      label: Communication
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: application_outcome
+      label: Application Outcome
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: application_outcome_other
+      label: If Other, please specify
+      hint: null
+      type: text
+      options: []
+      required: false

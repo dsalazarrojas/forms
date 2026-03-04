@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: in_flight_service_feedback_questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: cabin
+      label: cabin
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: route
+      label: route
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: overall_satisfaction
+      label: overall_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Very good
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 5
+      name: service_quality
+      label: service_quality
+      hint: Please provide feedback on in-flight service quality
+      type: select_multiple
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 6
+      name: seat
+      label: seat
+      hint: null
+      type: select_one
+      options:
+      - Window
+      - Aisle
+      - Cabin
+      - First Class
+      required: false
+    - id: 7
+      name: seat_preferred
+      label: seat_preferred
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: flight_experience
+      label: flight_experience
+      hint: Please describe the positive or negative experiences you have had on this
+        flight.
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

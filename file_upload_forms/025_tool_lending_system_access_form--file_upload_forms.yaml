@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tool Lending System Access Form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: tool_type
+      label: Tool Type
+      hint: null
+      type: select_one
+      options:
+      - Hand Tool
+      - Machine Tool
+      - Equipment
+      required: true
+    - id: 7
+      name: tool_location
+      label: Tool Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: user_agreement
+      label: User Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - I understand the Tool Lending System policies and procedures
+      - I will return the tool in good condition
+      - I will not lend the tool to others without authorization
+      required: true
+    - id: 9
+      name: tool_lending_start_date
+      label: Tool Lending Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: tool_lending_end_date
+      label: Tool Lending End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: tool_return_date
+      label: Tool Return Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: tool_status
+      label: Tool Status
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - In Use
+      - Lended
+      - Returned
+      required: true
+    - id: 13
+      name: tool_note
+      label: Tool Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: organization_id
+      label: Organization ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: tool_status_update
+      label: Tool Status Update
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: tool_condition
+      label: Tool Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: tool_serial_number
+      label: Tool Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: tool_model_number
+      label: Tool Model Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: tool_manufacturer
+      label: Tool Manufacturer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: tool_purchase_date
+      label: Tool Purchase Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: tool_warranty_start_date
+      label: Tool Warranty Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: tool_warranty_end_date
+      label: Tool Warranty End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: tool_notes
+      label: Tool Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: assigned_tool_status_update
+      label: Assigned Tool Status Update
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: EMR Connection Feedback Survey
+    pages:
+    - id: 1
+      name: emr_connection
+      label: EMR Connection
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: overall_rating
+      label: Overall Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: system_usability
+      label: System Usability
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: system_usability_what_works
+      label: What Works
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 5
+      name: system_usability_what_doesnt_work
+      label: What Doesn't Work
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 6
+      name: system_usability_comments
+      label: System Usability Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: user_experience
+      label: User Experience
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: system_usability_improvement
+      label: System Usability Improvement
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      required: false
+    - id: 9
+      name: user_experience_improvement
+      label: User Experience Improvement
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      required: false
+    - id: 10
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

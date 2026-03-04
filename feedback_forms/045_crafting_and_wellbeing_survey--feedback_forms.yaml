@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: crafting_and_wellbeing_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: crafting_frequency
+      label: How many hours do you spend on crafting activities per week?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: wellbeing_impact
+      label: What positive impact do you feel crafting has on your wellbeing?
+      hint: null
+      type: select_multiple
+      options:
+      - Reduced stress
+      - Increased self-esteem
+      - Better mood
+      - More sleep
+      required: false
+    - id: 4
+      name: wellbeing_impact_other
+      label: Other wellbeing benefits of crafting
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: craft_type
+      label: What type of crafting activities do you enjoy?
+      hint: null
+      type: select_one
+      options:
+      - Drawing
+      - Knitting
+      - Woodworking
+      - Sewing
+      - Painting
+      - Crafting with others
+      - Other
+      required: false
+    - id: 6
+      name: community_involvement
+      label: Have you been involved in a crafting community or group?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Sometimes
+      required: false
+    - id: 7
+      name: craft_location
+      label: Where do you usually do your crafting?
+      hint: null
+      type: select_one
+      options:
+      - Home
+      - Community center
+      - Workshop
+      - Other
+      required: false
+    - id: 8
+      name: craft_frequency_other
+      label: Other places where you do your crafting
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: wellbeing_impact_other_why
+      label: Why do you think crafting affects your wellbeing?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: craft_help_other
+      label: What other ways has crafting helped you?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: wellbeing_support
+      label: Who supports or encourages you in your crafting activities?
+      hint: null
+      type: select_multiple
+      options:
+      - Partner
+      - Friend
+      - Family member
+      - Other
+      required: false
+    - id: 12
+      name: wellbeing_support_other
+      label: Other people who support your crafting activities
+      hint: null
+      type: text
+      options: []
+      required: false

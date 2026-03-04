@@ -1,0 +1,45 @@
+inputSchema:
+  type: object
+  properties:
+    title: leadership_network_feedback
+    pages:
+    - id: 1
+      name: leadership_program_feedback
+      label: Leadership Program Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: event_attendance
+      label: Event Attendance
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: false
+    - id: 3
+      name: communication_channels
+      label: Communication Channels
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Email'', ''value'': ''email''}'
+      - '{''label'': ''Phone'', ''value'': ''phone''}'
+      - '{''label'': ''Chat'', ''value'': ''chat''}'
+      required: false
+    - id: 4
+      name: event_satisfaction
+      label: Event Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: communication_effectiveness
+      label: Communication Effectiveness
+      hint: null
+      type: text
+      options: []
+      required: false

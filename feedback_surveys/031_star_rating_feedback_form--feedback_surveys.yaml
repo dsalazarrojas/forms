@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Star Rating Feedback Form
+    pages:
+    - id: 1
+      name: star_rating_form
+      label: Star Rating Form
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 2
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: star_rating_1
+      label: Star rating 1
+      hint: Rate this experience 1 to 5 stars
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: star_rating_2
+      label: Star rating 2
+      hint: Rate this experience 1 to 5 stars
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: star_rating_3
+      label: Star rating 3
+      hint: Rate this experience 1 to 5 stars
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: additional_feedback
+      label: Additional feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact_email
+      label: Contact E-mail
+      hint: Contact info
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_name
+      label: Your Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comment
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: rating
+      label: Rating
+      hint: Average rating 1-5
+      type: number
+      options: []
+      required: false

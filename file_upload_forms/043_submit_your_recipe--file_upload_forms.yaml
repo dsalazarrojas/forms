@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: submit_your_recipe
+    pages:
+    - id: 1
+      name: recipe_title
+      label: Submit Your Recipe
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: recipe_image
+      label: Recipe Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: recipe_description
+      label: Recipe Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Beef
+      - Pork
+      - Chicken
+      - Vegetarian
+      - Seafood
+      required: false
+    - id: 5
+      name: cooking_time
+      label: Cooking Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: serving_size
+      label: Serving Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: ingredients
+      label: Ingredients
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submit_recipe
+      label: Submit Recipe
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Cancel
+      required: false

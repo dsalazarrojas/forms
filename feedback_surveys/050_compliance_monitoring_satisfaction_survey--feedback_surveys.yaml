@@ -1,0 +1,322 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Compliance Monitoring Satisfaction Survey
+    pages:
+      - id: 1
+        name: survey_intro
+        label: Compliance Monitoring Satisfaction Survey
+        hint: Share your feedback on compliance monitoring processes
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: respondent_name
+        label: Your Name
+        hint: Optional - can be anonymous
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: respondent_email
+        label: Your Email
+        hint: Optional - for follow-up
+        type: email
+        options: []
+        required: false
+      - id: 4
+        name: department
+        label: Department
+        hint: Your department
+        type: select_one
+        options:
+          - Human Resources
+          - Finance
+          - Operations
+          - IT
+          - Legal
+          - Compliance
+          - Risk Management
+          - Audit
+          - Quality Assurance
+          - Other
+        required: true
+      - id: 5
+        name: role
+        label: Your Role
+        hint: Your position
+        type: select_one
+        options:
+          - Executive
+          - Senior Manager
+          - Manager
+          - Team Lead
+          - Individual Contributor
+          - Contractor
+          - Other
+        required: true
+      - id: 6
+        name: tenure
+        label: Time with Company
+        hint: How long have you worked here
+        type: select_one
+        options:
+          - Less than 1 year
+          - 1 to 3 years
+          - 4 to 6 years
+          - 7 to 10 years
+          - Over 10 years
+        required: true
+      - id: 7
+        name: monitoring_frequency
+        label: How Often Are You Monitored
+        hint: Frequency of compliance monitoring
+        type: select_one
+        options:
+          - Continuous
+          - Weekly
+          - Monthly
+          - Quarterly
+          - Annually
+          - Rarely
+          - Never
+        required: true
+      - id: 8
+        name: monitoring_types
+        label: Types of Monitoring Experienced
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Automated system monitoring
+          - Manual audits
+          - Self-assessments
+          - Peer reviews
+          - Manager reviews
+          - External audits
+          - Regulatory inspections
+          - Other
+        required: true
+      - id: 9
+        name: monitoring_clarity
+        label: Clarity of Monitoring Requirements
+        hint: Do you understand what is monitored
+        type: select_one
+        options:
+          - Very clear
+          - Somewhat clear
+          - Neutral
+          - Somewhat unclear
+          - Very unclear
+        required: true
+      - id: 10
+        name: monitoring_fairness
+        label: Fairness of Monitoring
+        hint: Is monitoring applied fairly
+        type: select_one
+        options:
+          - Very fair
+          - Somewhat fair
+          - Neutral
+          - Somewhat unfair
+          - Very unfair
+        required: true
+      - id: 11
+        name: monitoring_frequency_appropriate
+        label: Is Monitoring Frequency Appropriate
+        hint: Too much too little or just right
+        type: select_one
+        options:
+          - Too frequent
+          - Somewhat too frequent
+          - Just right
+          - Somewhat infrequent
+          - Too infrequent
+        required: true
+      - id: 12
+        name: monitoring_burden
+        label: Monitoring Burden
+        hint: How burdensome is monitoring
+        type: select_one
+        options:
+          - Not burdensome at all
+          - Slightly burdensome
+          - Moderately burdensome
+          - Very burdensome
+          - Extremely burdensome
+        required: true
+      - id: 13
+        name: feedback_quality
+        label: Quality of Feedback Received
+        hint: Is feedback from monitoring helpful
+        type: select_one
+        options:
+          - Very helpful
+          - Somewhat helpful
+          - Neutral
+          - Not very helpful
+          - Not helpful at all
+          - No feedback received
+        required: true
+      - id: 14
+        name: feedback_timeliness
+        label: Timeliness of Feedback
+        hint: Is feedback provided promptly
+        type: select_one
+        options:
+          - Very timely
+          - Somewhat timely
+          - Neutral
+          - Somewhat delayed
+          - Very delayed
+          - No feedback received
+        required: true
+      - id: 15
+        name: monitoring_transparency
+        label: Transparency of Monitoring Process
+        hint: How transparent is the process
+        type: select_one
+        options:
+          - Very transparent
+          - Somewhat transparent
+          - Neutral
+          - Somewhat opaque
+          - Very opaque
+        required: true
+      - id: 16
+        name: monitoring_communication
+        label: Communication About Monitoring
+        hint: How well is monitoring communicated
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+          - Very poor
+        required: true
+      - id: 17
+        name: monitoring_tools
+        label: Quality of Monitoring Tools
+        hint: Are tools effective and user-friendly
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Fair
+          - Poor
+          - Very poor
+          - Not applicable
+        required: true
+      - id: 18
+        name: monitoring_impact_productivity
+        label: Impact on Productivity
+        hint: Does monitoring affect your work
+        type: select_one
+        options:
+          - Improves productivity
+          - No impact
+          - Slight negative impact
+          - Moderate negative impact
+          - Significant negative impact
+        required: true
+      - id: 19
+        name: monitoring_impact_morale
+        label: Impact on Morale
+        hint: Does monitoring affect morale
+        type: select_one
+        options:
+          - Improves morale
+          - No impact
+          - Slight negative impact
+          - Moderate negative impact
+          - Significant negative impact
+        required: true
+      - id: 20
+        name: monitoring_value
+        label: Perceived Value of Monitoring
+        hint: Is monitoring worthwhile
+        type: select_one
+        options:
+          - Very valuable
+          - Somewhat valuable
+          - Neutral
+          - Not very valuable
+          - Not valuable at all
+        required: true
+      - id: 21
+        name: confidence_in_compliance
+        label: Confidence in Compliance Status
+        hint: Do you feel confident about compliance
+        type: select_one
+        options:
+          - Very confident
+          - Somewhat confident
+          - Neutral
+          - Somewhat unsure
+          - Very unsure
+        required: true
+      - id: 22
+        name: monitoring_support
+        label: Support Received for Compliance
+        hint: Is support adequate
+        type: select_one
+        options:
+          - Very adequate
+          - Somewhat adequate
+          - Neutral
+          - Somewhat inadequate
+          - Very inadequate
+        required: true
+      - id: 23
+        name: training_adequacy
+        label: Training for Compliance
+        hint: Is training adequate
+        type: select_one
+        options:
+          - Very adequate
+          - Somewhat adequate
+          - Neutral
+          - Somewhat inadequate
+          - Very inadequate
+        required: true
+      - id: 24
+        name: monitoring_improvements
+        label: What Should Be Improved
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Communication
+          - Frequency
+          - Tools and systems
+          - Feedback quality
+          - Training
+          - Transparency
+          - Fairness
+          - None - satisfied
+          - Other
+        required: false
+      - id: 25
+        name: specific_suggestions
+        label: Specific Suggestions
+        hint: Your ideas for improvement
+        type: text
+        options: []
+        required: false
+      - id: 26
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other feedback
+        type: text
+        options: []
+        required: false
