@@ -778,7 +778,11 @@
           const opts = page.options || [];
           inputHtml = `<select class="preview-input" ${required ? 'required' : ''}>
             <option value="">Select an option…</option>
-            ${opts.map(o => `<option value="${o}">${o}</option>`).join('')}
+            ${opts.map(o => {
+              const label = normalizeOptionLabel(o);
+              const safe = escapeHtml(label);
+              return `<option value="${safe}">${safe}</option>`;
+            }).join('')}
           </select>`;
           break;
         }
@@ -786,14 +790,18 @@
         case 'select_multiple': {
           const mopts = page.options || [];
           inputHtml = `<div class="space-y-2 mt-1">
-            ${mopts.map((o, i) => `
+            ${mopts.map((o, i) => {
+              const label = normalizeOptionLabel(o);
+              const safe = escapeHtml(label);
+              return `
               <label class="flex items-center gap-2 text-sm cursor-pointer">
-                <input type="checkbox" name="${page.name || 'q' + index}" value="${o}"
+                <input type="checkbox" name="${page.name || 'q' + index}" value="${safe}"
                   class="rounded border-slate-300 dark:border-slate-600 text-primary focus:ring-primary"
                   style="accent-color:#ec5b13;">
-                <span class="text-slate-700 dark:text-slate-300">${o}</span>
+                <span class="text-slate-700 dark:text-slate-300">${safe}</span>
               </label>
-            `).join('')}
+            `;
+            }).join('')}
           </div>`;
           break;
         }
@@ -829,6 +837,42 @@
           </button>
         </div>
       </form>`;
+  }
+
+  function normalizeOptionLabel(option) {
+    if (option === null || option === undefined) return '';
+    if (typeof option === 'object') {
+      if (option.label !== undefined) return String(option.label);
+      if (option.value !== undefined) return String(option.value);
+      return JSON.stringify(option);
+    }
+
+    const raw = String(option).trim();
+    if (!raw) return '';
+
+    // JSON-style option object.
+    try {
+      const parsed = JSON.parse(raw);
+      if (parsed && typeof parsed === 'object') {
+        if (parsed.label !== undefined) return String(parsed.label);
+        if (parsed.value !== undefined) return String(parsed.value);
+      }
+    } catch (_) {}
+
+    // Python-dict style strings, e.g. "{'id': 1, 'label': 'Passed'}"
+    const labelMatch = raw.match(/['"]label['"]\s*:\s*([^,}]+)/i);
+    if (labelMatch) {
+      let value = labelMatch[1].trim();
+      if ((value.startsWith("'") && value.endsWith("'")) || (value.startsWith('"') && value.endsWith('"'))) {
+        value = value.slice(1, -1);
+      }
+      if (value === 'True') return 'True';
+      if (value === 'False') return 'False';
+      if (value === 'None') return '';
+      return value;
+    }
+
+    return raw;
   }
 
   // ─── Stats panel ─────────────────────────────────────────────────────────────
