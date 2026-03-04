@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Feedback On Transition Process
+    pages:
+    - id: 1
+      name: transition_process
+      label: Transition Process
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: workplace_educational_setting
+      label: Workplace or Educational Setting
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 3
+      name: transition_type
+      label: Type of Transition
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 4
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comment
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

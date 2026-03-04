@@ -1,0 +1,146 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Research Study Information Collection Form
+    pages:
+    - id: 1
+      name: section_contact_info
+      label: -- Participant Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your legal first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your legal last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Primary contact email for study updates
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Mobile or landline including area code
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_demographics
+      label: -- Demographics and Eligibility --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: age
+      label: Current Age
+      hint: Enter age in years
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: gender
+      label: Gender Identity
+      hint: Select the option that best describes you
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      required: true
+    - id: 9
+      name: student_status
+      label: Current Student Status
+      hint: Select your current academic standing
+      type: select_one
+      options:
+      - Undergraduate
+      - Graduate
+      - Ph.D. Candidate
+      - Not a Student
+      required: true
+    - id: 10
+      name: major_field_of_study
+      label: Major or Field of Study
+      hint: Your primary area of academic focus
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: section_interests
+      label: -- Research Interests --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: interested_topics
+      label: Topics you are interested in researching
+      hint: Select all that apply to you
+      type: select_multiple
+      options:
+      - Social Sciences
+      - Natural Sciences
+      - Humanities
+      - Technology
+      - Medicine
+      - Arts
+      required: true
+    - id: 13
+      name: participation_availability
+      label: Preferred time for study participation
+      hint: General availability for sessions
+      type: select_one
+      options:
+      - Mornings
+      - Afternoons
+      - Evenings
+      - Weekends
+      required: true
+    - id: 14
+      name: previous_participation
+      label: Have you participated in a research study before?
+      hint: Previous experience as a participant
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: discovery_source
+      label: How did you hear about this study?
+      hint: e.g. Social media, email, flyer
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: section_consent
+      label: -- Consent for Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: consent_to_contact
+      label: Do you consent to being contacted for future studies?
+      hint: Authorization for future recruitment
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

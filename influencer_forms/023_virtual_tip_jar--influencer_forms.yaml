@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Tip Jar
+    pages:
+    - id: 1
+      name: service_worker_service_worker
+      label: Service Worker
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tip_amount
+      label: Tip Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: tip_currency
+      label: Tip Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - CAD
+      - EUR
+      required: false
+    - id: 4
+      name: tip_message
+      label: Tip Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: service_worker_email
+      label: Service Worker Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: service_worker_phone
+      label: Service Worker Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - other
+      required: false
+    - id: 8
+      name: assigned_tool_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false

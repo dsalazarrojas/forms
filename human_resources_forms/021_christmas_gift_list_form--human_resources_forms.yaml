@@ -1,0 +1,176 @@
+inputSchema:
+  type: object
+  properties:
+    title: Christmas Gift List Form
+    pages:
+    - id: 1
+      name: employee_info
+      label: -- Employee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: gift_preferences
+      label: -- Gift Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: interest_categories
+      label: Interest Categories
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Technology
+      - Fashion
+      - Sports
+      - Home and garden
+      - Books
+      - Music
+      - Art and crafts
+      - Food and beverages
+      - Travel
+      - Wellness
+      required: true
+    - id: 10
+      name: gift_type
+      label: Preferred Gift Type
+      hint: null
+      type: select_one
+      options:
+      - Physical gift
+      - Gift card
+      - Experience
+      - Combination
+      - Flexible
+      required: true
+    - id: 11
+      name: budget_preference
+      label: Budget Range Preference
+      hint: null
+      type: select_one
+      options:
+      - Under $25
+      - $25-$50
+      - $50-$75
+      - $75-$100
+      - Over $100
+      required: true
+    - id: 12
+      name: specific_items
+      label: Specific Items You Would Like
+      hint: List 3-5 items
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: brands_preferences
+      label: Preferred Brands or Retailers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: restrictions
+      label: -- Restrictions & Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: items_to_avoid
+      label: Items to Avoid
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: allergies
+      label: Allergies or Sensitivities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: size_info
+      label: Size Information (if applicable)
+      hint: e.g., clothing size, shoe size
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: charity_preference
+      label: Would you prefer a donation to charity instead?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Either
+      required: false
+    - id: 19
+      name: charity_type
+      label: Preferred Charity Type
+      hint: null
+      type: select_one
+      options:
+      - Animal welfare
+      - Children
+      - Education
+      - Healthcare
+      - Hunger relief
+      - Homelessness
+      - Environment
+      - Other
+      required: false
+    - id: 20
+      name: additional_notes
+      label: Additional Notes or Special Requests
+      hint: null
+      type: text
+      options: []
+      required: false

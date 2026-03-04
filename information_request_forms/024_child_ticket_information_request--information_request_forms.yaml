@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Child Ticket Information Request
+    pages:
+    - id: 1
+      name: request_date
+      label: Request Date
+      hint: Date of ticket information request
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: requester_first_name
+      label: Requester First Name
+      hint: Legal first name of person requesting information
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_last_name
+      label: Requester Last Name
+      hint: Legal last name of person requesting information
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: requester_email
+      label: Requester Email
+      hint: Primary email address for contact
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: requester_phone
+      label: Requester Phone
+      hint: Primary phone number for contact
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: organization_name
+      label: Organization Name
+      hint: Name of your organization if applicable
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_name
+      label: Event Name
+      hint: Name of the event you are inquiring about
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: event_date
+      label: Event Date
+      hint: Date of the event
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: event_location
+      label: Event Location
+      hint: Location or venue of the event
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: ticket_type_requested
+      label: Ticket Type Requested
+      hint: What type of tickets are you inquiring about?
+      type: select_one
+      options:
+      - General admission
+      - VIP or premium
+      - Group tickets
+      - Season tickets
+      - Complimentary tickets
+      - Discounted tickets
+      - Other
+      required: true
+    - id: 11
+      name: number_of_child_tickets
+      label: Number of Child Tickets
+      hint: How many child tickets do you need?
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: number_of_adult_tickets
+      label: Number of Adult Tickets
+      hint: How many adult tickets do you need?
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: child_age_range
+      label: Child Age Range
+      hint: What is the age range of the children?
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: purpose_of_request
+      label: Purpose of Request
+      hint: What is the purpose of this ticket request?
+      type: select_one
+      options:
+      - Personal attendance
+      - School group
+      - Youth organization
+      - Community group
+      - Charity or nonprofit
+      - Corporate event
+      - Other
+      required: true
+    - id: 15
+      name: organization_type
+      label: Organization Type
+      hint: What type of organization are you representing?
+      type: select_one
+      options:
+      - School or educational
+      - Nonprofit or charity
+      - Youth sports
+      - Religious organization
+      - Community group
+      - Not applicable
+      - Other
+      required: false
+    - id: 16
+      name: budget_range
+      label: Budget Range
+      hint: What is your approximate budget for tickets?
+      type: select_one
+      options:
+      - Under $100
+      - $100 to $500
+      - $500 to $1000
+      - $1000 to $5000
+      - Over $5000
+      - Seeking complimentary tickets
+      - Unsure
+      required: false
+    - id: 17
+      name: financial_assistance_needed
+      label: Financial Assistance Needed
+      hint: Are you seeking financial assistance or discounts?
+      type: select_one
+      options:
+      - Yes, full assistance
+      - Yes, partial discount
+      - No, full price acceptable
+      - Unsure
+      required: true
+    - id: 18
+      name: seating_preferences
+      label: Seating Preferences
+      hint: Do you have any seating preferences?
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Are there any accessibility requirements?
+      type: select_multiple
+      options:
+      - Wheelchair accessible seating
+      - Assistive listening devices
+      - Sign language interpreter
+      - Service animal accommodation
+      - Other
+      - None
+      required: true
+    - id: 20
+      name: special_accommodations
+      label: Special Accommodations
+      hint: Any other special accommodations needed?
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: payment_method
+      label: Payment Method
+      hint: How do you plan to pay for tickets?
+      type: select_one
+      options:
+      - Credit card
+      - Debit card
+      - Check
+      - Purchase order
+      - Invoice billing
+      - Seeking sponsorship
+      - Other
+      required: false
+    - id: 22
+      name: deadline_for_response
+      label: Deadline for Response
+      hint: When do you need a response by?
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: additional_information
+      label: Additional Information
+      hint: Any additional information or special requests
+      type: text
+      options: []
+      required: false

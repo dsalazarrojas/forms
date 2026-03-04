@@ -1,0 +1,194 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Application Memory Error Report Form
+    pages:
+    - id: 1
+      name: report_information
+      label: -- Report Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: report_time
+      label: Time of Incident
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: reporter_name
+      label: Reporter Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: reporter_email
+      label: Reporter Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: incident_severity
+      label: Incident Severity Level
+      hint: null
+      type: select_one
+      options:
+      - Critical - Application crashed
+      - High - Major functionality impaired
+      - Medium - Minor functionality issue
+      - Low - Informational only
+      required: true
+    - id: 7
+      name: error_details
+      label: -- Error Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: error_type
+      label: Error Type
+      hint: null
+      type: select_one
+      options:
+      - Memory leak
+      - Buffer overflow
+      - Stack overflow
+      - Out of memory
+      - Memory access violation
+      - Heap corruption
+      - Other
+      required: true
+    - id: 9
+      name: error_message
+      label: Error Message or Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: error_description
+      label: Detailed Description of Error
+      hint: What was happening when the error occurred?
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: memory_usage_at_error
+      label: Approximate memory usage at time of error
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: environment_details
+      label: -- Environment Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: application_name
+      label: Application Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: application_version
+      label: Application Version
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: operating_system
+      label: Operating System
+      hint: null
+      type: select_one
+      options:
+      - Windows
+      - macOS
+      - Linux
+      - iOS
+      - Android
+      - Other
+      required: true
+    - id: 16
+      name: os_version
+      label: Operating System Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: hardware_specification
+      label: Hardware Specification
+      hint: RAM, processor, disk space
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: reproduction_steps
+      label: -- Reproduction Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: reproducible
+      label: Is the error reproducible?
+      hint: null
+      type: select_one
+      options:
+      - Always reproducible
+      - Sometimes reproducible
+      - Rarely reproducible
+      - Cannot reproduce
+      required: true
+    - id: 20
+      name: reproduction_steps_detailed
+      label: Steps to reproduce the error
+      hint: List specific actions that trigger the error
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: attachments_available
+      label: Do you have log files or crash dumps?
+      hint: null
+      type: select_one
+      options:
+      - Yes, attached
+      - Yes, available separately
+      - No
+      required: false
+    - id: 22
+      name: additional_information
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false

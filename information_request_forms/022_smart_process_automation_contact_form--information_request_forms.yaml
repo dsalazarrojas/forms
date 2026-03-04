@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart Process Automation Contact Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: inquiry_type
+      label: Inquiry Type
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Automation''}'
+      - '{''name'': ''Automation''}'
+      - '{''name'': ''Consultation''}'
+      - '{''name'': ''Other''}'
+      - '{''name'': ''Other''}'
+      required: false
+    - id: 7
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false

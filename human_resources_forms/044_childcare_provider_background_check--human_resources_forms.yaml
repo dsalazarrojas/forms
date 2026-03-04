@@ -1,0 +1,285 @@
+inputSchema:
+  type: object
+  properties:
+    title: Childcare Provider Background Check
+    pages:
+    - id: 1
+      name: application_date
+      label: Application Date
+      hint: Date of background check application
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: applicant_first_name
+      label: Applicant First Name
+      hint: Legal first name of applicant
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: applicant_middle_name
+      label: Applicant Middle Name
+      hint: Legal middle name of applicant
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: applicant_last_name
+      label: Applicant Last Name
+      hint: Legal last name of applicant
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: applicant_suffix
+      label: Applicant Suffix
+      hint: Suffix (Jr., Sr., III, etc.)
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: applicant_email
+      label: Applicant Email
+      hint: Primary email address
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: applicant_phone
+      label: Applicant Phone
+      hint: Primary phone number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: current_address
+      label: Current Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: current_city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: current_state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: current_zip
+      label: Zip Code
+      hint: Postal or zip code
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: years_at_address
+      label: Years at Current Address
+      hint: How long have you lived at this address?
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1 to 2 years
+      - 3 to 5 years
+      - 6 to 10 years
+      - More than 10 years
+      required: true
+    - id: 13
+      name: previous_address
+      label: Previous Address
+      hint: Previous address if at current address less than 5 years
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: date_of_birth
+      label: Date of Birth
+      hint: Please provide your birth date
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: place_of_birth
+      label: Place of Birth
+      hint: City and state or country of birth
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: social_security_number
+      label: Social Security Number
+      hint: Your social security number
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: drivers_license_number
+      label: Driver License Number
+      hint: Your driver license number
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: drivers_license_state
+      label: Driver License State
+      hint: State that issued your license
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: position_applied_for
+      label: Position Applied For
+      hint: What position are you applying for?
+      type: select_one
+      options:
+      - Lead teacher
+      - Assistant teacher
+      - Teacher aide
+      - Daycare provider
+      - Program director
+      - Administrative staff
+      - Substitute
+      - Other
+      required: true
+    - id: 20
+      name: previous_childcare_experience
+      label: Previous Childcare Experience
+      hint: Do you have previous childcare experience?
+      type: select_one
+      options:
+      - Yes, 5+ years
+      - Yes, 3 to 5 years
+      - Yes, 1 to 3 years
+      - Yes, less than 1 year
+      - false
+      required: true
+    - id: 21
+      name: experience_details
+      label: Experience Details
+      hint: Describe your previous childcare experience
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: certifications_held
+      label: Certifications Held
+      hint: List any relevant certifications
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: cpr_first_aid_certified
+      label: CPR and First Aid Certified
+      hint: Are you CPR and First Aid certified?
+      type: select_one
+      options:
+      - Yes, current certification
+      - Yes, but expired
+      - No, but willing to obtain
+      - false
+      required: true
+    - id: 24
+      name: criminal_history
+      label: Criminal History
+      hint: Have you ever been convicted of a crime?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 25
+      name: criminal_history_details
+      label: Criminal History Details
+      hint: If yes, please provide details
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: child_abuse_registry_check
+      label: Child Abuse Registry Check
+      hint: Have you ever been listed on a child abuse registry?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 27
+      name: reference_1_name
+      label: Reference 1 Name
+      hint: Full name of first reference
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: reference_1_relationship
+      label: Reference 1 Relationship
+      hint: Relationship to you
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: reference_1_phone
+      label: Reference 1 Phone
+      hint: Phone number for first reference
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: reference_1_email
+      label: Reference 1 Email
+      hint: Email for first reference
+      type: email
+      options: []
+      required: true
+    - id: 31
+      name: reference_2_name
+      label: Reference 2 Name
+      hint: Full name of second reference
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: reference_2_phone
+      label: Reference 2 Phone
+      hint: Phone number for second reference
+      type: text
+      options: []
+      required: true
+    - id: 33
+      name: reference_2_email
+      label: Reference 2 Email
+      hint: Email for second reference
+      type: email
+      options: []
+      required: true
+    - id: 34
+      name: consent_for_background_check
+      label: Consent for Background Check
+      hint: Do you consent to a background check?
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 35
+      name: applicant_signature
+      label: Applicant Signature
+      hint: Type your full name as your electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 36
+      name: signature_date
+      label: Signature Date
+      hint: Date of electronic signature
+      type: date
+      options: []
+      required: true

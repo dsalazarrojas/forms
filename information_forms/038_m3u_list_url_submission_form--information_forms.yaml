@@ -1,0 +1,30 @@
+inputSchema:
+  type: object
+  properties:
+    title: M3U List URL Submission Form
+    pages:
+    - id: 1
+      name: m3u_list_url
+      label: M3U List URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: usage_details
+      label: Usage Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''I accept'', ''value'': ''I accept''}'
+      - '{''id'': 2, ''name'': ''Do not accept'', ''value'': ''Do not accept''}'
+      required: false

@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rendition Download Request Form
+    pages:
+    - id: 1
+      name: rendition_download_request_form
+      label: Rendition Download Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: rendition_format
+      label: Rendition Format
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: delivery_timeline
+      label: Delivery Timeline
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: file_rendition
+      label: File Rendition
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: file_name
+      label: File Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: file_type
+      label: File Type
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: file_version
+      label: File Version
+      hint: null
+      type: number
+      options: []
+      required: false

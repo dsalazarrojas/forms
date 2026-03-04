@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Expense Reimbursement Form With Calculations Template
+    pages:
+    - id: 1
+      name: expense_form
+      label: Expense Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_travel
+      label: Date of Travel
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: expense_type
+      label: Type of Expense
+      hint: null
+      type: select_one
+      options:
+      - Item A
+      - Item B
+      required: false
+    - id: 6
+      name: gross_amount
+      label: Gross Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: tax_rate
+      label: Tax Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: net_amount
+      label: Net Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: tax
+      label: Tax
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: user_id
+      label: User ID
+      hint: null
+      type: text
+      options: []
+      required: false

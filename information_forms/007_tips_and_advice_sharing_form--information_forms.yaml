@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tips And Advice Sharing Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tips_and_advice
+      label: Tips And Advice
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - Information Forms
+      - Forms
+      - Questionnaires
+      - Surveys
+      - Quizzes
+      - Polls
+      - Tests
+      - Assessments
+      required: false
+    - id: 4
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_category
+      label: Form Category
+      hint: null
+      type: select_one
+      options:
+      - Information Forms
+      - Forms
+      - Questionnaires
+      - Surveys
+      - Quizzes
+      - Polls
+      - Tests
+      - Assessments
+      required: false
+    - id: 6
+      name: form_tags
+      label: Form Tags
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false

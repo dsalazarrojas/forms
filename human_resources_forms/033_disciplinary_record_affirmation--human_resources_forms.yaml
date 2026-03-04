@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Disciplinary Record Affirmation
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: disciplinary_incident_date
+      label: Disciplinary Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: disciplinary_action_taken
+      label: Disciplinary Action Taken
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Verbal Warning''}'
+      - '{''label'': ''Written Warning''}'
+      - '{''label'': ''Suspension''}'
+      - '{''label'': ''Termination''}'
+      required: false
+    - id: 5
+      name: disciplinary_action_reason
+      label: Disciplinary Action Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: witness_statements
+      label: Witness Statements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: incident_outcome
+      label: Incident Outcome
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Employee Acknowledged Incidents''}'
+      - '{''label'': ''Incident Resolved''}'
+      - '{''label'': ''Incident Not Resolved''}'
+      required: false
+    - id: 8
+      name: incident_outcome_details
+      label: Incident Outcome Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: employee_signature
+      label: Employee Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: manager_signature
+      label: Manager Signature
+      hint: null
+      type: text
+      options: []
+      required: false

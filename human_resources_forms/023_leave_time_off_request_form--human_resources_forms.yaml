@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: leave_time_off_request_form
+    pages:
+    - id: 1
+      name: employee_details
+      label: Employee Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: leave_type
+      label: Leave Type
+      hint: null
+      type: select_one
+      options:
+      - '{''Leave Type'': ''Vacation''}'
+      - '{''Leave Type'': ''Sick''}'
+      - '{''Leave Type'': ''Bereavement''}'
+      required: true
+    - id: 3
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: manager_approval
+      label: Manager Approval
+      hint: null
+      type: select_one
+      options:
+      - '{''Manager Approval'': True}'
+      - '{''Manager Approval'': False}'
+      required: true
+    - id: 8
+      name: manager_comments
+      label: Manager Comments
+      hint: null
+      type: text
+      options: []
+      required: false

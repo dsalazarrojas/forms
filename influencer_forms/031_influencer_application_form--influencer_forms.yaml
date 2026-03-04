@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: Influencer Application Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_zone
+      label: Time Zone
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: profile_picture_url
+      label: Profile Picture URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: bio
+      label: Bio
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: social_media_links
+      label: Social Media Links
+      hint: null
+      type: select_multiple
+      options:
+      - youtube
+      - tiktok
+      - instagram
+      - snapchat
+      - tiktok
+      - twitter
+      - facebook
+      required: true
+    - id: 10
+      name: categories
+      label: Categories
+      hint: null
+      type: select_one
+      options:
+      - Beauty
+      - Fashion
+      - Lifestyle
+      - Travel
+      - Fitness
+      - Food
+      - Gaming
+      required: true
+    - id: 11
+      name: subcategories
+      label: Subcategories
+      hint: null
+      type: select_multiple
+      options:
+      - Beauty
+      - Skincare
+      - Makeup
+      - Fashion
+      - Haircare
+      - Lifestyle
+      - Food
+      - Gaming
+      required: false
+    - id: 12
+      name: experience_level
+      label: Experience Level
+      hint: null
+      type: select_one
+      options:
+      - 1-2 years
+      - 2-5 years
+      - 5-10 years
+      - 10+ years
+      required: true
+    - id: 13
+      name: followers_count
+      label: Followers Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: engagement_rate
+      label: Engagement Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: content_types
+      label: Content Types
+      hint: null
+      type: select_multiple
+      options:
+      - Photo
+      - Video
+      - Live
+      - Reels
+      required: false
+    - id: 16
+      name: content_topics
+      label: Content Topics
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: collaborations
+      label: Collaborations
+      hint: null
+      type: select_multiple
+      options:
+      - Collaborated with 1-2 influencers
+      - Collaborated with 2-5 influencers
+      - Collaborated with 5-10 influencers
+      required: false
+    - id: 18
+      name: average_engagement_rate
+      label: Average Engagement Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: average_follower_growth
+      label: Average Follower Growth
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: average_reach
+      label: Average Reach
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: average_impressions
+      label: Average Impressions
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: average_engagement_impressions
+      label: Average Engagement Impression
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: average_engagement_rate_impressions
+      label: Average Engagement Rate Impression
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: average_views
+      label: Average Views
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: average_clicks
+      label: Average Clicks
+      hint: null
+      type: number
+      options: []
+      required: false

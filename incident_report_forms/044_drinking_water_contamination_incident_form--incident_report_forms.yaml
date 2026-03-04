@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Drinking Water Contamination Incident Form
+    pages:
+    - id: 1
+      name: drinking_water_incident
+      label: Drinking Water Incident
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: water_source
+      label: Water Source
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: affected_population
+      label: Affected Population
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contamination_type
+      label: Contamination Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: contamination_level
+      label: Contamination Level
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Moderate
+      - High
+      required: false
+    - id: 9
+      name: reported_by
+      label: Reported By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false

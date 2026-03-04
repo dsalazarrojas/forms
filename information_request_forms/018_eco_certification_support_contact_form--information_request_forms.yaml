@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Eco Certification Support Contact Form
+    pages:
+    - id: 1
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: support_request
+      label: Support Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: certification_type
+      label: Certification Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''ISO 9001''}'
+      - '{''id'': 2, ''label'': ''ISO 14001''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 4
+      name: certification_number
+      label: Certification Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: certification_date
+      label: Certification Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

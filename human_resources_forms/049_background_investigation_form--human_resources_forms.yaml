@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: Background Investigation Form
+    pages:
+    - id: 1
+      name: investigation_header_hr
+      label: -- Thorough Background Investigation Intake --
+      hint: Used for high-security positions and comprehensive screenings
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: subject_full_name_hr
+      label: Subject Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: subject_contact_phone_hr
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: personal_identifiers_header
+      label: -- Personal Identifiers --
+      hint: Required for database searches
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: subject_ssn_hr
+      label: Social Security Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: subject_dob_hr
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: dl_number_and_state
+      label: Driver's License Number and State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: address_history_header
+      label: -- Residential History (Last 10 Years) --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: address_history_last_10
+      label: Full List of Previous Residences
+      hint: Include dates of residency
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: education_employment_header
+      label: -- Education and Employment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: education_history_summary
+      label: Educational Institutions and Degrees
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: employment_history_summary
+      label: Professional Employment History (Last 7 Years)
+      hint: Include company, title, and supervisor
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: character_references_hr
+      label: List Three Character References
+      hint: Name, Phone, and Email
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: criminal_history_disclosure_hr
+      label: Criminal History Disclosure
+      hint: Describe any convictions or pending cases
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: credit_check_authorization_hr
+      label: I authorize a consumer credit report for employment purposes
+      hint: Only if relevant to the position
+      type: select_one
+      options:
+      - I authorize
+      - Not applicable
+      required: true
+    - id: 16
+      name: investigation_consent_signature
+      label: Full Authorization for Background Investigation
+      hint: I certify all information is accurate
+      type: select_one
+      options:
+      - I consent and certify
+      - Other
+      required: true
+    - id: 17
+      name: signature_date_investigation
+      label: Date of Consent
+      hint: null
+      type: date
+      options: []
+      required: true

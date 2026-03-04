@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sustainable Learning Research Feature Consent Form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: select_one
+      options:
+      - First Name
+      - Last Name
+      - Email
+      - Phone Number
+      required: false
+    - id: 3
+      name: consent
+      label: Consent
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 4
+      name: feature_interest
+      label: Feature Interest
+      hint: null
+      type: select_multiple
+      options:
+      - Sustainability
+      - Technology
+      - Accessibility
+      required: false
+    - id: 5
+      name: feature_preference
+      label: Feature Preference
+      hint: null
+      type: select_one
+      options:
+      - Highly Interested
+      - Somewhat Interested
+      - Not At All Interested
+      required: false
+    - id: 6
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - In-person
+      required: true
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

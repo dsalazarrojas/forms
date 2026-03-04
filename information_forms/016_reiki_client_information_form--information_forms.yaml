@@ -1,0 +1,54 @@
+inputSchema:
+  type: object
+  properties:
+    title: Reiki Client Information Form
+    pages:
+    - id: 1
+      name: new_client
+      label: new_client
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: reiki_practitioner
+      label: Reiki Practitioner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_last_session
+      label: Last Reiki Session
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

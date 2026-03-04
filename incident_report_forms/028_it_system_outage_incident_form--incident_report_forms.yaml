@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: IT System Outage Incident Form
+    pages:
+    - id: 1
+      name: incident_report_form
+      label: Incident Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incident_description
+      label: Incident Description
+      hint: Please provide a detailed description of the incident.
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: incident_date
+      label: Date of Incident
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: incident_time
+      label: Time of Incident
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: incident_location
+      label: Location of Incident
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: affected_systems
+      label: Affected Systems
+      hint: Please list all affected systems.
+      type: select_multiple
+      options:
+      - Server
+      - Network
+      - Database
+      - Other
+      required: false
+    - id: 7
+      name: incident_status
+      label: Incident Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - In Progress
+      - Resolved
+      - Unknown
+      required: false
+    - id: 8
+      name: incident_resolution_time
+      label: Expected Resolution Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: incident_resolved_time
+      label: Time Resolved
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: incident_reporter
+      label: Reporter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: incident_manager
+      label: Incident Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: incident_comment
+      label: Incident Comment
+      hint: Please provide any additional comments.
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: incident_resolution_method
+      label: Resolution Method
+      hint: null
+      type: select_one
+      options:
+      - Automated
+      - Manual
+      - Other
+      required: false
+    - id: 14
+      name: incident_resolution_comments
+      label: Resolution Comments
+      hint: Please provide any additional comments about the resolution.
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: incident_cause
+      label: Incident Cause
+      hint: Please provide the root cause of the incident.
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: incident_recommendation
+      label: Incident Recommendation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: incident_reviewed_by
+      label: Reviewed by
+      hint: null
+      type: select_one
+      options:
+      - IT Team
+      - Manager
+      - Customer
+      required: false
+    - id: 18
+      name: incident_reviewed_date
+      label: Date Reviewed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: incident_reviewed_time
+      label: Time Reviewed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: incident_closed_by
+      label: Closed By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: incident_closed_date
+      label: Date Closed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: incident_closed_time
+      label: Time Closed
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: incident_closed_status
+      label: Closed Status
+      hint: null
+      type: select_one
+      options:
+      - Resolved
+      - In Progress
+      - Pending
+      required: false
+    - id: 24
+      name: incident_reopened_count
+      label: Reopened Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: incident_reopened_date
+      label: Reopened Date
+      hint: null
+      type: date
+      options: []
+      required: false

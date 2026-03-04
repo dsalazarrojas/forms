@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: New Facility Setup Absence Form
+    pages:
+    - id: 1
+      name: facility_name
+      label: Facility Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: reason_for_absence
+      label: Reason for Absence
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: type_of_absence
+      label: Type of Absence
+      hint: null
+      type: select_one
+      options:
+      - new facility setup
+      - holiday
+      - other
+      required: false
+    - id: 6
+      name: absence_location
+      label: Absence Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: absence_details
+      label: Absence Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_multiple
+      options:
+      - chatjimmy
+      - excel
+      - google docs
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Human Resources Forms
+      - Other
+      required: true
+    - id: 14
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false

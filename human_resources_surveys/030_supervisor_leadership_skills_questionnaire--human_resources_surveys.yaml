@@ -1,0 +1,105 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Supervisor Leadership Skills Questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: supervisor_leadership_skills
+      label: supervisor_leadership_skills
+      hint: null
+      type: select_multiple
+      options:
+      - Leadership skills
+      - Interpersonal skills
+      - Communication skills
+      - Problem-solving skills
+      - Decision-making skills
+      - Time management skills
+      - Adaptability
+      - Teamwork
+      - Flexibility
+      required: true
+    - id: 3
+      name: feedback_frequency
+      label: feedback_frequency
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Semi-annually
+      - Annually
+      required: true
+    - id: 4
+      name: manager_feedback
+      label: manager_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: peer_feedback
+      label: peer_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: self_assessment
+      label: self_assessment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: development_plan
+      label: development_plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: action_items
+      label: action_items
+      hint: null
+      type: select_multiple
+      options:
+      - Develop a development plan to address areas needing improvement
+      - Provide feedback on the development plan to the participant
+      - Follow up on progress of action items
+      required: true
+    - id: 9
+      name: follow_up
+      label: follow_up
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: next_steps
+      label: next_steps
+      hint: null
+      type: select_one
+      options:
+      - Schedule the next meeting in 30 days
+      - Schedule the next meeting in 60 days
+      - Schedule the next meeting in 90 days
+      required: true

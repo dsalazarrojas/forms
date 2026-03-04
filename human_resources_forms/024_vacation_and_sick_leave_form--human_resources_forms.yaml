@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vacation And Sick Leave Form
+    pages:
+    - id: 1
+      name: vacation_and_sick_leave_form_1
+      label: vacation_and_sick_leave
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: reason
+      label: reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - approved
+      - pending
+      - denied
+      required: false
+    - id: 7
+      name: manager_note
+      label: manager_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submitter
+      label: submitter
+      hint: null
+      type: select_multiple
+      options:
+      - employee1
+      - employee2
+      - employee3
+      required: false
+    - id: 9
+      name: submitter_email
+      label: submitter_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: submitter_phone
+      label: submitter_phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Competency Verification Form
+    pages:
+    - id: 1
+      name: user_id
+      label: user_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: years_of_experience
+      label: Years Of Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: relevant_skills
+      label: Relevant Skills
+      hint: null
+      type: select_one
+      options:
+      - '{''option_id'': 1, ''option_text'': ''Option 1''}'
+      - '{''option_id'': 2, ''option_text'': ''Option 2''}'
+      - '{''option_id'': 3, ''option_text'': ''Option 3''}'
+      required: false
+    - id: 5
+      name: education
+      label: Education
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option_id'': 1, ''option_text'': "Bachelor''s Degree"}'
+      - '{''option_id'': 2, ''option_text'': "Associate''s Degree"}'
+      - '{''option_id'': 3, ''option_text'': ''High School Diploma''}'
+      required: false
+    - id: 6
+      name: experience
+      label: Experience
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: verification_date
+      label: Verification Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: verification_time
+      label: Verification Time
+      hint: null
+      type: time
+      options: []
+      required: false

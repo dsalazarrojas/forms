@@ -1,0 +1,144 @@
+inputSchema:
+  type: object
+  properties:
+    title: Content Creator Information Form
+    pages:
+    - id: 1
+      name: section_creator_info
+      label: -- Creator Details --
+      hint: Please provide your information below.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: creator_name
+      label: Creator Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: creator_id
+      label: Creator Identification Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: creator_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: creator_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_social_media_presence
+      label: -- Social Media Presence and Stats --
+      hint: Please share your social media details and stats.
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: primary_social_media_platform
+      label: Primary Social Media Platform
+      hint: null
+      type: select_one
+      options:
+      - Instagram
+      - TikTok
+      - YouTube
+      - Twitter
+      - LinkedIn
+      - Facebook
+      - Other
+      required: true
+    - id: 8
+      name: primary_handle
+      label: Primary Social Media Handle
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: follower_count
+      label: Follower Count on Primary Platform
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: engagement_rate_percentage
+      label: Engagement Rate on Primary Platform (%)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: section_content_collaboration
+      label: -- Content Style and Collaborations --
+      hint: Please share your content style and previous collaborations.
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: content_style_description
+      label: Description of your Content Style
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: previous_brand_collaborations
+      label: Previous Brand Collaborations
+      hint: Please list any previous brands you've collaborated with.
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: section_confirmation
+      label: -- Confirmation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: information_form_completed
+      label: Information Form Completed?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: signature_confirmation
+      label: I confirm that the information provided is accurate
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Disagree
+      required: true
+    - id: 17
+      name: privacy_agreement
+      label: I have read and agree to the privacy policy regarding my data
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: application_submission_date
+      label: Date of Application Submission
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Respondent Identification Questionnaire
+    pages:
+    - id: 1
+      name: study_info
+      label: Study Information
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: study_id
+      label: study_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: respondent_id
+      label: respondent_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: study_name
+      label: study_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: study_start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: study_end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: study_status
+      label: study_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: consent_given
+      label: consent_given
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: consent_date
+      label: consent_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: consent_note
+      label: consent_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: study_description
+      label: study_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: study_notes
+      label: study_notes
+      hint: null
+      type: text
+      options: []
+      required: false

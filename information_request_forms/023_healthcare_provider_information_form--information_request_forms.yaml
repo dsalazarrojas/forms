@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare Provider Information Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: fax
+      label: Fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: specialty
+      label: Specialty
+      hint: null
+      type: select_multiple
+      options:
+      - General Practice
+      - Surgery
+      - Pediatrics
+      - Cardiology
+      - Nephrology
+      required: false
+    - id: 8
+      name: license_number
+      label: License Number
+      hint: null
+      type: text
+      options: []
+      required: false

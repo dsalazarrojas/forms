@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Leave Adjustment Permission Form
+    pages:
+    - id: 1
+      name: employee_leave_adjustment_permission_form
+      label: employee_leave_adjustment_permission
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Human Resources Forms
+      - Other Forms
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: Briefly describe the leave adjustment reason
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: employee_id
+      label: employee id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: manager_name
+      label: manager name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: manager_email
+      label: manager email
+      hint: null
+      type: email
+      options: []
+      required: false

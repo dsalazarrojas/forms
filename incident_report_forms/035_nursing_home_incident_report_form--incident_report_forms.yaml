@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nursing Home Incident Report Form
+    pages:
+    - id: 1
+      name: resident_name
+      label: Resident Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': [''Falls'', ''Infection'', ''Medication Error'', ''Other'']}'
+      - '{''Other (Specify)'': None}'
+      - '{''options'': []}'
+      required: true
+    - id: 3
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: resident_condition
+      label: Resident Condition
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': [''None'', ''Alert'', ''Restless'', ''Confused'', {''options'':
+        []}]}'
+      - None
+      - Alert
+      - Restless
+      - Confused
+      - '{''options'': []}'
+      required: true
+    - id: 7
+      name: incident_narrative
+      label: Incident Narrative
+      hint: Provide a detailed description of the incident.
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: staff_involved
+      label: Staff Involved
+      hint: List the names of staff members involved in the incident.
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: outcome
+      label: Outcome
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': [''None'', ''Minor injury'', ''Moderate injury'', ''Severe
+        injury'', {''options'': []}, ''None'', ''Minor injury'', ''Moderate injury'',
+        ''Severe injury'', {''options'': []}]}'
+      - '{''required'': True}'
+      required: false
+    - id: 10
+      name: incident_reported_by
+      label: Reported By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: incident_reported_by_title
+      label: Reported By (Title)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: incident_reported_by_department
+      label: Reported By Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: incident_reported_by_extension
+      label: Reported By Extension
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: incident_reported_by_phone
+      label: Reported By Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: incident_reported_by_email
+      label: Reported By Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: incident_reported_date
+      label: Reported Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: incident_reviewed_by
+      label: Reviewed By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: incident_reviewed_by_title
+      label: Reviewed By (Title)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: incident_reviewed_by_department
+      label: Reviewed By Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: incident_reviewed_by_extension
+      label: Reviewed By Extension
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: incident_reviewed_by_phone
+      label: Reviewed By Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: incident_reviewed_by_email
+      label: Reviewed By Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 23
+      name: incident_reviewed_by_date
+      label: Reviewed Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: incident_review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': [''None'', ''In Review'', ''Review Complete'', {''options'':
+        []}, ''None'', ''In Review'', ''Review Complete'', {''options'': []}]}'
+      - '{''required'': True}'
+      required: false
+    - id: 25
+      name: incident_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': [''None'', ''Active'', ''Inactive'', {''options'': []}, ''None'',
+        ''Active'', ''Inactive'', {''options'': []}]}'
+      - '{''required'': True}'
+      required: false

@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: HR System Access Form
+    pages:
+    - id: 1
+      name: onboarding_date
+      label: Onboarding Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: system_access
+      label: System Access
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: role
+      label: Role
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: manager_id
+      label: Manager ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: manager_title
+      label: Manager Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: manager_email
+      label: Manager Email
+      hint: Enter the manager's email address
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: manager_phone
+      label: Manager Phone
+      hint: Enter the manager's phone number
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: team_members
+      label: Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: team_members_other
+      label: Other Team Members
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: system_access_type
+      label: System Access Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: notes
+      label: Notes
+      hint: Enter any additional notes about the employee's HR system access.
+      type: text
+      options: []
+      required: false

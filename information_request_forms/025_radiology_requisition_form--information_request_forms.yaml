@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Radiology Requisition Form
+    pages:
+    - id: 1
+      name: medical_professional
+      label: Medical Professional
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 2
+      name: medical_department
+      label: Medical Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: test_ordering_date
+      label: Test Ordering Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: test_ordering_time
+      label: Test Ordering Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: reason_for_ordering
+      label: Reason for Ordering
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: test_type
+      label: Test Type
+      hint: null
+      type: select_one
+      options:
+      - X-ray
+      - MRI
+      - CT
+      - Ultrasound
+      - Other
+      required: false
+    - id: 7
+      name: test_location
+      label: Test Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: test_notes
+      label: Test Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date_ordered
+      label: Date Ordered
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: test_ordered
+      label: Test Ordered
+      hint: null
+      type: select_one
+      options:
+      - X-ray
+      - MRI
+      - CT
+      - Ultrasound
+      - Other
+      required: false
+    - id: 12
+      name: time_ordered
+      label: Time Ordered
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      required: false
+    - id: 13
+      name: medical_department_name
+      label: Medical Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: test_ordered_by
+      label: Test Ordered By
+      hint: null
+      type: select_multiple
+      options:
+      - Dr. Smith
+      - Dr. Jones
+      - Dr. Doe
+      - Other
+      required: false
+    - id: 15
+      name: patient_dob
+      label: Patient DOB
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: facility
+      label: Facility
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: facility_location
+      label: Facility Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: test_location_notes
+      label: Test Location Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: test_status
+      label: Test Status
+      hint: null
+      type: select_one
+      options:
+      - Ordered
+      - Pending
+      - Cancelled
+      - Complete
+      required: false
+    - id: 23
+      name: test_ordered_status
+      label: Test Ordered Status
+      hint: null
+      type: select_one
+      options:
+      - Ordered
+      - Pending
+      - Cancelled
+      - Complete
+      required: false
+    - id: 24
+      name: reason_for_cancellation
+      label: Reason for Cancellation
+      hint: null
+      type: select_multiple
+      options:
+      - Patient No Show
+      - Equipment Unavailable
+      - Other
+      required: false
+    - id: 25
+      name: patient_address
+      label: Patient Address
+      hint: null
+      type: text
+      options: []
+      required: false

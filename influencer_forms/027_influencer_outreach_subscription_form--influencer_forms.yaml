@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: influencer_outreach_subscription_form
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: subscription_service
+      label: subscription_service
+      hint: null
+      type: select_one
+      options:
+      - Service 1
+      - Service 2
+      - Service 3
+      required: false
+    - id: 6
+      name: subscription_date
+      label: subscription_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: subscription_time
+      label: subscription_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: influencer_form
+      label: influencer_form
+      hint: null
+      type: select_multiple
+      options:
+      - Service 1
+      - Service 2
+      - Service 3
+      required: false
+    - id: 10
+      name: category
+      label: category
+      hint: Select a category
+      type: select_one
+      options:
+      - Service 1
+      - Service 2
+      required: false

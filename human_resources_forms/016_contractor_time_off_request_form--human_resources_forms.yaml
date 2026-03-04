@@ -1,0 +1,231 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contractor Time Off Request Form
+    pages:
+    - id: 1
+      name: contractor_name
+      label: Contractor Full Name
+      hint: Legal name of the contractor
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contractor_id
+      label: Contractor ID Number
+      hint: Employee or contractor identification number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Primary email for communication
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact number while on time off
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: department
+      label: Department or Project
+      hint: Current department or project assignment
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: supervisor_name
+      label: Supervisor Name
+      hint: Name of direct supervisor
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_time_off_details
+      label: -- Time Off Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: time_off_type
+      label: Type of Time Off
+      hint: Select the type of leave requested
+      type: select_one
+      options:
+      - Vacation
+      - Personal Day
+      - Sick Leave
+      - Family Emergency
+      - Medical Appointment
+      - Bereavement
+      - Jury Duty
+      - Military Leave
+      - Unpaid Leave
+      required: true
+    - id: 9
+      name: start_date
+      label: Start Date
+      hint: First day of time off
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: end_date
+      label: End Date
+      hint: Last day of time off
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: return_date
+      label: Return to Work Date
+      hint: Date you will resume work
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: total_days
+      label: Total Days Requested
+      hint: Number of days being requested
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: section_schedule
+      label: -- Schedule Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: current_projects
+      label: Current Projects or Assignments
+      hint: List your active projects
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: pending_deadlines
+      label: Pending Deadlines During Absence
+      hint: Any deadlines during your absence
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: coverage_plan
+      label: Coverage Plan
+      hint: How will your work be covered
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: colleague_briefing
+      label: Colleague Briefed on Your Work
+      hint: Name of colleague covering for you
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: section_availability
+      label: -- Availability During Time Off --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: available_by_phone
+      label: Available by Phone
+      hint: Can you be reached by phone
+      type: select_one
+      options:
+      - Yes - Fully Available
+      - Yes - Limited Availability
+      - No - Unavailable
+      required: true
+    - id: 20
+      name: available_by_email
+      label: Available by Email
+      hint: Can you be reached by email
+      type: select_one
+      options:
+      - Yes - Fully Available
+      - Yes - Limited Availability
+      - No - Unavailable
+      required: true
+    - id: 21
+      name: emergency_contact_method
+      label: Preferred Emergency Contact Method
+      hint: How should we contact you in emergencies
+      type: select_one
+      options:
+      - Phone Call
+      - Text Message
+      - Email
+      - Do Not Contact
+      required: false
+    - id: 22
+      name: section_previous_requests
+      label: -- Previous Time Off --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: previous_time_off_this_year
+      label: Previous Time Off Taken This Year
+      hint: Number of days already taken
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: accrued_time_off_balance
+      label: Accrued Time Off Balance
+      hint: Your current balance if known
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: section_request
+      label: -- Request Acknowledgement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: understand_policy
+      label: I understand the time off policy
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 27
+      name: request_urgent
+      label: Is this request urgent
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 28
+      name: additional_notes
+      label: Additional Notes or Comments
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: request_date
+      label: Request Submission Date
+      hint: Date of this request
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: New Hire Payroll Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: hire_date
+      label: hire_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: pay_rate
+      label: pay_rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: benefits
+      label: benefits
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: tax_status
+      label: tax_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 7.1, ''label'': ''active''}'
+      - '{''id'': ''7.1.1'', ''label'': ''inactive''}'
+      required: false
+    - id: 7
+      name: termination_date
+      label: termination_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: social_security_number
+      label: social_security_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: ssn_copy
+      label: ssn_copy
+      hint: null
+      type: text
+      options: []
+      required: false

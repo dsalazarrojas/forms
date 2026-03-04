@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Learning Equity Research Network Application
+    pages:
+    - id: 1
+      name: member_application
+      label: Member Application
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: background_information
+      label: background
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: research_interests
+      label: Research Interests
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: member_participation
+      label: Member Participation
+      hint: null
+      type: select_one
+      options:
+      - Regular Member
+      - Affiliate Member
+      - Observer Member
+      required: true
+    - id: 5
+      name: university_affiliation
+      label: University Affiliation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: nonprofit_affiliation
+      label: Nonprofit Affiliation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: team_research_focus
+      label: Team Research Focus
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: research_interests_details
+      label: Additional Research Interests
+      hint: null
+      type: text
+      options: []
+      required: false

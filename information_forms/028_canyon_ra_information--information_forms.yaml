@@ -1,0 +1,265 @@
+inputSchema:
+  type: object
+  properties:
+    title: Canyon RA Information
+    pages:
+    - id: 1
+      name: intro_header
+      label: -- Canyon Hall RA Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: intro_text
+      label: This form collects information about Resident Assistants in Canyon Hall
+        for administrative tracking and contact purposes.
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: personal_info_header
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: student_id
+      label: Student ID
+      hint: Institutional ID number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: date_of_birth
+      label: Date of Birth
+      hint: Birthday
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: year_in_school
+      label: Year in School
+      hint: Select one
+      type: select_one
+      options:
+      - Sophomore
+      - Junior
+      - Senior
+      - Graduate Student
+      - Other
+      required: true
+    - id: 9
+      name: major_minor
+      label: Major/Minor
+      hint: Your field of study
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_info_header
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email_address
+      label: Email Address
+      hint: Your campus email
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: phone_number
+      label: Phone Number
+      hint: Mobile number
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: room_assignment
+      label: Room Assignment in Canyon Hall
+      hint: Room number
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: floor_assignment
+      label: Floor Assignment
+      hint: Floor number
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: ra_assignment_header
+      label: -- RA Assignment Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: ra_year
+      label: RA Year
+      hint: Select one
+      type: select_one
+      options:
+      - First Year RA
+      - Second Year RA
+      - Third Year RA
+      - Senior RA
+      required: true
+    - id: 17
+      name: start_date
+      label: Position Start Date
+      hint: When RA tenure begins
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: residential_experience_header
+      label: -- Residential Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: prior_ra_experience
+      label: Prior RA Experience
+      hint: Select one
+      type: select_one
+      options:
+      - First time RA
+      - Continuing RA from another hall
+      - Returning RA in Canyon Hall
+      - Other residential position
+      - No prior experience
+      required: true
+    - id: 20
+      name: prior_hall
+      label: Prior Hall or Position (if applicable)
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: training_completion
+      label: Have you completed RA training?
+      hint: Select one
+      type: select_one
+      options:
+      - Yes, completed
+      - In progress
+      - Not yet started
+      - Scheduled
+      required: true
+    - id: 22
+      name: specialization_header
+      label: -- RA Focus Areas --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: focus_areas
+      label: RA Focus Areas or Specializations
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Peer mentoring
+      - Conflict resolution
+      - Community building
+      - Mental health awareness
+      - Substance abuse prevention
+      - Diversity and inclusion
+      - Academic support
+      - Wellness
+      - Technology
+      - Career development
+      required: false
+    - id: 24
+      name: responsibilities_header
+      label: -- Key Responsibilities --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: understand_responsibilities
+      label: I understand the RA responsibilities and expectations
+      hint: Confirmation required
+      type: select_one
+      options:
+      - Yes, I understand
+      - 'No'
+      required: true
+    - id: 26
+      name: emergency_response
+      label: Have you received emergency response training?
+      hint: Select one
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - In progress
+      required: true
+    - id: 27
+      name: available_hours_header
+      label: -- Availability --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: office_hours
+      label: Planned Office Hours
+      hint: When available in room
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: special_availability
+      label: Special Availability or Constraints
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: supervisor_info_header
+      label: -- Supervisor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: direct_supervisor
+      label: Direct Supervisor/RD Name
+      hint: Name of your supervisor
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: acknowledgment
+      label: I acknowledge receipt of this information form
+      hint: Required
+      type: select_one
+      options:
+      - Yes, I acknowledge
+      - 'No'
+      required: true

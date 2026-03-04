@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: equipment_testing_coordinator_contact_form
+    pages:
+    - id: 1
+      name: equipment_testing_coordinator_name
+      label: Coordinator Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: equipment_testing_coordinator_email
+      label: Coordinator E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: equipment_testing_coordinator_phone
+      label: Coordinator Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: equipment_testing_coordinator_position
+      label: Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: equipment_tested
+      label: Equipment to be Tested
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: equipment_testing_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: equipment_testing_priority
+      label: Priority
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: tested_by
+      label: Tested By
+      hint: null
+      type: select_one
+      options:
+      - Equipment Technician
+      - Maintenance Person
+      - Other
+      required: false
+    - id: 10
+      name: test_equipment_date
+      label: Testing Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: test_equipment_time
+      label: Testing Time
+      hint: null
+      type: time
+      options: []
+      required: false

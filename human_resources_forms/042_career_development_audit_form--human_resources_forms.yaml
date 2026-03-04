@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Career Development Audit Form
+    pages:
+      - id: 1
+        name: audit_header
+        label: -- Audit Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: employee_name
+        label: Employee name
+        hint: Name of employee being audited
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: current_role
+        label: Current role
+        hint: Job title
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: completed_trainings
+        label: Completed trainings
+        hint: List trainings completed
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: performance_metrics
+        label: Performance metrics
+        hint: Key metrics and results
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: development_needs
+        label: Development needs
+        hint: Areas for skill growth
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: recommended_actions
+        label: Recommended actions
+        hint: Suggested development plan
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: timeline_for_development
+        label: Timeline for development
+        hint: When to implement actions
+        type: date
+        options: []
+        required: false
+      - id: 9
+        name: manager_comments
+        label: Manager comments
+        hint: Feedback from manager
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: audit_completed_by
+        label: Audit completed by
+        hint: Name of auditor
+        type: text
+        options: []
+        required: true

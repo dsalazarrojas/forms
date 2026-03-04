@@ -1,0 +1,74 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Social Media Content Request Form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: post_type
+      label: Post Type
+      hint: null
+      type: select_one
+      options:
+      - Post Type 1
+      - Post Type 2
+      - Post Type 3
+      required: false
+    - id: 3
+      name: post_date
+      label: Post Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: social_media_channel
+      label: Social Media Channel
+      hint: null
+      type: select_multiple
+      options:
+      - Facebook
+      - Instagram
+      - Twitter
+      required: false
+    - id: 5
+      name: post_content
+      label: Post Content
+      hint: Please enter post content here.
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: content_type
+      label: Content Type
+      hint: null
+      type: select_multiple
+      options:
+      - Image
+      - Video
+      - Text
+      required: false
+    - id: 7
+      name: tags
+      label: Tags
+      hint: Enter tags here.
+      type: text
+      options: []
+      required: false

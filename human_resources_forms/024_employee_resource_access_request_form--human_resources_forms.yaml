@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Resource Access Request Form
+    pages:
+    - id: 1
+      name: request_form
+      label: Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: requested_resources
+      label: Requested Resources
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Office 1''}'
+      - '{''label'': ''Office 2''}'
+      - '{''label'': ''Office 3''}'
+      required: false
+    - id: 3
+      name: manager_approval
+      label: Manager Approval
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Approve''}'
+      - '{''label'': ''Reject''}'
+      - '{''label'': ''Request More Info''}'
+      required: false
+    - id: 4
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: resource_access_type
+      label: Resource Access Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Access''}'
+      - '{''label'': ''View Only''}'
+      - '{''label'': ''Edit''}'
+      required: false
+    - id: 7
+      name: access_level
+      label: Access Level
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''High''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Low''}'
+      required: false
+    - id: 8
+      name: access_duration
+      label: Access Duration
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Month''}'
+      - '{''label'': ''Month to Month''}'
+      - '{''label'': ''One Time Only''}'
+      required: false
+    - id: 9
+      name: resource_access_date
+      label: Resource Access Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: resource_access_time
+      label: Resource Access Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: resource_access_notes
+      label: Resource Access Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: manager_phone
+      label: Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: manager_comments
+      label: Manager Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: employee_comments
+      label: Employee Comments
+      hint: null
+      type: note
+      options: []
+      required: false

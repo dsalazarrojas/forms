@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Reward Preference Poll
+    pages:
+    - id: 1
+      name: employee_reward_preference_poll_form
+      label: Employee Reward Preference Poll
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Human Resources Forms
+      - Other Forms
+      required: false
+    - id: 3
+      name: employee_preferences
+      label: Employee Preferences
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Team
+      - Organization
+      - Department
+      - Job Title
+      - Location
+      required: false
+    - id: 4
+      name: reward_programs
+      label: Reward Programs
+      hint: null
+      type: select_one
+      options:
+      - Monetary Incentives
+      - Time Off
+      - Extra Vacation Days
+      - Gift Cards
+      required: false
+    - id: 5
+      name: frequency_of_rewards
+      label: Frequency of Rewards
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Yearly
+      required: false
+    - id: 6
+      name: reward_amount
+      label: Reward Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: employee_preferences_1
+      label: Employee Preference 1
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Coaching Form
+    pages:
+    - id: 1
+      name: employee_coaching_session_form
+      label: Employee Coaching Session Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: coaching_sessions
+      label: Coaching Sessions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: coaching_session_date
+      label: Coaching Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: goals_objective
+      label: Goals and Objectives
+      hint: null
+      type: note
+      options: []
+      required: false

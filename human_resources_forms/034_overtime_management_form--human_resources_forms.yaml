@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Overtime Management Form
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: hours
+      label: hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: manager_id
+      label: Manager Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: approval
+      label: Approval
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Approve''}'
+      - '{''label'': ''Reject''}'
+      required: false
+    - id: 6
+      name: comment
+      label: Comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: request_reason
+      label: Request Reason
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Business''}'
+      - '{''label'': ''Personal''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 8
+      name: overtime_type
+      label: Overtime Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Regular''}'
+      - '{''label'': ''Emergency''}'
+      required: false
+    - id: 9
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: form_status
+      label: Form Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''New''}'
+      - '{''label'': ''In Progress''}'
+      - '{''label'': ''Approved''}'
+      - '{''label'': ''Rejected''}'
+      required: false

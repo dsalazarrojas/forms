@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Basic Customer Information Form
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: middle_name
+      label: Middle name (optional)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_header_2
+      label: -- Address Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: street_address
+      label: Street address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: state_province
+      label: State/Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: zip_postal
+      label: ZIP/Postal code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_header_3
+      label: -- Contact Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: preferred_contact_method
+      label: Preferred contact method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text Message
+      - Mail
+      - No Contact
+      required: false
+    - id: 16
+      name: contact_times
+      label: Best time to contact
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Weekends
+      - Anytime
+      required: false
+    - id: 17
+      name: section_header_4
+      label: -- Billing Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: billing_same_as_shipping
+      label: Is billing address same as shipping?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 19
+      name: billing_address
+      label: Billing address (if different)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: preferred_payment
+      label: Preferred payment method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Check
+      - Bank Transfer
+      - PayPal
+      - Other
+      required: false
+    - id: 21
+      name: section_header_5
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: company_name
+      label: Company name (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: business_type
+      label: Type of business (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: referral_source
+      label: How did you hear about us?
+      hint: null
+      type: select_one
+      options:
+      - Search Engine
+      - Social Media
+      - Referral
+      - Advertisement
+      - Other
+      required: false
+    - id: 25
+      name: special_requests
+      label: Special requests or notes
+      hint: null
+      type: text
+      options: []
+      required: false

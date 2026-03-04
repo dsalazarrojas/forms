@@ -1,0 +1,256 @@
+inputSchema:
+  type: object
+  properties:
+    title: Zero Discrimination Policy Declaration Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Zero Discrimination Policy Declaration Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_name
+      label: Participant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization_address
+      label: Organization Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: participant_title
+      label: Participant Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: participant_department
+      label: Participant Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: participant_job_title
+      label: Participant Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: participant_email
+      label: Participant Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: participant_phone
+      label: Participant Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: participant_dob
+      label: Participant DOB
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: participant_sex
+      label: Participant Sex
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      required: true
+    - id: 12
+      name: participant_race_ethnicity
+      label: Participant Race/Ethnicity
+      hint: null
+      type: select_one
+      options:
+      - White
+      - Black or African American
+      - Asian
+      - Native American or Indigenous
+      - Native Hawaiian or Pacific Islander
+      - Mexican
+      - Other, specify
+      required: true
+    - id: 13
+      name: participant_gender_identity
+      label: Participant Gender Identity
+      hint: null
+      type: select_one
+      options:
+      - Gender Non-conforming
+      - Male
+      - Female
+      - Non-binary
+      - Other, specify
+      required: true
+    - id: 14
+      name: participant_lbgtiq_identity
+      label: Participant LBTIQ Identity
+      hint: null
+      type: select_multiple
+      options:
+      - Gay
+      - Lesbian
+      - Bisexual
+      - Queer/Non-conforming
+      - Transgender
+      - Intersex
+      - Other, specify
+      required: true
+    - id: 15
+      name: participant_disability_status
+      label: Participant Disability Status
+      hint: null
+      type: select_multiple
+      options:
+      - Has a physical disability
+      - Has an intellectual disability
+      - Has a mental disability
+      - Has a learning disability
+      - Has a sensory disability
+      - Other, specify
+      required: true
+    - id: 16
+      name: participant_discrimination_status
+      label: Participant Discrimination Status
+      hint: null
+      type: select_multiple
+      options:
+      - Experienced discrimination in the past
+      - Experienced marginalization
+      - Experienced systemic barriers
+      - Experienced microaggressions
+      - Experienced other forms of discrimination
+      - Experienced other forms of marginalization
+      - Other, specify
+      required: true
+    - id: 17
+      name: participant_language
+      label: Participant Language
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - Spanish
+      - French
+      - Mandarin
+      - Arabic
+      - Hindi
+      - Other, specify
+      required: true
+    - id: 18
+      name: participant_native_language
+      label: Participant Native Language
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - Spanish
+      - French
+      - Mandarin
+      - Arabic
+      - Hindi
+      - Other, specify
+      required: true
+    - id: 19
+      name: participant_birth_country
+      label: Participant Birth Country
+      hint: null
+      type: select_multiple
+      options:
+      - Afghanistan
+      - Albania
+      - Algeria
+      - Argentina
+      - Armenia
+      - Other, specify
+      required: true
+    - id: 20
+      name: participant_country_of_residence
+      label: Participant Country of Residence
+      hint: null
+      type: select_multiple
+      options:
+      - Afghanistan
+      - Albania
+      - Algeria
+      - Argentina
+      - Armenia
+      - Other, specify
+      required: true
+    - id: 21
+      name: participant_residence_country_since
+      label: Participant Residence Country Since
+      hint: null
+      type: select_multiple
+      options:
+      - 5 years or less
+      - 5-10 years
+      - 10-20 years
+      - 20-30 years
+      - 30-40 years
+      - 40-50 years
+      - 50 years or more
+      required: true
+    - id: 22
+      name: participant_ever_moved_country
+      label: Participant Ever Moved Country
+      hint: null
+      type: select_multiple
+      options:
+      - Yes, from Afghanistan
+      - Yes, from Albania
+      - Yes, from Alberia
+      - Yes, from Other, specify
+      - No, currently resident in their birth country
+      required: true
+    - id: 23
+      name: participant_ever_moved_city
+      label: Participant Ever Moved City
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: participant_ever_moved_state
+      label: Participant Ever Moved State
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: participant_signature
+      label: Participant Signature
+      hint: null
+      type: note
+      options: []
+      required: false

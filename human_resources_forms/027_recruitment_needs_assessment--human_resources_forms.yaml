@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Recruitment Needs Assessment
+    pages:
+    - id: 1
+      name: role_requirements
+      label: Role requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: budget_allocation
+      label: Budget allocation
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: timelines
+      label: Timelines
+      hint: null
+      type: select_multiple
+      options:
+      - Week 1
+      - Week 2
+      - Week 3
+      - Week 4
+      required: true
+    - id: 4
+      name: recruitment_process
+      label: Recruitment process
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: hiring_manager
+      label: Hiring manager
+      hint: null
+      type: select_one
+      options:
+      - John Doe
+      - Jane Smith
+      - Bob Johnson
+      required: true
+    - id: 6
+      name: recruitment_agency
+      label: Recruitment agency
+      hint: null
+      type: select_multiple
+      options:
+      - Agency A
+      - Agency B
+      - Agency C
+      required: false
+    - id: 7
+      name: job_description
+      label: Job description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: qualifications
+      label: Qualifications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: job_title
+      label: Job title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: job_type
+      label: Job type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: job_category
+      label: Job category
+      hint: null
+      type: select_one
+      options:
+      - Sales
+      - Marketing
+      - Development
+      required: true
+    - id: 12
+      name: job_location
+      label: Job location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: job_status
+      label: Job status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      - Pending
+      required: true
+    - id: 14
+      name: job_priority
+      label: Job priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 15
+      name: job_level
+      label: Job level
+      hint: null
+      type: select_one
+      options:
+      - Entry level
+      - Managerial
+      - Executive
+      required: true
+    - id: 16
+      name: job_educational_requirement
+      label: Job educational requirement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: job_salary
+      label: Job salary
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: job_currency
+      label: Job currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - GBP
+      required: true
+    - id: 19
+      name: job_posting
+      label: Job posting
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: job_posting_time
+      label: Job posting time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: job_duration
+      label: Job duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: job_type
+      label: Job type
+      hint: null
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Contract
+      required: true
+    - id: 23
+      name: job_status
+      label: Job status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Archived
+      required: true
+    - id: 24
+      name: job_notes
+      label: Job notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submission_date
+      label: Submission date
+      hint: null
+      type: date
+      options: []
+      required: true

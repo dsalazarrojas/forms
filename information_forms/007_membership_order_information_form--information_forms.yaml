@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Membership Order Information Form
+    pages:
+    - id: 1
+      name: membership_order_info
+      label: Membership Order Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_info
+      label: Customer Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: payment_details
+      label: Payment Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''payment_method'', ''label'': ''Card''}'
+      - '{''id'': 2, ''name'': ''bank_transfer'', ''label'': ''Bank''}'
+      - '{''id'': 3, ''name'': ''check'', ''label'': ''Check''}'
+      required: false
+    - id: 5
+      name: membership_type
+      label: Membership Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''monthly'', ''label'': ''Month-to-Month''}'
+      - '{''id'': 2, ''name'': ''six_monthly'', ''label'': ''Six-Monthly''}'
+      - '{''id'': 3, ''name'': ''annual'', ''label'': ''Annual''}'
+      required: false
+    - id: 6
+      name: membership_start_date
+      label: Start Membership
+      hint: Date (MM/DD/YY)
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: membership_end_date
+      label: End Membership
+      hint: Date (MM/DD/YY)
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: membership_status
+      label: Membership Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: order_notes
+      label: Order Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: Email address for notifications
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: fax
+      label: Fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: address_1
+      label: Address 1
+      hint: Street address line 1
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: address_2
+      label: Address 2
+      hint: Street address line 2
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: contact_name2
+      label: Contact Name 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: contact_phone2
+      label: Contact Phone 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: membership_status_notes
+      label: Membership Status Notes
+      hint: null
+      type: note
+      options: []
+      required: false

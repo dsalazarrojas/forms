@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Fan Club Registration Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: birthdate
+      label: birthdate
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: favorite_food
+      label: favorite_food
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: how_did_you_find_us
+      label: how_did_you_find_us
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: favorite_color
+      label: favorite_color
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: favorite_animal
+      label: favorite_animal
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: favorite_book
+      label: favorite_book
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: how_did_you_join_fan_club
+      label: how_did_you_join_fan_club
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: agree_to_terms
+      label: agree_to_terms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: favorite_food
+      label: favorite_food
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: favorite_food2
+      label: favorite_food2
+      hint: null
+      type: text
+      options: []
+      required: false

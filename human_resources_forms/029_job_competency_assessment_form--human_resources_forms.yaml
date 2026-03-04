@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: job_competency_assessment_form
+    pages:
+    - id: 1
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: job_description
+      label: job_description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: job_observations
+      label: job_observations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: job_responsibilities
+      label: job_responsibilities
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: assessment_date
+      label: assessment_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: assessment_time
+      label: assessment_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: rating_scale
+      label: rating_scale
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: true
+    - id: 8
+      name: performance_level
+      label: performance_level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: competency_areas
+      label: competency_areas
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Information Request Form
+    pages:
+    - id: 1
+      name: header
+      label: Contact Information Request
+      hint: Request information from our team
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: patient_first_name
+      label: Patient First Name
+      hint: First name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_last_name
+      label: Patient Last Name
+      hint: Last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: Patient DOB
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_primary
+      label: Primary Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: phone_secondary
+      label: Secondary Phone Number
+      hint: Alternate number
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: address
+      label: Home Address
+      hint: Street address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state
+      label: State
+      hint: Your state
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: zip
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: insurance_provider
+      label: Insurance Provider
+      hint: Your insurance company
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: insurance_id
+      label: Insurance ID Number
+      hint: Policy number
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: reason_for_request
+      label: Reason for Information Request
+      hint: Why are you requesting information
+      type: select_one
+      options:
+      - New Patient Inquiry
+      - Service Information
+      - Appointment Scheduling
+      - Billing Question
+      - Medical Records
+      - Other
+      required: true
+    - id: 15
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: How to reach you
+      type: select_one
+      options:
+      - Phone Call
+      - Text Message
+      - Email
+      - Mail
+      required: true
+    - id: 16
+      name: best_time
+      label: Best Time to Contact
+      hint: When to reach you
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Anytime
+      required: false
+    - id: 17
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: hipaa_consent
+      label: HIPAA Consent
+      hint: Do you consent to HIPAA terms
+      type: select_one
+      options:
+      - I Consent
+      - I Do Not Consent
+      required: true

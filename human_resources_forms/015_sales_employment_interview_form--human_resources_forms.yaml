@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sales Employment Interview Form
+    pages:
+    - id: 1
+      name: sales_employment_form
+      label: Sales Employment Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_title
+      label: Job Title
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: job_status
+      label: Job Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 4
+      name: work_experience
+      label: Work Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: employment_type
+      label: Employment Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: salary
+      label: Salary
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: job_start_date
+      label: Job Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: job_end_date
+      label: Job End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false

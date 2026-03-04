@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fan Engagement
+    pages:
+    - id: 1
+      name: fan_engagement_survey_1
+      label: fan_engagement
+      hint: null
+      type: select_one
+      options:
+      - Fan Engagement
+      - Fan Passion
+      - Fan Loyalty
+      required: false
+    - id: 2
+      name: fan_engagement_survey_2
+      label: fan_fans
+      hint: null
+      type: select_multiple
+      options:
+      - Fans
+      - Enthusiasts
+      - Supporters
+      required: true
+    - id: 3
+      name: fan_engagement_survey_3
+      label: fan_fan_fees
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: fan_engagement_survey_4
+      label: fan_engagement_survey_4
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: fan_engagement_survey_5
+      label: fan_engagement_survey_5
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: fan_engagement_survey_6
+      label: fan_engagement_survey_6
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: fan_engagement_survey_7
+      label: fan_fan_loyalty_survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: fan_fan_loyalty_survey
+      label: fan_fan_loyalty_survey
+      hint: null
+      type: date
+      options: []
+      required: false

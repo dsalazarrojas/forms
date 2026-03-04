@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Weekly Schedule And Bonus Options
+    pages:
+    - id: 1
+      name: employee_schedule
+      label: Employee Schedule
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: bonus_preferences
+      label: Bonus Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: availability
+      label: Availability
+      hint: When are you available
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: bonus_amount
+      label: Bonus Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: bonus_frequency
+      label: Bonus Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: bonus_payment_date
+      label: Bonus Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_alternate_email
+      label: Alternate Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: contact_alternate_phone
+      label: Alternate Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

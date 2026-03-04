@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: e-commerce_warehouse_onboarding_form
+    pages:
+    - id: 1
+      name: new_hire_details
+      label: New Hire Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: role
+      label: Role
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''stock_manager'', ''label'': ''Stock Manager''}'
+      - '{''value'': ''floor_stocker'', ''label'': ''Floor Stocker''}'
+      - '{''value'': ''inventory_receiver'', ''label'': ''Inventory Receiver''}'
+      required: false
+    - id: 3
+      name: shift_preferences
+      label: Shift Preferences
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''morning'', ''label'': ''Morning Shift''}'
+      - '{''value'': ''afternoon'', ''label'': ''Afternoon Shift''}'
+      - '{''value'': ''overnight'', ''label'': ''Overnight Shift''}'
+      required: false
+    - id: 4
+      name: safety_acknowledgments
+      label: Safety Acknowledgments
+      hint: Read and agree to the safety guidelines.
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: emergency_contact
+      label: Emergency Contact
+      hint: Enter the name and phone number of your emergency contact.
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: emergency_phone
+      label: Phone
+      hint: Enter a phone number that can be reached in case of an emergency.
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: emergency_phone_alternate
+      label: Emergency Phone
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: manager_name
+      label: Manager Name
+      hint: Enter the name of your manager.
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_email
+      label: Emergency Contact Email
+      hint: Enter the email of your emergency contact.
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: manager_phone
+      label: Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: shift_schedule
+      label: Shift Schedule
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: start_time
+      label: Shift Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: end_time
+      label: Shift End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: break_times
+      label: Break Times
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 30, ''label'': 30}'
+      - '{''value'': 60, ''label'': 60}'
+      required: false
+    - id: 16
+      name: shift_duration
+      label: Shift Duration
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 4, ''label'': ''4 hours''}'
+      - '{''value'': 8, ''label'': ''8 hours''}'
+      required: false
+    - id: 17
+      name: start_date
+      label: Shift Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: end_date
+      label: Shift End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: days_available
+      label: Days Available
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      required: false
+    - id: 20
+      name: manager_phone_alternate
+      label: Manager Phone (Alternate)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: manager_phone_work
+      label: Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: manager_email_alternate
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: shift_note
+      label: Shift Note
+      hint: Enter any notes about this shift.
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: emergency_info
+      label: Emergency Info
+      hint: In the event of an emergency, what do you do?
+      type: note
+      options: []
+      required: false

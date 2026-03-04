@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Suggestion Request Form
+    pages:
+    - id: 1
+      name: product_type
+      label: product_type
+      hint: null
+      type: select_one
+      options:
+      - phone
+      - laptop
+      - tablet
+      - desktop
+      - monitor
+      - gaming_console
+      - gaming_pc
+      - other
+      required: true
+    - id: 2
+      name: budget
+      label: budget
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: desired_price
+      label: desired_price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: color
+      label: color
+      hint: null
+      type: select_multiple
+      options:
+      - black
+      - white
+      - red
+      - blue
+      - green
+      - yellow
+      - other
+      required: false
+    - id: 5
+      name: display_size
+      label: display_size
+      hint: null
+      type: select_multiple
+      options:
+      - small
+      - medium
+      - large
+      required: true
+    - id: 6
+      name: form_of_payment
+      label: form_of_payment
+      hint: null
+      type: select_multiple
+      options:
+      - cash
+      - credit
+      required: true
+    - id: 7
+      name: other_details
+      label: other_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: submit_request
+      label: submit_request
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: user_message
+      label: user_message
+      hint: null
+      type: note
+      options: []
+      required: true

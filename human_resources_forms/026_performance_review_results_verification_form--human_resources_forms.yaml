@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Performance Review Results Verification Form
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: reviewer_id
+      label: Reviewer Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: performance_score
+      label: Performance Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: review_period
+      label: Review Period
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      - Pending
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: employee_evaluation
+      label: Employee Evaluation
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Average
+      - Below average
+      required: false
+    - id: 9
+      name: review_comments
+      label: Review Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: evaluation_comments
+      label: Evaluation Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: approval_date
+      label: Approval Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      - Pending
+      required: false
+    - id: 13
+      name: review_cycle
+      label: Review Cycle
+      hint: null
+      type: select_one
+      options:
+      - First Cycle
+      - Second Cycle
+      - Third Cycle
+      required: false
+    - id: 14
+      name: review_comments_2
+      label: Review Comments 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: evaluation_comments_2
+      label: Evaluation Comments 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: review_cycle_2
+      label: Review Cycle 2
+      hint: null
+      type: select_one
+      options:
+      - First Cycle
+      - Second Cycle
+      - Third Cycle
+      required: false

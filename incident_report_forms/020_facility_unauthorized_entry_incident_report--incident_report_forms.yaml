@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Facility Unauthorized Entry Incident Report
+    pages:
+    - id: 1
+      name: facility_unauthorized_entry_incident_report_form
+      label: facility-unauthorized-entry-incident-report-form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: facility_name
+      label: facility-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: unauthorized_entry_date
+      label: unauthorized-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: unauthorized_time
+      label: unauthorized-time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: incident_description
+      label: incident-description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: prophets_and_security_officers_involved
+      label: prophets-and-security-officers-involved
+      hint: null
+      type: select_multiple
+      options:
+      - -æká -bประก -c -dประก
+      - Other
+      required: false
+    - id: 7
+      name: incident_location
+      label: incident-location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: description_of_incident
+      label: description-of-incident
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: incident_outcome
+      label: incident-outcome
+      hint: null
+      type: select_one
+      options:
+      - completed
+      - closed
+      - pending
+      required: true
+    - id: 10
+      name: incident_date_completed
+      label: incident-date-completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: incident_date_reported
+      label: incident-date-reported
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: incident_time_reported
+      label: incident-time-reported
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: facility_phone
+      label: facility-phone
+      hint: null
+      type: text
+      options: []
+      required: false

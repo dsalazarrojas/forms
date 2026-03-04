@@ -1,0 +1,376 @@
+inputSchema:
+  type: object
+  properties:
+    title: Alumni Update Form
+    pages:
+    - id: 1
+      name: section_welcome
+      label: -- Welcome Alumni Update Form --
+      hint: Help us keep your information current. Please update any changes since
+        your last submission.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: section_personal_info
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: maiden_name
+      label: Maiden Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: graduation_year
+      label: Graduation Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: student_id
+      label: Student ID Number
+      hint: If you remember it
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: section_contact_update
+      label: -- Contact Information Updates --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email_primary
+      label: Primary Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: email_secondary
+      label: Secondary Email Address
+      hint: Optional backup email
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone_mobile
+      label: Mobile Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: phone_home
+      label: Home Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: phone_work
+      label: Work Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_address_update
+      label: -- Address Updates --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: street_address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: apartment_suite
+      label: Apartment/Suite Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: state_province
+      label: State/Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: zip_postal
+      label: ZIP/Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: country
+      label: Country
+      hint: null
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - United Kingdom
+      - Australia
+      - Other
+      required: true
+    - id: 21
+      name: section_employment_update
+      label: -- Employment Information Updates --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: employment_status
+      label: Current Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Employed Full-time
+      - Employed Part-time
+      - Self-employed
+      - Business Owner
+      - Unemployed - Seeking
+      - Unemployed - Not Seeking
+      - Retired
+      - Student
+      required: true
+    - id: 23
+      name: employer_name
+      label: Employer/Organization Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: job_title
+      label: Job Title/Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: industry_field
+      label: Industry/Field
+      hint: null
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Education
+      - Finance
+      - Business
+      - Engineering
+      - Arts
+      - Government
+      - Nonprofit
+      - Other
+      required: false
+    - id: 26
+      name: work_email
+      label: Work Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 27
+      name: work_address
+      label: Work Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: section_family_update
+      label: -- Family Information Updates --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: marital_status
+      label: Marital Status
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Married
+      - Domestic Partnership
+      - Divorced
+      - Widowed
+      - Prefer not to say
+      required: false
+    - id: 30
+      name: spouse_name
+      label: Spouse/Partner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: spouse_alumni_status
+      label: Is your spouse/partner also an alumnus
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not applicable
+      required: false
+    - id: 32
+      name: children_count
+      label: Number of Children
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 33
+      name: section_preferences_update
+      label: -- Communication Preferences Updates --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 34
+      name: newsletter_subscription
+      label: Alumni Newsletter Subscription
+      hint: null
+      type: select_one
+      options:
+      - Yes - Email
+      - Yes - Print
+      - Yes - Both
+      - No - Unsubscribe
+      required: true
+    - id: 35
+      name: event_notifications
+      label: Receive Event Notifications
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 36
+      name: directory_listing
+      label: Include in Alumni Directory
+      hint: Allow other alumni to contact you
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 37
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text Message
+      - Postal Mail
+      - Social Media
+      required: false
+    - id: 38
+      name: section_engagement_update
+      label: -- Engagement Updates --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 39
+      name: volunteer_interest
+      label: Interest in Volunteering
+      hint: null
+      type: select_one
+      options:
+      - Very Interested
+      - Somewhat Interested
+      - Not Interested
+      required: false
+    - id: 40
+      name: mentorship_availability
+      label: Available to Mentor Students
+      hint: null
+      type: select_one
+      options:
+      - Yes - Currently mentoring
+      - Yes - Willing to start
+      - No - Not available
+      required: false
+    - id: 41
+      name: donation_interest
+      label: Interest in Making Donations
+      hint: null
+      type: select_one
+      options:
+      - Yes - Regular donor
+      - Yes - Occasional donor
+      - Considering
+      - false
+      required: false
+    - id: 42
+      name: section_additional
+      label: -- Additional Updates --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 43
+      name: achievements
+      label: Recent Achievements or News
+      hint: Promotions, awards, publications, etc.
+      type: text
+      options: []
+      required: false
+    - id: 44
+      name: additional_comments
+      label: Additional Comments or Updates
+      hint: Anything else you would like to share
+      type: text
+      options: []
+      required: false
+    - id: 45
+      name: update_date
+      label: Date of Update
+      hint: null
+      type: date
+      options: []
+      required: true

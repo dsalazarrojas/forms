@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workforce Communication Channel Contact Form
+    pages:
+    - id: 1
+      name: workforce_communication_channel_contact_form
+      label: Contact Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_requestor
+      label: Contact Requestor
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 7
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true

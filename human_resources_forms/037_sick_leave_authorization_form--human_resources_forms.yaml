@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sick Leave Authorization Form
+    pages:
+    - id: 1
+      name: sick_leave_request
+      label: Sick Leave Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: reason_for_absence
+      label: Reason for Absence
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: return_date
+      label: Return Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: manager_approval
+      label: Manager Approval
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Approved''}'
+      - '{''value'': ''Not Approved''}'
+      - '{''value'': ''Pending''}'
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

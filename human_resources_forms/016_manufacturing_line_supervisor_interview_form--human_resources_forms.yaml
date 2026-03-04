@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Manufacturing Line Supervisor Interview Form
+    pages:
+    - id: 1
+      name: manufacturing_line_supervisor_interview_form
+      label: Manufacturing Line Supervisor Interview
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: production_line_name
+      label: Production Line
+      hint: null
+      type: select_one
+      options:
+      - Production Line A
+      - Production Line B
+      - Production Line C
+      required: true
+    - id: 3
+      name: interview_date
+      label: Interview Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: supervisor_name
+      label: Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: interview_location
+      label: Interview Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: candidate_performance_score
+      label: Candidate Performance Score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: candidate_skills
+      label: Candidate Skills
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: production_line_notes
+      label: Production Line Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: recommended_for_promotion
+      label: Recommended For Promotion
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false

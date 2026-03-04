@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: Payroll Tax Process Survey
+    pages:
+    - id: 1
+      name: company_size
+      label: company_size
+      hint: null
+      type: select_one
+      options:
+      - Small Business
+      - Large Business
+      - Enterprise
+      required: false
+    - id: 2
+      name: department
+      label: department
+      hint: null
+      type: select_multiple
+      options:
+      - Accounting
+      - Payroll
+      - Operations
+      - Management
+      required: false
+    - id: 3
+      name: tax_year
+      label: tax_year
+      hint: null
+      type: select_one
+      options:
+      - '2022'
+      - '2023'
+      - '2024'
+      required: false
+    - id: 4
+      name: tax_regulations
+      label: tax_regulations
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: tax_process
+      label: tax_process
+      hint: null
+      type: select_multiple
+      options:
+      - Compliance
+      - Efficiency
+      - Effectiveness
+      required: false
+    - id: 6
+      name: payroll_process_feedback
+      label: payroll_process_feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: improvement_suggestions
+      label: improvement_suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: compliance_status
+      label: compliance_status
+      hint: null
+      type: select_one
+      options:
+      - Partially Compliant
+      - Fully Compliant
+      - Not Compliant
+      required: false
+    - id: 9
+      name: compliance_issues
+      label: compliance_issues
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: tax_authority
+      label: tax_authority
+      hint: null
+      type: select_one
+      options:
+      - IRS
+      - State
+      - Local
+      required: false
+    - id: 11
+      name: tax_compliance
+      label: tax_compliance
+      hint: null
+      type: select_multiple
+      options:
+      - Compliance
+      - Partially Compliant
+      - Not Compliant
+      required: false
+    - id: 12
+      name: tax_fines
+      label: tax_fines
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 13
+      name: tax_fines_amount
+      label: tax_fines_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: tax_audit
+      label: tax_audit
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 15
+      name: tax_audit_results
+      label: tax_audit_results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: tax_fines_reason
+      label: tax_fines_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: tax_fines_description
+      label: tax_fines_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: endangered_species_registration_form
+    pages:
+    - id: 1
+      name: endangered_species_name
+      label: Endangered Species Name
+      hint: null
+      type: select_one
+      options:
+      - 'Species: African Lion'
+      - 'Species: Giant Panda'
+      - 'Species: Amur Leopard'
+      required: false
+    - id: 2
+      name: conservation_status
+      label: Conservation Status
+      hint: null
+      type: select_multiple
+      options:
+      - Endangered
+      - Vulnerable
+      - Near Threatened
+      - Least Concern
+      required: false
+    - id: 3
+      name: population_trend
+      label: Population Trend
+      hint: null
+      type: select_one
+      options:
+      - Increasing
+      - Decreasing
+      - Stable
+      required: false
+    - id: 4
+      name: habitat_type
+      label: Habitat Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: habitat_description
+      label: Habitat Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: conservation_actions
+      label: Conservation Actions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: file_upload
+      label: File Upload
+      hint: null
+      type: text
+      options: []
+      required: false

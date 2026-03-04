@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Low Code Development Consultation Request
+    pages:
+    - id: 1
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: lead_qualification
+      label: Qualify Lead
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''New Project''}'
+      - '{''value'': ''Existing Project''}'
+      required: true
+    - id: 3
+      name: schedule_consultation
+      label: Schedule Consultation
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Phone Call''}'
+      - '{''value'': ''Meeting''}'
+      - '{''value'': ''Email''}'
+      required: true
+    - id: 4
+      name: project_type
+      label: Project Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''New Application''}'
+      - '{''value'': ''Existing Application''}'
+      - '{''value'': ''New Service''}'
+      - '{''value'': ''Existing Service''}'
+      required: true
+    - id: 5
+      name: expected_outcome
+      label: Expected Outcome
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Project Completion''}'
+      - '{''value'': ''Project Continuation''}'
+      - '{''value'': ''Project Closure''}'
+      - '{''value'': ''Project Delay''}'
+      required: true
+    - id: 6
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Active''}'
+      - '{''value'': ''In Progress''}'
+      - '{''value'': ''Completed''}'
+      - '{''value'': ''Closed''}'
+      required: true
+    - id: 7
+      name: project_deadline
+      label: Project Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: project_lead_status
+      label: Project Lead Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''New''}'
+      - '{''value'': ''Existing''}'
+      required: true
+    - id: 9
+      name: project_manager
+      label: Project Manager
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: project_manager_email
+      label: Project Manager Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: project_manager_phone
+      label: Project Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: project_notes
+      label: Project Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: project_contact
+      label: Project Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: project_manager_location
+      label: Project Manager Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: technical_stack
+      label: Technical Stack
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Front-end''}'
+      - '{''value'': ''Back-end''}'
+      - '{''value'': ''Full-stack''}'
+      - '{''value'': ''Other''}'
+      required: true
+    - id: 18
+      name: project_size
+      label: Project Size
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Small''}'
+      - '{''value'': ''Medium''}'
+      - '{''value'': ''Large''}'
+      - '{''value'': ''Extra Large''}'
+      required: true
+    - id: 19
+      name: project_team
+      label: Project Team
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: project_priority
+      label: Project Priority
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''High''}'
+      - '{''value'': ''Medium''}'
+      - '{''value'': ''Low''}'
+      required: true
+    - id: 21
+      name: project_deadline_date
+      label: Project Deadline Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: project_deadline_time
+      label: Project Deadline Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: project_deadline_time_zone
+      label: Project Deadline Time Zone
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''UTC''}'
+      - '{''value'': ''Local''}'
+      required: true
+    - id: 24
+      name: submission
+      label: Submission
+      hint: null
+      type: text
+      options: []
+      required: false

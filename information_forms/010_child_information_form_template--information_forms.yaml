@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: Child Information Form Template
+    pages:
+    - id: 1
+      name: form_date
+      label: Form Date
+      hint: Date of information form submission
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: child_first_name
+      label: Child First Name
+      hint: Legal first name of the child
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: child_middle_name
+      label: Child Middle Name
+      hint: Middle name of the child
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: child_last_name
+      label: Child Last Name
+      hint: Legal last name of the child
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: child_nickname
+      label: Child Nickname
+      hint: Preferred nickname or name child goes by
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: child_date_of_birth
+      label: Child Date of Birth
+      hint: Please provide the child's birth date
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: child_age
+      label: Child Age
+      hint: Current age of the child in years
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: child_gender
+      label: Child Gender
+      hint: Select the child's gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      - Other
+      required: true
+    - id: 9
+      name: child_pronouns
+      label: Child Pronouns
+      hint: Preferred pronouns for the child
+      type: select_one
+      options:
+      - He/Him
+      - She/Her
+      - They/Them
+      - Ze/Zir
+      - Prefer not to say
+      - Other
+      required: false
+    - id: 10
+      name: place_of_birth
+      label: Place of Birth
+      hint: City and state or country of birth
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: parent_guardian_first_name
+      label: Parent or Guardian First Name
+      hint: Legal first name of parent or guardian
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: parent_guardian_last_name
+      label: Parent or Guardian Last Name
+      hint: Legal last name of parent or guardian
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: parent_guardian_email
+      label: Parent or Guardian Email
+      hint: Primary email address for contact
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: parent_guardian_phone
+      label: Parent or Guardian Phone
+      hint: Primary phone number for contact
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: home_address
+      label: Home Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: zip_code
+      label: Zip Code
+      hint: Postal or zip code
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: siblings_information
+      label: Siblings Information
+      hint: List names and ages of any siblings
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: languages_spoken_at_home
+      label: Languages Spoken at Home
+      hint: List all languages spoken in the household
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: child_interests
+      label: Child Interests and Hobbies
+      hint: What activities or topics does the child enjoy?
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: child_strengths
+      label: Child Strengths
+      hint: What are the child's notable strengths or talents?
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: child_challenges
+      label: Child Challenges
+      hint: Any challenges or areas where the child needs support
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: additional_information
+      label: Additional Information
+      hint: Any other information you would like to share
+      type: text
+      options: []
+      required: false

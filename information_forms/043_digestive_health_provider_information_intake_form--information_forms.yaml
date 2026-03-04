@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digestive Health Provider Information Intake Form
+    pages:
+    - id: 1
+      name: provider_details
+      label: Provider Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: directory_details
+      label: Directory Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: referral_details
+      label: Referral Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: provider_license
+      label: License Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: provider_contact
+      label: Contact Person
+      hint: null
+      type: select_one
+      options:
+      - Provider
+      - Receptionist
+      - Other
+      required: false
+    - id: 7
+      name: provider_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: practice_name
+      label: Practice Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: provider_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: provider_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

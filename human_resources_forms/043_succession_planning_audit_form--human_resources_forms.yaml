@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Succession Planning Audit Form
+    pages:
+    - id: 1
+      name: succession_planning_audit_form
+      label: succession_planning_audit_form_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: organization
+      label: organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employee_readiness_rating
+      label: employee_readiness_rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: transition_planning_status
+      label: transition_planning_status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Manufacturing Long Term Sick Leave Request
+    pages:
+    - id: 1
+      name: employee
+      label: Employee
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: job_title
+      label: job title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: reporting_manager
+      label: reporting manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: start_date
+      label: start date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: end_date
+      label: end date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: leave_type
+      label: leave type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Medical''}'
+      - '{''id'': 2, ''label'': ''Personal''}'
+      - '{''id'': 3, ''label'': ''Family''}'
+      - '{''id'': 4, ''label'': ''Vacation''}'
+      required: true
+    - id: 7
+      name: leave_days
+      label: leave days
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: reason
+      label: reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: medical_certificate
+      label: medical certificate
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: doctor_name
+      label: doctor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: doctor_phone
+      label: doctor phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: doctor_address
+      label: doctor address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: hospital_name
+      label: hospital
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: hospital_address
+      label: hospital address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: doctor_license
+      label: doctor license
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: medical_certificate_uploaded
+      label: medical certificate uploaded
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false
+    - id: 17
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submitter
+      label: submitter
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: approver
+      label: approver
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: approval_date
+      label: approval date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: approval_time
+      label: approval time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Approved''}'
+      - '{''id'': 2, ''label'': ''Rejected''}'
+      - '{''id'': 3, ''label'': ''Pending''}'
+      required: true
+    - id: 23
+      name: comments_approved
+      label: comments approved
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: approver_comments
+      label: approver comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitter_comments
+      label: submitter comments
+      hint: null
+      type: text
+      options: []
+      required: false

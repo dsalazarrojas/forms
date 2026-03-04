@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Quote Request Form
+    pages:
+    - id: 1
+      name: wedding_quote_request_form_1
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: wedding_quote_request_form_2
+      label: wedding_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: wedding_quote_request_form_3
+      label: wedding_budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: wedding_quote_request_form_4
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: wedding_quote_request_form_5
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: wedding_quote_request_form_6
+      label: wedding_vendor
+      hint: null
+      type: select_one
+      options:
+      - vendor_1
+      - vendor_2
+      - vendor_3
+      required: false
+    - id: 7
+      name: wedding_quote_request_form_7
+      label: wedding_services
+      hint: null
+      type: select_multiple
+      options:
+      - service_1
+      - service_2
+      - service_3
+      required: false
+    - id: 8
+      name: wedding_quote_request_form_8
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: wedding_quote_request_form_9
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

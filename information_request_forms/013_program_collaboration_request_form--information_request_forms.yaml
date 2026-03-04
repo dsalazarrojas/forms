@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: program_collaboration_request_form
+    pages:
+    - id: 1
+      name: collaboration_type
+      label: Collaboration type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: objectives
+      label: Objectives
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: timelines
+      label: Timelines
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: collaboration_request_form
+      label: Collaboration Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: collaboration_details
+      label: Collaboration Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: collaboration_request_status
+      label: Collaboration Request Status
+      hint: null
+      type: select_one
+      options:
+      - Requested
+      - Approved
+      - Rejected
+      required: false
+    - id: 7
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: assigned_tool_name
+      label: Assigned Tool Name
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false

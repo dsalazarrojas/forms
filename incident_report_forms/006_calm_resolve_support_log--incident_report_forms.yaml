@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Calm Resolve Support Log
+    pages:
+      - id: 1
+        name: staff_name
+        label: Staff Name
+        hint: Support staff who handled the session
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: client_name
+        label: Client Name
+        hint: Person who received support
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: session_date
+        label: Session Date
+        hint: Date of the support session
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: session_time
+        label: Session Time
+        hint: Time the session began
+        type: time
+        options: []
+        required: false
+      - id: 5
+        name: issue_summary
+        label: Issue Summary
+        hint: Brief description of the support issue
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: actions_taken
+        label: Actions Taken
+        hint: Steps taken during the session to resolve the issue
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: resolution_status
+        label: Resolution Status
+        hint: Indicate whether the issue was resolved
+        type: select_one
+        options: [Resolved, Escalated, Pending]
+        required: true
+      - id: 8
+        name: follow_up_required
+        label: Follow Up Required
+        hint: Is further action required
+        type: select_one
+        options: [Yes, No]
+        required: true
+      - id: 9
+        name: follow_up_by
+        label: Follow Up Assigned To
+        hint: Staff assigned to follow up if needed
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: notes
+        label: Additional Notes
+        hint: Any further comments or observations
+        type: text
+        options: []
+        required: false

@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Artist Information Form
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: artist_name
+      label: Artist or Stage Name
+      hint: How you want to be credited professionally
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: section_header_2
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email_address
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: address
+      label: Street Address
+      hint: Your mailing address
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: section_header_3
+      label: -- Artist Profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: primary_genre
+      label: Primary Genre
+      hint: Main music genre you perform
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: secondary_genres
+      label: Secondary Genres
+      hint: Other genres you work with
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: years_experience
+      label: Years of Experience
+      hint: How long have you been performing?
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: artist_bio
+      label: Artist Biography
+      hint: Tell us about yourself and your music
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: section_header_4
+      label: -- Instruments and Skills --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: primary_instrument
+      label: Primary Instrument
+      hint: Your main instrument
+      type: select_one
+      options:
+      - Vocals
+      - Guitar
+      - Bass
+      - Drums
+      - Keyboard
+      - Piano
+      - Violin
+      - Saxophone
+      - Trumpet
+      - Other
+      required: true
+    - id: 18
+      name: secondary_instruments
+      label: Secondary Instruments
+      hint: Other instruments you play
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: special_skills
+      label: Special Skills or Talents
+      hint: Any unique abilities or talents?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: section_header_5
+      label: -- Music and Performance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: music_style
+      label: Musical Style or Approach
+      hint: Describe your unique style
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: performance_experience
+      label: Performance Venues or Events
+      hint: Where have you performed?
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: streaming_links
+      label: Links to Your Music
+      hint: Spotify, YouTube, SoundCloud, etc.
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: availability
+      label: Availability for Performances
+      hint: When can you perform?
+      type: select_one
+      options:
+      - Full-time
+      - Weekends only
+      - Evenings only
+      - Flexible
+      required: false
+    - id: 25
+      name: additional_info
+      label: Additional Information or Comments
+      hint: Any other relevant information?
+      type: text
+      options: []
+      required: false

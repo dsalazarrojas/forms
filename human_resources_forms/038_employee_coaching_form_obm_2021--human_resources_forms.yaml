@@ -1,0 +1,96 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Employee Coaching Form OBM 2021
+    pages:
+    - id: 1
+      name: employee_data
+      label: Employee Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: coaching_topics
+      label: Coaching Topics
+      hint: null
+      type: select_multiple
+      options:
+      - Topic A
+      - Topic B
+      - Topic C
+      required: true
+    - id: 4
+      name: coaching_notes
+      label: Coaching Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: action_items
+      label: Action Items
+      hint: null
+      type: select_one
+      options:
+      - Item 1
+      - Item 2
+      - Item 3
+      required: true
+    - id: 6
+      name: action_item_details
+      label: Item Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - Tool 1
+      - Tool 2
+      required: true
+    - id: 9
+      name: coaching_status
+      label: Coaching Status
+      hint: null
+      type: select_one
+      options:
+      - Status 1
+      - Status 2
+      required: true
+    - id: 10
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false

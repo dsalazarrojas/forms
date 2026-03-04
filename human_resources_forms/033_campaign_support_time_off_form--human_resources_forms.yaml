@@ -1,0 +1,252 @@
+inputSchema:
+  type: object
+  properties:
+    title: Campaign Support Time Off Form
+    pages:
+    - id: 1
+      name: employee_first_name
+      label: Employee First Name
+      hint: First name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_last_name
+      label: Employee Last Name
+      hint: Last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: department
+      label: Department
+      hint: Your department
+      type: select_one
+      options:
+      - Marketing
+      - Sales
+      - Operations
+      - Human Resources
+      - Finance
+      - IT
+      - Customer Service
+      - Other
+      required: true
+    - id: 7
+      name: manager_name
+      label: Manager Name
+      hint: Direct supervisor
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: position_title
+      label: Position Title
+      hint: Your job title
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: hire_date
+      label: Hire Date
+      hint: When were you hired
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: leave_type
+      label: Type of Leave Requested
+      hint: Select type
+      type: select_one
+      options:
+      - Campaign volunteer leave
+      - Political activity leave
+      - Community service leave
+      - Personal leave
+      - Medical leave
+      - Family leave
+      - Bereavement leave
+      - Other
+      required: true
+    - id: 11
+      name: campaign_name
+      label: Campaign Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: campaign_organization
+      label: Campaign Organization
+      hint: Organization name
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: leave_start_date
+      label: Leave Start Date
+      hint: First day of leave
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: leave_end_date
+      label: Leave End Date
+      hint: Last day of leave
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: total_days_requested
+      label: Total Days Requested
+      hint: Number of days
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: return_date
+      label: Expected Return Date
+      hint: When will you return
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: leave_frequency
+      label: Leave Frequency
+      hint: Select frequency
+      type: select_one
+      options:
+      - One-time request
+      - Recurring - weekly
+      - Recurring - biweekly
+      - Recurring - monthly
+      - As needed
+      required: true
+    - id: 18
+      name: reason_for_leave
+      label: Reason for Leave
+      hint: Describe the reason
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: work_handover
+      label: Work Handover Plan
+      hint: How will your work be covered
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: coverage_arrangements
+      label: Coverage Arrangements
+      hint: Who will cover for you
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: urgent_contact_during_leave
+      label: Can You Be Contacted for Urgent Matters
+      hint: Yes or no
+      type: select_one
+      options:
+      - Yes - available by phone
+      - Yes - available by email
+      - Limited availability
+      - No - unavailable
+      required: true
+    - id: 22
+      name: paid_or_unpaid
+      label: Is This Leave Paid or Unpaid
+      hint: Select status
+      type: select_one
+      options:
+      - Paid leave
+      - Unpaid leave
+      - Partially paid
+      - Using vacation days
+      - Using personal days
+      required: true
+    - id: 23
+      name: supporting_documentation
+      label: Are You Attaching Supporting Documentation
+      hint: Yes or no
+      type: select_one
+      options:
+      - Yes - attached
+      - Yes - will provide
+      - false
+      required: false
+    - id: 24
+      name: previous_similar_requests
+      label: Have You Made Similar Requests Before
+      hint: Yes or no
+      type: select_one
+      options:
+      - Yes - approved
+      - Yes - denied
+      - No - first time
+      required: false
+    - id: 25
+      name: employee_signature
+      label: Employee Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: signature_date
+      label: Date Signed
+      hint: Date
+      type: date
+      options: []
+      required: true
+    - id: 27
+      name: manager_approval
+      label: Manager Approval Status
+      hint: For manager use
+      type: select_one
+      options:
+      - Pending review
+      - Approved
+      - Denied
+      - Needs HR review
+      required: false
+    - id: 28
+      name: manager_signature
+      label: Manager Signature
+      hint: For approval
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: hr_review
+      label: HR Review Status
+      hint: For HR use
+      type: select_one
+      options:
+      - Not yet reviewed
+      - Under review
+      - Approved
+      - Denied
+      required: false

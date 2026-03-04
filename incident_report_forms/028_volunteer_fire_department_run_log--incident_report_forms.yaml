@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Volunteer Fire Department Run Log
+    pages:
+    - id: 1
+      name: fire_department
+      label: Volunteer Fire Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: call_type
+      label: Call Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: response
+      label: Response
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: units_arrived
+      label: Units Arrived
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: units_responding
+      label: Units Responding
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: units_returned
+      label: Units Returned
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: injuries
+      label: Injuries
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: injuries_type
+      label: Injury Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: injuries_description
+      label: Injuries Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: property_damage
+      label: Property Damage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: vehicle_involved
+      label: Vehicle Involved
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: vehicle_license
+      label: License
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: driver_injuries
+      label: Driver Injuries
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: passengers_injuries
+      label: Passengers Injuries
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: passengers
+      label: Passengers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: property_damage_description
+      label: Property Damage Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: incident_status
+      label: Incident Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 23
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: photos
+      label: Photos
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,219 @@
+inputSchema:
+  type: object
+  properties:
+    title: Exit Survey
+    pages:
+    - id: 1
+      name: why_leaving
+      label: Why are you leaving the company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reason_for_leaving
+      label: What was the reason for your departure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_satisfaction
+      label: Rate your overall job satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: work_life_balance
+      label: How do you feel about the work-life balance in this company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: communication
+      label: How would you rate the communication style of your manager
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Very good''}'
+      - '{''id'': 2, ''value'': ''Neutral''}'
+      - '{''id'': 3, ''value'': ''Very poor''}'
+      required: false
+    - id: 6
+      name: work_environment
+      label: How would you rate your work environment
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Very good''}'
+      - '{''id'': 2, ''value'': ''Neutral''}'
+      - '{''id'': 3, ''value'': ''Very poor''}'
+      - '{''id'': 4, ''value'': ''Uncomfortable''}'
+      required: false
+    - id: 7
+      name: company_culture
+      label: How would you rate the company culture
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Very good''}'
+      - '{''id'': 2, ''value'': ''Neutral''}'
+      - '{''id'': 3, ''value'': ''Very poor''}'
+      - '{''id'': 4, ''value'': ''Uncomfortable''}'
+      required: false
+    - id: 8
+      name: manager_support
+      label: How would you rate your manager's support
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Very good''}'
+      - '{''id'': 2, ''value'': ''Neutral''}'
+      - '{''id'': 3, ''value'': ''Very poor''}'
+      - '{''id'': 4, ''value'': ''Very low''}'
+      required: false
+    - id: 9
+      name: benefits
+      label: What benefits did we miss
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: manager_support2
+      label: What could your manager do to better support you
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: work_satisfaction_2
+      label: Rate your overall work satisfaction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: communication_2
+      label: How would you rate the communication style of your team leader
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: work_environment_2
+      label: How would you rate your work environment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: company_culture_2
+      label: How would you rate the company culture
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: feedback_2
+      label: How important is feedback in your work environment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: company_policies
+      label: How would you rate our company policies
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Very good''}'
+      - '{''id'': 2, ''value'': ''Neutral''}'
+      - '{''id'': 3, ''value'': ''Very poor''}'
+      - '{''id'': 4, ''value'': ''Very low''}'
+      required: false
+    - id: 17
+      name: communication_3
+      label: How would you rate the communication with colleagues
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Very good''}'
+      - '{''id'': 2, ''value'': ''Neutral''}'
+      - '{''id'': 3, ''value'': ''Very poor''}'
+      - '{''id'': 4, ''value'': ''Very low''}'
+      required: false
+    - id: 18
+      name: work_life_balance_2
+      label: How do you feel about the work-life balance
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Very good''}'
+      - '{''id'': 2, ''value'': ''Neutral''}'
+      - '{''id'': 3, ''value'': ''Very poor''}'
+      - '{''id'': 4, ''value'': ''Very low''}'
+      required: false
+    - id: 19
+      name: team_support
+      label: How would you rate your team support
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Very good''}'
+      - '{''id'': 2, ''value'': ''Neutral''}'
+      - '{''id'': 3, ''value'': ''Very poor''}'
+      - '{''id'': 4, ''value'': ''Very low''}'
+      required: false
+    - id: 20
+      name: overall_experience
+      label: Overall experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: suggestion
+      label: What can we improve
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: manager_2
+      label: How would you rate your manager
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Very good''}'
+      - '{''id'': 2, ''value'': ''Neutral''}'
+      - '{''id'': 3, ''value'': ''Very poor''}'
+      - '{''id'': 4, ''value'': ''Very low''}'
+      required: false
+    - id: 23
+      name: team_2
+      label: Team support
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Very good''}'
+      - '{''id'': 2, ''value'': ''Neutral''}'
+      - '{''id'': 3, ''value'': ''Very poor''}'
+      - '{''id'': 4, ''value'': ''Very low''}'
+      required: false
+    - id: 24
+      name: benefits_2
+      label: What benefits do we miss
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: job_satisfaction_2
+      label: How would you rate job satisfaction
+      hint: null
+      type: text
+      options: []
+      required: false

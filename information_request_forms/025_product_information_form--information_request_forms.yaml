@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: product_information_form
+    pages:
+    - id: 1
+      name: product_id
+      label: product id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: product_name
+      label: product name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: product_price
+      label: product price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: product_description
+      label: product description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: product_category
+      label: product category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: product_tags
+      label: product tags
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: product_image
+      label: product image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: product_date
+      label: product date
+      hint: null
+      type: date
+      options: []
+      required: false

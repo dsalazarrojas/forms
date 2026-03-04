@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Surgical Error Incident Form
+    pages:
+    - id: 1
+      name: incident_report_form
+      label: Incident Report Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incident_date
+      label: incident_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: surgeon_name
+      label: surgeon_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: surgical_error
+      label: surgical_error
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: patient_safety_outcome
+      label: patient_safety_outcome
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Teacher Information Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: position
+      label: Position
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: school_year
+      label: School Year
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: department_location
+      label: Department Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: room_number
+      label: Room Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: department_phone
+      label: Department Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: department_email
+      label: Department Email
+      hint: null
+      type: email
+      options: []
+      required: false

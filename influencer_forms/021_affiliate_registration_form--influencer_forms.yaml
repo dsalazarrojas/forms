@@ -1,0 +1,288 @@
+inputSchema:
+  type: object
+  properties:
+    title: Affiliate Registration Form
+    pages:
+    - id: 1
+      name: personal_information_section
+      label: Personal Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Enter your complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: preferred_contact_name
+      label: Preferred Contact Name
+      hint: Name you prefer to be contacted by
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Primary email for account access and communications
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Phone number for account verification
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: country
+      label: Country
+      hint: Your country of residence
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - United Kingdom
+      - Australia
+      - Germany
+      - France
+      - Japan
+      - India
+      - Brazil
+      - Mexico
+      - Other
+      required: true
+    - id: 7
+      name: business_information_section
+      label: Business Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: business_name
+      label: Business Name
+      hint: Name of your business or company (if applicable)
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: business_type
+      label: Business Type
+      hint: Type of business entity
+      type: select_one
+      options:
+      - Individual/Sole Proprietor
+      - Partnership
+      - LLC
+      - Corporation
+      - Non-profit
+      - Other
+      required: true
+    - id: 10
+      name: tax_id
+      label: Tax ID or SSN
+      hint: Tax identification number or Social Security Number
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: marketing_platforms_section
+      label: Marketing Platforms
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: primary_platform
+      label: Primary Marketing Platform
+      hint: Which platform do you primarily use for marketing?
+      type: select_one
+      options:
+      - Instagram
+      - YouTube
+      - TikTok
+      - Facebook
+      - Twitter
+      - Blog/Website
+      - Pinterest
+      - LinkedIn
+      - Snapchat
+      - Other
+      required: true
+    - id: 13
+      name: platform_handles
+      label: Platform Handles
+      hint: Your usernames/handles on marketing platforms
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: audience_demographics
+      label: Audience Demographics
+      hint: Describe your primary audience (age range, interests, etc.)
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: average_monthly_reach
+      label: Average Monthly Reach
+      hint: Approximately how many people do you reach monthly?
+      type: select_one
+      options:
+      - Under 1,000
+      - 1,000-5,000
+      - 5,000-10,000
+      - 10,000-50,000
+      - 50,000-100,000
+      - Over 100,000
+      required: true
+    - id: 16
+      name: content_types
+      label: Content Types
+      hint: What types of content do you create?
+      type: select_multiple
+      options:
+      - Photos
+      - Videos
+      - Blog Posts
+      - Live Streams
+      - Stories
+      - Podcasts
+      - Tutorials
+      - Reviews
+      required: true
+    - id: 17
+      name: niche_categories
+      label: Niche Categories
+      hint: What niches/categories do you specialize in?
+      type: select_multiple
+      options:
+      - Fashion
+      - Beauty
+      - Fitness
+      - Travel
+      - Food
+      - Technology
+      - Gaming
+      - Parenting
+      - Finance
+      - Home Decor
+      - DIY/Crafts
+      - Pets
+      required: true
+    - id: 18
+      name: marketing_experience_section
+      label: Marketing Experience
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: years_marketing_experience
+      label: Years of Marketing Experience
+      hint: How many years of experience do you have in marketing?
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: previous_affiliate_programs
+      label: Previous Affiliate Programs
+      hint: Have you participated in affiliate programs before?
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: previous_affiliate_details
+      label: Details of Previous Affiliate Experience
+      hint: If yes, please list the programs and your performance
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: marketing_strategy
+      label: Marketing Strategy
+      hint: How do you plan to promote our products/services?
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: payment_information_section
+      label: Payment Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: preferred_payment_method
+      label: Preferred Payment Method
+      hint: How would you like to receive payments?
+      type: select_one
+      options:
+      - Direct Deposit
+      - PayPal
+      - Check
+      - Wire Transfer
+      - Other
+      required: true
+    - id: 25
+      name: payment_email
+      label: Payment Email
+      hint: Email associated with your payment method (if applicable)
+      type: email
+      options: []
+      required: false
+    - id: 26
+      name: bank_account_info
+      label: Bank Account Information
+      hint: Bank details for direct deposit (if selected)
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: terms_agreement_section
+      label: Terms Agreement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: terms_agreement
+      label: Terms and Conditions Agreement
+      hint: I agree to the affiliate program terms and conditions
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 29
+      name: privacy_policy_agreement
+      label: Privacy Policy Agreement
+      hint: I agree to the privacy policy
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 30
+      name: disclosure_compliance
+      label: Disclosure Compliance
+      hint: I agree to properly disclose affiliate relationships as required by law
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 31
+      name: signature
+      label: Electronic Signature
+      hint: Sign to confirm your registration
+      type: text
+      options: []
+      required: true

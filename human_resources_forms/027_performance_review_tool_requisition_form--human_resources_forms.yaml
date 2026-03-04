@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: performance-review-tool-requisition-form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: title
+      label: Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: team
+      label: Team
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: manager_id
+      label: Manager ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: requisition_reason
+      label: Requisition Reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: performance_period
+      label: Performance Period
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: submitted_time
+      label: Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: submitted_by_full_name
+      label: Submitted By Full Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitted_by_title
+      label: Submitted By Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitted_by_email
+      label: Submitted By Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: submitted_by_phone
+      label: Submitted By Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: reviewer_id
+      label: Reviewer ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: reviewer_title
+      label: Reviewer Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: reviewer_email
+      label: Reviewer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 21
+      name: reviewer_remark
+      label: Reviewer Remark
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: reviewer_attachment
+      label: Reviewer Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: reviewer_comment
+      label: Reviewer Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 25
+      name: assigned_to_id
+      label: Assigned To ID
+      hint: null
+      type: text
+      options: []
+      required: false

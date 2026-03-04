@@ -1,0 +1,47 @@
+inputSchema:
+  type: object
+  properties:
+    title: Disaster Response Leave Form
+    pages:
+    - id: 1
+      name: emergency_type
+      label: Emergency Type
+      hint: null
+      type: select_one
+      options:
+      - Disaster
+      - Weather
+      - Medical
+      - Family
+      - Other
+      required: false
+    - id: 2
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: request_time
+      label: Request Time
+      hint: null
+      type: select_multiple
+      options:
+      - 09:00
+      - '600'
+      - '660'
+      - '720'
+      - '780'
+      - '840'
+      - '900'
+      - '960'
+      - '1020'
+      required: false
+    - id: 4
+      name: duration_days
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false

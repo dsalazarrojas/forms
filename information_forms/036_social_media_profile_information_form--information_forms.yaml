@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Media Profile Information Form
+    pages:
+    - id: 1
+      name: basic_info
+      label: basic info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: social_media
+      label: social media
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_info
+      label: contact info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: account_type
+      label: account type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''None''}'
+      - '{''label'': ''Facebook''}'
+      - '{''label'': ''Instagram''}'
+      - '{''label'': ''LinkedIn''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 5
+      name: account_name
+      label: account name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: account_link
+      label: account link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: account_type_description
+      label: account type description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: account_url
+      label: account url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: profile_picture
+      label: profile picture
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: profile_picture_url
+      label: profile picture url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: profile_picture_url_type
+      label: profile picture url type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''External URL''}'
+      - '{''label'': ''Upload''}'
+      - '{''label'': ''None''}'
+      required: false
+    - id: 12
+      name: bio
+      label: bio
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: profile_links
+      label: profile links
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: bio_publication
+      label: bio publication
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: bio_updated
+      label: bio updated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: phone_number
+      label: phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: account_created
+      label: account created
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: account_status
+      label: account status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Active''}'
+      - '{''label'': ''Inactive''}'
+      - '{''label'': ''Deleted''}'
+      - '{''label'': ''Suspended''}'
+      required: false
+    - id: 20
+      name: account_last_updated
+      label: account last updated
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: account_last_updated_by
+      label: account last updated by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: account_owner
+      label: account owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: account_owner_email
+      label: account owner email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: account_notes
+      label: account notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: account_last_note
+      label: account last note
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: tzs_foundation_scholarship_2020_information_seeking_form
+    pages:
+    - id: 1
+      name: college_name
+      label: College Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: potential_partners
+      label: Potential Partners
+      hint: null
+      type: select_multiple
+      options:
+      - University of Technology
+      - University of Agriculture
+      - University of Engineering
+      - University of Education
+      - University of Business
+      - University of Science
+      - University of Arts
+      required: false
+    - id: 7
+      name: is_potential
+      label: Is Potential
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

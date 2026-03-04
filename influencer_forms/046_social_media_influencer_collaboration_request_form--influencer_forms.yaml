@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: social_media_influencer_collaboration_request_form
+    pages:
+    - id: 1
+      name: brand_name
+      label: Brand Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: proposal
+      label: Proposal
+      hint: A brief proposal from the brand, including any supporting documents or
+        media.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: media
+      label: Media
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Image''}'
+      - '{''label'': ''Video''}'
+      - '{''label'': ''Audio''}'
+      - '{''label'': ''Text''}'
+      required: false
+    - id: 6
+      name: categories
+      label: Categories
+      hint: Select all categories the brand is interested in.
+      type: select_multiple
+      options:
+      - '{''label'': ''Fashion''}'
+      - '{''label'': ''Beauty''}'
+      - '{''label'': ''Food''}'
+      - '{''label'': ''Sports''}'
+      - '{''label'': ''Gaming''}'
+      - '{''label'': ''Travel''}'
+      required: false
+    - id: 7
+      name: expected_collaboration
+      label: Expected Collaboration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: preferred_communication
+      label: Preferred Communication
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Email''}'
+      - '{''label'': ''Phone''}'
+      - '{''label'': ''In-app''}'
+      required: false
+    - id: 9
+      name: additional_info
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: proposal_deadline
+      label: Proposal Deadline
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: proposal_review_date
+      label: Proposal Review Date
+      hint: null
+      type: date
+      options: []
+      required: false

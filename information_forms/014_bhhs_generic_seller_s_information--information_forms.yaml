@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: BHHS Generic - Seller(s) Information
+    pages:
+    - id: 1
+      name: section_primary_seller
+      label: -- Primary Seller Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: primary_seller_name
+      label: Primary Seller Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: primary_seller_phone
+      label: Primary Seller Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: primary_seller_email
+      label: Primary Seller Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: section_secondary_seller
+      label: -- Secondary Seller Information (if applicable) --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: secondary_seller_name
+      label: Secondary Seller Name
+      hint: Full name
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: secondary_seller_phone
+      label: Secondary Seller Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: secondary_seller_email
+      label: Secondary Seller Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: section_property_details
+      label: -- Property Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: property_address
+      label: Property Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Single Family
+      - Condo
+      - Townhome
+      - Multi-Family
+      - Land
+      - Other
+      required: true
+    - id: 12
+      name: bedrooms
+      label: Number of Bedrooms
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: bathrooms
+      label: Number of Bathrooms
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: asking_price
+      label: Asking Price
+      hint: In dollars
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: mortgage_payoff
+      label: Outstanding Mortgage Payoff Amount
+      hint: In dollars
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: timeline
+      label: Desired Timeline for Sale
+      hint: How soon do you want to sell?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: property_condition
+      label: General Property Condition
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Needs Work
+      required: false
+    - id: 18
+      name: additional_information
+      label: Additional Information
+      hint: Any other relevant details?
+      type: text
+      options: []
+      required: false

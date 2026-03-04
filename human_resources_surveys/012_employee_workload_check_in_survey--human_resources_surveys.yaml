@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Workload Check In Survey
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: team_member_id
+      label: Team Member ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: workload
+      label: Workload
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: stress
+      label: Stress
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: burnout
+      label: Burnout
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: work_hours
+      label: Work Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: work_hours_per_week
+      label: Work Hours Per Week
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: days_off
+      label: Days Off
+      hint: null
+      type: date
+      options: []
+      required: false

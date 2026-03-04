@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: entry_level_remote_it_support_specialist_application_form
+    pages:
+    - id: 1
+      name: personal_details
+      label: Personal Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: resume
+      label: resume
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: work_experience
+      label: work_experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: education
+      label: education
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: skills
+      label: skills
+      hint: null
+      type: select_one
+      options:
+      - IT support specialist
+      - help desk specialist
+      - network administrator
+      - cloud specialist
+      - database administrator
+      required: true
+    - id: 11
+      name: job_type
+      label: job_type
+      hint: null
+      type: select_multiple
+      options:
+      - full-time
+      - freelance
+      - intern
+      required: true
+    - id: 12
+      name: job_status
+      label: job_status prophets
+      hint: null
+      type: select_one
+      options:
+      - full-time
+      - part-time
+      required: false
+    - id: 13
+      name: job_shift
+      label: job_shift
+      hint: null
+      type: select_one
+      options:
+      - day
+      - night
+      required: false
+    - id: 14
+      name: job_schedule
+      label: job_schedule
+      hint: null
+      type: select_multiple
+      options:
+      - Monday to Friday
+      - Saturday and Sunday
+      required: false
+    - id: 15
+      name: available_hours
+      label: available_hours
+      hint: null
+      type: select_multiple
+      options:
+      - 8am-16pm
+      - 10am-18pm
+      - 12am-20pm
+      required: false

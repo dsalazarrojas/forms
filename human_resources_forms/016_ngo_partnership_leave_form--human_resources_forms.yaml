@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: NGO Partnership Leave Form
+    pages:
+    - id: 1
+      name: employee_request
+      label: Employee Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: partner_name
+      label: partner_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: partner_email
+      label: partner_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: partner_phone
+      label: partner_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: leave_start_time
+      label: leave_start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: leave_end_time
+      label: leave_end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: leave_days_off
+      label: leave_days_off
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: return_to_work_date
+      label: return_to_work_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: reason_for_leave
+      label: reason_for_leave
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: manager_approval
+      label: manager_approval
+      hint: null
+      type: select_one
+      options:
+      - Manager
+      - Team Lead
+      - Director
+      required: false
+    - id: 13
+      name: employee_approval
+      label: employee_approval
+      hint: null
+      type: select_multiple
+      options:
+      - Approved
+      - Declined
+      - Pending
+      required: false
+    - id: 14
+      name: leave_status
+      label: leave_status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Declined
+      - Pending
+      required: false
+    - id: 15
+      name: partner_comment
+      label: partner_comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: manager_comment
+      label: manager_comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: hr_approval
+      label: HR Approval
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Declined
+      - Pending
+      required: false
+    - id: 18
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: employee_notes
+      label: Employee Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: partner_notes
+      label: Partner Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: manager_notes
+      label: Manager Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: leave_request_type
+      label: leave_request_type
+      hint: null
+      type: select_one
+      options:
+      - Full Time
+      - Part Time
+      - Flexible
+      - Vacation
+      required: false
+    - id: 23
+      name: leave_request_frequency
+      label: leave_request_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Once
+      - Bi-Weekly
+      - Monthly
+      required: false
+    - id: 24
+      name: frequency_count
+      label: frequency_count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: leave_start_date_time
+      label: Leave Start Date/Time
+      hint: null
+      type: date
+      options: []
+      required: false

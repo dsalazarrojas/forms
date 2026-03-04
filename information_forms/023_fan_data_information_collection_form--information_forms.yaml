@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fan Data Information Collection Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: fan_type
+      label: Fan Type
+      hint: null
+      type: select_multiple
+      options:
+      - Fan
+      - Artist
+      - Organizer
+      - Other
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: artist_manager
+      label: Artist Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: team_member
+      label: Team Member
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: other_details
+      label: Other Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: social_media_platform
+      label: Social Media Platform
+      hint: null
+      type: select_one
+      options:
+      - Instagram
+      - Facebook
+      - Twitter
+      - TikTok
+      - YouTube
+      - Other
+      required: false
+    - id: 12
+      name: platform_url
+      label: Platform URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: website
+      label: Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: segment
+      label: Segment
+      hint: null
+      type: select_one
+      options:
+      - General
+      - Artist
+      - Fan
+      - Team
+      required: false
+    - id: 15
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false

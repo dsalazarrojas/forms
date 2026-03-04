@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Special Incidnet Report Form
+    pages:
+    - id: 1
+      name: general_information
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: incident_nature
+      label: Incident Nature
+      hint: Select one or multiple options
+      type: select_multiple
+      options:
+      - Hazard
+      - Incident
+      required: true
+    - id: 3
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: hazard_control
+      label: Hazard Control
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: witness_list
+      label: Witness List
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: Academic Resource Sharing Agreement Request
+    pages:
+    - id: 1
+      name: section_requestor_details
+      label: -- Requestor Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: organization_name
+      label: Name of Requesting Institution
+      hint: University, Lab, or Company name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person
+      label: Primary Contact Person
+      hint: Full name of the applicant
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact Email Address
+      hint: Institutional email address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: section_resource_details
+      label: -- Resource Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: resource_category
+      label: Category of Resource Requested
+      hint: Select the primary type
+      type: select_one
+      options:
+      - Laboratory Equipment
+      - Datasets
+      - Software Licenses
+      - Physical Archives
+      - Intellectual Property
+      required: true
+    - id: 7
+      name: resource_description
+      label: Specific description of the resource needed
+      hint: Provide details like serial numbers or dataset names
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: purpose_of_use
+      label: Intended use of the resource
+      hint: Why is this resource needed?
+      type: select_one
+      options:
+      - Non-commercial Research
+      - Educational or Instructional
+      - Cross-institutional Project
+      - Pilot Study
+      required: true
+    - id: 9
+      name: access_start_date
+      label: Requested Start Date
+      hint: When access should begin
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: access_end_date
+      label: Requested End Date
+      hint: When access will terminate
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: section_compliance
+      label: -- Compliance and Security --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: data_privacy_agreement
+      label: Will you adhere to our institutional data privacy policies?
+      hint: Compliance acknowledgement
+      type: select_one
+      options:
+      - Yes - We Agree
+      - Other
+      required: true
+    - id: 13
+      name: intellectual_property_acknowledgement
+      label: Do you acknowledge our IP rights over the resource?
+      hint: Acknowledgment of ownership
+      type: select_one
+      options:
+      - true
+      - 'False'
+      required: true
+    - id: 14
+      name: insurance_coverage
+      label: Does your institution have liability insurance for equipment use?
+      hint: Necessary for physical resources
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Applicable
+      required: true
+    - id: 15
+      name: section_auth
+      label: -- Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: authorized_signature
+      label: Signature of Authorizing Official
+      hint: Type name of Dept Head or PI
+      type: text
+      options: []
+      required: true

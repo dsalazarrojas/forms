@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: Confidential Information Form
+    pages:
+    - id: 1
+      name: section_client_identification
+      label: -- Client Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Legal Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_submission
+      label: Date of Submission
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: id_number
+      label: National ID or Passport Number
+      hint: For identity verification purposes
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_sensitive_data
+      label: -- Sensitive Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: primary_financial_institution
+      label: Primary Financial Institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: annual_income_range
+      label: Estimated Annual Income Range
+      hint: null
+      type: select_one
+      options:
+      - Below $30,000
+      - $30,000 - $60,000
+      - $60,000 - $100,000
+      - $100,000 - $250,000
+      - Over $250,000
+      required: true
+    - id: 8
+      name: employment_status
+      label: Current Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Employed Full-Time
+      - Employed Part-Time
+      - Self-Employed
+      - Student
+      - Retired
+      - Unemployed
+      required: true
+    - id: 9
+      name: social_security_last_four
+      label: Last 4 Digits of Social Security Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: section_contact_info
+      label: -- Secure Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: secure_email
+      label: Primary Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: secure_phone
+      label: Primary Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: preferred_contact_method
+      label: Preferred Secure Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - Secure Portal
+      - Postal Mail
+      required: true
+    - id: 14
+      name: section_declaration
+      label: -- Declaration and Authorization --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: accuracy_declaration
+      label: I declare that the information provided is true and accurate
+      hint: null
+      type: select_one
+      options:
+      - I so declare
+      - Other
+      required: true
+    - id: 16
+      name: privacy_policy_acknowledgment
+      label: I have read and agree to the Privacy Policy
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true

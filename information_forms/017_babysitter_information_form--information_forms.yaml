@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: Babysitter Information Form
+    pages:
+    - id: 1
+      name: sitter_identity_header
+      label: -- Babysitter Personal Identification --
+      hint: This information is kept confidential for our records
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: sitter_full_name
+      label: Full Legal Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: sitter_address
+      label: Current Residential Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: sitter_phone
+      label: Mobile Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: sitter_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: identification_type
+      label: Government Issued ID Type
+      hint: null
+      type: select_one
+      options:
+      - Driver's License
+      - Passport
+      - State ID
+      - Other
+      required: true
+    - id: 8
+      name: id_number
+      label: ID Document Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: professional_profile_header
+      label: -- Professional Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: years_experience
+      label: Number of Years Babysitting
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: highest_education
+      label: Highest Level of Education Completed
+      hint: null
+      type: select_one
+      options:
+      - High School Student
+      - High School Graduate
+      - Some College
+      - College Graduate
+      - Advanced Degree
+      required: true
+    - id: 12
+      name: specialized_certifications
+      label: Relevant Certifications
+      hint: e.g., Red Cross CPR, First Aid, Water Safety
+      type: select_multiple
+      options:
+      - CPR (Infant/Child)
+      - First Aid
+      - Babysitting Training Course
+      - Early Childhood Education
+      - None of the above
+      required: false
+    - id: 13
+      name: reference_primary
+      label: Primary Professional Reference
+      hint: Name, Phone, and Relationship
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: reference_secondary
+      label: Secondary Professional Reference
+      hint: Name, Phone, and Relationship
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: criminal_record_disclosure
+      label: Have you ever been convicted of a crime?
+      hint: A background check may be performed
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 16
+      name: disclosure_explanation
+      label: If yes, please provide details
+      hint: null
+      type: text
+      options: []
+      required: false

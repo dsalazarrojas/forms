@@ -1,0 +1,173 @@
+inputSchema:
+  type: object
+  properties:
+    title: Baptism Information Form
+    pages:
+    - id: 1
+      name: form_date
+      label: Date of this Form
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: candidate_first_name
+      label: Baptism Candidate - First Name
+      hint: First name of person being baptized
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: candidate_last_name
+      label: Last Name
+      hint: Last name of candidate
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: candidate_date_of_birth
+      label: Date of Birth
+      hint: Candidate's date of birth
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: candidate_age
+      label: Current Age
+      hint: How old is the candidate?
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: baptism_type
+      label: Type of Baptism
+      hint: Select baptism tradition
+      type: select_one
+      options:
+      - Infant Baptism
+      - Adult Baptism
+      - Re-baptism
+      - Conditional Baptism
+      required: true
+    - id: 7
+      name: parent_guardian_name
+      label: Parent or Guardian Name
+      hint: For infant baptisms
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: parent_phone
+      label: Parent/Guardian Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: parent_email
+      label: Parent/Guardian Email
+      hint: Contact email
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: preferred_baptism_date
+      label: Preferred Baptism Date
+      hint: When would you like the baptism?
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: preferred_time
+      label: Preferred Time
+      hint: What time is preferred?
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: baptism_location
+      label: Preferred Baptism Location
+      hint: Where should baptism occur?
+      type: select_one
+      options:
+      - Church Sanctuary
+      - Outdoor Location
+      - River or Lake
+      - Home
+      - Other
+      required: false
+    - id: 13
+      name: faith_background
+      label: Faith Background
+      hint: Candidate's current faith status
+      type: select_one
+      options:
+      - No Prior Baptism
+      - Baptized in Another Tradition
+      - Seeking to Renew Faith
+      - Recently Converted
+      - Other
+      required: true
+    - id: 14
+      name: faith_statement
+      label: Personal Faith Statement
+      hint: Brief statement of faith belief
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: prior_religious_instruction
+      label: Prior Religious Instruction
+      hint: Any prior religious education?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: sponsor_required
+      label: Is a Sponsor Required?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not Sure
+      required: true
+    - id: 17
+      name: sponsor_name
+      label: Sponsor Name (Godparent)
+      hint: Name of proposed sponsor
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: sponsor_faith
+      label: Sponsor Faith Status
+      hint: Confirmation of active faith
+      type: select_one
+      options:
+      - Active Member
+      - Confirmed Member
+      - Practicing Christian
+      - Other
+      required: false
+    - id: 19
+      name: sponsor_contact
+      label: Sponsor Contact Information
+      hint: Phone or email of sponsor
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: church_affiliation
+      label: Church Affiliation
+      hint: Primary church or parish
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: special_requests
+      label: Special Requests or Considerations
+      hint: Any specific needs or preferences?
+      type: text
+      options: []
+      required: false

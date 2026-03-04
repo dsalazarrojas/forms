@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Data Sheet Form
+    pages:
+    - id: 1
+      name: employee_duties
+      label: Employee Duties
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employee_performance_records
+      label: Employee Performance Records
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: supervisor_id
+      label: Supervisor
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: supervisor_name
+      label: Supervisor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: employee_job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: reporting_manager_id
+      label: Reporting Manager
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: reporting_manager_name
+      label: Reporting Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: department_id
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: job_category
+      label: Job Category
+      hint: null
+      type: text
+      options: []
+      required: false

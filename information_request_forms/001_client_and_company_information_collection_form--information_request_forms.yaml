@@ -1,0 +1,150 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client And Company Information Collection Form
+    pages:
+    - id: 1
+      name: client_first_name
+      label: First Name
+      hint: Enter your legal first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_last_name
+      label: Last Name
+      hint: Enter your legal last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email Address
+      hint: We will use this for official communications
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Phone Number
+      hint: Include area code
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: client_address
+      label: Street Address
+      hint: Your complete mailing address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: client_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: client_state
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: client_zip_code
+      label: ZIP or Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: company_name
+      label: Company Name
+      hint: Legal business name if applicable
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: company_industry
+      label: Industry
+      hint: Select your primary industry
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      - Retail
+      - Manufacturing
+      - Education
+      - Hospitality
+      - Other
+      required: false
+    - id: 11
+      name: company_size
+      label: Company Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - 1-10 employees
+      - 11-50 employees
+      - 51-200 employees
+      - 201-500 employees
+      - 500+ employees
+      required: false
+    - id: 12
+      name: company_website
+      label: Company Website
+      hint: Include full URL
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: company_tax_id
+      label: Tax ID or EIN
+      hint: For business verification purposes
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: primary_contact_role
+      label: Your Role in Company
+      hint: Your job title or position
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: How should we reach you?
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text Message
+      - Mail
+      required: true
+    - id: 16
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information you would like to share
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: information_accuracy_confirmation
+      label: I confirm that all information provided is accurate and complete
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true

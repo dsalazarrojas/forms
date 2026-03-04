@@ -1,0 +1,180 @@
+inputSchema:
+  type: object
+  properties:
+    title: Professional Reference Request Form
+    pages:
+    - id: 1
+      name: reference_name
+      label: Reference Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: previous_job_title
+      label: Previous Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: employer
+      label: Employer
+      hint: Company Name
+      type: select_multiple
+      options:
+      - Company A
+      - Company B
+      - Company C
+      required: false
+    - id: 5
+      name: work_phone
+      label: Work Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: work_email
+      label: Work Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: reason_for_leaving
+      label: Reason for Leaving
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: job_duration
+      label: Job Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: job_status
+      label: Job Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 12
+      name: reference_relationship
+      label: Reference Relationship
+      hint: null
+      type: select_multiple
+      options:
+      - Current Manager
+      - Previous Manager
+      - Coworker
+      - Supervisor
+      required: false
+    - id: 13
+      name: reference_type
+      label: Reference Type
+      hint: null
+      type: select_one
+      options:
+      - Professional Reference
+      - Personal Reference
+      required: false
+    - id: 14
+      name: reference_comments
+      label: Reference Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_multiple
+      options:
+      - HR Department
+      - Employee
+      required: false
+    - id: 16
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: review_by
+      label: Review By
+      hint: null
+      type: select_one
+      options:
+      - Manager
+      - HR Department
+      - Employee
+      required: false
+    - id: 18
+      name: submitted_to
+      label: Submitted To
+      hint: null
+      type: select_one
+      options:
+      - Manager
+      - HR Department
+      required: false
+    - id: 19
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: submitted_by
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: reference_source
+      label: Reference Source
+      hint: null
+      type: select_one
+      options:
+      - Previous Employer
+      - Colleague
+      - Other
+      required: false
+    - id: 22
+      name: reference_note
+      label: Reference Note
+      hint: null
+      type: text
+      options: []
+      required: false

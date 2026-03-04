@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Early Departure Time Off Form
+    pages:
+    - id: 1
+      name: request_early_departure
+      label: Request Early Departure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: reason_for_departure
+      label: Reason For Departure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: approval
+      label: Approval
+      hint: null
+      type: select_one
+      options:
+      - Manager
+      - HR Representative
+      - Supervisor
+      - No Response
+      required: false
+    - id: 7
+      name: approved_by
+      label: Approved By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false

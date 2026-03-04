@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stop Work Authority Reporting Form
+    pages:
+    - id: 1
+      name: reporting_form
+      label: reporting_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incident_date
+      label: incident_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: incident_time
+      label: incident_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: incident_details
+      label: incident_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: incident_description
+      label: incident_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: stop_work_authority
+      label: stop_work_authority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: reason_for_stopping_work
+      label: reason_for_stopping_work
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: next_steps
+      label: next_steps
+      hint: null
+      type: text
+      options: []
+      required: false

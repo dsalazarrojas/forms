@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pre Construction Information Form
+    pages:
+    - id: 1
+      name: project_info
+      label: Project Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: project_address
+      label: Project Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: building_type
+      label: Building Type
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: building_age
+      label: Building Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: false
+    - id: 8
+      name: project_location
+      label: Project Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: project_notes
+      label: Project Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: project_manager_name
+      label: Project Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: project_manager_email
+      label: Project Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: project_manager_phone
+      label: Project Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: project_manager_address
+      label: Project Manager Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: project_manager_notes
+      label: Project Manager Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: project_manager_title
+      label: Project Manager Title
+      hint: null
+      type: text
+      options: []
+      required: false

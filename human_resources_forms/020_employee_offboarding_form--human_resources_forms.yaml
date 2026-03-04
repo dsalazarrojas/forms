@@ -1,0 +1,102 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: employee_offboarding_form
+    pages:
+    - id: 1
+      name: employee_information
+      label: Employee Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: offboarding_reason
+      label: Offboarding Reason
+      hint: null
+      type: select_one
+      options:
+      - Termination
+      - Job change
+      - Contract ended
+      - Other
+      required: false
+    - id: 3
+      name: date_last_day_worked
+      label: Date Last Worked
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: date_employment_began
+      label: Date Employment Began
+      hint: MM/dd/yyyy
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: manager_information
+      label: Manager Information
+      hint: null
+      type: select_multiple
+      options:
+      - John Doe
+      - Jane Doe
+      - Other
+      required: false
+    - id: 6
+      name: company_equipment
+      label: Company Equipment
+      hint: null
+      type: select_multiple
+      options:
+      - Laptop
+      - Phone
+      - Other
+      required: false
+    - id: 7
+      name: company_property
+      label: Company Property
+      hint: null
+      type: select_multiple
+      options:
+      - Desk
+      - Chair
+      - Other
+      required: false
+    - id: 8
+      name: benefits_status
+      label: Benefits Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Unknown
+      required: false
+    - id: 9
+      name: benefits_end_date
+      label: Benefits End Date
+      hint: MM/dd/yyyy
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: benefits_start_date
+      label: Benefits Start Date
+      hint: MM/dd/yyyy
+      type: date
+      options: []
+      required: false

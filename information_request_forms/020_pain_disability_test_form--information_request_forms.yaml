@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pain Disability Test Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Information Request Forms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: question_1
+      label: Do you experience any pain?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very much'', ''value'': 1}'
+      - '{''label'': ''Some'', ''value'': 2}'
+      - '{''label'': ''Not at all'', ''value'': 3}'
+      required: false
+    - id: 3
+      name: question_2
+      label: Do you experience pain when you perform daily activities?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Very much'', ''value'': 1}'
+      - '{''label'': ''Some'', ''value'': 2}'
+      - '{''label'': ''Not at all'', ''value'': 3}'
+      required: false
+    - id: 4
+      name: question_3
+      label: Do you take any medications for pain?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': True, ''value'': 1}'
+      - '{''label'': False, ''value'': 0}'
+      required: false
+    - id: 5
+      name: date_pain_began
+      label: What is the start date of your pain?
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: note_1
+      label: Additional comments about your pain
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: question_4
+      label: Do you experience pain when you perform activities of daily living?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Very much'', ''value'': 1}'
+      - '{''label'': ''Some'', ''value'': 2}'
+      - '{''label'': ''Not at all'', ''value'': 3}'
+      required: false

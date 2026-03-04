@@ -1,0 +1,54 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: national_holiday_absence_form
+    pages:
+    - id: 1
+      name: request_details
+      label: request_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: national_holiday
+      label: national_holiday
+      hint: null
+      type: select_one
+      options:
+      - National Day
+      - Independence Day
+      - Labor Day
+      - Thanksgiving
+      - Christmas
+      - New Year's Day
+      - Easter Sunday
+      - Mother's Day
+      - Martin Luther King Jr. Day
+      - Presidents' Day
+      required: false
+    - id: 3
+      name: request_date
+      label: request_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false

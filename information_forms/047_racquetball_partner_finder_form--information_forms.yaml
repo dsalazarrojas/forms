@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Racquetball Partner Finder Form
+    pages:
+    - id: 1
+      name: racquetball_partner_finder_form_name
+      label: Partner Finder Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: racquetball_partner_finder_form_location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: racquetball_partner_finder_form_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: racquetball_partner_finder_form_days
+      label: Days Available
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: racquetball_partner_finder_form_earliest_start_time
+      label: Earliest Start Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: racquetball_partner_finder_form_latest_end_time
+      label: Latest End Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: racquetball_partner_finder_form_duration
+      label: Match Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: racquetball_partner_finder_form_level
+      label: Skill Level
+      hint: null
+      type: select_one
+      options:
+      - beginner
+      - intermediate
+      - advanced
+      required: false
+    - id: 9
+      name: racquetball_partner_finder_form_partner_count
+      label: Max Partners
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      required: false
+    - id: 10
+      name: racquetball_partner_finder_form_message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false

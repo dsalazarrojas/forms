@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retail Employee Onboarding Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: store_number
+      label: store_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: job_start_date
+      label: job_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: manager_name
+      label: manager_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: store_name
+      label: store_name
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 7
+      name: role
+      label: role
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 8
+      name: store_phone
+      label: store_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_name
+      label: emergency_contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_relationship
+      label: emergency_contact_relationship
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: emergency_contact_phone
+      label: emergency_contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: employee_number
+      label: employee_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: job_performance
+      label: job_performance
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 15
+      name: manager_phone
+      label: manager_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: manager_email
+      label: manager_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: shift_start
+      label: shift_start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: shift_end
+      label: shift_end
+      hint: null
+      type: date
+      options: []
+      required: false

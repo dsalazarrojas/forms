@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: wildfire_incident_form
+    pages:
+    - id: 1
+      name: incident_location
+      label: Incident location
+      hint: Enter the location of the wildfire incident
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: incident_time
+      label: Incident time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 3
+      name: incident_type
+      label: Incident type
+      hint: Select the type of incident
+      type: select_one
+      options:
+      - '{''type'': ''wildfire''}'
+      - '{''type'': ''prescribed''}'
+      - '{''type'': ''uncontrolled''}'
+      required: true
+    - id: 4
+      name: incident_size
+      label: Incident size
+      hint: Enter the size of the incident
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: fire_department
+      label: Fire department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: incident_details
+      label: Incident details
+      hint: Enter any additional incident details
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_name
+      label: Contact name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: contact_email
+      label: Contact email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: contact_phone
+      label: Contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: incident_photo
+      label: Incident photo
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 11
+      name: incident_video
+      label: Incident video
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: response_team
+      label: Response team
+      hint: Select the response team
+      type: select_multiple
+      options:
+      - Team 1
+      - Team 2
+      - Team 3
+      - Team 4
+      - Team 5
+      required: true
+    - id: 13
+      name: incident_status
+      label: Incident status
+      hint: Select the incident status
+      type: select_one
+      options:
+      - active
+      - resolved
+      - pending
+      - canceled
+      required: true
+    - id: 14
+      name: incident_priority
+      label: Incident priority
+      hint: Select the incident priority
+      type: select_one
+      options:
+      - low
+      - medium
+      - high
+      required: true
+    - id: 15
+      name: incident_category
+      label: Incident category
+      hint: Select the incident category
+      type: select_multiple
+      options:
+      - category1
+      - category2
+      - category3
+      required: true
+    - id: 16
+      name: incident_date
+      label: Incident date
+      hint: Select the incident date
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: incident_start_time
+      label: Incident start time
+      hint: Select the incident start time
+      type: time
+      options: []
+      required: true
+    - id: 18
+      name: incident_end_time
+      label: Incident end time
+      hint: Select the incident end time
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: incident_duration
+      label: Incident duration
+      hint: Enter the incident duration
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: incident_latitude
+      label: Incident latitude
+      hint: Enter the incident latitude
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: incident_longitude
+      label: Incident longitude
+      hint: Enter the incident longitude
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: incident_elevation
+      label: Incident elevation
+      hint: Enter the incident elevation
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: incident_location_altitude
+      label: Incident location altitude
+      hint: Enter the incident location altitude
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: incident_affected_areas
+      label: Affected areas
+      hint: Enter the affected areas
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: incident_additional_info
+      label: Additional info
+      hint: Enter any additional info
+      type: text
+      options: []
+      required: false

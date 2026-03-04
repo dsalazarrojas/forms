@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Performance Improvement Inquiry Contact Form
+    pages:
+    - id: 1
+      name: contact_form
+      label: Performance Improvement Inquiry Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: performance_concerns
+      label: Performance Concerns
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: urgency_priority
+      label: Urgency
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Urgent''}'
+      - '{''label'': ''Normal''}'
+      - '{''label'': ''Low''}'
+      required: true
+    - id: 4
+      name: follow_up
+      label: Follow Up
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: attachment
+      label: Attachment
+      hint: null
+      type: text
+      options: []
+      required: false

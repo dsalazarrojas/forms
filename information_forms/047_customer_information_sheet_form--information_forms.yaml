@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Information Sheet Form
+    pages:
+    - id: 1
+      name: customer_info_sheet_form_1
+      label: customer_info_sheet_form_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: customer_company
+      label: customer_company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: customer_job_title
+      label: customer_job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: customer_department
+      label: customer_department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: customer_job_function
+      label: customer_job_function
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: customer_manager
+      label: customer_manager
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: customer_direct_report
+      label: customer_direct_report
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: customer_employed
+      label: customer_employed
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: customer_employment_type
+      label: customer_employment_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

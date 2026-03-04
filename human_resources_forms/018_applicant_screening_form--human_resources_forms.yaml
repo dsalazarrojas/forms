@@ -1,0 +1,178 @@
+inputSchema:
+  type: object
+  properties:
+    title: Applicant Screening Form
+    pages:
+    - id: 1
+      name: personal_information
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: address
+      label: Current Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: job_position
+      label: Position Applying For
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: family_background
+      label: -- Family Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: marital_status
+      label: Marital Status
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Married
+      - Divorced
+      - Widowed
+      - Prefer not to say
+      required: false
+    - id: 11
+      name: number_of_dependents
+      label: Number of Dependents
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: family_members
+      label: Family member names and relationships
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: emergency_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: work_experience
+      label: -- Work Experience --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: previous_employer
+      label: Previous Employer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: employment_duration
+      label: How long have you worked in this field?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: reason_for_leaving
+      label: Reason for leaving previous job
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: references
+      label: -- References --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: reference_1_name
+      label: Reference 1 - Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: reference_1_position
+      label: Reference 1 - Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: reference_1_phone
+      label: Reference 1 - Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: reference_2_name
+      label: Reference 2 - Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: reference_2_contact
+      label: Reference 2 - Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false

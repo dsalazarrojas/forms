@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Payroll Overpayment Resolution Request Form
+    pages:
+    - id: 1
+      name: base_form_data
+      label: Base Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: overpayment_amount
+      label: Overpayment Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: reason_for_overpayment
+      label: Reason for Overpayment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: employee_identification
+      label: Employee Identification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: overpayment_resolution_request_date
+      label: Overpayment Resolution Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: payroll_department
+      label: Payroll Department
+      hint: null
+      type: select_one
+      options:
+      - Accounting
+      - Payroll
+      - Finance
+      required: false
+    - id: 7
+      name: overpayment_type
+      label: Overpayment Type
+      hint: null
+      type: select_multiple
+      options:
+      - Back Pay
+      - Holiday Pay
+      - Other Pay
+      required: false
+    - id: 8
+      name: overpayment_reason
+      label: Overpayment Reason
+      hint: null
+      type: select_multiple
+      options:
+      - Bonus
+      - Commissions
+      - Holiday Pay
+      - Overtime
+      - Terminaiton Pay
+      - Vacation Pay
+      required: false
+    - id: 9
+      name: overpayment_resolution
+      label: Overpayment Resolution
+      hint: null
+      type: text
+      options: []
+      required: false

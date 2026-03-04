@@ -1,0 +1,153 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Safety Consultation Application Form
+    pages:
+    - id: 1
+      name: section_personal_info
+      label: -- Personal Information --
+      hint: Please provide your contact details.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Enter your complete legal name.
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: We will use this to send confirmation.
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Include area code.
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: residential_address
+      label: Residential Address
+      hint: Your home or organization address.
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_consultation_details
+      label: -- Consultation Details --
+      hint: Tell us about the safety concerns you wish to discuss.
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: applicant_type
+      label: Are you applying as an individual or on behalf of an organization?
+      hint: Select the most appropriate option.
+      type: select_one
+      options:
+      - Individual
+      - Non-profit Organization
+      - Business
+      - Neighborhood Association
+      - Other
+      required: true
+    - id: 8
+      name: organization_name
+      label: Organization Name
+      hint: Leave blank if applying as an individual.
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: safety_concerns
+      label: What are your primary safety concerns?
+      hint: Select all that apply.
+      type: select_multiple
+      options:
+      - Vandalism
+      - Traffic Safety
+      - Public Lighting
+      - Noise Complaints
+      - Suspicious Activity
+      - Theft
+      - Other
+      required: true
+    - id: 10
+      name: incident_location
+      label: Location of the Concern
+      hint: Be as specific as possible (e.g. cross streets).
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: date_of_concern
+      label: Date of most recent incident
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: description_of_concern
+      label: Please provide a detailed description of the safety concern
+      hint: Include any specific events or patterns observed.
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: urgency_level
+      label: How urgent is this consultation?
+      hint: Emergency situations should be reported to 911 immediately.
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      - Emergency - Call 911
+      required: true
+    - id: 14
+      name: section_contact_method
+      label: -- Preferred Consultation Method --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: consultation_method
+      label: How would you like to be contacted for the consultation?
+      hint: Select your preferred communication channel.
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - In-person meeting
+      - Virtual Meeting
+      required: true
+    - id: 16
+      name: preferred_time
+      label: Preferred days and times for consultation
+      hint: e.g. Monday mornings, Wednesday after 4pm.
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: previous_reports
+      label: Have you reported this concern previously?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: previous_report_details
+      label: Previous report details
+      hint: If yes, please provide any reference numbers or previous dates.
+      type: text
+      options: []
+      required: false

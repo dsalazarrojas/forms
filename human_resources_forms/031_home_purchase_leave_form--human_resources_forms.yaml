@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Purchase Leave Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: purchase_date
+      label: Purchase Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: return_date
+      label: Return Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - Finance
+      - HR
+      - Operations
+      required: false
+    - id: 7
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: manager_confirmation
+      label: Manager Confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: manager_comment
+      label: Manager Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: employee_confirmation
+      label: Employee Confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: false
+    - id: 12
+      name: approved_by
+      label: Approved By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: denied_by
+      label: Denied By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: reason_for_denial
+      label: Reason for Denial
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: form_submitted
+      label: Form Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: form_approved
+      label: Form Approved
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: form_denied
+      label: Form Denied
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: last_updated
+      label: Last Updated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: last_updated_by
+      label: Last Updated by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: last_updated_comment
+      label: Last Updated Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: last_denied_reason
+      label: Last Denied Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: last_denied_by
+      label: Last Denied By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: last_denied_date
+      label: Last Denied Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: leave_duration
+      label: Leave Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: manager_id
+      label: Manager ID
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Planning Client Profile Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Passive
+      - Disabled
+      required: false
+    - id: 7
+      name: income_source
+      label: Income Source
+      hint: null
+      type: select_multiple
+      options:
+      - Wages
+      - Salary
+      - Interest
+      - Investment
+      - Rental Income
+      - Other
+      required: false
+    - id: 8
+      name: financial_institutions
+      label: Financial Institutions
+      hint: null
+      type: select_multiple
+      options:
+      - Bank
+      - Credit Union
+      - Trust
+      - Other
+      required: false
+    - id: 9
+      name: financial_planning_goals
+      label: Financial Planning Goals
+      hint: null
+      type: select_multiple
+      options:
+      - Retirement
+      - Wealth Building
+      - Estate Planning
+      - Risk Management
+      - Other
+      required: false
+    - id: 10
+      name: risk_tolerance
+      label: Risk Tolerance
+      hint: null
+      type: number
+      options: []
+      required: false

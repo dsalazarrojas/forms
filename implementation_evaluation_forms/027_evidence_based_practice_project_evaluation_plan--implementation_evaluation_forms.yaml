@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: Evidence Based Practice Project Evaluation Plan
+    pages:
+    - id: 1
+      name: project_title
+      label: Project Title
+      hint: 'null'
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: category
+      label: Category
+      hint: 'null'
+      type: select_one
+      options:
+      - Implementation Evaluation Forms
+      - Project Evaluation Forms
+      required: true
+    - id: 3
+      name: project_lead
+      label: Project Lead
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: team_members
+      label: Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - John
+      - Mary
+      - Jane
+      required: true
+    - id: 5
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: start_date
+      label: Start Date
+      hint: 'null'
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: evidence_base_practices
+      label: Evidence Based Practices
+      hint: null
+      type: select_multiple
+      options:
+      - Evidence Based Practice 1
+      - Evidence Based Practice 2
+      required: true
+    - id: 9
+      name: evaluation_methods
+      label: Evaluation Methods
+      hint: null
+      type: select_multiple
+      options:
+      - Evaluation Method 1
+      - Evaluation Method 2
+      required: true
+    - id: 10
+      name: evaluation_frequency
+      label: Evaluation Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Evaluation Frequency 1
+      - Evaluation Frequency 2
+      required: true
+    - id: 11
+      name: project_status
+      label: Project Status
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: project_notes
+      label: Project Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: evaluation_criteria
+      label: Evaluation Criteria
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: evaluation_outcomes
+      label: Evaluation Outcomes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: evaluation_recommendations
+      label: Evaluation Recommendations
+      hint: null
+      type: text
+      options: []
+      required: false

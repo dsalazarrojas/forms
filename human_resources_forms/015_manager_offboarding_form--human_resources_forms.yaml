@@ -1,0 +1,165 @@
+inputSchema:
+  type: object
+  properties:
+    title: Manager Offboarding Form
+    pages:
+    - id: 1
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: manager_email
+      label: manager_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: manager_phone
+      label: manager_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: reason_for_departure
+      label: reason_for_departure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notice_period
+      label: notice_period
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: benefits_terminated
+      label: benefits_terminated
+      hint: null
+      type: select_multiple
+      options:
+      - Terminate
+      - Retire
+      - Leave of Absence
+      required: false
+    - id: 10
+      name: assets_returned
+      label: assets_returned
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: knowledge_transferred
+      label: knowledge_transferred
+      hint: null
+      type: select_multiple
+      options:
+      - Completed
+      - Partial
+      required: false
+    - id: 12
+      name: equipment_returned
+      label: equipment_returned
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 13
+      name: company_resources
+      label: company_resources
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 14
+      name: property_returned
+      label: property_returned
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 15
+      name: vehicle_returned
+      label: vehicle_returned
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 16
+      name: other_assets_returned
+      label: other_assets_returned
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 17
+      name: manager_signature
+      label: manager_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: hr_signature
+      label: hr_signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: completed
+      label: completed
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Not completed
+      - Pending
+      required: false

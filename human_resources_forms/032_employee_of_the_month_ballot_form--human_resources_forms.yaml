@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Of The Month Ballot Form
+    pages:
+    - id: 1
+      name: nomination
+      label: Nomination
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: employee_start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: employee_end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: reason_for_nomination
+      label: Reason For Nomination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: nominee_email
+      label: Nominee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: nominee_phone
+      label: Nominee Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: nomination_date
+      label: Nomination Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: submit_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false

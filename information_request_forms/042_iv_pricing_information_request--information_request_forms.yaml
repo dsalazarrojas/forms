@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: IV Pricing Information Request
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: iv_type
+      label: IV Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''IV Drips''}'
+      - '{''id'': 2, ''name'': ''IV Infusions''}'
+      - '{''id'': 3, ''name'': ''IV Pushes''}'
+      required: true
+    - id: 4
+      name: insurance_provider
+      label: Insurance Provider
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      required: true
+    - id: 5
+      name: medical_condition
+      label: Medical Condition
+      hint: Describe your medical condition
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: best_time_to_call
+      label: Best Time to Call
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: iv_pricing_inquiries
+      label: IV Pricing Inquiries
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: iv_pricing_request
+      label: IV Pricing Request
+      hint: Enter the price for the IV
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: follow_up_appointments
+      label: Follow-up Appointments
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''1st''}'
+      - '{''id'': 2, ''name'': ''2nd''}'
+      - '{''id'': 3, ''name'': ''3rd''}'
+      required: false
+    - id: 14
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 16
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: follow_up_status
+      label: Follow-up Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Not Scheduled''}'
+      - '{''id'': 2, ''name'': ''Scheduled''}'
+      - '{''id'': 3, ''name'': ''Completed''}'
+      required: false
+    - id: 18
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: follow_up_time
+      label: Follow-up Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 20
+      name: follow_up_location
+      label: Follow-up Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: follow_up_instructions
+      label: Follow-up Instructions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: follow_up_notes
+      label: Follow-up Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 23
+      name: follow_up_comment
+      label: Follow-up Comment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: follow_up_status_update
+      label: Follow-up Status Update
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: follow_up_next_step
+      label: Follow-up Next Step
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: follow_up_last_update
+      label: Follow-up Last Update
+      hint: null
+      type: date
+      options: []
+      required: true

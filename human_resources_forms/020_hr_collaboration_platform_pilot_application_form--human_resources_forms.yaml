@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: hr_collaboration_platform_pilot_application_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: department
+      label: Department
+      hint: Please select your department
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: team_size
+      label: Team Size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: time_period
+      label: Time Period
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: pilot_details
+      label: Pilot Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: job_requirements
+      label: Job Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: job_qualifications
+      label: Job Qualifications
+      hint: null
+      type: text
+      options: []
+      required: false

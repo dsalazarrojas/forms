@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gift Progress Record Form
+    pages:
+    - id: 1
+      name: gift_progress_record
+      label: Gift Progress Record
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: donor_info
+      label: Donor Information
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: gift_info
+      label: Gift Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: gift_progress_info
+      label: Gift Progress
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: donation_date
+      label: Donation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: amount_donated
+      label: Amount Donated
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: frequency_donations
+      label: Frequency of Donations
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: gift_recipient
+      label: Gift Recipient
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: interview_readiness_quiz
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: confidence
+      label: Confidence
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: communication_skills
+      label: Communication Skills
+      hint: Describe your experiences in this area.
+      type: select_multiple
+      options:
+      - Strongly Agreed
+      - Somewhat Agreed
+      - Somewhat Disagreed
+      - Strongly Disagreed
+      required: false
+    - id: 4
+      name: problem_solving
+      label: Problem Solving
+      hint: Describe a time when you overcame an obstacle.
+      type: select_one
+      options:
+      - Very Often
+      - Somewhat Often
+      - Not Often
+      - Rarely
+      required: false
+    - id: 5
+      name: teamwork
+      label: Teamwork
+      hint: Describe a team project you led or contributed to.
+      type: select_multiple
+      options:
+      - Strongly Agreed
+      - Somewhat Agreed
+      - Somewhat Disagreed
+      - Strongly Disagreed
+      required: false
+    - id: 6
+      name: adaptability
+      label: Adaptability
+      hint: Describe a time when you had to adapt to a new environment.
+      type: select_one
+      options:
+      - Very Often
+      - Somewhat Often
+      - Not Often
+      - Rarely
+      required: false
+    - id: 7
+      name: professionalism
+      label: Professionalism
+      hint: Describe a time when you demonstrated a strong work ethic.
+      type: select_multiple
+      options:
+      - Strongly Agreed
+      - Somewhat Agreed
+      - Somewhat Disagreed
+      - Strongly Disagreed
+      required: false
+    - id: 8
+      name: interview_process
+      label: Interview Process
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: final_questions
+      label: Final Questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: final_comments
+      label: Final Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: final_agree
+      label: Final Agree
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agreed
+      - Somewhat Agreed
+      - Somewhat Disagreed
+      - Strongly Disagreed
+      required: false
+    - id: 12
+      name: final_dont_agree
+      label: Final Dont Agree
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agreed
+      - Somewhat Agreed
+      - Somewhat Disagreed
+      - Strongly Disagreed
+      required: false
+    - id: 13
+      name: final_comments
+      label: Final Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,165 @@
+inputSchema:
+  type: object
+  properties:
+    title: Change Of Residence Travel Form
+    pages:
+    - id: 1
+      name: form_date
+      label: Form Date
+      hint: Date of submission
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: person_name
+      label: Full Name
+      hint: Legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID or Reference Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Personal email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: current_residence
+      label: Current Residence Address
+      hint: Where you currently live
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: new_residence_address
+      label: New Residence Address
+      hint: Where you will be moving
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: city_changing
+      label: City Changing
+      hint: Are you changing cities
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: country_changing
+      label: Country Changing
+      hint: Are you relocating internationally
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: move_effective_date
+      label: Move Effective Date
+      hint: When the move takes effect
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: move_reason
+      label: Reason for Relocation
+      hint: Why you are moving
+      type: select_one
+      options:
+      - Job Transfer
+      - Personal Preference
+      - Family Relocation
+      - Educational
+      - Retirement
+      - Other
+      required: false
+    - id: 12
+      name: travel_dates
+      label: Travel Dates
+      hint: When you will be traveling
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: temporary_address
+      label: Temporary Address During Move
+      hint: If applicable, address while in transit
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: forwarding_address_request
+      label: Request Mail Forwarding
+      hint: Forward mail to new address
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: forwarding_duration
+      label: Mail Forwarding Duration
+      hint: How long to forward mail
+      type: select_one
+      options:
+      - 3 Months
+      - 6 Months
+      - 1 Year
+      - Permanent
+      required: false
+    - id: 16
+      name: contact_info_update
+      label: Update All Contact Information
+      hint: Update in all systems
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: special_arrangements
+      label: Special Arrangements Needed
+      hint: Any special requests
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: new_phone_number
+      label: New Phone Number (if changing)
+      hint: Your new phone number
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: new_email_address
+      label: New Email Address (if changing)
+      hint: Your new email
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: confirmation
+      label: I Confirm This Information is Correct
+      hint: Verify accuracy
+      type: select_one
+      options:
+      - Yes, Confirmed
+      - 'No'
+      required: true

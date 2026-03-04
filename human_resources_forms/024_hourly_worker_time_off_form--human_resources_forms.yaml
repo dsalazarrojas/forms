@@ -1,0 +1,47 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hourly Worker Time Off Form
+    pages:
+    - id: 1
+      name: time_off_request
+      label: Time off Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: time_off_reason
+      label: Time off reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: time_off_start_date
+      label: Time off start date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: time_off_end_date
+      label: Time off end date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: time_off_hours
+      label: Time off hours
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: time_off_comment
+      label: Time off comment
+      hint: null
+      type: text
+      options: []
+      required: false

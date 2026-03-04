@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Regeneration Partner Contact Form
+    pages:
+    - id: 1
+      name: partner_intro
+      label: -- Partner Inquiry Form --
+      hint: We are looking for partners committed to the regeneration of our local
+        community.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: partner_organization_name
+      label: Name of Partner Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_full_name
+      label: Primary Contact Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email_address
+      label: Contact Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone_number
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: organization_type_selection
+      label: Organization Type
+      hint: Select the most appropriate category.
+      type: select_one
+      options:
+      - Non-Profit
+      - Local Government
+      - Educational Institution
+      - Private Business
+      - Community Group
+      - Other
+      required: true
+    - id: 7
+      name: regeneration_focus_selection
+      label: Regeneration Focus Area
+      hint: Select all that apply.
+      type: select_multiple
+      options:
+      - Infrastructure Development
+      - Affordable Housing
+      - Environmental Restoration
+      - Job Training
+      - Arts and Culture
+      - Public Health
+      - Youth Services
+      required: true
+    - id: 8
+      name: partnership_interest_level
+      label: Partnership Interest Level
+      hint: null
+      type: select_one
+      options:
+      - Active Partnership
+      - Resource Sharing
+      - Funding Only
+      - Volunteer Support
+      - Strategic Planning
+      required: true
+    - id: 9
+      name: proposal_summary_text
+      label: Brief Summary of Partnership Proposal
+      hint: Describe how you would like to work together.
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: past_experience_desc
+      label: Tell us about your past regeneration experience
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: target_demographics_info
+      label: Primary Target Demographics for Your Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: project_timeline_info
+      label: Proposed Project Timeline
+      hint: e.g. 6 months - 1 year - ongoing.
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: matching_funds_check
+      label: Does your organization offer matching funds for projects?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: meeting_request_intent
+      label: Would you like to schedule a meeting to discuss your proposal?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: proposal_deadline_note
+      label: -- Proposal Submission --
+      hint: We review proposals on a rolling basis.
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: submission_date
+      label: Today - s Date
+      hint: null
+      type: date
+      options: []
+      required: true

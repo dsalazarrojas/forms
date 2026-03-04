@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Worker Retention Strategy Contact Form
+    pages:
+    - id: 1
+      name: worker_retention_strategy_contact_form
+      label: Contact Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: worker_retention_strategy_feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: worker_retention_strategy_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: worker_retention_strategy_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: worker_retention_strategy_department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: worker_retention_strategy_position
+      label: Position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: worker_retention_strategy_job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: worker_retention_strategy_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

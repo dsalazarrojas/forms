@@ -1,0 +1,274 @@
+inputSchema:
+  type: object
+  properties:
+    title: Collaborative Research Feedback Sharing Consent Form
+    pages:
+    - id: 1
+      name: participant_name
+      label: Participant Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: participant_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: participant_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: institution
+      label: Institution or Organization
+      hint: Your affiliation
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department
+      hint: Your department
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: role
+      label: Your Role
+      hint: Position or title
+      type: select_one
+      options:
+      - Principal Investigator
+      - Co-Investigator
+      - Research Assistant
+      - Graduate Student
+      - Undergraduate Student
+      - Postdoctoral Fellow
+      - Research Staff
+      - Collaborator
+      - Other
+      required: true
+    - id: 7
+      name: research_project
+      label: Research Project Name
+      hint: Name of the project
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: project_id
+      label: Project ID Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: consent_date
+      label: Consent Date
+      hint: Date of consent
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: feedback_type_consent
+      label: Types of Feedback You Consent to Share
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Performance Feedback
+      - Peer Review Comments
+      - Progress Reports
+      - Quality Assessments
+      - Methodology Feedback
+      - Data Quality Feedback
+      - Outcome Evaluations
+      - Improvement Suggestions
+      required: true
+    - id: 11
+      name: feedback_recipients
+      label: Who Can Receive Your Feedback
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Principal Investigator
+      - Co-Investigators
+      - Research Team Members
+      - Collaborating Institutions
+      - Funding Agencies
+      - Ethics Review Board
+      - Conference Presentations
+      - Publication Authors
+      required: true
+    - id: 12
+      name: feedback_format
+      label: Preferred Feedback Format
+      hint: How should feedback be provided
+      type: select_multiple
+      options:
+      - Written Report
+      - Email Summary
+      - In-Person Meeting
+      - Video Conference
+      - Phone Call
+      - Online Portal
+      - No Preference
+      required: true
+    - id: 13
+      name: feedback_frequency
+      label: Preferred Feedback Frequency
+      hint: How often to receive feedback
+      type: select_one
+      options:
+      - After Each Milestone
+      - Monthly
+      - Quarterly
+      - Semi-Annually
+      - Annually
+      - On Request Only
+      required: true
+    - id: 14
+      name: anonymity_preference
+      label: Anonymity Preference
+      hint: Should your feedback be anonymous
+      type: select_one
+      options:
+      - Always Anonymous
+      - Anonymous to Peers Only
+      - Never Anonymous
+      - Case by Case
+      required: true
+    - id: 15
+      name: receiving_feedback_consent
+      label: Consent to Receive Feedback from Others
+      hint: Do you agree to receive feedback
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 16
+      name: feedback_sharing_scope
+      label: Scope of Feedback Sharing
+      hint: What can be shared
+      type: select_one
+      options:
+      - All Research Activities
+      - Specific Tasks Only
+      - Milestone Reviews Only
+      - Final Outcomes Only
+      - Custom Scope
+      required: true
+    - id: 17
+      name: custom_scope_details
+      label: Custom Scope Details
+      hint: Specify if custom scope
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: data_usage_consent
+      label: Consent for Feedback Data Usage
+      hint: For research improvement
+      type: select_one
+      options:
+      - Yes For Any Research Purpose
+      - Yes For This Project Only
+      - Yes For Internal Use Only
+      - false
+      required: true
+    - id: 19
+      name: publication_consent
+      label: Consent for Feedback Use in Publications
+      hint: Can feedback be cited
+      type: select_one
+      options:
+      - Yes With Attribution
+      - Yes Anonymous
+      - false
+      required: true
+    - id: 20
+      name: withdrawal_right
+      label: Acknowledgment of Withdrawal Right
+      hint: You can withdraw consent anytime
+      type: select_one
+      options:
+      - Yes I Understand
+      - false
+      required: true
+    - id: 21
+      name: consent_duration
+      label: Consent Duration
+      hint: How long is consent valid
+      type: select_one
+      options:
+      - Duration of Project
+      - One Year
+      - Two Years
+      - Five Years
+      - Indefinitely
+      - Until Withdrawn
+      required: true
+    - id: 22
+      name: minor_participant
+      label: Are You Under 18
+      hint: Age verification
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 23
+      name: guardian_name
+      label: Parent or Guardian Name
+      hint: If participant is minor
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: guardian_signature
+      label: Parent or Guardian Consent
+      hint: Guardian agrees to terms
+      type: select_one
+      options:
+      - Yes I Consent
+      - false
+      - Not Applicable
+      required: false
+    - id: 25
+      name: questions_or_concerns
+      label: Questions or Concerns
+      hint: Any questions about this consent
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: participant_signature
+      label: Participant Agreement
+      hint: I agree to the terms above
+      type: select_one
+      options:
+      - Yes I Agree
+      - false
+      required: true
+    - id: 27
+      name: witness_name
+      label: Witness Name
+      hint: Optional witness
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: witness_signature
+      label: Witness Agreement
+      hint: Witness confirms consent
+      type: select_one
+      options:
+      - Yes I Witness
+      - false
+      required: false

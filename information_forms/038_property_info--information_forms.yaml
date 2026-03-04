@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: property_info
+    pages:
+    - id: 1
+      name: property_name
+      label: Property Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_type
+      label: property_type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 3
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - option4
+      - option5
+      - option6
+      required: false
+    - id: 10
+      name: subcategory
+      label: SubCategory
+      hint: null
+      type: select_one
+      options:
+      - option7
+      - option8
+      - option9
+      required: false
+    - id: 11
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - option10
+      - option11
+      - option12
+      required: false
+    - id: 12
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - option13
+      - option14
+      - option15
+      required: false

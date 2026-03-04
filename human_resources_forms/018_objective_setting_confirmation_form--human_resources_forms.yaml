@@ -1,0 +1,179 @@
+inputSchema:
+  type: object
+  properties:
+    title: Objective Setting Confirmation Form
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: objective_confirmation
+      label: Objective Confirmation
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Confirm''}'
+      - '{''id'': 2, ''name'': ''Do not confirm''}'
+      required: true
+    - id: 5
+      name: objective_description
+      label: Objective Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: objective_goal
+      label: Objective Goal
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: objective_status
+      label: Objective Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''In Progress''}'
+      - '{''id'': 2, ''name'': ''Completed''}'
+      required: true
+    - id: 8
+      name: objective_start_date
+      label: Objective Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: objective_end_date
+      label: Objective End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: objective_priority
+      label: Objective Priority
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: objective_comments
+      label: Objective Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: objective_attachment
+      label: Objective Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: objective_attachment_url
+      label: Objective Attachment URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: objective_notes
+      label: Objective Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: objective_reassigned
+      label: Objective Resassigned
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: objective_reassignment_reason
+      label: Objective Reassignment Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: objective_confirmation_notes
+      label: Objective Confirmation Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: objective_confirmation_attachment
+      label: Objective Confirmation Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: objective_confirmation_attachment_url
+      label: Objective Confirmation Attachment URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: objective_confirmation_date
+      label: Objective Confirmation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: objective_confirmation_status
+      label: Objective Confirmation Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Confirmed''}'
+      - '{''id'': 2, ''name'': ''Not Confirmed''}'
+      required: false
+    - id: 22
+      name: objective_confirmation_notes
+      label: Objective Confirmation Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: objective_confirmation_reassigned
+      label: Objective Confirmation Resassigned
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: objective_confirmation_reassignment_reason
+      label: Objective Confirmation Reassignment Reason
+      hint: null
+      type: text
+      options: []
+      required: false

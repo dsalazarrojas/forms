@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Webinar Archive Access Request
+    pages:
+    - id: 1
+      name: user_details
+      label: User Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: intended_use
+      label: Intended Use
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: request_terms
+      label: Request Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: request_time
+      label: Request Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: recording_url
+      label: Recording URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: consent
+      label: Consent
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

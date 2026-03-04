@@ -1,0 +1,171 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Safety Quarterly Incident Report Form
+    pages:
+    - id: 1
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: report_type
+      label: report_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: cause
+      label: cause
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: incident_type
+      label: incident_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: staff_involvement
+      label: staff_involvement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: near_misses
+      label: near_misses
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: root_cause
+      label: root_cause
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: action_plan
+      label: action_plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: review_date
+      label: review_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: follow_up_date
+      label: follow_up_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: follow_up_details
+      label: follow_up_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: follow_up_status
+      label: follow_up_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 16
+      name: follow_up_notes
+      label: follow_up_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: follow_up_person
+      label: follow_up_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: follow_up_date
+      label: follow_up_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: follow_up_location
+      label: follow_up_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: follow_up_comments
+      label: follow_up_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: root_cause_comments
+      label: root_cause_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: incident_status
+      label: incident_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false

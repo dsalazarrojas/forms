@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: hr_complaint_form
+    pages:
+    - id: 1
+      name: complaint
+      label: Complaint
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: grievance
+      label: Grievance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: grievance_type
+      label: Grievance Type
+      hint: null
+      type: select_one
+      options:
+      - Harassment
+      - Discrimination
+      - Other
+      required: false
+    - id: 4
+      name: grievance_description
+      label: Grievance Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: grievance_details
+      label: Grievance Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: grievance_resolution
+      label: Desired Resolution
+      hint: null
+      type: select_one
+      options:
+      - Resolve internally
+      - Escalate to manager
+      - Escalate to HR
+      required: false
+    - id: 7
+      name: employee_contact
+      label: Employee Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: manager_contact
+      label: Manager Contact
+      hint: null
+      type: text
+      options: []
+      required: false

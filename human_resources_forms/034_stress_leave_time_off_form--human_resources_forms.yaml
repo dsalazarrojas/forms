@@ -1,0 +1,109 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: stress_leave_time_off_form
+    pages:
+    - id: 1
+      name: employee
+      label: employee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_start
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: date_end
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: reason
+      label: reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: employee_notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: manager_notes
+      label: manager_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: approval_status
+      label: approval_status
+      hint: null
+      type: select_one
+      options:
+      - approved
+      - denied
+      - pending
+      required: true
+    - id: 9
+      name: employee_acknowledgement
+      label: acknowledgement
+      hint: null
+      type: select_multiple
+      options:
+      - acknowledged
+      - not_acknowledged
+      - unknown
+      required: true
+    - id: 10
+      name: employee_acknowledgement_date
+      label: acknowledgement_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: manager_acknowledgement
+      label: manager_acknowledgement
+      hint: null
+      type: select_multiple
+      options:
+      - acknowledged
+      - not_acknowledged
+      - unknown
+      required: false
+    - id: 12
+      name: manager_acknowledgement_date
+      label: manager_acknowledgement_date
+      hint: null
+      type: date
+      options: []
+      required: false

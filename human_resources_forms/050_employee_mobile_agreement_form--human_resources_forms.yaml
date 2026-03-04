@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Mobile Agreement Form
+    pages:
+    - id: 1
+      name: employee_mobile_agreement_form
+      label: employee_mobile_agreement_form_label
+      hint: null
+      type: select_one
+      options:
+      - Option A
+      - Option B
+      - Option C
+      required: false
+    - id: 2
+      name: agreement_date
+      label: agreement_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: company_name
+      label: company_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: employee_title
+      label: employee_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: agreement_status
+      label: agreement_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Resigned
+      required: false
+    - id: 7
+      name: signature
+      label: signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date_of_signature
+      label: date_of_signature
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: date_of_termination
+      label: date_of_termination
+      hint: null
+      type: date
+      options: []
+      required: false

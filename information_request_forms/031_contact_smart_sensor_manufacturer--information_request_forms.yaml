@@ -1,0 +1,163 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Smart Sensor Manufacturer
+    pages:
+    - id: 1
+      name: inquiry_header
+      label: Smart Sensor Manufacturer Contact
+      hint: Submit your product inquiry
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company
+      label: Company Name
+      hint: Your organization
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email Address
+      hint: Business email
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone Number
+      hint: Direct contact
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: industry
+      label: Industry Sector
+      hint: Your industry
+      type: select_one
+      options:
+      - Manufacturing
+      - Automotive
+      - Healthcare
+      - Agriculture
+      - Smart Home
+      - Industrial IoT
+      - Other
+      required: true
+    - id: 9
+      name: inquiry_type
+      label: Type of Inquiry
+      hint: Select one
+      type: select_one
+      options:
+      - Product Information
+      - Pricing Request
+      - Technical Support
+      - Partnership Opportunity
+      - Custom Solution
+      - Distribution Inquiry
+      required: true
+    - id: 10
+      name: sensor_type
+      label: Sensor Type of Interest
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Temperature Sensors
+      - Pressure Sensors
+      - Motion Sensors
+      - Proximity Sensors
+      - Environmental Sensors
+      - Gas Sensors
+      - Humidity Sensors
+      - Other
+      required: true
+    - id: 11
+      name: application
+      label: Intended Application
+      hint: How will you use the sensors
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: quantity_needed
+      label: Estimated Quantity Needed
+      hint: Order volume
+      type: select_one
+      options:
+      - Sample - 1 to 10 units
+      - Small - 11 to 100 units
+      - Medium - 101 to 1000 units
+      - Large - 1001 to 10000 units
+      - Enterprise - Over 10000 units
+      required: true
+    - id: 13
+      name: timeline
+      label: Project Timeline
+      hint: When do you need
+      type: select_one
+      options:
+      - Immediate
+      - 1-3 months
+      - 3-6 months
+      - 6-12 months
+      - Planning Phase
+      required: true
+    - id: 14
+      name: technical_requirements
+      label: Technical Requirements
+      hint: Specific requirements
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: budget_range
+      label: Budget Range
+      hint: Estimated budget
+      type: select_one
+      options:
+      - Under $10000
+      - $10000 to $50000
+      - $50000 to $100000
+      - $100000 to $500000
+      - Over $500000
+      required: false
+    - id: 16
+      name: current_supplier
+      label: Do You Currently Use Sensors
+      hint: Current status
+      type: select_one
+      options:
+      - Yes - Looking to Switch
+      - Yes - Looking for Alternative
+      - No - New Project
+      required: true
+    - id: 17
+      name: additional_info
+      label: Additional Information
+      hint: Any other details
+      type: text
+      options: []
+      required: false

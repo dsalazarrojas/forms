@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Police Department Incident Form
+    pages:
+    - id: 1
+      name: incident_date_time
+      label: Date and Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: incident_location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: incident_reported_by
+      label: Reported by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: incident_officer_name
+      label: Officer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: incident_officer_department
+      label: Officer Department
+      hint: null
+      type: select_multiple
+      options:
+      - Police
+      - Sheriff's Office
+      - Custom
+      required: true
+    - id: 6
+      name: incident_date_time_issued
+      label: Date and Time Issued
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: incident_reported_on
+      label: Reported On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: incident_issued_to
+      label: Issued to
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: incident_officer_notes
+      label: Officer Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: incident_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Closed
+      required: true
+    - id: 11
+      name: incident_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: incident_officer_issued_by
+      label: Officer Issued By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: incident_date_time_reported
+      label: Date and Time Reported
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: incident_department_issued_by
+      label: Department Issued By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: incident_issuing_authority
+      label: Issuing Authority
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: incident_reporter_name
+      label: Reporter Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: incident_reporter_contact
+      label: Reporter Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: incident_reporter_email
+      label: Reporter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: incident_reporter_address
+      label: Reporter Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: incident_reporter_department
+      label: Reporter Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: incident_reporter_title
+      label: Reporter Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: incident_officerbadge_num
+      label: Officer Badge Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: incident_officerbadge_date_issued
+      label: Officer Badge Date Issued
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: incident_reporterbadge_date_issued
+      label: Reporter Badge Date Issued
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: incident_reporterbadge_num
+      label: Reporter Badge Number
+      hint: null
+      type: text
+      options: []
+      required: false

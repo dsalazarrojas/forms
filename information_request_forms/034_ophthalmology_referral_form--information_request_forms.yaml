@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ophthalmology Referral Form
+    pages:
+    - id: 1
+      name: patient_information
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: referral_request
+      label: Referral Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: doctor_name
+      label: Doctor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: patient_condition
+      label: Patient Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: medical_specialty
+      label: Medical Specialty
+      hint: null
+      type: select_one
+      options:
+      - Cardiology
+      - Dermatology
+      - Endocrinology
+      - Gastroenterology
+      - Gynecology
+      - Nephrology
+      - Neurology
+      - Ophthalmology
+      - Rheumatology
+      - Urology
+      - Urology
+      - Pulmonology
+      required: true
+    - id: 12
+      name: medical_facility
+      label: Medical Facility
+      hint: null
+      type: select_one
+      options:
+      - Hospital
+      - Clinic
+      - Laboratory
+      required: true
+    - id: 13
+      name: date_of_service
+      label: Date of Service
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: time_of_service
+      label: Time of Service
+      hint: null
+      type: time
+      options: []
+      required: false

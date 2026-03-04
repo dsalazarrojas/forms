@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Innovation Hub Contact Form
+    pages:
+    - id: 1
+      name: property_innovation_hub_contact_form
+      label: Property Innovation Hub Contact Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Apartment''}'
+      - '{''id'': 2, ''name'': ''House''}'
+      - '{''id'': 3, ''name'': ''Other''}'
+      required: true
+    - id: 7
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: message
+      label: Message
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Phone Call''}'
+      - '{''id'': 2, ''name'': ''Email''}'
+      - '{''id'': 3, ''name'': ''Mail''}'
+      required: true
+    - id: 10
+      name: property_inquiries
+      label: Property Inquiries
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 11
+      name: innovation_focus
+      label: Innovation Focus
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Energy Efficiency''}'
+      - '{''id'': 2, ''name'': ''Water Conservation''}'
+      - '{''id'': 3, ''name'': ''Sustainability''}'
+      required: false
+    - id: 12
+      name: follow_up
+      label: Follow Up
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      required: false
+    - id: 13
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: property_manager
+      label: Property Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: property_owner
+      label: Property Owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: property_contact
+      label: Property Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: property_address2
+      label: Property Address 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: property_city
+      label: Property City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: property_state
+      label: Property State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: property_zip
+      label: Property Zip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: property_country
+      label: Property Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: property_website
+      label: Property Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: property_notes
+      label: Property Notes
+      hint: null
+      type: note
+      options: []
+      required: false

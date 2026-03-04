@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: exit_interview_declaration_form
+    pages:
+    - id: 1
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reporting_manager
+      label: Reporting Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: reporting_manager_response
+      label: Reporting Manager Response
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: job_status
+      label: Job Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 100, ''label'': ''Full-time''}'
+      - '{''id'': 200, ''label'': ''Part-time''}'
+      - '{''id'': 300, ''label'': ''Intern''}'
+      required: false
+    - id: 7
+      name: reason_for_leave
+      label: Reason For Leave
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: next_move
+      label: Next Move
+      hint: null
+      type: date
+      options: []
+      required: false

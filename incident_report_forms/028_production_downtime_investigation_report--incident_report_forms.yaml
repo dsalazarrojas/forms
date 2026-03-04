@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Production Downtime Investigation Report
+    pages:
+    - id: 1
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incident_start
+      label: Incident Start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: incident_end
+      label: Incident End
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: root_cause
+      label: Root Cause
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: corrective_actions
+      label: Corrective Actions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: follow_up
+      label: Follow Up
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_one
+      options:
+      - Manufacturing
+      - Equipment failure
+      - Human error
+      - Other
+      required: false
+    - id: 9
+      name: production_line
+      label: Production Line
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: shift
+      label: Shift
+      hint: null
+      type: select_multiple
+      options:
+      - 1st Shift
+      - 2nd Shift
+      - 3rd Shift
+      required: false
+    - id: 11
+      name: employee
+      label: Employee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: supervisor
+      label: Supervisor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Manufacturing
+      - Engineering
+      - Operations
+      - Other
+      required: false
+    - id: 14
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: asset
+      label: Asset
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: asset_type
+      label: Asset Type
+      hint: null
+      type: select_one
+      options:
+      - Machine
+      - Equipment
+      - Other
+      required: false
+    - id: 17
+      name: asset_condition
+      label: Asset Condition
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Bad
+      - Fair
+      - New
+      required: false
+    - id: 18
+      name: asset_status
+      label: Asset Status
+      hint: null
+      type: select_one
+      options:
+      - In Use
+      - Out of Use
+      - Maintenance
+      required: false
+    - id: 19
+      name: root_cause_description
+      label: Root Cause Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: action_description
+      label: Action Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: corrective_action_status
+      label: Corrective Action Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      - In Progress
+      - Pending
+      required: false
+    - id: 22
+      name: follow_up_status
+      label: Follow Up Status
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 23
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: shift_hours
+      label: Shift Hours
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Incident Action Plan Form
+    pages:
+    - id: 1
+      name: incident_action_plan_form_page
+      label: incident_action_plan
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: incident_details
+      label: incident_details
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: incident_status
+      label: incident_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 5
+      name: actions_taken
+      label: actions_taken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: incident_status_date
+      label: incident_status_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: incident_status_time
+      label: incident_status_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: incident_status_time_tz
+      label: incident_status_time_tz
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: incident_location
+      label: incident_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: incident_description
+      label: incident_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: incident_responsible_party
+      label: incident_responsible_party
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: incident_reporter
+      label: incident_reporter
+      hint: null
+      type: text
+      options: []
+      required: false

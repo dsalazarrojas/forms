@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cloud Architect Onboarding Form
+    pages:
+    - id: 1
+      name: section_employee
+      label: -- Employee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID Number
+      hint: Assigned by HR
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Work Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Work Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: start_date
+      label: Start Date
+      hint: First day of employment
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: section_position
+      label: -- Position Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: manager_name
+      label: Direct Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: reporting_structure
+      label: Team and Reporting Structure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: office_location
+      label: Office Location
+      hint: Primary work location
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: section_access
+      label: -- System Access and Setup --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: laptop_required
+      label: Laptop configuration required?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Already provided
+      required: true
+    - id: 15
+      name: operating_system
+      label: Preferred Operating System
+      hint: null
+      type: select_one
+      options:
+      - Windows
+      - macOS
+      - Linux
+      - No preference
+      required: false
+    - id: 16
+      name: software_access
+      label: Cloud platforms requiring access
+      hint: null
+      type: select_multiple
+      options:
+      - AWS
+      - Microsoft Azure
+      - Google Cloud
+      - On-premises systems
+      - Collaboration tools
+      required: true
+    - id: 17
+      name: vpn_required
+      label: VPN access required?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: section_training
+      label: -- Training and Development --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: onboarding_training
+      label: Training needed for cloud platforms
+      hint: null
+      type: select_multiple
+      options:
+      - AWS basics
+      - Azure fundamentals
+      - GCP introduction
+      - Company architecture review
+      - Security protocols
+      - Other
+      required: false
+    - id: 20
+      name: certification_goals
+      label: Certification goals for first year
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: section_documents
+      label: -- Documentation and Compliance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: documentation_received
+      label: Documentation items received
+      hint: Employee handbook, policies, etc
+      type: select_multiple
+      options:
+      - Employee handbook
+      - IT policies
+      - Security policies
+      - Cloud architecture standards
+      - Organizational chart
+      - Benefits information
+      required: true
+    - id: 23
+      name: background_check
+      label: Background check cleared?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - In progress
+      required: true
+    - id: 24
+      name: nda_signed
+      label: NDA and confidentiality agreement signed?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Pending
+      required: true
+    - id: 25
+      name: section_notes
+      label: -- Additional Notes --
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Background Verification Authorization Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Full Legal Name
+      hint: First, middle, and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: other_names
+      label: Other Names Used
+      hint: Maiden name, aliases, nicknames
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: social_security_number
+      label: Social Security Number
+      hint: XXX-XX-XXXX format
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: current_address
+      label: Current Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: email
+      label: Email Address
+      hint: Primary email address
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: drivers_license_number
+      label: Drivers License Number
+      hint: License or ID number
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: drivers_license_state
+      label: Issuing State
+      hint: State that issued license
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: position_applied
+      label: Position Applied For
+      hint: Job title
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: company_name
+      label: Company Name
+      hint: Organization name
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: verification_scope
+      label: Scope of Verification
+      hint: Select all checks authorized
+      type: select_multiple
+      options:
+      - Criminal history search
+      - County court records
+      - Federal court records
+      - State court records
+      - Sex offender registry
+      - Terrorist watch list
+      - Employment verification
+      - Education verification
+      - Professional license verification
+      - Credit history check
+      - Motor vehicle records
+      - Reference interviews
+      required: true
+    - id: 16
+      name: seven_year_history
+      label: Seven Year Residence History
+      hint: List all addresses for past 7 years
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: conviction_history_question
+      label: Conviction History
+      hint: Have you been convicted of a felony or misdemeanor
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: conviction_explanation
+      label: Explanation of Convictions
+      hint: Provide details including dates and circumstances
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: authorization_statement
+      label: Authorization Statement
+      hint: I authorize the company to conduct background verification
+      type: select_one
+      options:
+      - Yes, I authorize
+      - No, I do not authorize
+      required: true
+    - id: 20
+      name: fcra_disclosure
+      label: FCRA Disclosure Acknowledgment
+      hint: I have read and understand my FCRA rights
+      type: select_one
+      options:
+      - Yes, acknowledged
+      - No, not acknowledged
+      required: true
+    - id: 21
+      name: adverse_action_consent
+      label: Adverse Action Consent
+      hint: I understand adverse action may result from this check
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I do not understand
+      required: true
+    - id: 22
+      name: report_copy_request
+      label: Request Copy of Report
+      hint: Would you like to receive a copy
+      type: select_one
+      options:
+      - Yes, please send copy
+      - No, not needed
+      required: true
+    - id: 23
+      name: authorization_duration
+      label: Authorization Duration
+      hint: How long is this authorization valid
+      type: select_one
+      options:
+      - 90 days
+      - 180 days
+      - 1 year
+      - Until revoked in writing
+      required: true
+    - id: 24
+      name: applicant_signature
+      label: Applicant Signature
+      hint: Digital signature or typed name
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: signature_date
+      label: Date Signed
+      hint: Date of authorization
+      type: date
+      options: []
+      required: true

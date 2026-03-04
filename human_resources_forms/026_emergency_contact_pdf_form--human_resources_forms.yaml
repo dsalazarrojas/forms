@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: emergency_contact_pdf_form
+    pages:
+    - id: 1
+      name: resident_name
+      label: Resident Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_relationship
+      label: Relationship
+      hint: null
+      type: select_one
+      options:
+      - Mother
+      - Father
+      - Mother/Father
+      - Son/Daughter
+      - Brother/Sister
+      - Grandparent
+      - Spouse
+      - Friend
+      required: true
+    - id: 5
+      name: contact_relationship_other
+      label: Other (specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: select_multiple
+      options:
+      - Home
+      - Work
+      - Cell
+      - Other (specify)
+      required: true
+    - id: 7
+      name: contact_email
+      label: Emergency Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_address
+      label: Emergency Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false

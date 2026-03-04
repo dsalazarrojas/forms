@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Declaration Template
+    pages:
+    - id: 1
+      name: student_declaration_template_1
+      label: i_agree_to_be_assessed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: student_declaration_template_2
+      label: i_agree_to_be_assessed_by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: student_declaration_template_3
+      label: i_will_participate_in
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: student_declaration_template_4
+      label: i_will_not_participate_in
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: student_declaration_template_5
+      label: i_will_not_be_assessed
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: student_declaration_template_6
+      label: i_will_be_assessed_by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: student_declaration_template_7
+      label: i_will_participate_in_externally
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: student_declaration_template_8
+      label: i_will_not_participate_in_externally
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

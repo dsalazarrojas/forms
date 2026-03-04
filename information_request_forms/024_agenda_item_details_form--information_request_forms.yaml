@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agenda Item Details Form
+    pages:
+    - id: 1
+      name: meeting_info
+      label: -- Meeting Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: meeting_date
+      label: Meeting date
+      hint: Date of the meeting
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: submitted_by
+      label: Submitted by
+      hint: Name of the person submitting the agenda item
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: agenda_title
+      label: Agenda title
+      hint: Short title describing the item
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: description
+      label: Description
+      hint: Detailed description of the agenda item
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: desired_outcome
+      label: Desired outcome
+      hint: Decision requested or information only
+      type: select_one
+      options:
+      - Decision
+      - Discussion
+      - Information
+      required: true
+    - id: 7
+      name: estimated_time_minutes
+      label: Estimated time minutes
+      hint: Minutes requested for this item
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: attachments
+      label: Attachments description
+      hint: List any supporting documents
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: priority
+      label: Priority
+      hint: Indicate importance to meeting agenda
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 10
+      name: contact_phone
+      label: Contact phone
+      hint: Phone number for follow up
+      type: text
+      options: []
+      required: false

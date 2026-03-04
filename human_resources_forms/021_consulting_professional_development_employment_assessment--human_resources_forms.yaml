@@ -1,0 +1,247 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consulting Professional Development Employment Assessment
+    pages:
+    - id: 1
+      name: employee_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_email
+      label: Email Address
+      hint: Work email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: employee_id
+      label: Employee ID
+      hint: Employee identification number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: current_position
+      label: Current Position
+      hint: Your current job title
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: department
+      label: Department
+      hint: Your department or practice area
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: hire_date
+      label: Hire Date
+      hint: Date you joined the company
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: current_level
+      label: Current Level
+      hint: Your current career level
+      type: select_one
+      options:
+      - Analyst
+      - Associate
+      - Senior Associate
+      - Manager
+      - Senior Manager
+      - Director
+      - Principal
+      - Partner
+      required: true
+    - id: 9
+      name: years_in_consulting
+      label: Years in Consulting
+      hint: Total years of consulting experience
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: performance_rating_current
+      label: Current Performance Rating
+      hint: Most recent performance review rating
+      type: select_one
+      options:
+      - Exceeds Expectations
+      - Meets Expectations
+      - Developing
+      - Below Expectations
+      - Not Yet Rated
+      required: true
+    - id: 11
+      name: core_competencies
+      label: Core Competencies
+      hint: Select your primary strengths
+      type: select_multiple
+      options:
+      - Strategic Thinking
+      - Client Management
+      - Problem Solving
+      - Data Analysis
+      - Project Management
+      - Team Leadership
+      - Communication
+      - Business Development
+      - Technical Skills
+      - Industry Knowledge
+      required: true
+    - id: 12
+      name: development_areas
+      label: Areas for Development
+      hint: Select areas you want to improve
+      type: select_multiple
+      options:
+      - Leadership Skills
+      - Presentation Skills
+      - Client Relationship Building
+      - Technical Expertise
+      - Industry Knowledge
+      - Business Acumen
+      - Time Management
+      - Delegation
+      - Conflict Resolution
+      - Negotiation
+      required: true
+    - id: 13
+      name: career_interests
+      label: Career Interests
+      hint: What areas interest you for growth
+      type: select_multiple
+      options:
+      - People Management
+      - Technical Specialist
+      - Business Development
+      - Subject Matter Expert
+      - Project Leadership
+      - Industry Specialist
+      - Executive Track
+      - Other
+      required: true
+    - id: 14
+      name: short_term_goals
+      label: Short-Term Career Goals
+      hint: Goals for the next 6-12 months
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: long_term_goals
+      label: Long-Term Career Goals
+      hint: Goals for the next 2-5 years
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: training_completed
+      label: Training Completed This Year
+      hint: List training programs completed
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: training_desired
+      label: Desired Training Programs
+      hint: What training would benefit you
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: certification_goals
+      label: Certification Goals
+      hint: Any certifications you plan to pursue
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: mentorship_interest
+      label: Mentorship Interest
+      hint: Select your mentorship preference
+      type: select_one
+      options:
+      - Want a Mentor
+      - Want to Be a Mentor
+      - Want Both
+      - Not Interested
+      required: false
+    - id: 20
+      name: project_preferences
+      label: Project Type Preferences
+      hint: What types of projects interest you
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: industry_preferences
+      label: Industry Preferences
+      hint: Preferred industries to work in
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: work_location_preference
+      label: Work Location Preference
+      hint: Preferred working arrangement
+      type: select_one
+      options:
+      - Office Based
+      - Remote
+      - Hybrid
+      - Client Site
+      - Flexible
+      required: false
+    - id: 23
+      name: travel_willingness
+      label: Travel Willingness
+      hint: How much travel are you willing to do
+      type: select_one
+      options:
+      - Extensive - 80%+
+      - Moderate - 50-80%
+      - Limited - 25-50%
+      - Minimal - Under 25%
+      - No Travel
+      required: true
+    - id: 24
+      name: promotion_readiness
+      label: Do You Feel Ready for Promotion
+      hint: Select if you feel ready for advancement
+      type: select_one
+      options:
+      - Yes, Ready Now
+      - Yes, Within 6 Months
+      - Yes, Within 1 Year
+      - Not Yet
+      - Unsure
+      required: true
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information to share
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: assessment_date
+      label: Assessment Date
+      hint: Date of this assessment
+      type: date
+      options: []
+      required: true

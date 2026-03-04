@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Foreign Contact Disclosure Form
+    pages:
+    - id: 1
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: contact_type
+      label: Contact Type
+      hint: null
+      type: select_one
+      options:
+      - Contact Person
+      - Company
+      - Other
+      required: false
+    - id: 9
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: foreign_country
+      label: Foreign Country
+      hint: null
+      type: select_multiple
+      options:
+      - United States
+      - Canada
+      - Mexico
+      - China
+      - Japan
+      - Korea
+      - United Kingdom
+      - Australia
+      - Germany
+      - France
+      - India
+      - Other
+      required: false
+    - id: 11
+      name: amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: currency
+      label: Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - CNY
+      - JPY
+      - INR
+      required: false
+    - id: 13
+      name: currency_code
+      label: Currency Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: amount_usd
+      label: Amount in USD
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: other_currency
+      label: Other Currency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Save and submit
+      - Save and continue editing
+      required: false
+    - id: 18
+      name: submit_date
+      label: Submit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: submit_time
+      label: Submit Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: submit_date_time
+      label: Submit Date and Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - ChatJimmy
+      - Other
+      required: false
+    - id: 22
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Pending
+      - Resolved
+      required: false
+    - id: 23
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 24
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Information Forms
+      - Other
+      required: false
+    - id: 25
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,184 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Inquiry Form
+    pages:
+    - id: 1
+      name: inquirer_header
+      label: -- Your Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: organization_affiliation
+      label: Organization or Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: inquiry_type_header
+      label: -- Type of Inquiry --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: inquiry_category
+      label: Category of Inquiry
+      hint: null
+      type: select_one
+      options:
+      - Health Information
+      - Testing Information
+      - Vaccination Information
+      - Reporting an Issue
+      - General Question
+      - Complaint
+      - Other
+      required: true
+    - id: 8
+      name: subject
+      label: Subject of Inquiry
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: inquiry_details
+      label: Detailed Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: urgency_header
+      label: -- Priority and Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: urgency_level
+      label: Urgency Level
+      hint: null
+      type: select_one
+      options:
+      - Non-Urgent
+      - Moderate
+      - Urgent
+      - Emergency
+      required: true
+    - id: 12
+      name: affected_person
+      label: Is this inquiry about yourself
+      hint: null
+      type: select_one
+      options:
+      - Yes, Myself
+      - No, Family Member
+      - No, Other Person
+      - No, General Question
+      required: true
+    - id: 13
+      name: affected_person_name
+      label: Name of affected person if applicable
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: related_symptoms
+      label: Any COVID-19 symptoms involved
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: symptoms_description
+      label: Describe symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: attachment_section
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: relevant_documents
+      label: Relevant documents or information attached
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 18
+      name: document_description
+      label: Description of attached documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: preferred_contact
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - In-Person
+      - Video Call
+      required: true
+    - id: 20
+      name: best_time_contact
+      label: Best time to contact you
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: follow_up_agreement
+      label: I agree to receive follow-up communications
+      hint: null
+      type: select_one
+      options:
+      - Yes, I Agree
+      - No, I Do Not Agree
+      required: true
+    - id: 22
+      name: submission_date
+      label: Date of Submission
+      hint: null
+      type: date
+      options: []
+      required: true

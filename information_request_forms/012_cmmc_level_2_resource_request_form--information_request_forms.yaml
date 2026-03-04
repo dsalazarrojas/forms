@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: CMMC Level 2 Resource Request Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Requester Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: Work email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization
+      label: Organization
+      hint: Company name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department
+      hint: Your department
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: role
+      label: Your Role
+      hint: Job title
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: request_type
+      label: Request Type
+      hint: What type of support do you need
+      type: select_one
+      options:
+      - CMMC Assessment Preparation
+      - Gap Analysis
+      - Policy Development
+      - Technical Implementation
+      - Training and Awareness
+      - Documentation Review
+      - Ongoing Compliance Support
+      - Other
+      required: true
+    - id: 8
+      name: current_cmmc_level
+      label: Current CMMC Status
+      hint: Your current certification level
+      type: select_one
+      options:
+      - Not Started
+      - Level 1 Self-Assessment
+      - Level 2 Partial Implementation
+      - Level 2 Fully Implemented
+      - Level 3 Certified
+      - Unsure
+      required: true
+    - id: 9
+      name: target_certification_date
+      label: Target Certification Date
+      hint: When do you need certification
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: contract_requirements
+      label: Contract Requirements
+      hint: Do you have DoD contracts
+      type: select_one
+      options:
+      - Yes active DoD contracts
+      - Yes pending contracts
+      - Planning to bid
+      - No contracts currently
+      required: true
+    - id: 11
+      name: fci_handled
+      label: Do You Handle FCI
+      hint: Federal Contract Information
+      type: select_one
+      options:
+      - Yes regularly
+      - Yes occasionally
+      - false
+      - Unsure
+      required: true
+    - id: 12
+      name: cdi_handled
+      label: Do You Handle CDI
+      hint: Controlled Defense Information
+      type: select_one
+      options:
+      - Yes regularly
+      - Yes occasionally
+      - false
+      - Unsure
+      required: true
+    - id: 13
+      name: current_controls
+      label: Current Security Controls
+      hint: Select implemented controls
+      type: select_multiple
+      options:
+      - Access Control
+      - Awareness Training
+      - Audit and Accountability
+      - Configuration Management
+      - Identification and Authentication
+      - Incident Response
+      - Maintenance
+      - Media Protection
+      - Physical Protection
+      - Risk Assessment
+      - Security Assessment
+      - System Communications Protection
+      - System and Information Integrity
+      - None Implemented
+      required: true
+    - id: 14
+      name: budget_range
+      label: Budget Range
+      hint: Estimated budget for compliance
+      type: select_one
+      options:
+      - Under $25000
+      - $25000 to $50000
+      - $50000 to $100000
+      - $100000 to $250000
+      - Over $250000
+      - Not Determined
+      required: false
+    - id: 15
+      name: timeline_urgency
+      label: Timeline Urgency
+      hint: How urgent is this request
+      type: select_one
+      options:
+      - Critical - Immediate Need
+      - High - Within 30 Days
+      - Medium - Within 90 Days
+      - Low - Planning Phase
+      required: true
+    - id: 16
+      name: specific_needs
+      label: Specific Needs Description
+      hint: Detail your requirements
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: previous_assessments
+      label: Previous Assessments
+      hint: Have you had prior assessments
+      type: select_one
+      options:
+      - Yes formal CMMC assessment
+      - Yes internal self-assessment
+      - Yes third-party assessment
+      - No assessments yet
+      required: true
+    - id: 18
+      name: team_size
+      label: Team Size
+      hint: Number of employees
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: it_infrastructure
+      label: IT Infrastructure
+      hint: Describe your IT environment
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: preferred_engagement
+      label: Preferred Engagement Type
+      hint: How would you like to work together
+      type: select_one
+      options:
+      - Full Consulting Engagement
+      - Advisory Only
+      - Training and Support
+      - Assessment Only
+      - Undecided
+      required: true
+    - id: 21
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

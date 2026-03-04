@@ -1,0 +1,156 @@
+inputSchema:
+  type: object
+  properties:
+    title: Maritime Accident Incident Form
+    pages:
+    - id: 1
+      name: incident_type
+      label: incident_type
+      hint: null
+      type: select_one
+      options:
+      - Collision
+      - Capsizing
+      - Sinking
+      - All other
+      required: false
+    - id: 2
+      name: incident_location
+      label: incident_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: incident_date
+      label: incident_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: incident_time
+      label: incident_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: incident_nature
+      label: incident_nature
+      hint: null
+      type: select_multiple
+      options:
+      - Collision
+      - Sinking
+      - Fire
+      - Storm
+      - Other (please specify)
+      required: false
+    - id: 6
+      name: incident_description
+      label: incident_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: incident_damages
+      label: incident_damages
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: incident_injuries
+      label: incident_injuries
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: incident_deaths
+      label: incident_deaths
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: incident_location
+      label: incident_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: incident_weather
+      label: incident_weather
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: incident_crew
+      label: incident_crew
+      hint: null
+      type: select_multiple
+      options:
+      - Number of crew members on board
+      - All crew members were accounted for
+      - Unknown
+      required: false
+    - id: 13
+      name: incident_vessel
+      label: incident_vessel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: incident_vessel_type
+      label: incident_vessel_type
+      hint: null
+      type: select_one
+      options:
+      - Ship
+      - Boat
+      - Vessel
+      required: false
+    - id: 15
+      name: incident_vessel_size
+      label: incident_vessel_size
+      hint: null
+      type: select_multiple
+      options:
+      - Small (less than 5 meters)
+      - Medium (5 - 10 meters)
+      - Large (10 - 20 meters)
+      - Other (please specify)
+      required: false
+    - id: 16
+      name: incident_vessel_flag
+      label: incident_vessel_flag
+      hint: null
+      type: select_one
+      options:
+      - National
+      - International
+      - None
+      required: false
+    - id: 17
+      name: incident_cause
+      label: incident_cause
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: incident_investigation
+      label: incident_investigation
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      - Pending
+      required: false

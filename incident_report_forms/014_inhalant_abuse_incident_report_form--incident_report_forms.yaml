@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Inhalant Abuse Incident Report Form
+    pages:
+    - id: 1
+      name: incident_report_form_1
+      label: Incident Report Form
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: incident_report_form_2
+      label: Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: incident_report_form_3
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: incident_report_form_4
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: incident_report_form_5
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: incident_report_form_6
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: suspect_id
+      label: Suspect ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: suspect_name
+      label: Suspect Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: suspect_relationship
+      label: Relationship
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Warehouse Fire Incident Form
+    pages:
+    - id: 1
+      name: incident_type
+      label: Incident type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: fire_size
+      label: Fire size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: extinguishing_method
+      label: Extinguishing method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: cause
+      label: Cause
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: time_of_incident
+      label: Time of Incident
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: number_of_people_affected
+      label: Number of people affected
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: property_damage
+      label: Property damage
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: fire_department_involved
+      label: Fire department involved
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: insurance_claim_status
+      label: Insurance claim status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 11
+      name: investigation_status
+      label: Investigation status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 12
+      name: witness_statments
+      label: Witness statements
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

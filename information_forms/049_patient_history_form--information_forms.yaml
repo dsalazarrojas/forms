@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient History Form
+    pages:
+    - id: 1
+      name: general_info
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: treatments_received
+      label: Treatments Received
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false

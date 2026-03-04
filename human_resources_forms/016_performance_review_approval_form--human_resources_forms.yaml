@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Performance Review Approval Form
+    pages:
+    - id: 1
+      name: review_form
+      label: Review Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: manager_phone
+      label: Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: performance_rating
+      label: Performance Rating
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Good
+      - Fair
+      required: true
+    - id: 6
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: true
+    - id: 7
+      name: approval_date
+      label: Approval Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: reviewer_signature
+      label: Reviewer Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: reviewer_note
+      label: Reviewer Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: manager_signature
+      label: Manager Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: manager_note
+      label: Manager Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: review_period
+      label: Review Period
+      hint: null
+      type: select_one
+      options:
+      - Q1
+      - Q2
+      - Q3
+      - Q4
+      required: true
+    - id: 15
+      name: review_frequency
+      label: Review Frequency
+      hint: null
+      type: select_one
+      options:
+      - Annually
+      - Semi-Annually
+      - Quarterly
+      - Bi-Annually
+      required: true
+    - id: 16
+      name: review_form_submission
+      label: Review Form Submission
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 17
+      name: manager_comments
+      label: Manager Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: reviewer_comments
+      label: Reviewer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: true
+    - id: 20
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: submission_by
+      label: Submission By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submission_note
+      label: Submission Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: review_form_status
+      label: Review Form Status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Completed
+      - Cancelled
+      required: true
+    - id: 25
+      name: review_form_comments
+      label: Review Form Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,135 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Academic Innovation Toolkit Request Form
+    pages:
+    - id: 1
+      name: toolkit_request_intro
+      label: Academic Innovation Toolkit Request
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Requester Name
+      hint: Full name of the person requesting the toolkit
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_email
+      label: Email Address
+      hint: Professional email for communication about this request
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: requester_department
+      label: Department
+      hint: Academic department or unit making the request
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: requester_position
+      label: Position/Title
+      hint: Your role in the department
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: toolkit_type_requested
+      label: Type of Innovation Toolkit Requested
+      hint: What category of toolkit are you requesting?
+      type: select_one
+      options: ["Digital pedagogy tools", "Active learning resources", "Assessment innovation kit", "Technology integration guide", "Collaborative learning materials", "Gamification resources", "Virtual reality education tools", "Other"]
+      required: true
+    - id: 7
+      name: specific_toolkit_name
+      label: Specific Toolkit Name
+      hint: Name of the specific toolkit you're requesting (if known)
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: intended_use
+      label: Intended Use
+      hint: How do you plan to use this toolkit?
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: target_audience
+      label: Target Audience
+      hint: Who will benefit from this toolkit? (students, faculty, staff, etc.)
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: expected_outcomes
+      label: Expected Outcomes
+      hint: What results do you anticipate from using this toolkit?
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: timeline_requirement
+      label: Timeline Requirement
+      hint: When do you need this toolkit?
+      type: select_one
+      options: ["Immediately", "Within 2 weeks", "Within 1 month", "Within 2 months", "Flexible"]
+      required: true
+    - id: 12
+      name: budget_considerations
+      label: Budget Considerations
+      hint: Is there a budget constraint for this request?
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: previous_experience
+      label: Previous Experience
+      hint: Have you used similar tools or methodologies before?
+      type: select_one
+      options: ["Extensive experience", "Some experience", "New to this area", "Seeking to explore"]
+      required: true
+    - id: 14
+      name: training_needed
+      label: Training Needed
+      hint: Do you require training to effectively use this toolkit?
+      type: select_one
+      options: ["Yes, comprehensive training", "Yes, basic orientation", "No, I can self-train", "Unsure"]
+      required: true
+    - id: 15
+      name: collaboration_interest
+      label: Collaboration Interest
+      hint: Are you interested in collaborating with others using similar toolkits?
+      type: select_one
+      options: ["Yes, actively seeking", "Open to opportunities", "Preferring independent use", "Not applicable"]
+      required: false
+    - id: 16
+      name: evaluation_plan
+      label: Evaluation Plan
+      hint: How will you assess the effectiveness of this toolkit?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: additional_resources_needed
+      label: Additional Resources Needed
+      hint: What other resources would support successful implementation?
+      type: text
+      options: []
+      required: false

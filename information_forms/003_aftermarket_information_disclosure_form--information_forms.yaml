@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Aftermarket Information Disclosure Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Aftermarket Information Disclosure --
+      hint: Disclosure of information for aftermarket services
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: business_email
+      label: Business Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: product_header
+      label: -- Product Details --
+      hint: Information about the specific aftermarket product
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: model_number
+      label: Model Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: serial_number
+      label: Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: disclosure_reason
+      label: Reason for disclosure request
+      hint: Why is this information being requested
+      type: select_one
+      options:
+      - Warranty Verification
+      - Safety Recall Information
+      - Technical Support
+      - Legal Compliance
+      - Parts Compatibility Check
+      required: true
+    - id: 11
+      name: disclosure_header
+      label: -- Disclosure Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: data_description
+      label: Detailed description of data requested
+      hint: Specify the exact information needed
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: requested_date
+      label: Requested Disclosure Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: intended_use
+      label: Intended use of information
+      hint: How will this data be utilized
+      type: select_one
+      options:
+      - Internal Research
+      - Customer Service Support
+      - Public Safety Bulletin
+      - Regulatory Filing
+      - Third-party Audit
+      required: true

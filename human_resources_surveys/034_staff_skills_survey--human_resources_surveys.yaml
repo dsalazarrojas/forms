@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Staff Skills Survey
+    pages:
+    - id: 1
+      name: staff_survey
+      label: Staff Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: task_interest
+      label: Which tasks are you interested in taking on?
+      hint: null
+      type: select_multiple
+      options:
+      - Task 1
+      - Task 2
+      - Task 3
+      required: false
+    - id: 3
+      name: responsibility_experience
+      label: How much experience do you have with responsibility?
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 4
+      name: skill_interest
+      label: How interested are you in developing your skills?
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 5
+      name: time_commitment
+      label: How much time can you commit to this project?
+      hint: Please enter a number of hours
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: Additional comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: Please enter a 10-digit number
+      type: text
+      options: []
+      required: false

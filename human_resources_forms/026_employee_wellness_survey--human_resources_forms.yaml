@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: employee_wellness_survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: physical_health
+      label: Physical Health
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Excellent''}'
+      - '{''value'': ''Good''}'
+      - '{''value'': ''Fair''}'
+      - '{''value'': ''Poor''}'
+      required: false
+    - id: 3
+      name: mental_health
+      label: Mental Health
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Excellent''}'
+      - '{''value'': ''Good''}'
+      - '{''value'': ''Fair''}'
+      - '{''value'': ''Poor''}'
+      required: false
+    - id: 4
+      name: wellness_programs
+      label: Wellness Programs
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      - '{''value'': ''Maybe''}'
+      required: false
+    - id: 5
+      name: job_satisfaction
+      label: Job Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: recommendations
+      label: Recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: manager
+      label: Manager
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True}'
+      - '{''value'': False}'
+      - '{''value'': ''Maybe''}'
+      required: false

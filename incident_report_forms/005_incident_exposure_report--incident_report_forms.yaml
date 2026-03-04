@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Incident Exposure Report
+    pages:
+    - id: 1
+      name: incident_exposure_form
+      label: Incident Exposure Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_exposure
+      label: Date Of Exposure
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_of_exposure
+      label: Time Of Exposure
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: severity
+      label: Severity
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: category_0
+      label: Category 0
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: supervisor
+      label: Supervisor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: safety_officer
+      label: Safety Officer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: follow_up_status
+      label: Follow Up Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: incident_status
+      label: Incident Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: action_taken
+      label: Action Taken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: outcome
+      label: Outcome
+      hint: null
+      type: text
+      options: []
+      required: false

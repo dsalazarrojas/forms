@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Supplementary Information Collection Form
+    pages:
+    - id: 1
+      name: case_number
+      label: Case Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_preference
+      label: Contact Preference
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Email'', ''label'': ''Email''}'
+      - '{''value'': ''Phone'', ''label'': ''Phone''}'
+      - '{''value'': ''None'', ''label'': ''None''}'
+      required: true
+    - id: 3
+      name: document_upload
+      label: Document Upload
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Attachment 1'', ''label'': ''Attachment 1''}'
+      - '{''value'': ''Attachment 2'', ''label'': ''Attachment 2''}'
+      - '{''value'': ''Attachment 3'', ''label'': ''Attachment 3''}'
+      required: true
+    - id: 4
+      name: additional_information
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: upload_document
+      label: Upload Document
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: upload_document_2
+      label: Upload Another Document
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: confirm_upload
+      label: Confirm Uploads
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: follow_up_details
+      label: Follow Up Details
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      required: true
+    - id: 9
+      name: follow_up_contact
+      label: Follow Up Contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: follow_up_note
+      label: Follow Up Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_name
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: follow_up_status
+      label: Follow Up Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Active'', ''label'': ''Active''}'
+      - '{''value'': ''Inactive'', ''label'': ''Inactive''}'
+      - '{''value'': ''Unknown'', ''label'': ''Unknown''}'
+      required: true

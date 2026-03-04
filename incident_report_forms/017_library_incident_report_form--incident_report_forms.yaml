@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: library_incident_report_form
+    pages:
+    - id: 1
+      name: incident_details
+      label: Library Incident Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: incident_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: incident_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: incident_location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: incident_reporter
+      label: Reporter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: incident_reporter_role
+      label: Reporter Role
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: incident_reporter_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: incident_reporter_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: incident_reporter_contact
+      label: Contact
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dispatch Release
+    pages:
+    - id: 1
+      name: dispatch_release_form
+      label: Dispatch Release Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: goods_services_list
+      label: Goods and Services
+      hint: List of goods and services being released
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: goods_services_details
+      label: Goods and Services Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: goods_services_value
+      label: Value of Goods and Services
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: release_date
+      label: Release Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: signed_by
+      label: Signed By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: business_signature
+      label: Business Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: dispatch_release_date
+      label: Dispatch Release Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: authorized_by
+      label: Authorized By
+      hint: null
+      type: select_multiple
+      options:
+      - Authorized Signatory
+      - Manager
+      - Director
+      required: false
+    - id: 13
+      name: dispatch_release_number
+      label: Dispatch Release Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: goods_services_list_description
+      label: Description of Goods and Services
+      hint: Brief description of goods and services being released
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: goods_services_value_in_currency
+      label: Value in Currency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: currency
+      label: Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - Other (Specify)
+      required: false
+    - id: 17
+      name: other_currency
+      label: Other Currency (Specify)
+      hint: If other currency, specify
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: dispatch_release_note
+      label: Dispatch Release Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: authorized_signature
+      label: Authorized Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: timestamp
+      label: Timestamp
+      hint: System timestamp of submission
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submitted_by_email
+      label: Submitted By Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: submitted_by_phone
+      label: Submitted By Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submit_date
+      label: Submit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false

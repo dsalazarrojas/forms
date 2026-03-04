@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Background Information Intake For Immigration Clients
+    pages:
+    - id: 1
+      name: immigration_intake_header
+      label: -- Confidential Immigration Background Intake --
+      hint: This information is protected by attorney-client privilege
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_full_name_immigration
+      label: Full Legal Name
+      hint: As it appears on your passport
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: other_names_used_immigration
+      label: Other names used or aliases
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: country_of_birth_immigration
+      label: Country of Birth
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: country_of_citizenship
+      label: Country of Citizenship
+      hint: List all if multiple
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: current_us_entry_header
+      label: -- Current US Status Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: last_entry_date_us
+      label: Date of Last Entry to the United States
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: last_entry_visa_type
+      label: Visa Type at Last Entry
+      hint: e.g., B-2 Tourist, F-1 Student, H-1B, Without Inspection
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: current_i94_number
+      label: Current I-94 Admission Number (If available)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: legal_history_header_immigration
+      label: -- Legal and Immigration History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: has_been_in_proceedings
+      label: Have you ever been in immigration court or removal proceedings?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 12
+      name: has_been_arrested_worldwide
+      label: Have you ever been arrested or convicted of a crime anywhere in the world?
+      hint: Even if the record was cleared
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 13
+      name: arrests_details_immigration
+      label: If Yes, provide details for each arrest
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: family_in_us_status
+      label: List family members in the US and their status
+      hint: e.g., Spouse (Green Card), Child (US Citizen)
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: highest_level_education_immigration
+      label: Highest Level of Education Completed
+      hint: null
+      type: select_one
+      options:
+      - Primary School
+      - High School
+      - University Degree
+      - Post-graduate Degree
+      required: true
+    - id: 16
+      name: contact_email_immigration
+      label: Your Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 17
+      name: contact_phone_immigration
+      label: Your Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,248 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Annual Review (Manager Feedback)
+    pages:
+      - id: 1
+        name: manager_name
+        label: Your Name (Manager)
+        hint: Full name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: manager_email
+        label: Your Email
+        hint: Work email address
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: employee_name
+        label: Employee Name
+        hint: Name of employee being reviewed
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: employee_id
+        label: Employee ID
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: employee_position
+        label: Employee Position Title
+        hint: Job title
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: department
+        label: Department
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: time_managing_employee
+        label: How long have you managed this employee
+        hint: null
+        type: select_one
+        options:
+          - "Less than 6 months"
+          - "6-12 months"
+          - "1-2 years"
+          - "2-5 years"
+          - "More than 5 years"
+        required: true
+      - id: 8
+        name: overall_performance_rating
+        label: Overall performance rating
+        hint: null
+        type: select_one
+        options:
+          - "Exceeds expectations - high performer"
+          - "Meets expectations - solid performer"
+          - "Below expectations - needs improvement"
+          - "Unsatisfactory - not meeting requirements"
+        required: true
+      - id: 9
+        name: quality_of_work
+        label: Quality of work and attention to detail
+        hint: null
+        type: select_one
+        options:
+          - "Excellent"
+          - "Good"
+          - "Satisfactory"
+          - "Needs improvement"
+          - "Poor"
+        required: true
+      - id: 10
+        name: productivity_efficiency
+        label: Productivity and efficiency
+        hint: Ability to accomplish tasks in timely manner
+        type: select_one
+        options:
+          - "Excellent"
+          - "Good"
+          - "Satisfactory"
+          - "Needs improvement"
+          - "Poor"
+        required: true
+      - id: 11
+        name: reliability_dependability
+        label: Reliability and dependability
+        hint: Follow-through on commitments
+        type: select_one
+        options:
+          - "Excellent"
+          - "Good"
+          - "Satisfactory"
+          - "Needs improvement"
+          - "Poor"
+        required: true
+      - id: 12
+        name: teamwork_collaboration
+        label: Teamwork and collaboration
+        hint: Works well with others
+        type: select_one
+        options:
+          - "Excellent"
+          - "Good"
+          - "Satisfactory"
+          - "Needs improvement"
+          - "Poor"
+        required: true
+      - id: 13
+        name: communication_skills
+        label: Communication skills
+        hint: Clear and effective communication
+        type: select_one
+        options:
+          - "Excellent"
+          - "Good"
+          - "Satisfactory"
+          - "Needs improvement"
+          - "Poor"
+        required: true
+      - id: 14
+        name: initiative_leadership
+        label: Initiative and leadership potential
+        hint: Takes on responsibility and leads others
+        type: select_one
+        options:
+          - "Excellent"
+          - "Good"
+          - "Satisfactory"
+          - "Needs improvement"
+          - "Poor"
+        required: true
+      - id: 15
+        name: technical_competency
+        label: Technical competency and expertise
+        hint: Skills and knowledge in role
+        type: select_one
+        options:
+          - "Exceeds requirements"
+          - "Meets requirements"
+          - "Partially meets"
+          - "Below requirements"
+          - "Not applicable"
+        required: true
+      - id: 16
+        name: goal_achievement
+        label: Achievement of performance goals
+        hint: null
+        type: select_one
+        options:
+          - "Exceeded all goals"
+          - "Achieved all goals"
+          - "Achieved most goals"
+          - "Achieved some goals"
+          - "Did not achieve goals"
+        required: true
+      - id: 17
+        name: employee_strengths
+        label: Employee's key strengths
+        hint: What does this employee do particularly well
+        type: text
+        options: []
+        required: true
+      - id: 18
+        name: improvement_areas
+        label: Areas for improvement
+        hint: Skills or behaviors to develop
+        type: text
+        options: []
+        required: true
+      - id: 19
+        name: specific_examples
+        label: Specific examples supporting rating
+        hint: Incidents that demonstrate performance
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: development_plan
+        label: Development plan for next year
+        hint: Training or growth opportunities
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: salary_increase_recommendation
+        label: Salary increase recommendation
+        hint: null
+        type: select_one
+        options:
+          - "Recommended - significant"
+          - "Recommended - moderate"
+          - "Recommended - minimal"
+          - "Not recommended"
+          - "Not applicable"
+        required: false
+      - id: 22
+        name: promotion_potential
+        label: Promotion or advancement potential
+        hint: null
+        type: select_one
+        options:
+          - "High potential"
+          - "Moderate potential"
+          - "Limited potential"
+          - "Not ready for advancement"
+          - "Not applicable"
+        required: false
+      - id: 23
+        name: retention_assessment
+        label: Likelihood to retain this employee
+        hint: Risk of losing employee
+        type: select_one
+        options:
+          - "High value - must retain"
+          - "Important contributor"
+          - "Standard performer"
+          - "Performance concerns"
+          - "At risk of leaving"
+        required: true
+      - id: 24
+        name: additional_comments
+        label: Additional comments
+        hint: null
+        type: text
+        options: []
+        required: false

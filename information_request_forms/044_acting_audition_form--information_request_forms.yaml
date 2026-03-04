@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Acting Audition Form
+    pages:
+    - id: 1
+      name: actor_information
+      label: -- Actor information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Legal or stage name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: Email for casting communications
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: Mobile or best contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: age_range
+      label: Age range
+      hint: Provide age or suitable age bracket
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: height_and_build
+      label: Height and build
+      hint: Provide height and general build
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: vocal_type
+      label: Vocal type
+      hint: Singing voice type if applicable
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: special_skills
+      label: Special skills
+      hint: e.g., stage combat, dialects, dance
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: availability_dates
+      label: Availability dates
+      hint: Dates available for audition or shoot
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: headshot_and_resume_link
+      label: Headshot and resume link
+      hint: URL to portfolio or upload location
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: audition_role_preferences
+      label: Audition role preferences
+      hint: Roles you are most suited for
+      type: select_multiple
+      options:
+      - Lead
+      - Supporting
+      - Ensemble
+      required: false
+    - id: 12
+      name: consent_for_recording
+      label: Consent for recording
+      hint: Permission to record audition performance
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: additional_notes
+      label: Additional notes
+      hint: Any other relevant information for casting
+      type: text
+      options: []
+      required: false

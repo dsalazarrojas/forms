@@ -1,0 +1,155 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: workplace_incident_investigation_request_form
+    pages:
+    - id: 1
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_multiple
+      options:
+      - Fire
+      - Electrical
+      - Chemical
+      - Mechanical
+      - Other
+      required: true
+    - id: 2
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - Floor 1
+      - Floor 2
+      - Floor 3
+      - Other - Specify
+      required: true
+    - id: 3
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: witness_names
+      label: Witness Names
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: witness_contact_info
+      label: Witness Contact Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: cause_of_injury
+      label: Cause Of Injury
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: treatment
+      label: Treatment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: investigation_notes
+      label: Investigation Notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: investigator_name
+      label: Investigator Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: investigator_department
+      label: Investigator Department
+      hint: null
+      type: select_one
+      options:
+      - HR
+      - Management
+      - Facilities
+      - Other - Specify
+      required: true
+    - id: 13
+      name: investigator_title
+      label: Investigator Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: investigator_notes
+      label: Investigator Notes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: investigation_status
+      label: Investigation Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Completed
+      - Not Required
+      required: true
+    - id: 16
+      name: submit_button
+      label: Submit
+      hint: Submit the form to continue
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: review_and_approval
+      label: Review and Approval
+      hint: null
+      type: select_one
+      options:
+      - None
+      - HR Review
+      - Manager Review
+      - Completed
+      required: true

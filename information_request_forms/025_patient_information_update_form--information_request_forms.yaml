@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Information Update Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_provider
+      label: Medical Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: relationship_status
+      label: Relationship Status
+      hint: null
+      type: select_one
+      options:
+      - Married
+      - Single
+      - Divorced
+      - Widowed
+      required: false
+    - id: 10
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Employed
+      - Unemployed
+      - Retired
+      - Disabled
+      - Student
+      required: false
+    - id: 11
+      name: income_range
+      label: Income Range
+      hint: null
+      type: select_multiple
+      options:
+      - Low (Less than 20,000)
+      - Average (20,001-50,000)
+      - High (50,001-80,000)
+      - Very High (80,001 and above)
+      required: false
+    - id: 12
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - High Blood Pressure
+      - Diabetes
+      - Asthma
+      - Cancer
+      required: false
+    - id: 13
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medical_provider_address
+      label: Medical Provider Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medical_provider
+      label: Medical Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: employment_status_2
+      label: Employment Status 2
+      hint: null
+      type: text
+      options: []
+      required: false

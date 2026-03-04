@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: HR Process Optimization Partner Contact Form
+    pages:
+    - id: 1
+      name: company_details
+      label: Company Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: hr_focus_areas
+      label: HR Focus Areas
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: partnership_goals
+      label: Partnership Goals
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: true

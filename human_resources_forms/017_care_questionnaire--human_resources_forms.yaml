@@ -1,0 +1,349 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Care Questionnaire
+    pages:
+      - id: 1
+        name: patient_name
+        label: Patient Name
+        hint: Full name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: patient_date_of_birth
+        label: Patient Date of Birth
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: respondent_name
+        label: Your Name
+        hint: Person completing questionnaire
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: respondent_relationship
+        label: Your Relationship to Patient
+        hint: null
+        type: select_one
+        options:
+          - Self
+          - Spouse or Partner
+          - Parent
+          - Adult Child
+          - Sibling
+          - Other Family Member
+          - Friend
+          - Neighbor
+          - Professional Caregiver
+          - Case Manager
+        required: true
+      - id: 5
+        name: questionnaire_date
+        label: Date Completed
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 6
+        name: how_long_known
+        label: How Long Have You Known the Patient
+        hint: null
+        type: select_one
+        options:
+          - Less than 6 months
+          - 6 months to 1 year
+          - 1-5 years
+          - 5-10 years
+          - More than 10 years
+        required: true
+      - id: 7
+        name: contact_frequency
+        label: How Often Do You Have Contact
+        hint: null
+        type: select_one
+        options:
+          - Daily
+          - Several times per week
+          - Once per week
+          - 2-3 times per month
+          - Once per month
+          - Less than monthly
+        required: true
+      - id: 8
+        name: physical_wellbeing_rating
+        label: How Would You Rate Their Physical Well-being
+        hint: null
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 9
+        name: physical_health_changes
+        label: Have You Noticed Physical Health Changes
+        hint: In the past 6 months
+        type: select_one
+        options:
+          - Yes - significant decline
+          - Yes - some decline
+          - No - stable
+          - Yes - improvement
+          - Unsure
+        required: true
+      - id: 10
+        name: mobility_concerns
+        label: Mobility Concerns
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - No concerns
+          - Difficulty walking
+          - Uses assistive device
+          - Balance issues
+          - Fall risk
+          - Wheelchair dependent
+          - Bedbound
+          - Pain with movement
+        required: true
+      - id: 11
+        name: activities_of_daily_living
+        label: Assistance Needed With Daily Activities
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - None - fully independent
+          - Bathing
+          - Dressing
+          - Grooming
+          - Toileting
+          - Eating
+          - Transferring
+          - Walking
+          - Medication management
+          - Meal preparation
+        required: true
+      - id: 12
+        name: social_wellbeing_rating
+        label: How Would You Rate Their Social Well-being
+        hint: null
+        type: select_one
+        options:
+          - Excellent - very socially active
+          - Very Good - regular social contact
+          - Good - adequate social contact
+          - Fair - limited social contact
+          - Poor - isolated
+        required: true
+      - id: 13
+        name: social_activities
+        label: Social Activities Participated In
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Family gatherings
+          - Religious services
+          - Community events
+          - Club or group memberships
+          - Hobby groups
+          - Volunteer work
+          - Exercise classes
+          - None
+          - Declines social activities
+        required: true
+      - id: 14
+        name: support_network
+        label: Size of Support Network
+        hint: People regularly involved in their life
+        type: select_one
+        options:
+          - Large - 10+ people
+          - Moderate - 5-9 people
+          - Small - 2-4 people
+          - Very limited - 1 person
+          - None identified
+        required: true
+      - id: 15
+        name: loneliness_indicators
+        label: Signs of Loneliness or Isolation
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - None observed
+          - Expresses feeling lonely
+          - Withdrawn behavior
+          - Excessive phone calls
+          - Clingy behavior
+          - Depressed mood
+          - Loss of interest in activities
+          - Sleep disturbances
+        required: true
+      - id: 16
+        name: psychological_wellbeing_rating
+        label: How Would You Rate Their Psychological Well-being
+        hint: null
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 17
+        name: mood_observations
+        label: Mood Observations
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Generally positive
+          - Generally stable
+          - Frequently anxious
+          - Frequently sad or depressed
+          - Irritable or angry
+          - Emotionally flat
+          - Mood swings
+          - Agitated
+        required: true
+      - id: 18
+        name: cognitive_concerns
+        label: Cognitive Concerns Observed
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - None observed
+          - Memory problems
+          - Confusion
+          - Difficulty concentrating
+          - Poor judgment
+          - Disorientation
+          - Language difficulties
+          - Personality changes
+        required: true
+      - id: 19
+        name: behavioral_changes
+        label: Behavioral Changes Noted
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - None
+          - Increased agitation
+          - Wandering
+          - Sleep disturbances
+          - Appetite changes
+          - Hoarding behaviors
+          - Repetitive behaviors
+          - Aggression
+          - Withdrawal
+        required: true
+      - id: 20
+        name: stress_coping
+        label: How Well Do They Cope With Stress
+        hint: null
+        type: select_one
+        options:
+          - Very well - healthy coping
+          - Adequately - some difficulty
+          - Poorly - significant difficulty
+          - Very poorly - overwhelmed
+          - Unable to assess
+        required: true
+      - id: 21
+        name: safety_concerns
+        label: Safety Concerns
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - None identified
+          - Fall risk
+          - Wandering risk
+          - Medication errors
+          - Kitchen safety
+          - Financial exploitation risk
+          - Self-neglect
+          - Abuse concerns
+          - Suicide risk
+        required: true
+      - id: 22
+        name: home_environment
+        label: Home Environment Assessment
+        hint: null
+        type: select_one
+        options:
+          - Safe and well maintained
+          - Mostly safe - minor concerns
+          - Some safety concerns
+          - Significant concerns
+          - Unsafe conditions
+        required: true
+      - id: 23
+        name: care_needs_identified
+        label: Care Needs Identified
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Personal care assistance
+          - Meal preparation
+          - Medication reminders
+          - Transportation
+          - Housekeeping
+          - Companionship
+          - Respite care
+          - Skilled nursing
+          - Therapy services
+          - Mental health support
+        required: true
+      - id: 24
+        name: urgency_of_needs
+        label: Urgency of Care Needs
+        hint: null
+        type: select_one
+        options:
+          - Immediate - within 24 hours
+          - Urgent - within 1 week
+          - Soon - within 1 month
+          - Routine - within 3 months
+          - Planning for future
+        required: true
+      - id: 25
+        name: patient_preferences
+        label: Known Patient Preferences
+        hint: Care preferences, routines, etc.
+        type: text
+        options: []
+        required: false
+      - id: 26
+        name: additional_observations
+        label: Additional Observations or Concerns
+        hint: Any other relevant information
+        type: text
+        options: []
+        required: false
+      - id: 27
+        name: willing_to_help
+        label: Are You Willing to Be Involved in Care Planning
+        hint: null
+        type: select_one
+        options:
+          - Yes - actively involved
+          - Yes - consulted as needed
+          - Limited availability
+          - No - unable to be involved
+        required: true

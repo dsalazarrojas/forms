@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: promotion_interview_form
+    pages:
+    - id: 1
+      name: candidate_info
+      label: candidate_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: candidate_name
+      label: candidate_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: reason_for_promotion
+      label: reason_for_promotion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: candidate_qualifications
+      label: qualifications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: candidate_skills
+      label: skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: interview_details
+      label: interview_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: evaluation
+      label: evaluation
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Very Good'', ''value'': ''Very Good''}'
+      - '{''label'': ''Good'', ''value'': ''Good''}'
+      - '{''label'': ''Not Good'', ''value'': ''Not Good''}'
+      required: true
+    - id: 9
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false

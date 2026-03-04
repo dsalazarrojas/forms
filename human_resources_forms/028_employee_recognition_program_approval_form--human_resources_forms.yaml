@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: employee_recognition_program_approval_form
+    pages:
+    - id: 1
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: manager_name
+      label: manager_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_name
+      label: employee_name
+      hint: Last name, First name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_recognition
+      label: Date of Recognition
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: reason_for_recognition
+      label: Reason for Recognition
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: recognition_type
+      label: Recognition Type
+      hint: null
+      type: select_one
+      options:
+      - Monetary
+      - Non-Monetary
+      - Written Commendation
+      - Public Commendation
+      required: false
+    - id: 7
+      name: monetary_value
+      label: Monetary Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: manager_phone
+      label: Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: manager_comments
+      label: Manager Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submit_date
+      label: Submit Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: submitted_by
+      label: Submitted by
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      required: true
+    - id: 14
+      name: approver_name
+      label: Approver Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: approver_title
+      label: Approver Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      required: true
+    - id: 17
+      name: approver_comments
+      label: Approver Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: approved_by
+      label: Approved by
+      hint: null
+      type: select_one
+      options:
+      - Manager
+      - Director
+      required: true
+    - id: 20
+      name: approved_date
+      label: Approved Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: approved_time
+      label: Approved Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: approved_location
+      label: Approved Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: approved_department
+      label: Approved Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitted_by_name
+      label: Submitted by Name
+      hint: null
+      type: text
+      options: []
+      required: false

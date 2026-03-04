@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Data Update Authorization Request Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Human Resources''}'
+      - '{''name'': ''Marketing''}'
+      - '{''name'': ''Finance''}'
+      - '{''name'': ''Operations''}'
+      - '{''name'': ''Sales''}'
+      required: false
+    - id: 8
+      name: department_id
+      label: Department
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: manager_id
+      label: Manager ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: authorization
+      label: Authorization
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': True}'
+      - '{''name'': False}'
+      required: false
+    - id: 12
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: approval_date
+      label: Approval Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: update_date
+      label: Update Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: text
+      options: []
+      required: false

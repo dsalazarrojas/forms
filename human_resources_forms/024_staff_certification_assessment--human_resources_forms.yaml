@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Staff Certification Assessment
+    pages:
+    - id: 1
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: title
+      label: Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: highest_level_of_education
+      label: Highest Level of Education
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''2.1.1'', ''label'': ''High School''}'
+      - '{''id'': ''2.1.2'', ''label'': ''Some College''}'
+      - '{''id'': ''2.1.3'', ''label'': "Bachelor''s"}'
+      - '{''id'': ''2.1.4'', ''label'': "Master''s"}'
+      - '{''id'': ''2.1.5'', ''label'': ''Doctoral''}'
+      required: false
+    - id: 5
+      name: field_of_study
+      label: Field of Study
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: has_certification
+      label: Has Certification
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''3.1.1'', ''label'': True}'
+      - '{''id'': ''3.1.2'', ''label'': False}'
+      required: false
+    - id: 7
+      name: expiration_date
+      label: Expiration Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: years_of_work_experience
+      label: Years of Work Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: field_of_experience
+      label: Field of Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: attended_training
+      label: Attended Training
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': ''5.1.1'', ''label'': True}'
+      - '{''id'': ''5.1.2'', ''label'': False}'
+      required: false
+    - id: 11
+      name: relevant_certifications
+      label: Relevant Certifications
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: evaluation_method
+      label: Evaluation Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''6.1.1'', ''label'': ''Peer Evaluation''}'
+      - '{''id'': ''6.1.2'', ''label'': ''Managerial Evaluation''}'
+      - '{''id'': ''6.1.3'', ''label'': ''Self-Evaluation''}'
+      required: false
+    - id: 13
+      name: evaluation_frequency
+      label: Evaluation Frequency
+      hint: null
+      type: date
+      options: []
+      required: false

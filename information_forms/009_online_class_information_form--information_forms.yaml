@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: online_class_information_form
+    pages:
+    - id: 1
+      name: online_class_id
+      label: online_class_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: student_id
+      label: student_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: course_id
+      label: course_id
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: description
+      label: description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: note2
+      label: note2
+      hint: null
+      type: note
+      options: []
+      required: false

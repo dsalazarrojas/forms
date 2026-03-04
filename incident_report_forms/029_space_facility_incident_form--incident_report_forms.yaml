@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: space_facility_incident_form
+    pages:
+    - id: 1
+      name: facility_location
+      label: Facility Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_incident_occurred
+      label: Date Incident Occurred
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Fire''}'
+      - '{''id'': 2, ''value'': ''Security Breach''}'
+      - '{''id'': 3, ''value'': ''Environmental Hazard''}'
+      required: false
+    - id: 4
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: incident_status
+      label: Incident Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''In Progress''}'
+      - '{''id'': 2, ''value'': ''Resolved''}'
+      required: false
+    - id: 6
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

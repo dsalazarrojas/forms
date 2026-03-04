@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Profit Sharing Scheme Enrollment Application
+    pages:
+    - id: 1
+      name: employee_details
+      label: Employee Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: preferred_profit_shares
+      label: Preferred Profit Shares
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: consent
+      label: Consent
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time_worked
+      label: Time Worked
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false

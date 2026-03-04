@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Managerial-Training-Absence-Form
+    pages:
+    - id: 1
+      name: training_session
+      label: Training session
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: trainee_id
+      label: traineeId
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: start_date
+      label: startDate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: end_date
+      label: endDate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: reason
+      label: Reason
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: manager_id
+      label: managerId
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: trainee_name
+      label: traineeName
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: trainee_email
+      label: traineeEmail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: trainee_phone
+      label: traineePhone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: training_location
+      label: trainingLocation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: training_duration
+      label: trainingDuration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: attendance_status
+      label: attendanceStatus
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

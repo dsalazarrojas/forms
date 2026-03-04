@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agriculture Cooperative Member Information Form
+    pages:
+    - id: 1
+      name: member_full_name
+      label: Member full name
+      hint: Legal name as on records
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: membership_number
+      label: Membership number
+      hint: Cooperative assigned ID if available
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_phone
+      label: Contact phone
+      hint: Mobile or landline for member
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact email
+      hint: Email for cooperative communications
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: Village, town, and region
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: primary_activity
+      label: Primary agricultural activity
+      hint: Main livelihood activity
+      type: select_one
+      options:
+      - Crop farming
+      - Livestock
+      - Mixed farming
+      - Agroforestry
+      required: true
+    - id: 7
+      name: farm_size
+      label: Farm size in hectares
+      hint: Approximate land area
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: preferred_contact_method
+      label: Preferred contact method
+      hint: How the cooperative should reach the member
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - SMS
+      - In-person
+      required: false
+    - id: 9
+      name: emergency_contact
+      label: Emergency contact
+      hint: Name and phone number for emergencies
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: Any additional member information
+      type: text
+      options: []
+      required: false

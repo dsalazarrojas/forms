@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medication Incident Report Form
+    pages:
+    - id: 1
+      name: medication_incident_report_form
+      label: Medication Incident Report Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_incident
+      label: date_of_incident
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_of_incident
+      label: time_of_incident
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: medication_error_type
+      label: medication_error_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: medication_error_description
+      label: medication_error_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: action_taken
+      label: action_taken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medication_administered
+      label: medication_administered
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: patient_condition
+      label: patient_condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: staff_involved
+      label: staff_involved
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Nurse''}'
+      - '{''label'': ''Doctor''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 11
+      name: incident_location
+      label: incident_location
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Ward''}'
+      - '{''label'': ''Clinic''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 12
+      name: incident_nature
+      label: incident_nature
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Error''}'
+      - '{''label'': ''Near-Miss''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 13
+      name: incident_cause
+      label: incident_cause
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''System''}'
+      - '{''label'': ''Human''}'
+      - '{''label'': ''Equipment''}'
+      required: false
+    - id: 14
+      name: incident_outcome
+      label: incident_outcome
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Harm to Patient''}'
+      - '{''label'': ''Harm to Staff''}'
+      - '{''label'': ''No Harm''}'
+      required: false

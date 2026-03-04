@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: incident_investigation_checklist
+    pages:
+    - id: 1
+      name: employee_incident
+      label: Employee Incident
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incident_description
+      label: incident description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_and_time_occurred
+      label: Date and Time Occurred
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: location_incident_occurred
+      label: Location Incident Occurred
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: involved_personnel
+      label: Involved Personnel
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: witness_summary
+      label: Witness Summary
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: witness_statements
+      label: Witness Statements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: incident_cause
+      label: Incident Cause
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: incident_effect
+      label: Incident Effect
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: corrective_actions_planned
+      label: Corrective Actions Planned
+      hint: null
+      type: text
+      options: []
+      required: false

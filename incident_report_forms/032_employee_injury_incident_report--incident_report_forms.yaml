@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Injury Incident Report
+    pages:
+    - id: 1
+      name: incident_date
+      label: Incident Date
+      hint: The date of the incident
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: The employee's name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: Department
+      hint: The department that the employee is assigned to
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: location
+      label: Location
+      hint: The location where the incident occurred
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: injury_type
+      label: Type of Injury
+      hint: Is the injury medical or work-related
+      type: select_one
+      options:
+      - Medical
+      - Work-Related
+      required: false
+    - id: 7
+      name: incident_description
+      label: Incident Description
+      hint: Describe the incident
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: employee_status
+      label: Employee Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: supervisor_name
+      label: Supervisor Name
+      hint: The supervisor's name
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: supervisor_phone
+      label: Supervisor Phone
+      hint: The supervisor's phone number
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: report_to
+      label: Report To
+      hint: null
+      type: select_one
+      options:
+      - HR
+      - Manager
+      - Supervisor
+      required: false
+    - id: 12
+      name: incident_reported_by
+      label: Incident Reported By
+      hint: Who reported the incident
+      type: select_one
+      options:
+      - Employee
+      - Manager
+      - Supervisor
+      required: false
+    - id: 13
+      name: incident_status
+      label: Incident Status
+      hint: The status of the incident
+      type: select_one
+      options:
+      - Open
+      - Closed
+      required: false
+    - id: 14
+      name: incident_closed_date
+      label: Incident Closed Date
+      hint: The date the incident was closed
+      type: date
+      options: []
+      required: false

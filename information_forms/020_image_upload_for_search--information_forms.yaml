@@ -1,0 +1,85 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Image Upload For Search
+    pages:
+    - id: 1
+      name: search_request
+      label: Search Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: image_type
+      label: Image Type
+      hint: null
+      type: select_one
+      options:
+      - photo
+      - video
+      required: false
+    - id: 3
+      name: consent
+      label: Consent
+      hint: A photo or video will be taken for the purpose of visual search.
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: image_file
+      label: Image File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: consent_type
+      label: Consent Type
+      hint: null
+      type: select_one
+      options:
+      - email
+      - phone
+      - mail
+      - message
+      required: false
+    - id: 6
+      name: context
+      label: Context
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: image_url
+      label: Image URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: search_keywords
+      label: Search Keywords
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: search_description
+      label: Search Description
+      hint: null
+      type: text
+      options: []
+      required: false

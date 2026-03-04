@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Expense Reimbursement Form With Calculations
+    pages:
+    - id: 1
+      name: expense_date
+      label: Expense Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: expense_description
+      label: Expense Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: expense_amount
+      label: Expense Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: rate
+      label: Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: reimbursed_amount
+      label: Reimbursed Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: tax_amount
+      label: Tax Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: form_submitter
+      label: Form Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: form_submitter_role
+      label: Form Submitter Role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: form_submitter_email
+      label: Form Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: expense_type
+      label: Expense Type
+      hint: null
+      type: select_multiple
+      options:
+      - Other
+      - Entertainment
+      - Business
+      - Meal
+      - Travel
+      required: false
+    - id: 12
+      name: expense_category
+      label: Expense Category
+      hint: null
+      type: select_one
+      options:
+      - Other
+      - Business
+      - Entertainment
+      - Meals
+      - Travel
+      required: true
+    - id: 13
+      name: expense_subcategory
+      label: Expense Subcategory
+      hint: null
+      type: select_one
+      options:
+      - Other
+      - Office supplies
+      - Transportation
+      - Travel
+      - Food and Beverage
+      required: false
+    - id: 14
+      name: expense_date_end
+      label: Expense Date End
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: expense_type_other
+      label: Expense Type Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: form_submitter_phone
+      label: Form Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: expense_subcategory_other
+      label: Expense Subcategory Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: expense_description_detail
+      label: Expense Description Detail
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: expense_reimbursed
+      label: Expense Reimbursed
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: expense_reimbursed_detail
+      label: Reimbursed Detail
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: tax_rate
+      label: Tax Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: form_submitter_comments
+      label: Form Submitter Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: expense_submitter
+      label: Expense Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: expense_total
+      label: Expense Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: form_submitter_notes
+      label: Form Submitter Notes
+      hint: null
+      type: note
+      options: []
+      required: false

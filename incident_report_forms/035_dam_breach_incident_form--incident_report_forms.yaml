@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dam Breach Incident Form
+    pages:
+    - id: 1
+      name: dam_breach_incident_form_part_1
+      label: Emergency Contacts
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: emergency_contacts_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: emergency_contacts_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: emergency_contacts_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: dam_breach_incident_form_part_2
+      label: Dam Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: dam_breach_incident_form_part_3
+      label: Incident Summary
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: dam_breach_incident_form_part_4
+      label: Incident Type
+      hint: null
+      type: select_one
+      options:
+      - Dam Breach
+      - Flood
+      - Fire
+      - Other
+      required: false
+    - id: 9
+      name: dam_breach_incident_form_part_4_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: dam_breach_incident_form_part_5
+      label: Dam Status
+      hint: null
+      type: select_multiple
+      options:
+      - Damaged
+      - Intact
+      - Partially Damaged
+      required: false
+    - id: 11
+      name: dam_breach_incident_form_part_5_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false

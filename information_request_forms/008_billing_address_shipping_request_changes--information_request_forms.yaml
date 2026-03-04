@@ -1,0 +1,223 @@
+inputSchema:
+  type: object
+  properties:
+    title: Billing Address Shipping Request Changes
+    pages:
+    - id: 1
+      name: customer_information
+      label: Customer Information
+      hint: Enter your account details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: customer_email
+      label: Email Address
+      hint: Email associated with your account
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: customer_phone
+      label: Phone Number
+      hint: Contact number for verification
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: account_number
+      label: Account Number
+      hint: Your customer account number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: request_type
+      label: Request Type
+      hint: What changes are you requesting
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: change_type
+      label: Type of Change
+      hint: Select the type of address change
+      type: select_one
+      options:
+      - Billing Address Only
+      - Shipping Address Only
+      - Both Billing and Shipping
+      - Make Shipping Same as Billing
+      - Make Billing Same as Shipping
+      required: true
+    - id: 9
+      name: reason_for_change
+      label: Reason for Change
+      hint: Why are you updating your address
+      type: select_one
+      options:
+      - Moved to New Address
+      - Incorrect Address on File
+      - Temporary Address Change
+      - Business Address Change
+      - PO Box Addition
+      - Other
+      required: true
+    - id: 10
+      name: current_billing_address
+      label: Current Billing Address
+      hint: Address currently on file for billing
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: new_billing_address
+      label: New Billing Address
+      hint: Updated billing address
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: new_billing_city
+      label: New Billing City
+      hint: City for billing address
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: new_billing_state
+      label: New Billing State
+      hint: State or province for billing
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: new_billing_zip
+      label: New Billing ZIP Code
+      hint: ZIP or postal code for billing
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: current_shipping_address
+      label: Current Shipping Address
+      hint: Address currently on file for shipping
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: new_shipping_address
+      label: New Shipping Address
+      hint: Updated shipping address
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: new_shipping_city
+      label: New Shipping City
+      hint: City for shipping address
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: new_shipping_state
+      label: New Shipping State
+      hint: State or province for shipping
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: new_shipping_zip
+      label: New Shipping ZIP Code
+      hint: ZIP or postal code for shipping
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: new_shipping_country
+      label: New Shipping Country
+      hint: Country for shipping address
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: effective_date
+      label: Effective Date
+      hint: When should changes take effect
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: is_temporary
+      label: Is This Temporary
+      hint: Is this a temporary address change
+      type: select_one
+      options:
+      - No - Permanent Change
+      - Yes - Temporary Change
+      required: true
+    - id: 23
+      name: temporary_end_date
+      label: Temporary End Date
+      hint: When should old address be restored
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: affected_orders
+      label: Affected Orders
+      hint: Should this apply to pending orders
+      type: select_one
+      options:
+      - Apply to All Pending Orders
+      - Only Future Orders
+      - Specific Order Numbers
+      required: true
+    - id: 25
+      name: order_numbers
+      label: Specific Order Numbers
+      hint: List order numbers if applicable
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: notification_preference
+      label: Notification Preference
+      hint: How should we confirm this change
+      type: select_one
+      options:
+      - Email Confirmation
+      - SMS Confirmation
+      - Phone Call
+      - No Confirmation Needed
+      required: true
+    - id: 27
+      name: verification_code
+      label: Verification Code
+      hint: Enter code sent to your phone or email
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: authorization
+      label: Authorization
+      hint: Confirm you are authorized to make this change
+      type: select_one
+      options:
+      - I am authorized to update this account information
+      - I confirm all information provided is accurate
+      required: true

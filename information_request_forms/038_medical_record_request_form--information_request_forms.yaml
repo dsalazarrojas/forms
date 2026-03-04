@@ -1,0 +1,56 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Medical Record Request Form
+    pages:
+    - id: 1
+      name: patient_identifier
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: medical_facility
+      label: Medical Facility
+      hint: null
+      type: select_one
+      options:
+      - options1
+      - options2
+      - options3
+      - options4
+      - options5
+      required: false
+    - id: 4
+      name: date_request
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_request
+      label: Request Time
+      hint: null
+      type: time
+      options: []
+      required: false

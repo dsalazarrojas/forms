@@ -1,0 +1,182 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accident Rate Survey
+    pages:
+    - id: 1
+      name: section_organization_info
+      label: -- Organization Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department or Division
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: respondent_name
+      label: Respondent Name
+      hint: Person completing this survey
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: respondent_title
+      label: Respondent Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: reporting_period
+      label: Reporting Period
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Quarterly
+      - Semi-annually
+      - Annually
+      required: true
+    - id: 7
+      name: period_start_date
+      label: Period Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: period_end_date
+      label: Period End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: section_accident_data
+      label: -- Accident Data --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: total_employees
+      label: Total Number of Employees During Reporting Period
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: total_work_hours
+      label: Total Work Hours During Reporting Period
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: total_incidents
+      label: Total Number of Recorded Incidents
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: near_misses
+      label: Number of Near Misses Reported
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: first_aid_cases
+      label: Number of First Aid Cases
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: lost_time_injuries
+      label: Number of Lost Time Injuries
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: total_days_lost
+      label: Total Days Lost Due to Injuries
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: most_common_incident_type
+      label: Most Common Type of Incident
+      hint: null
+      type: select_one
+      options:
+      - Slips, trips, and falls
+      - Struck by or against
+      - Manual handling injuries
+      - Machinery-related
+      - Vehicle incidents
+      - Chemical exposure
+      - Other
+      required: true
+    - id: 18
+      name: most_common_location
+      label: Most Common Incident Location
+      hint: null
+      type: select_one
+      options:
+      - Production floor
+      - Warehouse
+      - Office area
+      - Parking lot
+      - Loading dock
+      - Outdoor work site
+      - Other
+      required: true
+    - id: 19
+      name: section_trends
+      label: -- Trends and Observations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: trend_comparison
+      label: How Does This Period Compare to the Previous Period
+      hint: null
+      type: select_one
+      options:
+      - Significant improvement
+      - Slight improvement
+      - About the same
+      - Slight increase in incidents
+      - Significant increase in incidents
+      required: true
+    - id: 21
+      name: safety_initiatives
+      label: Safety Initiatives Implemented During This Period
+      hint: Describe any programs, training, or changes
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: additional_observations
+      label: Additional Observations or Recommendations
+      hint: null
+      type: text
+      options: []
+      required: false

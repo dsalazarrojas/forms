@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Address Information Request Form
+    pages:
+    - id: 1
+      name: requester
+      label: Requester
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Requester name
+      hint: Name of person requesting address
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization
+      label: Organization
+      hint: Requesting organization
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: address_subject
+      label: Address subject name
+      hint: Person or entity whose address is requested
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: purpose_of_request
+      label: Purpose of request
+      hint: Reason for needing the address information
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: delivery_method
+      label: Delivery method for information
+      hint: How should result be returned
+      type: select_one
+      options: [Email, Secure link, Postal mail]
+      required: true
+    - id: 7
+      name: required_by_date
+      label: Required by date
+      hint: Deadline for receiving information
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: authorization
+      label: Authorization confirmation
+      hint: Confirm you have right to request this data
+      type: select_one
+      options: [Yes, No]
+      required: true
+    - id: 9
+      name: contact_email
+      label: Contact email
+      hint: For follow up or clarifications
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: notes
+      label: Notes
+      hint: Any additional context
+      type: text
+      options: []
+      required: false

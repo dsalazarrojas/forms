@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Board Member Information Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: preferred_name
+      label: Preferred Name
+      hint: If different from legal name
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Primary contact phone
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: street_address
+      label: Street Address
+      hint: Mailing address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip_code
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: date_of_birth
+      label: Date of Birth
+      hint: For records purposes
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: board_position
+      label: Board Position
+      hint: Current or prospective role
+      type: select_one
+      options:
+      - Board Chair
+      - Vice Chair
+      - Secretary
+      - Treasurer
+      - Board Member
+      - Committee Chair
+      - Prospective Member
+      required: true
+    - id: 12
+      name: term_start_date
+      label: Term Start Date
+      hint: When does your term begin?
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: term_end_date
+      label: Term End Date
+      hint: When does your term end?
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: professional_title
+      label: Professional Title
+      hint: Your job title
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: organization
+      label: Organization
+      hint: Company or organization name
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: industry
+      label: Industry
+      hint: Your industry sector
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      - Education
+      - Nonprofit
+      - Government
+      - Legal
+      - Business
+      - Other
+      required: true
+    - id: 17
+      name: expertise_areas
+      label: Areas of Expertise
+      hint: Select your areas of expertise
+      type: select_multiple
+      options:
+      - Finance and Accounting
+      - Legal
+      - Marketing
+      - Human Resources
+      - Technology
+      - Fundraising
+      - Program Development
+      - Strategic Planning
+      - Governance
+      - Community Relations
+      required: true
+    - id: 18
+      name: board_experience
+      label: Previous Board Experience
+      hint: Describe any prior board service
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: committee_preferences
+      label: Committee Preferences
+      hint: Which committees interest you?
+      type: select_multiple
+      options:
+      - Executive Committee
+      - Finance Committee
+      - Governance Committee
+      - Audit Committee
+      - Fundraising Committee
+      - Program Committee
+      - No preference
+      required: false
+    - id: 20
+      name: availability
+      label: General Availability
+      hint: When are you typically available?
+      type: select_one
+      options:
+      - Weekdays
+      - Evenings
+      - Weekends
+      - Flexible
+      required: true
+    - id: 21
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: biography
+      label: Short Biography
+      hint: Brief bio for organizational use
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: photo_upload
+      label: Photo Upload
+      hint: Professional headshot (file name)
+      type: text
+      options: []
+      required: false

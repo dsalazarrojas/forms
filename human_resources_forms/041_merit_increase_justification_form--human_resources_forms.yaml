@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Merit Increase Justification Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: reason_for_increase
+      label: Reason For Increase
+      hint: Please provide a detailed reason for the salary increase request.
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: increase_amount
+      label: Increase Amount
+      hint: Enter a valid percentage or dollar amount.
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: justification
+      label: Justification
+      hint: Please provide a detailed justification for the salary increase request.
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: manager_approval
+      label: Manager Approval
+      hint: Please enter your approval or denial.
+      type: select_one
+      options:
+      - Approved
+      - Denied
+      required: false
+    - id: 9
+      name: manager_comments
+      label: Manager Comments
+      hint: Please provide any comments or feedback.
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: form_footer
+      label: Form Footer
+      hint: null
+      type: text
+      options: []
+      required: false

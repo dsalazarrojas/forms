@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Structure Information Collection
+    pages:
+    - id: 1
+      name: building_name
+      label: Building Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: facility_type
+      label: Facility Type
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      - Industrial
+      required: true
+    - id: 3
+      name: structure_type
+      label: Structure Type
+      hint: null
+      type: select_multiple
+      options:
+      - Office Building
+      - Warehouse
+      - Residential Building
+      required: false
+    - id: 4
+      name: structure_address
+      label: Structure Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: inspection_date
+      label: Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: inspection_time
+      label: Inspection Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_inspector
+      label: Assigned Inspector
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assigned_team
+      label: Assigned Team
+      hint: null
+      type: select_one
+      options:
+      - Facility Team
+      - Property Managers
+      - Inspectors
+      required: true

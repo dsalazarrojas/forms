@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Background Check Service Requisition Form
+    pages:
+    - id: 1
+      name: requisition_header
+      label: -- HR Requisition for Background Screening Services --
+      hint: Internal form for HR departments to authorize third-party screening
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: hr_requester_name
+      label: HR Representative/Requester Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: hiring_dept_requisition
+      label: Hiring Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: requisition_budget_code
+      label: Budget/Account Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: candidate_name_requisition
+      label: Candidate Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: type_of_hire
+      label: Type of Hire/Transaction
+      hint: null
+      type: select_one
+      options:
+      - New External Hire
+      - Internal Promotion
+      - Annual/Periodic Re-screen
+      - Volunteer/Intern
+      - Contingent Worker/Contractor
+      required: true
+    - id: 7
+      name: screening_package_requisition
+      label: Authorized Screening Package
+      hint: null
+      type: select_one
+      options:
+      - Basic (Criminal Search Only)
+      - Standard (Criminal + Employment + Education)
+      - Comprehensive (Standard + Credit + Drug Screen)
+      - Custom (See details below)
+      required: true
+    - id: 8
+      name: drug_screen_required
+      label: Is a drug screen included in this requisition?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - Yes (5-Panel)
+      - Yes (10-Panel)
+      - Yes (Custom)
+      required: true
+    - id: 9
+      name: custom_search_requirements
+      label: Specific Custom Search Requirements
+      hint: e.g., International checks, Professional licenses
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: authorization_signature_hr
+      label: HR Management Authorization
+      hint: By selecting yes, you are authorizing the expenditure
+      type: select_one
+      options:
+      - Authorized
+      - Other
+      required: true
+    - id: 11
+      name: date_authorized_hr
+      label: Date of Authorization
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: requisition_notes_internal
+      label: Internal HR Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: priority_level_requisition
+      label: Priority Level
+      hint: null
+      type: select_one
+      options:
+      - High (Immediate)
+      - Normal
+      required: true

@@ -1,0 +1,51 @@
+inputSchema:
+  type: object
+  properties:
+    title: Guest Room Damage Incident Form
+    pages:
+    - id: 1
+      name: incident_location
+      label: incident_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: damage_description
+      label: damage_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: damage_category
+      label: damage_category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: damage_date
+      label: damage_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: incident_status
+      label: incident_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 6
+      name: incident_status_note
+      label: incident_status_note
+      hint: null
+      type: text
+      options: []
+      required: false

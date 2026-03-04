@@ -1,0 +1,170 @@
+inputSchema:
+  type: object
+  properties:
+    title: Barber Shop Client Intake Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: phone_number
+      label: Phone Number
+      hint: Best contact number for appointment reminders
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: For appointment confirmations and promotions
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY format
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: preferred_barber
+      label: Preferred Barber
+      hint: Select your favorite barber or choose any available
+      type: select_one
+      options:
+      - No preference - any barber
+      - Mike
+      - James
+      - Carlos
+      - David
+      - Tony
+      required: false
+    - id: 6
+      name: hair_type
+      label: Hair Type
+      hint: Select the option that best describes your hair
+      type: select_one
+      options:
+      - Straight
+      - Wavy
+      - Curly
+      - Coily
+      - Textured
+      required: true
+    - id: 7
+      name: hair_texture
+      label: Hair Texture
+      hint: How would you describe your hair thickness
+      type: select_one
+      options:
+      - Fine
+      - Medium
+      - Thick
+      - Coarse
+      required: true
+    - id: 8
+      name: scalp_condition
+      label: Scalp Condition
+      hint: Select all that apply to your scalp
+      type: select_multiple
+      options:
+      - Normal
+      - Dry
+      - Oily
+      - Sensitive
+      - Dandruff
+      - None of the above
+      required: true
+    - id: 9
+      name: current_hairstyle
+      label: Current Hairstyle
+      hint: Briefly describe your current haircut
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: desired_style
+      label: Desired Hairstyle
+      hint: What style are you looking for today
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: service_type
+      label: Service Type
+      hint: Select the service you need today
+      type: select_one
+      options:
+      - Haircut only
+      - Haircut and beard trim
+      - Beard trim only
+      - Haircut and shave
+      - Full service package
+      - Consultation only
+      required: true
+    - id: 12
+      name: hair_products_used
+      label: Hair Products Currently Used
+      hint: List any gels, pomades, or other products
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: allergies_sensitivities
+      label: Allergies or Sensitivities
+      hint: Any allergies to hair products or ingredients
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: previous_barber_experience
+      label: Previous Barber Experience
+      hint: What did you like or dislike about past barbers
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: referral_source
+      label: How Did You Hear About Us
+      hint: We appreciate knowing how you found us
+      type: select_one
+      options:
+      - Friend or family referral
+      - Social media
+      - Google search
+      - Walked by the shop
+      - Previous client
+      - Other
+      required: false
+    - id: 16
+      name: special_requests
+      label: Special Requests or Notes
+      hint: Any additional information for your barber
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: appointment_frequency
+      label: How Often Do You Get Haircuts
+      hint: Select your typical haircut schedule
+      type: select_one
+      options:
+      - Every 2 weeks
+      - Every 3 weeks
+      - Once a month
+      - Every 6 weeks
+      - Every 2 months
+      - Rarely
+      required: true
+    - id: 18
+      name: emergency_contact
+      label: Emergency Contact Name
+      hint: In case of emergency during your visit
+      type: text
+      options: []
+      required: false

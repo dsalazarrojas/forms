@@ -1,0 +1,215 @@
+inputSchema:
+  type: object
+  properties:
+    title: Asset And Liability Information Form
+    pages:
+    - id: 1
+      name: business_name
+      label: Business Name
+      hint: Legal business name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: business_id
+      label: Business ID or EIN
+      hint: Tax identification number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: report_date
+      label: Report Date
+      hint: Date of report
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: fiscal_year
+      label: Fiscal Year
+      hint: Which fiscal year
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: prepared_by
+      label: Prepared By
+      hint: Name of preparer
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: preparer_title
+      label: Preparer Title
+      hint: Job title
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: total_current_assets
+      label: Total Current Assets
+      hint: Sum of current assets
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: cash_and_equivalents
+      label: Cash and Cash Equivalents
+      hint: Liquid assets
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: accounts_receivable
+      label: Accounts Receivable
+      hint: Money owed to business
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: inventory_value
+      label: Inventory Value
+      hint: Current inventory worth
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: total_fixed_assets
+      label: Total Fixed Assets
+      hint: Property plant and equipment
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: property_value
+      label: Property Value
+      hint: Real estate holdings
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: equipment_value
+      label: Equipment Value
+      hint: Machinery and equipment
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: vehicles_value
+      label: Vehicles Value
+      hint: Company vehicles
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: total_intangible_assets
+      label: Total Intangible Assets
+      hint: Patents trademarks goodwill
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: total_assets
+      label: Total Assets
+      hint: Sum of all assets
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: total_current_liabilities
+      label: Total Current Liabilities
+      hint: Short-term obligations
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: accounts_payable
+      label: Accounts Payable
+      hint: Money owed to suppliers
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: short_term_debt
+      label: Short-Term Debt
+      hint: Due within one year
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: accrued_expenses
+      label: Accrued Expenses
+      hint: Outstanding expenses
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: total_long_term_liabilities
+      label: Total Long-Term Liabilities
+      hint: Long-term obligations
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: long_term_debt
+      label: Long-Term Debt
+      hint: Loans and bonds
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: mortgage_obligations
+      label: Mortgage Obligations
+      hint: Property mortgages
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: total_liabilities
+      label: Total Liabilities
+      hint: Sum of all liabilities
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: owners_equity
+      label: Owners Equity
+      hint: Net worth
+      type: number
+      options: []
+      required: true
+    - id: 26
+      name: year_over_year_change
+      label: Year Over Year Change Percentage
+      hint: Percentage change from last year
+      type: number
+      options: []
+      required: false
+    - id: 27
+      name: significant_changes
+      label: Significant Changes Explanation
+      hint: Describe major changes
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: notes
+      label: Additional Notes
+      hint: Other relevant information
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: reviewed_by
+      label: Reviewed By
+      hint: Manager or CFO name
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: review_date
+      label: Review Date
+      hint: When reviewed
+      type: date
+      options: []
+      required: true

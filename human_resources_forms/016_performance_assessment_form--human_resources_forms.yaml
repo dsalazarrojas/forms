@@ -1,0 +1,82 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: performance_assessment_form
+    pages:
+    - id: 1
+      name: performance_assessment_form
+      label: performance_assessment_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: performance_criteria
+      label: performance_criteria
+      hint: null
+      type: select_one
+      options:
+      - Critical Thinking
+      - Communication
+      - Teamwork
+      - Time Management
+      - Leadership
+      - Problem Solving
+      - Adaptability
+      - Initiative
+      - Accountability
+      required: true
+    - id: 3
+      name: assessment_period
+      label: assessment_period
+      hint: Select one or multiple periods
+      type: select_one
+      options:
+      - 1 Month
+      - 3 Months
+      - 6 Months
+      - 1 Year
+      required: false
+    - id: 4
+      name: employee_performance
+      label: employee_performance
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfactory
+      - Needs Improvement
+      - Needs Improvement
+      - Needs Improvement
+      required: true
+    - id: 5
+      name: feedback_to_manager
+      label: feedback_to_manager
+      hint: Provide feedback to manager
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: feedback_to_hod
+      label: feedback_to_hod
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false

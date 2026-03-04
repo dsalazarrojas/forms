@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Payroll Portal Access Request Form
+    pages:
+    - id: 1
+      name: form_1
+      label: Employee Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_2
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_3
+      label: Requested Access
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Accounting'', ''description'': ''Accounting access''}'
+      - '{''id'': 2, ''label'': ''Payroll'', ''description'': ''Payroll access''}'
+      - '{''id'': 3, ''label'': ''Both'', ''description'': ''Both access and Payroll''}'
+      required: false
+    - id: 4
+      name: form_4
+      label: Request Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: form_5
+      label: Approver Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: form_6
+      label: Approver Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: form_7
+      label: Approver Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: form_8
+      label: Submitting Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: form_9
+      label: Approving Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: form_10
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: form_11
+      label: Date Requested
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: form_12
+      label: Date Approved
+      hint: null
+      type: date
+      options: []
+      required: false

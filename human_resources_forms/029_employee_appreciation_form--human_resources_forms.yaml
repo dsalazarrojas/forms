@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Appreciation Form
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: event
+      label: Event
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: appreciation
+      label: Appreciation
+      hint: null
+      type: select_one
+      options:
+      - Employee of the Month
+      - Employee of the Year
+      - Job Well Done
+      - Great Job
+      required: false
+    - id: 5
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: supervisor_name
+      label: Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: division
+      label: Division
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: appreciation_amount
+      label: Appreciation Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: appreciation_type
+      label: Appreciation Type
+      hint: null
+      type: select_one
+      options:
+      - Cash
+      - Gift Card
+      - Public Recognition
+      - Private Recognition
+      required: false
+    - id: 14
+      name: appreciation_date
+      label: Appreciation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 16
+      name: employee_status
+      label: Employee Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Retired
+      - On Leave
+      required: false
+    - id: 17
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,159 @@
+inputSchema:
+  type: object
+  properties:
+    title: sms Opt In Form Template
+    pages:
+    - id: 1
+      name: business_name
+      label: What is your business name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: What is your email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: What is your phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Information Request Forms,Marketer Forms
+      - Event Forms
+      - Transaction Forms
+      required: true
+    - id: 6
+      name: description
+      label: description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: transactional_comms
+      label: transactional communications
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: promotions
+      label: promotions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: reminders
+      label: reminders
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: feedback
+      label: feedback
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: event_reminders
+      label: event reminders
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: transactional_comms_via_sms
+      label: transactional communications
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: deliver_promotions
+      label: promotions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: send_reminders
+      label: send reminders
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: gather_feedback
+      label: gather feedback
+      hint: null
+      type: select_multiple
+      options:
+      - -æk
+      - Other
+      required: true
+    - id: 16
+      name: consent
+      label: consent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: consent_date
+      label: consent date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: assigned_user
+      label: assigned user
+      hint: null
+      type: text
+      options: []
+      required: false

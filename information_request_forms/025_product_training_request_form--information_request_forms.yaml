@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: product_training_request_form
+    pages:
+    - id: 1
+      name: product_training_request_form
+      label: product-training-request-form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: product_category
+      label: product-category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: product_type
+      label: product-type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: training_location
+      label: training-location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: training_date
+      label: training-date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: training_time
+      label: training-time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: product_description
+      label: product-description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_full_name
+      label: contact-full-name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_email
+      label: contact-email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: contact_phone
+      label: contact-phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: company
+      label: company
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: job_title
+      label: job-title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: job_level
+      label: job-level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: true
+    - id: 15
+      name: employee_id
+      label: employee-id
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: manager
+      label: manager
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 17
+      name: manager_email
+      label: manager-email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: training_facility
+      label: training-facility
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: travel_date
+      label: travel-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: training_facility_manager
+      label: training-facility-manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: training_facility_manager_email
+      label: training-facility-manager-email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: travel_date_end
+      label: travel-date-end
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: travel_date_end_time
+      label: travel-date-end-time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: travel_cost
+      label: travel-cost
+      hint: null
+      type: number
+      options: []
+      required: false

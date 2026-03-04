@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: employee_mileage_record_request_form
+    pages:
+    - id: 1
+      name: company
+      label: Employee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: end_date
+      label: End Date
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: distance
+      label: Distance
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: purpose
+      label: Purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false

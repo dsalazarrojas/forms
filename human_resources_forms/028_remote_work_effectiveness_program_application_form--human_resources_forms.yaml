@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Remote Work Effectiveness Program Application Form
+    pages:
+    - id: 1
+      name: employee_details
+      label: Employee Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: work_status
+      label: Work Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''On Site''}'
+      - '{''id'': 2, ''label'': ''Off Site''}'
+      required: true
+    - id: 3
+      name: work_type
+      label: Work Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Full Time''}'
+      - '{''id'': 2, ''label'': ''Part Time''}'
+      - '{''id'': 3, ''label'': ''Freelance''}'
+      required: true
+    - id: 4
+      name: work_location
+      label: Work Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: manager_name
+      label: Manager's Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: manager_email
+      label: Manager's Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: manager_phone
+      label: Manager's Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: true

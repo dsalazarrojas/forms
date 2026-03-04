@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sick Leave Donation Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: overall_support
+      label: overall_support
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: sentiment
+      label: sentiment
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''strongly_support'', ''value'': ''strong_support''}'
+      - '{''label'': ''somewhat_support'', ''value'': ''somewhat_support''}'
+      - '{''label'': ''neutral'', ''value'': ''neutral''}'
+      - '{''label'': ''somewhat_opposed'', ''value'': ''somewhat_opposed''}'
+      - '{''label'': ''strongly_opposed'', ''value'': ''strong_opposed''}'
+      required: true
+    - id: 4
+      name: concerns
+      label: concerns
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''lack_of_transparency'', ''value'': ''lack_of_transparency''}'
+      - '{''label'': ''unclear_policies'', ''value'': ''unclear_policies''}'
+      - '{''label'': ''unequal_access'', ''value'': ''unequal_access''}'
+      - '{''label'': ''other'', ''value'': ''other''}'
+      required: true
+    - id: 5
+      name: suggestion
+      label: suggestion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false

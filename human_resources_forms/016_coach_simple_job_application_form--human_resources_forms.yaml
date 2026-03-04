@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Coach Simple Job Application Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Job Application --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: Applicant name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone number
+      hint: Mobile phone
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: position_applied_for
+      label: Position applied for
+      hint: Job title
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: availability_start_date
+      label: Availability start date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: relevant_experience
+      label: Relevant experience
+      hint: Brief summary
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: resume_link
+      label: Resume link or attachment reference
+      hint: URL to resume or file reference
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: references
+      label: References
+      hint: Provide contact information
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: consent_to_background_check
+      label: Consent to background check
+      hint: Applicant consent for checks
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

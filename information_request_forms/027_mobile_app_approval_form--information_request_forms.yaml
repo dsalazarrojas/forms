@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mobile App Approval Form
+    pages:
+    - id: 1
+      name: submit_to
+      label: Submit To
+      hint: null
+      type: select_one
+      options:
+      - Apple
+      - Google
+      required: false
+    - id: 2
+      name: app_name
+      label: App Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: app_version
+      label: App Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: app_type
+      label: App Type
+      hint: null
+      type: select_one
+      options:
+      - Mobile
+      - Web
+      - Desktop
+      required: false
+    - id: 5
+      name: app_url
+      label: App URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: app_platform
+      label: App Platform
+      hint: null
+      type: select_one
+      options:
+      - iOS
+      - Android
+      required: false
+    - id: 7
+      name: app_category
+      label: App Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: app_description
+      label: App Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submit_date
+      label: Submit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: submit_time
+      label: Submit Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submitter_title
+      label: Submitter Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitter_department
+      label: Submitter Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitter_job_title
+      label: Submitter Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submitter_address
+      label: Submitter Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submitter_company
+      label: Submitter Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submit_to_apple
+      label: Submit to Apple
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 20
+      name: submit_to_google
+      label: Submit to Google
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 21
+      name: submit_to_amazon
+      label: Submit to Amazon
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 22
+      name: submitter_agreement
+      label: Submitter Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - I have read and agree to the terms and conditions
+      - I have read and agree to the privacy policy
+      required: false
+    - id: 23
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 25
+      name: submitter_notes
+      label: Submitter Notes
+      hint: null
+      type: note
+      options: []
+      required: false

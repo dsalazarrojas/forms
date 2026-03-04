@@ -1,0 +1,235 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Annual Review (Direct Report Feedback)
+    pages:
+      - id: 1
+        name: employee_name
+        label: Your Name
+        hint: Full name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: employee_email
+        label: Your Email
+        hint: Work email address
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: manager_name
+        label: Manager Name
+        hint: Name of your manager or supervisor
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: position_title
+        label: Your Position Title
+        hint: Your current role
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: department
+        label: Department
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: time_under_manager
+        label: How long have you worked under this manager
+        hint: null
+        type: select_one
+        options:
+          - "Less than 6 months"
+          - "6-12 months"
+          - "1-2 years"
+          - "2-5 years"
+          - "More than 5 years"
+        required: true
+      - id: 7
+        name: overall_manager_rating
+        label: Overall, how would you rate your manager
+        hint: null
+        type: select_one
+        options:
+          - "Excellent - significantly exceeds expectations"
+          - "Good - meets expectations very well"
+          - "Satisfactory - meets basic expectations"
+          - "Needs improvement - below expectations"
+          - "Poor - significantly below expectations"
+        required: true
+      - id: 8
+        name: communication_effectiveness
+        label: How effective is your manager at communication
+        hint: Clarity and openness of communication
+        type: select_one
+        options:
+          - "Excellent"
+          - "Good"
+          - "Satisfactory"
+          - "Needs improvement"
+          - "Poor"
+        required: true
+      - id: 9
+        name: clear_expectations
+        label: Does your manager set clear expectations
+        hint: null
+        type: select_one
+        options:
+          - "Strongly agree"
+          - "Agree"
+          - "Neutral"
+          - "Disagree"
+          - "Strongly disagree"
+        required: true
+      - id: 10
+        name: feedback_quality
+        label: Quality of feedback received from manager
+        hint: Constructive and helpful feedback
+        type: select_one
+        options:
+          - "Excellent"
+          - "Good"
+          - "Satisfactory"
+          - "Needs improvement"
+          - "Poor"
+        required: true
+      - id: 11
+        name: feedback_frequency
+        label: How often do you receive feedback
+        hint: null
+        type: select_one
+        options:
+          - "Regularly - at least monthly"
+          - "Occasionally - quarterly"
+          - "Rarely - only annually"
+          - "Never"
+          - "Too frequently"
+        required: true
+      - id: 12
+        name: recognition_appreciation
+        label: Manager recognizes and appreciates my work
+        hint: null
+        type: select_one
+        options:
+          - "Strongly agree"
+          - "Agree"
+          - "Neutral"
+          - "Disagree"
+          - "Strongly disagree"
+        required: true
+      - id: 13
+        name: career_development
+        label: Manager supports my career development
+        hint: Provides growth and learning opportunities
+        type: select_one
+        options:
+          - "Strongly agree"
+          - "Agree"
+          - "Neutral"
+          - "Disagree"
+          - "Strongly disagree"
+        required: true
+      - id: 14
+        name: professional_growth
+        label: How much have you grown professionally under this manager
+        hint: null
+        type: select_one
+        options:
+          - "Significantly"
+          - "Moderately"
+          - "Somewhat"
+          - "Not much"
+          - "Declined"
+        required: true
+      - id: 15
+        name: trust_integrity
+        label: I trust my manager and value their integrity
+        hint: null
+        type: select_one
+        options:
+          - "Strongly agree"
+          - "Agree"
+          - "Neutral"
+          - "Disagree"
+          - "Strongly disagree"
+        required: true
+      - id: 16
+        name: support_in_challenges
+        label: Manager supports you during challenges
+        hint: Help during difficult situations
+        type: select_one
+        options:
+          - "Strongly agree"
+          - "Agree"
+          - "Neutral"
+          - "Disagree"
+          - "Strongly disagree"
+        required: true
+      - id: 17
+        name: manager_strengths
+        label: Manager's greatest strengths
+        hint: What does your manager do particularly well
+        type: text
+        options: []
+        required: true
+      - id: 18
+        name: improvement_areas
+        label: Areas for your manager's improvement
+        hint: Skills or behaviors to develop
+        type: text
+        options: []
+        required: true
+      - id: 19
+        name: specific_examples
+        label: Specific examples of effective management
+        hint: Situations where manager was particularly helpful
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: workplace_environment
+        label: Manager creates a positive work environment
+        hint: null
+        type: select_one
+        options:
+          - "Strongly agree"
+          - "Agree"
+          - "Neutral"
+          - "Disagree"
+          - "Strongly disagree"
+        required: true
+      - id: 21
+        name: retention_likelihood
+        label: Likelihood to stay under this manager
+        hint: null
+        type: select_one
+        options:
+          - "Very likely"
+          - "Likely"
+          - "Undecided"
+          - "Unlikely"
+          - "Very unlikely"
+        required: true
+      - id: 22
+        name: additional_comments
+        label: Additional comments or suggestions
+        hint: null
+        type: text
+        options: []
+        required: false

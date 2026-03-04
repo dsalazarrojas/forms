@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Calendar Update Request Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: For confirmation
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: Department
+      hint: Your department or team
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: request_date
+      label: Request Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: update_type
+      label: Update Type
+      hint: What type of update is needed
+      type: select_one
+      options:
+      - Add new event
+      - Modify existing event
+      - Cancel event
+      - Reschedule event
+      - Update event details
+      - Recurring event change
+      required: true
+    - id: 7
+      name: event_name
+      label: Event Name
+      hint: Name of the event
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: current_date
+      label: Current Date
+      hint: Original event date if modifying
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: current_time
+      label: Current Time
+      hint: Original event time if modifying
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: new_date
+      label: New Date
+      hint: Updated event date
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: new_time
+      label: New Time
+      hint: Updated event time
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: event_location
+      label: Event Location
+      hint: Where will the event take place
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: event_description
+      label: Event Description
+      hint: Brief description of the event
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: attendees
+      label: Attendees
+      hint: Who should be invited or notified
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: priority
+      label: Priority
+      hint: How urgent is this update
+      type: select_one
+      options:
+      - Low
+      - Normal
+      - High
+      - Urgent
+      required: true
+    - id: 16
+      name: reason_for_change
+      label: Reason for Change
+      hint: Why is this update needed
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: recurrence_pattern
+      label: Recurrence Pattern
+      hint: Is this a recurring event
+      type: select_one
+      options:
+      - One-time event
+      - Daily
+      - Weekly
+      - Monthly
+      - Yearly
+      - Custom
+      required: false
+    - id: 18
+      name: recurrence_end
+      label: Recurrence End Date
+      hint: When does recurrence end
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: reminders_needed
+      label: Reminders Needed
+      hint: Should reminders be set
+      type: select_one
+      options:
+      - No reminders
+      - 15 minutes before
+      - 30 minutes before
+      - 1 hour before
+      - 1 day before
+      - Multiple reminders
+      required: false
+    - id: 20
+      name: calendar_to_update
+      label: Calendar to Update
+      hint: Which calendar should be modified
+      type: select_one
+      options:
+      - Main company calendar
+      - Department calendar
+      - Team calendar
+      - Personal calendar
+      - Shared calendar
+      - Other
+      required: true
+    - id: 21
+      name: approval_needed
+      label: Approval Needed
+      hint: Does this change require approval
+      type: select_one
+      options:
+      - false
+      - Yes, manager approval
+      - Yes, admin approval
+      - Yes, team approval
+      required: false
+    - id: 22
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other information
+      type: text
+      options: []
+      required: false

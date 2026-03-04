@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agile Implementation Assistance Request Form
+    pages:
+    - id: 1
+      name: requestor_name
+      label: Requestor Name
+      hint: Enter your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requestor_email
+      label: Requestor Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: requestor_phone
+      label: Requestor Phone
+      hint: Enter your phone number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department_team
+      label: Department/Team
+      hint: Enter your department or team name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: Enter your company name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: project_details_header
+      label: -- Project Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: project_name
+      label: Project Name
+      hint: Enter the name of the project needing Agile assistance
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: team_size
+      label: Team Size
+      hint: How many people are on your team?
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: current_agile_stage
+      label: Current Agile Implementation Stage
+      hint: What stage is your Agile implementation currently at?
+      type: select_one
+      options:
+      - Just Starting
+      - Early Implementation
+      - Mid-Implementation
+      - Advanced Implementation
+      - Optimization Phase
+      required: true
+    - id: 10
+      name: agile_framework_currently_used
+      label: Agile Framework Currently Used
+      hint: Which Agile framework are you currently using?
+      type: select_one
+      options:
+      - Scrum
+      - Kanban
+      - SAFe
+      - LeSS
+      - XP
+      - Mixed Approach
+      - Not Using Any
+      required: true
+    - id: 11
+      name: assistance_needed_header
+      label: -- Assistance Needed --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: primary_assistance_need
+      label: Primary Assistance Need
+      hint: What is your primary need for Agile assistance?
+      type: select_one
+      options:
+      - Training
+      - Coaching
+      - Implementation Guidance
+      - Process Optimization
+      - Team Facilitation
+      - Tool Selection
+      - Metrics Definition
+      - Other
+      required: true
+    - id: 13
+      name: specific_agile_challenges
+      label: Specific Agile Challenges
+      hint: What specific challenges are you facing with Agile implementation?
+      type: select_multiple
+      options:
+      - Team Resistance
+      - Lack of Management Support
+      - Unclear Requirements
+      - Scaling Issues
+      - Tool Complexity
+      - Communication Problems
+      - Estimation Difficulties
+      - Undefined Roles
+      - Other
+      required: true
+    - id: 14
+      name: desired_outcomes
+      label: Desired Outcomes
+      hint: What outcomes do you hope to achieve with Agile assistance?
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: timeline_expectations
+      label: Timeline Expectations
+      hint: When do you need this assistance to begin?
+      type: select_one
+      options:
+      - Immediately
+      - Within 2 Weeks
+      - Within 1 Month
+      - Within 3 Months
+      - No Urgent Timeline
+      required: true
+    - id: 16
+      name: budget_availability
+      label: Budget Availability
+      hint: What is your budget range for Agile assistance?
+      type: select_one
+      options:
+      - Under $5,000
+      - $5,000-$15,000
+      - $15,000-$30,000
+      - $30,000-$50,000
+      - Over $50,000
+      - Budget Not Determined
+      required: false
+    - id: 17
+      name: support_resources_header
+      label: -- Support Resources --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: internal_agile_expertise
+      label: Internal Agile Expertise
+      hint: Do you have any internal Agile expertise available?
+      type: select_one
+      options:
+      - Yes, Certified Scrum Master
+      - Yes, Agile Coach
+      - Some Agile Experience
+      - No Internal Expertise
+      - Not Sure
+      required: true
+    - id: 19
+      name: executive_support_level
+      label: Executive Support Level
+      hint: What is the level of executive support for this initiative?
+      type: select_one
+      options:
+      - Strong Support
+      - Moderate Support
+      - Limited Support
+      - No Support
+      - Unknown
+      required: true
+    - id: 20
+      name: previous_agile_experience
+      label: Previous Agile Experience
+      hint: Describe your team's previous experience with Agile methodologies
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: additional_comments
+      label: Additional Comments
+      hint: Any additional information about your Agile implementation needs
+      type: text
+      options: []
+      required: false

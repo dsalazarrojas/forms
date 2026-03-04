@@ -1,0 +1,165 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bank Security Breach Incident Report Form
+    pages:
+    - id: 1
+      name: reporter_info_header
+      label: -- Reporting Official Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: reporter_name
+      label: Reporter Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: reporter_title
+      label: Job Title / Role
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: branch_department
+      label: Branch or Department Affected
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: incident_summary_header
+      label: -- Incident Overview --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: incident_discovery_date
+      label: Date of Discovery
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: incident_discovery_time
+      label: Time of Discovery
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: incident_type
+      label: Type of Security Breach
+      hint: Select the primary category
+      type: select_one
+      options:
+      - Data Exfiltration (Information Theft)
+      - Phishing / Business Email Compromise
+      - Ransomware / Malware Attack
+      - Unauthorized Access (Physical)
+      - Unauthorized Access (Digital / System)
+      - Insider Threat / Employee Misconduct
+      - Lost or Stolen Hardware (Laptop, Mobile)
+      required: true
+    - id: 10
+      name: severity_level
+      label: Initial Severity Assessment
+      hint: null
+      type: select_one
+      options:
+      - Low - Minor impact, no customer data at risk
+      - Medium - Potential exposure of internal data
+      - High - Customer PII (Personally Identifiable Info) exposed
+      - Critical - System-wide failure or massive data breach
+      required: true
+    - id: 11
+      name: systems_affected_header
+      label: -- Systems and Data Impacted --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: systems_list
+      label: Affected Systems or Applications
+      hint: e.g., Core Banking System, Email, Customer Database
+      type: select_multiple
+      options:
+      - Core Banking Platform
+      - Online Banking Portal
+      - Internal Network / Servers
+      - Corporate Email
+      - Physical Branch Security (Cameras/Locks)
+      - Payment Processing / SWIFT
+      required: true
+    - id: 13
+      name: customer_impact_estimate
+      label: Estimated Number of Customers Impacted
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: narrative_description_header
+      label: -- Incident Narrative --
+      hint: Provide a detailed account of the breach
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: incident_narrative
+      label: Detailed Description of the Incident
+      hint: Describe what happened, how it was found, and current status
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: mitigation_steps_taken
+      label: Immediate Actions / Mitigation Steps Taken
+      hint: What has been done to contain the breach?
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: evidence_link
+      label: Link to Evidence or Logs (if available)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: notifications_made_header
+      label: -- External Notifications --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: law_enforcement_notified
+      label: Has Law Enforcement been notified? (FBI, Local Police)
+      hint: null
+      type: select_one
+      options:
+      - Yes - Case number assigned
+      - In Progress
+      - No - Pending internal review
+      required: true
+    - id: 20
+      name: submission_timestamp
+      label: Report Completion Timestamp
+      hint: null
+      type: date
+      options: []
+      required: true

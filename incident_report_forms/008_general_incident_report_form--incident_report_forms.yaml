@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: General Incident Report Form
+    pages:
+    - id: 1
+      name: incident_report_form
+      label: Report
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: witness_name
+      label: Witness Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: witness_email
+      label: Witness Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: incident_description
+      label: Incident Description
+      hint: A detailed description of what happened.
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: witness_statement
+      label: Witness Statement
+      hint: null
+      type: note
+      options: []
+      required: false

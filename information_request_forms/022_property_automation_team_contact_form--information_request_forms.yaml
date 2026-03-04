@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Automation Team Contact Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Property Management
+      - IT
+      - Accounting
+      - HR
+      - Maintenance
+      required: false
+    - id: 7
+      name: property_name
+      label: Property Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_reason
+      label: Contact Reason
+      hint: null
+      type: select_one
+      options:
+      - Support
+      - Feedback
+      - Complaint
+      - General Inquiry
+      required: false
+    - id: 11
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      - Industrial
+      - Mixed Use
+      required: false

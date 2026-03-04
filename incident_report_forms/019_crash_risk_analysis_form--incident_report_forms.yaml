@@ -1,0 +1,37 @@
+inputSchema:
+  type: object
+  properties:
+    title: Crash Risk Analysis Form
+    pages:
+    - id: 1
+      name: crash_risk_analysis_form_1
+      label: Crash Risk Factors
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: crash_risk_factors
+      label: Crash Risk Factors
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: crash_risk_analysis_form_3
+      label: Crash Risk Analysis Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: crash_probability
+      label: Crash Probability
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

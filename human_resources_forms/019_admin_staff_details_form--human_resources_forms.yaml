@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Admin Staff Details Form
+    pages:
+    - id: 1
+      name: staff_details_header
+      label: -- Admin Staff Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: staff_full_name
+      label: Full Name
+      hint: Enter the staff member's legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: staff_employee_id
+      label: Employee ID
+      hint: Unique employee identification number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: staff_email
+      label: Email Address
+      hint: Professional email address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: staff_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: staff_address
+      label: Home Address
+      hint: Current residential address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: staff_city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: staff_state
+      label: State/Province
+      hint: State or province of residence
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: staff_zip
+      label: ZIP/Postal Code
+      hint: Postal code of residence
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: staff_country
+      label: Country
+      hint: Country of residence
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: date_of_birth
+      label: Date of Birth
+      hint: Staff member's birth date
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: position_title
+      label: Position Title
+      hint: Current job title
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: department
+      label: Department
+      hint: Which department does the staff member work in?
+      type: select_one
+      options:
+      - Administration
+      - Human Resources
+      - Finance
+      - Marketing
+      - Operations
+      - IT
+      - Sales
+      - Customer Service
+      - Executive
+      - Other
+      required: true
+    - id: 14
+      name: employment_type
+      label: Employment Type
+      hint: What type of employment arrangement?
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Contract
+      - Temporary
+      - Seasonal
+      required: true
+    - id: 15
+      name: hire_date
+      label: Hire Date
+      hint: Date when the staff member was hired
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: manager_name
+      label: Manager/Supervisor Name
+      hint: Name of the staff member's direct supervisor
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: manager_email
+      label: Manager/Supervisor Email
+      hint: Email address of the staff member's direct supervisor
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Name of emergency contact person
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: emergency_contact_relationship
+      label: Relationship to Emergency Contact
+      hint: How is the staff member related to this person?
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: education_level
+      label: Education Level
+      hint: Highest level of education completed
+      type: select_one
+      options:
+      - High School
+      - Associate Degree
+      - Bachelor's Degree
+      - Master's Degree
+      - Doctorate
+      - Other
+      required: true
+    - id: 22
+      name: previous_experience_years
+      label: Years of Previous Experience
+      hint: How many years of relevant work experience?
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: special_skills
+      label: Special Skills or Qualifications
+      hint: Any special skills relevant to the position
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: certifications
+      label: Professional Certifications
+      hint: Any professional certifications held
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: staff_photo_upload
+      label: Photo Upload
+      hint: Upload a professional photo (optional)
+      type: text
+      options: []
+      required: false

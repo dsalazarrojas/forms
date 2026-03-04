@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Website Lightbox Access Form
+    pages:
+    - id: 1
+      name: website_lightbox_access_form
+      label: Access Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: user_email
+      label: Return User Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: user_phone
+      label: Return User Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: support_inquiries
+      label: Support Inquiries
+      hint: Any additional information
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: login_links
+      label: Login Links
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: return_user
+      label: Return User
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: support_inquiry
+      label: Support Inquiry
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: return_user_phone
+      label: Return User Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: return_user_email
+      label: Return User Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: support_inquiry_details
+      label: Support Inquiry Details
+      hint: Any additional information
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: return_user_address
+      label: Return User Address
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: support_inquiry_status
+      label: Support Inquiry Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 13
+      name: login_links_list
+      label: Login Links List
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: return_user_phone_2
+      label: Return User Phone 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: return_user_email_2
+      label: Return User Email 2
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: support_inquiry_type
+      label: Support Inquiry Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: return_user_country
+      label: Return User Country
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: support_inquiry_comments
+      label: Support Inquiry Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: support_inquiry_priority
+      label: Support Inquiry Priority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: return_user_language
+      label: Return User Language
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: login_links_id
+      label: Login Links ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: return_user_id
+      label: Return User ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: support_inquiry_id
+      label: Support Inquiry ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: return_user_date
+      label: Return User Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 25
+      name: return_user_time
+      label: Return User Time
+      hint: null
+      type: time
+      options: []
+      required: true

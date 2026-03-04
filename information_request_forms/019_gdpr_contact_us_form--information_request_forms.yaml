@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: gdpr-contact-us-form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Enter your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_function
+      label: Job Function
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: message
+      label: Message
+      hint: Enter a detailed message
+      type: note
+      options: []
+      required: true

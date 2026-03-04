@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: radiation_dosimetry_information_request
+    pages:
+    - id: 1
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_department
+      label: contact_department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: date_of_last_exam
+      label: date_of_last_exam
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: radiation_field
+      label: radiation_field
+      hint: null
+      type: select_one
+      options:
+      - radiation
+      - external
+      - other
+      required: true
+    - id: 8
+      name: radiation_source
+      label: radiation_source
+      hint: null
+      type: select_multiple
+      options:
+      - X ray
+      - Gamma ray
+      - Neutron
+      required: false
+    - id: 9
+      name: radiation_source_other
+      label: other_radiation_source
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: dose
+      label: dose
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: dose_unit
+      label: dose_unit
+      hint: null
+      type: select_one
+      options:
+      - mGy
+      - mSv
+      required: true
+    - id: 12
+      name: radiation_level
+      label: radiation_level
+      hint: null
+      type: select_multiple
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 13
+      name: radiation_area
+      label: radiation_area
+      hint: null
+      type: select_multiple
+      options:
+      - Chest
+      - Head
+      required: true
+    - id: 14
+      name: radiation_area_other
+      label: other_radiation_area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: dose_rate
+      label: dose_rate
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: dose_rate_unit
+      label: dose_rate_unit
+      hint: null
+      type: select_one
+      options:
+      - Gy/hr
+      - Gy/min
+      required: true
+    - id: 17
+      name: total_dose
+      label: total_dose
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: exposure_time
+      label: exposure_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 19
+      name: exposure_unit
+      label: exposure_unit
+      hint: null
+      type: select_one
+      options:
+      - s
+      - min
+      required: true
+    - id: 20
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: uploaded_file
+      label: uploaded_file
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: uploaded_file_type
+      label: uploaded_file_type
+      hint: null
+      type: select_one
+      options:
+      - pdf
+      - image
+      - video
+      required: false
+    - id: 23
+      name: uploaded_file_size
+      label: uploaded_file_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: upload_date
+      label: upload_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: review_status
+      label: review_status
+      hint: null
+      type: select_one
+      options:
+      - Not reviewed
+      - Reviewed
+      - Rejected
+      required: true

@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Assistance Program Log
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: session_topic
+      label: Session Topic
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: session_notes
+      label: Session Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: referral_source
+      label: Referral Source
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: follow_up_status
+      label: Follow-up Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: follow_up_notes
+      label: Follow-up Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: completed_status
+      label: Completed Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: follow_up_frequency
+      label: Follow-up Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: follow_up_method
+      label: Follow-up Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: follow_up_location
+      label: Follow-up Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: follow_up_status_2
+      label: Follow-up Status 2
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 16
+      name: employee_status
+      label: Employee Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 17
+      name: next_follow_up_date
+      label: Next Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false

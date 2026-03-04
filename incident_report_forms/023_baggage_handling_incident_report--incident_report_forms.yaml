@@ -1,0 +1,210 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Baggage Handling Incident Report
+    pages:
+      - id: 1
+        name: section_incident
+        label: -- Incident Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: incident_date
+        label: Date of Incident
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: incident_time
+        Label: Time of Incident
+        hint: null
+        type: time
+        options: []
+        required: true
+      - id: 4
+        name: incident_location
+        label: Location of Incident
+        hint: Terminal, baggage claim, etc.
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: incident_type
+        Label: Type of Incident
+        hint: null
+        type: select_one
+        options:
+          - Damaged Baggage
+          - Lost Baggage
+          - Delayed Baggage
+          - Mishandled Items
+          - Theft or Pilferage
+          - Wrong Delivery
+          - Other
+        required: true
+      - id: 6
+        name: incident_description
+        Label: Detailed Description of Incident
+        hint: What happened?
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: section_baggage
+        label: -- Baggage Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: baggage_tag_number
+        Label: Baggage Tag Number
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: baggage_type
+        Label: Type of Baggage
+        hint: Suitcase, backpack, duffel, etc.
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: baggage_color_description
+        Label: Color and Description
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: baggage_condition
+        Label: Condition of Baggage
+        hint: null
+        type: select_one
+        options:
+          - Intact with Minor Damage
+          - Significantly Damaged
+          - Completely Destroyed
+          - Partially Missing
+          - Completely Missing
+        required: true
+      - id: 12
+        name: damage_description
+        Label: Description of Damage (if applicable)
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: estimated_value
+        Label: Estimated Value of Baggage and Contents
+        hint: In dollars
+        type: decimal
+        options: []
+        required: false
+      - id: 14
+        name: section_passenger
+        label: -- Passenger Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 15
+        name: passenger_name
+        Label: Passenger Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 16
+        name: passenger_email
+        Label: Passenger Email
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 17
+        name: passenger_phone
+        Label: Passenger Phone Number
+        hint: null
+        type: phone
+        options: []
+        required: true
+      - id: 18
+        name: confirmation_number
+        Label: Flight Confirmation Number
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 19
+        name: flight_number
+        Label: Flight Number
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 20
+        name: section_witness
+        label: -- Witness Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 21
+        name: witness_name
+        Label: Witness Name (if applicable)
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: witness_contact
+        Label: Witness Contact Information
+        hint: null
+        type: phone
+        options: []
+        required: false
+      - id: 23
+        name: section_resolution
+        label: -- Resolution Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 24
+        name: claim_status
+        Label: Compensation Claim Status
+        hint: null
+        type: select_one
+        options:
+          - Claim Filed
+          - Pending Review
+          - Under Investigation
+          - Resolved
+          - Denied
+        required: false
+      - id: 25
+        name: report_confirmation
+        Label: I Confirm This Report is Accurate and Complete
+        hint: null
+        type: select_one
+        options:
+          - I Confirm
+          - I Do Not Confirm
+        required: true

@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: Salary Authorization Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: salary_amount
+      label: salary_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: effective_date
+      label: effective_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: salary_type
+      label: salary_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: bonus_amount
+      label: bonus_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: approval_date
+      label: approval_date
+      hint: null
+      type: date
+      options: []
+      required: false

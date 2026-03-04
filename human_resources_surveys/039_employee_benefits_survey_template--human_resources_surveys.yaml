@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Benefits Survey Template
+    pages:
+    - id: 1
+      name: general_information
+      label: General information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: benefits
+      label: Benefits
+      hint: null
+      type: select_multiple
+      options:
+      - Life Insurance
+      - Health Insurance
+      - 401K
+      - Vision
+      - Dental
+      - Disability Insurance
+      required: true
+    - id: 3
+      name: job_performance
+      label: Job performance
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: work_status
+      label: Work status
+      hint: null
+      type: select_one
+      options:
+      - Working from home
+      - Working from office
+      - Working from both
+      required: true
+    - id: 5
+      name: job_satisfaction
+      label: Job satisfaction
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: benefits_manager
+      label: Benefits Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: company_benefits
+      label: Company benefits
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: job_title_changes
+      label: Job title changes
+      hint: null
+      type: text
+      options: []
+      required: false

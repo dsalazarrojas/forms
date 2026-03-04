@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Profile Single
+    pages:
+    - id: 1
+      name: personal_information
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Enter first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: preferred_name
+      label: Preferred name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email_address
+      label: Email address
+      hint: Provide a contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone number
+      hint: Include country code if applicable
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: Date of birth
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: organization
+      label: Organization or company
+      hint: Employer or affiliation
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: role_or_title
+      label: Role or title
+      hint: Job title or position
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: primary_needs
+      label: Primary needs or reason for contact
+      hint: Brief summary of goals or needs
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: additional_notes
+      label: Additional notes
+      hint: Any other relevant details
+      type: text
+      options: []
+      required: false

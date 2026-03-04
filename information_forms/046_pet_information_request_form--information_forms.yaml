@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: pet_information_request_form
+    pages:
+    - id: 1
+      name: pet_information_request_form_page_1
+      label: pet_information_request_form_page_1_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: pet_type
+      label: pet_type
+      hint: null
+      type: select_one
+      options:
+      - cat
+      - dog
+      - bird
+      - fish
+      required: false
+    - id: 3
+      name: pet_breed
+      label: pet_breed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: pet_age
+      label: pet_age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: pet_weight
+      label: pet_weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: owner_phone
+      label: owner_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: owner_email
+      label: owner_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: message
+      label: message
+      hint: null
+      type: note
+      options: []
+      required: false

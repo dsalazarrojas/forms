@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Surrender/Intake Request
+    pages:
+    - id: 1
+      name: current_owner_name
+      label: Current Owner Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: owner_contact_phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: animal_name_identifier
+      label: Animal Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: animal_breed_species
+      label: Animal Species and Breed
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: animal_weight_lbs
+      label: Animal Weight - lbs
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: animal_age_desc
+      label: Animal Age
+      hint: e.g. 3 years, 6 months
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: surrender_reason_desc
+      label: Reason for Surrender
+      hint: Please be honest so we can rehome effectively
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: social_dogs_rating
+      label: Socialization with Dogs
+      hint: null
+      type: select_one
+      options:
+      - Friendly - Gets along well
+      - Selective - Depends on the dog
+      - Aggressive - Should be only dog
+      - Unknown - Never tested
+      required: true
+    - id: 9
+      name: social_cats_rating
+      label: Socialization with Cats
+      hint: null
+      type: select_one
+      options:
+      - Friendly - Good with cats
+      - Selective - High prey drive
+      - Aggressive - Not safe with cats
+      - Unknown - Never tested
+      required: true
+    - id: 10
+      name: social_kids_rating
+      label: Socialization with Children
+      hint: null
+      type: select_one
+      options:
+      - Friendly - Good with all ages
+      - Selective - Better with older kids
+      - Aggressive - No children please
+      - Unknown - Never tested
+      required: true
+    - id: 11
+      name: house_trained_status
+      label: House Trained
+      hint: For indoor pets
+      type: select_one
+      options:
+      - Yes - Fully trained
+      - No - Not trained
+      - In Progress - Still learning
+      - Outdoor only
+      required: true
+    - id: 12
+      name: medical_health_notes
+      label: Current Medications or Health Issues
+      hint: List any known conditions
+      type: text
+      options: []
+      required: false

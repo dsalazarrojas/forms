@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Issue Claim Form Template
+    pages:
+    - id: 1
+      name: issue_claim_form
+      label: Issue Claim
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: incident_status
+      label: Incident Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 8
+      name: incident_status_options
+      label: Incident Status Options
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: false
+    - id: 9
+      name: incident_priority
+      label: Incident Priority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: incident_priority_options
+      label: Incident Priority Options
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 11
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: incident_type_options
+      label: Incident Type Options
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: false
+    - id: 13
+      name: incident_category
+      label: Incident Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: incident_category_options
+      label: Incident Category Options
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: false
+    - id: 15
+      name: incident_resolution
+      label: Incident Resolution
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: incident_resolution_status
+      label: Incident Resolution Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 17
+      name: incident_resolution_status_options
+      label: Incident Resolution Status Options
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: false
+    - id: 18
+      name: incident_comment
+      label: Incident Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: incident_attach_file
+      label: Incident Attach File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: incident_attach_link
+      label: Incident Attach Link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: incident_attach_image
+      label: Incident Attach Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: incident_attach_audio
+      label: Incident Attach Audio
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: incident_attach_video
+      label: Incident Attach Video
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: incident_attach_other
+      label: Incident Attach Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: incident_review
+      label: Incident Review
+      hint: null
+      type: text
+      options: []
+      required: true

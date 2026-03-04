@@ -1,0 +1,122 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Role Closure Confirmation Request Form
+    pages:
+    - id: 1
+      name: role_closure_requested_by
+      label: Role Closure Requested By
+      hint: null
+      type: select_one
+      options:
+      - hr-manager
+      - it-manager
+      - manager
+      required: false
+    - id: 2
+      name: reason_for_closure
+      label: Reason For Closure
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: effective_date
+      label: Effective Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: reason_for_closure_description
+      label: Reason For Closure Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: manager_approvals
+      label: Manager Approvals
+      hint: null
+      type: select_multiple
+      options:
+      - approver1
+      - approver2
+      - approver3
+      required: false
+    - id: 6
+      name: manager_comments
+      label: Manager Comments
+      hint: Please add any relevant comments
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: it_approvals
+      label: IT Approvals
+      hint: null
+      type: select_multiple
+      options:
+      - approver1
+      - approver2
+      - approver3
+      required: false
+    - id: 8
+      name: it_comments
+      label: IT Comments
+      hint: Please add any relevant comments
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: hr_approval
+      label: HR Approval
+      hint: null
+      type: select_one
+      options:
+      - approver1
+      - approver2
+      - approver3
+      required: false
+    - id: 10
+      name: closure_date
+      label: Closure Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: closure_reason
+      label: Closure Reason
+      hint: null
+      type: select_one
+      options:
+      - reason1
+      - reason2
+      - reason3
+      required: false
+    - id: 12
+      name: confirmation
+      label: Confirmation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: notes
+      label: Additional Notes
+      hint: Any other relevant notes
+      type: text
+      options: []
+      required: false

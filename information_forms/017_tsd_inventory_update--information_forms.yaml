@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tsd Inventory Update
+    pages:
+    - id: 1
+      name: tsd_inventory_update_page
+      label: Page 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: transaction_date
+      label: Transaction Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: transaction_id
+      label: Transaction ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: product_id
+      label: Product ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: new_quantity
+      label: New Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: old_quantity
+      label: Old Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: reason_code
+      label: Reason Code
+      hint: null
+      type: select_one
+      options:
+      - Code 1
+      - Code 2
+      - Code 3
+      required: false
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: select_multiple
+      options:
+      - Submit
+      - Other
+      required: false

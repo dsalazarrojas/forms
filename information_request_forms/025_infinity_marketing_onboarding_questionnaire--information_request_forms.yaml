@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Infinity Marketing Onboarding Questionnaire
+    pages:
+    - id: 1
+      name: new_marketing_client
+      label: Are you a new marketing client?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: team_member_details
+      label: Team Member Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - California
+      - New York
+      - Texas
+      - Florida
+      - Illinois
+      - Ohio
+      - Georgia
+      - North Carolina
+      - Washington
+      - Michigan
+      - Virginia
+      required: false
+    - id: 10
+      name: zip
+      label: Zip Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: note
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false

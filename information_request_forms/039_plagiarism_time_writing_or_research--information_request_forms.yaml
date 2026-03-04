@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Plagiarism Time, Writing Or Research?
+    pages:
+    - id: 1
+      name: general_info
+      label: Plagiarism Time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: research_reasons
+      label: Why Do Students Plagiarise?
+      hint: null
+      type: select_multiple
+      options:
+      - To get good grades
+      - Because it's easier
+      - Don't want to do the work
+      - Because I don't understand it
+      - Other (please specify)
+      required: true
+    - id: 3
+      name: plagiarism_periods
+      label: At What Periods Do Plagiarism Occur?
+      hint: null
+      type: select_multiple
+      options:
+      - Midterm 1-2
+      - Midterm 3
+      - Final
+      - Other (please specify)
+      required: true
+    - id: 4
+      name: note
+      label: Any Other Thoughts
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: How Do You Want To Be Contacted
+      hint: You can leave your email address for me to get in touch with you
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

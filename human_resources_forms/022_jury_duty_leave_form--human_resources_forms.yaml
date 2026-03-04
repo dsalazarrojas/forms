@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: jury_duty_leave_form
+    pages:
+    - id: 1
+      name: employee
+      label: Employee
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: jury_duty_date
+      label: Jury Duty Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: return_date
+      label: Return Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: reason_for_leave
+      label: Reason for Leave
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: manager_approval
+      label: Manager Approval
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: employee_status
+      label: Employee Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false
+    - id: 8
+      name: company_policy
+      label: Company Policy
+      hint: null
+      type: select_multiple
+      options:
+      - -ประก - Not Applicable - Not Required
+      - Other
+      required: false

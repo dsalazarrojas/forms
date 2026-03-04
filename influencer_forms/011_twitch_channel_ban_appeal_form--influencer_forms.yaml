@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Twitch Channel Ban Appeal Form
+    pages:
+    - id: 1
+      name: channel_id
+      label: channel_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: channel_name
+      label: channel_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reason
+      label: reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: ban_message
+      label: ban_message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: proof
+      label: proof
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: appeal_message
+      label: appeal_message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: channel_name
+      label: channel_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: spam_filter
+      label: spam_filter
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: proof_link
+      label: proof_link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: discord_link
+      label: discord_link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

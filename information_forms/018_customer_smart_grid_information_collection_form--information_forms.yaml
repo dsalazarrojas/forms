@@ -1,0 +1,213 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Smart Grid Information Collection Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: utility_type
+      label: utility_type
+      hint: null
+      type: select_one
+      options:
+      - Electricity
+      - Gas
+      - Water
+      - Other
+      required: false
+    - id: 7
+      name: usage_hours
+      label: usage_hours
+      hint: null
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - All
+      required: false
+    - id: 8
+      name: energy_source
+      label: energy_source
+      hint: null
+      type: select_one
+      options:
+      - Solar
+      - Wind
+      - Hydro
+      - Other
+      required: false
+    - id: 9
+      name: energy_efficiency
+      label: energy_efficiency
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 10
+      name: energy_consumption
+      label: energy_consumption
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: smart_grid_device
+      label: smart_grid_device
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: customer_service
+      label: customer_service
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 13
+      name: communication_method
+      label: communication_method
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - Mail
+      - In-person
+      required: false
+    - id: 14
+      name: follow_up_date
+      label: follow_up_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: time_preferences
+      label: time_preferences
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: smart_grid_device_installation
+      label: smart_grid_device_installation
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 17
+      name: smart_grid_device_rental
+      label: smart_grid_device_rental
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 18
+      name: grid_connectivity
+      label: grid_connectivity
+      hint: null
+      type: select_one
+      options:
+      - Strong
+      - Poor
+      required: false
+    - id: 19
+      name: grid_connectivity_speed
+      label: grid_connectivity_speed
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 20
+      name: smart_grid_device_status
+      label: smart_grid_device_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 21
+      name: device_replacement
+      label: device_replacement
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 22
+      name: device_replacement_reason
+      label: device_replacement_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: smart_grid_device_return
+      label: smart_grid_device_return
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 24
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false

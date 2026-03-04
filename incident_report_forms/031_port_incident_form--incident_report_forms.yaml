@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: port_incident_form
+    pages:
+    - id: 1
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: incident_type_other
+      label: What is the incident type? (Other)
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: incident_details
+      label: Incident Details
+      hint: Briefly describe the incident
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: witness_count
+      label: Witness Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: witness_names
+      label: Witness Names
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: witness_contacts
+      label: Witness Contact Information
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: witness_notes
+      label: Witness Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: incident_investigation
+      label: Incident Investigation
+      hint: Briefly describe the incident investigation
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: incident_resolution
+      label: Incident Resolution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: incident_status
+      label: Incident Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Closed
+      required: false
+    - id: 13
+      name: incident_status_other
+      label: What is the incident status? (Other)
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false

@@ -1,0 +1,89 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: <string>
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: work_permit_type
+      label: Work Permit Type
+      hint: null
+      type: select_one
+      options:
+      - Permit Type A
+      - Permit Type B
+      - Permit Type C
+      required: true
+    - id: 4
+      name: expiration_date
+      label: Expiration Date
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: renew_reason
+      label: Renew Reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: new_permit_start_date
+      label: New Permit Start Date
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: current_permit_end_date
+      label: Current Permit End Date
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: supervisor_approval_date
+      label: Supervisor Approval Date
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: manager_approval_date
+      label: Manager Approval Date
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: hr_review_date
+      label: HR Review Date
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,227 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fire Safety Information Collection
+    pages:
+    - id: 1
+      name: site_details
+      label: site_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: equipment_status
+      label: equipment_status
+      hint: null
+      type: select_multiple
+      options:
+      - equipment_status_1
+      - equipment_status_2
+      - equipment_status_3
+      required: false
+    - id: 3
+      name: site_exits
+      label: site_exits
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: inspection_dates
+      label: inspection_dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: safety_equipment
+      label: safety_equipment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: safety_measures
+      label: safety_measures
+      hint: null
+      type: select_one
+      options:
+      - safety_measures_1
+      - safety_measures_2
+      - safety_measures_3
+      required: false
+    - id: 7
+      name: safety_equipment_status
+      label: safety_equipment_status
+      hint: null
+      type: select_one
+      options:
+      - safety_equipment_status_1
+      - safety_equipment_status_2
+      - safety_equipment_status_3
+      required: false
+    - id: 8
+      name: safety_equipment_location
+      label: safety_equipment_location
+      hint: null
+      type: select_one
+      options:
+      - safety_equipment_location_1
+      - safety_equipment_location_2
+      required: false
+    - id: 9
+      name: emergency_contact_info
+      label: emergency_contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact
+      label: emergency_contact
+      hint: null
+      type: select_one
+      options:
+      - emergency_contact_1
+      - emergency_contact_2
+      required: false
+    - id: 11
+      name: emergency_contact_phone
+      label: emergency_contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: fire_hydrant
+      label: fire_hydrant
+      hint: null
+      type: select_one
+      options:
+      - fire_hydrant_1
+      - fire_hydrant_2
+      - fire_hydrant_3
+      required: false
+    - id: 13
+      name: exit_lights
+      label: exit_lights
+      hint: null
+      type: select_multiple
+      options:
+      - exit_lights_1
+      - exit_lights_2
+      - exit_lights_3
+      required: false
+    - id: 14
+      name: fire_exits
+      label: fire_exits
+      hint: null
+      type: select_one
+      options:
+      - fire_exits_1
+      - fire_exits_2
+      - fire_exits_3
+      required: false
+    - id: 15
+      name: fire_exit_signs
+      label: fire_exit_signs
+      hint: null
+      type: select_multiple
+      options:
+      - fire_exit_signs_1
+      - fire_exit_signs_2
+      - fire_exit_signs_3
+      required: false
+    - id: 16
+      name: fire_extinguishers
+      label: fire_extinguishers
+      hint: null
+      type: select_multiple
+      options:
+      - fire_extinguishers_1
+      - fire_extinguishers_2
+      - fire_extinguishers_3
+      required: false
+    - id: 17
+      name: fire_alarm_systems
+      label: fire_alarm_systems
+      hint: null
+      type: select_multiple
+      options:
+      - fire_alarm_systems_1
+      - fire_alarm_systems_2
+      - fire_alarm_systems_3
+      required: false
+    - id: 18
+      name: fire_alarm_sensors
+      label: fire_alarm_sensors
+      hint: null
+      type: select_one
+      options:
+      - fire_alarm_sensors_1
+      - fire_alarm_sensors_2
+      required: false
+    - id: 19
+      name: fire_sprinkler_systems
+      label: fire_sprinkler_systems
+      hint: null
+      type: select_one
+      options:
+      - fire_sprinkler_systems_1
+      - fire_sprinkler_systems_2
+      required: false
+    - id: 20
+      name: fire_safety_certificate
+      label: fire_safety_certificate
+      hint: null
+      type: select_one
+      options:
+      - fire_safety_certificate_1
+      - fire_safety_certificate_2
+      required: false
+    - id: 21
+      name: fire_safety_certification
+      label: fire_safety_certification
+      hint: null
+      type: select_one
+      options:
+      - fire_safety_certification_1
+      - fire_safety_certification_2
+      required: false
+    - id: 22
+      name: fire_safety_training
+      label: fire_safety_training
+      hint: null
+      type: select_one
+      options:
+      - fire_safety_training_1
+      - fire_safety_training_2
+      required: false
+    - id: 23
+      name: fire_safety_inspection
+      label: fire_safety_inspection
+      hint: null
+      type: select_one
+      options:
+      - fire_safety_inspection_1
+      - fire_safety_inspection_2
+      required: false
+    - id: 24
+      name: fire_safety_equipment_inspection
+      label: fire_safety_equipment_inspection
+      hint: null
+      type: select_one
+      options:
+      - fire_safety_equipment_inspection_1
+      - fire_safety_equipment_inspection_2
+      required: false
+    - id: 25
+      name: fire_safety_plan
+      label: fire_safety_plan
+      hint: null
+      type: select_one
+      options:
+      - fire_safety_plan_1
+      - fire_safety_plan_2
+      required: false

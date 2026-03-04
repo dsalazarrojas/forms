@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Alumni Contact Information Form
+    pages:
+    - id: 1
+      name: section_contact_details
+      label: -- Contact Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Full name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: preferred_email
+      label: Preferred email
+      hint: Best address to reach you
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: secondary_email
+      label: Secondary email
+      hint: Optional alternate email
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone number
+      hint: Mobile or landline
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: mailing_address
+      label: Mailing address
+      hint: Street address, city, state
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: update_preferences
+      label: Update preferences
+      hint: How would you like to receive updates
+      type: select_one
+      options:
+      - Email
+      - Postal mail
+      - Both
+      required: true
+    - id: 8
+      name: permission_contact
+      label: Permission to contact
+      hint: Select yes to allow outreach
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 9
+      name: comments
+      label: Additional comments
+      hint: Optional notes
+      type: text
+      options: []
+      required: false

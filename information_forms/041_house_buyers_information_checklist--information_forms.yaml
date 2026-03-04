@@ -1,0 +1,251 @@
+inputSchema:
+  type: object
+  properties:
+    title: house_buyers_information_checklist
+    pages:
+    - id: 1
+      name: house_buyer_info
+      label: House Buyers Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: house_price_range
+      label: house price range
+      hint: null
+      type: select_multiple
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 3
+      name: house_size_range
+      label: house size range
+      hint: null
+      type: select_multiple
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 4
+      name: house_age
+      label: house age
+      hint: How old is the house?
+      type: select_one
+      options:
+      - New
+      - Old
+      - Very Old
+      required: false
+    - id: 5
+      name: house_location
+      label: house location
+      hint: Where would you like the house to be located?
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: house_style
+      label: house style
+      hint: What style is the house? null
+      type: select_multiple
+      options:
+      - modern
+      - traditional
+      - farmhouse
+      required: false
+    - id: 7
+      name: number_of_bedrooms
+      label: number of bed rooms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: number_of_bathrooms
+      label: number of bath rooms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: number_of_bedrooms_sqr
+      label: number of bed rooms sq
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: number_of_bathrooms_sqr
+      label: number of bath rooms sq
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: lot_size
+      label: lot size
+      hint: What size of the lot is the house located on?
+      type: select_multiple
+      options:
+      - small
+      - medium
+      - large
+      required: false
+    - id: 12
+      name: lot_type
+      label: lot type
+      hint: What type of lot is the house on?
+      type: select_multiple
+      options:
+      - flat
+      - acre
+      - ranch
+      required: false
+    - id: 13
+      name: year_built
+      label: year built
+      hint: null
+      type: select_one
+      options:
+      - 1-10 years ago
+      - 10-20 years ago
+      - more than 20 years ago
+      required: false
+    - id: 14
+      name: sqft
+      label: square feet
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: lot_size_range_sqr
+      label: lot size range sqr
+      hint: null
+      type: select_one
+      options:
+      - less than 500 sqft
+      - 500-1000 sqft
+      - 1000-2500 sqft
+      - more than 2500 sqft
+      required: false
+    - id: 16
+      name: house_features
+      label: what house features would you like?
+      hint: What additional features do you want your house to have?
+      type: select_multiple
+      options:
+      - pool
+      - fireplace
+      - patio
+      - yard
+      - view
+      required: false
+    - id: 17
+      name: house_amenities
+      label: house amenities
+      hint: What would you like to have in your house?
+      type: select_multiple
+      options:
+      - kitchen
+      - living room
+      - bathroom
+      - bedroom
+      - closet
+      - laundry room
+      - dining room
+      - backyard
+      - office
+      - play area
+      required: false
+    - id: 18
+      name: home_type
+      label: what kind of home do you want?
+      hint: What type of home do you want?
+      type: select_multiple
+      options:
+      - single family
+      - condominium
+      - townhouse
+      - mobile home
+      required: false
+    - id: 19
+      name: house_furniture
+      label: what kind of furniture do you like?
+      hint: What kind of style would you like for your furniture?
+      type: select_multiple
+      options:
+      - modern
+      - traditional
+      - rustic
+      - country
+      - contemporary
+      required: false
+    - id: 20
+      name: house_floorplan
+      label: what floor plan do you like?
+      hint: null
+      type: select_one
+      options:
+      - single story
+      - multi story
+      - 2 story
+      required: false
+    - id: 21
+      name: house_lot_size
+      label: house lot size
+      hint: null
+      type: select_multiple
+      options:
+      - small
+      - medium
+      - large
+      required: false
+    - id: 22
+      name: house_lot_type
+      label: house lot type
+      hint: null
+      type: select_multiple
+      options:
+      - flat
+      - acre
+      - acreage
+      required: false
+    - id: 23
+      name: house_style_type
+      label: house style
+      hint: null
+      type: select_multiple
+      options:
+      - modern
+      - traditional
+      - colonial
+      - ranch
+      required: false
+    - id: 24
+      name: house_furniture_color
+      label: house furniture color
+      hint: What color would you like your furniture to be?
+      type: select_multiple
+      options:
+      - white
+      - black
+      - gray
+      - blue
+      - red
+      - green
+      required: false
+    - id: 25
+      name: house_model
+      label: house model
+      hint: What kind of house model do you like?
+      type: select_multiple
+      options:
+      - single
+      - double
+      - triple
+      required: false

@@ -1,0 +1,242 @@
+inputSchema:
+  type: object
+  properties:
+    title: Child Medical Care Authorization Form
+    pages:
+    - id: 1
+      name: authorization_date
+      label: Authorization Date
+      hint: Date of medical care authorization
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: parent_guardian_first_name
+      label: Parent or Guardian First Name
+      hint: Legal first name of parent or guardian
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: parent_guardian_last_name
+      label: Parent or Guardian Last Name
+      hint: Legal last name of parent or guardian
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: parent_guardian_email
+      label: Parent or Guardian Email
+      hint: Primary email address for contact
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: parent_guardian_phone
+      label: Parent or Guardian Phone
+      hint: Primary phone number for contact
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: parent_guardian_address
+      label: Parent or Guardian Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: child_first_name
+      label: Child First Name
+      hint: Legal first name of the child
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: child_last_name
+      label: Child Last Name
+      hint: Legal last name of the child
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: child_date_of_birth
+      label: Child Date of Birth
+      hint: Please provide the child's birth date
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: child_gender
+      label: Child Gender
+      hint: Select the child's gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      - Other
+      required: true
+    - id: 11
+      name: authorized_caregiver_name
+      label: Authorized Caregiver Name
+      hint: Full name of the person authorized to make medical decisions
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: authorized_caregiver_relationship
+      label: Authorized Caregiver Relationship
+      hint: Relationship of authorized caregiver to the child
+      type: select_one
+      options:
+      - Parent
+      - Guardian
+      - Grandparent
+      - Aunt or Uncle
+      - Family friend
+      - Babysitter or nanny
+      - Other
+      required: true
+    - id: 13
+      name: authorized_caregiver_phone
+      label: Authorized Caregiver Phone
+      hint: Phone number for authorized caregiver
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: authorization_start_date
+      label: Authorization Start Date
+      hint: When does this authorization begin?
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: authorization_end_date
+      label: Authorization End Date
+      hint: When does this authorization expire?
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: primary_physician_name
+      label: Primary Physician Name
+      hint: Name of the child's primary care physician
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: primary_physician_phone
+      label: Primary Physician Phone
+      hint: Phone number for primary physician
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: medical_facility_preference
+      label: Preferred Medical Facility
+      hint: Name of preferred hospital or medical facility
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: medical_insurance_provider
+      label: Medical Insurance Provider
+      hint: Name of insurance company
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: insurance_policy_number
+      label: Insurance Policy Number
+      hint: Policy or member number
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: insurance_group_number
+      label: Insurance Group Number
+      hint: Group number if applicable
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: known_allergies
+      label: Known Allergies
+      hint: List all known allergies
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: current_medications
+      label: Current Medications
+      hint: List all current medications with dosages
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: chronic_conditions
+      label: Chronic Medical Conditions
+      hint: List any chronic medical conditions
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: blood_type
+      label: Blood Type
+      hint: Child's blood type if known
+      type: select_one
+      options:
+      - A positive
+      - A negative
+      - B positive
+      - B negative
+      - AB positive
+      - AB negative
+      - O positive
+      - O negative
+      - Unknown
+      required: true
+    - id: 26
+      name: treatment_authorization
+      label: Treatment Authorization
+      hint: Do you authorize the caregiver to consent to medical treatment?
+      type: select_one
+      options:
+      - Yes, I fully authorize
+      - Yes, with limitations noted
+      - No, I do not authorize
+      required: true
+    - id: 27
+      name: treatment_limitations
+      label: Treatment Limitations
+      hint: Specify any limitations on medical treatment authorization
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: emergency_surgery_authorization
+      label: Emergency Surgery Authorization
+      hint: Do you authorize emergency surgery if medically necessary?
+      type: select_one
+      options:
+      - Yes, I authorize
+      - No, I do not authorize
+      - Consult me first if possible
+      required: true
+    - id: 29
+      name: parent_guardian_signature
+      label: Parent or Guardian Signature
+      hint: Type your full name as your electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: signature_date
+      label: Signature Date
+      hint: Date of electronic signature
+      type: date
+      options: []
+      required: true

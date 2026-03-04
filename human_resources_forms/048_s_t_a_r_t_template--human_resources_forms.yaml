@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: s.t.a.r.t template
+    pages:
+    - id: 1
+      name: intro
+      label: S.t.a.r.t Template
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: task
+      label: task
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: action
+      label: Action
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: result
+      label: result
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: time
+      label: Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: resources
+      label: Resources
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: date
+      options: []
+      required: true

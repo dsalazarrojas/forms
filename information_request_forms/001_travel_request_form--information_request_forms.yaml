@@ -1,0 +1,155 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Request Form
+    pages:
+    - id: 1
+      name: travel_request_form
+      label: Travel Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: destination
+      label: Destination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: travel_date
+      label: Travel Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: travel_type
+      label: Travel Type
+      hint: null
+      type: select_one
+      options:
+      - Inbound
+      - Outbound
+      - Return
+      - Other
+      required: false
+    - id: 7
+      name: reason_for_travel
+      label: Reason for Travel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: travel_details
+      label: Travel Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: travel_agency
+      label: Agency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: travel_agent
+      label: Agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: travel_requestor
+      label: Requestor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: travel_agency_id
+      label: Agency ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: travel_note
+      label: Travel Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: business_use_case
+      label: Business Use Case
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: submit_to
+      label: Submit To
+      hint: null
+      type: select_one
+      options:
+      - Travel Agent
+      - Travel Manager
+      required: false
+    - id: 19
+      name: assigned_agent
+      label: Assigned Agent
+      hint: null
+      type: select_multiple
+      options:
+      - Jimmy
+      - Other
+      required: false
+    - id: 20
+      name: assigned_travel_agency
+      label: Assigned Travel Agency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

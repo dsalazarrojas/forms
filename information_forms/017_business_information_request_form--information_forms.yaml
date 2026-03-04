@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Business Information Request Form
+    pages:
+      - id: 1
+        name: header
+        label: -- Information Request --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: requester_name
+        label: Requester name
+        hint: Your full name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: requester_organization
+        label: Requester organization
+        hint: Company or affiliation
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: contact_email
+        label: Contact email
+        hint: For receiving the requested information
+        type: email
+        options: []
+        required: true
+      - id: 5
+        name: information_requested
+        label: Information requested
+        hint: Describe the specific information needed
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: purpose_of_request
+        label: Purpose of request
+        hint: Brief reason for the request
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: urgency
+        label: Urgency
+        hint: Required timeframe for the information
+        type: select_one
+        options:
+          - Routine
+          - Urgent
+          - Immediate
+        required: true
+      - id: 8
+        name: preferred_format
+        label: Preferred format
+        hint: How you would like to receive information
+        type: select_one
+        options:
+          - PDF
+          - Excel
+          - Word
+          - Email text
+        required: false
+      - id: 9
+        name: additional_comments
+        label: Additional comments
+        hint: Any other notes for the information team
+        type: text
+        options: []
+        required: false

@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: NGO Data Sharing Request Form
+    pages:
+    - id: 1
+      name: data_sharing_request_form_title
+      label: NGO Data Sharing Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: data_sharing_request_form_purpose
+      label: Purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: data_sharing_request_form_usage
+      label: Usage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: data_sharing_request_form_policy_agreement
+      label: Policy Agreement
+      hint: null
+      type: select_multiple
+      options:
+      - NGO Data Sharing Policy
+      - Other
+      required: false
+    - id: 5
+      name: data_sharing_request_form_ngo
+      label: Nonprofit/Organization
+      hint: null
+      type: select_one
+      options:
+      - Nonprofit
+      - Government Agency
+      - For-profit Organization
+      - Other
+      required: false
+    - id: 6
+      name: data_sharing_request_form_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: data_sharing_request_form_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

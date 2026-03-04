@@ -1,0 +1,52 @@
+inputSchema:
+  type: object
+  properties:
+    title: Payroll System Access Registration Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: prophets
+      label: Prophets
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: access_levels
+      label: Access Levels
+      hint: null
+      type: select_one
+      options:
+      - -ประก - Level 2 - Level 3
+      - Other
+      required: false
+    - id: 5
+      name: approvals
+      label: Approvals
+      hint: null
+      type: select_multiple
+      options:
+      - Level 1
+      - Level 2
+      - Level 3
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

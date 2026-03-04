@@ -1,0 +1,221 @@
+inputSchema:
+  type: object
+  properties:
+    title: Data Privacy Compliance Application Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_info
+      label: Company Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: data_types
+      label: Types of Data
+      hint: List all the types of data you process.
+      type: select_multiple
+      options:
+      - General Information
+      - Specialized Information
+      - Sensitive Information
+      - Other (please specify)
+      required: false
+    - id: 5
+      name: data_collected
+      label: What Data is Collected
+      hint: Please provide details about what kind of data is collected.
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: purpose
+      label: Data Purpose
+      hint: List the purpose of what data is collected.
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: retention
+      label: Retention Period
+      hint: How long do you store the data for?
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: storage
+      label: Data Storage
+      hint: Where is the data stored?
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: access_control
+      label: Access Control
+      hint: null
+      type: select_one
+      options:
+      - Publicly
+      - Internally
+      - Externally
+      - Secure
+      required: false
+    - id: 10
+      name: access_control_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: security_measures
+      label: Security Measures
+      hint: Describe the measures taken to protect the data.
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: security_measures_other
+      label: Other Security Measures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: breach_reporting
+      label: Breach Reporting
+      hint: null
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
+      required: false
+    - id: 14
+      name: breach_reporting_frequency
+      label: How Often Do You Report Breaches?
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Yearly
+      - Never
+      required: false
+    - id: 15
+      name: breach_reporting_frequency_other
+      label: Other Breach Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: breach_notification
+      label: Breach Notification
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Text
+      - Letter
+      - Other (please specify)
+      required: false
+    - id: 17
+      name: breach_notification_other
+      label: Other Breach Notification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: breach_reporting_entity
+      label: Breach Reporting Entity
+      hint: null
+      type: select_multiple
+      options:
+      - Individual
+      - Company
+      - Both
+      - Other
+      required: false
+    - id: 19
+      name: breach_reporting_entity_other
+      label: Other Breach Entity
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: breach_reporting_method
+      label: Breach Reporting Method
+      hint: null
+      type: select_multiple
+      options:
+      - Email
+      - Phone
+      - Letter
+      - Other (please specify)
+      required: false
+    - id: 21
+      name: breach_reporting_method_other
+      label: Other Breach Reporting Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: security_audit
+      label: Security Audit
+      hint: null
+      type: select_one
+      options:
+      - Annually
+      - Bi-Annually
+      - Quarterly
+      - Monthly
+      - Weekly
+      - Never
+      required: false
+    - id: 23
+      name: security_audit_frequency
+      label: How Often Do You Perform Security Audits?
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Yearly
+      - Never
+      required: false
+    - id: 24
+      name: security_audit_frequency_other
+      label: Other Security Audit Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

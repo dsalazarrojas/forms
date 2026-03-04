@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bar Inventory Information Record Form
+    pages:
+    - id: 1
+      name: record_date
+      label: Record Date
+      hint: Date of this inventory record
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: bar_name
+      label: Bar or Establishment Name
+      hint: Name of business
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: location
+      label: Location/Address
+      hint: Where is the bar?
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: recorded_by
+      label: Recorded By
+      hint: Name of person documenting inventory
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: item_category
+      label: Item Category
+      hint: What type of inventory item?
+      type: select_one
+      options:
+      - Spirits/Liquor
+      - Beer
+      - Wine
+      - Mixer/Soda
+      - Glassware
+      - Bar Equipment
+      - Garnishes
+      - Other
+      required: true
+    - id: 6
+      name: item_name
+      label: Item Name
+      hint: Specific product or equipment name
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: item_brand
+      label: Brand or Manufacturer
+      hint: Brand name
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: item_size
+      label: Item Size or Volume
+      hint: Size in ml, oz, or description
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: unit_of_measure
+      label: Unit of Measure
+      hint: How is item measured?
+      type: select_one
+      options:
+      - Bottles
+      - Cases
+      - Cans
+      - Glasses
+      - Sets
+      - Units
+      - Ounces
+      - Liters
+      required: true
+    - id: 10
+      name: quantity_on_hand
+      label: Quantity On Hand
+      hint: How many units in stock?
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: minimum_stock_level
+      label: Minimum Stock Level
+      hint: Reorder point
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: maximum_stock_level
+      label: Maximum Stock Level
+      hint: Maximum capacity
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: cost_per_unit
+      label: Cost Per Unit
+      hint: Unit cost
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: total_value
+      label: Total Value of Item
+      hint: Quantity times unit cost
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: storage_location
+      label: Storage Location
+      hint: Where is item stored?
+      type: select_one
+      options:
+      - Main Bar
+      - Back Bar
+      - Storage Room
+      - Walk-In Cooler
+      - Wine Cellar
+      - Locked Cabinet
+      - Other
+      required: false
+    - id: 16
+      name: expiration_date
+      label: Expiration Date (if applicable)
+      hint: Expiration date if relevant
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: supplier_name
+      label: Supplier Name
+      hint: Who supplies this item?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: supplier_contact
+      label: Supplier Contact Information
+      hint: Phone or email
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: last_reorder_date
+      label: Last Reorder Date
+      hint: When was this last ordered?
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: reorder_quantity
+      label: Typical Reorder Quantity
+      hint: How much do you usually order?
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: item_condition
+      label: Item Condition
+      hint: Current condition
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Damaged
+      - Expired
+      required: false
+    - id: 22
+      name: comments_notes
+      label: Comments or Special Notes
+      hint: Additional information
+      type: text
+      options: []
+      required: false

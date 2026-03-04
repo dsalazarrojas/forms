@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Baseball Tryout Information Form
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- Player Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: player_name
+      label: Full name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: player_height
+      label: Height (inches)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: player_weight
+      label: Weight (pounds)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_header_2
+      label: -- School and Academic Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: school_name
+      label: Current school name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: grade_level
+      label: Grade level
+      hint: null
+      type: select_one
+      options:
+      - Freshman
+      - Sophomore
+      - Junior
+      - Senior
+      - College Freshman
+      - College Sophomore
+      - College Junior
+      - College Senior
+      required: false
+    - id: 11
+      name: gpa
+      label: Current GPA
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: section_header_3
+      label: -- Baseball Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: primary_position
+      label: Primary position
+      hint: null
+      type: select_one
+      options:
+      - Pitcher
+      - Catcher
+      - First Base
+      - Second Base
+      - Third Base
+      - Shortstop
+      - Left Field
+      - Center Field
+      - Right Field
+      - DH
+      required: true
+    - id: 14
+      name: secondary_position
+      label: Secondary position
+      hint: null
+      type: select_one
+      options:
+      - Pitcher
+      - Catcher
+      - First Base
+      - Second Base
+      - Third Base
+      - Shortstop
+      - Left Field
+      - Center Field
+      - Right Field
+      - DH
+      - None
+      required: false
+    - id: 15
+      name: batting_average
+      label: Batting average
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: years_playing
+      label: Years playing baseball
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: club_team
+      label: Club team experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: section_header_4
+      label: -- Physical Attributes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: throwing_hand
+      label: Throwing hand
+      hint: null
+      type: select_one
+      options:
+      - Right
+      - Left
+      - Ambidextrous
+      required: true
+    - id: 20
+      name: batting_stance
+      label: Batting stance
+      hint: null
+      type: select_one
+      options:
+      - Right
+      - Left
+      - Switch
+      required: true
+    - id: 21
+      name: arm_strength
+      label: Arm strength rating (1-10)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: speed_rating
+      label: Speed rating (1-10)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: section_header_5
+      label: -- Aspirations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: collegiate_goals
+      label: Collegiate baseball goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: professional_interest
+      label: Interested in professional baseball?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: false

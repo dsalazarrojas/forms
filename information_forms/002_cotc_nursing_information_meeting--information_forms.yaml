@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: cotc_nursing_information_meeting
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: select_one
+      label: Do you work in a hospital?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      required: false
+    - id: 5
+      name: select_multiple
+      label: Which of the following skills have you mastered?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''first_aide'', ''label'': ''First Aide''}'
+      - '{''value'': ''cpr'', ''label'': ''CPR''}'
+      - '{''value'': ''medical_record_keeper'', ''label'': ''Medical Record Keeper''}'
+      required: false
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

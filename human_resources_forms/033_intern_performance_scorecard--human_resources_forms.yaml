@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Intern Performance Scorecard
+    pages:
+    - id: 1
+      name: intern_rating
+      label: Overall Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: skills_used
+      label: Skills Used
+      hint: null
+      type: select_one
+      options:
+      - Programming
+      - Data Analysis
+      - Project Management
+      - Communication
+      - Time Management
+      required: false
+    - id: 3
+      name: communication
+      label: Communication
+      hint: null
+      type: select_multiple
+      options:
+      - Strong
+      - Satisfactory
+      - Weak
+      - N/A
+      required: false
+    - id: 4
+      name: teamwork
+      label: Teamwork
+      hint: null
+      type: select_one
+      options:
+      - Strong
+      - Satisfactory
+      - Weak
+      - N/A
+      required: false
+    - id: 5
+      name: punctuality
+      label: Punctuality
+      hint: null
+      type: select_one
+      options:
+      - Strong
+      - Satisfactory
+      - Weak
+      - N/A
+      required: false
+    - id: 6
+      name: feedback_given
+      label: Feedback Given
+      hint: How many times have you given feedback to this intern?
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: feedback_received
+      label: Feedback Received
+      hint: How many times has this intern received feedback from you?
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: performance_rating
+      label: Performance Rating
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false

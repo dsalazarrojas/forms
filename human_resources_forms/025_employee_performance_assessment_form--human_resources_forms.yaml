@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Performance Assessment Form
+    pages:
+    - id: 1
+      name: manager_review
+      label: Performance Review
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: manager_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: self_review
+      label: Self Review
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: employee_evaluation
+      label: Performance Evaluation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: skills_assessment
+      label: Skills Assessment
+      hint: null
+      type: select_one
+      options:
+      - Strong
+      - Weak
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 6
+      name: areas_for_improvement
+      label: Areas For Improvement
+      hint: null
+      type: select_multiple
+      options:
+      - Communication
+      - Leadership
+      - Teamwork
+      - Problem Solving
+      - Time Management
+      - Adaptability
+      - Collaboration
+      - Initiative
+      required: false
+    - id: 7
+      name: performance_rating
+      label: Performance Rating
+      hint: null
+      type: select_one
+      options:
+      - Outstanding
+      - Satisfactory
+      - Needs Improvement
+      - Poor
+      required: false
+    - id: 8
+      name: evaluation_cycle
+      label: Evaluation Cycle
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: date_reviewed
+      label: Date Reviewed
+      hint: null
+      type: date
+      options: []
+      required: false

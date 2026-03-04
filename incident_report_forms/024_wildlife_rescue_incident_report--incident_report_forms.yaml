@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wildlife Rescue Incident Report
+    pages:
+    - id: 1
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: animal_sighting_location
+      label: Animal Sighting Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: animal_type
+      label: Animal Type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: true
+    - id: 4
+      name: animal_description
+      label: Animal Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: rescuer_name
+      label: Rescuer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: animal_status
+      label: Animal Status
+      hint: null
+      type: select_one
+      options:
+      - option5
+      - option6
+      - option7
+      - option8
+      required: false
+    - id: 8
+      name: incident_date_time
+      label: Incident Date-Time
+      hint: null
+      type: date
+      options: []
+      required: false

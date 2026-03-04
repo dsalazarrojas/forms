@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: hr_service_request_form
+    pages:
+    - id: 1
+      name: service_request_form
+      label: Service Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_request_form_location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: service_request_form_services_needed
+      label: Services Needed
+      hint: null
+      type: select_multiple
+      options:
+      - HR
+      - Payroll
+      - Benefits
+      required: false
+    - id: 4
+      name: service_request_form_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: service_request_form_contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: service_request_form_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: service_request_form_department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: pathway_student_admission_information
+    pages:
+    - id: 1
+      name: pathway_student_admission_information_page_1
+      label: pathway_student_admission_information_page_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_id
+      label: student_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: student_date_of_birth
+      label: student_date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: pathway_id
+      label: pathway_id
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

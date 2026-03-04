@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: TANF Information Disclosure Form
+    pages:
+    - id: 1
+      name: form_data
+      label: Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_info
+      label: Client Info
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: share_with
+      label: Share with
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: authorized_parties
+      label: Authorized Parties
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: signature_time
+      label: Signature Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: signature
+      label: Signature
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: tanf_id
+      label: TANF ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: case_manager_name
+      label: Case Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false

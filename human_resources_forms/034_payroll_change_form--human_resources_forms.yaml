@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Payroll Change Form
+    pages:
+    - id: 1
+      name: payroll_change_form
+      label: payrolls_change_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: pay_period
+      label: pay_period
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Biweekly
+      required: false
+    - id: 4
+      name: change_reason
+      label: change_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: old_salary
+      label: old_salary
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: new_salary
+      label: new_salary
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: new_pay_rate
+      label: new_pay_rate
+      hint: null
+      type: select_one
+      options:
+      - Hourly
+      - Daily
+      required: false
+    - id: 8
+      name: pay_rate_type
+      label: pay_rate_type
+      hint: null
+      type: select_multiple
+      options:
+      - Weekly
+      - Biweekly
+      required: false
+    - id: 9
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false

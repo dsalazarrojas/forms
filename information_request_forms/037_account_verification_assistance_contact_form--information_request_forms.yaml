@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Account Verification Assistance Contact Form
+    pages:
+    - id: 1
+      name: section_contact_info
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: The email associated with the account you need help with
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: preferred_contact
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Text message
+      required: true
+    - id: 6
+      name: section_account_details
+      label: -- Account Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: account_username
+      label: Account Username or ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: account_type
+      label: Account Type
+      hint: null
+      type: select_one
+      options:
+      - Personal
+      - Business
+      - Student
+      - Other
+      required: true
+    - id: 9
+      name: section_verification_issue
+      label: -- Verification Issue --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: verification_issue_type
+      label: Type of Verification Issue
+      hint: null
+      type: select_one
+      options:
+      - Did not receive verification email
+      - Verification code expired
+      - Phone verification not working
+      - Identity verification failed
+      - Document upload issue
+      - Account locked after failed attempts
+      - Other
+      required: true
+    - id: 11
+      name: issue_description
+      label: Describe the Issue in Detail
+      hint: Include any error messages you received
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: steps_already_tried
+      label: Steps Already Attempted
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Resent verification email
+      - Checked spam folder
+      - Tried a different browser
+      - Cleared cache and cookies
+      - Tried from a different device
+      - None of the above
+      required: false
+    - id: 13
+      name: urgency
+      label: How Urgent Is This Request
+      hint: null
+      type: select_one
+      options:
+      - Low - Can wait a few days
+      - Medium - Need help within 24 hours
+      - High - Need help immediately
+      required: true
+    - id: 14
+      name: additional_info
+      label: Additional Information
+      hint: Any other details that may help us resolve your issue
+      type: text
+      options: []
+      required: false

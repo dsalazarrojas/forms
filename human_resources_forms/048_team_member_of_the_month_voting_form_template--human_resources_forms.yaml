@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: team_member_of_the_month_voting_form_template
+    pages:
+    - id: 1
+      name: team_member_of_the_month_voting_form
+      label: Team Member Of The Month
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: First name of the team member
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: vote_for
+      label: Vote For
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: comment
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: month
+      label: Month
+      hint: null
+      type: select_one
+      options:
+      - January
+      - February
+      - March
+      - April
+      - May
+      - June
+      - July
+      - August
+      - September
+      - October
+      - November
+      - December
+      required: false

@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Paid Time Off Extension Form
+    pages:
+    - id: 1
+      name: employee_requesting_extension
+      label: Employee Requesting Extension
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: reason_for_extension
+      label: Reason For Extension
+      hint: Please provide the reason for the extension request.
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: start_date
+      label: Start Date
+      hint: Date of desired start of extended paid time off
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: end_date
+      label: End Date
+      hint: Date of desired end of extended paid time off
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: number_of_days
+      label: Number of Days
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: manager_approval
+      label: Manager Approval
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: employee_confirmation
+      label: Employee Confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: department_approvals
+      label: Department Approvals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: manager_confirmation
+      label: Manager Confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: date_of_approval
+      label: Date Of Approval
+      hint: Date of manager approval
+      type: date
+      options: []
+      required: false

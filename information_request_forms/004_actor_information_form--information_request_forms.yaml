@@ -1,0 +1,144 @@
+inputSchema:
+  type: object
+  properties:
+    title: Actor Information Form
+    pages:
+    - id: 1
+      name: header_basic
+      label: -- Basic Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: legal_name
+      label: Legal Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: stage_name
+      label: Stage Name
+      hint: If different from legal name
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Primary Contact Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: Required for legal/work permit reasons
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: header_physical
+      label: -- Physical Attributes --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: height_cm
+      label: Height (in cm or ft/in)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: eye_color
+      label: Eye Color
+      hint: null
+      type: select_one
+      options:
+      - Blue
+      - Brown
+      - Green
+      - Hazel
+      - Gray
+      - Other
+      required: true
+    - id: 10
+      name: hair_color
+      label: Current Hair Color
+      hint: null
+      type: select_one
+      options:
+      - Black
+      - Brown
+      - Blonde
+      - Red
+      - Gray
+      - Bald
+      - Other
+      required: true
+    - id: 11
+      name: clothing_sizes
+      label: Standard Clothing Sizes
+      hint: e.g. Shirt, Pants, Shoes
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: header_professional
+      label: -- Professional Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: union_status
+      label: Union Affiliation
+      hint: null
+      type: select_multiple
+      options:
+      - SAG-AFTRA
+      - Equity (AEA)
+      - Non-Union
+      - Other
+      required: true
+    - id: 14
+      name: special_skills
+      label: Special Skills
+      hint: e.g. Accents, Martial Arts, Musical Instruments, Sports
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: languages_spoken
+      label: Languages Spoken
+      hint: Please indicate fluency level
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: resume_link
+      label: Online Resume / Portfolio Link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: headshot_confirmation
+      label: Do you have current headshots available?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Scheduled for update
+      required: true

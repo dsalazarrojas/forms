@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Recruitment Application Tree
+    pages:
+    - id: 1
+      name: main_page
+      label: Main Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: personal_details
+      label: Personal Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: education_background
+      label: Education Background
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: work_experience
+      label: Work Experience
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: skills
+      label: Skills
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: upload_documents
+      label: Upload Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

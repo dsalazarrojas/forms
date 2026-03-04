@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: crowdstrike_issue_form
+    pages:
+    - id: 1
+      name: incident_type
+      label: select_one
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: incident_date
+      label: incident_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: incident_location
+      label: incident_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: affected_user
+      label: affected_user
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: incident_status
+      label: incident_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 7
+      name: incident_priority
+      label: incident_priority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: incident_description
+      label: incident_description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: incident_comments
+      label: incident_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: incident_attachment
+      label: incident_attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: incident_resolution
+      label: incident_resolution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: incident_resolution_status
+      label: incident_resolution_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 13
+      name: incident_close_date
+      label: incident_close_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: incident_close_time
+      label: incident_close_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: incident_attachment_2
+      label: incident_attachment_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: affected_user_email
+      label: affected_user_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: affected_user_phone
+      label: affected_user_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: affected_user
+      label: affected_user
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: affected_user_department
+      label: affected_user_department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: affected_user_job_title
+      label: affected_user_job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: affected_user_manager
+      label: affected_user_manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: affected_user_manager_email
+      label: affected_user_manager_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: affected_user_manager_phone
+      label: affected_user_manager_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: incident_reporter
+      label: incident_reporter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: incident_reporter_email
+      label: incident_reporter_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 26
+      name: incident_reporter_phone
+      label: incident_reporter_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: incident_resolution_comments
+      label: incident_resolution_comments
+      hint: null
+      type: text
+      options: []
+      required: false

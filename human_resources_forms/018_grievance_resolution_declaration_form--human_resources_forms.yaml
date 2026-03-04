@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: grievance_resolution_declaration_form
+    pages:
+    - id: 1
+      name: grievance_resolution
+      label: grievance_resolution
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: resolution_date
+      label: resolution_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: resolution_status
+      label: resolution_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 4
+      name: resolution_details
+      label: resolution_details
+      hint: null
+      type: text
+      options: []
+      required: false

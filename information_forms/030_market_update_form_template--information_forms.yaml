@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Market Update Form Template
+    pages:
+    - id: 1
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: market_update
+      label: Market Update
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: market_trends
+      label: Market Trends
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

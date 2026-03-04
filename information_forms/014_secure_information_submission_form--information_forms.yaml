@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Secure Information Submission Form
+    pages:
+    - id: 1
+      name: form_title
+      label: secure_information_submission_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: document_uploader
+      label: upload_documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: document_list
+      label: document_list
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: follow_up
+      label: follow_up
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: next_steps
+      label: next_steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Information Forms
+      - Other
+      - Category 1
+      - Category 2
+      - Category 3
+      required: true
+    - id: 11
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

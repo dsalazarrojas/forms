@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: New Manager Onboarding Template
+    pages:
+    - id: 1
+      name: new_manager_onboarding_template_form
+      label: New Manager Onboarding Template
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - HR
+      - Operations
+      - Finance
+      - Other
+      required: true
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - other
+      required: true
+    - id: 5
+      name: manager_preferences
+      label: Manager Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Preference 1
+      - Preference 2
+      - Preference 3
+      required: true
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

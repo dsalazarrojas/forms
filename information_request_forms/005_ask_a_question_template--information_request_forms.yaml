@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ask A Question Template
+    pages:
+    - id: 1
+      name: sender_name
+      label: Your Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: sender_email
+      label: Email Address
+      hint: For our response
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: company_name
+      label: Company or Organization
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: subject
+      label: Subject
+      hint: Brief summary of your inquiry
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department
+      hint: Which department should handle this
+      type: select_one
+      options:
+      - General Information
+      - Sales
+      - Customer Support
+      - Technical Support
+      - Billing
+      - Human Resources
+      - Management
+      required: true
+    - id: 6
+      name: priority
+      label: Priority Level
+      hint: How urgent is your request
+      type: select_one
+      options:
+      - Low
+      - Normal
+      - High
+      - Critical
+      required: true
+    - id: 7
+      name: message
+      label: Your Message
+      hint: Please provide details about your inquiry
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: attachment_reference
+      label: Attachment Reference
+      hint: Describe any files you will send separately
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_preference
+      label: How Should We Respond
+      hint: Your preferred response method
+      type: select_one
+      options:
+      - Email Reply
+      - Phone Call
+      - Either is Fine
+      required: true
+    - id: 10
+      name: phone_number
+      label: Phone Number
+      hint: Include if you want a call back
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: best_time_to_call
+      label: Best Time to Call
+      hint: If phone contact is preferred
+      type: select_one
+      options:
+      - Before 10am
+      - 10am to 12pm
+      - 12pm to 2pm
+      - 2pm to 5pm
+      - After 5pm
+      required: false
+    - id: 12
+      name: reference_number
+      label: Reference or Order Number
+      hint: If this relates to an existing case
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: newsletter_signup
+      label: Subscribe to Newsletter
+      hint: Receive updates and news
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: captcha_verification
+      label: Verification
+      hint: Confirm you are not a robot
+      type: select_one
+      options:
+      - I am human
+      - Other
+      required: true
+    - id: 15
+      name: submit_date
+      label: Date Submitted
+      hint: Today date
+      type: date
+      options: []
+      required: true

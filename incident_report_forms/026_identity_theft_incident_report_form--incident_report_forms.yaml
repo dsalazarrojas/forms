@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Identity Theft Incident Report Form
+    pages:
+    - id: 1
+      name: incident_report_form
+      label: Incident Report Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: report_type
+      label: Report Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Online'', ''value'': ''online''}'
+      - '{''id'': 2, ''label'': ''Phone'', ''value'': ''phone''}'
+      - '{''id'': 3, ''label'': ''Mail'', ''value'': ''mail''}'
+      required: true
+    - id: 3
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: victim_info
+      label: Victim Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: suspect_info
+      label: Suspect Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: victim_s_info
+      label: Victim's Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: victim_s_name
+      label: Victim's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: suspect_s_name
+      label: Suspect's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: suspect_dob
+      label: Suspect's DOB
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: suspect_address
+      label: Suspect's Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: suspect_city
+      label: Suspect's City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: suspect_phone
+      label: Suspect's Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: suspect_state
+      label: Suspect's State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: suspect_zip
+      label: Suspect's Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: suspect_country
+      label: Suspect's Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: victim_phone
+      label: Victim's Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: victim_email
+      label: Victim's Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: victim_address
+      label: Victim's Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: victim_city
+      label: Victim's City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: victim_state
+      label: Victim's State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: victim_zip
+      label: Victim's Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: victim_country
+      label: Victim's Country
+      hint: null
+      type: text
+      options: []
+      required: false

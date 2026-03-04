@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Alumni Contact Directory Form
+    pages:
+    - id: 1
+      name: personal_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: personal_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: personal_email
+      label: Email Address
+      hint: Primary email for directory
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: personal_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: graduation_year
+      label: Graduation Year
+      hint: What year did you graduate
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: degree_earned
+      label: Degree Earned
+      hint: Your degree type
+      type: select_one
+      options:
+      - Bachelor Degree
+      - Master Degree
+      - PhD
+      - Associate Degree
+      - Certificate
+      - Other
+      required: true
+    - id: 7
+      name: field_of_study
+      label: Field of Study
+      hint: Your major or focus area
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: residence_city
+      label: City of Residence
+      hint: Current city you live in
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: residence_state
+      label: State of Residence
+      hint: Current state or province
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: residence_country
+      label: Country of Residence
+      hint: Current country
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: section_professional
+      label: -- Professional Information --
+      hint: Information about your career
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: current_job_title
+      label: Current Job Title
+      hint: Your current position
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: employer_organization
+      label: Employer or Organization
+      hint: Where you work
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: industry_sector
+      label: Industry or Sector
+      hint: Field of work
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: company_city
+      label: Company Location
+      hint: Where your company is located
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: professional_interests
+      label: Professional Interests or Expertise
+      hint: Areas you specialize in
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: section_personal
+      label: -- Personal Details --
+      hint: Additional personal information
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: hobbies_interests
+      label: Hobbies and Interests
+      hint: What you enjoy doing
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: family_information
+      label: Family Status
+      hint: Married, children, family information
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: other_alumni_relatives
+      label: Other Alumni Relatives
+      hint: Family members who also attended
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: section_preferences
+      label: -- Sharing Preferences --
+      hint: How your information is used
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: directory_listing_preference
+      label: Include in Online Directory
+      hint: Allow your info in online directory
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: communication_preference
+      label: Preferred Communication Method
+      hint: How we should contact you
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Mail
+      - Any
+      required: true
+    - id: 24
+      name: event_notifications
+      label: Receive Event Notifications
+      hint: Be notified of alumni events
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: additional_notes
+      label: Additional Notes
+      hint: Anything else you want to share
+      type: text
+      options: []
+      required: false

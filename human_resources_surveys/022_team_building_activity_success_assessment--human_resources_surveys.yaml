@@ -1,0 +1,62 @@
+inputSchema:
+  type: object
+  properties:
+    title: Team Building Activity Success Assessment
+    pages:
+    - id: 1
+      name: team_building_activity_name
+      label: Team Building Activity Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: activity_date
+      label: Activity Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: participants_number
+      label: Participants Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: team_leaders
+      label: Team Leaders
+      hint: null
+      type: select_one
+      options:
+      - CEO
+      - Manager
+      - Other
+      required: true
+    - id: 6
+      name: activity_outcome
+      label: Activity Outcome
+      hint: null
+      type: select_multiple
+      options:
+      - Very Satisfying
+      - Satisfying
+      - Somewhat Satisfying
+      - Not Satisfying
+      - Not at All Satisfying
+      required: true
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

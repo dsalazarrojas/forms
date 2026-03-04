@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Early Retirement Form
+    pages:
+    - id: 1
+      name: retirement_reason
+      label: why_you_are_leaving
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: expected_quit_date
+      label: when_do_you_expect_to_quit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: notice_period
+      label: how_much_notice
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: manager_notification
+      label: manager_confirmation
+      hint: null
+      type: select_one
+      options:
+      - Manager 1
+      - Manager 2
+      - Manager 3
+      - Manager 4
+      required: false
+    - id: 5
+      name: plan_after_leaving
+      label: what_plans_do_you_have_after_leaving
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_info
+      label: contact_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: manager_comments
+      label: manager_comments
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,55 @@
+inputSchema:
+  type: object
+  properties:
+    title: Remote Work Survey
+    pages:
+    - id: 1
+      name: remote_work_survey
+      label: Remote Work Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Human Resources Surveys
+      - Other
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: coronavirus_workforce
+      label: Coronavirus Workforce
+      hint: null
+      type: select_multiple
+      options:
+      - coronavirus-related
+      - remote-workplaces
+      required: false
+    - id: 5
+      name: sync_responses
+      label: Sync Responses
+      hint: null
+      type: select_one
+      options:
+      - 100+ apps
+      - no_sync
+      required: false
+    - id: 6
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

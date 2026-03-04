@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Carrier Information
+    pages:
+    - id: 1
+      name: section_company_details
+      label: -- Carrier Company Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: dot_number
+      label: DOT Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: mc_number
+      label: MC Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: scac_code
+      label: SCAC Code
+      hint: Standard Carrier Alpha Code
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: federal_id
+      label: Federal Tax ID (EIN)
+      hint: required for tax reporting
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_office_address
+      label: -- Primary Office Address --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: office_address
+      label: Physical Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: office_city_state_zip
+      label: City, State, Zip
+      hint: e.g. Chicago, IL 60601
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: office_phone
+      label: Office Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: section_remittance
+      label: -- Remittance Address --
+      hint: complete only if different from office address
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: remit_name
+      label: Remit to Name
+      hint: payee name
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: remit_address
+      label: Remittance Street Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_operational
+      label: -- Operational Profile --
+      hint: fleet and lane information
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: equipment_count
+      label: Total Power Units
+      hint: total number of trucks
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: trailer_count
+      label: Total Trailers
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: equipment_types
+      label: Main Equipment
+      hint: select all that apply
+      type: select_multiple
+      options:
+      - Dry Van
+      - Reefer
+      - Flatbed
+      - Intermodal
+      - LTL
+      required: true
+    - id: 18
+      name: corridor_preference
+      label: Preferred Lanes or Corridors
+      hint: which routes do you prefer?
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_compliance
+      label: -- Compliance and Safety --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: safety_contact_name
+      label: Safety Contact Name
+      hint: person responsible for safety and compliance
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: safety_contact_phone
+      label: Safety Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: inspection_status
+      label: Date of Last Safety Inspection
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: section_verification
+      label: -- Final Verification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: verification_acknowledgment
+      label: I confirm the company information is current
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 25
+      name: verified_by_name
+      label: Person verifying information
+      hint: Type name as digital signature
+      type: text
+      options: []
+      required: true

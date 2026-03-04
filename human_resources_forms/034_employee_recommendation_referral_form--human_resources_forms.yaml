@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Recommendation Referral Form
+    pages:
+    - id: 1
+      name: employee_recommendation_referral_form
+      label: employee_recommendation_referral_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_title
+      label: job_title
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Software Engineer'', ''value'': ''Software Engineer''}'
+      - '{''id'': 2, ''label'': ''Data Scientist'', ''value'': ''Data Scientist''}'
+      - '{''id'': 3, ''label'': ''DevOps Engineer'', ''value'': ''DevOps Engineer''}'
+      required: true
+    - id: 4
+      name: job_opening_id
+      label: job_opening_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Engineering'', ''value'': ''Engineering''}'
+      - '{''id'': 2, ''label'': ''Finance'', ''value'': ''Finance''}'
+      - '{''id'': 3, ''label'': ''Marketing'', ''value'': ''Marketing''}'
+      required: true
+    - id: 6
+      name: job_status
+      label: job_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Open'', ''value'': ''Open''}'
+      - '{''id'': 2, ''label'': ''Closed'', ''value'': ''Closed''}'
+      - '{''id'': 3, ''label'': ''Pending'', ''value'': ''Pending''}'
+      required: true
+    - id: 7
+      name: employee_recommended
+      label: employee_recommended
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: job_opening_date
+      label: job_opening_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: job_posting_date
+      label: job_posting_date
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: recommended_candidate_name
+      label: recommended_candidate_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: recommended_candidate_position
+      label: recommended_candidate_position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: recommended_candidate_email
+      label: recommended_candidate_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: manager_name
+      label: manager_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: team_leader_name
+      label: team_leader_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: job_description
+      label: job_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: job_category
+      label: job_category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: job_level
+      label: job_level
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: job_type
+      label: job_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: job_family
+      label: job_family
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: job_location
+      label: job_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: job_tags
+      label: job_tags
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: job_requirements
+      label: job_requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: job_requirements_notes
+      label: job_requirements_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: job_opening_type
+      label: job_opening_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: job_opening_note
+      label: job_opening_note
+      hint: null
+      type: text
+      options: []
+      required: false

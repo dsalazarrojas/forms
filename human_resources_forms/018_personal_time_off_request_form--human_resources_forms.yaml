@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal Time Off Request Form
+    pages:
+    - id: 1
+      name: personal_time_off_request_form
+      label: Personal Time Off Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reason_for_time_off
+      label: Reason for Time Off
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: time_off_duration
+      label: Time Off Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_off_type
+      label: Time Off Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

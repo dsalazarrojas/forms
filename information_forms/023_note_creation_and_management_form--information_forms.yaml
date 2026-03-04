@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Note Creation And Management Form
+    pages:
+    - id: 1
+      name: note_creation_and_management_form_step_1
+      label: Note Creation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: capture_note
+      label: Capture
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: categories
+      label: Categories
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Meeting Records'', ''label'': ''Meeting Records''}'
+      - '{''value'': ''Project Updates'', ''label'': ''Project Updates''}'
+      - '{''value'': ''Follow-ups'', ''label'': ''Follow-ups''}'
+      required: true
+    - id: 4
+      name: share_note_with
+      label: Share Note With
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Team Members'', ''label'': ''Team Members''}'
+      - '{''value'': ''Manager'', ''label'': ''Manager''}'
+      required: true
+    - id: 5
+      name: reminders
+      label: Reminders
+      hint: Add a reminder for this note
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: note
+      label: Note
+      hint: Write your note here
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: follow_up_date
+      label: Follow-up Date
+      hint: Select a date for follow-up
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: project_updates
+      label: Project Updates
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Meeting Minutes'', ''label'': ''Meeting Minutes''}'
+      - '{''value'': ''Meeting Notes'', ''label'': ''Meeting Notes''}'
+      - '{''value'': ''Project Status'', ''label'': ''Project Status''}'
+      required: true
+    - id: 9
+      name: update_status
+      label: Update Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''In Progress'', ''label'': ''In Progress''}'
+      - '{''value'': ''Complete'', ''label'': ''Complete''}'
+      required: true
+    - id: 10
+      name: follow_up_status
+      label: Follow-up Status
+      hint: Select status for follow-up
+      type: select_one
+      options:
+      - '{''value'': ''New'', ''label'': ''New''}'
+      - '{''value'': ''Completed'', ''label'': ''Completed''}'
+      required: true
+    - id: 11
+      name: share_with_user
+      label: Share With User
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: update_note
+      label: Update Note
+      hint: null
+      type: text
+      options: []
+      required: false

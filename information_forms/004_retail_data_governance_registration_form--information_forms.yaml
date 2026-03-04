@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retail Data Governance Registration Form
+    pages:
+    - id: 1
+      name: user_registration
+      label: User Registration
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: purpose
+      label: purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: project_details
+      label: Project Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: data_access
+      label: Data Access
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: project_start_date
+      label: Project Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: project_end_date
+      label: Project End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: retail_data_access
+      label: Retail Data Access
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: data_classification
+      label: Data Classification
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: approval_details
+      label: Approval Details
+      hint: null
+      type: text
+      options: []
+      required: false

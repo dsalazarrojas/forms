@@ -1,0 +1,62 @@
+inputSchema:
+  type: object
+  properties:
+    title: Team Member Recognition Vote
+    pages:
+    - id: 1
+      name: nomination
+      label: Nomination
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: nominee_id
+      label: Nominee Id
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: impact_rating
+      label: Nomination Impact Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: recognition_type
+      label: Recognition Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: team_member_id
+      label: Team Member Id
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: nomination_message
+      label: Nomination Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: manager_rating
+      label: Manager Rating
+      hint: null
+      type: number
+      options: []
+      required: false

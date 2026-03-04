@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Falling Object Incident Form
+    pages:
+    - id: 1
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: object_falling
+      label: Object Falling
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: object_description
+      label: Object Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: object_location
+      label: Object Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: location_where_object_fell
+      label: Location Where Object Fell
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: object_mass
+      label: Object Mass
+      hint: Enter object mass in kg or pounds
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: object_velocity
+      label: Object Velocity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_multiple
+      options:
+      - Object falling to ground
+      - Object falling on floor
+      - Other
+      - Object falling from air
+      required: false
+    - id: 9
+      name: witness
+      label: Witness
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 10
+      name: witness_description
+      label: Witness Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: witness_phone_number
+      label: Witness Phone Number
+      hint: Enter witness's phone number
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: incident_reporter_phone_number
+      label: Incident Reporter's Phone Number
+      hint: Enter incident reporter's phone number
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: incident_reporter_name
+      label: Incident Reporter's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: incident_reporter_title
+      label: Incident Reporter's Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: incident_reporter_department
+      label: Incident Reporter's Department
+      hint: null
+      type: select_one
+      options:
+      - Operations
+      - Management
+      - Maintenance
+      - Other
+      required: false
+    - id: 16
+      name: incident_reporter_email
+      label: Incident Reporter's Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: incident_reporter_phone_number
+      label: Incident Reporter's Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: incident_reporter_notes
+      label: Incident Reporter's Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: incident_reported_by
+      label: Incident Reported By
+      hint: null
+      type: select_one
+      options:
+      - Operations
+      - Maintenance
+      - Management
+      required: false
+    - id: 20
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: select_one
+      options:
+      - Ground
+      - Air
+      - Other
+      required: false
+    - id: 21
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: incident_cause
+      label: Incident Cause
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: incident_effect
+      label: Incident Effect
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: incident_injuries
+      label: Incident Injuries
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: incident_reported_on
+      label: Incident Reported On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 26
+      name: incident_status
+      label: Incident Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Resolved
+      - Closed
+      required: false

@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Worker_s Compensation Records Release Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_email
+      label: Employee Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: employer_name
+      label: Employer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: consent_date
+      label: Consent Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: signature_date
+      label: Signature Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: signature
+      label: Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 7
+      name: employee_address
+      label: Employee Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: employer_address
+      label: Employer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: consent_type
+      label: Consent Type
+      hint: null
+      type: select_one
+      options:
+      - Full and complete access
+      - Limited access
+      - No access
+      required: false
+    - id: 10
+      name: other_details
+      label: Other Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: employee_phone
+      label: Employee Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: employer_phone
+      label: Employer Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: other_contacts
+      label: Other Contacts
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: employee_relationship
+      label: Employee Relationship
+      hint: null
+      type: select_multiple
+      options:
+      - Employee
+      - Manager
+      - Spouse
+      - Other
+      required: false
+    - id: 15
+      name: consent_message
+      label: Consent Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: employee_notes
+      label: Employee Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: employer_notes
+      label: Employer Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: other_agreements
+      label: Other Agreements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: signature_type
+      label: Signature Type
+      hint: null
+      type: select_one
+      options:
+      - Handwritten
+      - Electronic
+      - Other
+      required: false
+    - id: 20
+      name: signature_method
+      label: Signature Method
+      hint: null
+      type: select_one
+      options:
+      - In-person
+      - Email
+      - Fax
+      - Other
+      required: false
+    - id: 21
+      name: document_id
+      label: Document ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: file_name
+      label: File Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: file_size
+      label: File Size
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: file_type
+      label: File Type
+      hint: null
+      type: select_one
+      options:
+      - Document
+      - Video
+      - Audio
+      - Other
+      required: false

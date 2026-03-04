@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Back End Developer Interview Form
+    pages:
+    - id: 1
+      name: candidate_name
+      label: Candidate name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email address
+      hint: For interview schedule
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone number
+      hint: For urgent contact
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: years_experience
+      label: Years of backend experience
+      hint: Whole years
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: primary_languages
+      label: Primary programming languages
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Python
+      - Java
+      - Go
+      - Node.js
+      - Ruby
+      required: true
+    - id: 6
+      name: databases_experience
+      label: Database experience
+      hint: e.g., Postgres MySQL MongoDB
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: system_design_exercise
+      label: System design exercise notes
+      hint: Interviewer to record candidate approach
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: coding_challenge_score
+      label: Coding challenge score
+      hint: Numeric score or pass fail
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: cultural_fit_notes
+      label: Cultural fit notes
+      hint: Interviewer observations
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: interview_outcome
+      label: Interview outcome
+      hint: Recommended next step
+      type: select_one
+      options:
+      - Proceed to offer
+      - Second interview
+      - Not suitable
+      required: true

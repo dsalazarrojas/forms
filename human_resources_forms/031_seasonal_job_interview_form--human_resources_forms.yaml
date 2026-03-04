@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Seasonal Job Interview Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Contract
+      - Intern
+      - Seasonal
+      - Other
+      required: false
+    - id: 5
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: work_hours
+      label: Work Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: salary_range
+      label: Salary Range
+      hint: null
+      type: select_multiple
+      options:
+      - $20-$30
+      - $30-$40
+      - $40-$50
+      - $50-$60
+      required: false
+    - id: 9
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: availability
+      label: Availability
+      hint: null
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: resume
+      label: Resume
+      hint: null
+      type: text
+      options: []
+      required: false

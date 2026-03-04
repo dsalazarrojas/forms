@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Registration Update Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: updated_since
+      label: Updated Since
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: update_reason
+      label: Update Reason
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: update_type
+      label: Update Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: update_date
+      label: Update Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: update_time
+      label: Update Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: update_status
+      label: Update Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 15
+      name: update_by
+      label: Update By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: update_notes
+      label: Update Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: update_comments
+      label: Update Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: update_frequency
+      label: Update Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: update_frequency_other
+      label: Update Frequency Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: update_frequency_details
+      label: Update Frequency Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: user_confirmation
+      label: User Confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: user_confirmation_other
+      label: User Confirmation Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: user_confirmation_details
+      label: User Confirmation Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: organization_confirmation
+      label: Organization Confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: organization_confirmation_other
+      label: Organization Confirmation Other
+      hint: null
+      type: text
+      options: []
+      required: false

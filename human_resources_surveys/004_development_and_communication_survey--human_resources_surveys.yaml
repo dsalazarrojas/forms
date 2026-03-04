@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Development And Communication Survey
+    pages:
+    - id: 1
+      name: collaboration
+      label: What do you think about collaboration within the team?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: feedback
+      label: How do you rate your manager's feedback?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: growth_opportunities
+      label: What opportunities do you see for growth within the company?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: communication_channels
+      label: What communication channels within the team?
+      hint: null
+      type: select_multiple
+      options:
+      - email
+      - internal_tools
+      - phone
+      required: false
+    - id: 5
+      name: work_hours
+      label: What hours do you work?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_satisfaction
+      label: How do you rate your job satisfaction?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: manager_performance
+      label: How do you rate your manager's performance?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: development_and_communication_survey_comments
+      label: Do you have any additional comments or feedback about the Development
+        and Communication Survey?
+      hint: null
+      type: text
+      options: []
+      required: false

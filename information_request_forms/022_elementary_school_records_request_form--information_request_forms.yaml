@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Elementary School Records Request Form
+    pages:
+    - id: 1
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_school
+      label: Student School
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: parent_permission
+      label: Parent Permission
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: teacher_permission
+      label: Teacher Permission
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: records_requested
+      label: Records Requested
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: records_why
+      label: Why Records Requested
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: records_for
+      label: Records For
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: records_type
+      label: Records Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: records_location
+      label: Records Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: records_notes
+      label: Records Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: school_location
+      label: School Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: school_phone
+      label: School Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: school_email
+      label: School Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 17
+      name: school_url
+      label: School URL
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: student_email
+      label: Student Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: student_phone
+      label: Student Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 23
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: submitter_url
+      label: Submitter URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitter_department
+      label: Submitter Department
+      hint: null
+      type: text
+      options: []
+      required: false

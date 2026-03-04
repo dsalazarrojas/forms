@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: digital-wallet-issue-contact-form
+    pages:
+    - id: 1
+      name: screenshots
+      label: Screenshots
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_method
+      label: Contact
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''email'', ''label'': ''Email''}'
+      - '{''name'': ''phone'', ''label'': ''Phone''}'
+      - '{''name'': ''chat'', ''label'': ''Live Chat''}'
+      required: true
+    - id: 3
+      name: device_info
+      label: Device Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: operating_system
+      label: Operating System
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''windows'', ''label'': ''Windows''}'
+      - '{''name'': ''ios'', ''label'': ''iOS''}'
+      - '{''name'': ''android'', ''label'': ''Android''}'
+      required: false
+    - id: 5
+      name: issue_description
+      label: Issue Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: issue_category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''digital-wallets'', ''label'': ''Digital Wallets''}'
+      - '{''name'': ''account-management'', ''label'': ''Account Management''}'
+      - '{''name'': ''transactions'', ''label'': ''Transactions''}'
+      required: true
+    - id: 7
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''email'', ''label'': ''Email''}'
+      - '{''name'': ''phone'', ''label'': ''Phone''}'
+      - '{''name'': ''live-chat'', ''label'': ''Live Chat''}'
+      required: true
+    - id: 8
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: screenshots_file_name
+      label: Screenshots
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: screenshots_file
+      label: File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: issue_resolution
+      label: Issue Resolution
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: issue_resolution_file
+      label: File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: issue_resolution_note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: preferred_language
+      label: Preferred Language
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''english'', ''label'': ''English''}'
+      - '{''name'': ''spanish'', ''label'': ''Spanish''}'
+      - '{''name'': ''french'', ''label'': ''French''}'
+      required: true
+    - id: 15
+      name: preferred_locale
+      label: Preferred Locale
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''usa'', ''label'': ''United States''}'
+      - '{''name'': ''canada'', ''label'': ''Canada''}'
+      - '{''name'': ''mexico'', ''label'': ''Mexico''}'
+      required: true
+    - id: 16
+      name: device_os_version
+      label: Operating System Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: browser_version
+      label: Browser Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: screen_resolution
+      label: Screen Resolution
+      hint: null
+      type: number
+      options: []
+      required: false

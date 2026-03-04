@@ -1,0 +1,256 @@
+inputSchema:
+  type: object
+  properties:
+    title: Construction Submittal Form
+    pages:
+    - id: 1
+      name: submittal_date
+      label: Submittal Date
+      hint: Date of submittal
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: submittal_number
+      label: Submittal Number
+      hint: Sequential submittal reference
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: project_name
+      label: Project Name
+      hint: Name of construction project
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: project_number
+      label: Project Number
+      hint: Project reference number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: subcontractor_name
+      label: Subcontractor Name
+      hint: Company submitting
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: subcontractor_contact
+      label: Subcontractor Contact
+      hint: Contact person name
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: subcontractor_email
+      label: Subcontractor Email
+      hint: Email address
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: subcontractor_phone
+      label: Subcontractor Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: submittal_type
+      label: Submittal Type
+      hint: Category of submittal
+      type: select_one
+      options:
+      - Product Data
+      - Shop Drawings
+      - Samples
+      - Mock-Up
+      - Test Reports
+      - Certifications
+      - Warranty Information
+      - Operation Manual
+      - Other
+      required: true
+    - id: 10
+      name: specification_section
+      label: Specification Section
+      hint: Relevant spec section number
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: specification_title
+      label: Specification Title
+      hint: Spec section title
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: drawing_reference
+      label: Drawing Reference
+      hint: Relevant drawing numbers
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: item_description
+      label: Item Description
+      hint: Detailed description of item
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: manufacturer_name
+      label: Manufacturer Name
+      hint: Product manufacturer
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: manufacturer_location
+      label: Manufacturer Location
+      hint: City and state
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: product_model
+      label: Product Model Number
+      hint: Model or catalog number
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: proposed_use
+      label: Proposed Use
+      hint: Where will this be used
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: deviations_from_specs
+      label: Deviations from Specifications
+      hint: Note any variations
+      type: select_one
+      options:
+      - No Deviations
+      - Minor Deviations
+      - Major Deviations
+      required: true
+    - id: 19
+      name: deviation_details
+      label: Deviation Details
+      hint: Describe any variations
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: samples_included
+      label: Samples Included
+      hint: Are physical samples provided
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Applicable
+      required: true
+    - id: 21
+      name: certifications_attached
+      label: Certifications Attached
+      hint: Compliance documentation
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Applicable
+      required: true
+    - id: 22
+      name: test_reports_attached
+      label: Test Reports Attached
+      hint: Performance test results
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Applicable
+      required: true
+    - id: 23
+      name: warranty_information
+      label: Warranty Information
+      hint: Warranty details included
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Applicable
+      required: true
+    - id: 24
+      name: lead_time
+      label: Lead Time
+      hint: Delivery time after approval
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: special_requirements
+      label: Special Requirements
+      hint: Storage, handling, etc.
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: attachments_list
+      label: List of Attachments
+      hint: Documents included
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: subcontractor_signature
+      label: Subcontractor Signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: general_contractor_review
+      label: General Contractor Review
+      hint: GC determination
+      type: select_one
+      options:
+      - Approved
+      - Approved as Noted
+      - Revise and Resubmit
+      - Rejected
+      - No Action Required
+      required: false
+    - id: 29
+      name: gc_comments
+      label: GC Comments
+      hint: GC notes
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: architect_review
+      label: Architect Review
+      hint: Architect determination
+      type: select_one
+      options:
+      - Approved
+      - Approved as Noted
+      - Revise and Resubmit
+      - Rejected
+      - No Action Required
+      required: false
+    - id: 31
+      name: architect_comments
+      label: Architect Comments
+      hint: Architect notes
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,218 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Best HR Management Tool Nomination Form
+    pages:
+      - id: 1
+        name: nominator_info_header
+        label: -- Nominator Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: nominator_full_name
+        label: Your Full Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: job_title_text
+        label: Job Title
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: company_name_text
+        label: Company Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: work_email_address
+        label: Work Email
+        hint: null
+        type: email
+        options: []
+        required: true
+      - id: 6
+        name: nominee_tool_header
+        label: -- HR Tool Nominee Details --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 7
+        name: hr_tool_name
+        label: HR Tool Name
+        hint: The official name of the software or tool
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: vendor_company_name
+        label: Vendor or Company Name
+        hint: The developer of the tool
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: tool_website_url
+        label: Tool Website
+        hint: URL for product information
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: tool_type_category
+        label: Tool Type Category
+        hint: Primary function of the software
+        type: select_one
+        options:
+          - Payroll Management
+          - Recruitment and Applicant Tracking (ATS)
+          - Performance Management
+          - Employee Engagement
+          - Learning and Development (L&D)
+          - Benefits Administration
+          - Comprehensive HRIS/HRMS
+          - Other
+        required: true
+      - id: 11
+        name: usage_duration
+        label: How long has your company used this tool
+        hint: null
+        type: select_one
+        options:
+          - Less than 1 year
+          - 1 to 2 years
+          - 3 to 5 years
+          - Over 5 years
+        required: true
+      - id: 12
+        name: evaluation_criteria_header
+        label: -- Evaluation Criteria --
+        hint: Rate from 1 (Poor) to 5 (Excellent)
+        type: note
+        options: []
+        required: false
+      - id: 13
+        name: ease_of_use_rating
+        label: Ease of Use and UI Design
+        hint: How intuitive is the tool for users
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+        required: true
+      - id: 14
+        name: feature_richness_rating
+        label: Feature Richness and Capabilities
+        hint: Does it have all the features you need
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+        required: true
+      - id: 15
+        name: customer_support_rating
+        label: Customer Support and Training
+        hint: null
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+        required: true
+      - id: 16
+        name: value_for_money_rating
+        label: Value for Money
+        hint: null
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+        required: true
+      - id: 17
+        name: integration_capabilities_rating
+        label: Integration Capabilities
+        hint: How well it connects with other systems
+        type: select_one
+        options:
+          - 1
+          - 2
+          - 3
+          - 4
+          - 5
+        required: true
+      - id: 18
+        name: nomination_narrative_header
+        label: -- Nomination Narrative --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 19
+        name: impact_description
+        label: Biggest impact this tool has had on your HR department
+        hint: Describe specific improvements in efficiency or culture
+        type: text
+        options: []
+        required: true
+      - id: 20
+        name: killer_feature_desc
+        label: What is the one killer feature that makes this tool stand out
+        hint: The single best thing about the software
+        type: text
+        options: []
+        required: true
+      - id: 21
+        name: recommendation_intent
+        label: Would you recommend this tool to other HR professionals
+        hint: null
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably
+          - Maybe - with caveats
+          - No
+        required: true
+      - id: 22
+        name: submission_header
+        label: -- Final Submission --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 23
+        name: nomination_date_input
+        label: Date of Nomination
+        hint: null
+        type: date
+        options: []
+        required: true

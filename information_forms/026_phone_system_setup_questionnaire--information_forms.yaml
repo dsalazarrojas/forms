@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: Phone System Setup Questionnaire
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: system_name
+      label: System Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: system_type
+      label: System Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: system_size
+      label: System Size
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: setup_frequency
+      label: Setup Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: setup_method
+      label: Setup Method
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: setup_date
+      label: Setup Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: setup_time
+      label: Setup Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: service_provider
+      label: Service Provider
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: partner_name
+      label: Partner Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false

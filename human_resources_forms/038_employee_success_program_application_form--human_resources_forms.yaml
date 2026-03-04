@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: employee_success_program_application_form
+    pages:
+    - id: 1
+      name: employee_details
+      label: employee_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_position
+      label: job_position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: work_experience
+      label: work_experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_duties
+      label: job_duties
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: skills
+      label: skills
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: languages
+      label: languages
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: referees
+      label: referees
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: education
+      label: education
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: employment_status
+      label: employment_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 12
+      name: employment_type
+      label: employment_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

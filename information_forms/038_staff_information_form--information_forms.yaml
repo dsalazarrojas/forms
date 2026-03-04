@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: staff_information_form
+    pages:
+    - id: 1
+      name: staff_name
+      label: staff name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: staff_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: employment_status
+      label: employment_status
+      hint: null
+      type: select_one
+      options:
+      - active
+      - inactive
+      - pending
+      required: false
+    - id: 5
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: job_title_id
+      label: job_title_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: hire_date
+      label: hire_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: termination_date
+      label: termination_date
+      hint: null
+      type: date
+      options: []
+      required: false

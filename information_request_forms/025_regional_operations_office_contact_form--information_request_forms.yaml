@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Regional Operations Office Contact Form
+    pages:
+    - id: 1
+      name: user_name
+      label: user name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: message
+      label: message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: region
+      label: region
+      hint: null
+      type: select_one
+      options:
+      - North
+      - South
+      - East
+      - West
+      - Central
+      required: false
+    - id: 5
+      name: office_location
+      label: office location
+      hint: null
+      type: select_multiple
+      options:
+      - North
+      - South
+      - East
+      - West
+      - Central
+      required: false
+    - id: 6
+      name: contact_method
+      label: contact method
+      hint: null
+      type: select_one
+      options:
+      - email
+      - phone
+      - mail
+      - chat
+      required: false
+    - id: 7
+      name: contact_method_2
+      label: contact method 2
+      hint: null
+      type: select_one
+      options:
+      - email
+      - phone
+      - mail
+      - chat
+      required: false
+    - id: 8
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: submitted_by
+      label: submitted by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitted_date
+      label: date submitted
+      hint: null
+      type: date
+      options: []
+      required: false

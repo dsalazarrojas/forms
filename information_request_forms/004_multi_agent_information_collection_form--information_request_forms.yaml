@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: Multi Agent Information Collection Form
+    pages:
+    - id: 1
+      name: project_name
+      label: Project Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: role
+      label: Role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: project_type
+      label: Project Type
+      hint: null
+      type: select_one
+      options:
+      - Project
+      - Partnership
+      - Staffing
+      required: false
+    - id: 7
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - other
+      required: false
+    - id: 11
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - Information Request Forms
+      - other
+      required: false
+    - id: 12
+      name: description
+      label: Description
+      hint: Please provide a short description
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: output_file_name
+      label: Output File Name
+      hint: Please provide a name for the output file
+      type: text
+      options: []
+      required: false

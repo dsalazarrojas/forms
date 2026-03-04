@@ -1,0 +1,333 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Colleague Performance Evaluation Survey
+    pages:
+      - id: 1
+        name: evaluator_name
+        label: Your Name
+        hint: Optional for anonymity
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: evaluator_email
+        label: Your Email
+        hint: For follow-up if needed
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: evaluator_department
+        label: Your Department
+        hint: Where you work
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: evaluation_date
+        label: Evaluation Date
+        hint: Date of this evaluation
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: colleague_name
+        label: Colleague Being Evaluated
+        hint: Full name
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: colleague_department
+        label: Colleague Department
+        hint: Their department
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: colleague_title
+        label: Colleague Job Title
+        hint: Their position
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: working_relationship
+        label: Your Working Relationship
+        hint: How do you work together
+        type: select_one
+        options:
+          - Direct Team Member
+          - Cross-Functional Partner
+          - Same Department Different Team
+          - Manager
+          - Direct Report
+          - Client or Internal Customer
+          - Other
+        required: true
+      - id: 9
+        name: relationship_duration
+        label: How Long Have You Worked Together
+        hint: Duration of collaboration
+        type: select_one
+        options:
+          - Less than 3 months
+          - 3-6 months
+          - 6-12 months
+          - 1-2 years
+          - 2-5 years
+          - Over 5 years
+        required: true
+      - id: 10
+        name: project_collaboration
+        label: Projects You Have Collaborated On
+        hint: Describe key projects
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: work_quality
+        label: Work Quality Rating
+        hint: Quality of their work
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 12
+        name: work_quality_comments
+        label: Work Quality Comments
+        hint: Specific examples
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: reliability
+        label: Reliability Rating
+        hint: Can you count on them
+        type: select_one
+        options:
+          - Always Reliable
+          - Usually Reliable
+          - Sometimes Reliable
+          - Rarely Reliable
+          - Not Reliable
+        required: true
+      - id: 14
+        name: reliability_comments
+        label: Reliability Comments
+        hint: Examples of reliability
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: communication
+        label: Communication Skills Rating
+        hint: How well they communicate
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 16
+        name: communication_comments
+        label: Communication Comments
+        hint: Specific observations
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: teamwork
+        label: Teamwork Rating
+        hint: How well they work with others
+        type: select_one
+        options:
+          - Excellent Team Player
+          - Very Good Team Player
+          - Good Team Player
+          - Fair Team Player
+          - Poor Team Player
+        required: true
+      - id: 18
+        name: teamwork_comments
+        label: Teamwork Comments
+        hint: Examples of teamwork
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: problem_solving
+        label: Problem Solving Skills Rating
+        hint: How they handle challenges
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 20
+        name: problem_solving_comments
+        label: Problem Solving Comments
+        hint: Specific examples
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: initiative
+        label: Initiative Rating
+        hint: Do they take initiative
+        type: select_one
+        options:
+          - Always Takes Initiative
+          - Usually Takes Initiative
+          - Sometimes Takes Initiative
+          - Rarely Takes Initiative
+          - Waits to Be Told
+        required: true
+      - id: 22
+        name: initiative_comments
+        label: Initiative Comments
+        hint: Examples of initiative
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: adaptability
+        label: Adaptability Rating
+        hint: How they handle change
+        type: select_one
+        options:
+          - Very Adaptable
+          - Adaptable
+          - Somewhat Adaptable
+          - Resistant to Change
+          - Very Resistant
+        required: true
+      - id: 24
+        name: adaptability_comments
+        label: Adaptability Comments
+        hint: Examples of adaptability
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: time_management
+        label: Time Management Rating
+        hint: How well they manage time
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 26
+        name: time_management_comments
+        label: Time Management Comments
+        hint: Specific observations
+        type: text
+        options: []
+        required: false
+      - id: 27
+        name: expertise
+        label: Job Knowledge and Expertise Rating
+        hint: Level of expertise
+        type: select_one
+        options:
+          - Expert Level
+          - Very Knowledgeable
+          - Knowledgeable
+          - Developing
+          - Needs Improvement
+        required: true
+      - id: 28
+        name: expertise_comments
+        label: Expertise Comments
+        hint: Areas of strength
+        type: text
+        options: []
+        required: false
+      - id: 29
+        name: strengths
+        label: Top Strengths
+        hint: What are they best at
+        type: text
+        options: []
+        required: true
+      - id: 30
+        name: areas_for_improvement
+        label: Areas for Improvement
+        hint: Where could they improve
+        type: text
+        options: []
+        required: true
+      - id: 31
+        name: notable_achievements
+        label: Notable Achievements
+        hint: Recent accomplishments
+        type: text
+        options: []
+        required: false
+      - id: 32
+        name: leadership_potential
+        label: Leadership Potential
+        hint: Do they show leadership
+        type: select_one
+        options:
+          - Strong Leadership Potential
+          - Some Leadership Potential
+          - Individual Contributor Focus
+          - Not Leadership Oriented
+          - Not Observed
+        required: true
+      - id: 33
+        name: would_work_again
+        label: Would You Want to Work With Them Again
+        hint: Future collaboration
+        type: select_one
+        options:
+          - Definitely Yes
+          - Probably Yes
+          - Neutral
+          - Probably No
+          - Definitely No
+        required: true
+      - id: 34
+        name: recommendation
+        label: Overall Recommendation
+        hint: How would you recommend them
+        type: select_one
+        options:
+          - Highly Recommend
+          - Recommend
+          - Recommend With Reservations
+          - Cannot Recommend
+        required: true
+      - id: 35
+        name: additional_feedback
+        label: Additional Feedback
+        hint: Any other comments
+        type: text
+        options: []
+        required: false

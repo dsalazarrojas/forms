@@ -1,0 +1,147 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: AGENT RAINMAKER Example Form Additional Information
+    pages:
+    - id: 1
+      name: section_header_intro
+      label: '--- Form Introduction ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Please enter your complete name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: We'll use this for follow-up communications
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: submission_date
+      label: Date of submission
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: satisfaction
+      label: How satisfied are you with AGENT RAINMAKER Example Form Additional Information?
+      hint: null
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 6
+      name: overall_rating
+      label: Overall rating (1-10)
+      hint: 1 = worst, 10 = best
+      type: integer
+      options: []
+      required: true
+    - id: 7
+      name: experience_aspects
+      label: Which aspects applied to your experience with AGENT RAINMAKER Example
+        Form Additional Information? (select all)
+      hint: Leave blank if none
+      type: select_multiple
+      options:
+      - Easy to use
+      - Fast
+      - Reliable
+      - Missing feature
+      - Confusing
+      - Well designed
+      required: false
+    - id: 8
+      name: open_feedback
+      label: What would you improve or change about AGENT RAINMAKER Example Form Additional
+        Information?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: additional_comments
+      label: Additional comments or notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_preference
+      label: Preferred contact method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - SMS
+      - No contact needed
+      required: false
+    - id: 11
+      name: phone_number
+      label: Phone number
+      hint: Include country code if international
+      type: phone
+      options: []
+      required: false
+    - id: 12
+      name: submission_time
+      label: Time of submission
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: primary_use_case
+      label: Primary use case for this form
+      hint: How do you primarily use this form?
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: frequency_of_use
+      label: How often do you use this form?
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Rarely
+      - First time
+      required: false
+    - id: 15
+      name: recommendation_likelihood
+      label: How likely are you to recommend this form to others?
+      hint: 1 = not likely, 10 = extremely likely
+      type: integer
+      options: []
+      required: false

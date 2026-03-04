@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Website Downtime Incident Form
+    pages:
+    - id: 1
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: incident_duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: error_message
+      label: Error Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: root_cause
+      label: Root Cause
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: affected_areas
+      label: Affected Areas
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: resolution_steps
+      label: Resolution Steps
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: impact_on_business
+      label: Impact On Business
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: incident_reporter
+      label: Incident Reporter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: incident_reporter_email
+      label: Incident Reporter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: incident_reporter_phone
+      label: Incident Reporter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: incident_reporter_job_title
+      label: Incident Reporter Job Title
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,103 @@
+inputSchema:
+  type: object
+  properties:
+    title: IT System Access Offboarding Form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_id
+      label: Employee Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: system_access
+      label: System Access
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: access_type
+      label: Access Type
+      hint: null
+      type: select_one
+      options:
+      - Admin
+      - User
+      - Read-Only
+      required: false
+    - id: 8
+      name: access_level
+      label: Access Level
+      hint: null
+      type: select_one
+      options:
+      - Full
+      - Limited
+      required: false
+    - id: 9
+      name: access_expiration
+      label: Access Expiration
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: manager_phone
+      label: Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: manager_title
+      label: Manager Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: system_access_expiration
+      label: System Access Expiration
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: reason_for_deactivation
+      label: Reason for Deactivation
+      hint: null
+      type: text
+      options: []
+      required: false

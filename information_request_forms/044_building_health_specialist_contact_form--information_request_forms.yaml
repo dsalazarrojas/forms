@@ -1,0 +1,250 @@
+inputSchema:
+  type: object
+  properties:
+    title: Building Health Specialist Contact Form
+    pages:
+    - id: 1
+      name: contact_name
+      label: Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization
+      label: Organization
+      hint: Company or organization
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_date
+      label: Contact Date
+      hint: Date of inquiry
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: property_name
+      label: Property Name
+      hint: Name of property
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: property_address
+      label: Property Address
+      hint: Full address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: property_type
+      label: Property Type
+      hint: Classification
+      type: select_one
+      options:
+      - Residential
+      - Commercial Office
+      - Retail
+      - Industrial
+      - Mixed Use
+      - Institutional
+      - Other
+      required: true
+    - id: 10
+      name: building_size
+      label: Building Size
+      hint: Square footage
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: year_built
+      label: Year Built
+      hint: Construction year
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: inquiry_type
+      label: Inquiry Type
+      hint: Type of service needed
+      type: select_one
+      options:
+      - Building Health Assessment
+      - Indoor Air Quality Testing
+      - Mold Inspection
+      - Water Damage Assessment
+      - Hazardous Materials Survey
+      - Energy Audit
+      - General Consultation
+      - Other
+      required: true
+    - id: 13
+      name: primary_concern
+      label: Primary Concern
+      hint: Main issue
+      type: select_one
+      options:
+      - Air Quality Issues
+      - Mold or Mildew
+      - Water Damage
+      - Chemical Contamination
+      - Asbestos Concerns
+      - Lead Concerns
+      - Pest Infestation
+      - Ventilation Problems
+      - Multiple Issues
+      - Other
+      required: true
+    - id: 14
+      name: concern_description
+      label: Concern Description
+      hint: Describe in detail
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: symptoms_reported
+      label: Health Symptoms Reported
+      hint: Any occupant symptoms
+      type: select_multiple
+      options:
+      - None
+      - Respiratory Issues
+      - Headaches
+      - Allergies
+      - Fatigue
+      - Eye Irritation
+      - Skin Irritation
+      - Nausea
+      - Other
+      required: true
+    - id: 16
+      name: affected_areas
+      label: Affected Areas
+      hint: Which areas are affected
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: duration_of_issue
+      label: Duration of Issue
+      hint: How long has this existed
+      type: select_one
+      options:
+      - Less than 1 Week
+      - 1-4 Weeks
+      - 1-3 Months
+      - 3-12 Months
+      - Over 1 Year
+      - Not Sure
+      required: true
+    - id: 18
+      name: previous_assessments
+      label: Previous Assessments
+      hint: Have you had inspections before
+      type: select_one
+      options:
+      - Yes - Within 1 Year
+      - Yes - Over 1 Year Ago
+      - No - Never
+      required: true
+    - id: 19
+      name: urgency
+      label: Urgency Level
+      hint: How urgent is this
+      type: select_one
+      options:
+      - Emergency - Immediate
+      - High - Within 1 Week
+      - Medium - Within 1 Month
+      - Low - Flexible Timing
+      required: true
+    - id: 20
+      name: preferred_assessment_date
+      label: Preferred Assessment Date
+      hint: When to schedule
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: access_availability
+      label: Access Availability
+      hint: When is property accessible
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: occupants_present
+      label: Occupants Present
+      hint: Is building occupied
+      type: select_one
+      options:
+      - Yes - Fully Occupied
+      - Yes - Partially Occupied
+      - No - Vacant
+      - No - Under Renovation
+      required: true
+    - id: 23
+      name: special_access_requirements
+      label: Special Access Requirements
+      hint: Any access notes
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: budget_range
+      label: Budget Range
+      hint: Estimated budget
+      type: select_one
+      options:
+      - Under $1,000
+      - $1,000 - $5,000
+      - $5,000 - $10,000
+      - $10,000 - $25,000
+      - Over $25,000
+      - Need Quote
+      required: false
+    - id: 25
+      name: how_did_you_hear
+      label: How Did You Hear About Us
+      hint: Referral source
+      type: select_one
+      options:
+      - Website
+      - Referral
+      - Search Engine
+      - Social Media
+      - Advertisement
+      - Other
+      required: false
+    - id: 26
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

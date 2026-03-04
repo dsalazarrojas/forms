@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: College Of Music Event Information Form
+    pages:
+    - id: 1
+      name: event_title
+      label: Event Title
+      hint: Name of musical performance or concert
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: event_start_time
+      label: Event Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: event_end_time
+      label: Event End Time
+      hint: Approximate duration
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: venue_name
+      label: Venue Name
+      hint: Concert hall, auditorium, or theater
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: venue_location
+      label: Venue Location
+      hint: Building and room number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: campus_location
+      label: On Campus or Off Campus
+      hint: null
+      type: select_one
+      options:
+      - On Campus
+      - Off Campus
+      required: true
+    - id: 8
+      name: event_type
+      label: Type of Music Event
+      hint: null
+      type: select_one
+      options:
+      - Concert
+      - Recital
+      - Performance
+      - Masterclass
+      - Music Festival
+      - Lecture Recital
+      - Ensemble Performance
+      - Other
+      required: true
+    - id: 9
+      name: performing_groups
+      label: Performing Groups or Ensembles
+      hint: Orchestra, choir, band, soloists, etc.
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: conductor_director
+      label: Conductor or Director
+      hint: Name of music director or conductor
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: featured_soloists
+      label: Featured Soloists or Guest Artists
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: program_overview
+      label: Program Overview
+      hint: Description of music and composers
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: program_details
+      label: Detailed Program Information
+      hint: List of pieces, movements, or selections
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: duration_minutes
+      label: Estimated Performance Duration (minutes)
+      hint: Length of performance
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: intermission
+      label: Intermission Included
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: seating_capacity
+      label: Venue Seating Capacity
+      hint: How many seats available
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: admission_cost
+      label: Admission Cost
+      hint: Free or ticket price
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: student_discounts
+      label: Student Discounts Available
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: ticket_sales_location
+      label: Where to Purchase Tickets
+      hint: Box office, online, at door, etc.
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: reservation_required
+      label: Reservation or RSVP Required
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: accessibility_information
+      label: Accessibility Information
+      hint: Wheelchair access, parking, etc.
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: childcare_available
+      label: Childcare Available
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: parking_information
+      label: Parking Information
+      hint: Available parking options
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: special_notes
+      label: Special Notes or Announcements
+      hint: Any additional information
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: contact_person
+      label: Event Contact Person
+      hint: For questions or inquiries
+      type: text
+      options: []
+      required: true

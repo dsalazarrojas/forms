@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Incident Report Closure Acknowledgement Form
+    pages:
+    - id: 1
+      name: incident_report_closer
+      label: Incident Report Closer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: incident_report_closer_name
+      label: Report Closer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: incident_report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: incident_report_time
+      label: Report Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: incident_report_closer_reason
+      label: Report Closer Reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: incident_report_closer_note
+      label: Report Closer Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: incident_report_closer_email
+      label: Report Closer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: incident_report_closer_phone
+      label: Report Closer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: incident_report_closer_comment
+      label: Report Closer Comment
+      hint: null
+      type: note
+      options: []
+      required: false

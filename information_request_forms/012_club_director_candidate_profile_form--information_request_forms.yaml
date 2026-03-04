@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Club Director Candidate Profile Form
+    pages:
+    - id: 1
+      name: candidate_name
+      label: Candidate Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: candidate_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: candidate_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: current_position
+      label: Current Position in Club
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: years_in_club
+      label: Years Involved with Club
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: leadership_experience
+      label: Previous Leadership Experience
+      hint: Describe any leadership roles
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: vision_statement
+      label: Vision for Club Direction
+      hint: Describe your vision
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: key_initiatives
+      label: Key Initiatives You Would Propose
+      hint: What would you focus on
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: strengths
+      label: Key Strengths
+      hint: Your top 3-5 strengths
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: areas_development
+      label: Areas for Development
+      hint: Skills you want to improve
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: time_commitment
+      label: Available Time Commitment
+      hint: Hours per week available
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: financial_management
+      label: Financial Management Experience
+      hint: null
+      type: select_one
+      options:
+      - No Experience
+      - Basic
+      - Intermediate
+      - Advanced
+      - Expert
+      required: true
+    - id: 13
+      name: conflict_resolution
+      label: Conflict Resolution Skills
+      hint: Rate your ability
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 14
+      name: communication_skills
+      label: Communication Skills
+      hint: Rate your communication ability
+      type: select_one
+      options:
+      - Poor
+      - Fair
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 15
+      name: references
+      label: References
+      hint: Names and contacts of 2-3 references
+      type: text
+      options: []
+      required: false

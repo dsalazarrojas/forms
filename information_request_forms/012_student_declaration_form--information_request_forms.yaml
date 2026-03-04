@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Declaration Form
+    pages:
+    - id: 1
+      name: student_declaration_form
+      label: Student Declaration Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: student_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_number
+      label: student_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: student_id
+      label: student_id
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1234}'
+      - '{''value'': 5678}'
+      - '{''value'': 9012}'
+      required: true
+    - id: 7
+      name: declaration_date
+      label: declaration_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: declaration_time
+      label: declaration_time
+      hint: null
+      type: time
+      options: []
+      required: false

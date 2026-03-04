@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Seasonal Travel Time Off Form
+    pages:
+    - id: 1
+      name: seasonal_travel_time_off_form
+      label: Seasonal Travel Time Off Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id_number
+      label: Employee ID Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: seasonal_travel_start_date
+      label: Seasonal Travel Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: seasonal_travel_end_date
+      label: Seasonal Travel End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: reason_for_seasonal_travel
+      label: Reason For Seasonal Travel
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: destination
+      label: Destination
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: seasonal_travel_days
+      label: Seasonal Travel Days
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: seasonal_travel_days_of_week
+      label: Seasonal Travel Days of Week
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: seasonal_travel_travel_type
+      label: Seasonal Travel Travel Type
+      hint: null
+      type: select_one
+      options:
+      - Business
+      - Personal
+      - Both
+      required: true
+    - id: 11
+      name: seasonal_travel_requesting_officer
+      label: Seasonal Travel Requesting Officer
+      hint: null
+      type: select_one
+      options:
+      - Manager
+      - Director
+      - Both
+      required: false
+    - id: 12
+      name: seasonal_travel_travel_status
+      label: Seasonal Travel Travel Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Denied
+      required: true
+    - id: 13
+      name: seasonal_travel_comments
+      label: Seasonal Travel Comments
+      hint: null
+      type: text
+      options: []
+      required: false

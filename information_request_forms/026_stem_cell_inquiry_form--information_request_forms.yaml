@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stem Cell Inquiry Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Cardiology
+      - Oncology
+      - Radiology
+      required: true
+    - id: 10
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Cancer
+      - Diabetes
+      - Heart Failure
+      - Stroke
+      - Alzheimer's
+      required: true
+    - id: 11
+      name: inquiry_type
+      label: Inquiry Type
+      hint: null
+      type: select_one
+      options:
+      - In-person
+      - Phone
+      - Email
+      - Chat
+      required: true
+    - id: 12
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: stem_cell_related_condition
+      label: Stem Cell Related Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Stem Cell Therapies
+      - Stem Cell Treatments
+      - Stem Cell Procedures
+      - Stem Cell Research
+      required: false
+    - id: 14
+      name: clinic_name
+      label: Clinic Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: contact_number_2
+      label: Contact Number 2
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: inquiry_date
+      label: Inquiry Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 18
+      name: public_inquiry
+      label: Public Inquiry
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 19
+      name: consent_form
+      label: Consent Form
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: stem_cell_info
+      label: Stem Cell Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: stem_cell_type
+      label: Stem Cell Type
+      hint: null
+      type: select_one
+      options:
+      - Autologous
+      - Allogeneic
+      - Isologeneic
+      required: true
+    - id: 22
+      name: stem_cell_source
+      label: Stem Cell Source
+      hint: null
+      type: select_one
+      options:
+      - Bone Marrow
+      - Adipose Tissue
+      - Peripheral Blood
+      required: true
+    - id: 23
+      name: stem_cell_dose
+      label: Stem Cell Dose
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: stem_cell_protocol
+      label: Stem Cell Protocol
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true

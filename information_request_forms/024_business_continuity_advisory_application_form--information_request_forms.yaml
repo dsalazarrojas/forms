@@ -1,0 +1,210 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Continuity Advisory Application Form
+    pages:
+    - id: 1
+      name: organization_information
+      label: -- Organization Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: organization_name
+      label: Organization Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization_type
+      label: Organization Type
+      hint: Type of organization
+      type: select_one
+      options:
+      - For-Profit Corporation
+      - Non-Profit
+      - Government Agency
+      - Healthcare Provider
+      - Financial Institution
+      - Manufacturing
+      - Technology
+      - Utilities
+      - Other
+      required: true
+    - id: 4
+      name: employee_count
+      label: Number of Employees
+      hint: Total staff count
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: annual_revenue
+      label: Annual Revenue Range
+      hint: Approximate annual revenue
+      type: select_one
+      options:
+      - Under 10 million
+      - 10-50 million
+      - 50-100 million
+      - 100-500 million
+      - 500 million - 1 billion
+      - 1+ billion
+      required: true
+    - id: 6
+      name: contact_information
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: contact_name
+      label: Contact Person Name
+      hint: Primary contact name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: contact_title
+      label: Contact Title
+      hint: Job title or position
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: contact_email
+      label: Contact Email
+      hint: Business email address
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: contact_phone
+      label: Contact Phone
+      hint: Business phone number
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: business_continuity_status
+      label: -- Business Continuity Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: current_readiness
+      label: Current Business Continuity Readiness
+      hint: Current state of continuity planning
+      type: select_one
+      options:
+      - No plan in place
+      - Initial assessment phase
+      - Plan in development
+      - Plan in place but untested
+      - Plan tested and updated
+      - Comprehensive program
+      required: true
+    - id: 13
+      name: critical_functions_identified
+      label: Critical Functions Identified
+      hint: Have you identified critical business functions
+      type: select_one
+      options:
+      - true
+      - false
+      - Partially
+      required: true
+    - id: 14
+      name: recovery_time_objective
+      label: Recovery Time Objective (RTO)
+      hint: Acceptable downtime in hours
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: recovery_point_objective
+      label: Recovery Point Objective (RPO)
+      hint: Acceptable data loss in minutes
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: advisory_needs
+      label: -- Advisory Needs --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: primary_advisory_area
+      label: Primary Advisory Need
+      hint: Main area requiring guidance
+      type: select_one
+      options:
+      - Business Continuity Plan Development
+      - Disaster Recovery Strategy
+      - Risk Assessment
+      - Plan Testing and Validation
+      - Technology Resilience
+      - Supply Chain Continuity
+      - Crisis Communication
+      - Employee Training
+      required: true
+    - id: 18
+      name: specific_challenges
+      label: Specific Challenges
+      hint: Detailed description of challenges
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: regulatory_requirements
+      label: Regulatory Requirements
+      hint: Any specific compliance needs
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: key_dependencies
+      label: Key Internal/External Dependencies
+      hint: Critical systems or partners
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: timeline
+      label: Advisory Timeline
+      hint: When do you need assistance
+      type: select_one
+      options:
+      - Immediately
+      - Within 1 month
+      - Within 3 months
+      - Within 6 months
+      - Within 1 year
+      - As soon as possible
+      required: true
+    - id: 22
+      name: budget_range
+      label: Budget Range
+      hint: Advisory budget
+      type: select_one
+      options:
+      - Under 10000
+      - 10000-25000
+      - 25000-50000
+      - 50000-100000
+      - 100000+
+      - Flexible
+      required: false
+    - id: 23
+      name: expected_outcomes
+      label: Expected Outcomes
+      hint: What would success look like
+      type: text
+      options: []
+      required: true

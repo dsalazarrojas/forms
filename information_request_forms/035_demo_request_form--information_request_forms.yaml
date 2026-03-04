@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Demo Request Form
+    pages:
+    - id: 1
+      name: business_name
+      label: Business Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name_of_interested_party
+      label: Name Of Interested Party
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: business_phone
+      label: Business Phone
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: business_email
+      label: Business Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: interested_business_product
+      label: Interested Business Product
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: interested_business_interest
+      label: Interested In
+      hint: null
+      type: select_one
+      options:
+      - Demo Product 1
+      - Demo Product 2
+      - Demo Product 3
+      required: false
+    - id: 7
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - In-person
+      required: false
+    - id: 8
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: business_address
+      label: Business Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: demo_date
+      label: Demo Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: demo_time
+      label: Demo Time
+      hint: null
+      type: time
+      options: []
+      required: false

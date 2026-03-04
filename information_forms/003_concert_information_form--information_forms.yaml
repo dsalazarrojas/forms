@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Concert Information Form
+    pages:
+    - id: 1
+      name: organizer_name
+      label: Organizer name
+      hint: Name of the primary contact or organization
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_phone
+      label: Contact phone number
+      hint: Best number to reach for clarifications
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: Business email for correspondence
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: event_title
+      label: Event title
+      hint: Official name of the concert or show
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: event_date
+      label: Event date
+      hint: Proposed date of the concert
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: venue_address
+      label: Venue address
+      hint: Full venue address including city and state
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: expected_attendance
+      label: Expected attendance
+      hint: Approximate number of attendees
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: technical_contacts
+      label: Technical contact names and phones
+      hint: Sound and lighting contacts
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: special_requirements
+      label: Special requirements or notes
+      hint: E g load in times or permits
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_documents
+      label: Additional documents required
+      hint: Indicate permits, riders, or contracts
+      type: note
+      options: []
+      required: false

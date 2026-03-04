@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: sponsor_information_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: sponsor_type
+      label: Sponsor Type
+      hint: null
+      type: select_multiple
+      options:
+      - Student Sponsorship
+      - Activity Sponsorship
+      - Event Sponsorship
+      required: false
+    - id: 6
+      name: sponsor_details
+      label: Sponsor Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: date_start
+      label: Date of Start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: date_end
+      label: Date of End
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: purpose
+      label: Purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: student_id
+      label: Student ID
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Media Policy Acceptance Form
+    pages:
+    - id: 1
+      name: title
+      label: Enter Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Enter Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Enter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Enter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: Enter Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: Enter Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: select_one
+      label: Select One
+      hint: Select an option
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 8
+      name: select_multiple
+      label: Select Multiple
+      hint: Select multiple options
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false

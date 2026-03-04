@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Résumé 'Tune Up' Questionnaire
+    pages:
+    - id: 1
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_one
+      options:
+      - Job Title
+      - Job Title 2
+      - Job Title 3
+      - Job Title 4
+      - Job Title 5
+      required: false
+    - id: 5
+      name: education_level
+      label: Education Level
+      hint: null
+      type: select_multiple
+      options:
+      - High School
+      - Bachelor
+      - Associate
+      - Master
+      - Doctorate
+      required: false
+    - id: 6
+      name: work_experience
+      label: Work Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: job_status
+      label: Job Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false
+    - id: 8
+      name: years_of_experience
+      label: Years of Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: expected_employment_type
+      label: Expected Employment Type
+      hint: null
+      type: select_multiple
+      options:
+      - Full Time
+      - Part-Time
+      - Freelance
+      required: false
+    - id: 10
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_address
+      label: Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: work_hours
+      label: Work Hours
+      hint: null
+      type: time
+      options: []
+      required: false

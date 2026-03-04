@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Return To Work Discussion Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_return
+      label: Date of return
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_of_return
+      label: Time of return
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: supervisor
+      label: Supervisor
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: manager
+      label: Manager
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: reason
+      label: Reason for return
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: date_of_absence
+      label: Date of absence
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: time_of_absence
+      label: Time of absence
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: reason_for_absence
+      label: Reason for absence
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: comments_for_absence
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: next_action
+      label: Next action
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: comments_for_next_action
+      label: Comments for next action
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: assigned_date
+      label: Assigned Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: assigned_time
+      label: Assigned Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: created_at
+      label: Created At
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Office Communication Memo
+    pages:
+    - id: 1
+      name: memo_title
+      label: Memo Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: memo_body
+      label: Memo Body
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: memo_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: memo_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: memo_to
+      label: To
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: memo_from
+      label: From
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: memo_location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: memo_priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: memo_files
+      label: Files
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: memo_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

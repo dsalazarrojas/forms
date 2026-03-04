@@ -1,0 +1,297 @@
+inputSchema:
+  type: object
+  properties:
+    title: Collateral Information Survey
+    pages:
+    - id: 1
+      name: borrower_name
+      label: Borrower Name
+      hint: Individual or business name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: borrower_type
+      label: Borrower Type
+      hint: Type of entity
+      type: select_one
+      options:
+      - Individual
+      - Corporation
+      - LLC
+      - Partnership
+      - Sole Proprietorship
+      - Non-Profit
+      required: true
+    - id: 3
+      name: loan_officer
+      label: Loan Officer Name
+      hint: Assigned officer
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: loan_number
+      label: Loan Number
+      hint: Reference number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: survey_date
+      label: Survey Date
+      hint: Date of submission
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: collateral_type
+      label: Type of Collateral
+      hint: Primary collateral type
+      type: select_one
+      options:
+      - Real Estate
+      - Vehicle
+      - Equipment
+      - Inventory
+      - Accounts Receivable
+      - Cash or Securities
+      - Jewelry or Valuables
+      - Intellectual Property
+      - Other
+      required: true
+    - id: 7
+      name: collateral_description
+      label: Collateral Description
+      hint: Detailed description
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: collateral_address
+      label: Collateral Address
+      hint: Location if applicable
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: year_manufactured
+      label: Year Manufactured
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: make
+      label: Make
+      hint: Manufacturer name
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: model
+      label: Model
+      hint: Model name or number
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: serial_number
+      label: Serial Number or VIN
+      hint: Identification number
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: appraised_value
+      label: Appraised Value
+      hint: Current appraised amount
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: appraisal_date
+      label: Appraisal Date
+      hint: When was it appraised
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: appraiser_name
+      label: Appraiser Name
+      hint: Who performed appraisal
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: purchase_price
+      label: Original Purchase Price
+      hint: When acquired
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: purchase_date
+      label: Purchase Date
+      hint: Date of acquisition
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: ownership_status
+      label: Ownership Status
+      hint: Do you own it outright
+      type: select_one
+      options:
+      - Owned Free and Clear
+      - Partially Financed
+      - Fully Financed
+      - Leased
+      required: true
+    - id: 19
+      name: existing_liens
+      label: Existing Liens
+      hint: Are there any liens
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 20
+      name: lien_holder
+      label: Lien Holder Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: lien_amount
+      label: Outstanding Lien Amount
+      hint: Amount owed
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: insurance_required
+      label: Insurance Required
+      hint: Is insurance needed
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 23
+      name: insurance_provider
+      label: Insurance Provider
+      hint: Insurance company
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: insurance_policy_number
+      label: Insurance Policy Number
+      hint: Policy identifier
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: insurance_coverage_amount
+      label: Insurance Coverage Amount
+      hint: Coverage value
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: insurance_expiry
+      label: Insurance Expiry Date
+      hint: When does insurance expire
+      type: date
+      options: []
+      required: false
+    - id: 27
+      name: condition_rating
+      label: Condition Rating
+      hint: Current condition
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 28
+      name: condition_notes
+      label: Condition Notes
+      hint: Any damage or issues
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: marketability
+      label: Marketability
+      hint: How easy to sell
+      type: select_one
+      options:
+      - Highly Marketable
+      - Marketable
+      - Somewhat Marketable
+      - Difficult to Sell
+      - Not Marketable
+      required: true
+    - id: 30
+      name: depreciation_rate
+      label: Depreciation Rate
+      hint: Expected depreciation
+      type: select_one
+      options:
+      - Low
+      - Moderate
+      - High
+      - Very High
+      required: true
+    - id: 31
+      name: storage_location
+      label: Storage Location
+      hint: Where is collateral kept
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: access_restrictions
+      label: Access Restrictions
+      hint: Any limitations
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: additional_collateral
+      label: Additional Collateral Offered
+      hint: Any other assets
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: supporting_documents
+      label: Supporting Documents Attached
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Title Document
+      - Registration
+      - Appraisal Report
+      - Insurance Certificate
+      - Purchase Receipt
+      - Photos
+      - Inspection Report
+      - None
+      required: true
+    - id: 35
+      name: borrower_signature
+      label: Borrower Certification
+      hint: I certify this information is accurate
+      type: select_one
+      options:
+      - Yes I Certify
+      - Other
+      required: true

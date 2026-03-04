@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Engineer Appraisal Form
+    pages:
+    - id: 1
+      name: first_page
+      label: First Page
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: employee_data
+      label: Employee Data
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: engineer_data
+      label: Engineer Data
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: project_details
+      label: Project Details
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: product_type
+      label: Product Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: recommended_changes
+      label: Recommended Changes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: rating_date
+      label: Rating Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: time_spent
+      label: Time Spent
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: appraiser_name
+      label: Appraiser Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: appraiser_department
+      label: Appraiser Department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: reviewer_name
+      label: Reviewer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: reviewer_department
+      label: Reviewer Department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: reviewer_title
+      label: Reviewer Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: reviewer_email
+      label: Reviewer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: reviewer_phone
+      label: Reviewer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: reviewer_notes
+      label: Reviewer Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: reviewer_signature
+      label: Reviewer Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: engineer_comments
+      label: Engineer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: engineer_signature
+      label: Engineer Signature
+      hint: null
+      type: note
+      options: []
+      required: false

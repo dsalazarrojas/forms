@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: Basketball Tryout Information Form
+    pages:
+    - id: 1
+      name: basic_info_header
+      label: -- Player Basic Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: player_name
+      label: Player Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: player_email
+      label: Player Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: school_year
+      label: School Year
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: profile_header
+      label: -- Athletic Profile --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: primary_position
+      label: Primary Position
+      hint: null
+      type: select_one
+      options:
+      - Point Guard
+      - Shooting Guard
+      - Small Forward
+      - Power Forward
+      - Center
+      required: true
+    - id: 7
+      name: secondary_position
+      label: Secondary Position
+      hint: null
+      type: select_one
+      options:
+      - Guard
+      - Forward
+      - Center
+      - None
+      required: true
+    - id: 8
+      name: previous_experience
+      label: Previous Team or Club Experience
+      hint: List most recent team
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: height_cm
+      label: Player Height (cm)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: weight_kg
+      label: Player Weight (kg)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: jersey_size
+      label: Preferred Jersey Size
+      hint: null
+      type: select_one
+      options:
+      - Adult S
+      - Adult M
+      - Adult L
+      - Adult XL
+      - Youth L
+      - Youth XL
+      required: true
+    - id: 12
+      name: medical_header
+      label: -- Health and Safety --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: asthma_or_respiratory
+      label: Does the player have asthma or respiratory issues?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: parent_consent_signed
+      label: Parent or Guardian Consent for Participation
+      hint: null
+      type: select_one
+      options:
+      - Yes, Signed
+      - Other
+      required: true
+    - id: 15
+      name: emergency_contact_number
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: date_submitted
+      label: Date of Submission
+      hint: null
+      type: date
+      options: []
+      required: true

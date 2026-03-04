@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Uniform Distribution Form
+    pages:
+    - id: 1
+      name: staff_member_id
+      label: staff member id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: staff_name
+      label: staff name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Accounting''}'
+      - '{''id'': 2, ''label'': ''Marketing''}'
+      - '{''id'': 3, ''label'': ''Sales''}'
+      required: false
+    - id: 4
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: number_of_uniforms
+      label: number of uniforms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: size
+      label: size
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Small''}'
+      - '{''id'': 2, ''label'': ''Medium''}'
+      - '{''id'': 3, ''label'': ''Large''}'
+      required: false
+    - id: 7
+      name: quantity_distributed
+      label: quantity distributed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: remarks
+      label: remarks
+      hint: null
+      type: text
+      options: []
+      required: false

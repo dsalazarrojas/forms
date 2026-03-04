@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: material_trace_error_report_form
+    pages:
+    - id: 1
+      name: batch_number
+      label: Batch Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: error_code
+      label: Error Code
+      hint: null
+      type: select_one
+      options:
+      - Batch error
+      - Material error
+      - Process error
+      - Material handling error
+      - Machine error
+      required: false
+    - id: 6
+      name: error_description
+      label: Error Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: batch_error_code
+      label: Batch Error Code
+      hint: null
+      type: select_multiple
+      options:
+      - Error 1
+      - Error 2
+      - Error 3
+      - Error 4
+      - Error 5
+      required: false
+    - id: 8
+      name: material_error_code
+      label: Material Error Code
+      hint: null
+      type: select_multiple
+      options:
+      - Error 1
+      - Error 2
+      - Error 3
+      - Error 4
+      - Error 5
+      required: false

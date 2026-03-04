@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: self_assessment_survey
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: example@example.com
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_survey
+      label: date_survey
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: training_hours
+      label: training_hours
+      hint: Hours trained
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: job_performance
+      label: job_performance
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Excellent''}'
+      - '{''label'': ''Good''}'
+      - '{''label'': ''Average''}'
+      - '{''label'': ''Needs improvement''}'
+      required: false
+    - id: 8
+      name: department
+      label: department
+      hint: Select department
+      type: select_multiple
+      options:
+      - '{''label'': ''Human Resources''}'
+      - '{''label'': ''Training and Development''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 9
+      name: training_programs
+      label: training_programs
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Leadership and Management''}'
+      - '{''label'': ''Communication and Interpersonal Relations''}'
+      - '{''label'': ''Time Management''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 10
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: training_hours_5_years
+      label: training_hours_5_years
+      hint: Hours trained 5 years ago
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tenant Incident Report Form
+    pages:
+    - id: 1
+      name: incident_report_form_first_page
+      label: Incident Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: tenant_incident_description_form
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: incident_date_form
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: tenant_incident_time_form
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: incident_category_form
+      label: Incident Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: incident_category_options
+      label: Select Category
+      hint: null
+      type: select_one
+      options:
+      - Dispute
+      - Lease Issue
+      - Repair Request
+      - Other
+      required: false
+    - id: 7
+      name: incident_reported_by
+      label: Reported By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: incident_reported_by_organisation
+      label: Reported By Organisation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: incident_status
+      label: Incident Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: incident_status_options
+      label: Select Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Closed
+      - Resolved
+      - On Hold
+      required: false
+    - id: 11
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: text
+      options: []
+      required: false

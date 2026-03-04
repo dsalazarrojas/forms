@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Individual Inventory Record Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: item_name
+      label: Item Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: item_description
+      label: Item Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: item_price
+      label: Item Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: item_quantity
+      label: Item Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: item_tags
+      label: Item Tags
+      hint: null
+      type: select_multiple
+      options:
+      - tag1
+      - tag2
+      - tag3
+      required: false
+    - id: 7
+      name: item_status
+      label: Item Status
+      hint: null
+      type: select_one
+      options:
+      - active
+      - inactive
+      - pending
+      required: false
+    - id: 8
+      name: item_date_received
+      label: Item Date Received
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: item_date_last_updated
+      label: Item Date Last Updated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: item_date_last_checked
+      label: Item Date Last Checked
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: item_date_last_checked_by
+      label: Item Date Last Checked By
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: item_notes
+      label: Item Notes
+      hint: null
+      type: note
+      options: []
+      required: false

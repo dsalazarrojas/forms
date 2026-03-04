@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: travel-agency-incident-form
+    pages:
+    - id: 1
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: trip_type
+      label: Trip Type
+      hint: null
+      type: select_one
+      options:
+      - Domestic
+      - International
+      - Group Tour
+      - Corporate
+      - Cruise
+      required: false
+    - id: 3
+      name: incident_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: select_one
+      options:
+      - Airport
+      - Hotel
+      - City
+      - Resort
+      - Other
+      required: false
+    - id: 6
+      name: incident_status
+      label: Incident Status
+      hint: null
+      type: select_one
+      options:
+      - Closed
+      - In Progress
+      - Resolved
+      required: false
+    - id: 7
+      name: incident_resolution
+      label: Incident Resolution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: incident_assigned_to
+      label: Incident Assigned To
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: travel_agency
+      label: Travel Agency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: incident_notes
+      label: Incident Notes
+      hint: null
+      type: note
+      options: []
+      required: false

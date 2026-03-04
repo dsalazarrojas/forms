@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Advise Request Form
+    pages:
+    - id: 1
+      name: student_advise_request_form
+      label: Request Advice
+      hint: null
+      type: select_multiple
+      options:
+      - Select the areas you are interested in or need more advise on
+      - Other
+      required: false
+    - id: 2
+      name: topic_areas
+      label: Topics or Programs
+      hint: null
+      type: select_multiple
+      options:
+      - Select from one or multiple topics or programs that interest you
+      - such as computer science
+      - biology
+      - or engineering
+      required: false
+    - id: 3
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false

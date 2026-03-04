@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: feedback_on_inciting_incidents
+    pages:
+    - id: 1
+      name: incident_account
+      label: Incident Account
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: impact_rating
+      label: Impact Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: suggestion
+      label: Suggestion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: impact_rating_scale
+      label: Impact Rating Scale
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 5
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Paramedic Call Log Submission
+    pages:
+    - id: 1
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: unit_number
+      label: Unit Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: call_type
+      label: Call Type
+      hint: null
+      type: select_one
+      options:
+      - Cardiac
+      - Medical
+      - Trauma
+      required: false
+    - id: 5
+      name: unit_id
+      label: Unit ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: call_status
+      label: Call Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Completed
+      - Held
+      required: false
+    - id: 7
+      name: patient_age
+      label: Patient Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: patient_gender
+      label: Patient Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Unknown
+      required: false
+    - id: 9
+      name: patient_weight
+      label: Patient Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: patient_height
+      label: Patient Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: vital_signs
+      label: Vital Signs
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: patient_condition
+      label: Patient Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medication_administered
+      label: Medication Administered
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - 'True'
+      - 'False'
+      required: false
+    - id: 14
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: unit_location
+      label: Unit Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: call_outcome
+      label: Call Outcome
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Transferred
+      - Cancelled
+      required: false
+    - id: 18
+      name: outcome_comments
+      label: Outcome Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: paramedic_name
+      label: Paramedic Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: paramedic_number
+      label: Paramedic Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: supervisor_name
+      label: Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: supervisor_number
+      label: Supervisor Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: unit_number_alt
+      label: Unit Number (Alternative)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: unit_id_alt
+      label: Unit ID (Alternative)
+      hint: null
+      type: text
+      options: []
+      required: false

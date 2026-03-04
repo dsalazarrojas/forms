@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Therapy Leave Form
+    pages:
+    - id: 1
+      name: user_input
+      label: user_input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employee_email
+      label: employee_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: therapy_session_date
+      label: therapy_session_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: therapy_session_time
+      label: therapy_session_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: duration_hours
+      label: duration_hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: purpose_of_leave
+      label: purpose_of_leave
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - pending
+      - approved
+      - denied
+      required: false
+    - id: 11
+      name: reason_for_denial
+      label: reason_for_denial
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: manager_name
+      label: manager_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: manager_email
+      label: manager_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitter
+      label: submitter
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: manager_approvals
+      label: manager_approvals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 18
+      name: form_id
+      label: form_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: created_by
+      label: created_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: created_date
+      label: created_date
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: updated_by
+      label: updated_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: updated_date
+      label: updated_date
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: last_updated_by
+      label: last_updated_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: last_updated_date
+      label: last_updated_date
+      hint: null
+      type: text
+      options: []
+      required: false

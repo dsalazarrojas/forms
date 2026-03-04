@@ -1,0 +1,62 @@
+inputSchema:
+  type: object
+  properties:
+    title: Staff Appraisal Form
+    pages:
+    - id: 1
+      name: job_description_upload
+      label: job_description_upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_objectives_upload
+      label: job_objectives_upload
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: performance_evaluation
+      label: performance_evaluation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: tasks_achievements_failures_2022
+      label: tasks_achievements_failures_2022
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: expectations_2023
+      label: expectations_2023
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: uploaded_files
+      label: uploaded_files
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false

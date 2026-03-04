@@ -1,0 +1,166 @@
+inputSchema:
+  type: object
+  properties:
+    title: Veterinary Release Form
+    pages:
+    - id: 1
+      name: owner_name
+      label: Owner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: veterinary_name
+      label: Veterinary Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_release
+      label: Date of Release
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: veterinary_signature
+      label: Veterinary Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: owner_signature
+      label: Owner Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: veterinary_contact
+      label: Veterinary Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: veterinary_address
+      label: Veterinary Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: owner_address
+      label: Owner Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: veterinary_phone
+      label: Veterinary Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: veterinary_email
+      label: Veterinary Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: date_of_last_visit
+      label: Date of Last Visit
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: veterinary_license_no
+      label: Veterinary License No
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: owner_license_no
+      label: Owner License No
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: owner_notes
+      label: Owner Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: veterinary_notes
+      label: Veterinary Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: owner_agreement
+      label: Owner Agreement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: veterinary_agreement
+      label: Veterinary Agreement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: veterinary_release
+      label: Veterinary Release
+      hint: null
+      type: select_one
+      options:
+      - Authorization to make decisions on behalf of owner
+      - Authorization for examination and treatment
+      - Authorization for medication and surgery
+      - Authorization for emergency situations
+      required: false
+    - id: 19
+      name: owner_release
+      label: Owner Release
+      hint: null
+      type: select_one
+      options:
+      - Authorization for examination and treatment
+      - Authorization for medication and surgery
+      - Authorization for emergency situations
+      - Authorization to make decisions on behalf of owner
+      required: false
+    - id: 20
+      name: medication_list
+      label: Medication List
+      hint: null
+      type: select_multiple
+      options:
+      - Medication 1
+      - Medication 2
+      - Medication 3
+      required: false
+    - id: 21
+      name: surgery_list
+      label: Surgery List
+      hint: null
+      type: select_multiple
+      options:
+      - Surgery 1
+      - Surgery 2
+      - Surgery 3
+      required: false

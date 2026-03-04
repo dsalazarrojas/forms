@@ -1,0 +1,154 @@
+inputSchema:
+  type: object
+  properties:
+    title: Congregation Information Update Form
+    pages:
+    - id: 1
+      name: section_personal_info
+      label: -- Member Identification --
+      hint: Please help us keep our records accurate
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: member_full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: member_id
+      label: Member ID (if known)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: section_contact_updates
+      label: -- Contact Information Updates --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email_address
+      label: Primary Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: mobile_phone
+      label: Mobile Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: home_phone
+      label: Home Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: residential_address
+      label: Residential Address
+      hint: Include City, State, and Zip
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: section_household
+      label: -- Household and Family --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: marital_status
+      label: Marital Status
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Married
+      - Widowed
+      - Divorced
+      required: false
+    - id: 12
+      name: household_size
+      label: Number of People in Household
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: children_names
+      label: Names of Children (if any)
+      hint: List names and ages
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_engagement
+      label: -- Congregation Engagement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: ministry_involvement
+      label: Current Ministry or Volunteer Groups
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Choir/Music
+      - Youth Ministry
+      - Outreach/Charity
+      - Education/Small Groups
+      - Hospitality/Ushering
+      - Administration
+      required: false
+    - id: 16
+      name: communication_preferences
+      label: How would you like to receive congregation updates?
+      hint: null
+      type: select_multiple
+      options:
+      - Email Newsletter
+      - Text Messages
+      - Physical Mail
+      - Phone Calls
+      required: true
+    - id: 17
+      name: section_submission
+      label: -- Information Accuracy --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: info_accuracy_declaration
+      label: I confirm that the updated information is correct
+      hint: null
+      type: select_one
+      options:
+      - Confirmed
+      - Other
+      required: true
+    - id: 19
+      name: update_date
+      label: Date of Update
+      hint: null
+      type: date
+      options: []
+      required: true

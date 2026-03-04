@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Peer Coaching Support Request
+    pages:
+    - id: 1
+      name: request_info
+      label: Request Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: support_request
+      label: Support Request
+      hint: null
+      type: select_one
+      options:
+      - Coaching
+      - Guidance
+      - Support
+      - Other
+      required: false
+    - id: 7
+      name: coaching_program
+      label: Coaching Program
+      hint: null
+      type: select_one
+      options:
+      - High School
+      - College
+      - University
+      - Corporate
+      - Other
+      required: false
+    - id: 8
+      name: coaching_coordinator
+      label: Coaching Coordinator
+      hint: null
+      type: select_multiple
+      options:
+      - High School
+      - College
+      - University
+      - Corporate
+      - Other
+      required: false
+    - id: 9
+      name: school
+      label: School
+      hint: null
+      type: select_one
+      options:
+      - High School
+      - College
+      - University
+      - Corporate
+      - Other
+      required: false
+    - id: 10
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - On-site
+      - Off-site
+      - Remote
+      required: false
+    - id: 11
+      name: preferred_date
+      label: Preferred Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: preferred_time
+      label: Preferred Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: follow_up_reminders
+      label: Follow-up Reminders
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 14
+      name: follow_up_frequency
+      label: Follow-up Frequency
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Biweekly
+      - Monthly
+      - Quarterly
+      - Semi-Monthly
+      required: false
+    - id: 15
+      name: follow_up_message
+      label: Follow-up Message
+      hint: null
+      type: text
+      options: []
+      required: false

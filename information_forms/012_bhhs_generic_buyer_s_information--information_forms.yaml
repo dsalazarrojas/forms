@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: BHHS Generic - Buyer(s) Information
+    pages:
+    - id: 1
+      name: section_primary_buyer
+      label: -- Primary Buyer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: primary_buyer_name
+      label: Primary Buyer Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: primary_buyer_phone
+      label: Primary Buyer Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: primary_buyer_email
+      label: Primary Buyer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: section_secondary_buyer
+      label: -- Secondary Buyer Information (if applicable) --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: secondary_buyer_name
+      label: Secondary Buyer Name
+      hint: Full name
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: secondary_buyer_phone
+      label: Secondary Buyer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: secondary_buyer_email
+      label: Secondary Buyer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: section_purchase_details
+      label: -- Purchase Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: preapproved
+      label: Are you pre-approved for a mortgage?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - In Process
+      required: true
+    - id: 11
+      name: down_payment_amount
+      label: Down Payment Amount Available
+      hint: In dollars
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: financing_needed
+      label: Will financing be needed?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: true
+    - id: 13
+      name: price_range
+      label: Preferred Price Range
+      hint: Minimum to maximum price
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: timeline
+      label: Timeline for Purchase
+      hint: When do you want to close?
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: property_type_preference
+      label: Preferred Property Type
+      hint: Single family, condo, townhome, etc.
+      type: select_one
+      options:
+      - Single Family Home
+      - Condo
+      - Townhome
+      - Multi-Family
+      - Land
+      - Other
+      required: false
+    - id: 16
+      name: must_have_features
+      label: Must-Have Features
+      hint: Bedrooms, bathrooms, garage, etc.
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: desired_location
+      label: Desired Location or Area
+      hint: Neighborhoods or cities of interest
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: additional_notes
+      label: Additional Notes or Special Requirements
+      hint: null
+      type: text
+      options: []
+      required: false

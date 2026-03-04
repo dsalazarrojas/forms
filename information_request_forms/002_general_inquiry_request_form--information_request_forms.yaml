@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: General Inquiry Request Form
+    pages:
+    - id: 1
+      name: general_inquiry_request_form_page_1
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: inquiry_type
+      label: Inquiry Type
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 3
+      name: inquiry_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: inquiry_contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: inquiry_contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: inquiry_contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: inquiry_message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false

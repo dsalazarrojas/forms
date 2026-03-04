@@ -1,0 +1,107 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Education Content Distribution Request Form
+    pages:
+    - id: 1
+      name: education_content_distribution_request_form
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: education_content_type
+      label: Content Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 2, ''name'': ''Video''}'
+      - '{''id'': 3, ''name'': ''Audio''}'
+      - '{''id'': 4, ''name'': ''Document''}'
+      required: true
+    - id: 3
+      name: training_needs_assessment
+      label: Training Needs Assessment
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 5, ''name'': ''Needs Assessment''}'
+      - '{''id'': 6, ''name'': ''Needs Analysis''}'
+      - '{''id'': 7, ''name'': ''Needs Analysis and Assessment''}'
+      required: true
+    - id: 4
+      name: content_requests
+      label: Content Requests
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 8, ''name'': ''Request 1''}'
+      - '{''id'': 9, ''name'': ''Request 2''}'
+      - '{''id'': 10, ''name'': ''Request 3''}'
+      required: true
+    - id: 5
+      name: content_distribution_request
+      label: Content Distribution Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 11, ''name'': ''Email''}'
+      - '{''id'': 12, ''name'': ''Phone''}'
+      - '{''id'': 13, ''name'': ''Phone and Email''}'
+      required: true
+    - id: 7
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: form_completed_by
+      label: Form Completed By
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 14, ''name'': ''Form Completed By''}'
+      - '{''id'': 15, ''name'': ''Not Given''}'
+      required: false
+    - id: 9
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: form_submitted_at
+      label: Form Submitted At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

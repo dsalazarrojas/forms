@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Training Records Access Form
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: training_program
+      label: Training Program
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: status
+      label: Training Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 5
+      name: manager_comments
+      label: Manager Comments
+      hint: null
+      type: text
+      options: []
+      required: false

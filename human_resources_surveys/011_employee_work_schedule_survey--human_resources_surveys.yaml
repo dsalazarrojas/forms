@@ -1,0 +1,147 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Work Schedule Survey
+    pages:
+    - id: 1
+      name: shift_preferences
+      label: Work Shifts
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: schedule_satisfaction
+      label: Schedule Satisfaction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: shift_hours
+      label: Shift Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: break_durations
+      label: Break Durations
+      hint: null
+      type: select_one
+      options:
+      - 5-10
+      - 10-15
+      - 15-30
+      - 30-60
+      - 60 or more
+      required: false
+    - id: 5
+      name: break_frequency
+      label: Break Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: work_hours
+      label: Work Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: schedule_satisfaction_2
+      label: Schedule Satisfaction 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: break_type
+      label: Break Type
+      hint: null
+      type: select_one
+      options:
+      - Short break
+      - Long break
+      - Paid break
+      - Other
+      required: false
+    - id: 9
+      name: break_duration
+      label: Break Duration
+      hint: null
+      type: select_one
+      options:
+      - 5 minutes
+      - 10-15
+      - 15-30
+      - 30-60
+      - 60 or more
+      required: false
+    - id: 10
+      name: shift_satisfaction
+      label: Shift Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: work_shift
+      label: Work Shift
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Day
+      - Night
+      required: false
+    - id: 12
+      name: schedule_satisfaction_3
+      label: Schedule Satisfaction 3
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: schedule_satisfaction_4
+      label: Schedule Satisfaction 4
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: schedule_satisfaction_5
+      label: Schedule Satisfaction 5
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,257 @@
+inputSchema:
+  type: object
+  properties:
+    title: Career Satisfaction Survey
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: Full name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: tenure
+      label: Tenure with Organization
+      hint: How long have you worked here?
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: survey_date
+      label: Survey Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: role_satisfaction
+      label: Satisfaction with Current Role
+      hint: Overall satisfaction with your job
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 8
+      name: responsibility_fit
+      label: How Well Your Responsibilities Fit Your Skills
+      hint: null
+      type: select_one
+      options:
+      - Perfect match
+      - Good fit
+      - Adequate
+      - Some misalignment
+      - Poor fit
+      required: true
+    - id: 9
+      name: growth_opportunities
+      label: Career Growth Opportunities Available
+      hint: Advancement possibilities in your role
+      type: select_one
+      options:
+      - Excellent opportunities
+      - Good opportunities
+      - Some opportunities
+      - Limited opportunities
+      - No opportunities
+      required: true
+    - id: 10
+      name: advancement_likelihood
+      label: Likelihood of Advancement Within Organization
+      hint: Can you move up?
+      type: select_one
+      options:
+      - Very likely
+      - Likely
+      - Possible
+      - Unlikely
+      - Very unlikely
+      required: true
+    - id: 11
+      name: manager_support
+      label: Support from Manager for Career Development
+      hint: Does your manager help you grow?
+      type: select_one
+      options:
+      - Very supportive
+      - Supportive
+      - Neutral
+      - Unsupportive
+      - Very unsupportive
+      required: true
+    - id: 12
+      name: professional_development
+      label: Access to Professional Development Opportunities
+      hint: Training, courses, certifications?
+      type: select_one
+      options:
+      - Excellent access
+      - Good access
+      - Some access
+      - Limited access
+      - No access
+      required: true
+    - id: 13
+      name: career_goals_clarity
+      label: Clarity of Career Goals and Path
+      hint: Do you know where you're headed?
+      type: select_one
+      options:
+      - Very clear
+      - Clear
+      - Somewhat clear
+      - Unclear
+      - Very unclear
+      required: true
+    - id: 14
+      name: training_achievement
+      label: Achievement of Goal-Related Training
+      hint: Have you completed desired training?
+      type: select_one
+      options:
+      - All training completed
+      - Most training completed
+      - Some training completed
+      - Little training completed
+      - No training completed
+      required: true
+    - id: 15
+      name: skills_development
+      label: Opportunity to Develop New Skills
+      hint: null
+      type: select_one
+      options:
+      - Excellent opportunities
+      - Good opportunities
+      - Adequate opportunities
+      - Limited opportunities
+      - No opportunities
+      required: true
+    - id: 16
+      name: compensation_satisfaction
+      label: Satisfaction with Compensation and Benefits
+      hint: Salary, benefits, retirement plans?
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 17
+      name: advancement_obstacles
+      label: Obstacles to Career Advancement
+      hint: What prevents you from progressing?
+      type: select_multiple
+      options:
+      - Limited positions available
+      - Lack of necessary skills
+      - Insufficient experience
+      - Limited education
+      - Lack of mentorship
+      - Discrimination or bias
+      - Geographic limitations
+      - Economic factors
+      - Personal circumstances
+      - Company policies
+      required: false
+    - id: 18
+      name: career_expectations_reality
+      label: How Well Does Reality Match Your Career Expectations?
+      hint: Career going as planned?
+      type: select_one
+      options:
+      - Exceeds expectations
+      - Meets expectations
+      - Mostly meets expectations
+      - Falls short of expectations
+      - Significantly exceeds or falls short
+      required: true
+    - id: 19
+      name: job_security_satisfaction
+      label: Satisfaction with Job Security
+      hint: Confident you will keep your job?
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 20
+      name: work_life_balance
+      label: Work-Life Balance Satisfaction
+      hint: Balance between work and personal life
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 21
+      name: retention_likelihood
+      label: Likelihood of Staying with Organization
+      hint: Will you continue working here?
+      type: select_one
+      options:
+      - Very likely - plan to stay long-term
+      - Likely - no plans to leave soon
+      - Neutral - undecided
+      - Unlikely - considering leaving
+      - Very unlikely - actively job hunting
+      required: true
+    - id: 22
+      name: improvement_suggestions
+      label: What Could Improve Your Career Satisfaction?
+      hint: Specific suggestions for change
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: mentor_availability
+      label: Access to Mentors or Role Models
+      hint: Do you have mentorship support?
+      type: select_one
+      options:
+      - Yes - have active mentor
+      - Yes - but informal relationship
+      - No - would like mentorship
+      - No - not interested
+      required: false
+    - id: 24
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other thoughts about your career satisfaction?
+      type: text
+      options: []
+      required: false

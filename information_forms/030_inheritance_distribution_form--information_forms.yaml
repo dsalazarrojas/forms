@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: Inheritance Distribution Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: First name of the family member
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Last name of the family member
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: Email address of the family member
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: Phone number of the family member
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: estate_value
+      label: Estate Value
+      hint: Value of the estate
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: distribution
+      label: Distribution Preference
+      hint: How would you like to distribute your estate?
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: distribution_type
+      label: Distribution Type
+      hint: Type of distribution preference
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: beneficiary_1_name
+      label: Beneficiary 1 Name
+      hint: Name of the beneficiary 1
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: beneficiary_1_share
+      label: Beneficiary 1 Share
+      hint: Share of the estate for beneficiary 1
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: beneficiary_2_name
+      label: Beneficiary 2 Name
+      hint: Name of the beneficiary 2
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: beneficiary_2_share
+      label: Beneficiary 2 Share
+      hint: Share of the estate for beneficiary 2
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: beneficiary_3_name
+      label: Beneficiary 3 Name
+      hint: Name of the beneficiary 3
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: beneficiary_3_share
+      label: Beneficiary 3 Share
+      hint: Share of the estate for beneficiary 3
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: beneficiary_4_name
+      label: Beneficiary 4 Name
+      hint: Name of the beneficiary 4
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: beneficiary_4_share
+      label: Beneficiary 4 Share
+      hint: Share of the estate for beneficiary 4
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: review_and_update
+      label: Review and Update
+      hint: Review and update the distribution plan
+      type: note
+      options: []
+      required: false

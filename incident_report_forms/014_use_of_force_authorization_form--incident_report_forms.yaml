@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Use Of Force Authorization Form
+    pages:
+    - id: 1
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: officer_in_charge
+      label: Officer In Charge
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: officer_in_charge_id
+      label: Officer In Charge ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: suspect_name
+      label: Suspect Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: suspect_id
+      label: Suspect ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: description
+      label: Description
+      hint: Provide a detailed description of the incident
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: force_used
+      label: Force Used
+      hint: null
+      type: select_one
+      options:
+      - Police Car
+      - Pepper spray
+      - Taser
+      required: false
+    - id: 9
+      name: injuries_sustained
+      label: Injuries Sustained
+      hint: null
+      type: select_multiple
+      options:
+      - Head
+      - Neck
+      - Back
+      - Face
+      - Arm
+      - Leg
+      - Hand
+      - Foot
+      - Other
+      required: false
+    - id: 10
+      name: officer_in_charge_signature
+      label: Officer In Charge Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: suspect_signature
+      label: Suspect Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: incident_reporter
+      label: Incident Reporter
+      hint: null
+      type: select_one
+      options:
+      - Officer
+      - Witness
+      - Witness 1
+      - Witness 2
+      required: false
+    - id: 13
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: completed_by
+      label: Completed By
+      hint: null
+      type: text
+      options: []
+      required: false

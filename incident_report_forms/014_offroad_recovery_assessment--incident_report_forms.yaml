@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Offroad Recovery Assessment
+    pages:
+    - id: 1
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_details
+      label: Vehicle Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: hazards
+      label: Hazards
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: photos
+      label: Photos
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: recovery_services
+      label: Recovery Services
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: event_organizer
+      label: Event Organiser
+      hint: null
+      type: text
+      options: []
+      required: false

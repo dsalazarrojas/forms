@@ -1,0 +1,165 @@
+inputSchema:
+  type: object
+  properties:
+    title: HR Reporting Dashboard Access Application
+    pages:
+    - id: 1
+      name: manager_request
+      label: Manager Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_request
+      label: Employee Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: dashboard_name
+      label: Dashboard Name
+      hint: null
+      type: select_one
+      options:
+      - Analytics 1
+      - Analytics 2
+      required: true
+    - id: 7
+      name: dashboard_access
+      label: Dashboard Access
+      hint: null
+      type: select_multiple
+      options:
+      - Analytics 1
+      - Analytics 2
+      - Analytics 3
+      required: true
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: manager_comments
+      label: Manager Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: manager_approval
+      label: Manager Approval
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Denied
+      - Pending
+      required: false
+    - id: 11
+      name: request_status
+      label: Request Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Denied
+      - New
+      required: true
+    - id: 12
+      name: comments_status
+      label: Comments Status
+      hint: null
+      type: select_one
+      options:
+      - New
+      - In Progress
+      - Resolved
+      required: false
+    - id: 13
+      name: request_type
+      label: Request Type
+      hint: null
+      type: select_multiple
+      options:
+      - HR
+      - IT
+      - Manager
+      required: false
+    - id: 14
+      name: request_date_range
+      label: Request Date Range
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: manager_request_date
+      label: Manager Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: employee_comments
+      label: Employee Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: manager_comments
+      label: Manager Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: manager_request_status
+      label: Manager Request Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Denied
+      - Pending
+      required: false
+    - id: 19
+      name: request_comments
+      label: Request Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: manager_notes
+      label: Manager Notes
+      hint: null
+      type: text
+      options: []
+      required: false

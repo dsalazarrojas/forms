@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Zoological Animal Escape Incident Report Form
+    pages:
+    - id: 1
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: incident_type
+      label: animal_escape_incident
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: zoo_location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: escaped_animals
+      label: escaped_animals
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: animal_details
+      label: animal_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: incident_description
+      label: incident_description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: reported_by
+      label: reported_by
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: reported_by_contact
+      label: reported_by_contact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: report_date
+      label: report_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: reported_by_email
+      label: reported_by_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: incident_reported_by
+      label: incident_reported_by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: animal_escape_incident_reported_by
+      label: animal_escape_incident_reported_by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: incident_reported_to
+      label: incident_reported_to
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: incident_reported_to_2
+      label: incident_reported_to_2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: incident_reported_to_3
+      label: incident_reported_to_3
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: animal_species
+      label: animal_species
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: animal_number
+      label: animal_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: animal_escape_description
+      label: animal_escape_description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: animal_type
+      label: animal_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: incident_reported_to_4
+      label: incident_reported_to_4
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: incident_reported_to_5
+      label: incident_reported_to_5
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: incident_reported_to_6
+      label: incident_reported_to_6
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: incident_reported_to_7
+      label: incident_reported_to_7
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: incident_reported_to_8
+      label: incident_reported_to_8
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false

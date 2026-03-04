@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Research Publication Support Request Form
+    pages:
+    - id: 1
+      name: request_form
+      label: Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: manuscript_title
+      label: manuscript_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: manuscript_status
+      label: manuscript_status
+      hint: null
+      type: select_one
+      options:
+      - status1
+      - status2
+      - status3
+      required: false
+    - id: 4
+      name: manuscript_type
+      label: manuscript_type
+      hint: null
+      type: select_multiple
+      options:
+      - type1
+      - type2
+      - type3
+      required: false
+    - id: 5
+      name: request_for
+      label: request_for
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: manuscript_details
+      label: manuscript_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: author
+      label: author
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: manuscript_file
+      label: manuscript_file
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: publication_details
+      label: publication_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: publication_date
+      label: publication_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: publication_status
+      label: publication_status
+      hint: null
+      type: select_one
+      options:
+      - status1
+      - status2
+      - status3
+      required: false
+    - id: 12
+      name: research_group
+      label: research_group
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: manuscript_status_update
+      label: manuscript_status_update
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: publication_notes
+      label: publication_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: manuscript_revision
+      label: manuscript_revision
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: manuscript_format
+      label: manuscript_format
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submission_status
+      label: submission_status
+      hint: null
+      type: select_one
+      options:
+      - status1
+      - status2
+      - status3
+      required: false
+    - id: 21
+      name: submission_date
+      label: submission_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: manuscript_revision_status
+      label: manuscript_revision_status
+      hint: null
+      type: select_one
+      options:
+      - status1
+      - status2
+      - status3
+      required: false
+    - id: 23
+      name: research_group_status
+      label: research_group_status
+      hint: null
+      type: select_one
+      options:
+      - status1
+      - status2
+      - status3
+      required: false
+    - id: 24
+      name: submission_note
+      label: submission_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submission_status_update
+      label: submission_status_update
+      hint: null
+      type: text
+      options: []
+      required: false

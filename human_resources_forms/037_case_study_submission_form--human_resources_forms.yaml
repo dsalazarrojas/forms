@@ -1,0 +1,374 @@
+inputSchema:
+  type: object
+  properties:
+    title: Case Study Submission Form
+    pages:
+    - id: 1
+      name: submission_header
+      label: Case Study Submission Form
+      hint: Submit your case study assignment for job application
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: submission_id
+      label: Submission ID Number
+      hint: Reference number
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: submission_date
+      label: Submission Date
+      hint: Date of submission
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: applicant_info
+      label: Applicant Information
+      hint: Your details
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: applicant_name
+      label: Full Name
+      hint: Legal name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: address
+      label: Street Address
+      hint: Complete address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: city
+      label: City
+      hint: City name
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state
+      label: State or Province
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: zip_code
+      label: ZIP or Postal Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: linkedin_profile
+      label: LinkedIn Profile URL
+      hint: Professional profile
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: portfolio_website
+      label: Portfolio or Website URL
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: position_info
+      label: Position Information
+      hint: Job details
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: position_title
+      label: Position You Are Applying For
+      hint: Job title
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: job_posting_id
+      label: Job Posting ID or Reference
+      hint: If available
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: application_date
+      label: When Did You Apply
+      hint: Application date
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: case_study_info
+      label: Case Study Information
+      hint: Assignment details
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: case_study_title
+      label: Case Study Title
+      hint: Your project name
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: case_study_topic
+      label: Case Study Topic or Theme
+      hint: Subject area
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: assignment_date
+      label: When Was Assignment Given
+      hint: Assignment date
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: deadline_date
+      label: Submission Deadline
+      hint: Due date
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: time_spent
+      label: Approximate Time Spent
+      hint: Hours invested
+      type: select_one
+      options:
+      - Less than 5 hours
+      - 5 to 10 hours
+      - 10 to 20 hours
+      - 20 to 40 hours
+      - Over 40 hours
+      required: true
+    - id: 24
+      name: submission_format
+      label: Submission Format
+      hint: File type
+      type: select_one
+      options:
+      - PDF document
+      - Word document
+      - PowerPoint presentation
+      - Video presentation
+      - Website or link
+      - Multiple formats
+      - Other
+      required: true
+    - id: 25
+      name: file_attachments
+      label: Files Attached
+      hint: Submission files
+      type: select_one
+      options:
+      - Yes - all files attached
+      - Yes - partial
+      - No - will send separately
+      - No - link provided
+      required: true
+    - id: 26
+      name: file_names
+      label: List of File Names
+      hint: Attached files
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: case_summary
+      label: Executive Summary
+      hint: Brief overview
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: problem_statement
+      label: Problem Statement
+      hint: Issue addressed
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: methodology
+      label: Methodology Used
+      hint: Approach taken
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: key_findings
+      label: Key Findings
+      hint: Main discoveries
+      type: text
+      options: []
+      required: true
+    - id: 31
+      name: recommendations
+      label: Recommendations
+      hint: Proposed solutions
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: implementation_plan
+      label: Implementation Plan
+      hint: How to execute
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: expected_outcomes
+      label: Expected Outcomes
+      hint: Projected results
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: challenges
+      label: Challenges Encountered
+      hint: Difficulties faced
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: assumptions
+      label: Key Assumptions Made
+      hint: Working assumptions
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: data_sources
+      label: Data Sources Used
+      hint: Information sources
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: tools_used
+      label: Tools or Frameworks Used
+      hint: Analytical tools
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: original_work
+      label: Original Work Declaration
+      hint: Authenticity
+      type: note
+      options: []
+      required: false
+    - id: 39
+      name: work_is_original
+      label: I Confirm This Is My Original Work
+      hint: Authenticity confirmation
+      type: select_one
+      options:
+      - Yes - entirely my own work
+      - Yes - with minor assistance
+      - No - collaborative work
+      required: true
+    - id: 40
+      name: sources_cited
+      label: Have You Cited All Sources
+      hint: Attribution
+      type: select_one
+      options:
+      - Yes - all sources cited
+      - Yes - most sources cited
+      - No - some missing
+      required: true
+    - id: 41
+      name: ai_assistance
+      label: Did You Use AI Tools
+      hint: AI usage disclosure
+      type: select_one
+      options:
+      - No - no AI used
+      - Yes - for research only
+      - Yes - for drafting
+      - Yes - for analysis
+      - Yes - for editing
+      required: true
+    - id: 42
+      name: ai_details
+      label: Describe AI Tool Usage
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 43
+      name: confidentiality
+      label: Confidentiality Agreement
+      hint: Non-disclosure
+      type: note
+      options: []
+      required: false
+    - id: 44
+      name: confidentiality_agreed
+      label: I Agree to Keep This Assignment Confidential
+      hint: NDA agreement
+      type: select_one
+      options:
+      - Yes - I agree
+      - No - I do not agree
+      required: true
+    - id: 45
+      name: presentation_availability
+      label: Are You Available to Present
+      hint: Presentation option
+      type: select_one
+      options:
+      - Yes - in person
+      - Yes - virtually
+      - Yes - either format
+      - No - not available
+      required: false
+    - id: 46
+      name: presentation_dates
+      label: Available Presentation Dates
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 47
+      name: questions_comments
+      label: Questions or Comments
+      hint: Additional information
+      type: text
+      options: []
+      required: false
+    - id: 48
+      name: applicant_signature
+      label: Applicant Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true

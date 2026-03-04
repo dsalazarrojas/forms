@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: HR Complaint Information Form
+    pages:
+    - id: 1
+      name: complaint_information
+      label: Complaint information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: complaint_type
+      label: Complaint type
+      hint: null
+      type: select_one
+      options:
+      - HR Policy
+      - Work Environment
+      - Other
+      required: false
+    - id: 3
+      name: complaint_description
+      label: Description of complaint
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: complaint_location
+      label: Location of complaint
+      hint: null
+      type: select_multiple
+      options:
+      - Office
+      - Remote
+      required: false
+    - id: 5
+      name: employee_name
+      label: Employee name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: manager_name
+      label: Manager name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - HR
+      - Management
+      required: false
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false

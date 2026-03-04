@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: wire transfer form
+    pages:
+    - id: 1
+      name: wire_transfer_form_section1
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: wire_transfer_form_section2
+      label: account_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: wire_transfer_form_section3
+      label: amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: wire_transfer_form_section4
+      label: routing_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: wire_transfer_form_section5
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: wire_transfer_form_section6
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: wire_transfer_form_section7
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: wire_transfer_form_section8
+      label: wire_transfer_amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: wire_transfer_form_section9
+      label: account_holder
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: wire_transfer_form_section10
+      label: transfer_type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      required: true
+    - id: 11
+      name: wire_transfer_form_section11
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false

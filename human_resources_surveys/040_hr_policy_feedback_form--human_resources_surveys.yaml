@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: HR Policy Feedback Form
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: policy_name
+      label: policy_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: suggestion
+      label: Suggestion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: comment
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: company_policies
+      label: Company Policies
+      hint: null
+      type: select_multiple
+      options:
+      - Company Handbook
+      - Code of Conduct
+      - Employee Handbook
+      required: false
+    - id: 7
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false

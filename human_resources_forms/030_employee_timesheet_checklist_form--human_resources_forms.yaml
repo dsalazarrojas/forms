@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Timesheet Checklist Form
+    pages:
+    - id: 1
+      name: employee_work_hours
+      label: work_hours
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 2
+      name: employee_attendance
+      label: attendance
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: employee_overtime
+      label: overtime
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: manager_comments
+      label: manager_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: employee_comments
+      label: employee_comments
+      hint: null
+      type: note
+      options: []
+      required: false

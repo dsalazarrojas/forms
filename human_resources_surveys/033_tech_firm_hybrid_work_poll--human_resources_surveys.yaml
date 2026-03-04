@@ -1,0 +1,154 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tech Firm Hybrid Work Poll
+    pages:
+    - id: 1
+      name: poll_preferences
+      label: Poll Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Hybrid Model
+      - Hybrid Model with remote days
+      - Hybrid Model with flexible hours
+      - Full Remote
+      - Full Office
+      - Other (please specify)
+      required: false
+    - id: 2
+      name: poll_challenges
+      label: Poll Challenges
+      hint: null
+      type: select_one
+      options:
+      - Time zone differences
+      - Communication barriers
+      - Lack of equipment or resources
+      - Difficulty adapting to new technology
+      - Other (please specify)
+      required: false
+    - id: 3
+      name: poll_comments
+      label: Poll Comments
+      hint: Please provide your thoughts on hybrid work
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: poll_hours
+      label: Poll Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: poll_days
+      label: Poll Days
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: poll_location
+      label: Poll Location
+      hint: null
+      type: select_one
+      options:
+      - Home
+      - Office
+      - Other (please specify)
+      required: false
+    - id: 7
+      name: poll_comments_2
+      label: Poll Comments 2
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Somewhat Agree
+      - Neutral
+      - Somewhat Disagree
+      - Strongly Disagree
+      required: false
+    - id: 8
+      name: poll_frequency
+      label: Poll Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Yearly
+      required: false
+    - id: 9
+      name: poll_time
+      label: Poll Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: poll_start_date
+      label: Poll Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: poll_end_date
+      label: Poll End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: poll_start_time
+      label: Poll Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: poll_end_time
+      label: Poll End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: poll_location_2
+      label: Poll Location 2
+      hint: null
+      type: select_multiple
+      options:
+      - Home
+      - Office
+      - Remote
+      required: false
+    - id: 15
+      name: poll_comments_3
+      label: Poll Comments 3
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Somewhat Agree
+      - Neutral
+      - Somewhat Disagree
+      - Strongly Disagree
+      required: false
+    - id: 16
+      name: poll_comments_4
+      label: Poll Comments 4
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Somewhat Agree
+      - Neutral
+      - Somewhat Disagree
+      - Strongly Disagree
+      required: false

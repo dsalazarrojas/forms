@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Graduation Information Collection
+    pages:
+    - id: 1
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_email
+      label: Student Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: student_phone
+      label: Student Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: graduation_date
+      label: Graduation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: graduation_time
+      label: Graduation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: graduation_ceremony
+      label: Graduation Ceremony
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: student_participated
+      label: Participated in Ceremony?
+      hint: null
+      type: select_one
+      options:
+      - Ceremony
+      - Not Attended
+      required: false
+    - id: 8
+      name: graduation_location
+      label: Graduation Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: student_data
+      label: Student Data
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: graduation_details
+      label: Graduation Details
+      hint: null
+      type: text
+      options: []
+      required: false

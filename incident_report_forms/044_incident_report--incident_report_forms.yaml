@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: incident_report
+    pages:
+    - id: 1
+      name: incident_date
+      label: Incident Date
+      hint: Enter the date of the incident
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: incident_cause
+      label: Incident Cause
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: incident_cause_selected
+      label: Select Cause
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: incident_cause_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: incident_cause_other_value
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: incident_injured_person
+      label: Injured Person
+      hint: Enter the name of the injured person
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: incident_injured_person_other
+      label: Other (injured person)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: incident_reported_by
+      label: Reported By
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Doe
+      - Jane
+      required: false
+    - id: 12
+      name: incident_reported_by_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: incident_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Resolved
+      - Pending with Follow-up
+      required: false
+    - id: 14
+      name: incident_status_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: incident_goal_followup
+      label: Follow-up
+      hint: null
+      type: select_multiple
+      options:
+      - Follow-up 1
+      - Follow-up 2
+      - Follow-up 3
+      required: false
+    - id: 16
+      name: incident_note
+      label: Note
+      hint: Additional comments or notes
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: incident_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: incident_phone
+      label: Phone
+      hint: prophets
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: incident_uploads
+      label: Uploads
+      hint: Upload attachments or files
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: incident_attachments
+      label: Attachments
+      hint: Upload attachments
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: incident_comments
+      label: Comments
+      hint: Comments
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: incident_other_attachment
+      label: Other (attach)
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: incident_investigation
+      label: Investigation
+      hint: null
+      type: select_one
+      options:
+      - Under Investigation
+      - Complete
+      - Not investigated
+      required: false
+    - id: 24
+      name: incident_investigation_other
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: incident_investigation_other_value
+      label: Other (please specify)
+      hint: null
+      type: text
+      options: []
+      required: false

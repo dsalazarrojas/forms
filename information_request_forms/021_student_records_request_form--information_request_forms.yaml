@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Records Request Form
+    pages:
+    - id: 1
+      name: student_records_request_form
+      label: Student Records Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_id
+      label: Student ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: exam_results
+      label: Exam Results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: homework_results
+      label: Homework Results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 8
+      name: category
+      label: Category
+      hint: null
+      type: select_multiple
+      options:
+      - Information Request Forms
+      - Student Records Request Forms
+      - Other Forms
+      required: false
+    - id: 9
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: student_records_request_form_output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false

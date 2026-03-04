@@ -1,0 +1,174 @@
+inputSchema:
+  type: object
+  properties:
+    title: Substance Discrepancy Report
+    pages:
+    - id: 1
+      name: report_details
+      label: Report Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: substance_name
+      label: Substance Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: substance_description
+      label: Substance Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: mismatched_substances
+      label: Mismatched Substances
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: mismatched_substances_details
+      label: Mismatched Substances Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: mismatched_substances_details_substance_name
+      label: Substance Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: mismatched_substances_details_substance_type
+      label: Substance Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: mismatched_substances_details_quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: incident_reporter
+      label: Incident Reporter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: incident_manager
+      label: Incident Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: incident_date_reported
+      label: Date Reported
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: investigation_result
+      label: Investigation Result
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: root_cause
+      label: Root Cause
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: recommended_actions
+      label: Recommended Actions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: report_closed
+      label: Report Closed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: review_comments
+      label: Review Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 22
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 23
+      name: incident_status
+      label: Incident Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

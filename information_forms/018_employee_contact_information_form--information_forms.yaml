@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Contact Information Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: job_title
+      label: Job title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Engineering
+      - Finance
+      - HR
+      required: false
+    - id: 9
+      name: manager_id
+      label: Manager ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_name
+      label: Emergency contact name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact_phone
+      label: Emergency contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emergency_contact_email
+      label: Emergency contact email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact_relation
+      label: Emergency contact relation
+      hint: null
+      type: text
+      options: []
+      required: false

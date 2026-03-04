@@ -1,0 +1,75 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: CTK Employee Release
+    pages:
+      - id: 1
+        name: employee_name
+        label: Employee name
+        hint: Full legal name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: employee_id
+        label: Employee ID
+        hint: Internal identifier
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: release_date
+        label: Release date
+        hint: Date of release or termination
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: reason_for_release
+        label: Reason for release
+        hint: Brief explanation
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: final_pay_details
+        label: Final pay details
+        hint: Amounts or references
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: property_return_status
+        label: Company property returned
+        hint: Laptops badges keys etc
+        type: select_one
+        options:
+          - All returned
+          - Partial returned
+          - None returned
+        required: true
+      - id: 7
+        name: hr_representative
+        label: HR representative
+        hint: Person handling process
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: comments
+        label: Additional comments
+        hint: Notes about release process
+        type: text
+        options: []
+        required: false

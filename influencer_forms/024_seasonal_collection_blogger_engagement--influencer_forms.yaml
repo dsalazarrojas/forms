@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: seasonal_collection_blogger_engagement
+    pages:
+    - id: 1
+      name: blogger
+      label: Bloggers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: seasonal_campaign
+      label: Seasonal Campaign
+      hint: null
+      type: select_one
+      options:
+      - Campaign 1
+      - Campaign 2
+      - Campaign 3
+      required: true
+    - id: 3
+      name: social_media_links
+      label: Social media links
+      hint: null
+      type: select_multiple
+      options:
+      - Instagram
+      - Facebook
+      - Twitter
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: outreach_preferences
+      label: Outreach Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - Phone
+      - Email
+      - Mail
+      required: false
+    - id: 7
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: created_at
+      label: Created
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: updated_at
+      label: Updated
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: data
+      label: Data
+      hint: null
+      type: text
+      options: []
+      required: false

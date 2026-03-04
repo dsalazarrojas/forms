@@ -1,0 +1,179 @@
+inputSchema:
+  type: object
+  properties:
+    title: Minor Injuries Form
+    pages:
+    - id: 1
+      name: injury_details
+      label: Injury Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_details
+      label: Employee Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: injury_description
+      label: Describe Injury
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: injury_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: injury_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: injury_location
+      label: Location
+      hint: Provide location where injury occurred
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: witness_details
+      label: Witness Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: witness_name
+      label: Witness Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: witness_relationship
+      label: Relationship
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: witness_phone
+      label: Witness Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: witness_email
+      label: Witness Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: witness_statement
+      label: Witness Statement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: employee_phone
+      label: Employee Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medical_attention
+      label: Medical Attention
+      hint: Has employee received medical attention?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: medical_provider
+      label: Medical Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: medical_provider_relationship
+      label: Relationship
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: medical_report
+      label: Medical Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: supervisor_name
+      label: Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: supervisor_phone
+      label: Supervisor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: employee_signature
+      label: Employee Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: witness_signature
+      label: Witness Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: supervisor_signature
+      label: Supervisor Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: medical_signature
+      label: Medical Provider Signature
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: income_tax_information_form_in_hindi
+    pages:
+    - id: 1
+      name: tax_income
+      label: Tax Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: tax_year
+      label: Tax Year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: gross_income
+      label: Gross Income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: tax_deductions
+      label: Tax Deductions
+      hint: null
+      type: select_multiple
+      options:
+      - Income from rent
+      - Income from dividend
+      - Interest on savings
+      - Other income
+      required: false
+    - id: 5
+      name: tax_payers_name
+      label: Tax Payer's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: pan_number
+      label: PAN Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: aadhaar_number
+      label: Aadhaar Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

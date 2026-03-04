@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: monthly_market_update_request
+    pages:
+    - id: 1
+      name: subscriber_details
+      label: Subscriber Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: topic_preferences
+      label: Topic Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: delivery_frequency
+      label: Delivery Frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: delivery_email
+      label: Delivery Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: delivery_phone
+      label: Delivery Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: delivery_address
+      label: Delivery Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: delivery_note
+      label: Delivery Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: form_submit
+      label: Form Submit
+      hint: null
+      type: text
+      options: []
+      required: false

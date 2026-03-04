@@ -1,0 +1,218 @@
+inputSchema:
+  type: object
+  properties:
+    title: Building Access Authorization Form
+    pages:
+    - id: 1
+      name: personal_info
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID or identification number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: department_section
+      label: -- Employment Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: position_title
+      label: Position title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: manager_name
+      label: Direct manager name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: start_date
+      label: Employment start date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: employment_type
+      label: Employment type
+      hint: null
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Contractor
+      - Temporary
+      - Consultant
+      required: true
+    - id: 13
+      name: access_details
+      label: -- Access Authorization Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: access_type
+      label: Type of access required
+      hint: null
+      type: select_multiple
+      options:
+      - Main entrance
+      - Restricted areas
+      - Server room
+      - Executive offices
+      - Lab facilities
+      - Storage areas
+      - Parking garage
+      - Roof access
+      required: true
+    - id: 15
+      name: access_level
+      label: Access level
+      hint: null
+      type: select_one
+      options:
+      - Basic - Public areas only
+      - Standard - Work area access
+      - Extended - Multiple departments
+      - Administrative - All areas except secure
+      - Full - All areas
+      required: true
+    - id: 16
+      name: access_purpose
+      label: Purpose of access
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: access_duration
+      label: Duration of access needed
+      hint: null
+      type: select_one
+      options:
+      - Permanent
+      - Temporary - specify end date
+      - 30 days
+      - 60 days
+      - 90 days
+      required: true
+    - id: 18
+      name: end_date
+      label: Access end date (if temporary)
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: badge_section
+      label: -- Badge and Keys --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: badge_type
+      label: Badge type needed
+      hint: null
+      type: select_one
+      options:
+      - Photo ID badge
+      - Key card
+      - Biometric access
+      - Combination code
+      - Other
+      required: true
+    - id: 21
+      name: existing_badges
+      label: Any existing access cards or badges to return?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 22
+      name: security_section
+      label: -- Security Acknowledgment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: security_training
+      label: Completed security training?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - No, needs scheduling
+      - Exempted
+      required: true
+    - id: 24
+      name: agreement_acknowledgment
+      label: I acknowledge understanding of building security policies
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - false
+      required: true
+    - id: 25
+      name: background_check
+      label: Background check completed?
+      hint: null
+      type: select_one
+      options:
+      - Yes, on file
+      - Yes, submitted
+      - No, needed
+      required: true

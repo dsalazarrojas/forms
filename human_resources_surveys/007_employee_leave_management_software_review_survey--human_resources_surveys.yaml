@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: employee_leave_management_software_review_survey
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: leave_management_software_used
+      label: Leave Management Software Used
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Microsoft''}'
+      - '{''id'': 2, ''label'': ''Google''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: true
+    - id: 3
+      name: satisfaction_level
+      label: Satisfaction Level
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Very Satisfied''}'
+      - '{''id'': 2, ''label'': ''Somewhat Satisfied''}'
+      - '{''id'': 3, ''label'': ''Somewhat Dissatisfied''}'
+      - '{''id'': 4, ''label'': ''Very Dissatisfied''}'
+      required: true
+    - id: 4
+      name: improvement_priorities
+      label: Improvement Priorities
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: leave_type
+      label: Leave Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: leave_days
+      label: Leave Days
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: leave_dates
+      label: Leave Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: leave_time
+      label: Leave Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: team_leader_name
+      label: Team Leader Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: team
+      label: Team
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Engineering''}'
+      - '{''id'': 2, ''label'': ''Marketing''}'
+      - '{''id'': 3, ''label'': ''HR''}'
+      required: true
+    - id: 18
+      name: reporting_manager_name
+      label: Reporting Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: reporting_team_lead_name
+      label: Reporting Team Lead Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: reporting_team
+      label: Reporting Team
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Engineering''}'
+      - '{''id'': 2, ''label'': ''Marketing''}'
+      - '{''id'': 3, ''label'': ''HR''}'
+      required: false
+    - id: 21
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: reporting_level
+      label: Reporting Level
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Manager''}'
+      - '{''id'': 2, ''label'': ''Team Lead''}'
+      - '{''id'': 3, ''label'': ''Individual''}'
+      required: false
+    - id: 24
+      name: team_size
+      label: Team Size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: leave_balance
+      label: Leave Balance
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: News Entry Submission Form
+    pages:
+    - id: 1
+      name: contributor_name
+      label: Contributor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: story_title
+      label: Story Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contributor_phone
+      label: Contributor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: story_description
+      label: Story Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: category
+      label: Category
+      hint: News category (optional)
+      type: select_one
+      options:
+      - Sports
+      - Politics
+      - Entertainment
+      - Health
+      required: false
+    - id: 6
+      name: attachment_upload
+      label: Attachment Upload
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: attachment_file
+      label: Attachment File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: story_url
+      label: Story URL
+      hint: null
+      type: text
+      options: []
+      required: false

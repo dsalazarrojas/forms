@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Whc Application Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: reporting_manager
+      label: Reporting Manager
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: reporting_manager_email
+      label: Reporting Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: work_start_date
+      label: Work Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: work_end_date
+      label: Work End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: salary
+      label: Salary
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: benefits
+      label: Benefits
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: work_experience
+      label: Work Experience
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 15, ''name'': ''Less than 1 year'', ''label'': ''Less than 1 year''}'
+      - '{''id'': 16, ''name'': ''1-2 years'', ''label'': ''1-2 years''}'
+      - '{''id'': 17, ''name'': ''2-5 years'', ''label'': ''2-5 years''}'
+      - '{''id'': 18, ''name'': ''More than 5 years'', ''label'': ''More than 5 years''}'
+      required: true
+    - id: 15
+      name: available_to_start
+      label: Available to start
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: available_to_start_time
+      label: Available to start time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: job_status
+      label: Job Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 22, ''name'': ''Active'', ''label'': ''Active''}'
+      - '{''id'': 23, ''name'': ''Inactive'', ''label'': ''Inactive''}'
+      - '{''id'': 24, ''name'': ''On vacation'', ''label'': ''On vacation''}'
+      - '{''id'': 25, ''name'': ''On leave'', ''label'': ''On leave''}'
+      required: true

@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Respect Message Submission Form
+    pages:
+    - id: 1
+      name: respect_message_submission_form
+      label: Respect Message Submission Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Enter Your Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: message
+      label: Enter Your Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: organization
+      label: Select Your Organization
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 5
+      name: recognition_type
+      label: How would you like to be recognized?
+      hint: null
+      type: select_one
+      options:
+      - option4
+      - option5
+      - option6
+      required: true
+    - id: 6
+      name: email
+      label: Enter Your Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Enter Your Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_submitted
+      label: Time Submitted
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: time_zone
+      label: Time Zone
+      hint: null
+      type: select_one
+      options:
+      - PST
+      - MST
+      - EST
+      required: true
+    - id: 11
+      name: time_zone_offset
+      label: Time Zone Offset
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: ip_address
+      label: IP Address
+      hint: null
+      type: text
+      options: []
+      required: false

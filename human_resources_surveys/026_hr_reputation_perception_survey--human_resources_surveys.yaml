@@ -1,0 +1,68 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: HR Reputation Perception Survey
+    pages:
+    - id: 1
+      name: introduction_page
+      label: HR Reputation Perception Survey
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: question_1
+      label: How would you rate HR's responsiveness to your queries?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 2.1, ''label'': ''Excellent''}'
+      - '{''id'': 2.2, ''label'': ''Average''}'
+      - '{''id'': 2.3, ''label'': ''Fair''}'
+      - '{''id'': 2.4, ''label'': ''Poor''}'
+      required: false
+    - id: 3
+      name: question_2
+      label: HR is approachable
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 3.1, ''label'': True}'
+      - '{''id'': 3.2, ''label'': False}'
+      required: false
+    - id: 4
+      name: question_3
+      label: How likely are you to recommend HR to a colleague?
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 4.1, ''label'': ''Definitely''}'
+      - '{''id'': 4.2, ''label'': ''Somewhat likely''}'
+      - '{''id'': 4.3, ''label'': ''Not very likely''}'
+      - '{''id'': 4.4, ''label'': ''Not at all likely''}'
+      required: false
+    - id: 5
+      name: question_4
+      label: What would you like to suggest that HR could improve?
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: question_5
+      label: Is there anything else you'd like to tell us?
+      hint: null
+      type: note
+      options: []
+      required: false

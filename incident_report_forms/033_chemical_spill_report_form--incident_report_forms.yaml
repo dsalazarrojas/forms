@@ -1,0 +1,325 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chemical Spill Report Form
+    pages:
+    - id: 1
+      name: report_number
+      label: Report Number
+      hint: Incident report number if assigned
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reporter_name
+      label: Reporter Name
+      hint: Name of person completing report
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: reporter_title
+      label: Reporter Title
+      hint: Your job title
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: Your department
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: Your phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_email
+      label: Contact Email
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: spill_date
+      label: Date of Spill
+      hint: When did the spill occur
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: spill_time
+      label: Time of Spill
+      hint: What time did it occur
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: report_date
+      label: Date of Report
+      hint: When is this report being filed
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: facility_name
+      label: Facility Name
+      hint: Name of facility where spill occurred
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: specific_location
+      label: Specific Location
+      hint: Exact location within facility
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: substance_name
+      label: Substance Name
+      hint: Name of spilled substance
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: substance_category
+      label: Substance Category
+      hint: Type of substance
+      type: select_one
+      options:
+      - Acid
+      - Base
+      - Solvent
+      - Oil
+      - Fuel
+      - Pesticide
+      - Heavy metal
+      - Organic compound
+      - Inorganic compound
+      - Unknown
+      required: true
+    - id: 14
+      name: cas_number
+      label: CAS Number
+      hint: Chemical Abstracts Service number
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: estimated_quantity
+      label: Estimated Quantity
+      hint: Amount spilled
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: spill_area
+      label: Area Affected
+      hint: Approximate area covered by spill
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: spill_cause
+      label: Cause of Spill
+      hint: What caused the spill
+      type: select_one
+      options:
+      - Human error
+      - Equipment failure
+      - Container failure
+      - Transportation incident
+      - Natural disaster
+      - Sabotage
+      - Unknown
+      - Other
+      required: true
+    - id: 18
+      name: cause_description
+      label: Cause Description
+      hint: Describe how the spill occurred
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: personnel_exposed
+      label: Number of Personnel Exposed
+      hint: How many people were exposed
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: injuries_illnesses
+      label: Injuries or Illnesses
+      hint: Describe any injuries or illnesses
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: first_aid_rendered
+      label: Was First Aid Rendered
+      hint: Was first aid provided
+      type: select_one
+      options:
+      - true
+      - false
+      - Not applicable
+      required: true
+    - id: 22
+      name: medical_treatment
+      label: Medical Treatment
+      hint: Describe any medical treatment
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: hospitalization
+      label: Were Any Hospitalized
+      hint: Did anyone require hospitalization
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 24
+      name: ppe_used
+      label: Was PPE Used
+      hint: Was personal protective equipment worn
+      type: select_one
+      options:
+      - Yes, full PPE
+      - Yes, partial PPE
+      - No PPE used
+      - Not applicable
+      required: true
+    - id: 25
+      name: containment_status
+      label: Containment Status
+      hint: Has the spill been contained
+      type: select_one
+      options:
+      - Fully contained
+      - Partially contained
+      - Not yet contained
+      - Cleanup complete
+      required: true
+    - id: 26
+      name: cleanup_status
+      label: Cleanup Status
+      hint: Current cleanup status
+      type: select_one
+      options:
+      - Cleanup complete
+      - Cleanup in progress
+      - Cleanup not started
+      - Awaiting contractor
+      required: true
+    - id: 27
+      name: waste_disposal_method
+      label: Waste Disposal Method
+      hint: How will waste be disposed
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: environmental_release
+      label: Environmental Release
+      hint: Did substance reach environment
+      type: select_one
+      options:
+      - Yes, reportable release
+      - Yes, non-reportable
+      - No environmental release
+      - Unknown
+      required: true
+    - id: 29
+      name: notifications_made
+      label: Notifications Made
+      hint: Who was notified
+      type: select_multiple
+      options:
+      - Supervisor
+      - Safety officer
+      - Environmental officer
+      - Fire department
+      - Local authorities
+      - State agencies
+      - Federal agencies
+      - Media
+      - None
+      required: true
+    - id: 30
+      name: regulatory_reporting
+      label: Regulatory Reporting Required
+      hint: Is regulatory reporting required
+      type: select_one
+      options:
+      - Yes, completed
+      - Yes, pending
+      - false
+      - Not sure
+      required: true
+    - id: 31
+      name: photos_taken
+      label: Were Photos Taken
+      hint: Is photographic evidence available
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 32
+      name: corrective_actions
+      label: Corrective Actions
+      hint: Actions taken to prevent recurrence
+      type: text
+      options: []
+      required: true
+    - id: 33
+      name: follow_up_required
+      label: Follow-up Required
+      hint: Is follow-up needed
+      type: select_one
+      options:
+      - Yes, scheduled
+      - Yes, pending
+      - false
+      required: true
+    - id: 34
+      name: follow_up_date
+      label: Follow-up Date
+      hint: Date for follow-up
+      type: date
+      options: []
+      required: false
+    - id: 35
+      name: reviewer_name
+      label: Reviewer Name
+      hint: Name of person reviewing report
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: reviewer_signature
+      label: Reviewer Signature
+      hint: I have reviewed this report
+      type: select_one
+      options:
+      - Yes, reviewed
+      - false
+      required: false
+    - id: 37
+      name: reporter_signature
+      label: Reporter Signature
+      hint: I certify this report is accurate
+      type: select_one
+      options:
+      - Yes, I certify
+      - false
+      required: true

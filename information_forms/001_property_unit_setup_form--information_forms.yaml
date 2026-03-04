@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Property Unit Setup Form
+    pages:
+    - id: 1
+      name: property_unit_details
+      label: Property Unit Details
+      hint: null
+      type: select_multiple
+      options:
+      - Property 1 Unit
+      - Property 2 Unit
+      - Property 3 Unit
+      required: false
+    - id: 2
+      name: unit_type
+      label: unit_type
+      hint: null
+      type: select_one
+      options:
+      - Studio/Room
+      - 1 Bedroom
+      - 2 Bedroom
+      required: false
+    - id: 3
+      name: property_address
+      label: property_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: property_manager
+      label: property_manager
+      hint: null
+      type: select_one
+      options:
+      - Owner
+      - Agent
+      - Other
+      required: false
+    - id: 5
+      name: rent
+      label: rent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: lease_start_date
+      label: lease_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: lease_end_date
+      label: lease_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: lease_term
+      label: lease_term
+      hint: null
+      type: select_one
+      options:
+      - Week to Week
+      - Week to Month
+      - Month to Month
+      - Month to End
+      - Other
+      required: false
+    - id: 9
+      name: property_type
+      label: property_type
+      hint: null
+      type: select_one
+      options:
+      - House
+      - Apartment
+      - Other
+      required: false
+    - id: 10
+      name: property_subtype
+      label: property_subtype
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: property_status
+      label: property_status
+      hint: null
+      type: select_one
+      options:
+      - Vacant
+      - Available
+      - Occupied
+      required: false
+    - id: 12
+      name: rent_frequency
+      label: rent_frequency
+      hint: null
+      type: select_one
+      options:
+      - Monthly
+      - Fortnight
+      - Weekly
+      required: false

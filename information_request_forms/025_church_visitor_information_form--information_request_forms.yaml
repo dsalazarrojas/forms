@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Church Visitor Information Form
+    pages:
+    - id: 1
+      name: visitor_name
+      label: Your Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email Address
+      hint: So we can stay in touch
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: Home Address
+      hint: Street, city, state, zip
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: age_range
+      label: Age Range
+      hint: null
+      type: select_one
+      options:
+      - Under 18
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55-64
+      - 65+
+      required: true
+    - id: 6
+      name: marital_status
+      label: Marital Status
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Married
+      - Divorced
+      - Widowed
+      - Separated
+      required: false
+    - id: 7
+      name: children
+      label: Do You Have Children
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 8
+      name: children_ages
+      label: Children's Ages
+      hint: If yes, please list ages
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: visit_date
+      label: Date of Visit
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: visit_count
+      label: Is This Your First Visit
+      hint: null
+      type: select_one
+      options:
+      - Yes, first time
+      - No, second time
+      - No, third time
+      - No, visiting regularly
+      required: true
+    - id: 11
+      name: how_heard
+      label: How Did You Hear About Our Church
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Friend or family
+      - Church website
+      - Social media
+      - Online search
+      - Church sign
+      - Drive by
+      - Community event
+      - Newspaper
+      - Other
+      required: true
+    - id: 12
+      name: reason_visiting
+      label: What Brought You to Our Church
+      hint: null
+      type: select_one
+      options:
+      - Looking for a church home
+      - Visiting with friend
+      - Just visiting the area
+      - Curious
+      - Recommended by someone
+      - Other
+      required: true
+    - id: 13
+      name: church_background
+      label: What Is Your Church Background
+      hint: null
+      type: select_one
+      options:
+      - Active church member
+      - Former church member
+      - No church background
+      - Different faith tradition
+      - Prefer not to say
+      required: true
+    - id: 14
+      name: interested_in
+      label: What Are You Interested In Learning About
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Membership
+      - Baptism
+      - Bible study groups
+      - Youth programs
+      - Children's programs
+      - Volunteer opportunities
+      - Small groups
+      - Prayer ministry
+      - Nothing specific
+      required: false
+    - id: 15
+      name: impression
+      label: What Was Your Impression of Our Church
+      hint: null
+      type: select_one
+      options:
+      - Very positive
+      - Positive
+      - Neutral
+      - Negative
+      - Very negative
+      required: true
+    - id: 16
+      name: return_visit
+      label: Do You Plan to Return
+      hint: null
+      type: select_one
+      options:
+      - Definitely yes
+      - Probably yes
+      - Maybe
+      - Probably not
+      - Definitely not
+      required: true
+    - id: 17
+      name: prayer_request
+      label: Do You Have a Prayer Request
+      hint: Share if comfortable
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: information_packet
+      label: Would You Like to Receive an Information Packet
+      hint: About our church
+      type: select_one
+      options:
+      - Yes, by email
+      - Yes, by mail
+      - No, thank you
+      required: true
+    - id: 19
+      name: pastor_meeting
+      label: Would You Like to Meet with the Pastor
+      hint: null
+      type: select_one
+      options:
+      - Yes, interested
+      - Maybe
+      - No, thank you
+      required: false
+    - id: 20
+      name: comments
+      label: Any Comments or Questions
+      hint: We would love to hear from you
+      type: text
+      options: []
+      required: false

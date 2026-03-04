@@ -1,0 +1,45 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Handbooks Revision Request Form
+    pages:
+    - id: 1
+      name: submission_reason
+      label: Submission reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: proposed_revisions
+      label: Proposed revisions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: employee_handbook_section
+      label: Employee handbook section
+      hint: Please select all applicable sections
+      type: select_one
+      options:
+      - Section A
+      - Section B
+      - Section C
+      required: false
+    - id: 4
+      name: comments
+      label: Comments
+      hint: Please provide additional comments
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false

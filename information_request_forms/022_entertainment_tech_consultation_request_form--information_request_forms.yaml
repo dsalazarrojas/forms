@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Entertainment Tech Consultation Request Form
+    pages:
+    - id: 1
+      name: client_first_name
+      label: Client First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_last_name
+      label: Client Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: project_budget
+      label: Project Budget
+      hint: Enter the budget for this project
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: project_location
+      label: Project Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: project_deadline
+      label: Project Deadline
+      hint: Enter a date in YYYY-MM-DD format
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: tech_type
+      label: Tech Type
+      hint: null
+      type: select_one
+      options:
+      - Hardware
+      - Software
+      - Other
+      required: true
+    - id: 7
+      name: tech_specs
+      label: Tech Specs
+      hint: Enter a detailed description of the technology you need
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: tech_warranties
+      label: Tech Warranties
+      hint: What kind of warranty do you need?
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      - Other (please specify below)
+      required: true
+    - id: 9
+      name: other_warranty
+      label: Other (if applicable)
+      hint: Please specify the other warranty requirements
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: client_message
+      label: Client Message
+      hint: Any further message for the consultation
+      type: text
+      options: []
+      required: true

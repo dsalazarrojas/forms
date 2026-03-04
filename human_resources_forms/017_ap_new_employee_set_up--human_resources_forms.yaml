@@ -1,0 +1,145 @@
+inputSchema:
+  type: object
+  properties:
+    title: AP New Employee Set Up
+    pages:
+    - id: 1
+      name: employee_full_name
+      label: Full Name
+      hint: Enter your complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_email
+      label: Work Email Address
+      hint: Your official company email address
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: employee_phone
+      label: Phone Number
+      hint: Your primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: employee_id
+      label: Employee ID
+      hint: Assigned employee identification number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: position_title
+      label: Position Title
+      hint: Your official job title
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: department
+      label: Department
+      hint: Which department will you be working in?
+      type: select_one
+      options:
+      - Accounting
+      - Finance
+      - Operations
+      - Sales
+      - Marketing
+      - HR
+      - IT
+      - Management
+      - Other
+      required: true
+    - id: 7
+      name: manager_name
+      label: Manager Name
+      hint: Name of your direct supervisor
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: start_date
+      label: Employment Start Date
+      hint: Your first day of employment
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: employment_type
+      label: Employment Type
+      hint: What type of employment arrangement do you have?
+      type: select_one
+      options:
+      - Full-Time
+      - Part-Time
+      - Contract
+      - Temporary
+      - Internship
+      required: true
+    - id: 10
+      name: salary_rate
+      label: Salary/Hourly Rate
+      hint: Your agreed compensation amount
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Person to contact in case of emergency
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number for emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: direct_deposit_account
+      label: Direct Deposit Account Number
+      hint: Bank account number for payroll deposits
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: direct_deposit_routing
+      label: Direct Deposit Routing Number
+      hint: Routing number for your bank
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: benefits_enrollment
+      label: Benefits Enrollment Selection
+      hint: Which benefits would you like to enroll in?
+      type: select_multiple
+      options:
+      - Health Insurance
+      - Dental Insurance
+      - Vision Insurance
+      - Life Insurance
+      - Retirement Plan
+      - Flexible Spending Account
+      - None
+      required: false
+    - id: 16
+      name: system_access_requests
+      label: System Access Requests
+      hint: Which systems will you need access to?
+      type: select_multiple
+      options:
+      - Email System
+      - Accounting Software
+      - CRM
+      - File Server
+      - VPN Access
+      - Admin Portal
+      - Other
+      required: true

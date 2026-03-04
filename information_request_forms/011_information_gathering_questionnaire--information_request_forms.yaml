@@ -1,0 +1,43 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Information Gathering Questionnaire
+    pages:
+    - id: 1
+      name: page1
+      label: First Section
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Email'', ''value'': ''email''}'
+      - '{''id'': 2, ''name'': ''Phone'', ''value'': ''phone''}'
+      - '{''id'': 3, ''name'': ''Postal'', ''value'': ''postal''}'
+      required: false
+    - id: 3
+      name: satisfaction_feedback
+      label: Satisfaction Feedback
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Highly Satisfied'', ''value'': ''highly_satisfied''}'
+      - '{''id'': 2, ''name'': ''Moderately Satisfied'', ''value'': ''moderately_satisfied''}'
+      - '{''id'': 3, ''name'': ''Not Satisfied'', ''value'': ''not_satisfied''}'
+      required: false

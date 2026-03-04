@@ -1,0 +1,138 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vehicle Accident Report Form
+    pages:
+    - id: 1
+      name: vehicle_info
+      label: Vehicle Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_accident
+      label: Date of Accident
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: location_of_accident
+      label: Location of Accident
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: vehicle_info_1
+      label: Vehicle Information 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: vehicle_info_2
+      label: Vehicle Information 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: driver_info
+      label: Driver Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: vehicle_license_plate
+      label: Vehicle License Plate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: vehicle_year_made
+      label: Vehicle Year Made
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: vehicle_year_model
+      label: Vehicle Year Model
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: vehicle_color
+      label: Vehicle Color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - Red
+      - Blue
+      - Green
+      required: false
+    - id: 12
+      name: vehicle_status
+      label: Vehicle Status
+      hint: null
+      type: select_one
+      options:
+      - Damaged
+      - Undamaged
+      required: false
+    - id: 13
+      name: witness_info
+      label: Witness Information
+      hint: null
+      type: select_multiple
+      options:
+      - 'False'
+      - 'True'
+      required: false
+    - id: 14
+      name: witness_name
+      label: Witness Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: witness_phone
+      label: Witness Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: witness_email
+      label: Witness Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 17
+      name: incident_photo1
+      label: Incident Photo 1
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: incident_photo2
+      label: Incident Photo 2
+      hint: null
+      type: note
+      options: []
+      required: false

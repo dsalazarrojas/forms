@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: Staff Information Collection Form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: role
+      label: Role
+      hint: Select one or more roles
+      type: select_multiple
+      options:
+      - Human Resources
+      - Management
+      - Finance
+      - Operations
+      - Other
+      required: false
+    - id: 3
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Accounting
+      - Engineering
+      - Human Resources
+      - Marketing
+      - Sales
+      required: false
+    - id: 4
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: manager_info
+      label: Manager Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: manager_title
+      label: Manager Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: employee_info
+      label: Employee Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: employee_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: employee_title
+      label: Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: reporting_manager_info
+      label: Reporting Manager Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: reporting_manager
+      label: Reporting Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: reporting_manager_title
+      label: Reporting Manager Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: employee_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: employee_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: hire_date
+      label: Hire Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: termination_date
+      label: Termination Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: last_eval_date
+      label: Last Eval Date
+      hint: null
+      type: date
+      options: []
+      required: false

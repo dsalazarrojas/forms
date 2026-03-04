@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: Judging Panel Information Form
+    pages:
+    - id: 1
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: event_name
+      label: event_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: event_details
+      label: event_details
+      hint: null
+      type: text
+      options: []
+      required: false

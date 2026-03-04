@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: customer_loyalty_data_access_request_form
+    pages:
+    - id: 1
+      name: customer_data
+      label: Customer Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: access_reason
+      label: Access Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_relationship
+      label: Customer Relationship
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Existing customer'', ''value'': ''Existing customer''}'
+      - '{''id'': 2, ''name'': ''New customer'', ''value'': ''New customer''}'
+      required: false
+    - id: 4
+      name: data_access_type
+      label: Data Access Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Data access request'', ''value'': ''Data access request''}'
+      - '{''id'': 2, ''name'': ''Data request review'', ''value'': ''Data request
+        review''}'
+      - '{''id'': 3, ''name'': ''Data update'', ''value'': ''Data update''}'
+      required: false
+    - id: 5
+      name: customer_id
+      label: Customer ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: access_start_date
+      label: Access Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: access_end_date
+      label: Access End Date
+      hint: null
+      type: date
+      options: []
+      required: false

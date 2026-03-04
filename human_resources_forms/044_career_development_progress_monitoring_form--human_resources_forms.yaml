@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Career Development Progress Monitoring Form
+    pages:
+      - id: 1
+        name: monitoring_header
+        label: -- Progress Monitoring --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: employee_name
+        label: Employee name
+        hint: Name of employee being monitored
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: review_period_start
+        label: Review period start
+        hint: Start date of monitoring period
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: review_period_end
+        label: Review period end
+        hint: End date of monitoring period
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: goals_set
+        label: Goals set during period
+        hint: List goals set for this period
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: progress_summary
+        label: Progress summary
+        hint: Brief description of progress achieved
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: metrics_and_results
+        label: Metrics and results
+        hint: Quantitative outcomes where applicable
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: manager_comments
+        label: Manager comments
+        hint: Manager feedback and next steps
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: next_review_date
+        label: Next review date
+        hint: When next review is scheduled
+        type: date
+        options: []
+        required: false
+      - id: 10
+        name: additional_support_required
+        label: Additional support required
+        hint: Any extra training or resources needed
+        type: text
+        options: []
+        required: false

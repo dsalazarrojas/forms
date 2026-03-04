@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Community Care Unusual Incident Report
+    pages:
+      - id: 1
+        name: incident_date
+        label: Incident date
+        hint: Date incident occurred
+        type: date
+        options: []
+        required: true
+      - id: 2
+        name: incident_time
+        label: Incident time
+        hint: Approximate time of incident
+        type: time
+        options: []
+        required: false
+      - id: 3
+        name: location_of_incident
+        label: Location of incident
+        hint: Exact location within facility
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: individuals_involved
+        label: Individuals involved
+        hint: Names and roles of people involved
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: incident_description
+        label: Brief description of incident
+        hint: Include events leading up and outcome
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: immediate_actions_taken
+        label: Immediate actions taken
+        hint: Steps taken at the scene
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: witness_names
+        label: Witness names and contact info
+        hint: Provide names and phone or email
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: harm_or_injury
+        label: Harm or injury occurred
+        hint: Describe any injuries observed
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: reporter_name
+        label: Reporter name
+        hint: Person completing the report
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: follow_up_actions
+        label: Recommended follow up actions
+        hint: Suggested next steps and responsible party
+        type: text
+        options: []
+        required: false

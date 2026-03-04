@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ingredient Research Collaboration Registration Form
+    pages:
+    - id: 1
+      name: partner_name
+      label: Partner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: partner_email
+      label: Partner Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: partner_phone
+      label: Partner Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: research_topic
+      label: Research Topic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: research_focus
+      label: Research Focus
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: collaboration_method
+      label: Collaboration Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: collaboration_type
+      label: Collaboration Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: collaboration_duration
+      label: Collaboration Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: collaboration_location
+      label: Collaboration Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: collaboration_start_date
+      label: Collaboration Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: collaboration_end_date
+      label: Collaboration End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: collaboration_status
+      label: Collaboration Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 13
+      name: collaboration_comments
+      label: Collaboration Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: research_partners
+      label: Research Partners
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

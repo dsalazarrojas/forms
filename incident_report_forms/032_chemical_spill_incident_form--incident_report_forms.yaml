@@ -1,0 +1,323 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Chemical Spill Incident Form
+    pages:
+      - id: 1
+        name: reporter_name
+        label: Reporter Name
+        hint: Name of person reporting the spill
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: reporter_role
+        label: Reporter Role
+        hint: Your role or position
+        type: select_one
+        options:
+          - Employee
+          - Student
+          - Contractor
+          - Visitor
+          - Supervisor
+          - Safety officer
+          - Other
+        required: true
+      - id: 3
+        name: incident_date
+        label: Incident Date
+        hint: Date of the spill
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: incident_time
+        label: Incident Time
+        hint: Time of the spill
+        type: time
+        options: []
+        required: true
+      - id: 5
+        name: location_building
+        label: Building
+        hint: Building where spill occurred
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: location_room
+        label: Room or Area
+        hint: Specific room or area
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: spill_type
+        label: Type of Spill
+        hint: Classification of the spill
+        type: select_one
+        options:
+          - Minor spill - can be cleaned by staff
+          - Major spill - requires emergency response
+          - Hazardous material spill
+          - Unknown substance
+        required: true
+      - id: 8
+        name: chemical_name
+        label: Chemical Name
+        hint: Name of spilled chemical
+        type: text
+        options: []
+        required: true
+      - id: 9
+        name: chemical_formula
+        label: Chemical Formula
+        hint: Formula or CAS number if known
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: quantity_spilled
+        label: Quantity Spilled
+        hint: Approximate amount spilled
+        type: text
+        options: []
+        required: true
+      - id: 11
+        name: spill_source
+        label: Source of Spill
+        hint: What caused the spill
+        type: select_one
+        options:
+          - Container leak
+          - Dropped container
+          - Equipment failure
+          - Overfill
+          - Transportation accident
+          - Unknown
+          - Other
+        required: true
+      - id: 12
+        name: container_size
+        label: Container Size
+        hint: Size of original container
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: chemical_state
+        label: Physical State
+        hint: State of the spilled chemical
+        type: select_one
+        options:
+          - Liquid
+          - Solid
+          - Powder
+          - Gas
+          - Gel
+        required: true
+      - id: 14
+        name: hazards_present
+        label: Hazards Present
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Flammable
+          - Corrosive
+          - Toxic
+          - Reactive
+          - Oxidizer
+          - Carcinogen
+          - Irritant
+          - None known
+        required: true
+      - id: 15
+        name: injuries_sustained
+        label: Were There Any Injuries
+        hint: Did anyone get hurt
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 16
+        name: injury_details
+        label: Injury Details
+        hint: Describe any injuries
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: exposure_type
+        label: Type of Exposure
+        hint: How were people exposed
+        type: select_multiple
+        options:
+          - Skin contact
+          - Eye contact
+          - Inhalation
+          - Ingestion
+          - No exposure
+        required: true
+      - id: 18
+        name: medical_attention
+        label: Medical Attention Required
+        hint: Was medical attention needed
+        type: select_one
+        options:
+          - Yes, first aid only
+          - Yes, medical treatment
+          - Yes, hospitalization
+          - No medical attention needed
+        required: true
+      - id: 19
+        name: evacuation_required
+        label: Was Evacuation Required
+        hint: Did area need to be evacuated
+        type: select_one
+        options:
+          - Yes, full evacuation
+          - Yes, partial evacuation
+          - No evacuation needed
+        required: true
+      - id: 20
+        name: emergency_response
+        label: Emergency Response Actions
+        hint: What actions were taken
+        type: select_multiple
+        options:
+          - Area isolated
+          - Spill kit used
+          - Emergency shower used
+          - Eyewash used
+          - Ventilation increased
+          - Fire department called
+          - Hazmat team called
+          - Other
+        required: true
+      - id: 21
+        name: containment_measures
+        label: Containment Measures
+        hint: How was the spill contained
+        type: text
+        options: []
+        required: true
+      - id: 22
+        name: cleanup_method
+        label: Cleanup Method
+        hint: How was the spill cleaned up
+        type: text
+        options: []
+        required: true
+      - id: 23
+        name: waste_disposal
+        label: Waste Disposal Method
+        hint: How was waste disposed
+        type: text
+        options: []
+        required: true
+      - id: 24
+        name: environmental_impact
+        label: Environmental Impact
+        hint: Did spill reach drains or environment
+        type: select_one
+        options:
+          - Yes, reached drains
+          - Yes, reached soil
+          - Yes, reached waterway
+          - No environmental impact
+          - Unknown
+        required: true
+      - id: 25
+        name: property_damage
+        label: Property Damage
+        hint: Was there any property damage
+        type: select_one
+        options:
+          - None
+          - Minor
+          - Moderate
+          - Severe
+        required: true
+      - id: 26
+        name: witnesses
+        label: Witnesses
+        hint: Names of witnesses
+        type: text
+        options: []
+        required: false
+      - id: 27
+        name: cause_analysis
+        label: Cause Analysis
+        hint: What caused this incident
+        type: text
+        options: []
+        required: true
+      - id: 28
+        name: preventive_measures
+        label: Preventive Measures
+        hint: How can similar incidents be prevented
+        type: text
+        options: []
+        required: true
+      - id: 29
+        name: supervisor_notified
+        label: Was Supervisor Notified
+        hint: Was supervisor informed
+        type: select_one
+        options:
+          - Yes, immediately
+          - Yes, within 1 hour
+          - Yes, delayed
+          - No
+        required: true
+      - id: 30
+        name: safety_officer_notified
+        label: Was Safety Officer Notified
+        hint: Was safety officer informed
+        type: select_one
+        options:
+          - Yes, immediately
+          - Yes, within 1 hour
+          - Yes, delayed
+          - No
+        required: true
+      - id: 31
+        name: incident_severity
+        label: Incident Severity
+        hint: Overall severity rating
+        type: select_one
+        options:
+          - Minor - minimal impact
+          - Moderate - some impact
+          - Serious - significant impact
+          - Critical - major impact
+        required: true
+      - id: 32
+        name: reporter_signature
+        label: Reporter Signature
+        hint: I confirm this report is accurate
+        type: select_one
+        options:
+          - Yes, I confirm
+          - No
+        required: true
+      - id: 33
+        name: report_date
+        label: Report Date
+        hint: Date of this report
+        type: date
+        options: []
+        required: true

@@ -1,0 +1,100 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Grievance Intake Form
+    pages:
+    - id: 1
+      name: grievance_intake_form_1
+      label: grievance_intake
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: grievance_description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: grievance_details
+      label: details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: grievance_category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Category 1''}'
+      - '{''id'': 2, ''label'': ''Category 2''}'
+      - '{''id'': 3, ''label'': ''Category 3''}'
+      required: false
+    - id: 5
+      name: grievance_subcategory
+      label: subcategory
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Subcategory 1''}'
+      - '{''id'': 2, ''label'': ''Subcategory 2''}'
+      - '{''id'': 3, ''label'': ''Subcategory 3''}'
+      required: false
+    - id: 6
+      name: grievance_priority
+      label: priority
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''High''}'
+      - '{''id'': 2, ''label'': ''Medium''}'
+      - '{''id'': 3, ''label'': ''Low''}'
+      required: false
+    - id: 7
+      name: grievance_status
+      label: status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''In Progress''}'
+      - '{''id'': 2, ''label'': ''Resolved''}'
+      - '{''id'': 3, ''label'': ''Closed''}'
+      required: false
+    - id: 8
+      name: grievance_notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: grievance_resolution
+      label: resolution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: grievance_closed
+      label: closed
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: false

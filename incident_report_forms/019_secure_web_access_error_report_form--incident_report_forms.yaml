@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Secure Web Access Error Report Form
+    pages:
+    - id: 1
+      name: form_id
+      label: form_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: Briefly describe the issue
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: ip_address
+      label: ip_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: user_agent
+      label: user_agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: url
+      label: url
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: error_message
+      label: error_message
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: error_details
+      label: error_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: browser
+      label: browser
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: operating_system
+      label: operating_system
+      hint: null
+      type: select_one
+      options:
+      - chrome
+      - firefox
+      - safari
+      - edge
+      - opera
+      - ie
+      - ie6
+      - ie7
+      - ie8
+      - ie9
+      - ie10
+      - ie11
+      - ie11
+      required: true
+    - id: 11
+      name: form_submitted_by
+      label: form_submitted_by
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: form_submitted_date
+      label: form_submitted_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: form_submitting_device
+      label: form_submitting_device
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: form_submitting_browser
+      label: form_submitting_browser
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: form_submitting_os
+      label: form_submitting_os
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: form_submitting_ip
+      label: form_submitting_ip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: form_submitting_country
+      label: form_submitting_country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: form_submitting_city
+      label: form_submitting_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: form_submitting_region
+      label: form_submitting_region
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: form_submitting_postal_code
+      label: form_submitting_postal_code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: form_submitting_comments
+      label: form_submitting_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: report_urgent
+      label: report_urgent
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 23
+      name: report_comments
+      label: report_comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: submitter_name
+      label: submitter_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: submitter_email
+      label: submitter_email
+      hint: null
+      type: email
+      options: []
+      required: true

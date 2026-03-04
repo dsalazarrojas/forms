@@ -1,0 +1,168 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Sustainable Development Officer
+    pages:
+    - id: 1
+      name: form_header
+      label: Contact Sustainable Development Officer
+      hint: Submit your sustainability inquiry
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization
+      label: Organization Name
+      hint: Your organization
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: organization_type
+      label: Organization Type
+      hint: Select one
+      type: select_one
+      options:
+      - Corporation
+      - Non-Profit
+      - Government Agency
+      - Educational Institution
+      - Small Business
+      - Individual
+      required: true
+    - id: 6
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: location
+      label: Location
+      hint: City and Country
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: inquiry_topic
+      label: Topic of Inquiry
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Carbon Reduction
+      - Renewable Energy
+      - Waste Management
+      - Sustainable Supply Chain
+      - Green Building
+      - Water Conservation
+      - Biodiversity
+      - ESG Reporting
+      required: true
+    - id: 10
+      name: project_stage
+      label: Project Stage
+      hint: Current status
+      type: select_one
+      options:
+      - Idea Stage
+      - Planning Phase
+      - Implementation
+      - Monitoring and Reporting
+      - Looking to Improve
+      required: true
+    - id: 11
+      name: organization_size
+      label: Organization Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - 1-50
+      - 51-200
+      - 201-500
+      - 501-1000
+      - Over 1000
+      required: true
+    - id: 12
+      name: sustainability_goals
+      label: Your Sustainability Goals
+      hint: What do you want to achieve
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: current_initiatives
+      label: Current Sustainability Initiatives
+      hint: What are you already doing
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: challenges
+      label: Main Challenges
+      hint: What obstacles do you face
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: timeline
+      label: Timeline for Implementation
+      hint: When do you want to start
+      type: select_one
+      options:
+      - Immediate
+      - 1-3 months
+      - 3-6 months
+      - 6-12 months
+      - Long-term Planning
+      required: true
+    - id: 16
+      name: budget_available
+      label: Budget Available
+      hint: Budget range
+      type: select_one
+      options:
+      - Limited - Under $50000
+      - Moderate - $50000 to $200000
+      - Substantial - $200000 to $500000
+      - Significant - Over $500000
+      required: false
+    - id: 17
+      name: stakeholder_support
+      label: Internal Stakeholder Support
+      hint: Level of support
+      type: select_one
+      options:
+      - Full Executive Support
+      - Department Level Support
+      - Building Support
+      - Exploring
+      required: false
+    - id: 18
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

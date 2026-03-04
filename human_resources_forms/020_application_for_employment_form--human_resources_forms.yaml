@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Application For Employment Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Applicant name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: Contact email
+      hint: Preferred email for communication
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone
+      label: Phone number
+      hint: Contact phone
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: position_applied
+      label: Position applied for
+      hint: Job title
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: employment_type
+      label: Employment type
+      hint: Full-time or part-time
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Contract
+      - Temporary
+      required: true
+    - id: 6
+      name: education
+      label: Education
+      hint: Highest qualification
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: work_experience
+      label: Work experience summary
+      hint: Brief summary of relevant experience
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: references
+      label: References
+      hint: Names and contact info for two references
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: resume_filename
+      label: Resume filename
+      hint: Indicate the uploaded file name
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: signature
+      label: Electronic signature
+      hint: Type full name as signature
+      type: text
+      options: []
+      required: true

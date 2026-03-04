@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: rockfall_incident_report_form
+    pages:
+    - id: 1
+      name: rockfall_incident_description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: rockfall_incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: time_of_day
+      label: Time of Day
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: rockfall_type
+      label: Rockfall Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: witness
+      label: Witness Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: rockfall_size_range
+      label: Rockfall Size Range
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: rockfall_size_range_size_units
+      label: Rockfall Size Range Size Units
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: witness_description
+      label: Witness Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: rockfall_description
+      label: Rockfall Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: photos
+      label: Photos
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: videos
+      label: Videos
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: report_status
+      label: Report Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 16
+      name: rockfall_area
+      label: Rockfall Area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: rockfall_affected_area
+      label: Rockfall Affected Area
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: rockfall_affected_people
+      label: Rockfall Affected People
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: rockfall_description_affected_people
+      label: Rockfall Description Affected People
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: rockfall_injuries
+      label: Rockfall Injuries
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: rockfall_injury_description
+      label: Rockfall Injury Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: rockfall_deaths
+      label: Rockfall Deaths
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: rockfall_deceased_description
+      label: Rockfall Deceased Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: rockfall_status
+      label: Rockfall Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: rockfall_comment
+      label: Rockfall Comment
+      hint: null
+      type: text
+      options: []
+      required: false

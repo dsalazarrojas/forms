@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Instagram Profile Analysis Request
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Enter your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Enter your last name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: instagram_handle
+      label: Instagram Handle
+      hint: Enter your Instagram handle
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Gaming
+      - Beauty
+      - Sports
+      - Music
+      - Food
+      required: true
+    - id: 8
+      name: bio
+      label: Bio
+      hint: Enter your bio
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: account_type
+      label: Account Type
+      hint: null
+      type: select_multiple
+      options:
+      - Public
+      - Private
+      - Business
+      required: false
+    - id: 10
+      name: profile_picture
+      label: Profile Picture
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: account_status
+      label: Account Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Pending
+      - Restricted
+      required: false
+    - id: 12
+      name: followers_count
+      label: Followers Count
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: engagement_score
+      label: Engagement Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: account_type_2
+      label: Account Type 2
+      hint: null
+      type: text
+      options: []
+      required: false

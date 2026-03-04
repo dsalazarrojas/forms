@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Onboarding Process Monitoring Form
+    pages:
+    - id: 1
+      name: onboarding_process_monitoring_form
+      label: onboarding_process_monitoring_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_onboarding
+      label: date_of_onboarding
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: new_employee_id
+      label: new_employee_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: manager_id
+      label: manager_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: date_of_monitoring
+      label: date_of_monitoring
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: onboarding_status
+      label: onboarding_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: onboarding_status_options
+      label: onboarding_status_options
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: new_employee_status
+      label: new_employee_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: onboarding_issues
+      label: onboarding_issues
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: manager_notes
+      label: manager_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: action_items
+      label: action_items
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

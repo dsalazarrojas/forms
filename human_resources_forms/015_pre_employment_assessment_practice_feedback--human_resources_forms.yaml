@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pre Employment Assessment Practice Feedback
+    pages:
+    - id: 1
+      name: practice_feedback
+      label: What did you think about the practice assessment?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: practice_assessment
+      label: How would you rate the practice assessment?
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 3
+      name: overall_experience
+      label: What was your overall experience with the practice assessment?
+      hint: null
+      type: text
+      options: []
+      required: false

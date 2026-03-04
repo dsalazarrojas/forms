@@ -1,0 +1,225 @@
+inputSchema:
+  type: object
+  properties:
+    title: International Contact Information Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: country
+      label: Country
+      hint: null
+      type: select_one
+      options:
+      - Argentina
+      - Australia
+      - Brazil
+      - Canada
+      - China
+      - Egypt
+      - France
+      - Germany
+      - India
+      - Italy
+      - Japan
+      - Mexico
+      - Russia
+      - South Africa
+      - Spain
+      - United States
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: language
+      label: Language
+      hint: null
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - French
+      - German
+      - Chinese
+      - Japanese
+      - Korean
+      - Russian
+      - Portuguese
+      - Italian
+      required: true
+    - id: 7
+      name: timezone
+      label: Time Zone
+      hint: null
+      type: select_one
+      options:
+      - Pacific
+      - Eastern
+      - Central
+      - Mountain
+      - Western
+      - Alaska
+      - Atlantic
+      - Indian
+      - Central
+      - GMT
+      required: true
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: category_2
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Information Forms
+      - Other
+      required: true
+    - id: 14
+      name: description_2
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: assigned_tool_2
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: output_file_2
+      label: Output File
+      hint: null
+      type: select_one
+      options:
+      - template1
+      - template2
+      - template3
+      required: false
+    - id: 18
+      name: category_3
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: description_3
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: form_id_2
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: output_file_3
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: assigned_tool_3
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: category_4
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: description_4
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_id_3
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false

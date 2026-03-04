@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Motivation Survey
+    pages:
+    - id: 1
+      name: employee_motivation_survey_1
+      label: Employee Motivation Survey
+      hint: null
+      type: select_multiple
+      options:
+      - Very satisfied
+      - Somewhat satisfied
+      - Not satisfied
+      - Somewhat dissatisfied
+      - Very dissatisfied
+      required: false
+    - id: 2
+      name: employee_motivation_survey_2
+      label: Overall satisfaction level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: employee_motivation_survey_3
+      label: Job satisfaction level
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: employee_motivation_survey_4
+      label: How likely are you to recommend our company
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 5
+      name: employee_motivation_survey_5
+      label: How often do you feel recognized and valued
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: employee_motivation_survey_6
+      label: Motivation to learn new skills
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: employee_motivation_survey_7
+      label: Motivation to perform extra effort
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: employee_motivation_survey_8
+      label: Motivation to stay
+      hint: null
+      type: text
+      options: []
+      required: false

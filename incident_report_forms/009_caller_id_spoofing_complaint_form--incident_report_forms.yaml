@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: Caller ID Spoofing Complaint Form
+    pages:
+    - id: 1
+      name: incident_summary_header
+      label: -- Caller ID Spoofing Incident Report --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: report_date
+      label: Date of Report
+      hint: Current date
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: complainant_full_name
+      label: Full Name of Complainant
+      hint: Person reporting the incident
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone_number
+      label: Contact Phone Number
+      hint: The number where you were called
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: call_details_header
+      label: -- Incident Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: date_of_spoofed_call
+      label: Date of the Call
+      hint: When did the incident occur?
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: time_of_spoofed_call
+      label: Time of the Call
+      hint: Please include AM - PM and timezone
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: number_on_caller_id
+      label: Number Displayed on Caller ID
+      hint: The number that appeared on your phone screen
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: organization_displayed
+      label: Name or Organization Displayed
+      hint: If any (e.g., IRS, Social Security Admin, Bank Name)
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: actual_caller_identity
+      label: Actual Caller Identity
+      hint: If known or if they identified themselves differently during the call
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: nature_of_call
+      label: Nature of Interaction
+      hint: What did the caller say or request?
+      type: select_multiple
+      options:
+      - Requested personal information
+      - Requested financial information - credit card
+      - Demanded payment or wire transfer
+      - Threatened legal action or arrest
+      - Marketing or sales pitch
+      - Silence or hang-up
+      required: true
+    - id: 13
+      name: information_shared
+      label: Was any sensitive information shared?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unsure
+      required: true
+    - id: 14
+      name: information_shared_details
+      label: Details of Information Shared
+      hint: If Yes, please list what was shared (do not include actual passwords or
+        SSNs)
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: evidence_description
+      label: Evidence Description
+      hint: e.g., screenshot of call log, recording (if legal), voicemail transcription
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: previous_incidents
+      label: Have you received similar calls recently?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 17
+      name: acknowledgement_of_truth
+      label: Acknowledgment
+      hint: I certify that the information provided is true and accurate to the best
+        of my knowledge
+      type: select_one
+      options:
+      - I Agree
+      - Other
+      required: true

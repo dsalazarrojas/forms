@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Family Vacation Leave Form
+    pages:
+    - id: 1
+      name: vacation_request
+      label: Vacation Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: number_of_days
+      label: Number of Days
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: reason_for_leave
+      label: Reason for Leave
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: return_date
+      label: Return Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: manager_approval
+      label: Manager Approval
+      hint: null
+      type: select_multiple
+      options:
+      - Option A
+      - Option B
+      - Option C
+      required: true
+    - id: 9
+      name: employee_status
+      label: Employee Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Active on Leave
+      required: true
+    - id: 10
+      name: leave_type
+      label: Leave Type
+      hint: null
+      type: select_one
+      options:
+      - Vacation
+      - Bereavement
+      - Sick Leave
+      required: true
+    - id: 11
+      name: department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - HR
+      - IT
+      - Finance
+      - Marketing
+      required: true
+    - id: 12
+      name: leave_starting_date
+      label: Leave Starting Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: leave_ending_date
+      label: Leave Ending Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: employee_email
+      label: Employee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: employee_phone
+      label: Employee Phone
+      hint: null
+      type: text
+      options: []
+      required: false

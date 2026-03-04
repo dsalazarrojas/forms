@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: intermittent_leave_absence_form
+    pages:
+    - id: 1
+      name: request_details
+      label: Request Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - Engineering
+      - Finance
+      - HR
+      required: false
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: reason_for_leave
+      label: Reason for Leave
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: return_date
+      label: Return Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: leave_type
+      label: Leave Type
+      hint: null
+      type: select_one
+      options:
+      - Medical
+      - Vacation
+      - Personal
+      required: false
+    - id: 9
+      name: leave_hours
+      label: Leave Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: leave_status
+      label: Leave Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

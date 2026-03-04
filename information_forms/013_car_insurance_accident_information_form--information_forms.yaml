@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Car Insurance Accident Information Form
+    pages:
+    - id: 1
+      name: insurance_info_header
+      label: -- Policyholder Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: policyholder_full_name
+      label: Policyholder Full Name
+      hint: Enter your first and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: insurance_policy_number
+      label: Insurance Policy Number
+      hint: Your policy ID
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Primary contact for the claim
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: For claim status updates
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: accident_details_header
+      label: -- Accident Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: accident_date
+      label: Date of Accident
+      hint: Select the day it occurred
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: accident_time
+      label: Time of Accident
+      hint: Select the time it occurred
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: accident_location
+      label: Accident Location
+      hint: Street, City, State, and Zip Code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: accident_description
+      label: Description of the Accident
+      hint: Briefly describe how the accident happened
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: weather_conditions
+      label: Weather Conditions
+      hint: Describe the weather during the accident
+      type: select_one
+      options:
+      - Clear
+      - Raining
+      - Snowing
+      - Foggy
+      - Windy
+      required: true
+    - id: 12
+      name: road_conditions
+      label: Road Conditions
+      hint: Describe the road surface
+      type: select_one
+      options:
+      - Dry
+      - Wet
+      - Icy
+      - Under Construction
+      required: true
+    - id: 13
+      name: other_party_header
+      label: -- Other Party Involved --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: other_party_full_name
+      label: Other Party's Full Name
+      hint: (If applicable)
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: other_party_phone_number
+      label: Other Party's Phone Number
+      hint: (If applicable)
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: other_party_insurance_provider
+      label: Other Party's Insurance Provider
+      hint: (If applicable)
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: other_party_insurance_policy_number
+      label: Other Party's Policy Number
+      hint: (If applicable)
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: witnesses_header
+      label: -- Witnesses --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: witness_full_name
+      label: Witness Full Name
+      hint: (If any)
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: witness_phone_number
+      label: Witness Phone Number
+      hint: (If any)
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: police_report_filed
+      label: Was a police report filed?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Pending
+      required: true
+    - id: 22
+      name: police_report_number
+      label: Police Report Number
+      hint: (If applicable)
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: additional_accident_comments
+      label: Any additional comments or requests?
+      hint: Provide more details for the claim
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: claim_signature_confirmation
+      label: Type your name for accident information confirmation
+      hint: null
+      type: text
+      options: []
+      required: true

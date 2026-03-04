@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Clinical Ladder Application Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Applicant Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: current_level
+      label: Current Clinical Level
+      hint: null
+      type: select_one
+      options:
+      - Level I
+      - Level II
+      - Level III
+      - Level IV
+      required: true
+    - id: 4
+      name: desired_level
+      label: Desired Clinical Level
+      hint: null
+      type: select_one
+      options:
+      - Level II
+      - Level III
+      - Level IV
+      - Level V
+      required: true
+    - id: 5
+      name: department
+      label: Department or Unit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: hire_date
+      label: Date of Hire
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: section_portfolio
+      label: -- Professional Portfolio --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: clinical_achievements
+      label: Summary of clinical achievements in the past 12 months
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: professional_certifications
+      label: List of active professional certifications held
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: ce_hours
+      label: Continuing Education Hours completed this calendar year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: section_contribution
+      label: -- Leadership and Contribution --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: committee_participation
+      label: Committees or project teams you lead or participate in
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: peer_mentorship
+      label: Description of peer review or mentorship activities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: section_support
+      label: -- Manager Support --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: manager_name
+      label: Immediate Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: supervisor_discussion
+      label: I have discussed this application with my direct supervisor
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: digital_signature
+      label: Applicant Signature - Type Full Name
+      hint: null
+      type: text
+      options: []
+      required: true

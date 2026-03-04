@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: executive_coaching_interest_form
+    pages:
+    - id: 1
+      name: executive_coaching_interest
+      label: Executive Coaching Interest
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Executive Coaching
+      - Other
+      required: false
+    - id: 3
+      name: location
+      label: Location
+      hint: null
+      type: select_multiple
+      options:
+      - New York
+      - Los Angeles
+      - Chicago
+      - Austin
+      - Boston
+      - Seattle
+      - Dallas
+      - Houston
+      - Philadelphia
+      - Miami
+      required: false
+    - id: 4
+      name: executive_coaching_interests
+      label: Executive Coaching Interests
+      hint: null
+      type: select_multiple
+      options:
+      - Time Management
+      - Career Development
+      - Stress Management
+      - Work-Life Balance
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

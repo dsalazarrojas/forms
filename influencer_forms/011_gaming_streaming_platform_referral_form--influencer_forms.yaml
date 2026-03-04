@@ -1,0 +1,150 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gaming Streaming Platform Referral Form
+    pages:
+    - id: 1
+      name: game_details
+      label: Game Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: creator_info
+      label: Creator Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: referral_source
+      label: Referral Source
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: platform_name
+      label: Platform Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: streamer_type
+      label: Streamer Type
+      hint: null
+      type: select_one
+      options:
+      - YouTube
+      - Twitch
+      - Facebook
+      - Instagram
+      - TikTok
+      required: false
+    - id: 6
+      name: platform_account
+      label: Platform Account
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: streamer_id
+      label: Streamer ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: creator_referral_status
+      label: Creator Referral Status
+      hint: null
+      type: select_multiple
+      options:
+      - New
+      - Existing
+      - Referred
+      - Inactive
+      - Pending
+      required: false
+    - id: 9
+      name: follow_up_date
+      label: Follow up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: follow_up_time
+      label: Follow up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: email_type
+      label: Email Type
+      hint: null
+      type: select_one
+      options:
+      - Business
+      - Personal
+      required: false
+    - id: 15
+      name: follow_up_frequency
+      label: Follow up Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Never
+      required: false
+    - id: 16
+      name: follow_up_channel
+      label: Follow up Channel
+      hint: null
+      type: select_one
+      options:
+      - YouTube
+      - Twitch
+      - Phone
+      - Email
+      - In-App
+      required: false
+    - id: 17
+      name: creator_referral_source
+      label: Referral Source
+      hint: null
+      type: select_one
+      options:
+      - Social Media
+      - Email
+      - Referral
+      - Streamer
+      - In-App
+      required: false

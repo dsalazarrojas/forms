@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Police Misconduct Incident Form
+    pages:
+    - id: 1
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: police_officer_id
+      label: Police Officer ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: police_department
+      label: Police Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': [{''id'': 1, ''label'': ''Option 1''}, {''id'': 2, ''label'':
+        ''Option 2''}, {''id'': 3, ''label'': ''Option 3''}]}'
+      - Other
+      required: false
+    - id: 8
+      name: incident_reporter_details
+      label: Incident Reporter Details
+      hint: null
+      type: select_multiple
+      options:
+      - '{''options'': [{''id'': 1, ''label'': ''Option 1''}, {''id'': 2, ''label'':
+        ''Option 2''}, {''id'': 3, ''label'': ''Option 3''}]}'
+      - Other
+      required: false
+    - id: 9
+      name: witness_details
+      label: Witness Details
+      hint: null
+      type: select_multiple
+      options:
+      - '{''options'': [{''id'': 1, ''label'': ''Option 1''}, {''id'': 2, ''label'':
+        ''Option 2''}, {''id'': 3, ''label'': ''Option 3''}]}'
+      - Other
+      required: false
+    - id: 10
+      name: witness_statement
+      label: Witness Statement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: police_response
+      label: Police Response
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': [{''id'': 1, ''label'': ''Option 1''}, {''id'': 2, ''label'':
+        ''Option 2''}, {''id'': 3, ''label'': ''Option 3''}]}'
+      - Other
+      required: false
+    - id: 12
+      name: incident_follow_up
+      label: Incident Follow-Up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: incident_reporter_id
+      label: Incident Reporter ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: police_officer_date_of_birth
+      label: Police Officer Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: police_officer_gender
+      label: Police Officer Gender
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': [{''id'': 1, ''label'': ''Option 1''}, {''id'': 2, ''label'':
+        ''Option 2''}, {''id'': 3, ''label'': ''Option 3''}]}'
+      - Other
+      required: false
+    - id: 17
+      name: police_officer_rank
+      label: Police Officer Rank
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': [{''id'': 1, ''label'': ''Option 1''}, {''id'': 2, ''label'':
+        ''Option 2''}, {''id'': 3, ''label'': ''Option 3''}]}'
+      - Other
+      required: false
+    - id: 18
+      name: police_officer_shift
+      label: Police Officer Shift
+      hint: null
+      type: select_one
+      options:
+      - '{''options'': [{''id'': 1, ''label'': ''Option 1''}, {''id'': 2, ''label'':
+        ''Option 2''}, {''id'': 3, ''label'': ''Option 3''}]}'
+      - Other
+      required: false
+    - id: 19
+      name: police_officer_vehicle
+      label: Police Officer Vehicle
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: incident_officer_name
+      label: Incident Officer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: incident_officerbadgenumber
+      label: Incident Officer Badge Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: witness_statement_text
+      label: Witness Statement Text
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: witness_statement
+      label: Witness Statement
+      hint: null
+      type: text
+      options: []
+      required: false

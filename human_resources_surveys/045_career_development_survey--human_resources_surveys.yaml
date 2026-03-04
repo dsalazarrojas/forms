@@ -1,0 +1,101 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Career Development Survey
+    pages:
+      - id: 1
+        name: survey_header
+        label: -- Career Development Survey --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: employee_name
+        label: Employee name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: interested_in_training
+        label: Interested in training opportunities
+        hint: Select interest level
+        type: select_one
+        options:
+          - Very interested
+          - Somewhat interested
+          - Not interested
+        required: true
+      - id: 4
+        name: preferred_training_topics
+        label: Preferred training topics
+        hint: Choose topics of interest
+        type: select_multiple
+        options:
+          - Leadership
+          - Technical skills
+          - Communication
+          - Diversity and inclusion
+        required: false
+      - id: 5
+        name: preferred_delivery_method
+        label: Preferred delivery method
+        hint: How training should be delivered
+        type: select_one
+        options:
+          - In person
+          - Online live
+          - Self paced
+        required: false
+      - id: 6
+        name: barriers_to_participation
+        label: Barriers to participation
+        hint: Time budget or access issues
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: expected_outcomes
+        label: Expected outcomes from training
+        hint: Skills or certification goals
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: timeline_for_development
+        label: Timeline for development
+        hint: When employee expects to start
+        type: select_one
+        options:
+          - Within 3 months
+          - Within 6 months
+          - Within 12 months
+        required: false
+      - id: 9
+        name: manager_support
+        label: Manager support available
+        hint: Is manager supportive of development
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: false
+      - id: 10
+        name: additional_comments
+        label: Additional comments
+        hint: Any other information
+        type: text
+        options: []
+        required: false

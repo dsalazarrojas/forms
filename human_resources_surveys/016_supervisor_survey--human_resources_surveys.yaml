@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Supervisor Survey
+    pages:
+    - id: 1
+      name: supervisor_survey_info
+      label: Supervisor survey information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: manager_survey_frequency
+      label: Manager survey frequency
+      hint: How often do you administer a manager survey?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: employee_survey_frequency
+      label: Employee survey frequency
+      hint: How often do you administer an employee survey?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: supervisor_survey_questions
+      label: Manager survey questions
+      hint: What questions do you include in a manager survey?
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: manager_survey_comments
+      label: Manager survey comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: employee_survey_comments
+      label: Employee survey comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: schedule_event
+      label: Schedule event
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: schedule_time
+      label: Schedule time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: schedule_duration
+      label: Schedule duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: schedule_repeat
+      label: Schedule repeat
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

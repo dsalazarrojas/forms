@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Executive Team Hiring Survey
+    pages:
+    - id: 1
+      name: company_size
+      label: Company Size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 2
+      name: job_title
+      label: Job Title
+      hint: null
+      type: select_multiple
+      options:
+      - CEO
+      - Manager
+      - Director
+      - Officer
+      required: false
+    - id: 3
+      name: job_level
+      label: Job Level
+      hint: null
+      type: select_one
+      options:
+      - Executive
+      - Manager
+      - Director
+      required: false
+    - id: 4
+      name: years_of_experience
+      label: Years of Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: education
+      label: Education
+      hint: null
+      type: select_multiple
+      options:
+      - High School
+      - Bachelor
+      - Master
+      - Doctorate
+      required: false
+    - id: 6
+      name: job_title_preferred
+      label: Job Title Preferred
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - Sales
+      - Marketing
+      - Finance
+      - Operations
+      required: false
+    - id: 8
+      name: location
+      label: Location
+      hint: null
+      type: select_multiple
+      options:
+      - New York
+      - Los Angeles
+      - Chicago
+      - San Francisco
+      required: false

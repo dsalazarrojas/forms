@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Statue Discovery Survey
+    pages:
+    - id: 1
+      name: general_info
+      label: General Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: photos
+      label: Photos
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''option1''}'
+      - '{''value'': ''option2''}'
+      - '{''value'': ''option3''}'
+      required: false
+    - id: 4
+      name: context
+      label: Context
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: statue_info
+      label: Statue Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: photo_urls
+      label: Photo Urls
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''option1''}'
+      - '{''value'': ''option2''}'
+      required: false
+    - id: 7
+      name: date_of_discovery
+      label: Date of Discovery
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time_of_discovery
+      label: Time of Discovery
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: date_of_last_update
+      label: Date of Last Update
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time_of_last_update
+      label: Time of Last Update
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: last_updated_by
+      label: Last Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: statue_type
+      label: Statue Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''option1''}'
+      - '{''value'': ''option2''}'
+      - '{''value'': ''option3''}'
+      required: false

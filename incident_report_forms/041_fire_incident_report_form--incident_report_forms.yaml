@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fire Incident Report Form
+    pages:
+    - id: 1
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: witnesses
+      label: Witnesses
+      hint: null
+      type: select_multiple
+      options:
+      - Firefighter
+      - Witness
+      - Other
+      required: false
+    - id: 5
+      name: damage_reported
+      label: Damage Reported
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: cause
+      label: Incident Cause
+      hint: null
+      type: select_one
+      options:
+      - Arson
+      - Accidental
+      - Natural
+      - Other
+      required: false
+    - id: 7
+      name: damage_sustained
+      label: Damage Sustained
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: fire_department_response
+      label: Fire Department Response
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: investigator
+      label: Investigator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: incident_number
+      label: Incident Number
+      hint: null
+      type: number
+      options: []
+      required: false

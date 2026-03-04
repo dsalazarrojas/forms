@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: updates_for_follow_up_session
+    pages:
+    - id: 1
+      name: title
+      label: Updates For Follow Up Session
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Information Forms
+      - Other
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: homework_1
+      label: Budget For February 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: homework_2
+      label: List Debts smallest to largest
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: homework_3
+      label: Print Credit Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false

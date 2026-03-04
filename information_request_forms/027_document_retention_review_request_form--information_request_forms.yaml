@@ -1,0 +1,85 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Document Retention Review Request Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee
+      label: employee
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Manager'', ''value'': ''Manager''}'
+      - '{''id'': 2, ''name'': ''Employee'', ''value'': ''Employee''}'
+      - '{''id'': 3, ''name'': ''Other'', ''value'': ''Other''}'
+      required: false
+    - id: 3
+      name: reason
+      label: reason
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Review'', ''value'': ''Review''}'
+      - '{''id'': 2, ''name'': ''Retention'', ''value'': ''Retention''}'
+      - '{''id'': 3, ''name'': ''Request'', ''value'': ''Request''}'
+      required: false
+    - id: 4
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: manager
+      label: manager
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Manager'', ''value'': ''Manager''}'
+      - '{''id'': 2, ''name'': ''Supervisor'', ''value'': ''Supervisor''}'
+      - '{''id'': 3, ''name'': ''Other'', ''value'': ''Other''}'
+      required: false
+    - id: 6
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: retention_date
+      label: retention_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: document_type
+      label: document_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Contract'', ''value'': ''Contract''}'
+      - '{''id'': 2, ''name'': ''Agreement'', ''value'': ''Agreement''}'
+      - '{''id'': 3, ''name'': ''Other'', ''value'': ''Other''}'
+      - '{''id'': 4, ''name'': ''Record'', ''value'': ''Record''}'
+      required: false

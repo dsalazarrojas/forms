@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Travel Information Form
+    pages:
+    - id: 1
+      name: company
+      label: company_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: travel_details
+      label: travel_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: trip_type
+      label: trip_type
+      hint: null
+      type: select_one
+      options:
+      - Business
+      - Event
+      - Meeting
+      - Training
+      - Other
+      required: true
+    - id: 7
+      name: attendees
+      label: attendees
+      hint: null
+      type: select_multiple
+      options:
+      - CEO
+      - CFO
+      - Marketing
+      - Sales
+      - Operations
+      required: true
+    - id: 8
+      name: travel_method
+      label: travel_method
+      hint: null
+      type: select_one
+      options:
+      - Airplane
+      - Train
+      - Car
+      required: true
+    - id: 9
+      name: contact
+      label: contact
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: travel_date
+      label: travel_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: travel_time
+      label: travel_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: hotel
+      label: hotel
+      hint: null
+      type: select_one
+      options:
+      - The Ritz
+      - Four Seasons
+      - Marriott
+      - Holiday Inn
+      - Motel 6
+      required: false
+    - id: 14
+      name: room_number
+      label: room_number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: flight_info
+      label: flight_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: flight_number
+      label: flight_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: flight_departure
+      label: flight_departure
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: flight_arrival
+      label: flight_arrival
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: flight_duration
+      label: flight_duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: travel_reason
+      label: travel_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: travel_details_other
+      label: travel_details_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: travel_budget
+      label: travel_budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: travel_expense
+      label: travel_expense
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: travel_currency
+      label: travel_currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - JPY
+      required: false
+    - id: 25
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false

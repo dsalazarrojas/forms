@@ -1,0 +1,52 @@
+inputSchema:
+  type: object
+  properties:
+    title: Recruiting Performance Metrics Survey
+    pages:
+    - id: 1
+      name: job_opening_details
+      label: Job Opening Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: feedback
+      label: How would you rate this job opening?
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Strongly Disagree''}'
+      - '{''label'': ''Somewhat Disagree''}'
+      - '{''label'': ''Neutral''}'
+      - '{''label'': ''Somewhat Agree''}'
+      - '{''label'': ''Strongly Agree''}'
+      required: false
+    - id: 3
+      name: communication_skills
+      label: How would you rate the communication skills of the recruiter?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: time_management
+      label: How would you rate the time management of the recruiter?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: problem_solving
+      label: How would you rate the problem-solving skills of the recruiter?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: feedback_comments
+      label: Additional comments?
+      hint: Any additional comments or feedback about this job opening
+      type: note
+      options: []
+      required: false

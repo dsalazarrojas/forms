@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Training Records Release Form
+    pages:
+    - id: 1
+      name: employee_training_records_form
+      label: Employee Training Records Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: employee name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employee_id
+      label: employee id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: training_records
+      label: training records
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      required: false
+    - id: 5
+      name: reason_for_release
+      label: reason for release
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: release_date
+      label: release date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: review_date
+      label: review date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: review_status
+      label: review status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''pending'', ''label'': ''Pending''}'
+      - '{''value'': ''reviewed'', ''label'': ''Reviewed''}'
+      required: false
+    - id: 9
+      name: submitter_name
+      label: submitter name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submitter_email
+      label: submitter email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: submitter_phone
+      label: submitter phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitter_department
+      label: submitter department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submitter_job_title
+      label: submitter job title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submitter_job_id
+      label: submitter job id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: release_by
+      label: release by
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''manager'', ''label'': ''Manager''}'
+      - '{''value'': ''director'', ''label'': ''Director''}'
+      - '{''value'': ''other'', ''label'': ''Other''}'
+      required: false
+    - id: 16
+      name: release_by_other
+      label: release by other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: reason_for_release_other
+      label: reason for release other
+      hint: null
+      type: text
+      options: []
+      required: false

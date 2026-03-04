@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Vacation Leave Authorization Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: dates_requested
+      label: Dates Requested
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: duration_requested
+      label: Duration Requested
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: reason_for_leave
+      label: Reason for Leave
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: return_date
+      label: Return Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: approval_request_from
+      label: Approval Request From
+      hint: null
+      type: select_one
+      options:
+      - Department Manager
+      - Team Lead
+      - HR Manager
+      required: true
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

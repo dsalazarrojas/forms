@@ -1,0 +1,215 @@
+inputSchema:
+  type: object
+  properties:
+    title: Atrial Fibrillation Information Request Form
+    pages:
+    - id: 1
+      name: contact_information
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Primary email for sending information
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Optional contact number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: mailing_address
+      label: Mailing Address
+      hint: Street address if you prefer printed materials
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: state
+      label: State/Province
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: zip_code
+      label: ZIP/Postal Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: afib_status
+      label: -- Atrial Fibrillation Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: do_you_have_afib
+      label: Do you have Atrial Fibrillation?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Suspect I might
+      required: true
+    - id: 12
+      name: diagnosis_date
+      label: Diagnosis Date
+      hint: When were you diagnosed (if applicable)?
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: relationship_to_afib
+      label: Relationship to AFib
+      hint: What is your relationship to this condition?
+      type: select_one
+      options:
+      - Patient
+      - Family Member
+      - Caregiver
+      - Healthcare Provider
+      - Interested Learner
+      - Other
+      required: true
+    - id: 14
+      name: afib_type
+      label: AFib Type (if diagnosed)
+      hint: What type of AFib do you have?
+      type: select_one
+      options:
+      - Paroxysmal
+      - Persistent
+      - Permanent
+      - Not Diagnosed Yet
+      - Unsure
+      required: false
+    - id: 15
+      name: information_needed
+      label: -- Information Needs --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: topics_of_interest
+      label: Topics of Interest
+      hint: What information would be most helpful?
+      type: select_multiple
+      options:
+      - Symptoms and Diagnosis
+      - Treatment Options
+      - Medications
+      - Lifestyle Management
+      - Complications and Risks
+      - Support Groups
+      - Research Updates
+      - Patient Stories
+      required: true
+    - id: 17
+      name: specific_questions
+      label: Specific Questions
+      hint: Any particular questions you have?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: information_format
+      label: -- Information Format Preference --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: preferred_format
+      label: Preferred Information Format
+      hint: How would you like to receive information?
+      type: select_multiple
+      options:
+      - Email Newsletter
+      - Printed Materials
+      - Web Resources
+      - Videos
+      - Webinar Invitations
+      - SMS Updates
+      required: true
+    - id: 20
+      name: preferred_language
+      label: Preferred Language
+      hint: Language preference for materials
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - French
+      - German
+      - Other
+      required: false
+    - id: 21
+      name: medical_information
+      label: -- Medical Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: current_treatment
+      label: Current AFib Treatment
+      hint: What treatment are you currently using?
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: current_medications
+      label: Current Medications
+      hint: List any relevant medications
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: comorbidities
+      label: Other Health Conditions
+      hint: Any other relevant health conditions?
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: consent_future_contact
+      label: May we contact you with additional resources?
+      hint: Do you consent to follow-up communications?
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

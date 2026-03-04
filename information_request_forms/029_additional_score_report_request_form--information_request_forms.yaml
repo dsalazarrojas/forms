@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Additional Score Report Request Form
+    pages:
+    - id: 1
+      name: requester_information
+      label: Requester information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requester_name
+      label: Requester name
+      hint: Person requesting the report
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_name
+      label: Student name
+      hint: Full name as on records
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: test_type
+      label: Test type
+      hint: Name of exam or assessment
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: number_of_reports
+      label: Number of additional reports requested
+      hint: Enter number required
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: delivery_method
+      label: Delivery method
+      hint: How should reports be delivered
+      type: select_one
+      options:
+      - Email
+      - Mail
+      - Pickup
+      required: true
+    - id: 7
+      name: reason_for_request
+      label: Reason for request
+      hint: Provide justification for records
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_email
+      label: Contact email
+      hint: For confirmation and tracking
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: payment_details
+      label: Payment details
+      hint: Billing info if a fee applies
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: signature
+      label: Signature name
+      hint: Authorized name for request
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Exit Interview Survey
+    pages:
+    - id: 1
+      name: company_reasons_for_leaving
+      label: Reasons for Leaving
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: how_long_at_company
+      label: How long at Company
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: reasons_for_leaving
+      label: Reasons for Leaving
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: new_job_title
+      label: New Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: new_company
+      label: New Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: reasons_for_leaving_details
+      label: Reasons for Leaving (Details)
+      hint: Provide more details about your reasons for leaving
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: recommendation_score
+      label: Recommendation Score
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: ESG Performance Measurement Request Form
+    pages:
+    - id: 1
+      name: esg_performance_measurement_request_form
+      label: ESG Performance Request
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: esg_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: esg_subcategory
+      label: Subcategory
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: esg_request_type
+      label: Request Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: esg_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: esg_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: esg_priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: esg_request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: esg_requester
+      label: Requester
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: esg_department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: esg_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: esg_attachment
+      label: Attachment
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: esg_additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workforce Planning Technology Pilot Application Form
+    pages:
+    - id: 1
+      name: basic_info
+      label: Basic Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact
+      label: Contact Info
+      hint: null
+      type: select_multiple
+      options:
+      - Jane Smith
+      - John Doe
+      - Bob Johnson
+      required: false
+    - id: 3
+      name: work_status
+      label: Work Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Not Active
+      - On Leave
+      required: false
+    - id: 4
+      name: skills
+      label: Skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: work_experience
+      label: Work Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: years_experience
+      label: Years of Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: education
+      label: Education
+      hint: null
+      type: select_multiple
+      options:
+      - High school
+      - Bachelor
+      - Master
+      required: false
+    - id: 9
+      name: education_level
+      label: Level of Education
+      hint: null
+      type: select_one
+      options:
+      - Primary
+      - Secondary
+      - Tertiary
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: job_role
+      label: Job Role
+      hint: null
+      type: select_one
+      options:
+      - Sales
+      - Marketing
+      - Finance
+      required: false
+    - id: 13
+      name: job_status
+      label: Job Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      - In Progress
+      required: false
+    - id: 14
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - HR
+      - Marketing
+      - Sales
+      required: false
+    - id: 15
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: manager_title
+      label: Manager Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: reporting_manager
+      label: Reporting Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: job_category
+      label: Job Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - HQ
+      - Regional
+      - National
+      required: false
+    - id: 21
+      name: shift
+      label: Shift
+      hint: null
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Night
+      required: false
+    - id: 22
+      name: shift_start
+      label: Shift Start Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: shift_end
+      label: Shift End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: break_length
+      label: Break Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: shift_length
+      label: Shift Length
+      hint: null
+      type: number
+      options: []
+      required: false

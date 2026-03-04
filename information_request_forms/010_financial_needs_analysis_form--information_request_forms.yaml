@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Financial Needs Analysis Form
+    pages:
+    - id: 1
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_contact_info
+      label: Client Contact Info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: income
+      label: Income
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: expenses
+      label: Expenses
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: financial_status
+      label: Financial Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Passive
+      - Retired
+      required: true
+    - id: 6
+      name: financial_goals
+      label: Financial Goals
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: risk_tolerance
+      label: Risk Tolerance
+      hint: null
+      type: select_one
+      options:
+      - Conservative
+      - Moderate
+      - Aggressive
+      required: true
+    - id: 8
+      name: investment_experience
+      label: Investment Experience
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: financial_needs
+      label: Financial Needs
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: income_source
+      label: Income Source
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: investment_assets
+      label: Investment Assets
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: financial_institutions
+      label: Financial Institutions
+      hint: null
+      type: select_multiple
+      options:
+      - Bank
+      - Broker
+      - Credit Union
+      required: true
+    - id: 13
+      name: risk_level
+      label: Risk Level
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 14
+      name: financial_institutions_description
+      label: Financial Institutions Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: investment_assets_description
+      label: Investment Assets Description
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,153 @@
+inputSchema:
+  type: object
+  properties:
+    title: HR Policy Documentation Request Form
+    pages:
+    - id: 1
+      name: request_form
+      label: Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employee_email
+      label: Employee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: document_type
+      label: Document Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: purpose
+      label: Purpose
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: team
+      label: Team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: requestor_name
+      label: Requestor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: requestor_email
+      label: Requestor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: department_head
+      label: Department Head
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: department_head_email
+      label: Department Head Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: document_status
+      label: Document Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 16
+      name: request_status
+      label: Request Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 17
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: attachment
+      label: Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: attachment_url
+      label: Attachment URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: request_form_submit
+      label: Request Form
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

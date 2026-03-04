@@ -1,0 +1,233 @@
+inputSchema:
+  type: object
+  properties:
+    title: Character Sheet Template
+    pages:
+    - id: 1
+      name: section_character_identity_sheet
+      label: -- Character Identity and Basics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: character_full_name_sheet
+      label: Character Full Name
+      hint: Enter your character's name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: character_class_profession
+      label: Character Class or Profession
+      hint: e.g., Fighter, Rogue, Wizard, Medic
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: character_level_or_rank
+      label: Character Level or Rank
+      hint: What is your character's current level?
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: character_race_species
+      label: Character Race or Species
+      hint: e.g., Human, Elf, Dwarf, Alien
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: character_alignment_system
+      label: Character Alignment System
+      hint: Select the most accurate description
+      type: select_one
+      options:
+      - Lawful Good
+      - Neutral Good
+      - Chaotic Good
+      - Lawful Neutral
+      - True Neutral
+      - Chaotic Neutral
+      - Lawful Evil
+      - Neutral Evil
+      - Chaotic Evil
+      required: true
+    - id: 7
+      name: section_attributes_and_stats
+      label: -- Attributes and Core Stats --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: strength_attribute_score
+      label: Strength Attribute Score
+      hint: Physical power and carrying capacity
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: dexterity_attribute_score
+      label: Dexterity Attribute Score
+      hint: Agility, reflexes, and balance
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: constitution_attribute_score
+      label: Constitution Attribute Score
+      hint: Health, stamina, and vital force
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: intelligence_attribute_score
+      label: Intelligence Attribute Score
+      hint: Mental acuity, recall, and analytical skill
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: wisdom_attribute_score
+      label: Wisdom Attribute Score
+      hint: Perception, intuition, and willpower
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: charisma_attribute_score
+      label: Charisma Attribute Score
+      hint: Confidence, eloquence, and leadership
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: section_combat_and_health
+      label: -- Combat and Health --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: maximum_hit_points_hp
+      label: Maximum Hit Points (HP)
+      hint: Your character's total health
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: current_hit_points_hp
+      label: Current Hit Points (HP)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: armor_class_ac_value
+      label: Armor Class (AC) Value
+      hint: Defensive capability
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: initiative_modifier_bonus
+      label: Initiative Modifier Bonus
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: section_inventory_equipment
+      label: -- Inventory and Equipment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: primary_weapon_equipped
+      label: Primary Weapon Equipped
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: secondary_weapon_or_shield
+      label: Secondary Weapon or Shield
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: armor_equipped_description
+      label: Armor Equipped Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: miscellaneous_items_inventory
+      label: Miscellaneous Items in Inventory
+      hint: List 2-3 significant items
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: gold_currency_total
+      label: Gold and Currency Total
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: section_abilities_skills
+      label: -- Abilities and Special Skills --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: primary_ability_or_feat
+      label: Primary Ability or Feat
+      hint: Describe one major skill
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: secondary_ability_or_feat
+      label: Secondary Ability or Feat
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: language_proficiencies_list
+      label: Language Proficiencies List
+      hint: What languages can your character speak?
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: accuracy_confirmation_character_sheet
+      label: Confirmation of Character Sheet Details
+      hint: I confirm that these stats accurately reflect my character
+      type: select_one
+      options:
+      - I Confirm and Log Sheet
+      - Other
+      required: true
+    - id: 30
+      name: date_of_character_sheet_update_log
+      label: Date of Last Update
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 31
+      name: additional_character_notes_sheet
+      label: Additional Character Notes
+      hint: Any other relevant information or context
+      type: text
+      options: []
+      required: false

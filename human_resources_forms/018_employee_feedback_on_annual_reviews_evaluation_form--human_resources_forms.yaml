@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Feedback On Annual Reviews Evaluation Form
+    pages:
+    - id: 1
+      name: form_section
+      label: form_section
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: feedback_questions
+      label: feedback_questions
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: questions_and_answers
+      label: questions_and_answers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: rating_scale
+      label: rating_scale
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 5
+      name: overall_experience
+      label: overall_experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submit_button
+      label: submit_button
+      hint: null
+      type: text
+      options: []
+      required: false

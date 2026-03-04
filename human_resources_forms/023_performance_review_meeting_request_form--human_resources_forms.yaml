@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Performance Review Meeting Request Form
+    pages:
+    - id: 1
+      name: review_request
+      label: Request Review Meeting
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: meeting_date
+      label: Meeting Date
+      hint: Format YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: meeting_time
+      label: Meeting Time
+      hint: "Format HH:MM AM/PM"
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: review_topic
+      label: Review Topic
+      hint: Choose one or more topics to review
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: reviewers
+      label: Reviewers
+      hint: Add reviewers names
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: meeting_location
+      label: Meeting Location
+      hint: Where would you like to hold the meeting
+      type: select_one
+      options:
+      - Remote
+      - Office
+      - On-site
+      required: false
+    - id: 7
+      name: meeting_duration
+      label: Meeting Duration
+      hint: In minutes
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: submit_request
+      label: Submit Request
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Cancel
+      - Save for later
+      required: false

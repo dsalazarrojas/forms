@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Background Check Verification Form
+    pages:
+      - id: 1
+        name: verifier_name
+        label: Verifier name
+        hint: HR staff completing verification
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: candidate_name
+        label: Candidate name
+        hint: Full legal name
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: verification_type
+        label: Verification type
+        hint: Select what was verified
+        type: select_multiple
+        options: [Employment, Education, Criminal record, References]
+        required: true
+      - id: 4
+        name: verification_result
+        label: Verification result
+        hint: Pass fail or discrepancies
+        type: select_one
+        options: [Verified, Discrepancy noted, Not verified]
+        required: true
+      - id: 5
+        name: details_of_findings
+        label: Details of findings
+        hint: Summarize verification details
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: date_verified
+        label: Date verified
+        hint: Date of verification
+        type: date
+        options: []
+        required: true
+      - id: 7
+        name: verified_by_contact
+        label: Verifier contact information
+        hint: Email or phone
+        type: text
+        options: []
+        required: false
+      - id: 8
+        name: recommendation
+        label: Recommendation based on verification
+        hint: Hire proceed with caution do not hire
+        type: select_one
+        options: [Proceed to hire, Further review required, Do not hire]
+        required: true
+      - id: 9
+        name: record_attachment_notes
+        label: Attachment notes
+        hint: Document references attached to record
+        type: note
+        options: []
+        required: false
+      - id: 10
+        name: hr_signature
+        label: HR signature name
+        hint: Typed name certifies verification
+        type: text
+        options: []
+        required: true

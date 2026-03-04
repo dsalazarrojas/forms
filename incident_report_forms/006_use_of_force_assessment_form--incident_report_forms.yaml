@@ -1,0 +1,110 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Use Of Force Assessment Form
+    pages:
+    - id: 1
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: use_of_force_details
+      label: Use Of Force Details
+      hint: Provide a detailed account of the use of force
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: officer_in_charge
+      label: Officer In Charge
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''John Doe'', ''label'': ''John Doe''}'
+      - '{''value'': ''Jane Smith'', ''label'': ''Jane Smith''}'
+      - '{''value'': ''Jim Brown'', ''label'': ''Jim Brown''}'
+      required: false
+    - id: 4
+      name: suspect
+      label: Suspect
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Suspect 1'', ''label'': ''Suspect 1''}'
+      - '{''value'': ''Suspect 2'', ''label'': ''Suspect 2''}'
+      - '{''value'': ''Suspect 3'', ''label'': ''Suspect 3''}'
+      required: false
+    - id: 5
+      name: witnesses
+      label: Witnesses
+      hint: List any witnesses
+      type: select_multiple
+      options:
+      - '{''value'': ''Witness 1'', ''label'': ''Witness 1''}'
+      - '{''value'': ''Witness 2'', ''label'': ''Witness 2''}'
+      - '{''value'': ''Witness 3'', ''label'': ''Witness 3''}'
+      required: false
+    - id: 6
+      name: officer_involved
+      label: Officer Involved
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Officer 1'', ''label'': ''Officer 1''}'
+      - '{''value'': ''Officer 2'', ''label'': ''Officer 2''}'
+      - '{''value'': ''Officer 3'', ''label'': ''Officer 3''}'
+      required: false
+    - id: 7
+      name: incident_location
+      label: Incident Location
+      hint: Provide a detailed account of the incident location
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: incident_time
+      label: Incident Time
+      hint: Provide the time of the incident
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: officer_response
+      label: Officer Response
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Response 1'', ''label'': ''Response 1''}'
+      - '{''value'': ''Response 2'', ''label'': ''Response 2''}'
+      - '{''value'': ''Response 3'', ''label'': ''Response 3''}'
+      required: false
+    - id: 10
+      name: investigation_status
+      label: Investigation Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Open'', ''label'': ''Open''}'
+      - '{''value'': ''Closed'', ''label'': ''Closed''}'
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: Additional information about the incident
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: guest_communication_portal_access_request
+    pages:
+    - id: 1
+      name: guest_portal_access_request
+      label: Guest Portal Access Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_first_name
+      label: First Name
+      hint: First name of the guest
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_last_name
+      label: Last Name
+      hint: Last name of the guest
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: purpose_of_request
+      label: Purpose of Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: access_duration
+      label: Access Duration
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: Additional comments about the request
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: access_type
+      label: Access Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Full Access''}'
+      - '{''id'': 2, ''value'': ''Limited Access''}'
+      - '{''id'': 3, ''value'': ''No Access''}'
+      required: true
+    - id: 10
+      name: contact_address
+      label: Address
+      hint: Address of the guest
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_city
+      label: City
+      hint: City of the guest
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_state
+      label: State
+      hint: State of the guest
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_zip
+      label: Zip
+      hint: Zip of the guest
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_country
+      label: Country
+      hint: Country of the guest
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contact_date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: contact_gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Male''}'
+      - '{''id'': 2, ''value'': ''Female''}'
+      - '{''id'': 3, ''value'': ''Other''}'
+      required: false
+    - id: 17
+      name: contact_language
+      label: Language
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''English''}'
+      - '{''id'': 2, ''value'': ''Spanish''}'
+      - '{''id'': 3, ''value'': ''French''}'
+      - '{''id'': 4, ''value'': ''Other''}'
+      required: false
+    - id: 18
+      name: contact_company
+      label: Company
+      hint: Company where the guest is staying
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: contact_position
+      label: Position
+      hint: Position in the company
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: contact_department
+      label: Department
+      hint: Department in the company
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: contact_manager
+      label: Manager
+      hint: Manager's name in the company
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: contact_manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: contact_manager_phone
+      label: Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: additional_comments_2
+      label: Additional Comments 2
+      hint: Additional comments about the request
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: portal_password
+      label: Guest Portal Password
+      hint: Guest portal password for the guest
+      type: text
+      options: []
+      required: true

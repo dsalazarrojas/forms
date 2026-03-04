@@ -1,0 +1,346 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Company Magazine Survey Form
+    pages:
+      - id: 1
+        name: employee_name
+        label: Your Name
+        hint: Optional
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: employee_email
+        label: Email Address
+        hint: Optional
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: department
+        label: Department
+        hint: Your department
+        type: select_one
+        options:
+          - Executive
+          - Management
+          - Sales
+          - Marketing
+          - Engineering
+          - Product
+          - Operations
+          - Finance
+          - Human Resources
+          - Customer Support
+          - Other
+        required: true
+      - id: 4
+        name: location
+        label: Office Location
+        hint: Where you work
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: read_frequency
+        label: How often do you read the company magazine?
+        hint: Reading habits
+        type: select_one
+        options:
+          - Every issue
+          - Most issues
+          - Some issues
+          - Rarely
+          - Never
+        required: true
+      - id: 6
+        name: enjoyment_level
+        label: How much do you enjoy reading the magazine?
+        hint: Overall enjoyment
+        type: select_one
+        options:
+          - Love it
+          - Like it
+          - It's okay
+          - Don't really like it
+          - Dislike it
+        required: true
+      - id: 7
+        name: section_content
+        label: -- Content Quality --
+        hint: Rate the content
+        type: note
+        options: []
+        required: false
+      - id: 8
+        name: content_relevance
+        label: The content is relevant to my work and interests
+        hint: Relevance rating
+        type: select_one
+        options:
+          - Strongly Agree
+          - Agree
+          - Neutral
+          - Disagree
+          - Strongly Disagree
+        required: true
+      - id: 9
+        name: content_quality
+        label: The quality of articles and content is high
+        hint: Quality rating
+        type: select_one
+        options:
+          - Strongly Agree
+          - Agree
+          - Neutral
+          - Disagree
+          - Strongly Disagree
+        required: true
+      - id: 10
+        name: content_variety
+        label: There is good variety in the types of content
+        hint: Variety rating
+        type: select_one
+        options:
+          - Strongly Agree
+          - Agree
+          - Neutral
+          - Disagree
+          - Strongly Disagree
+        required: true
+      - id: 11
+        name: favorite_sections
+        label: What are your favorite sections?
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Company News
+          - Employee Spotlights
+          - Industry Insights
+          - Project Highlights
+          - Leadership Messages
+          - Tips and How-Tos
+          - Events and Social
+          - Recognition Corner
+          - Q&A Sessions
+          - Other
+        required: false
+      - id: 12
+        name: least_favorite_sections
+        label: What sections do you least enjoy?
+        hint: Select all that apply
+        type: select_multiple
+        options:
+          - Company News
+          - Employee Spotlights
+          - Industry Insights
+          - Project Highlights
+          - Leadership Messages
+          - Tips and How-Tos
+          - Events and Social
+          - Recognition Corner
+          - Q&A Sessions
+          - Other
+        required: false
+      - id: 13
+        name: section_engagement
+        label: -- Engagement --
+        hint: Your engagement
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: read_thoroughly
+        label: Do you read the magazine thoroughly?
+        hint: Reading depth
+        type: select_one
+        options:
+          - Yes, cover to cover
+          - Yes, most articles
+          - I skim through it
+          - I only look at certain sections
+          - I rarely look at it
+        required: true
+      - id: 15
+        name: share_magazine
+        label: Do you share the magazine with colleagues?
+        hint: Sharing behavior
+        type: select_one
+        options:
+          - Yes, always
+          - Yes, sometimes
+          - Rarely
+          - No, never
+        required: false
+      - id: 16
+        name: save_magazine
+        label: Do you save past issues?
+        hint: Keeping issues
+        type: select_one
+        options:
+          - Yes, all issues
+          - Yes, select issues
+          - No, I recycle them
+        required: false
+      - id: 17
+        name: section_format
+        label: -- Format and Design --
+        hint: Rate the format
+        type: note
+        options: []
+        required: false
+      - id: 18
+        name: design_appeal
+        label: The magazine design is visually appealing
+        hint: Design rating
+        type: select_one
+        options:
+          - Strongly Agree
+          - Agree
+          - Neutral
+          - Disagree
+          - Strongly Disagree
+        required: true
+      - id: 19
+        name: readability
+        label: The magazine is easy to read
+        hint: Readability rating
+        type: select_one
+        options:
+          - Strongly Agree
+          - Agree
+          - Neutral
+          - Disagree
+          - Strongly Disagree
+        required: true
+      - id: 20
+        name: preferred_format
+        label: What is your preferred format?
+        hint: Format preference
+        type: select_one
+        options:
+          - Print only
+          - Digital only
+          - Both print and digital
+          - No preference
+        required: true
+      - id: 21
+        name: section_frequency
+        label: -- Publication Frequency --
+        hint: Timing preferences
+        type: note
+        options: []
+        required: false
+      - id: 22
+        name: current_frequency
+        label: Is the current publication frequency appropriate?
+        hint: Frequency satisfaction
+        type: select_one
+        options:
+          - Yes, it's perfect
+          - No, should be more frequent
+          - No, should be less frequent
+        required: true
+      - id: 23
+        name: preferred_frequency
+        label: What would be your preferred frequency?
+        hint: Ideal frequency
+        type: select_one
+        options:
+          - Weekly
+          - Bi-weekly
+          - Monthly
+          - Quarterly
+          - Semi-annually
+          - Annually
+        required: false
+      - id: 24
+        name: section_contribution
+        label: -- Contribution --
+        hint: Your involvement
+        type: note
+        options: []
+        required: false
+      - id: 25
+        name: interested_contributing
+        label: Would you be interested in contributing content?
+        hint: Willingness to contribute
+        type: select_one
+        options:
+          - Yes, definitely
+          - Maybe, depending on topic
+          - No, not interested
+        required: true
+      - id: 26
+        name: contribution_type
+        label: What type of content would you contribute?
+        hint: Content type
+        type: select_multiple
+        options:
+          - Article writing
+          - Photography
+          - Project updates
+          - Tips and tricks
+          - Event coverage
+          - Interviews
+          - Other
+        required: false
+      - id: 27
+        name: section_improvement
+        label: -- Improvements --
+        hint: Your suggestions
+        type: note
+        options: []
+        required: false
+      - id: 28
+        name: content_suggestions
+        label: What topics would you like to see more of?
+        hint: Topic suggestions
+        type: text
+        options: []
+        required: false
+      - id: 29
+        name: improvement_suggestions
+        label: What improvements would you suggest?
+        hint: General improvements
+        type: text
+        options: []
+        required: false
+      - id: 30
+        name: overall_rating
+        label: Overall, how would you rate the company magazine?
+        hint: Overall rating
+        type: select_one
+        options:
+          - Excellent
+          - Very Good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 31
+        name: additional_comments
+        label: Any additional comments?
+        hint: Your thoughts
+        type: text
+        options: []
+        required: false
+      - id: 32
+        name: survey_date
+        label: Survey Completion Date
+        hint: Today's date
+        type: date
+        options: []
+        required: true

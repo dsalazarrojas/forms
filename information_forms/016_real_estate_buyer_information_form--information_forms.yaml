@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Real Estate Buyer Information Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: buyer_type
+      label: Buyer Type
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      - Both
+      required: false
+    - id: 6
+      name: home_value
+      label: Home Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: move_in_date
+      label: Move In Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: move_in_time
+      label: Move In Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: agent_name
+      label: Agent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: additional_notes
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: real_estate_agent
+      label: Real Estate Agent
+      hint: null
+      type: select_one
+      options:
+      - Agent
+      - Non-Agent
+      required: false
+    - id: 13
+      name: has_financials
+      label: Has Financials
+      hint: null
+      type: select_multiple
+      options:
+      - Financials
+      - No Financials
+      - Unknown
+      required: false
+    - id: 14
+      name: has_documents
+      label: Has Documents
+      hint: null
+      type: select_multiple
+      options:
+      - Documents
+      - No Documents
+      - Unknown
+      required: false
+    - id: 15
+      name: has_other_buyers
+      label: Has Other Buyers
+      hint: null
+      type: select_multiple
+      options:
+      - Other Buyers
+      - No Other Buyers
+      - Unknown
+      required: false

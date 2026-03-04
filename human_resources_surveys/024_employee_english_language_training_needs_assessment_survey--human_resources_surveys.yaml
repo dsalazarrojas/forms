@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee English Language Training Needs Assessment Survey
+    pages:
+    - id: 1
+      name: employee_english_language_training_needs_assessment_survey
+      label: Employee English Language Training Needs Assessment Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: Human Resources Surveys
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: description
+      label: Employee English Language Training Needs Assessment Survey supports HR
+        and training teams with data collection to plan workplace English programs,
+        prioritize learning goals, and review each form submission in Jotform.
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''chatjimmy''}'
+      - Other
+      required: true

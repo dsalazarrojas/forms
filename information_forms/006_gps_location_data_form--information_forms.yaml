@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: gps_location_data_form
+    pages:
+    - id: 1
+      name: location_info
+      label: Enter GPS Location Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: latitude
+      label: Latitude
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: longitude
+      label: Longitude
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: altitude
+      label: Altitude
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: location_accuracy
+      label: Location Accuracy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: location_source
+      label: Location Source
+      hint: null
+      type: select_one
+      options:
+      - GPS
+      - Google Maps
+      - Apple Maps
+      - Manual
+      required: true
+    - id: 7
+      name: location_description
+      label: Location Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: time_zone
+      label: Time Zone
+      hint: null
+      type: select_one
+      options:
+      - Eastern
+      - Central
+      - Mountain
+      - Pacific
+      - Alaska
+      required: false
+    - id: 9
+      name: created_by
+      label: Created By
+      hint: null
+      type: select_multiple
+      options:
+      - User 1
+      - User 2
+      - User 3
+      required: false
+    - id: 10
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: select_multiple
+      options:
+      - User 1
+      - User 2
+      - User 3
+      required: false
+    - id: 11
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: updated_time
+      label: Updated Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: updated_date
+      label: Updated Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_multiple
+      options:
+      - User 1
+      - User 2
+      - User 3
+      required: true

@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Scrum Master Interview Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: job_level
+      label: Job Level
+      hint: null
+      type: select_multiple
+      options:
+      - Software Engineer
+      - QA Engineer
+      - DevOps Engineer
+      required: true
+    - id: 6
+      name: scrum_master_role
+      label: Scrum Master Role
+      hint: null
+      type: select_one
+      options:
+      - Scrum Master
+      - Scrum of Works
+      - Team Lead
+      required: true
+    - id: 7
+      name: experience
+      label: Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: education
+      label: Education
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: certification
+      label: Certification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: languages
+      label: Languages
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: skills
+      label: Skills
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: tools
+      label: Tools
+      hint: null
+      type: select_multiple
+      options:
+      - Agile
+      - Jira
+      - Trello
+      - Asana
+      required: true
+    - id: 13
+      name: work_status
+      label: Work Status
+      hint: null
+      type: select_one
+      options:
+      - Working Full Time
+      - Working Part Time
+      - Not Working
+      required: true
+    - id: 14
+      name: notice_period
+      label: Notice Period
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: notice_start
+      label: Notice Start
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: notice_end
+      label: Notice End
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: availability
+      label: Availability
+      hint: null
+      type: select_multiple
+      options:
+      - Full Time
+      - Part Time
+      required: false
+    - id: 18
+      name: work_type
+      label: Work Type
+      hint: null
+      type: select_one
+      options:
+      - Remote
+      - On Site
+      required: true
+    - id: 19
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_one
+      options:
+      - Full Time
+      - Part Time
+      - Contract
+      required: true
+    - id: 20
+      name: salary
+      label: Salary
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: desired_salary
+      label: Desired Salary
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: notice_salary
+      label: Notice Salary
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: notice_bonus
+      label: Notice Bonus
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: notice_currency
+      label: Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - JPY
+      - CNY
+      required: true
+    - id: 25
+      name: resume
+      label: Resume
+      hint: null
+      type: text
+      options: []
+      required: false

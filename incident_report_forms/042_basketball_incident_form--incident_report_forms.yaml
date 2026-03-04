@@ -1,0 +1,198 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Basketball Incident Form
+    pages:
+      - id: 1
+        name: section_header_1
+        label: -- Incident Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: incident_date
+        label: Incident date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: incident_time
+        label: Incident time
+        hint: null
+        type: time
+        options: []
+        required: true
+      - id: 4
+        name: location
+        label: Location of incident
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: section_header_2
+        label: -- Incident Type --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: incident_type
+        label: Type of incident
+        hint: null
+        type: select_one
+        options: [Injury, Misconduct, Equipment Damage, Safety Violation, Other]
+        required: true
+      - id: 7
+        name: severity
+        label: Severity level
+        hint: null
+        type: select_one
+        options: [Minor, Moderate, Severe]
+        required: true
+      - id: 8
+        name: section_header_3
+        label: -- People Involved --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 9
+        name: involved_person
+        label: Name of person involved
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: involved_player_number
+        label: Player number (if applicable)
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 11
+        name: team_name
+        label: Team name
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 12
+        name: witnesses
+        label: Witnesses present
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 13
+        name: section_header_4
+        label: -- Incident Description --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 14
+        name: incident_description
+        label: Detailed description of incident
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 15
+        name: contributing_factors
+        label: Contributing factors
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: section_header_5
+        label: -- Medical Response (if applicable) --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 17
+        name: medical_attention_needed
+        label: Medical attention required?
+        hint: null
+        type: select_one
+        options: [Yes, No]
+        required: false
+      - id: 18
+        name: medical_response
+        label: Medical response taken
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 19
+        name: transported_to_hospital
+        label: Transported to hospital?
+        hint: null
+        type: select_one
+        options: [Yes, No]
+        required: false
+      - id: 20
+        name: section_header_6
+        label: -- Follow-up Actions --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 21
+        name: action_taken
+        label: Action taken or recommended
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 22
+        name: coaching_decision
+        label: Coaching decision or disciplinary action
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: section_header_7
+        label: -- Report Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 24
+        name: reporter_name
+        label: Person reporting incident
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 25
+        name: reporter_role
+        label: Reporter role
+        hint: null
+        type: select_one
+        options: [Coach, Player, Official, Athletic Trainer, Parent, Spectator, Other]
+        required: true
+      - id: 26
+        name: report_confirmation
+        label: I confirm this report is accurate
+        hint: null
+        type: select_one
+        options: [I Confirm, I Need to Review]
+        required: true

@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Exit Interview Questionnaire Form
+    pages:
+    - id: 1
+      name: employee_left_on
+      label: Employee Left On
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: reason_for_leaving
+      label: reason_for_leaving
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': 1}'
+      - '{''value'': 2, ''label'': 2}'
+      - '{''value'': 3, ''label'': 3}'
+      required: false
+    - id: 3
+      name: company_rating
+      label: company_rating
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': 1}'
+      - '{''value'': 2, ''label'': 2}'
+      - '{''value'': 3, ''label'': 3}'
+      required: false
+    - id: 4
+      name: manager_rating
+      label: manager_rating
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': 1}'
+      - '{''value'': 2, ''label'': 2}'
+      - '{''value'': 3, ''label'': 3}'
+      required: false
+    - id: 5
+      name: department_satisfaction
+      label: department_satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: overall_experience
+      label: overall_experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: feedback
+      label: feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: exit_question_1
+      label: exit_question_1
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': 1}'
+      - '{''value'': 2, ''label'': 2}'
+      - '{''value'': 3, ''label'': 3}'
+      required: false
+    - id: 10
+      name: exit_question_2
+      label: exit_question_2
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': 1}'
+      - '{''value'': 2, ''label'': 2}'
+      - '{''value'': 3, ''label'': 3}'
+      required: false

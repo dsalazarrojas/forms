@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pro Release Information Request
+    pages:
+    - id: 1
+      name: information_request
+      label: Information Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: purpose
+      label: Purpose
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: urgency
+      label: Urgency
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      - Medium
+      required: true
+    - id: 4
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - Not Reviewed
+      - Under Review
+      - Reviewed
+      required: true
+    - id: 6
+      name: response_date
+      label: Response Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: response_time
+      label: Response Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: reviewers
+      label: Reviewers
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Disciplinary Action Communication Form
+    pages:
+    - id: 1
+      name: action_taken
+      label: Reason for Disciplinary Action
+      hint: A description of the reason for the action
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_action
+      label: Date of Action
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: action_type
+      label: Type of Action
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Verbal Warning'', ''value'': 1}'
+      - '{''id'': 2, ''label'': ''Written Warning'', ''value'': 2}'
+      - '{''id'': 3, ''label'': ''Termination'', ''value'': 3}'
+      required: false
+    - id: 4
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: disciplinary_action_taken
+      label: Disciplinary Action Taken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email_sent
+      label: Email Sent
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

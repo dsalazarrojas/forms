@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: rbt_bcba_information_submission
+    pages:
+    - id: 1
+      name: rbt_bcba_information
+      label: rbt_bcba_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: rbt_bcba_credentials
+      label: rbt_bcba_credentials
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: rbt_bcba_education
+      label: rbt_bcba_education
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: rbt_bcba_training
+      label: rbt_bcba_training
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: rbt_bcba_certification
+      label: rbt_bcba_certification
+      hint: null
+      type: select_one
+      options:
+      - RBT Certification
+      - BCBOR Certification
+      - RBP Certification
+      - Other
+      required: false
+    - id: 9
+      name: rbt_bcba_renewal_date
+      label: rbt_bcba_renewal_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: rbt_bcba_renewal_status
+      label: rbt_bcba_renewal_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: rbt_bcba_license_type
+      label: rbt_bcba_license_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: rbt_bcba_license_number
+      label: rbt_bcba_license_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: rbt_bcba_license_issuance_date
+      label: rbt_bcba_license_issuance_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: rbt_bcba_license_expiration_date
+      label: rbt_bcba_license_expiration_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: rbt_bcba_renewal_expiration_date
+      label: rbt_bcba_renewal_expiration_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: rbt_bcba_license_status
+      label: rbt_bcba_license_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 17
+      name: rbt_bcba_license_expiration
+      label: rbt_bcba_license_expiration
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: rbt_bcba_notes
+      label: rbt_bcba_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: assigned_user
+      label: assigned_user
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: rbt_bcba_last_renewal_date
+      label: rbt_bcba_last_renewal_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: rbt_bcba_last_renewal_status
+      label: rbt_bcba_last_renewal_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 22
+      name: rbt_bcba_last_renewal_issuer
+      label: rbt_bcba_last_renewal_issuer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: rbt_bcba_last_renewal_issuer_address
+      label: rbt_bcba_last_renewal_issuer_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: rbt_bcba_last_renewal_issuer_city
+      label: rbt_bcba_last_renewal_issuer_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: rbt_bcba_last_renewal_issuer_state
+      label: rbt_bcba_last_renewal_issuer_state
+      hint: null
+      type: text
+      options: []
+      required: false

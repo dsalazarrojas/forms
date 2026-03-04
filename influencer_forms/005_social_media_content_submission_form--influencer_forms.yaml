@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: social_media_content_submission_form
+    pages:
+    - id: 1
+      name: social_media_platforms
+      label: social_media_platforms
+      hint: null
+      type: select_one
+      options:
+      - Instagram
+      - Facebook
+      - Twitter
+      required: false
+    - id: 2
+      name: client_platforms
+      label: client_platforms
+      hint: null
+      type: select_multiple
+      options:
+      - Facebook
+      - Instagram
+      - Twitter
+      - TikTok
+      - YouTube
+      required: false
+    - id: 3
+      name: content_type
+      label: content_type
+      hint: null
+      type: select_one
+      options:
+      - text
+      - image
+      - video
+      required: false
+    - id: 4
+      name: post_frequency
+      label: post_frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: post_time
+      label: post_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: post_date
+      label: post_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: post_status
+      label: post_status
+      hint: null
+      type: select_one
+      options:
+      - draft
+      - published
+      - archived
+      required: false
+    - id: 8
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: url
+      label: url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: tags
+      label: tags
+      hint: null
+      type: select_multiple
+      options:
+      - '#hashtag1'
+      - '#hashtag2'
+      - '#hashtag3'
+      required: false
+    - id: 11
+      name: image
+      label: image
+      hint: null
+      type: text
+      options: []
+      required: false

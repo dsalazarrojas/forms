@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Restaurant Incident Report Form
+    pages:
+    - id: 1
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: witnesses
+      label: Witnesses
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: witness_1
+      label: Witness 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: witness_2
+      label: Witness 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

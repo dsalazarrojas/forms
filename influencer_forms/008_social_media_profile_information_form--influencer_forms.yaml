@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: social_media_profile_information_form
+    pages:
+    - id: 1
+      name: social_media_platforms
+      label: Social Media Platforms
+      hint: null
+      type: select_multiple
+      options:
+      - Facebook
+      - Instagram
+      - Twitter
+      - YouTube
+      - TikTok
+      - Snapchat
+      - Pinterest
+      - Reddit
+      - LinkedIn
+      - Twitch
+      - Twitch Stream
+      - Discord
+      - Twitch Chat
+      - Patreon
+      - Twitch Donate
+      required: false
+    - id: 2
+      name: platform_url
+      label: Platform URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: profile_username
+      label: Profile Username
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: profile_description
+      label: Profile Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: profile_email
+      label: Profile Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: profile_phone
+      label: Profile Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: profile_linkedin
+      label: LinkedIn
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: profile_facebook
+      label: Facebook
+      hint: null
+      type: text
+      options: []
+      required: false

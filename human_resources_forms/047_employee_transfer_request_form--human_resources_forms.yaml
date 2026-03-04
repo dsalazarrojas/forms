@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Transfer Request Form
+    pages:
+    - id: 1
+      name: employee_transfer_request_form
+      label: employee_transfer_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: current_department
+      label: current_department
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Human Resources''}'
+      - '{''value'': ''Engineering''}'
+      - '{''value'': ''Marketing''}'
+      - '{''value'': ''Sales''}'
+      required: false
+    - id: 4
+      name: new_department
+      label: new_department
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Human Resources''}'
+      - '{''value'': ''Engineering''}'
+      - '{''value'': ''Marketing''}'
+      - '{''value'': ''Sales''}'
+      required: false
+    - id: 5
+      name: reason
+      label: reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

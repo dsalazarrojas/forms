@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Structured Interview Survey
+    pages:
+    - id: 1
+      name: candidate_info
+      label: Candidate Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: question_1
+      label: What did the candidate say about company culture?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: question_2
+      label: How well was the candidate prepared?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: question_3
+      label: What were the strengths of the candidate?
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: candidate_score
+      label: Final candidate score
+      hint: null
+      type: number
+      options: []
+      required: false

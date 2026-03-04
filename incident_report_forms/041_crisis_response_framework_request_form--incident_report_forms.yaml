@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Crisis Response Framework Request Form
+    pages:
+    - id: 1
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_one
+      options:
+      - Emergency
+      - Crisis
+      - Other
+      required: false
+    - id: 2
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: request_type
+      label: Request Type
+      hint: null
+      type: select_one
+      options:
+      - Support
+      - Information
+      - Other
+      required: false
+    - id: 6
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: request_time
+      label: Request Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: team_id
+      label: Team ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: team_member_name
+      label: Team Member Name
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Resource Management Training Acknowledgement
+    pages:
+    - id: 1
+      name: resource_management_training_acknowledgement
+      label: Attendance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: training_topics
+      label: Topics
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: trainer_signature
+      label: Trainers Signature
+      hint: Please sign above in the space provided
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: attendee_signature
+      label: Participants Signature
+      hint: Please sign above in the space provided
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: feedback
+      label: Trainers Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: feedback
+      label: Participants Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: training_session_date
+      label: Training Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: training_start_time
+      label: Training Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: training_duration
+      label: Training Duration
+      hint: hours
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: attendees
+      label: Attendance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

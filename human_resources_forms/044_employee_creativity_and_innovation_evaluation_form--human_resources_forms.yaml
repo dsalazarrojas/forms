@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Creativity And Innovation Evaluation Form
+    pages:
+    - id: 1
+      name: employee_creativity
+      label: employee_creativity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: innovation_contributions
+      label: innovation_contributions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: creativity_skills
+      label: creativity_skills
+      hint: null
+      type: select_one
+      options:
+      - Innovation
+      - Creativity
+      - Collaboration
+      required: false
+    - id: 4
+      name: innovative_contributions
+      label: innovative_contributions
+      hint: null
+      type: select_multiple
+      options:
+      - Innovation
+      - Creativity
+      - Teamwork
+      required: false
+    - id: 5
+      name: innovation_capacity
+      label: innovation_capacity
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 6
+      name: evaluation_scale
+      label: evaluation_scale
+      hint: null
+      type: select_one
+      options:
+      - Scale 1
+      - Scale 2
+      - Scale 3
+      required: false
+    - id: 7
+      name: evaluation_date
+      label: evaluation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: evaluation_time
+      label: evaluation_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: evaluation_frequency
+      label: evaluation_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false

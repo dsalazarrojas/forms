@@ -1,0 +1,46 @@
+inputSchema:
+  type: object
+  properties:
+    title: Flat Six Engine Swap Interest Form
+    pages:
+    - id: 1
+      name: vehicle_details
+      label: Vehicle Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: goals
+      label: Goals
+      hint: null
+      type: select_multiple
+      options:
+      - Goal 1
+      - Goal 2
+      - Goal 3
+      required: true
+    - id: 3
+      name: services_of_interest
+      label: Services of Interest
+      hint: null
+      type: select_multiple
+      options:
+      - Service 1
+      - Service 2
+      - Service 3
+      required: true
+    - id: 4
+      name: budget_range
+      label: Budget Range
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: true

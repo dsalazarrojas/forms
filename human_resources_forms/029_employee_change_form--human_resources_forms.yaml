@@ -1,0 +1,37 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Change Form
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Terminated
+      - Retired
+      required: false
+    - id: 3
+      name: reason_for_change
+      label: Reason for Change
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: change_effective_date
+      label: Change Effective Date
+      hint: null
+      type: date
+      options: []
+      required: false

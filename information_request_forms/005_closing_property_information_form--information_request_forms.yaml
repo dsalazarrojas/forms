@@ -1,0 +1,199 @@
+inputSchema:
+  type: object
+  properties:
+    title: Closing Property Information Form
+    pages:
+    - id: 1
+      name: section_seller_info
+      label: -- Seller Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: seller_name
+      label: Seller Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: seller_email
+      label: Seller Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: seller_phone
+      label: Seller Phone Number
+      hint: Primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_property_details
+      label: -- Property Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: property_address
+      label: Property Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: property_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: property_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: property_zip
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Single family home
+      - Multi-family
+      - Condo
+      - Townhouse
+      - Land
+      - Commercial
+      - Other
+      required: true
+    - id: 11
+      name: year_built
+      label: Year Built
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: square_footage
+      label: Square Footage
+      hint: Total living area
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: bedrooms
+      label: Number of Bedrooms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: bathrooms
+      label: Number of Bathrooms
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: section_ownership
+      label: -- Ownership and Title --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: ownership_duration
+      label: How long have you owned this property?
+      hint: Years or months
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: title_status
+      label: Is title clear and free of liens?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: true
+    - id: 18
+      name: title_company
+      label: Title Company Name
+      hint: If known
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_disclosures
+      label: -- Property Disclosures --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: structural_issues
+      label: Any known structural issues or damage?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unknown
+      required: true
+    - id: 21
+      name: structural_description
+      label: Describe structural issues
+      hint: Leave blank if none
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: water_damage_history
+      label: History of water damage or flooding?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unknown
+      required: true
+    - id: 23
+      name: pest_issues
+      label: Known pest or termite issues?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unknown
+      required: true
+    - id: 24
+      name: section_utilities
+      label: -- Utilities and Systems --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: roof_age
+      label: Roof Age - Years
+      hint: Approximate age of roof
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Damage Incident Form
+    pages:
+    - id: 1
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: damaged_property
+      label: Damaged Property
+      hint: null
+      type: select_one
+      options:
+      - kitchen
+      - bedroom
+      - living room
+      - bathroom
+      - yard
+      required: false
+    - id: 5
+      name: damage_description
+      label: Damage Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: damage_amount
+      label: Damage Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: damage_cost
+      label: Damage Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: incident_category
+      label: Incident Category
+      hint: null
+      type: select_one
+      options:
+      - fire
+      - water
+      - storm
+      - burglary
+      - other
+      required: false

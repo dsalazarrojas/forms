@@ -1,0 +1,316 @@
+inputSchema:
+  type: object
+  properties:
+    title: Company Selection For Interviews
+    pages:
+    - id: 1
+      name: candidate_full_name
+      label: Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: candidate_email
+      label: Email Address
+      hint: Your email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: candidate_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: position_applied
+      label: Position Applied For
+      hint: Job title
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: application_id
+      label: Application ID
+      hint: If you have one
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_company_selection
+      label: -- Company Preferences --
+      hint: Select companies for interviews
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: first_choice_company
+      label: First Choice Company
+      hint: Top preference
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: first_choice_reason
+      label: Why is this your first choice?
+      hint: Your reasoning
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: second_choice_company
+      label: Second Choice Company
+      hint: Backup preference
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: third_choice_company
+      label: Third Choice Company
+      hint: Third preference
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: open_to_other_companies
+      label: Are you open to interviewing with other companies?
+      hint: Flexibility
+      type: select_one
+      options:
+      - Yes, definitely
+      - Yes, possibly
+      - No, only my choices
+      required: true
+    - id: 12
+      name: section_interview_preferences
+      label: -- Interview Preferences --
+      hint: Your preferences
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: interview_format
+      label: Preferred Interview Format
+      hint: How to conduct
+      type: select_one
+      options:
+      - In-person
+      - Video call
+      - Phone
+      - Either
+      required: true
+    - id: 14
+      name: interview_location
+      label: Preferred Interview Location
+      hint: If in-person
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: interview_availability
+      label: General Availability
+      hint: When you're free
+      type: select_multiple
+      options:
+      - Monday morning
+      - Monday afternoon
+      - Tuesday morning
+      - Tuesday afternoon
+      - Wednesday morning
+      - Wednesday afternoon
+      - Thursday morning
+      - Thursday afternoon
+      - Friday morning
+      - Friday afternoon
+      - Weekend (if available)
+      required: true
+    - id: 16
+      name: specific_dates
+      label: Specific Dates Available
+      hint: Date range
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: dates_unavailable
+      label: Dates You Are NOT Available
+      hint: Conflicts
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: section_logistics
+      label: -- Logistics --
+      hint: Practical details
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: relocation_willingness
+      label: Are you willing to relocate?
+      hint: Relocation
+      type: select_one
+      options:
+      - Yes, anywhere
+      - Yes, to specific locations
+      - No, remote only
+      - No, must stay local
+      required: true
+    - id: 20
+      name: relocation_locations
+      label: If yes, which locations?
+      hint: Preferred locations
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: travel_willingness
+      label: Are you willing to travel for interviews?
+      hint: Travel for interview
+      type: select_one
+      options:
+      - Yes, any distance
+      - Yes, within region
+      - Yes, up to 2 hours
+      - No, local only
+      required: true
+    - id: 22
+      name: travel_expense
+      label: Who will cover travel expenses?
+      hint: Expense coverage
+      type: select_one
+      options:
+      - Company covers all
+      - I cover my own
+      - Split cost
+      - Not applicable
+      required: false
+    - id: 23
+      name: section_compensation
+      label: -- Compensation Expectations --
+      hint: Salary information
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: salary_expectation
+      label: Salary Expectation
+      hint: Expected range
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: salary_negotiable
+      label: Is your salary expectation negotiable?
+      hint: Flexibility
+      type: select_one
+      options:
+      - true
+      - false
+      - Depends on benefits
+      required: false
+    - id: 26
+      name: benefits_priority
+      label: Which benefits are most important to you?
+      hint: Priority benefits
+      type: select_multiple
+      options:
+      - Health insurance
+      - Dental insurance
+      - Vision insurance
+      - 401(k) matching
+      - Paid time off
+      - Remote work
+      - Professional development
+      - Stock options
+      - Bonus structure
+      - Other
+      required: false
+    - id: 27
+      name: section_additional
+      label: -- Additional Information --
+      hint: More details
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: resume_attached
+      label: Have you attached your resume?
+      hint: Resume status
+      type: select_one
+      options:
+      - Yes, attached
+      - Yes, submitted separately
+      - Will submit soon
+      - false
+      required: true
+    - id: 29
+      name: cover_letter_attached
+      label: Have you attached a cover letter?
+      hint: Cover letter status
+      type: select_one
+      options:
+      - Yes, attached
+      - Yes, submitted separately
+      - Will submit soon
+      - false
+      required: false
+    - id: 30
+      name: references_available
+      label: Can you provide references?
+      hint: References
+      type: select_one
+      options:
+      - Yes, upon request
+      - Yes, attached
+      - No, not at this time
+      required: false
+    - id: 31
+      name: work_authorization
+      label: Are you authorized to work in this country?
+      hint: Work authorization
+      type: select_one
+      options:
+      - Yes, citizen
+      - Yes, permanent resident
+      - Yes, with work visa
+      - Need sponsorship
+      - false
+      required: true
+    - id: 32
+      name: visa_status
+      label: If applicable, what is your visa status?
+      hint: Visa details
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: additional_comments
+      label: Any additional comments or questions?
+      hint: Your notes
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: how_heard_about
+      label: How did you hear about this opportunity?
+      hint: Referral source
+      type: select_one
+      options:
+      - Company website
+      - Job board
+      - Social media
+      - Referral
+      - Career fair
+      - Recruiter
+      - Other
+      required: false
+    - id: 35
+      name: submission_date
+      label: Submission Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

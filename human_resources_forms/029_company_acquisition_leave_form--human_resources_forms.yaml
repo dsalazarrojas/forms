@@ -1,0 +1,296 @@
+inputSchema:
+  type: object
+  properties:
+    title: Company Acquisition Leave Form
+    pages:
+    - id: 1
+      name: employee_full_name
+      label: Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID Number
+      hint: Your employee ID
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_email
+      label: Email Address
+      hint: Company email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: employee_phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department
+      hint: Your department
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: Your current position
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: manager_name
+      label: Manager/Supervisor Name
+      hint: Direct supervisor
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: manager_email
+      label: Manager Email
+      hint: Supervisor email
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: hire_date
+      label: Original Hire Date
+      hint: When you were hired
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: acquisition_company
+      label: Name of Acquiring Company
+      hint: Company being acquired by
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: acquisition_announcement_date
+      label: Acquisition Announcement Date
+      hint: When it was announced
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: acquisition_effective_date
+      label: Expected Acquisition Effective Date
+      hint: When acquisition takes effect
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: leave_type
+      label: Type of Leave Requested
+      hint: Leave category
+      type: select_one
+      options:
+      - Personal Leave
+      - Family Leave
+      - Medical Leave
+      - Transition Leave
+      - Sabbatical
+      - Unpaid Leave
+      - Other
+      required: true
+    - id: 14
+      name: leave_start_date
+      label: Leave Start Date
+      hint: When leave begins
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: leave_end_date
+      label: Expected Return Date
+      hint: When you plan to return
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: leave_duration
+      label: Total Duration of Leave
+      hint: Length of leave
+      type: select_one
+      options:
+      - Less than 1 week
+      - 1-2 weeks
+      - 3-4 weeks
+      - 1-2 months
+      - 3-6 months
+      - More than 6 months
+      required: true
+    - id: 17
+      name: leave_reason
+      label: Reason for Leave
+      hint: Brief explanation
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: acquisition_impact
+      label: How is the acquisition influencing your leave decision?
+      hint: Impact statement
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: work_status
+      label: Current Work Status
+      hint: Your status
+      type: select_one
+      options:
+      - Currently working
+      - On existing leave
+      - Last day completed
+      - Transitioning roles
+      required: true
+    - id: 20
+      name: last_working_day
+      label: Last Working Day Before Leave
+      hint: Final day of work
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: pending_projects
+      label: Do you have pending projects or responsibilities?
+      hint: Work in progress
+      type: select_one
+      options:
+      - No, all wrapped up
+      - Yes, few items
+      - Yes, several major items
+      required: true
+    - id: 22
+      name: project_handover
+      label: Have you arranged for project handover?
+      hint: Transition plan
+      type: select_one
+      options:
+      - Yes, fully documented
+      - Yes, partially documented
+      - In progress
+      - No, need assistance
+      required: true
+    - id: 23
+      name: handover_notes
+      label: Please describe handover arrangements
+      hint: Transition details
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: company_property
+      label: Do you have company property to return?
+      hint: Equipment, badges, etc.
+      type: select_one
+      options:
+      - false
+      - Yes, laptop only
+      - Yes, multiple items
+      required: true
+    - id: 25
+      name: property_list
+      label: List company property to be returned
+      hint: Items to return
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: benefits_continuation
+      label: Do you want information about benefits continuation?
+      hint: During leave
+      type: select_one
+      options:
+      - Yes, please send info
+      - No, I understand my benefits
+      - Need to speak with HR
+      required: true
+    - id: 27
+      name: contact_during_leave
+      label: May HR contact you during your leave if needed?
+      hint: Contact permission
+      type: select_one
+      options:
+      - Yes, by email
+      - Yes, by phone
+      - Yes, by either
+      - No, unless urgent
+      required: true
+    - id: 28
+      name: return_intention
+      label: Do you intend to return after the acquisition transition?
+      hint: Future plans
+      type: select_one
+      options:
+      - Yes, definitely
+      - Probably
+      - Unsure
+      - Probably not
+      - false
+      required: true
+    - id: 29
+      name: return_conditions
+      label: If yes, are there any conditions for your return?
+      hint: Requirements
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: hr_meeting_requested
+      label: Would you like to meet with HR before leave?
+      hint: HR consultation
+      type: select_one
+      options:
+      - Yes, please schedule
+      - No, not needed
+      required: true
+    - id: 31
+      name: additional_comments
+      label: Any additional comments or concerns?
+      hint: Your notes
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: employee_signature
+      label: Employee Signature
+      hint: Electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 33
+      name: submission_date
+      label: Submission Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 34
+      name: manager_approval
+      label: Manager Approval (to be completed by manager)
+      hint: Manager name
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: hr_review
+      label: HR Review Status
+      hint: HR use only
+      type: select_one
+      options:
+      - Pending Review
+      - Approved
+      - Approved with Conditions
+      - Denied
+      - More Information Needed
+      required: false

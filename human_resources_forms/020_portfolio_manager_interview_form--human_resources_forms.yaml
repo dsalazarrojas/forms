@@ -1,0 +1,287 @@
+inputSchema:
+  type: object
+  properties:
+    title: portfolio_manager_interview_form
+    pages:
+    - id: 1
+      name: candidate_information
+      label: Candidate Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - active
+      - inactive
+      - retired
+      required: false
+    - id: 4
+      name: job_start_date
+      label: Job Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: job_end_date
+      label: Job End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: job_duration
+      label: Job Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: salary
+      label: Salary
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: work_address
+      label: Work Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: work_address_line_1
+      label: Work Address Line 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: work_address_line_2
+      label: Work Address Line 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - AL
+      - AK
+      - AZ
+      - AR
+      - CA
+      - CO
+      - CT
+      - DE
+      - FL
+      - GA
+      - HI
+      - IL
+      - IN
+      - IA
+      - ID
+      - KS
+      - KY
+      - LA
+      - MA
+      - MD
+      - ME
+      - MI
+      - MN
+      - MS
+      - MO
+      - MT
+      - NE
+      - NV
+      - NH
+      - NJ
+      - NM
+      - NY
+      - NC
+      - OH
+      - OK
+      - OR
+      - PA
+      - RI
+      - SC
+      - SD
+      - TN
+      - TX
+      - UT
+      - VT
+      - VA
+      - WA
+      - WV
+      - WI
+      - WY
+      - DC
+      - PR
+      - VI
+      - MP
+      - AS
+      - GU
+      - VI
+      - AA
+      - UM
+      - PW
+      required: false
+    - id: 16
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: job_title_2
+      label: Job Title 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: work_experience
+      label: Work Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: skills
+      label: Skills
+      hint: null
+      type: select_multiple
+      options:
+      - Microsoft Office
+      - Microsoft Office Suite
+      - Excel
+      - Word
+      - PowerPoint
+      - Google Docs
+      - Google Sheets
+      - Google Slides
+      - Visio
+      - Adobe Creative Suite
+      - Adobe Acrobat
+      - Adobe Photoshop
+      - Adobe Illustrator
+      - Adobe InDesign
+      - Adobe Lightroom
+      - Adobe Dreamweaver
+      - Adobe After Effects
+      - Adobe Illustrator
+      - Sketchup
+      - Revit
+      - 3D Max
+      - Maya
+      - Blender
+      - AutoCAD
+      - CorelDRAW
+      - AutoCAD LT
+      - AutoCAD MEP
+      - AutoCAD Architecture
+      - AutoCAD MEP
+      - Sketchup Pro
+      - Autodesk Inventor
+      - Revit MEP
+      - Autodesk Revit
+      - AutoCAD Electrical
+      - AutoCAD Civil 3D
+      - AutoCAD Architecture
+      - AutoCAD Civil 3D
+      - AutoCAD MEP
+      - CorelDRAW
+      - Adobe Photoshop
+      - Adobe Illustrator
+      - Sketchup
+      - Revit
+      required: false
+    - id: 20
+      name: work_education
+      label: Work Education
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: education_level
+      label: Education Level
+      hint: null
+      type: select_one
+      options:
+      - High School
+      - Some College
+      - Associate's
+      - Bachelor's
+      - Master's
+      - Doctoral
+      - Other
+      required: false
+    - id: 22
+      name: work_experience_years
+      label: Work Experience Years
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: job_function
+      label: Job Function
+      hint: null
+      type: select_multiple
+      options:
+      - Software Development
+      - Data Analysis
+      - Marketing
+      - Sales
+      - Human Resources
+      - Finance
+      - Legal
+      - Operations
+      - Other
+      required: false

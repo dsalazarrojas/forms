@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: it_security_incident_investigation_request_form
+    pages:
+    - id: 1
+      name: report_incident
+      label: Report Incident
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: incident_reporter
+      label: Incident Reporter
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: incident_department
+      label: Incident Department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: incident_priority
+      label: Incident Priority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: incident_status
+      label: Incident Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 10
+      name: incident_assigned_to
+      label: Incident Assigned To
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: incident_comments
+      label: Incident Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: incident_attachments
+      label: Incident Attachments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: incident_resolved
+      label: Incident Resolved
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: incident_resolved_date
+      label: Incident Resolved Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: incident_reporter_comments
+      label: Incident Reporter Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: incident_reviewer_comments
+      label: Incident Reviewer Comments
+      hint: null
+      type: note
+      options: []
+      required: false

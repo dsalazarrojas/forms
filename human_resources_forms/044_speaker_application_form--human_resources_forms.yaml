@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: speaker_application_form
+    pages:
+    - id: 1
+      name: speaker_name
+      label: Speaker Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: speaker_experience
+      label: Speaker Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: availability
+      label: Availability
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: speaker_bio
+      label: Speaker Bio
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: speaker_topics
+      label: Speaker Topics
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: event_dates
+      label: Event Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: speaker_fee
+      label: Speaker Fee
+      hint: null
+      type: number
+      options: []
+      required: false

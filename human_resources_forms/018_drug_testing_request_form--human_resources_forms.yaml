@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: drug_testing_request_form
+    pages:
+    - id: 1
+      name: employee
+      label: employee
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: testing_type
+      label: testing_type
+      hint: null
+      type: select_multiple
+      options:
+      - Random Sample
+      - Non-Donor
+      - Specimen Type
+      required: true
+    - id: 3
+      name: testing_reason
+      label: reason_for_testing
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: employee_date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: supervisor
+      label: supervisor
+      hint: null
+      type: select_one
+      options:
+      - Manager
+      - Director
+      required: true
+    - id: 7
+      name: testing_status
+      label: testing_status
+      hint: null
+      type: select_multiple
+      options:
+      - Not Required
+      - Required
+      - Not Required
+      required: true
+    - id: 8
+      name: test_result
+      label: test_result
+      hint: null
+      type: select_multiple
+      options:
+      - Negative
+      - Positive
+      - Not Detected
+      required: false
+    - id: 9
+      name: action_taken
+      label: action_taken
+      hint: null
+      type: select_multiple
+      options:
+      - No Action
+      - Employee Fired
+      required: false
+    - id: 10
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: manager
+      label: manager
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: testing_type
+      label: testing_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: manager_date
+      label: manager_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: employee_manager_relationship
+      label: employee_manager_relationship
+      hint: null
+      type: select_multiple
+      options:
+      - Not Related
+      - Direct Supervisor
+      - Not Related
+      required: false
+    - id: 16
+      name: employee_supervisor
+      label: employee_supervisor
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: test_status
+      label: test_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 18
+      name: test_result_status
+      label: test_result_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 19
+      name: test_results
+      label: test_results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: action_taken
+      label: action_taken
+      hint: null
+      type: select_multiple
+      options:
+      - No Action
+      - Action Taken
+      - No Action
+      required: false
+    - id: 21
+      name: manager_action
+      label: manager_action
+      hint: null
+      type: select_multiple
+      options:
+      - No Action
+      - Action Taken
+      - No Action
+      required: false
+    - id: 22
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: manager_notes
+      label: manager_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: test_type
+      label: test_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: date_of_last_test
+      label: date_of_last_test
+      hint: null
+      type: date
+      options: []
+      required: false

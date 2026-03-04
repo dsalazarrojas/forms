@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rental Property Tax Organizer Form
+    pages:
+    - id: 1
+      name: property_details
+      label: Property Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: tax_year
+      label: Tax Year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: tax_rate
+      label: Tax Rate
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: tax_upload_1
+      label: Tax Upload 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: tax_upload_2
+      label: Tax Upload 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

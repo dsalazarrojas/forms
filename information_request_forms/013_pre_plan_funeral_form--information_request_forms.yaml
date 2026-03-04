@@ -1,0 +1,211 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pre Plan Funeral Form
+    pages:
+    - id: 1
+      name: pre_plan_funeral_form
+      label: Funeral Preferences
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: funeral_planner
+      label: Funeral Planner
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: preferred_date
+      label: Preferred Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: burial_site
+      label: Burial Site
+      hint: null
+      type: select_one
+      options:
+      - Church
+      - Cemetery
+      - Home
+      required: true
+    - id: 8
+      name: burial_site_other
+      label: Other Burial Site
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: casket_style
+      label: Casket Style
+      hint: null
+      type: select_multiple
+      options:
+      - Bronze
+      - Wooden
+      - Metallic
+      - Other
+      required: false
+    - id: 10
+      name: casket_color
+      label: Casket Color
+      hint: null
+      type: select_multiple
+      options:
+      - White
+      - Black
+      - Brown
+      - Other
+      required: false
+    - id: 11
+      name: embalming
+      label: Embalming
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: flowers
+      label: Flowers
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: viewing
+      label: Viewing
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: visitation
+      label: Visitation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: obituary
+      label: Obituary
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: headstone
+      label: Headstone
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: headstone_description
+      label: Headstone Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: headstone_type
+      label: Headstone Type
+      hint: null
+      type: select_multiple
+      options:
+      - Flat
+      - Monument
+      - Gravestone
+      - Cremation Urn
+      required: false
+    - id: 19
+      name: cremation
+      label: Cremation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: death_certificate
+      label: Death Certificate
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: death_certificate_note
+      label: Death Certificate Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: obituary_description
+      label: Obituary Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: obituary_cost
+      label: Obituary Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: final_expense
+      label: Final Expense
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_expense
+      label: Additional Expense
+      hint: null
+      type: text
+      options: []
+      required: false

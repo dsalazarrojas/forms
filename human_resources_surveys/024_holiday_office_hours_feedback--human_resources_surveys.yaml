@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Holiday Office Hours Feedback
+    pages:
+    - id: 1
+      name: awareness
+      label: Awareness
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: satisfaction
+      label: Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: preferences
+      label: Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: future_preferences
+      label: Future Preferences
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: holiday_office_hours
+      label: Holiday Office Hours
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: office_hours
+      label: Office Hours
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: work_hours
+      label: Work Hours
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: work_hours_other
+      label: Work Hours Other
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: other_phone
+      label: Other Phone
+      hint: null
+      type: text
+      options: []
+      required: false

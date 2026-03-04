@@ -1,0 +1,252 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 360 Degree Employee Evaluation Form
+    pages:
+    - id: 1
+      name: section_header_employee_info
+      label: '--- Employee Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_full_name
+      label: Full name of employee being evaluated
+      hint: Please enter the complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_email
+      label: Employee email address
+      hint: Work email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: Current department assignment
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: job_title
+      label: Job title
+      hint: Current position title
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: supervisor_name
+      label: Immediate supervisor name
+      hint: Name of direct manager
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: evaluation_period_start
+      label: Evaluation period start date
+      hint: Beginning of review period
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: evaluation_period_end
+      label: Evaluation period end date
+      hint: End of review period
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: years_at_company
+      label: Years employed at company
+      hint: Total tenure in years
+      type: integer
+      options: []
+      required: false
+    - id: 10
+      name: section_header_performance
+      label: '--- Performance Assessment ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: communication_skills_rating
+      label: Communication skills rating
+      hint: Verbal and written communication effectiveness
+      type: select_one
+      options:
+      - Outstanding
+      - Exceeds expectations
+      - Meets expectations
+      - Below expectations
+      - Unsatisfactory
+      required: true
+    - id: 12
+      name: teamwork_collaboration
+      label: Teamwork and collaboration
+      hint: Ability to work effectively with others
+      type: select_one
+      options:
+      - Outstanding
+      - Exceeds expectations
+      - Meets expectations
+      - Below expectations
+      - Unsatisfactory
+      required: true
+    - id: 13
+      name: problem_solving_ability
+      label: Problem-solving ability
+      hint: Approach to identifying and resolving issues
+      type: select_one
+      options:
+      - Outstanding
+      - Exceeds expectations
+      - Meets expectations
+      - Below expectations
+      - Unsatisfactory
+      required: true
+    - id: 14
+      name: leadership_potential
+      label: Leadership potential
+      hint: Demonstrates leadership qualities when appropriate
+      type: select_one
+      options:
+      - Outstanding
+      - Exceeds expectations
+      - Meets expectations
+      - Below expectations
+      - Unsatisfactory
+      required: true
+    - id: 15
+      name: time_management
+      label: Time management and organization
+      hint: Ability to prioritize and meet deadlines
+      type: select_one
+      options:
+      - Outstanding
+      - Exceeds expectations
+      - Meets expectations
+      - Below expectations
+      - Unsatisfactory
+      required: true
+    - id: 16
+      name: technical_competency
+      label: Technical competency
+      hint: Knowledge and application of job-specific skills
+      type: select_one
+      options:
+      - Outstanding
+      - Exceeds expectations
+      - Meets expectations
+      - Below expectations
+      - Unsatisfactory
+      required: true
+    - id: 17
+      name: innovation_creativity
+      label: Innovation and creativity
+      hint: Brings new ideas and approaches to work
+      type: select_one
+      options:
+      - Outstanding
+      - Exceeds expectations
+      - Meets expectations
+      - Below expectations
+      - Unsatisfactory
+      required: true
+    - id: 18
+      name: attendance_punctuality
+      label: Attendance and punctuality
+      hint: Reliability in showing up on time
+      type: select_one
+      options:
+      - Outstanding
+      - Exceeds expectations
+      - Meets expectations
+      - Below expectations
+      - Unsatisfactory
+      required: true
+    - id: 19
+      name: areas_for_development
+      label: Areas for development (select all that apply)
+      hint: Skills or competencies needing improvement
+      type: select_multiple
+      options:
+      - Communication skills
+      - Technical expertise
+      - Leadership abilities
+      - Time management
+      - Interpersonal relations
+      - Project management
+      - Adaptability
+      - Decision-making
+      required: false
+    - id: 20
+      name: strengths_identified
+      label: Key strengths identified
+      hint: What does the employee excel at?
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: improvement_goals
+      label: Specific improvement goals for next period
+      hint: Concrete objectives for development
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: training_needs
+      label: Training or development needs
+      hint: What training would benefit this employee?
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: overall_performance_rating
+      label: Overall performance rating
+      hint: Rate overall performance for this period
+      type: select_one
+      options:
+      - Outstanding
+      - Exceeds expectations
+      - Meets expectations
+      - Below expectations
+      - Unsatisfactory
+      required: true
+    - id: 24
+      name: promotion_recommendation
+      label: Promotion recommendation
+      hint: Is the employee ready for advancement?
+      type: select_one
+      options:
+      - Strongly recommend
+      - Recommend
+      - Consider in future
+      - Do not recommend
+      required: false
+    - id: 25
+      name: evaluator_comments
+      label: Additional evaluator comments
+      hint: Any other observations or feedback
+      type: text
+      options: []
+      required: false

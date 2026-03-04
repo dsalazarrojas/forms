@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: seasonal_worker_time_off_form
+    pages:
+    - id: 1
+      name: seasonal_worker
+      label: seasonal_worker
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: work_period
+      label: work_period
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: reason
+      label: reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: manager
+      label: manager
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: team_leader
+      label: team
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: employee
+      label: employee
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: leave_type
+      label: type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: leave_status
+      label: status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false

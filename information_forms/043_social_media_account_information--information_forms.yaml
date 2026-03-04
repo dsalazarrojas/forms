@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Media Account Information
+    pages:
+    - id: 1
+      name: social_media_account_information
+      label: social_media_account_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: social_media_platform
+      label: social_media_platform
+      hint: null
+      type: select_one
+      options:
+      - Facebook
+      - Instagram
+      - Twitter
+      - Pinterest
+      required: false
+    - id: 3
+      name: platform_id
+      label: platform_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: username
+      label: username
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: password
+      label: password
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: website
+      label: website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: profile_picture
+      label: profile_picture
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: social_media_linkedin_account_link
+      label: social_media_linkedin_account_link
+      hint: null
+      type: select_one
+      options:
+      - LinkedIn
+      - Google
+      required: false

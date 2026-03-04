@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Orientation Log Submission
+    pages:
+    - id: 1
+      name: orientation_log_submission_form
+      label: participant_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: orientation_type
+      label: orientation_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''orientation_type_1''}'
+      - '{''id'': 2, ''name'': ''orientation_type_2''}'
+      - '{''id'': 3, ''name'': ''orientation_type_3''}'
+      - '{''id'': 4, ''name'': ''orientation_type_4''}'
+      required: false
+    - id: 5
+      name: topics_covered
+      label: topics_covered
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: participant_status
+      label: participant_status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''status_1''}'
+      - '{''id'': 2, ''name'': ''status_2''}'
+      required: false
+    - id: 8
+      name: participant_did_not_attend
+      label: participant_did_not_attend
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: participant_did_not_receive
+      label: participant_did_receive
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: participant_comments
+      label: participant_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: orientation_supervisor
+      label: orientation_supervisor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: orientation_date
+      label: orientation_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: orientation_time
+      label: orientation_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: orientation_duration
+      label: orientation_duration
+      hint: null
+      type: number
+      options: []
+      required: false

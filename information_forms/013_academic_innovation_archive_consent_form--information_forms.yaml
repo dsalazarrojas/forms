@@ -1,0 +1,135 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Academic Innovation Archive Consent Form
+    pages:
+    - id: 1
+      name: archive_consent_intro
+      label: Academic Innovation Archive Consent Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contributor_name
+      label: Contributor Name
+      hint: Full name of the person contributing the innovation
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contributor_email
+      label: Email Address
+      hint: Contact email for correspondence about this contribution
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contributor_institution
+      label: Institution
+      hint: University or organization affiliation
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: innovation_title
+      label: Title of Innovation
+      hint: Brief title describing the academic innovation
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: innovation_description
+      label: Description of Innovation
+      hint: Detailed description of the academic innovation
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: innovation_type
+      label: Type of Innovation
+      hint: What category best describes your innovation?
+      type: select_one
+      options: ["Teaching methodology", "Assessment technique", "Curriculum design", "Technology integration", "Learning environment", "Pedagogical approach", "Other"]
+      required: true
+    - id: 8
+      name: academic_discipline
+      label: Academic Discipline
+      hint: Primary field or subject area of the innovation
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: innovation_date
+      label: Date of Innovation Development
+      hint: When was this innovation developed or implemented?
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: innovation_outcomes
+      label: Outcomes and Results
+      hint: What results or outcomes have been observed from this innovation?
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: consent_to_archive
+      label: Consent to Archive
+      hint: Do you consent to having your innovation archived in the academic database?
+      type: select_one
+      options: ["Yes, I consent", "Yes, with conditions", "No, I do not consent"]
+      required: true
+    - id: 12
+      name: consent_to_publication
+      label: Consent to Publication
+      hint: Do you consent to having your innovation details published in academic literature?
+      type: select_one
+      options: ["Yes, I consent", "Yes, with editorial review", "No, not for publication", "Conditional on anonymity"]
+      required: false
+    - id: 13
+      name: intellectual_property_rights
+      label: Intellectual Property Rights
+      hint: Who holds the intellectual property rights for this innovation?
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: co_contributors
+      label: Co-contributors
+      hint: List any co-contributors to this innovation (if applicable)
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: funding_sources
+      label: Funding Sources
+      hint: Were there any funding sources that supported this innovation?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: ethical_approval
+      label: Ethical Approval
+      hint: Was ethical approval obtained for this innovation (if human subjects involved)?
+      type: select_one
+      options: ["Yes, approved", "Not applicable", "In process", "Not required"]
+      required: true
+    - id: 17
+      name: contact_for_inquiries
+      label: Contact for Inquiries
+      hint: Are you willing to be contacted about this innovation in the future?
+      type: select_one
+      options: ["Yes, I welcome inquiries", "Only for collaboration", "No, do not contact", "Conditional contact"]
+      required: true

@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Disciplinary Report
+    pages:
+    - id: 1
+      name: employee_disciplinary_report_form
+      label: Employee Disciplinary Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reporting_officer
+      label: Reporting Officer
+      hint: null
+      type: select_one
+      options:
+      - '{''name'': ''Officer 1''}'
+      - Officer 2
+      - Officer 3
+      required: false
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: reason_for_disciplinary_action
+      label: Reason for Disciplinary Action
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_disciplinary_action
+      label: Date of Disciplinary Action
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_of_disciplinary_action
+      label: Time of Disciplinary Action
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: description_of_disciplinary_action
+      label: Description of Disciplinary Action
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: disciplinary_action_taken
+      label: Disciplinary Action Taken
+      hint: null
+      type: select_multiple
+      options:
+      - '{''name'': ''Verbal Warning''}'
+      - Written Warning
+      - Suspension
+      - Termination
+      required: false
+    - id: 10
+      name: date_of_return_to_work
+      label: Date of Return to Work
+      hint: null
+      type: date
+      options: []
+      required: false

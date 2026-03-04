@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Department Of Health Data Collection Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_visited
+      label: Date Visited
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Department A
+      - Department B
+      - Department C
+      required: false
+    - id: 5
+      name: doctor_name
+      label: Doctor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: doctor_specialty
+      label: Doctor Specialty
+      hint: null
+      type: select_multiple
+      options:
+      - Cardiology
+      - Dermatology
+      - Endocrinology
+      - Gastroenterology
+      - Nephrology
+      - Ophthalmology
+      - Pathology
+      - Pulmonology
+      - Radiology
+      - Urology
+      required: false
+    - id: 7
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - SMS
+      - In-person
+      required: true
+    - id: 9
+      name: department_location
+      label: Department Location
+      hint: null
+      type: select_multiple
+      options:
+      - New York
+      - Los Angeles
+      - Chicago
+      - Houston
+      - Philadelphia
+      - Phoenix
+      - San Antonio
+      - San Diego
+      - Dallas
+      - San Jose
+      required: false
+    - id: 10
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: medical_history
+      label: Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: allergies
+      label: Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: medical_test_results
+      label: Medical Test Results
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: medication
+      label: Medication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: medical_device_used
+      label: Medical Device Used
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: patient_contact
+      label: Patient Contact
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: doctor_phone
+      label: Doctor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: doctor_contact_method
+      label: Doctor Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - In-person
+      required: true
+    - id: 19
+      name: patient_address
+      label: Patient Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: doctor_address
+      label: Doctor Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: visit_frequency
+      label: Visit Frequency
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 22
+      name: visit_duration
+      label: Visit Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 24
+      name: follow_up_note
+      label: Follow-up Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false

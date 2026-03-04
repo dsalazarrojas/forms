@@ -1,0 +1,228 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stock Forecasting Data Request Form
+    pages:
+    - id: 1
+      name: stock_symbol
+      label: stock_symbol
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: forecast_period
+      label: forecast_period
+      hint: null
+      type: select_one
+      options:
+      - 1 day
+      - 1 month
+      - 3 months
+      - 6 months
+      - 1 year
+      required: true
+    - id: 3
+      name: urgency
+      label: urgency
+      hint: null
+      type: select_one
+      options:
+      - low
+      - medium
+      - high
+      required: false
+    - id: 4
+      name: intended_use
+      label: intended_use
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: stock_forecast_type
+      label: stock_forecast_type
+      hint: null
+      type: select_multiple
+      options:
+      - Fundamental Data
+      - Technical Analysis
+      - Sentiment Analysis
+      required: false
+    - id: 6
+      name: stock_forecast_frequency
+      label: stock_forecast_frequency
+      hint: null
+      type: select_one
+      options:
+      - daily
+      - weekly
+      - monthly
+      required: false
+    - id: 7
+      name: stock_forecast_start_date
+      label: stock_forecast_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: stock_forecast_end_date
+      label: stock_forecast_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: stock_forecast_frequency_unit
+      label: stock_forecast_frequency_unit
+      hint: null
+      type: select_one
+      options:
+      - days
+      - weeks
+      - months
+      required: false
+    - id: 10
+      name: stock_forecast_use
+      label: stock_forecast_use
+      hint: null
+      type: select_one
+      options:
+      - Investment Analysis
+      - Trading
+      - Research
+      required: false
+    - id: 11
+      name: investment_team
+      label: investment_team
+      hint: null
+      type: select_one
+      options:
+      - Investment Team
+      - Financial Team
+      - Research Team
+      required: false
+    - id: 12
+      name: stock_forecast_status
+      label: stock_forecast_status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Completed
+      - In Progress
+      required: true
+    - id: 13
+      name: stock_symbol2
+      label: stock_symbol2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: stock_forecast_type2
+      label: stock_forecast_type2
+      hint: null
+      type: select_multiple
+      options:
+      - Fundamental Data
+      - Technical Analysis
+      - Sentiment Analysis
+      required: false
+    - id: 15
+      name: stock_forecast_frequency2
+      label: stock_forecast_frequency2
+      hint: null
+      type: select_one
+      options:
+      - daily
+      - weekly
+      - monthly
+      required: false
+    - id: 16
+      name: stock_forecast_start_date2
+      label: stock_forecast_start_date2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: stock_forecast_end_date2
+      label: stock_forecast_end_date2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: stock_forecast_frequency_unit2
+      label: stock_forecast_frequency_unit2
+      hint: null
+      type: select_one
+      options:
+      - days
+      - weeks
+      - months
+      required: false
+    - id: 19
+      name: stock_forecast_use2
+      label: stock_forecast_use2
+      hint: null
+      type: select_one
+      options:
+      - Investment Analysis
+      - Trading
+      - Research
+      required: false
+    - id: 20
+      name: investment_team2
+      label: investment_team2
+      hint: null
+      type: select_one
+      options:
+      - Investment Team
+      - Financial Team
+      - Research Team
+      required: false
+    - id: 21
+      name: stock_forecast_status2
+      label: stock_forecast_status2
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Completed
+      - In Progress
+      required: false
+    - id: 22
+      name: stock_forecast_type3
+      label: stock_forecast_type3
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: stock_forecast_frequency3
+      label: stock_forecast_frequency3
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: stock_forecast_start_date3
+      label: stock_forecast_start_date3
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: stock_forecast_end_date3
+      label: stock_forecast_end_date3
+      hint: null
+      type: date
+      options: []
+      required: false

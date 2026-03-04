@@ -1,0 +1,49 @@
+inputSchema:
+  type: object
+  properties:
+    title: pony_club_incident_report
+    pages:
+    - id: 1
+      name: activity_description
+      label: Activity Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: incident_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: member_name
+      label: Member Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: incident_type
+      label: Type of Incident
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: text
+      options: []
+      required: false

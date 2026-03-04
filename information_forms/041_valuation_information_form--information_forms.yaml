@@ -1,0 +1,180 @@
+inputSchema:
+  type: object
+  properties:
+    title: Valuation Information Form
+    pages:
+    - id: 1
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      - Industrial
+      required: false
+    - id: 4
+      name: property_use
+      label: Property Use
+      hint: null
+      type: select_one
+      options:
+      - Residential
+      - Commercial
+      - Industrial
+      - Mixed Use
+      - Other
+      required: false
+    - id: 5
+      name: valuation_date
+      label: Valuation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: valuation_time
+      label: Valuation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: valuation_amount
+      label: Valuation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: client_contact
+      label: Client Contact
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: client_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: client_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: property_notes
+      label: Property Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: client_notes
+      label: Client Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: insurance_company
+      label: Insurance Company
+      hint: null
+      type: select_one
+      options:
+      - Company A
+      - Company B
+      - Company C
+      required: false
+    - id: 14
+      name: adjuster_name
+      label: Adjuster Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: adjuster_phone
+      label: Adjuster Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: adjuster_email
+      label: Adjuster Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: adjuster_notes
+      label: Adjuster Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: valuation_method
+      label: Valuation Method
+      hint: null
+      type: select_one
+      options:
+      - Manual
+      - Automated
+      required: false
+    - id: 19
+      name: valuation_frequency
+      label: Valuation Frequency
+      hint: null
+      type: select_one
+      options:
+      - Annually
+      - Semi-Annually
+      - Quarterly
+      - Monthly
+      required: false
+    - id: 20
+      name: last_update
+      label: Last Update
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: next_update
+      label: Next Update
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: client_status
+      label: Client Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Close
+      - In Progress
+      - Waiting
+      required: false

@@ -1,0 +1,175 @@
+inputSchema:
+  type: object
+  properties:
+    title: Teacher Timetable Form
+    pages:
+    - id: 1
+      name: teacher_id
+      label: teacher_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: teacher_name
+      label: teacher_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: class_id
+      label: class_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: class_name
+      label: class_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: start_time
+      label: start_time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: day
+      label: day
+      hint: null
+      type: select_multiple
+      options:
+      - '[''Monday'', ''Tuesday'', ''Wednesday'', ''Thursday'', ''Friday'', ''Saturday'',
+        ''Sunday'']'
+      - Other
+      required: true
+    - id: 8
+      name: subject
+      label: subject
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: class_time
+      label: class_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: room_number
+      label: room_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: timetable_data
+      label: timetable_data
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: teacher_comment
+      label: teacher_comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: class_number
+      label: class_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: school_year
+      label: school_year
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: class_group
+      label: class_group
+      hint: null
+      type: select_one
+      options:
+      - Y1
+      - Y2
+      - Y3
+      - Y4
+      - Y5
+      - Y6
+      - Y7
+      - Y8
+      - Y9
+      - Y10
+      - Y11
+      - Y12
+      - Y13
+      - Y14
+      - Y15
+      - Y16
+      - Y17
+      - Y18
+      - Y19
+      - Y20
+      required: true
+    - id: 16
+      name: class_size
+      label: class_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 21
+      name: total_class_duration
+      label: total_class_duration
+      hint: null
+      type: number
+      options: []
+      required: true

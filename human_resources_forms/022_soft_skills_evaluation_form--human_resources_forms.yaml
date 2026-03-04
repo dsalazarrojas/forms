@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Soft Skills Evaluation Form
+    pages:
+    - id: 1
+      name: soft_skills_evaluation_form
+      label: Soft Skills Evaluation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_details
+      label: Employee Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: skills_assessment
+      label: Skills Assessment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: skills_to_evaluate
+      label: Skills to Evaluate
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: evaluation_scale
+      label: Evaluation Scale
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 6
+      name: evaluation_score
+      label: Evaluation Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: evaluation_comments
+      label: Evaluation Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: employee_rating
+      label: Employee Rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 9
+      name: manager_comments
+      label: Manager Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: employee_signature
+      label: Employee Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: manager_signature
+      label: Manager Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: false

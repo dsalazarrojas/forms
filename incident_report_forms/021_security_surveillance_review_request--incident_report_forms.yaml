@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: Security Surveillance Review Request
+    pages:
+    - id: 1
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: supporting_files
+      label: Supporting Files
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: requested_video_review
+      label: Requested Video Review
+      hint: null
+      type: date
+      options: []
+      required: false

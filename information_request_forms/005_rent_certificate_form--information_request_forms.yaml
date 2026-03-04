@@ -1,0 +1,40 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rent Certificate Form
+    pages:
+    - id: 1
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: amount_paid
+      label: Amount Paid
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: rent_certificate_number
+      label: Rent Certificate Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: property_owner
+      label: Property Owner
+      hint: null
+      type: text
+      options: []
+      required: false

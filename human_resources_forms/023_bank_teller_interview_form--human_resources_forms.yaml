@@ -1,0 +1,236 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bank Teller Interview Form
+    pages:
+    - id: 1
+      name: candidate_full_name
+      label: Candidate Full Name
+      hint: Your name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: candidate_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: candidate_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: candidate_address
+      label: Mailing Address
+      hint: Street, city, state, ZIP
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: position_applied
+      label: Position Applied For
+      hint: Which role
+      type: select_one
+      options:
+      - Head Teller
+      - Teller
+      - Senior Teller
+      - Part-Time Teller
+      - Float Teller
+      required: true
+    - id: 6
+      name: interview_date
+      label: Interview Date
+      hint: Date of interview
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: interviewer_name
+      label: Interviewer Name
+      hint: Who conducted interview
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: years_of_experience
+      label: Years of Banking Experience
+      hint: How much experience
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: previous_bank_experience
+      label: Previous Bank Experience
+      hint: Where have you worked
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: cash_handling_experience
+      label: Cash Handling Experience
+      hint: Describe your experience
+      type: select_one
+      options:
+      - Extensive
+      - Moderate
+      - Limited
+      - None
+      required: true
+    - id: 11
+      name: customer_service_rating
+      label: Customer Service Skills
+      hint: Rate candidate
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 12
+      name: communication_skills_rating
+      label: Communication Skills
+      hint: Rate candidate
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 13
+      name: attention_to_detail_rating
+      label: Attention to Detail
+      hint: Rate candidate
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 14
+      name: numerical_ability_rating
+      label: Numerical Ability
+      hint: Rate candidate
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 15
+      name: technical_skills_rating
+      label: Technical Skills
+      hint: Rate computer and system skills
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 16
+      name: integrity_rating
+      label: Integrity and Ethics
+      hint: Rate candidate
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 17
+      name: teamwork_rating
+      label: Teamwork Ability
+      hint: Rate candidate
+      type: select_one
+      options:
+      - Excellent
+      - Very Good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 18
+      name: availability
+      label: Availability
+      hint: When can candidate work
+      type: select_one
+      options:
+      - Full-Time
+      - Part-Time
+      - Flexible Schedule
+      - Weekends Only
+      required: true
+    - id: 19
+      name: start_date_availability
+      label: Available Start Date
+      hint: When can you start
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: salary_expectations
+      label: Salary Expectations
+      hint: Expected compensation
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: certification_licenses
+      label: Certifications or Licenses
+      hint: Any relevant certifications
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: background_check_consent
+      label: Background Check Consent
+      hint: Do you consent
+      type: select_one
+      options:
+      - Yes, I consent
+      - false
+      required: true
+    - id: 23
+      name: drug_test_consent
+      label: Drug Test Consent
+      hint: Do you consent
+      type: select_one
+      options:
+      - Yes, I consent
+      - false
+      required: true
+    - id: 24
+      name: recommendation
+      label: Interviewer Recommendation
+      hint: Hiring recommendation
+      type: select_one
+      options:
+      - Highly Recommend
+      - Recommend
+      - Recommend with Reservations
+      - Do Not Recommend
+      required: true
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other notes
+      type: text
+      options: []
+      required: false

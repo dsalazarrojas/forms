@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Personal Information
+    pages:
+    - id: 1
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: work_location
+      label: Work Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: reporting_manager
+      label: Reporting Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emergency_phone
+      label: Emergency Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: emergency_relation
+      label: Emergency Relation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: emergency_address
+      label: Emergency Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: emergency_job_title
+      label: Emergency Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: emergency_department
+      label: Emergency Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: employee_photo
+      label: Employee Photo
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: employee_status
+      label: Employee Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

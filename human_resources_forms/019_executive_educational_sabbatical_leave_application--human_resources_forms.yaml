@@ -1,0 +1,90 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Executive Educational Sabbatical Leave Application
+    pages:
+    - id: 1
+      name: application_form
+      label: Application Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: educational_programs
+      label: Educational Programs
+      hint: Select all programs that you're interested in.
+      type: select_multiple
+      options:
+      - MIT (Massachusetts Institute of Technology)
+      - Harvard University
+      - Stanford University
+      - University of California, Berkeley
+      - University of Cambridge
+      - University of Oxford
+      - Other (please specify)
+      required: false
+    - id: 3
+      name: sabbatical_duration
+      label: Sabbatical Duration
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: reason_for_leave
+      label: Reason For Leave
+      hint: Please provide a brief summary of your request.
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: approval_level
+      label: Approval Level
+      hint: Select your approver(s)
+      type: select_multiple
+      options:
+      - Executive Director
+      - Department Director
+      - Senior Manager
+      - Other (please specify)
+      required: false
+    - id: 9
+      name: attachments
+      label: Attachments
+      hint: Please attach supporting documents.
+      type: note
+      options: []
+      required: false

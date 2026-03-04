@@ -1,0 +1,128 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Competency Based Interview Form
+    pages:
+      - id: 1
+        name: interview_header_section
+        label: -- Candidate Interview Evaluation --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: candidate_name_int
+        label: Candidate Name
+        hint: Full name of the interviewee
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: interviewer_name_int
+        label: Interviewer Name
+        hint: Person conducting the evaluation
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: position_interviewed_for
+        label: Position Applied For
+        hint: Role the candidate is being assessed against
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: competency_adaptability_section
+        label: -- Competency - Adaptability --
+        hint: Ability to adjust to changing environments and tasks
+        type: note
+        options: []
+        required: false
+      - id: 6
+        name: adaptability_example
+        label: Describe the candidate's example for Adaptability
+        hint: Use the STAR method (Situation, Task, Action, Result)
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: adaptability_rating
+        label: Adaptability Rating
+        hint: Score based on the quality of the example
+        type: select_one
+        options:
+          - 1 - Poor
+          - 2 - Fair
+          - 3 - Good
+          - 4 - Very Good
+          - 5 - Outstanding
+        required: true
+      - id: 8
+        name: competency_leadership_section
+        label: -- Competency - Leadership / Influence --
+        hint: Ability to lead others or influence positive outcomes
+        type: note
+        options: []
+        required: false
+      - id: 9
+        name: leadership_example
+        label: Describe the candidate's example for Leadership
+        hint: Specific evidence of influence
+        type: text
+        options: []
+        required: true
+      - id: 10
+        name: leadership_rating
+        label: Leadership Rating
+        hint: Score for leadership competency
+        type: select_one
+        options:
+          - 1 - Poor
+          - 2 - Fair
+          - 3 - Good
+          - 4 - Very Good
+          - 5 - Outstanding
+        required: true
+      - id: 11
+        name: final_evaluation_section
+        label: -- Final Recommendation --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 12
+        name: hire_recommendation_status
+        label: Overall Hiring Recommendation
+        hint: Should we proceed with this candidate?
+        type: select_one
+        options:
+          - Strong Hire
+          - Hire
+          - Hire with Reservations
+          - Do Not Hire
+        required: true
+      - id: 13
+        name: cultural_fit_comments
+        label: Comments on Cultural Alignment
+        hint: How well does the candidate align with organizational values?
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: interview_completion_date
+        label: Interview Date
+        hint: Date the interview took place
+        type: date
+        options: []
+        required: true

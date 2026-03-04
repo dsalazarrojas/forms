@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Component Compatibility Verification Request
+    pages:
+    - id: 1
+      name: request_id
+      label: Request ID
+      hint: Unique identifier for this request
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requester_name
+      label: Requester Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_email
+      label: Requester Email
+      hint: Your work email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: requester_phone
+      label: Requester Phone
+      hint: Your contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: department
+      label: Department
+      hint: Select your department
+      type: select_one
+      options:
+      - Engineering
+      - Product Development
+      - Quality Assurance
+      - IT
+      - Operations
+      - Research and Development
+      - Other
+      required: true
+    - id: 6
+      name: request_date
+      label: Request Date
+      hint: Date of this request
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: primary_component
+      label: Primary Component
+      hint: Name or ID of the primary component
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: primary_component_version
+      label: Primary Component Version
+      hint: Version number of primary component
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: secondary_component
+      label: Secondary Component
+      hint: Name or ID of the component to verify compatibility with
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: secondary_component_version
+      label: Secondary Component Version
+      hint: Version number of secondary component
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: compatibility_type
+      label: Compatibility Type
+      hint: What type of compatibility are you verifying
+      type: select_one
+      options:
+      - Hardware Compatibility
+      - Software Compatibility
+      - Firmware Compatibility
+      - API Compatibility
+      - Protocol Compatibility
+      - Electrical Compatibility
+      - Mechanical Compatibility
+      - Other
+      required: true
+    - id: 12
+      name: system_environment
+      label: System Environment
+      hint: Describe the system environment
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: operating_system
+      label: Operating System
+      hint: Select the operating system
+      type: select_one
+      options:
+      - Windows 11
+      - Windows 10
+      - macOS
+      - Linux
+      - iOS
+      - Android
+      - Other
+      - Not Applicable
+      required: false
+    - id: 14
+      name: known_issues
+      label: Known Issues
+      hint: Are you aware of any existing compatibility issues
+      type: select_one
+      options:
+      - No Known Issues
+      - Minor Issues Reported
+      - Significant Issues Reported
+      - Critical Issues Reported
+      - Unsure
+      required: true
+    - id: 15
+      name: issue_description
+      label: Issue Description
+      hint: Describe any known issues in detail
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: testing_required
+      label: Testing Required
+      hint: What level of testing is needed
+      type: select_one
+      options:
+      - Documentation Review Only
+      - Basic Compatibility Check
+      - Full Integration Testing
+      - Stress Testing
+      - Field Testing
+      required: true
+    - id: 17
+      name: priority_level
+      label: Priority Level
+      hint: How urgent is this request
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      - Critical
+      required: true
+    - id: 18
+      name: deadline
+      label: Required Completion Date
+      hint: When do you need verification completed
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: supporting_documents
+      label: Supporting Documents
+      hint: Will you be providing supporting documents
+      type: select_one
+      options:
+      - Yes, Will Upload
+      - No Documents
+      - Documents Attached to Email
+      required: false
+    - id: 20
+      name: additional_requirements
+      label: Additional Requirements
+      hint: Any special requirements or considerations
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: stakeholders
+      label: Stakeholders to Notify
+      hint: List people who should be informed of results
+      type: text
+      options: []
+      required: false

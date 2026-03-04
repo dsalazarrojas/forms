@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: City Wide Shift Bid Participation
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee name
+      hint: Full name as in records
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: Internal identifier
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: Select your department
+      type: select_one
+      options:
+      - Public works
+      - Sanitation
+      - Parks
+      - Administration
+      - Transportation
+      required: true
+    - id: 4
+      name: preferred_shifts
+      label: Preferred shifts
+      hint: List preferred shift numbers or times
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: availability_constraints
+      label: Availability constraints
+      hint: Dates or times you cannot work
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: seniority_years
+      label: Years of service for seniority
+      hint: Whole years
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: willingness_to_trade
+      label: Willingness to trade shifts
+      hint: Yes or no
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 8
+      name: trade_preferences
+      label: Trade preferences details
+      hint: Preferred trade partners or conditions
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: manager_approval_needed
+      label: Manager approval required
+      hint: Indicate if preapproval exists
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 10
+      name: submission_date
+      label: Submission date
+      hint: Use today
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Incident Form
+    pages:
+    - id: 1
+      name: incident_header
+      label: -- Incident Report --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: reporter_name
+      label: Reporter name
+      hint: Person submitting the report
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_phone
+      label: Contact phone
+      hint: Optional phone contact
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: incident_date
+      label: Date of incident
+      hint: When the incident occurred
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: incident_time
+      label: Time of incident
+      hint: Approximate time
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: location_of_incident
+      label: Location of incident
+      hint: Address or landmark
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: incident_description
+      label: Incident description
+      hint: Detailed summary of what happened
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: people_involved
+      label: People involved
+      hint: Names or descriptions if known
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: immediate_actions_taken
+      label: Immediate actions taken
+      hint: Police called, first aid given, etc
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: follow_up_needed
+      label: Follow up needed
+      hint: Indicate if further action required
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

@@ -1,0 +1,55 @@
+inputSchema:
+  type: object
+  properties:
+    title: property_information_form_template
+    pages:
+    - id: 1
+      name: property_details
+      label: Property Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_address
+      label: property_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: property_status
+      label: property_status
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      - Option 4
+      required: false
+    - id: 4
+      name: property_type
+      label: property_type
+      hint: null
+      type: select_multiple
+      options:
+      - Type 1
+      - Type 2
+      - Type 3
+      - Type 4
+      required: false
+    - id: 5
+      name: property_price
+      label: property_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: property_date
+      label: property_date
+      hint: null
+      type: date
+      options: []
+      required: false

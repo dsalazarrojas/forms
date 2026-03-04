@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Agent Removal Request Form
+    pages:
+    - id: 1
+      name: removal_header
+      label: -- Removal Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: agent_name
+      label: Agent name
+      hint: Name of the agent to be removed
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: Internal identifier
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: reason_for_removal
+      label: Reason for removal
+      hint: Provide justification for removal
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: effective_date
+      label: Effective date of removal
+      hint: Date when removal should take effect
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: assets_to_recover
+      label: Assets to recover
+      hint: List company assets assigned to agent
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: hr_contact
+      label: HR contact person
+      hint: Name of HR representative handling the request
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: approval_status
+      label: Approval status
+      hint: Current approval state
+      type: select_one
+      options: [Pending, Approved, Denied]
+      required: true
+    - id: 9
+      name: approver_name
+      label: Approver name
+      hint: Manager who approved or denied request
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: Any additional HR notes
+      type: text
+      options: []
+      required: false

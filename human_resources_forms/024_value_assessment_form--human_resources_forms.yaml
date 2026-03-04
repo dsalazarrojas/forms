@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Value Assessment Form
+    pages:
+    - id: 1
+      name: value_assessment_form
+      label: Value Assessment Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: property_manager
+      label: Property Manager
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: property_address
+      label: Property Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Apartment
+      - Single Family
+      - Townhouse
+      required: true
+    - id: 5
+      name: rent
+      label: Rent
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: square_footage
+      label: Square Footage
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: value_determination
+      label: Value Determination
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 8
+      name: value
+      label: Value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: date_assessed
+      label: Date Assessed
+      hint: null
+      type: date
+      options: []
+      required: true

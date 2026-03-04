@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Historical Site Incident Form
+    pages:
+    - id: 1
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: site_name
+      label: Site Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: incident_affected_areas
+      label: Affected Areas
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: incident_hazards
+      label: Hazards Identified
+      hint: List the hazards involved with the incident
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: incident_investigation
+      label: Investigation
+      hint: Describe how the incident was investigated
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: incident_actions_taken
+      label: Actions Taken
+      hint: Describe the actions taken in response to the incident
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: incident_notes
+      label: Notes
+      hint: Additional information regarding the incident
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: incident_reporter
+      label: Incident Reporter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: incident_escalation
+      label: Escalation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: incident_responders
+      label: Responders
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: incident_responder_time
+      label: Responder Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: incident_responder_count
+      label: Responder Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: incident_reporter_name
+      label: Reporter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: incident_reporter_contact
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false

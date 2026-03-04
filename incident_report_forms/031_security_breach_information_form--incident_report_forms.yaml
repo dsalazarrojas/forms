@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: security_breach_information_form
+    pages:
+    - id: 1
+      name: incident_summary
+      label: Incident Summary
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: breach_description
+      label: Breach Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: breach_date
+      label: Breach Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: incident_impact
+      label: Incident Impact
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: reporting_officer
+      label: Reporting Officer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: breach_location
+      label: Breach Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: incident_classification
+      label: Incident Classification
+      hint: null
+      type: select_one
+      options:
+      - Type
+      - Severity
+      - Category
+      required: true
+    - id: 8
+      name: reporting_officer_email
+      label: Reporting Officer Email
+      hint: null
+      type: email
+      options: []
+      required: true

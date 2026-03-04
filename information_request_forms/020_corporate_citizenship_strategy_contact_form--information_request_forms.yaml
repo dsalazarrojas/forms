@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: Corporate Citizenship Strategy Contact Form
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: csr_initiatives
+      label: CSR Initiatives
+      hint: null
+      type: select_one
+      options:
+      - Corporate Social Responsibility
+      - Environmental Sustainability
+      - Social Impact
+      required: false
+    - id: 7
+      name: esg_initiatives
+      label: ESG Initiatives
+      hint: null
+      type: select_multiple
+      options:
+      - Corporate Social Responsibility
+      - Environmental Sustainability
+      - Social Impact
+      required: false
+    - id: 8
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: company_size
+      label: Company Size
+      hint: null
+      type: select_one
+      options:
+      - Small
+      - Medium
+      - Large
+      required: false
+    - id: 10
+      name: industry
+      label: Industry
+      hint: null
+      type: select_one
+      options:
+      - Technology
+      - Finance
+      - Healthcare
+      required: false
+    - id: 11
+      name: consultant_type
+      label: Consultant Type
+      hint: null
+      type: select_multiple
+      options:
+      - Management Consulting
+      - Financial Services
+      - Human Resources
+      required: false
+    - id: 12
+      name: company_type
+      label: Company Type
+      hint: null
+      type: select_multiple
+      options:
+      - For-Profit Company
+      - Non-Profit Organization
+      - Government Agency
+      required: false
+    - id: 13
+      name: csr_goals
+      label: CSR Goals
+      hint: null
+      type: select_multiple
+      options:
+      - Community Development
+      - Environmental Conservation
+      - Human Rights
+      required: false
+    - id: 14
+      name: csr_budget
+      label: CSR Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: esg_budget
+      label: ESG Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: company_location
+      label: Company Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: time_zone
+      label: Time Zone
+      hint: null
+      type: select_one
+      options:
+      - EST
+      - CST
+      - PST
+      required: false
+    - id: 18
+      name: consultant_location
+      label: Consultant Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: time_zone_consultant
+      label: Time Zone
+      hint: null
+      type: select_one
+      options:
+      - EST
+      - CST
+      - PST
+      required: false
+    - id: 20
+      name: esg_reporting
+      label: ESG Reporting
+      hint: null
+      type: select_one
+      options:
+      - Quarterly
+      - Annual
+      - Bi-Annual
+      required: false
+    - id: 21
+      name: esg_reporting_frequency
+      label: ESG Reporting Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 22
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_time
+      label: Follow-up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: follow_up_contact_method
+      label: Follow-up Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Chat
+      required: false
+    - id: 25
+      name: follow_up_notes
+      label: Follow-up Notes
+      hint: null
+      type: note
+      options: []
+      required: false

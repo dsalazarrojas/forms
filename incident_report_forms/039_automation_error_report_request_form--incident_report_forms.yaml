@@ -1,0 +1,395 @@
+inputSchema:
+  type: object
+  properties:
+    title: Automation Error Report Request Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Automation Error Report Request Form
+      hint: Report an automation error or failure
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: reporter_info
+      label: Reporter Information
+      hint: Your details
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: department
+      label: Department
+      hint: Your department
+      type: select_one
+      options:
+      - IT
+      - Operations
+      - Engineering
+      - Manufacturing
+      - Quality
+      - Maintenance
+      - Other
+      required: true
+    - id: 8
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: error_info
+      label: Error Information
+      hint: Details about the error
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: error_date
+      label: Error Date
+      hint: When did it occur
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: error_time
+      label: Error Time
+      hint: What time
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: error_title
+      label: Error Title
+      hint: Brief title
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: error_description
+      label: Error Description
+      hint: Describe what happened
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: error_type
+      label: Error Type
+      hint: What type of error
+      type: select_one
+      options:
+      - System Crash
+      - Performance Degradation
+      - Data Error
+      - Communication Failure
+      - Hardware Failure
+      - Software Bug
+      - Configuration Error
+      - User Error
+      - Network Issue
+      - Other
+      required: true
+    - id: 15
+      name: affected_system
+      label: Affected System
+      hint: Which system
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: system_component
+      label: System Component
+      hint: Specific component
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: error_code
+      label: Error Code
+      hint: If available
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: error_message
+      label: Error Message
+      hint: Exact message
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: severity
+      label: Severity Level
+      hint: How severe
+      type: select_one
+      options:
+      - Critical - System Down
+      - High - Major Functionality Impaired
+      - Medium - Minor Functionality Impaired
+      - Low - Minimal Impact
+      - Informational
+      required: true
+    - id: 20
+      name: priority
+      label: Priority Level
+      hint: What priority
+      type: select_one
+      options:
+      - P1 - Critical
+      - P2 - High
+      - P3 - Medium
+      - P4 - Low
+      required: true
+    - id: 21
+      name: frequency
+      label: Error Frequency
+      hint: How often
+      type: select_one
+      options:
+      - First Time
+      - Occasional
+      - Frequent
+      - Constant
+      - Intermittent
+      required: true
+    - id: 22
+      name: impact_assessment
+      label: Impact Assessment
+      hint: What is the impact
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: production_impact
+      label: Production Impact
+      hint: Is production affected
+      type: select_one
+      options:
+      - Yes Production Stopped
+      - Yes Production Slowed
+      - Yes Quality Affected
+      - No Impact
+      required: true
+    - id: 24
+      name: users_affected
+      label: Number of Users Affected
+      hint: How many users
+      type: select_one
+      options:
+      - 1-5
+      - 6-10
+      - 11-25
+      - 26-50
+      - Over 50
+      required: true
+    - id: 25
+      name: data_impact
+      label: Data Impact
+      hint: Is data affected
+      type: select_one
+      options:
+      - Yes Data Lost
+      - Yes Data Corrupted
+      - Yes Data Inaccessible
+      - No Data Impact
+      required: true
+    - id: 26
+      name: safety_impact
+      label: Safety Impact
+      hint: Any safety concerns
+      type: select_one
+      options:
+      - Yes Immediate Danger
+      - Yes Potential Risk
+      - No Safety Impact
+      required: true
+    - id: 27
+      name: financial_impact
+      label: Financial Impact
+      hint: Estimated cost
+      type: select_one
+      options:
+      - Under $1000
+      - $1000-$5000
+      - $5000-$10000
+      - $10000-$50000
+      - Over $50000
+      - Unknown
+      required: false
+    - id: 28
+      name: troubleshooting
+      label: Troubleshooting
+      hint: What you have tried
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: steps_taken
+      label: Steps Already Taken
+      hint: What have you tried
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: temporary_fix
+      label: Temporary Fix Applied
+      hint: Any workaround
+      type: select_one
+      options:
+      - Yes Working
+      - Yes Not Working
+      - false
+      required: false
+    - id: 31
+      name: workaround_description
+      label: Workaround Description
+      hint: Describe workaround
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: reproduction
+      label: Reproduction
+      hint: Can you reproduce
+      type: select_one
+      options:
+      - Yes Always
+      - Yes Sometimes
+      - No Cannot Reproduce
+      - Not Attempted
+      required: true
+    - id: 33
+      name: reproduction_steps
+      label: Reproduction Steps
+      hint: How to reproduce
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: attachments
+      label: Attachments
+      hint: Screenshots or logs
+      type: note
+      options: []
+      required: false
+    - id: 35
+      name: screenshots_available
+      label: Screenshots Available
+      hint: Do you have screenshots
+      type: select_one
+      options:
+      - Yes Will Attach
+      - Yes Already Attached
+      - false
+      required: false
+    - id: 36
+      name: logs_available
+      label: Log Files Available
+      hint: Do you have logs
+      type: select_one
+      options:
+      - Yes Will Attach
+      - Yes Already Attached
+      - false
+      required: false
+    - id: 37
+      name: related_tickets
+      label: Related Tickets
+      hint: Any related tickets
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: assignment
+      label: Assignment
+      hint: Who should handle
+      type: note
+      options: []
+      required: false
+    - id: 39
+      name: assigned_team
+      label: Assigned Team
+      hint: Which team
+      type: select_one
+      options:
+      - IT Support
+      - Development
+      - Operations
+      - Vendor Support
+      - Not Sure
+      required: false
+    - id: 40
+      name: expected_resolution
+      label: Expected Resolution
+      hint: What do you expect
+      type: text
+      options: []
+      required: false
+    - id: 41
+      name: deadline
+      label: Resolution Deadline
+      hint: When needed by
+      type: date
+      options: []
+      required: false
+    - id: 42
+      name: notifications
+      label: Notifications
+      hint: Update preferences
+      type: select_one
+      options:
+      - Email Updates
+      - Phone Updates
+      - Both
+      - Resolution Only
+      required: true
+    - id: 43
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other details
+      type: text
+      options: []
+      required: false
+    - id: 44
+      name: reporter_signature
+      label: Reporter Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: true
+    - id: 45
+      name: report_date
+      label: Report Date
+      hint: Today date
+      type: date
+      options: []
+      required: true

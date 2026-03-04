@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Group Health Plan Billing Information Form
+    pages:
+    - id: 1
+      name: billing_information
+      label: Billing Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employer_details
+      label: Employer Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: plan_coverage
+      label: Plan Coverage
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 100, ''label'': ''Full Coverage''}'
+      - '{''id'': 200, ''label'': ''Partial Coverage''}'
+      required: true
+    - id: 4
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 50, ''label'': ''ACH (Automated Clearing House)''}'
+      - '{''id'': 51, ''label'': ''EFT (Electronic Funds Transfer)''}'
+      required: true
+    - id: 6
+      name: payment_term
+      label: Payment Term
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 300, ''label'': ''Immediate''}'
+      - '{''id'': 301, ''label'': ''30 Days''}'
+      - '{''id'': 302, ''label'': ''60 Days''}'
+      - '{''id'': 303, ''label'': ''Other (Specify)''}'
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false

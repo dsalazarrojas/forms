@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gun Transfer Form
+    pages:
+    - id: 1
+      name: gun_transfer_form
+      label: gun_transfer_form
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: gun_type
+      label: gun_type
+      hint: null
+      type: select_one
+      options:
+      - Handgun
+      - Rifle
+      - Shotgun
+      required: false
+    - id: 5
+      name: transfer_to
+      label: transfer_to
+      hint: Name or email of person transferring to
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: reason_for_transfer
+      label: reason_for_transfer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: phone_number
+      hint: Phone number for follow-up
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email_address
+      label: email_address
+      hint: Email for follow-up
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: address
+      label: address
+      hint: Street address for follow-up
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: date_of_transfer
+      label: date_of_transfer
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: transfer_date
+      label: transfer_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: transfer_method
+      label: transfer_method
+      hint: null
+      type: select_one
+      options:
+      - Handover
+      - Mail
+      - Hand delivery
+      required: false

@@ -1,0 +1,180 @@
+inputSchema:
+  type: object
+  properties:
+    title: Performance Based Interview Question Evaluation Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: interview_type
+      label: interview type
+      hint: null
+      type: select_one
+      options:
+      - type A
+      - type B
+      - type C
+      required: true
+    - id: 4
+      name: question_1
+      label: question 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: question_2
+      label: question 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: question_3
+      label: question 3
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: question_4
+      label: question 4
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: question_5
+      label: question 5
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: score_1
+      label: score 1
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: score_2
+      label: score 2
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: score_3
+      label: score 3
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: score_4
+      label: score 4
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: phone_number
+      label: phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: interview_notes
+      label: interview notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: follow_up
+      label: follow up
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 21
+      name: next_steps
+      label: next steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: follow_up_notes
+      label: follow up notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: next_steps_follow_up
+      label: next steps - follow up
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: follow_up_timeframe
+      label: follow up timeframe
+      hint: null
+      type: time
+      options: []
+      required: false

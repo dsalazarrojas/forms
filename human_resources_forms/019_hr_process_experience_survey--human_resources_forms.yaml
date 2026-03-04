@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: HR Process Experience Survey
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - HR
+      - Accounting
+      - Engineering
+      - Operations
+      - Finance
+      - Marketing
+      - Sales
+      - IT
+      required: false
+    - id: 3
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: process_areas
+      label: Process Areas
+      hint: null
+      type: select_multiple
+      options:
+      - Payroll
+      - Recruitment
+      - Onboarding
+      - Performance Management
+      - Employee Development
+      - Employee Relations
+      - Employee Engagement
+      required: false
+    - id: 5
+      name: experience_rating
+      label: Experience Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - HR
+      - Manager
+      - Employee
+      required: false
+    - id: 8
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: false

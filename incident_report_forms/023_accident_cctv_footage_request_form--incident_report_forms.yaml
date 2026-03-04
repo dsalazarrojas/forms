@@ -1,0 +1,173 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accident CCTV Footage Request Form
+    pages:
+    - id: 1
+      name: requestor_name
+      label: Requestor Name
+      hint: Full name of the person requesting the footage
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requestor_title
+      label: Requestor Title
+      hint: Job title or role of the person requesting
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requestor_organization
+      label: Requestor Organization
+      hint: Organization or agency making the request
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: requestor_contact_email
+      label: Requestor Contact Email
+      hint: Email address for follow-up communications
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: requestor_contact_phone
+      label: Requestor Contact Phone
+      hint: Phone number for follow-up communications
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: authorization_document_number
+      label: Authorization Document Number
+      hint: Case number, warrant number, or other official document number authorizing
+        this request
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: accident_date
+      label: Accident Date
+      hint: Date when the accident occurred
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: accident_time
+      label: Accident Time
+      hint: Approximate time when the accident occurred
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: accident_location
+      label: Accident Location
+      hint: Specific location where the accident occurred
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: requested_footage_date
+      label: Requested Footage Date
+      hint: Date for which footage is being requested
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: requested_footage_time_range
+      label: Requested Footage Time Range
+      hint: Time range for which footage is being requested
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: camera_locations_requested
+      label: Camera Locations Requested
+      hint: Specific camera locations or areas to be reviewed
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: purpose_of_request
+      label: Purpose of Request
+      hint: What is the purpose of requesting this footage?
+      type: select_one
+      options:
+      - Investigation
+      - Evidence
+      - Legal Proceedings
+      - Insurance Claim
+      - Incident Review
+      - Other
+      required: true
+    - id: 14
+      name: legal_authorization_type
+      label: Legal Authorization Type
+      hint: What type of legal authorization supports this request?
+      type: select_one
+      options:
+      - Court Order
+      - Subpoena
+      - Warrant
+      - Law Enforcement Request
+      - Insurance Investigation
+      - Other Official Request
+      required: true
+    - id: 15
+      name: footage_usage_purpose
+      label: Footage Usage Purpose
+      hint: How will the requested footage be used?
+      type: select_multiple
+      options:
+      - Case Preparation
+      - Court Presentation
+      - Insurance Review
+      - Internal Investigation
+      - Report Writing
+      - Other
+      required: true
+    - id: 16
+      name: footage_retention_period
+      label: Footage Retention Period
+      hint: How long will the footage be retained after viewing?
+      type: select_one
+      options:
+      - 24 hours
+      - 1 week
+      - 1 month
+      - 3 months
+      - 6 months
+      - 1 year
+      - Other
+      required: true
+    - id: 17
+      name: viewing_party_details
+      label: Viewing Party Details
+      hint: Who will have access to view the footage?
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: privacy_compliance_acknowledgment
+      label: Privacy Compliance Acknowledgment
+      hint: Do you acknowledge the privacy requirements for handling this footage?
+      type: select_one
+      options:
+      - Yes, I acknowledge
+      - 'No'
+      required: true
+    - id: 19
+      name: special_handling_instructions
+      label: Special Handling Instructions
+      hint: Are there any special instructions for handling the footage?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information about this request?
+      type: text
+      options: []
+      required: false

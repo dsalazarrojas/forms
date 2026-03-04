@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Emergency Exit Planning Absence Form
+    pages:
+    - id: 1
+      name: emergency_exit_planning_absence_form
+      label: emergency_exit_drill
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: drill_location
+      label: emergency_exit_drill_location
+      hint: null
+      type: select_one
+      options:
+      - Emergency Exit A
+      - Emergency Exit B
+      - Emergency Exit C
+      required: false
+    - id: 3
+      name: employee_absence
+      label: emergency_exit_absence
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 4
+      name: date_of_absence
+      label: date_of_absence
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: start_time_of_drill
+      label: start_time_of_drill
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: end_time_of_drill
+      label: end_time_of_drill
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: number_of_emergency_exit_drills_completed
+      label: number_of_emergency_exit_drills_completed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_name
+      label: emergency_contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_number
+      label: emergency_contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_email
+      label: emergency_contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: assigned
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: output_file
+      label: output_file
+      hint: null
+      type: text
+      options: []
+      required: false

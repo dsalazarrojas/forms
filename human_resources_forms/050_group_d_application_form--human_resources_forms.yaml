@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Group D Application Form
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Applicant Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: applicant_email
+      label: Applicant Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: applicant_phone
+      label: Applicant Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_one
+      options:
+      - Job A
+      - Job B
+      - Job C
+      required: true
+    - id: 5
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: work_hours
+      label: Work Hours
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: application_date
+      label: Application Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: uploaded_files
+      label: Uploaded Files
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: application_status
+      label: Application Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Rejected
+      - Approved
+      required: true
+    - id: 12
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: approved_by
+      label: Approved By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: approved_at
+      label: Approved At
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,230 @@
+inputSchema:
+  type: object
+  properties:
+    title: Beneficiary Form
+    pages:
+    - id: 1
+      name: section_deceased
+      label: -- Deceased Person Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: deceased_name
+      label: Name of Deceased Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: deceased_dob
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: deceased_dod
+      label: Date of Death
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: social_security_number
+      label: Social Security Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: last_address
+      label: Last Known Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: marital_status
+      label: Marital Status at Time of Death
+      hint: null
+      type: select_one
+      options:
+      - Married
+      - Single
+      - Divorced
+      - Widowed
+      - Other
+      required: true
+    - id: 8
+      name: section_beneficiary
+      label: -- Beneficiary Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: beneficiary_full_name
+      label: Beneficiary Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: beneficiary_dob
+      label: Beneficiary Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: relationship_to_deceased
+      label: Relationship to Deceased Person
+      hint: null
+      type: select_one
+      options:
+      - Spouse
+      - Child
+      - Parent
+      - Sibling
+      - Grandchild
+      - Other Family
+      - Friend
+      - Trustee
+      - Other
+      required: true
+    - id: 12
+      name: beneficiary_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: beneficiary_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: beneficiary_address
+      label: Current Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: beneficiary_ssn
+      label: Social Security Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: section_assets
+      label: -- Asset Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: asset_type
+      label: Type of Asset to Receive
+      hint: null
+      type: select_one
+      options:
+      - Cash/Bank Accounts
+      - Property
+      - Stocks/Bonds
+      - Vehicles
+      - Personal Property
+      - Life Insurance
+      - Retirement Accounts
+      - Other
+      required: true
+    - id: 18
+      name: estimated_value
+      label: Estimated Value of Assets
+      hint: Dollar amount
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: asset_description
+      label: Description of Assets
+      hint: Detailed description of what is being transferred
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: section_legal
+      label: -- Legal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: has_will
+      label: Does Deceased Have a Will or Trust
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Unknown
+      required: true
+    - id: 22
+      name: executor_name
+      label: Name of Executor or Estate Administrator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: executor_contact
+      label: Executor Contact Information
+      hint: Phone number or email
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: legal_representation
+      label: Do You Have Legal Representation
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 25
+      name: attorney_name
+      label: Attorney Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: section_declaration
+      label: -- Declaration and Certification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: information_accurate
+      label: I declare that all information provided is accurate
+      hint: null
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 28
+      name: form_date
+      label: Date of Form Submission
+      hint: null
+      type: date
+      options: []
+      required: true

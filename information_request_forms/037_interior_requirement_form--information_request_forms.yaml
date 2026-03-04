@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Interior Requirement Form
+    pages:
+    - id: 1
+      name: interior_requirement_form
+      label: interiorRequirementForm
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: subcategory
+      label: subCategory
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: projecttype
+      label: projectType
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: projectarea
+      label: projectArea
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: designstyle
+      label: designStyle
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: clientrequirements
+      label: clientRequirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: designrequirements
+      label: designRequirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: communicationchannel
+      label: communicationChannel
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: preferredcommunicationtime
+      label: preferredCommunicationTime
+      hint: null
+      type: time
+      options: []
+      required: false

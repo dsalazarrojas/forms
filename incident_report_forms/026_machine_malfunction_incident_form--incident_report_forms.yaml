@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Machine Malfunction Incident Form
+    pages:
+    - id: 1
+      name: user_input
+      label: user_input
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: incident_date
+      label: incident_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: incident_time
+      label: incident_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: equipment_id
+      label: equipment_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: root_cause
+      label: root_cause
+      hint: null
+      type: text
+      options: []
+      required: false

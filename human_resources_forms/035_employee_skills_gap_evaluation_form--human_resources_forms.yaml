@@ -1,0 +1,249 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Employee Skills Gap Evaluation Form
+    pages:
+    - id: 1
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: employee name
+      hint: First and last name, as they appear on employee ID card
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: manager_name
+      label: manager name
+      hint: First and last name, as they appear on employee ID card
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: job_family
+      label: job family
+      hint: null
+      type: select_one
+      options:
+      - Accounting
+      - Finance
+      - Human Resources
+      - IT
+      - Marketing
+      - Operations
+      - Other
+      required: true
+    - id: 5
+      name: job_function
+      label: job function
+      hint: null
+      type: select_multiple
+      options:
+      - Accounting
+      - Finance
+      - IT
+      - Marketing
+      - Operations
+      required: true
+    - id: 6
+      name: skills_needed
+      label: skills needed
+      hint: List specific skills or areas of knowledge needed
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: training_needed
+      label: training needed
+      hint: 'Check all that apply: (e.g., classroom training, on-the-job training,
+        mentorship, etc.)'
+      type: select_multiple
+      options:
+      - Classroom
+      - On the job
+      - Mentorship
+      - Online
+      - Other
+      required: true
+    - id: 8
+      name: training_status
+      label: training status
+      hint: null
+      type: select_multiple
+      options:
+      - In Progress
+      - Completed
+      - Not Started
+      - Other
+      required: true
+    - id: 9
+      name: evaluation_date
+      label: evaluation date
+      hint: Date of evaluation
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: evaluation_time
+      label: evaluation time
+      hint: Time of evaluation
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: employee_id
+      label: employee ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: employee_status
+      label: employee status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Retired
+      - Other
+      required: true
+    - id: 13
+      name: job_status
+      label: job status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Open
+      - Other
+      required: true
+    - id: 14
+      name: job_status_date
+      label: job status date
+      hint: Date of job status change
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: manager_id
+      label: manager ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: manager_status
+      label: manager status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Open
+      - Other
+      required: true
+    - id: 17
+      name: manager_status_date
+      label: manager status date
+      hint: Date of manager status change
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: job_function_status
+      label: job function status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Open
+      - Other
+      required: true
+    - id: 19
+      name: job_function_status_date
+      label: job function status date
+      hint: Date of job function status change
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: employee_performance
+      label: employee performance
+      hint: null
+      type: select_one
+      options:
+      - Satisfactory
+      - Needs improvement
+      - Unsatisfactory
+      required: true
+    - id: 21
+      name: job_performance
+      label: job performance
+      hint: null
+      type: select_one
+      options:
+      - Satisfactory
+      - Needs improvement
+      - Unsatisfactory
+      required: true
+    - id: 22
+      name: job_performance_date
+      label: job performance date
+      hint: Date of last performance evaluation
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: performance_evaluation_cycle
+      label: performance evaluation cycle
+      hint: 'Check all that apply: (e.g., weekly, bi-weekly, monthly, etc.)'
+      type: select_multiple
+      options:
+      - Weekly
+      - Biweekly
+      - Monthly
+      - Quarterly
+      - Semiannually
+      - Annually
+      required: true
+    - id: 24
+      name: next_evaluation
+      label: next evaluation
+      hint: 'Check all that apply: (e.g., 30, 60, 90 days)'
+      type: select_multiple
+      options:
+      - '30'
+      - '60'
+      - '90'
+      - '120'
+      - Other
+      required: true
+    - id: 25
+      name: evaluation_frequency
+      label: evaluation frequency
+      hint: null
+      type: select_one
+      options:
+      - Quarterly
+      - Semiannually
+      - Annually
+      required: true

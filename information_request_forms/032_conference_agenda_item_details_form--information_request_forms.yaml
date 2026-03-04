@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Conference Agenda Item Details Form
+    pages:
+    - id: 1
+      name: submitter_name
+      label: Submitter name
+      hint: Name of person submitting agenda item
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: Contact email
+      hint: Email for follow up about agenda item
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: item_title
+      label: Agenda item title
+      hint: Short descriptive title
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: duration_minutes
+      label: Duration in minutes
+      hint: Proposed time allocation
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: presenters
+      label: Presenter names
+      hint: Names and affiliations
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: learning_objectives
+      label: Learning objectives or outcomes
+      hint: What attendees will learn
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: required_audiovisual
+      label: Required audiovisual equipment
+      hint: Microphones, projectors, or other
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: preferred_session_type
+      label: Preferred session type
+      hint: Talk, workshop, panel, or poster
+      type: select_one
+      options:
+      - Talk
+      - Workshop
+      - Panel
+      - Poster
+      required: true
+    - id: 9
+      name: audience_level
+      label: Target audience level
+      hint: Beginner, intermediate, or advanced
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 10
+      name: additional_notes
+      label: Additional notes
+      hint: Any other information for reviewers
+      type: text
+      options: []
+      required: false

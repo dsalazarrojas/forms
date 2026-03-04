@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Recruitment Process Checklist
+    pages:
+    - id: 1
+      name: initial_application
+      label: Initial Application
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: resume_screening
+      label: Resume Screening
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: interview_scheduling
+      label: Interview Scheduling
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: candidate_selection
+      label: Candidate Selection
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: background_check
+      label: Background Check
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: reference_check
+      label: Reference Check
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: offer_creation
+      label: Offer Creation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: candidate_feedback
+      label: Candidate Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: hiring_decision
+      label: Hiring Decision
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: final_notes
+      label: Final Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: candidate_status
+      label: Candidate Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 12
+      name: candidate_contact
+      label: Candidate Contact
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: follow_up
+      label: Follow Up
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

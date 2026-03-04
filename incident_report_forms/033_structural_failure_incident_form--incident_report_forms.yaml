@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: structural_failure_incident_form
+    pages:
+    - id: 1
+      name: incident_reporter
+      label: Structural Reporter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: structural_failure_description
+      label: Structural Failure Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: cause
+      label: Cause
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: root_cause
+      label: Root Cause
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: corrective_action
+      label: Corrective Action
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: responsible_party
+      label: Responsible Party
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: structural_failure_type
+      label: Structural Failure Type
+      hint: null
+      type: select_one
+      options:
+      - structural_system_failure
+      - equipment_failure
+      - other
+      required: false
+    - id: 11
+      name: equipment_failed
+      label: Equipment Failed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: structural_failure_location
+      label: Structural Failure Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: incident_reporter_name
+      label: Reporter Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: incident_reporter_email
+      label: Reporter Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: incident_reporter_phone
+      label: Reporter Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: incident_reporter_department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - Operations
+      - Maintenance
+      - Administration
+      required: true
+    - id: 17
+      name: incident_type
+      label: Type
+      hint: null
+      type: select_multiple
+      options:
+      - Structural Failure
+      - Other
+      required: true
+    - id: 18
+      name: incident_subcategory
+      label: Subcategory
+      hint: null
+      type: select_multiple
+      options:
+      - Safety Inspection
+      - Preventive Maintenance
+      - Repair
+      required: true
+    - id: 19
+      name: incident_status
+      label: Status
+      hint: null
+      type: select_multiple
+      options:
+      - Open
+      - Closed
+      - Under Investigation
+      required: true
+    - id: 20
+      name: incident_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: incident_priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 22
+      name: incident_frequency
+      label: Frequency
+      hint: null
+      type: select_one
+      options:
+      - One-Time
+      - Occasional
+      - Regular
+      required: false
+    - id: 23
+      name: incident_reoccurrence
+      label: Reoccurrence
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 24
+      name: incident_cause
+      label: Cause
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: incident_nature
+      label: Nature
+      hint: null
+      type: text
+      options: []
+      required: false

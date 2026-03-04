@@ -1,0 +1,54 @@
+inputSchema:
+  type: object
+  properties:
+    title: Information Request Form
+    pages:
+    - id: 1
+      name: information_request_form
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_number
+      label: Phone
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: select_one_address
+      label: Address
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''street'', ''label'': ''Street''}'
+      - '{''value'': ''city'', ''label'': ''City''}'
+      - '{''value'': ''state'', ''label'': ''State''}'
+      - '{''value'': ''zip'', ''label'': ''Zip''}'
+      required: false
+    - id: 5
+      name: select_multiple
+      label: Other Contact Info
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''address'', ''label'': ''Address''}'
+      - '{''value'': ''phone'', ''label'': ''Phone''}'
+      - '{''value'': ''email'', ''label'': ''Email''}'
+      required: false
+    - id: 6
+      name: date_time
+      label: Date & Time
+      hint: null
+      type: date
+      options: []
+      required: false

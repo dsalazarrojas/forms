@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Benefits Preference Survey
+    pages:
+    - id: 1
+      name: first_page
+      label: First Page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: benefits_1
+      label: What benefits matter most to you?
+      hint: null
+      type: select_multiple
+      options:
+      - health
+      - financial
+      - family
+      required: true
+    - id: 3
+      name: benefits_2
+      label: What's most important for work-life balance?
+      hint: null
+      type: select_one
+      options:
+      - remote_work_options
+      - flexible_work_schedule
+      - family_days_off
+      required: true
+    - id: 4
+      name: benefits_3
+      label: How important is health insurance to you?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: benefits_4
+      label: What benefit options do you currently have at work?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: first_page_2
+      label: Additional Comments or Questions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: benefits_5
+      label: What's the most valuable benefit you've ever received from your current
+        or past employer?
+      hint: null
+      type: select_one
+      options:
+      - health_insurance
+      - financial_support
+      - family_leave
+      required: true
+    - id: 8
+      name: benefits_6
+      label: How do you want to contact you for future surveys?
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: benefits_7
+      label: What are your thoughts on having a mentor at work?
+      hint: null
+      type: select_multiple
+      options:
+      - 'yes'
+      - 'no'
+      - maybe
+      required: false
+    - id: 10
+      name: benefits_8
+      label: Do you think having a mentor would be beneficial for you?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: benefits_9
+      label: Do you have any other feedback or suggestions?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: benefits_10
+      label: Have you had any issues with benefits at your workplace so far?
+      hint: null
+      type: text
+      options: []
+      required: false

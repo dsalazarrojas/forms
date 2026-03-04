@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Maintenance Philosophy Document Request Form
+    pages:
+    - id: 1
+      name: purpose
+      label: What is the purpose of this request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: urgency
+      label: What is the urgency of this request
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 3
+      name: format
+      label: What is your preferred format
+      hint: null
+      type: select_multiple
+      options:
+      - pdf
+      - docx
+      - ppt
+      - other
+      required: false
+    - id: 4
+      name: facility
+      label: Which facility is this request for
+      hint: null
+      type: select_one
+      options:
+      - Facility 1
+      - Facility 2
+      - Facility 3
+      required: false
+    - id: 5
+      name: contact_person
+      label: Who is your contact person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: Contact email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: Contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: Additional comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tech Employee Performance Audit Form
+    pages:
+    - id: 1
+      name: tech_employee_info
+      label: Tech Employee Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: manager_review
+      label: Manager Review
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Excellent''}'
+      - '{''id'': 2, ''name'': ''Good''}'
+      - '{''id'': 3, ''name'': ''Fair''}'
+      - '{''id'': 4, ''name'': ''Poor''}'
+      required: false
+    - id: 3
+      name: employee_rating
+      label: Employee Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: tech_skills
+      label: Tech Skills
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''HTML''}'
+      - '{''id'': 2, ''name'': ''CSS''}'
+      - '{''id'': 3, ''name'': ''JavaScript''}'
+      - '{''id'': 4, ''name'': ''Python''}'
+      required: false
+    - id: 6
+      name: communication_skills
+      label: Communication Skills
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Strong''}'
+      - '{''id'': 2, ''name'': ''Needs Improvement''}'
+      - '{''id'': 3, ''name'': ''Unsatisfactory''}'
+      required: false
+    - id: 7
+      name: work_style
+      label: Work Style
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Collaborative''}'
+      - '{''id'': 2, ''name'': ''Independent''}'
+      - '{''id'': 3, ''name'': ''Autocratic''}'
+      required: false
+    - id: 8
+      name: tech_skills_used
+      label: Tech Skills Used
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''HTML''}'
+      - '{''id'': 2, ''name'': ''CSS''}'
+      - '{''id'': 3, ''name'': ''JavaScript''}'
+      - '{''id'': 4, ''name'': ''Python''}'
+      required: false
+    - id: 9
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: tech_skills_needed
+      label: Tech Skills Needed
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''HTML''}'
+      - '{''id'': 2, ''name'': ''CSS''}'
+      - '{''id'': 3, ''name'': ''JavaScript''}'
+      - '{''id'': 4, ''name'': ''Python''}'
+      required: false
+    - id: 11
+      name: action_item
+      label: Action Item
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: action_item_details
+      label: Action Item Details
+      hint: null
+      type: text
+      options: []
+      required: false

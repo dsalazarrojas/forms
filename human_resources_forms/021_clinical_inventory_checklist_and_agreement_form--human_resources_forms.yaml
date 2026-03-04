@@ -1,0 +1,307 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Clinical Inventory Checklist And Agreement Form
+    pages:
+      - id: 1
+        name: form_header
+        label: Clinical Inventory Checklist and Agreement
+        hint: Use this form to track clinical inventory and confirm agreement on equipment usage
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: employee_name
+        label: Employee Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: employee_id
+        label: Employee ID
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: department
+        label: Department
+        hint: null
+        type: select_one
+        options:
+          - Nursing
+          - Emergency
+          - Surgery
+          - Pediatrics
+          - Cardiology
+          - Oncology
+          - Radiology
+          - Laboratory
+          - Pharmacy
+          - Other
+        required: true
+      - id: 5
+        name: position
+        label: Position or Role
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: supervisor_name
+        label: Supervisor Name
+        hint: null
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: inventory_date
+        label: Inventory Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 8
+        name: inventory_type
+        label: Inventory Type
+        hint: null
+        type: select_one
+        options:
+          - New Hire Equipment Assignment
+          - Quarterly Inventory Check
+          - Annual Inventory Audit
+          - Transfer of Equipment
+          - Return of Equipment
+          - Replacement Request
+        required: true
+      - id: 9
+        name: stethoscope_assigned
+        label: Stethoscope
+        hint: null
+        type: select_one
+        options:
+          - Assigned
+          - Already Have
+          - Not Required
+          - Requested
+        required: false
+      - id: 10
+        name: stethoscope_condition
+        label: Stethoscope Condition
+        hint: If assigned
+        type: select_one
+        options:
+          - New
+          - Good
+          - Fair
+          - Needs Replacement
+          - Not Applicable
+        required: false
+      - id: 11
+        name: blood_pressure_cuff
+        label: Blood Pressure Cuff
+        hint: null
+        type: select_one
+        options:
+          - Assigned
+          - Already Have
+          - Not Required
+          - Requested
+        required: false
+      - id: 12
+        name: penlight
+        label: Penlight
+        hint: null
+        type: select_one
+        options:
+          - Assigned
+          - Already Have
+          - Not Required
+          - Requested
+        required: false
+      - id: 13
+        name: scissors_trauma_shears
+        label: Scissors or Trauma Shears
+        hint: null
+        type: select_one
+        options:
+          - Assigned
+          - Already Have
+          - Not Required
+          - Requested
+        required: false
+      - id: 14
+        name: watch_with_second_hand
+        label: Watch with Second Hand
+        hint: null
+        type: select_one
+        options:
+          - Assigned
+          - Already Have
+          - Not Required
+          - Requested
+        required: false
+      - id: 15
+        name: badge_holder
+        label: Badge Holder and ID
+        hint: null
+        type: select_one
+        options:
+          - Assigned
+          - Already Have
+          - Not Required
+          - Requested
+        required: false
+      - id: 16
+        name: ppe_kit
+        label: PPE Kit
+        hint: Masks gloves gowns etc.
+        type: select_one
+        options:
+          - Assigned
+          - Already Have
+          - Not Required
+          - Requested
+        required: false
+      - id: 17
+        name: communication_device
+        label: Communication Device
+        hint: Pager radio phone
+        type: select_one
+        options:
+          - Assigned
+          - Already Have
+          - Not Required
+          - Requested
+        required: false
+      - id: 18
+        name: laptop_or_tablet
+        label: Laptop or Tablet
+        hint: null
+        type: select_one
+        options:
+          - Assigned
+          - Already Have
+          - Not Required
+          - Requested
+        required: false
+      - id: 19
+        name: device_serial_number
+        label: Device Serial Number
+        hint: If applicable
+        type: text
+        options: []
+        required: false
+      - id: 20
+        name: keys_access_cards
+        label: Keys and Access Cards
+        hint: List what was assigned
+        type: text
+        options: []
+        required: false
+      - id: 21
+        name: uniform_allowance
+        label: Uniform Allowance Processed
+        hint: null
+        type: select_one
+        options:
+          - Yes
+          - No
+          - Pending
+          - Not Applicable
+        required: false
+      - id: 22
+        name: uniform_sizes
+        label: Uniform Sizes
+        hint: If applicable
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: additional_equipment
+        label: Additional Equipment Assigned
+        hint: List any other items
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: equipment_condition_notes
+        label: Equipment Condition Notes
+        hint: Document any existing damage or issues
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: replacement_needs
+        label: Items Needing Replacement
+        hint: null
+        type: text
+        options: []
+        required: false
+      - id: 26
+        name: employee_agreement
+        label: Employee Agreement Statement
+        hint: I acknowledge receipt and agree to proper use
+        type: select_one
+        options:
+          - I Agree
+          - I Do Not Agree
+        required: true
+      - id: 27
+        name: care_responsibility
+        label: I Understand My Responsibility for Equipment Care
+        hint: null
+        type: select_one
+        options:
+          - Yes I Understand
+          - No I Do Not Understand
+        required: true
+      - id: 28
+        name: return_policy_acknowledged
+        label: I Understand Equipment Must Be Returned Upon Request
+        hint: null
+        type: select_one
+        options:
+          - Yes I Acknowledge
+          - No I Do Not Acknowledge
+        required: true
+      - id: 29
+        name: employee_signature
+        label: Employee Signature
+        hint: Type full name
+        type: text
+        options: []
+        required: true
+      - id: 30
+        name: employee_signature_date
+        label: Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 31
+        name: supervisor_signature
+        label: Supervisor Signature
+        hint: Type full name
+        type: text
+        options: []
+        required: true
+      - id: 32
+        name: supervisor_signature_date
+        label: Date
+        hint: null
+        type: date
+        options: []
+        required: true

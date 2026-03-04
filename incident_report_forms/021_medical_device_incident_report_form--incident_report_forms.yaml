@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Device Incident Report Form
+    pages:
+    - id: 1
+      name: report_form
+      label: Report Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: medical_device
+      label: Medical Device
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: device_serial_number
+      label: Device Serial Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: incident_reporter_name
+      label: Reporter Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: incident_reporter_relationship
+      label: Reporter Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: incident_reporter_contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: reporting_facility
+      label: Reporting Facility
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: incident_cause
+      label: Incident Cause
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: incident_cause_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: incident_cause_others
+      label: Specify Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: incident_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: accident_injury
+      label: Was there an accident or injury
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: patient_injured
+      label: Was the patient injured
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: medical_device_problem_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: medical_device_problem_description
+      label: Medical Device Problem Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: medical_device_problem_category_others
+      label: Medical Device Problem Category Others
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: medical_device_problem_other
+      label: Medical Device Problem Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: medical_device_problem_other_description
+      label: Medical Device Problem Other Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: medical_device_problem_cause
+      label: Cause
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: medical_device_problem_cause_other
+      label: Medical Device Problem Cause Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: medical_device_problem_cause_other_description
+      label: Medical Device Problem Cause Other Description
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 AttendanceChecklist
+    pages:
+    - id: 1
+      name: class_date
+      label: Class Date
+      hint: Date of the class or activity
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: Full name of the student
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: student_id
+      label: Student ID
+      hint: Unique identifier if available
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: belt_level
+      label: Belt Level
+      hint: Current martial arts belt rank
+      type: select_one
+      options:
+      - White Belt
+      - Yellow Belt
+      - Orange Belt
+      - Green Belt
+      - Blue Belt
+      - Purple Belt
+      - Brown Belt
+      - Black Belt
+      - Other
+      required: false
+    - id: 5
+      name: age_group
+      label: Age Group
+      hint: null
+      type: select_one
+      options:
+      - Child - 6-12
+      - Teen - 13-17
+      - Adult - 18-64
+      - Senior - 65+
+      required: true
+    - id: 6
+      name: class_type
+      label: Class Type Attended
+      hint: null
+      type: select_one
+      options:
+      - Beginner Class
+      - Intermediate Class
+      - Advanced Class
+      - Private Lesson
+      - Group Training
+      - Other
+      required: true
+    - id: 7
+      name: attendance_status
+      label: Attendance Status
+      hint: Did the student attend class?
+      type: select_one
+      options:
+      - Present
+      - Absent
+      - Late Arrival
+      - Early Departure
+      required: true
+    - id: 8
+      name: health_screening_passed
+      label: Health Screening Completed and Passed
+      hint: COVID-19 health check performed
+      type: select_one
+      options:
+      - Yes - Passed
+      - Yes - Did not pass
+      - Not screened
+      - Declined screening
+      required: true
+    - id: 9
+      name: fever_present
+      label: Temperature Check - Fever Present
+      hint: null
+      type: select_one
+      options:
+      - No fever
+      - Fever detected
+      - Not checked
+      required: false
+    - id: 10
+      name: symptoms_present
+      label: COVID-19 Symptoms Present
+      hint: Cough, shortness of breath, loss of taste/smell
+      type: select_one
+      options:
+      - No symptoms
+      - Symptoms present
+      - Not assessed
+      required: true
+    - id: 11
+      name: recent_covid_exposure
+      label: Recent COVID-19 Exposure
+      hint: Exposed to someone with COVID in past 14 days?
+      type: select_one
+      options:
+      - No exposure
+      - Exposed
+      - Not sure
+      - Prefer not to answer
+      required: false
+    - id: 12
+      name: mask_worn
+      label: Mask Worn During Class
+      hint: null
+      type: select_one
+      options:
+      - Yes - N95
+      - Yes - Surgical
+      - Yes - Cloth
+      - 'No'
+      - Exempted
+      required: false
+    - id: 13
+      name: distancing_maintained
+      label: Social Distancing Maintained
+      hint: Six feet or more distance kept
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Partially
+      - Not applicable
+      required: false
+    - id: 14
+      name: vaccination_status
+      label: Vaccination Status
+      hint: COVID-19 vaccination completed
+      type: select_one
+      options:
+      - Fully vaccinated
+      - Partially vaccinated
+      - Not vaccinated
+      - Prefer not to disclose
+      required: false
+    - id: 15
+      name: recent_test_result
+      label: Recent COVID-19 Test Result
+      hint: If tested in past 5 days
+      type: select_one
+      options:
+      - Positive
+      - Negative
+      - Pending
+      - Not tested
+      - Prefer not to disclose
+      required: false
+    - id: 16
+      name: equipment_sanitized
+      label: Equipment Sanitized Before Use
+      hint: Mats, pads, and shared items cleaned
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not applicable
+      required: false
+    - id: 17
+      name: hand_hygiene
+      label: Student Practiced Hand Hygiene
+      hint: Hands sanitized or washed
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Not observed
+      required: false
+    - id: 18
+      name: parent_contact_info
+      label: Parent/Guardian Name
+      hint: If student is a minor
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: parent_phone
+      label: Parent/Guardian Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: signed_by
+      label: Signed By
+      hint: Name of person completing form
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,160 @@
+inputSchema:
+  type: object
+  properties:
+    title: Casual Conversion Policy Survey
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: Your employee identification number
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: Your current department
+      type: select_one
+      options:
+      - Human Resources
+      - Sales
+      - Marketing
+      - Operations
+      - IT
+      - Finance
+      - Other
+      required: true
+    - id: 4
+      name: employment_start_date
+      label: Casual Employment Start Date
+      hint: When did you start as a casual employee
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: conversion_status
+      label: Current Conversion Status
+      hint: Your status regarding casual to permanent conversion
+      type: select_one
+      options:
+      - Not Yet Eligible
+      - Eligible - Not Applied
+      - Applied - Pending
+      - Converted to Permanent
+      - Converted to Fixed-term
+      - Not Interested
+      required: true
+    - id: 6
+      name: awareness_of_policy
+      label: Were You Aware of the Conversion Policy
+      hint: Did you know about the casual conversion policy
+      type: select_one
+      options:
+      - Yes - Fully Aware
+      - Somewhat Aware
+      - No - First Time Hearing
+      required: true
+    - id: 7
+      name: policy_clarity
+      label: Policy Clarity Rating
+      hint: How clear was the conversion policy explanation
+      type: select_one
+      options:
+      - Very Clear
+      - Clear
+      - Neutral
+      - Unclear
+      - Very Unclear
+      required: true
+    - id: 8
+      name: hr_support_rating
+      label: HR Support During Process
+      hint: Rate the support received from HR
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very Poor
+      required: false
+    - id: 9
+      name: process_timeline
+      label: Process Timeline Satisfaction
+      hint: Was the conversion process timely
+      type: select_one
+      options:
+      - Faster Than Expected
+      - As Expected
+      - Slower Than Expected
+      - Much Slower
+      - Not Applicable
+      required: false
+    - id: 10
+      name: documentation_provided
+      label: Was Documentation Provided
+      hint: Did you receive all necessary documents
+      type: select_one
+      options:
+      - Yes - All Documents
+      - Some Documents
+      - No Documents
+      required: true
+    - id: 11
+      name: challenges_faced
+      label: Challenges Faced
+      hint: Select any challenges you experienced
+      type: select_multiple
+      options:
+      - Lack of Information
+      - Delayed Response
+      - Confusing Process
+      - Manager Support Issues
+      - Documentation Problems
+      - None
+      required: false
+    - id: 12
+      name: overall_experience
+      label: Overall Experience Rating
+      hint: Rate your overall conversion experience
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very Poor
+      required: true
+    - id: 13
+      name: would_recommend
+      label: Would You Recommend This Process
+      hint: Would you recommend this process to others
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Neutral
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 14
+      name: improvements_suggested
+      label: Suggested Improvements
+      hint: How can we improve the conversion process
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: additional_feedback
+      label: Additional Comments
+      hint: Any other feedback you would like to share
+      type: text
+      options: []
+      required: false

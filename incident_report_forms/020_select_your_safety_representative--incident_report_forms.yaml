@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Select Your Safety Representative
+    pages:
+    - id: 1
+      name: safety_representative_selection
+      label: Select Safety Representative
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: reason_for_selection
+      label: Reason For Selection
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reason_for_selection_details
+      label: Reason For Selection Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: department_details
+      label: Department Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: selected_reason
+      label: Selected Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: lift_truck_work_order_information_form
+    pages:
+    - id: 1
+      name: lift_truck_work_order_information_form
+      label: lift_truck_work_order_information_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: work_order_date
+      label: work_order_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: work_order_description
+      label: work_order_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: lift_truck_type
+      label: lift_truck_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: work_order_status
+      label: work_order_status
+      hint: null
+      type: select_one
+      options:
+      - active
+      - inactive
+      required: false
+    - id: 7
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: completed_date
+      label: completed_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false

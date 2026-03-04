@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dog Policy Update Request
+    pages:
+    - id: 1
+      name: dog_policy_update_request
+      label: dog_policy_update_request
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: employee_requesting
+      label: employee_requesting
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: new_pet_name
+      label: new_pet_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: reason_for_request
+      label: reason_for_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: manager_approval
+      label: manager_approval
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: manager_name
+      label: manager_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: manager_email
+      label: manager_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: dog_details
+      label: dog_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: department
+      label: department
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

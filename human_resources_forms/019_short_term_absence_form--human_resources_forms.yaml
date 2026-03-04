@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Short Term Absence Form
+    pages:
+    - id: 1
+      name: start_date
+      label: prophets
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: reason
+      label: reason_for_absence
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: manager_approvals
+      label: manager_approvals
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: manager_approvals_2
+      label: manager_approvals_2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: comments_2
+      label: comments_2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: submitted_at
+      label: submitted_at
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: duration
+      label: duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: submitted
+      label: submitted
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: comments_3
+      label: comments_3
+      hint: null
+      type: note
+      options: []
+      required: false

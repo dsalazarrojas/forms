@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Template Employment Screening
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_hired
+      label: Date Hired
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: position_applied
+      label: Position Applied
+      hint: null
+      type: select_one
+      options:
+      - Account Manager
+      - Data Analyst
+      - HR Manager
+      - Marketing Manager
+      - Software Engineer
+      - Support Specialist
+      required: true
+    - id: 7
+      name: job_title
+      label: Job Title
+      hint: null
+      type: select_multiple
+      options:
+      - Account Manager
+      - Data Analyst
+      - HR Manager
+      - Marketing Manager
+      - Software Engineer
+      - Support Specialist
+      required: false
+    - id: 8
+      name: job_level
+      label: Job Level
+      hint: null
+      type: select_one
+      options:
+      - Junior
+      - Senior
+      - Lead
+      required: true
+    - id: 9
+      name: department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - Marketing
+      - Sales
+      - IT
+      - HR
+      required: false
+    - id: 10
+      name: work_status
+      label: Work Status
+      hint: null
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Contract
+      required: true

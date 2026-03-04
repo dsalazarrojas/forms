@@ -1,0 +1,317 @@
+inputSchema:
+  type: object
+  properties:
+    title: Biometric Time Clock Consent Form
+    pages:
+    - id: 1
+      name: employee_information
+      label: Employee Information
+      hint: Enter your personal details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: employee_id
+      label: Employee ID
+      hint: Your employee identification number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department
+      hint: Your department or division
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: position_title
+      label: Position Title
+      hint: Your job title
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: hire_date
+      label: Hire Date
+      hint: Date of hire
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: work_email
+      label: Work Email
+      hint: Your company email
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: work_phone
+      label: Work Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: biometric_system_information
+      label: Biometric System Information
+      hint: Learn about the biometric time clock system
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: system_description
+      label: System Description
+      hint: Description of the biometric system
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: biometric_type
+      label: Biometric Type Used
+      hint: What biometric data will be collected
+      type: select_one
+      options:
+      - Fingerprint
+      - Facial Recognition
+      - Hand Geometry
+      - Palm Print
+      - Iris Scan
+      - Voice Pattern
+      required: true
+    - id: 13
+      name: purpose_of_collection
+      label: Purpose of Data Collection
+      hint: Why biometric data is collected
+      type: select_one
+      options:
+      - Time and Attendance Tracking
+      - Access Control
+      - Both Time Tracking and Access
+      - Payroll Processing
+      required: true
+    - id: 14
+      name: data_storage_location
+      label: Data Storage Location
+      hint: Where is your data stored
+      type: select_one
+      options:
+      - On-Premises Secure Server
+      - Encrypted Cloud Storage
+      - Local Device Storage
+      - Third-Party Secure Facility
+      required: true
+    - id: 15
+      name: data_retention_period
+      label: Data Retention Period
+      hint: How long is data kept
+      type: select_one
+      options:
+      - Duration of Employment Plus 3 Years
+      - Duration of Employment Plus 5 Years
+      - Indefinitely Until Requested Deletion
+      - As Required by Law
+      required: true
+    - id: 16
+      name: consent_declaration
+      label: Consent Declaration
+      hint: Provide your consent
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: voluntary_consent
+      label: Voluntary Consent
+      hint: Is your consent voluntary
+      type: select_one
+      options:
+      - I voluntarily consent to biometric data collection
+      - I understand consent is a condition of employment
+      - I have alternative options available
+      required: true
+    - id: 18
+      name: data_usage_consent
+      label: Data Usage Consent
+      hint: How your data may be used
+      type: select_one
+      options:
+      - I consent to use of biometric data for time tracking only
+      - I consent to use for time tracking and access control
+      - I limit consent to time tracking only
+      required: true
+    - id: 19
+      name: data_sharing_consent
+      label: Data Sharing Consent
+      hint: Can your data be shared
+      type: select_one
+      options:
+      - I do not consent to sharing with third parties
+      - I consent to sharing with authorized vendors only
+      - I consent as required by law
+      required: true
+    - id: 20
+      name: privacy_rights_understanding
+      label: Privacy Rights Understanding
+      hint: Understand your privacy rights
+      type: select_one
+      options:
+      - I understand my privacy rights regarding biometric data
+      - I understand I can request data deletion upon termination
+      required: true
+    - id: 21
+      name: data_security_understanding
+      label: Data Security Understanding
+      hint: Understand security measures
+      type: select_one
+      options:
+      - I understand data is encrypted and secured
+      - I understand security protocols in place
+      required: true
+    - id: 22
+      name: withdrawal_rights
+      label: Withdrawal Rights
+      hint: Understand your right to withdraw
+      type: select_one
+      options:
+      - I understand I can withdraw consent with written notice
+      - I understand withdrawal may affect employment options
+      required: true
+    - id: 23
+      name: alternative_methods
+      label: Alternative Methods
+      hint: Are alternatives available
+      type: select_one
+      options:
+      - Yes - Traditional Time Card Available
+      - Yes - PIN Entry Available
+      - Yes - Mobile App Available
+      - No - Biometric Required for Position
+      required: true
+    - id: 24
+      name: alternative_method_selected
+      label: Alternative Method Selected
+      hint: If declining biometric
+      type: select_one
+      options:
+      - Not Applicable - Consenting to Biometric
+      - Traditional Time Card
+      - PIN Entry System
+      - Mobile Application
+      - Supervisor Verification
+      required: false
+    - id: 25
+      name: employee_acknowledgments
+      label: Employee Acknowledgments
+      hint: Acknowledge understanding
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: accuracy_acknowledgment
+      label: Accuracy Acknowledgment
+      hint: Confirm information accuracy
+      type: select_one
+      options:
+      - I have read and understood this consent form
+      - I have had opportunity to ask questions
+      required: true
+    - id: 27
+      name: questions_addressed
+      label: Questions Addressed
+      hint: Were your questions answered
+      type: select_one
+      options:
+      - Yes - All Questions Answered
+      - No Questions
+      - Some Questions Remain
+      required: true
+    - id: 28
+      name: remaining_questions
+      label: Remaining Questions
+      hint: List any unanswered questions
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: employee_signature
+      label: Employee Signature
+      hint: Sign to confirm consent
+      type: select_one
+      options:
+      - I provide my consent electronically
+      - I agree to the terms stated above
+      required: true
+    - id: 30
+      name: signature_date
+      label: Date of Consent
+      hint: Date you are signing
+      type: date
+      options: []
+      required: true
+    - id: 31
+      name: witness_name
+      label: Witness Name
+      hint: HR representative or witness
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: witness_signature
+      label: Witness Signature
+      hint: Witness confirmation
+      type: select_one
+      options:
+      - Witnessed
+      - Not Required
+      required: false
+    - id: 33
+      name: witness_date
+      label: Witness Date
+      hint: Date of witnessing
+      type: date
+      options: []
+      required: false
+    - id: 34
+      name: employer_acknowledgment
+      label: Employer Acknowledgment
+      hint: Employer confirms receipt
+      type: select_one
+      options:
+      - Received and Accepted
+      - Pending Review
+      required: false
+    - id: 35
+      name: hr_contact_name
+      label: HR Contact Name
+      hint: HR representative for questions
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: hr_contact_email
+      label: HR Contact Email
+      hint: Email for questions
+      type: email
+      options: []
+      required: false
+    - id: 37
+      name: hr_contact_phone
+      label: HR Contact Phone
+      hint: Phone for questions
+      type: text
+      options: []
+      required: false

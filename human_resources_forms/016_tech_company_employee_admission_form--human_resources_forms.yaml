@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: tech_company_employee_admission_form
+    pages:
+    - id: 1
+      name: employee_details
+      label: Employee Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_title
+      label: job_title
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Software Engineer'', ''value'': ''Software Engineer''}'
+      - '{''id'': 2, ''label'': ''Dev Manager'', ''value'': ''Dev Manager''}'
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: onboarding_date
+      label: Onboarding Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: onboarding_location
+      label: Onboarding Location
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Virtual'', ''value'': ''Virtual''}'
+      - '{''id'': 2, ''label'': ''In-office'', ''value'': ''In-office''}'
+      required: true
+    - id: 8
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''HR'', ''value'': ''HR''}'
+      - '{''id'': 2, ''label'': ''Marketing'', ''value'': ''Marketing''}'
+      required: true
+    - id: 9
+      name: onboarding_status
+      label: Onboarding Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Not Started'', ''value'': ''Not Started''}'
+      - '{''id'': 2, ''label'': ''In Progress'', ''value'': ''In Progress''}'
+      - '{''id'': 3, ''label'': ''Completed'', ''value'': ''Completed''}'
+      required: true
+    - id: 10
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: manager_phone
+      label: Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: true

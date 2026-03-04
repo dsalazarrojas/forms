@@ -1,0 +1,102 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Page Information Collection
+    pages:
+    - id: 1
+      name: page_title
+      label: Page Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: page_url
+      label: Page URL
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: page_description
+      label: Page Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: page_category
+      label: Page Category
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Category A'', ''value'': ''category_a''}'
+      - '{''label'': ''Category B'', ''value'': ''category_b''}'
+      - '{''label'': ''Category C'', ''value'': ''category_c''}'
+      required: true
+    - id: 5
+      name: page_tags
+      label: Page Tags
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Tag A'', ''value'': ''tag_a''}'
+      - '{''label'': ''Tag B'', ''value'': ''tag_b''}'
+      - '{''label'': ''Tag C'', ''value'': ''tag_c''}'
+      required: false
+    - id: 6
+      name: page_date
+      label: Page Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: page_time
+      label: Page Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: page_status
+      label: Page Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''status_a'', ''value'': ''status_a''}'
+      - '{''label'': ''status_b'', ''value'': ''status_b''}'
+      - '{''label'': ''status_c'', ''value'': ''status_c''}'
+      required: true
+    - id: 9
+      name: page_priority
+      label: Page Priority
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: page_image_url
+      label: Page Image URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: page_image_url2
+      label: Page Image URL2
+      hint: null
+      type: text
+      options: []
+      required: false

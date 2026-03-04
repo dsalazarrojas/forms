@@ -1,0 +1,155 @@
+inputSchema:
+  type: object
+  properties:
+    title: Central Confidentiality Statement
+    pages:
+    - id: 1
+      name: parties_agreement_header
+      label: -- Parties to the Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: disclosing_party_name
+      label: Disclosing Party Name
+      hint: The entity or individual providing the confidential information
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: receiving_party_name
+      label: Receiving Party Name
+      hint: The entity or individual receiving the confidential information
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: party_relationship
+      label: Relationship Between Parties
+      hint: Select the relationship that defines this agreement
+      type: select_one
+      options:
+      - Employer - Employee
+      - Business Partners
+      - Consultant - Client
+      - Contractor - Client
+      required: true
+    - id: 5
+      name: disclosure_purpose_header
+      label: -- Purpose of Disclosure --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: disclosure_purpose_description
+      label: Purpose of Disclosure
+      hint: Briefly describe why this information is being shared
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: confidential_info_def_header
+      label: -- Definition of Confidential Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: information_types_covered
+      label: Types of Information Covered
+      hint: Select all categories that apply
+      type: select_multiple
+      options:
+      - Trade Secrets
+      - Financial Data
+      - Customer Lists
+      - Product Designs
+      - Proprietary Software
+      - Marketing Strategies
+      required: true
+    - id: 9
+      name: nda_obligations_header
+      label: -- Non-Disclosure Obligations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: agreement_confirmation
+      label: Agreement to Maintain Confidentiality
+      hint: Do you agree to maintain strict confidentiality of the shared information
+      type: select_one
+      options:
+      - Yes - I Agree
+      - Other
+      required: true
+    - id: 11
+      name: exclusions_header
+      label: -- Exclusions from Confidential Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: exclusions_info_note
+      label: Public or Previously Known Information
+      hint: Information that is already public or was previously known is excluded
+        from this agreement
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: duration_agreement_header
+      label: -- Duration of Agreement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: confidentiality_term
+      label: Term of Confidentiality
+      hint: How long must the information remain confidential
+      type: select_one
+      options:
+      - 1 Year
+      - 2 Years
+      - 5 Years
+      - Indefinite
+      required: true
+    - id: 15
+      name: signature_ack_header
+      label: -- Signature and Acknowledgment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: signatory_full_name
+      label: Full Name of Signatory
+      hint: Typing your name acts as an electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: date_signed
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: additional_terms_header
+      label: -- Additional Terms --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: other_nd_requirements
+      label: Other Non-Disclosure Requirements
+      hint: Any other specific requirements for this agreement
+      type: text
+      options: []
+      required: false

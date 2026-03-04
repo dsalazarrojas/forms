@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Customer Experience Specialist Onboarding Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_title
+      label: Job title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: date_of_hire
+      label: Date of Hire
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: training_requirements
+      label: Training requirements
+      hint: null
+      type: select_multiple
+      options:
+      - Customer Experience Training
+      - Technical Training
+      - Soft Skills Training
+      required: false
+    - id: 7
+      name: emergency_contact_name
+      label: Emergency contact name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_relationship
+      label: Relationship
+      hint: null
+      type: select_one
+      options:
+      - Spouse
+      - Parent
+      - Child
+      - Other
+      required: false
+    - id: 9
+      name: emergency_contact_phone
+      label: Emergency contact phone
+      hint: null
+      type: text
+      options: []
+      required: false

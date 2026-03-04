@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: dropbox_incident_report_upload_form
+    pages:
+    - id: 1
+      name: incident_report_upload_form
+      label: Incident Report Upload Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incident_report_date
+      label: Incident Report Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: incident_report_description
+      label: Incident Report Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: incident_report_affected_user
+      label: Affected User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: incident_report_affected_location
+      label: Affected Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: incident_report_affected_device
+      label: Affected Device
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: incident_report_affected_system
+      label: Affected System
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: incident_report_resolution
+      label: Resolution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: incident_report_resolution_date
+      label: Resolution Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: incident_report_upload_file
+      label: Incident Report Upload File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: incident_report_affected_user_email
+      label: Affected User E-mail
+      hint: null
+      type: email
+      options: []
+      required: false

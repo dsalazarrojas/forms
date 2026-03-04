@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Factory Power Outage Incident Report Form
+    pages:
+    - id: 1
+      name: incident_report_form
+      label: Incident Report Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_one
+      options:
+      - Electrical Outage
+      - Equipment Failure
+      - Other
+      required: false
+    - id: 5
+      name: incident_summary
+      label: Incident Summary
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: incident_location
+      label: Location
+      hint: null
+      type: select_multiple
+      options:
+      - Transformer
+      - Transformer 2
+      - Transformer 3
+      - Transformer 4
+      - Transformer 5
+      - Other
+      required: false
+    - id: 7
+      name: personnel_involved
+      label: Personnel Involved
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: equipment_affected
+      label: Equipment Affected
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: root_cause
+      label: Root Cause
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: maintenance_action
+      label: Maintenance Action
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Autopsy Report Request Form
+    pages:
+    - id: 1
+      name: section_requestor_info
+      label: -- Requestor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requestor_name
+      label: Requestor Full Name
+      hint: First and Last Name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: relationship_to_decedent
+      label: Relationship to Decedent
+      hint: Select your legal relationship
+      type: select_one
+      options:
+      - Spouse
+      - Parent
+      - Child
+      - Legal Representative
+      - Next of Kin
+      - Law Enforcement
+      required: true
+    - id: 4
+      name: requestor_email
+      label: Requestor Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: requestor_phone
+      label: Requestor Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_decedent_info
+      label: -- Decedent Information --
+      hint: Information about the deceased person
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: decedent_full_name
+      label: Decedent Full Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: decedent_dob
+      label: Decedent Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: decedent_dod
+      label: Decedent Date of Death
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: case_number
+      label: Case Number
+      hint: If known, please provide the file or case number
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: location_of_death
+      label: Location of Death
+      hint: City, County, and State
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: section_report_logistics
+      label: -- Report Logistics --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: reason_for_request
+      label: Reason for Request
+      hint: Explain why you need the autopsy report
+      type: select_one
+      options:
+      - Insurance Claim
+      - Personal Closure
+      - Legal Litigation
+      - Medical History
+      - Funeral Planning
+      required: true
+    - id: 14
+      name: delivery_method
+      label: Preferred Delivery Method
+      hint: null
+      type: select_one
+      options:
+      - Certified Mail (Paper Copy)
+      - Secure Email (Digital PDF)
+      - In-Person Pickup
+      required: true
+    - id: 15
+      name: id_verification
+      label: Proof of Identity Confirmation
+      hint: Do you agree to provide a copy of your valid photo ID?
+      type: select_one
+      options:
+      - Yes, I have attached it
+      - Yes, I will send it separately
+      required: true

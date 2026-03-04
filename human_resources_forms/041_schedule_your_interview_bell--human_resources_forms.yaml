@@ -1,0 +1,94 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Schedule Your Interview Bell
+    pages:
+    - id: 1
+      name: select_time
+      label: Select Time
+      hint: null
+      type: select_one
+      options:
+      - 00:00
+      - 08:00
+      - '720'
+      - '960'
+      - '1200'
+      required: false
+    - id: 2
+      name: select_date
+      label: Select Date
+      hint: null
+      type: select_one
+      options:
+      - '2020-01-01'
+      - '2020-01-02'
+      - '2020-01-03'
+      required: false
+    - id: 3
+      name: select_day
+      label: Select Day
+      hint: null
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      required: false
+    - id: 4
+      name: select_location
+      label: Select Location
+      hint: null
+      type: select_one
+      options:
+      - Room A
+      - Room B
+      - Room C
+      required: false
+    - id: 5
+      name: select_interviewer
+      label: Select Interviewer
+      hint: null
+      type: select_one
+      options:
+      - Jim
+      - Bob
+      - Jane
+      required: false
+    - id: 6
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: select_phone
+      label: Select Phone
+      hint: null
+      type: select_multiple
+      options:
+      - '1234567890'
+      - '9876543210'
+      - 0987654321
+      required: false

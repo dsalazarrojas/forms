@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Performance Bonus Reconsideration Request Form
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: bonus_date
+      label: Bonus Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: original_bonus_amount
+      label: Original Bonus Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: reconsideration_reason
+      label: Reconsideration Reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: manager_comment
+      label: Manager Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Declined
+      - Pending
+      - Rejected
+      required: true
+    - id: 7
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - '[''John'']'
+      - '[''Jane'']'
+      - '[''Jim'']'
+      required: false
+    - id: 8
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: last_updated
+      label: Last Updated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: attachment
+      label: Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitted_by_email
+      label: Submitted By Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: employee_email
+      label: Employee Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: employee_status
+      label: Employee Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Retired
+      required: false
+    - id: 18
+      name: team_leader
+      label: Team Leader
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Jim
+      required: false
+    - id: 19
+      name: team_leader_email
+      label: Team Leader Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: department_leader
+      label: Department Leader
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Jim
+      required: false
+    - id: 21
+      name: department_leader_email
+      label: Department Leader Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: manager_comments
+      label: Manager Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: attachment_description
+      label: Attachment Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: attachment_filename
+      label: Attachment Filename
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: employee_comments
+      label: Employee Comments
+      hint: null
+      type: text
+      options: []
+      required: false

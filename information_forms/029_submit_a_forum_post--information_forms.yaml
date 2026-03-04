@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: submit_a_forum_post
+    pages:
+    - id: 1
+      name: category
+      label: select_category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: tag
+      label: enter_tag
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: attachment
+      label: attach_file
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: consent
+      label: i_agree
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: rule
+      label: select_rule
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: date
+      label: select_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: select_time
+      hint: null
+      type: time
+      options: []
+      required: false

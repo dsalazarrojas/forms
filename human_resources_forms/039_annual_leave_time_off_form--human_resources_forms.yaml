@@ -1,0 +1,231 @@
+inputSchema:
+  type: object
+  properties:
+    title: Annual Leave Time Off Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Full Name
+      hint: Employee full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: Employee identification number
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Work email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: department
+      label: Department
+      hint: Your department
+      type: select_one
+      options:
+      - Human Resources
+      - Finance
+      - Operations
+      - Marketing
+      - Sales
+      - IT
+      - Engineering
+      - Customer Service
+      - Legal
+      - Executive
+      - Other
+      required: true
+    - id: 6
+      name: position_title
+      label: Position Title
+      hint: Your job title
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: manager_name
+      label: Manager Name
+      hint: Direct supervisor
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: hire_date
+      label: Hire Date
+      hint: When were you hired?
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: leave_year
+      label: Leave Year
+      hint: Which year is this for?
+      type: select_one
+      options:
+      - 2026
+      - 2025
+      - 2024
+      - 2023
+      required: true
+    - id: 10
+      name: leave_type
+      label: Leave Type
+      hint: What type of leave?
+      type: select_one
+      options:
+      - Annual Leave
+      - Vacation
+      - Personal Days
+      - Sick Leave
+      - Family Leave
+      - Bereavement
+      - Jury Duty
+      - Military Leave
+      - Unpaid Leave
+      - Other
+      required: true
+    - id: 11
+      name: start_date
+      label: Start Date
+      hint: When does leave begin?
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: end_date
+      label: End Date
+      hint: When will you return?
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: total_days
+      label: Total Days Requested
+      hint: Number of business days
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: return_date
+      label: Return to Work Date
+      hint: First day back
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: leave_balance
+      label: Current Leave Balance
+      hint: Days available
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: balance_after_request
+      label: Balance After Request
+      hint: Remaining days
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: reason
+      label: Reason for Leave
+      hint: Optional explanation
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: contact_during_leave
+      label: Contact During Leave
+      hint: Can you be reached?
+      type: select_one
+      options:
+      - Yes, Available
+      - Limited Availability
+      - No, Unavailable
+      - Emergency Only
+      required: true
+    - id: 19
+      name: emergency_contact_method
+      label: Emergency Contact Method
+      hint: How to reach you
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: work_handover
+      label: Work Handover Plan
+      hint: Who will cover your work?
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: pending_tasks
+      label: Pending Tasks
+      hint: List any pending work
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: out_of_office_message
+      label: Out of Office Message
+      hint: Auto-reply message
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: manager_approval
+      label: Manager Approval
+      hint: Approval status
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Denied
+      - Needs Revision
+      required: false
+    - id: 24
+      name: manager_name_approval
+      label: Manager Name
+      hint: Approving manager
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: manager_approval_date
+      label: Approval Date
+      hint: Date of approval
+      type: date
+      options: []
+      required: false
+    - id: 26
+      name: hr_approval
+      label: HR Approval
+      hint: HR status
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Denied
+      - Not Required
+      required: false
+    - id: 27
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

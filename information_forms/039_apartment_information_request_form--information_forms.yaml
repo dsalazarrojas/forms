@@ -1,0 +1,364 @@
+inputSchema:
+  type: object
+  properties:
+    title: Apartment Information Request Form
+    pages:
+    - id: 1
+      name: inquiry_date
+      label: Inquiry Date
+      hint: Date of request
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: client_name
+      label: Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: preferred_contact
+      label: Preferred Contact Method
+      hint: How should we contact you
+      type: select_one
+      options:
+      - Email
+      - Phone call
+      - Text message
+      - Any method
+      required: true
+    - id: 6
+      name: best_contact_time
+      label: Best Time to Contact
+      hint: When are you available
+      type: select_one
+      options:
+      - Morning
+      - Midday
+      - Afternoon
+      - Evening
+      - Weekend
+      required: true
+    - id: 7
+      name: property_interest
+      label: Property of Interest
+      hint: Which property are you inquiring about
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: property_address
+      label: Property Address
+      hint: If known
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: inquiry_type
+      label: Type of Inquiry
+      hint: What information do you need
+      type: select_one
+      options:
+      - General information
+      - Availability
+      - Pricing
+      - Amenities
+      - Application process
+      - Schedule viewing
+      - Other
+      required: true
+    - id: 10
+      name: desired_bedrooms
+      label: Desired Bedrooms
+      hint: Number of bedrooms
+      type: select_one
+      options:
+      - Studio
+      - 1 bedroom
+      - 2 bedrooms
+      - 3 bedrooms
+      - 4 or more
+      - Not sure
+      required: true
+    - id: 11
+      name: desired_bathrooms
+      label: Desired Bathrooms
+      hint: Number of bathrooms
+      type: select_one
+      options:
+      - 1 bathroom
+      - 1.5 bathrooms
+      - 2 bathrooms
+      - 2.5 or more
+      - Not sure
+      required: true
+    - id: 12
+      name: budget_range
+      label: Budget Range
+      hint: Monthly rent range
+      type: select_one
+      options:
+      - Under $1000
+      - $1000 to $1500
+      - $1500 to $2000
+      - $2000 to $2500
+      - $2500 to $3000
+      - $3000 to $4000
+      - Over $4000
+      - Flexible
+      required: true
+    - id: 13
+      name: move_in_timeframe
+      label: Move-in Timeframe
+      hint: When do you want to move
+      type: select_one
+      options:
+      - Immediately
+      - Within 2 weeks
+      - Within 1 month
+      - Within 2 months
+      - Within 3 months
+      - Just looking
+      required: true
+    - id: 14
+      name: desired_move_in_date
+      label: Desired Move-in Date
+      hint: If you have a specific date
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: lease_duration
+      label: Preferred Lease Duration
+      hint: Length of lease
+      type: select_one
+      options:
+      - Month-to-month
+      - 6 months
+      - 9 months
+      - 12 months
+      - 18 months or longer
+      - Not sure
+      required: true
+    - id: 16
+      name: number_of_occupants
+      label: Number of Occupants
+      hint: How many people will live there
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: adults_count
+      label: Number of Adults
+      hint: Adults 18 and over
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: children_count
+      label: Number of Children
+      hint: Children under 18
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: pet_ownership
+      label: Do you have pets
+      hint: Pet ownership
+      type: select_one
+      options:
+      - No pets
+      - 1 cat
+      - Multiple cats
+      - 1 dog
+      - Multiple dogs
+      - Both cats and dogs
+      - Other pets
+      required: true
+    - id: 20
+      name: pet_details
+      label: Pet Details
+      hint: Type, size, and breed
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: vehicle_ownership
+      label: Do you own a vehicle
+      hint: Parking needs
+      type: select_one
+      options:
+      - No vehicle
+      - 1 vehicle
+      - 2 vehicles
+      - 3 or more vehicles
+      required: true
+    - id: 22
+      name: parking_requirement
+      label: Parking Requirement
+      hint: Type of parking needed
+      type: select_one
+      options:
+      - No parking needed
+      - Street parking ok
+      - Covered parking
+      - Garage parking
+      - EV charging needed
+      required: true
+    - id: 23
+      name: employment_status
+      label: Employment Status
+      hint: Current employment
+      type: select_one
+      options:
+      - Employed full-time
+      - Employed part-time
+      - Self-employed
+      - Student
+      - Retired
+      - Unemployed
+      - Other
+      required: true
+    - id: 24
+      name: monthly_income
+      label: Monthly Household Income
+      hint: Approximate income
+      type: select_one
+      options:
+      - Under $3000
+      - $3000 to $5000
+      - $5000 to $7500
+      - $7500 to $10000
+      - $10000 to $15000
+      - Over $15000
+      - Prefer not to say
+      required: true
+    - id: 25
+      name: credit_score_range
+      label: Credit Score Range
+      hint: Approximate range
+      type: select_one
+      options:
+      - Excellent (750+)
+      - Good (700-749)
+      - Fair (650-699)
+      - Poor (below 650)
+      - Not sure
+      - Prefer not to say
+      required: false
+    - id: 26
+      name: current_housing
+      label: Current Housing Situation
+      hint: Where do you live now
+      type: select_one
+      options:
+      - Renting apartment
+      - Renting house
+      - Living with family
+      - Living with roommates
+      - Owning home
+      - Other
+      required: true
+    - id: 27
+      name: reason_for_moving
+      label: Reason for Moving
+      hint: Why are you looking
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: special_requirements
+      label: Special Requirements
+      hint: Accessibility or other needs
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: additional_questions
+      label: Additional Questions
+      hint: What else would you like to know
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: viewing_request
+      label: Would you like to schedule a viewing
+      hint: Property tour
+      type: select_one
+      options:
+      - Yes, as soon as possible
+      - Yes, within a week
+      - Yes, within two weeks
+      - Maybe, need more info first
+      - No, not yet
+      required: true
+    - id: 31
+      name: preferred_viewing_time
+      label: Preferred Viewing Time
+      hint: When can you visit
+      type: select_multiple
+      options:
+      - Weekday morning
+      - Weekday afternoon
+      - Weekday evening
+      - Weekend morning
+      - Weekend afternoon
+      - Weekend evening
+      - Flexible
+      required: false
+    - id: 32
+      name: how_did_you_hear
+      label: How did you hear about us
+      hint: Source of inquiry
+      type: select_one
+      options:
+      - Website
+      - Social media
+      - Online listing
+      - Friend or family
+      - Sign or advertisement
+      - Real estate agent
+      - Other
+      required: true
+    - id: 33
+      name: agent_assigned
+      label: Agent Assigned
+      hint: For internal use
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: inquiry_status
+      label: Inquiry Status
+      hint: For internal use
+      type: select_one
+      options:
+      - New
+      - Contacted
+      - Viewing scheduled
+      - Application submitted
+      - Leased
+      - Not interested
+      required: false
+    - id: 35
+      name: notes
+      label: Internal Notes
+      hint: For staff use
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: <string>
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: job_open_date
+      label: Job Open Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: false
+    - id: 5
+      name: department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 6
+      name: job_level
+      label: Job Level
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: job_category
+      label: Job Category
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 8
+      name: job_status
+      label: Job Status
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 9
+      name: employee_referral
+      label: Employee Referral
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: note
+      label: Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 14
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: submitted_time
+      label: Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: submitted_by_phone
+      label: Submitted By Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submitted_by_email
+      label: Submitted By Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: submitted_date_time
+      label: Submitted Date and Time
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: job_requirements
+      label: Job Requirements
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: job_requirements_list
+      label: Job Requirements List
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: job_requirements_important
+      label: Job Requirements Important
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: job_opening
+      label: Job Opening
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: employee_suggest
+      label: Employee Suggest
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: true

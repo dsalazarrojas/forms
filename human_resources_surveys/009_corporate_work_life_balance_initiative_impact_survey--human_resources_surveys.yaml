@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Corporate Work Life Balance Initiative Impact Survey
+    pages:
+    - id: 1
+      name: work_life_balance_programs
+      label: Work Life Balance Programs
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: current_program_satisfaction
+      label: Current Program Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 3
+      name: feedback_on_programs
+      label: Feedback On Programs
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: work_life_balance_policies
+      label: None
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: impact_of_programs
+      label: Impact Of Programs
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: satisfaction_trends
+      label: Satisfaction Trends
+      hint: null
+      type: select_multiple
+      options:
+      - Satisfied
+      - Dissatisfied
+      required: false
+    - id: 7
+      name: support_services
+      label: Support Services
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: communication_plan
+      label: Communication Plan
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

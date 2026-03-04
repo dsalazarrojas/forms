@@ -1,0 +1,320 @@
+inputSchema:
+  type: object
+  properties:
+    title: Capital Eligibility Form
+    pages:
+    - id: 1
+      name: intro_header
+      label: -- Capital Eligibility Check --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: intro_text
+      label: Check your eligibility for capital funding. Provide your information
+        to determine if you qualify for financing.
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 3
+      name: personal_info_header
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your birthday
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: email_address
+      label: Email Address
+      hint: Your email
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: company_info_header
+      label: -- Company Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: company_name
+      label: Company Name
+      hint: Your business name
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: business_type
+      label: Business Type
+      hint: Select one
+      type: select_one
+      options:
+      - Sole Proprietorship
+      - Partnership
+      - LLC
+      - S-Corporation
+      - C-Corporation
+      - Non-profit
+      - Other
+      required: true
+    - id: 12
+      name: business_address
+      label: Business Address
+      hint: Primary business location
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: city
+      label: City
+      hint: City
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: state
+      label: State/Province
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: zip_code
+      label: ZIP or Postal Code
+      hint: ZIP code
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: time_in_business_header
+      label: -- Time in Business --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: years_in_business
+      label: Years in Business
+      hint: How long operating
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: start_date
+      label: Business Start Date
+      hint: When business started
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: revenue_info_header
+      label: -- Revenue Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: annual_revenue
+      label: Annual Revenue (Last Year)
+      hint: Dollar amount
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: revenue_trend
+      label: Revenue Trend
+      hint: Select one
+      type: select_one
+      options:
+      - Growing steadily
+      - Growing rapidly
+      - Stable
+      - Declining
+      - Uncertain
+      required: true
+    - id: 22
+      name: profitability_status
+      label: Profitability Status
+      hint: Select one
+      type: select_one
+      options:
+      - Highly profitable
+      - Profitable
+      - Break-even
+      - Minor losses
+      - Significant losses
+      required: true
+    - id: 23
+      name: credit_info_header
+      label: -- Credit Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: personal_credit_score
+      label: Personal Credit Score
+      hint: Approximate score
+      type: select_one
+      options:
+      - 750 plus
+      - 700-749
+      - 650-699
+      - 600-649
+      - Below 600
+      - Unsure
+      required: true
+    - id: 25
+      name: business_credit_score
+      label: Business Credit Score
+      hint: If available
+      type: select_one
+      options:
+      - Strong
+      - Good
+      - Fair
+      - Poor
+      - No business credit
+      - Unsure
+      required: false
+    - id: 26
+      name: credit_history
+      label: Credit History
+      hint: Select one
+      type: select_one
+      options:
+      - Excellent - No delinquencies
+      - Good - Minor issues resolved
+      - Fair - Some late payments
+      - Poor - Multiple issues
+      required: true
+    - id: 27
+      name: outstanding_debt_header
+      label: -- Outstanding Debt --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 28
+      name: total_debt
+      label: Total Outstanding Debt
+      hint: Dollar amount
+      type: number
+      options: []
+      required: true
+    - id: 29
+      name: debt_obligations
+      label: Monthly Debt Obligations
+      hint: Total monthly payments
+      type: number
+      options: []
+      required: true
+    - id: 30
+      name: collateral_assets_header
+      label: -- Collateral and Assets --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: property_owned
+      label: Do you own real estate or property?
+      hint: Select one
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 32
+      name: property_value
+      label: Approximate Property Value
+      hint: If owned
+      type: number
+      options: []
+      required: false
+    - id: 33
+      name: other_collateral
+      label: Other Collateral Available
+      hint: Vehicles, equipment, etc.
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: capital_request_header
+      label: -- Capital Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 35
+      name: capital_amount
+      label: Capital Amount Requested
+      hint: Dollar amount
+      type: number
+      options: []
+      required: true
+    - id: 36
+      name: capital_purpose
+      label: Purpose of Capital
+      hint: Select one
+      type: select_one
+      options:
+      - Working capital
+      - Equipment purchase
+      - Expansion
+      - Debt consolidation
+      - Inventory
+      - Marketing
+      - Payroll
+      - Other
+      required: true
+    - id: 37
+      name: use_of_funds
+      label: Detailed Use of Funds
+      hint: Describe how funds will be used
+      type: text
+      options: []
+      required: true
+    - id: 38
+      name: repayment_ability
+      label: Expected Repayment Timeline
+      hint: Select one
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-3 years
+      - 3-5 years
+      - 5-10 years
+      - More than 10 years
+      required: true

@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employment Intake Form
+    pages:
+    - id: 1
+      name: personal_info
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: middle_name
+      label: Middle Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: education_level
+      label: Education Level
+      hint: null
+      type: select_one
+      options:
+      - High School
+      - Bachelor
+      - Master
+      - Doctoral
+      - Post-Graduate
+      required: true
+    - id: 7
+      name: education_institution
+      label: Education Institution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: work_history
+      label: Work History
+      hint: null
+      type: select_multiple
+      options:
+      - Intern
+      - Part-time
+      - Full-time
+      required: true
+    - id: 9
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: employment_status
+      label: Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Passive
+      - Un-employed
+      required: true
+    - id: 13
+      name: employment_type
+      label: Employment Type
+      hint: null
+      type: select_one
+      options:
+      - W2
+      - Contract
+      - Freelance
+      required: true
+    - id: 14
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: work_experience
+      label: Work Experience
+      hint: null
+      type: text
+      options: []
+      required: false

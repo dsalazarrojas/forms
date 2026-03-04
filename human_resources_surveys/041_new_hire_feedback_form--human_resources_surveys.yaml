@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: New Hire Feedback Form
+    pages:
+    - id: 1
+      name: new_hire_feedback_form_page
+      label: New Hire Feedback Form Page
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: feedback_title
+      label: Feedback Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: feedback_comments
+      label: Feedback Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: feedback_rating
+      label: Feedback Rating
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 5
+      name: feedback_recommendations
+      label: Feedback Recommendations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: feedback_frequency
+      label: Feedback Frequency
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: feedback_next_action
+      label: Feedback Next Action
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Review
+      - Assign
+      required: false
+    - id: 8
+      name: feedback_comments_next_action
+      label: Comments Next Action
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Review
+      - Assign
+      required: false

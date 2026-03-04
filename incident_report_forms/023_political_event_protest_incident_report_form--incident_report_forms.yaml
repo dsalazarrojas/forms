@@ -1,0 +1,131 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Political Event Protest Incident Report Form
+    pages:
+    - id: 1
+      name: protest_event_details
+      label: protest event details
+      hint: Enter the event details
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: protest_event_date
+      label: protest event date
+      hint: Enter the date of the event
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: protest_event_time
+      label: protest event time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: incident_summary
+      label: incident summary
+      hint: Enter a summary of the incident
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: incident_photos
+      label: incident photos
+      hint: null
+      type: select_multiple
+      options:
+      - Video
+      - Photo
+      - Other
+      required: false
+    - id: 6
+      name: protest_event_location
+      label: protest event location
+      hint: Enter the location where the event occurred
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: report_date
+      label: report date
+      hint: Enter the date of the report
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: report_time
+      label: report time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: protest_event_participants
+      label: protest event participants
+      hint: Was there a large crowd present
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: injured_participants
+      label: injured participants
+      hint: Were any participants injured
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: protest_event_type
+      label: protest event type
+      hint: null
+      type: select_one
+      options:
+      - Demonstration
+      - March
+      - Rally
+      - Riot
+      - Other
+      required: false
+    - id: 12
+      name: police_involvement
+      label: police involvement
+      hint: Was police involved
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: incident_resolution
+      label: incident resolution
+      hint: Is the incident resolved
+      type: select_one
+      options:
+      - Resolved
+      - Ongoing
+      - Unknown
+      required: false
+    - id: 14
+      name: notes
+      label: notes
+      hint: Additional notes
+      type: note
+      options: []
+      required: false

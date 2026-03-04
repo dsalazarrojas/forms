@@ -1,0 +1,89 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: performance_review_appointment_form
+    pages:
+    - id: 1
+      name: performance_review_appointment_form_page_1
+      label: select_review_type
+      hint: Select the review type
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Formal Review''}'
+      - '{''id'': 2, ''value'': ''Informal Review''}'
+      required: false
+    - id: 2
+      name: performance_review_appointment_form_page_2
+      label: select_manager
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Manager 1''}'
+      - '{''id'': 2, ''value'': ''Manager 2''}'
+      - '{''id'': 3, ''value'': ''Manager 3''}'
+      required: false
+    - id: 3
+      name: performance_review_appointment_form_page_3
+      label: select_employee
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Employee 1''}'
+      - '{''id'': 2, ''value'': ''Employee 2''}'
+      - '{''id'': 3, ''value'': ''Employee 3''}'
+      required: false
+    - id: 4
+      name: performance_review_appointment_form_page_4
+      label: select_date
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Date 1''}'
+      - '{''id'': 2, ''value'': ''Date 2''}'
+      - '{''id'': 3, ''value'': ''Date 3''}'
+      required: false
+    - id: 5
+      name: performance_review_appointment_form_page_5
+      label: select_time
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Time 1''}'
+      - '{''id'': 2, ''value'': ''Time 2''}'
+      - '{''id'': 3, ''value'': ''Time 3''}'
+      required: false
+    - id: 6
+      name: add_notes
+      label: add_notes
+      hint: Add notes
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: review_schedule
+      label: review_schedule
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: review_status
+      label: review_status
+      hint: Review status
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Not Started''}'
+      - '{''id'': 2, ''value'': ''In Progress''}'
+      - '{''id'': 3, ''value'': ''Done''}'
+      required: false

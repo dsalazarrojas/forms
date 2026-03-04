@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: Team Member Follow Up Evaluation
+    pages:
+    - id: 1
+      name: team_member_follow_up_evaluation_first_page
+      label: First Page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: team_member_follow_up_evaluation_second_page
+      label: Performance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: team_member_follow_up_evaluation_third_page
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false

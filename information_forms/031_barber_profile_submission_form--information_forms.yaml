@@ -1,0 +1,148 @@
+inputSchema:
+  type: object
+  properties:
+    title: Barber Profile Submission Form
+    pages:
+    - id: 1
+      name: profile_identity_header
+      label: -- Barber Profile Identity --
+      hint: This information will be used for your public profile
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: professional_name
+      label: Professional Name
+      hint: The name you use with clients
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: barber_title
+      label: Professional Title
+      hint: e.g., Master Barber, Senior Stylist
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: years_in_industry
+      label: Years in the Industry
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: specialties_header
+      label: -- Specialties and Expertise --
+      hint: Choose your top skills for the profile
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: signature_style
+      label: Your Signature Style
+      hint: What is the one cut you're most known for?
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: service_specialties
+      label: Core Specialties
+      hint: Select up to 4
+      type: select_multiple
+      options:
+      - Classic Fades
+      - Modern Texture
+      - Traditional Hot Towel Shave
+      - Beard Sculpting
+      - Scissor Work / Long Hair
+      - Kids' Haircuts
+      - Grey Blending / Color
+      required: true
+    - id: 8
+      name: languages_spoken
+      label: Languages Spoken
+      hint: Help us match you with the right clients
+      type: select_multiple
+      options:
+      - English
+      - Spanish
+      - French
+      - Arabic
+      - Mandarin
+      - Other
+      required: true
+    - id: 9
+      name: bio_header
+      label: -- Professional Bio --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: short_bio
+      label: Short Biography (Program/App)
+      hint: 2-3 sentences max
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: full_bio
+      label: Full Biography (Website)
+      hint: Tell your story - your background, inspirations, and philosophy (100-300
+        words)
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: digital_presence_header
+      label: -- Digital Presence --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: instagram_handle
+      label: Instagram Handle
+      hint: e.g., @barber_name
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: booking_link
+      label: Personal Booking Link (if external)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: internal_contact_header
+      label: -- Internal Contact Information --
+      hint: Not for public profile
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: private_phone
+      label: Private Mobile Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: private_email
+      label: Private Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 18
+      name: profile_photo_status
+      label: Profile Photo Status
+      hint: null
+      type: select_one
+      options:
+      - Photo submitted via email
+      - Need to schedule headshot session
+      - Please use previous photo on file
+      required: true

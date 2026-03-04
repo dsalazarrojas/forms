@@ -1,0 +1,50 @@
+inputSchema:
+  type: object
+  properties:
+    title: identity_verification_form_template
+    pages:
+    - id: 1
+      name: user_details
+      label: User Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: id_type
+      label: ID Type
+      hint: null
+      type: select_multiple
+      options:
+      - Driver's License
+      - Passport
+      - State ID
+      required: false
+    - id: 4
+      name: id_number
+      label: ID Number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: note_2
+      label: Note 2
+      hint: null
+      type: note
+      options: []
+      required: false

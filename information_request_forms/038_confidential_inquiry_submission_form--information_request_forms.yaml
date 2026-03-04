@@ -1,0 +1,237 @@
+inputSchema:
+  type: object
+  properties:
+    title: Confidential Inquiry Submission Form
+    pages:
+    - id: 1
+      name: submitter_name
+      label: Your Full Name
+      hint: Optional for anonymous
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email Address
+      hint: For response if not anonymous
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone Number
+      hint: Optional contact
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: organization
+      label: Organization
+      hint: Your affiliation
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: department
+      label: Department
+      hint: Your department
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: inquiry_type
+      label: Type of Inquiry
+      hint: Select category
+      type: select_one
+      options:
+      - General Information Request
+      - Complaint or Grievance
+      - Whistleblower Report
+      - Ethics Violation
+      - Harassment Report
+      - Safety Concern
+      - Financial Irregularity
+      - Data Privacy Concern
+      - Other
+      required: true
+    - id: 7
+      name: inquiry_subject
+      label: Subject of Inquiry
+      hint: Brief title
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: inquiry_description
+      label: Detailed Description
+      hint: Full details of your inquiry
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: incident_date
+      label: Date of Incident
+      hint: If applicable
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: incident_time
+      label: Time of Incident
+      hint: If known
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: incident_location
+      label: Location of Incident
+      hint: Where did it occur
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: individuals_involved
+      label: Individuals Involved
+      hint: Names if known
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: witnesses
+      label: Witnesses
+      hint: Anyone who witnessed
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: evidence_available
+      label: Evidence Available
+      hint: Documents or proof
+      type: select_one
+      options:
+      - Yes Will Submit
+      - Yes Available on Request
+      - No Evidence
+      - Unsure
+      required: true
+    - id: 15
+      name: evidence_description
+      label: Evidence Description
+      hint: Describe what you have
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: previous_reporting
+      label: Previously Reported
+      hint: Have you reported before
+      type: select_one
+      options:
+      - Yes To Supervisor
+      - Yes To HR
+      - Yes To Compliance
+      - No First Report
+      required: true
+    - id: 17
+      name: previous_report_details
+      label: Previous Report Details
+      hint: When and to whom
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: urgency_level
+      label: Urgency Level
+      hint: How urgent
+      type: select_one
+      options:
+      - Low - General Inquiry
+      - Medium - Needs Attention
+      - High - Urgent
+      - Critical - Immediate Action
+      required: true
+    - id: 19
+      name: desired_outcome
+      label: Desired Outcome
+      hint: What resolution do you seek
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: anonymity_request
+      label: Anonymity Request
+      hint: Do you want to remain anonymous
+      type: select_one
+      options:
+      - Yes Keep Me Anonymous
+      - No Identity Can Be Disclosed
+      - Only If Legally Required
+      required: true
+    - id: 21
+      name: retaliation_concern
+      label: Concern About Retaliation
+      hint: Are you worried about retaliation
+      type: select_one
+      options:
+      - Yes Very Concerned
+      - Somewhat Concerned
+      - No Not Concerned
+      required: true
+    - id: 22
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: How to reach you
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - Text Message
+      - Mail
+      - No Contact Please
+      required: false
+    - id: 23
+      name: best_contact_time
+      label: Best Time to Contact
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: additional_information
+      label: Additional Information
+      hint: Any other relevant details
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: supporting_documents
+      label: Supporting Documents
+      hint: List any attachments
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: terms_acknowledgment
+      label: I Understand This Is Confidential
+      hint: Acknowledge confidentiality
+      type: select_one
+      options:
+      - I Understand
+      - I Have Questions
+      required: true
+    - id: 27
+      name: accuracy_statement
+      label: I Certify This Information Is Accurate
+      hint: Confirm accuracy
+      type: select_one
+      options:
+      - I Certify
+      - I Cannot Certify
+      required: true
+    - id: 28
+      name: submission_date
+      label: Date of Submission
+      hint: Today date
+      type: date
+      options: []
+      required: true

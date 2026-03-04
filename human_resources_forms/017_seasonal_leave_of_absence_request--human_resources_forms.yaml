@@ -1,0 +1,205 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: seasonal_leave_of_absence_request
+    pages:
+    - id: 1
+      name: seasonal_leave_request
+      label: Seasonal Leave Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: season
+      label: Season
+      hint: null
+      type: select_one
+      options:
+      - spring
+      - summer
+      - autumn
+      - winter
+      required: true
+    - id: 3
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: reason_for_leave
+      label: Reason for Leave
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: team_lead
+      label: Team Lead
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: employee_email
+      label: Employee Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: leave_type
+      label: Leave Type
+      hint: null
+      type: select_multiple
+      options:
+      - sick_leave
+      - vacation
+      - family_leave
+      required: true
+    - id: 13
+      name: approval_date
+      label: Approval Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - pending
+      - approved
+      - declined
+      required: false
+    - id: 15
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: form_submitted_by
+      label: Form Submitter
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: form_submitted_on
+      label: Form Submitter Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: form_submitted_time
+      label: Form Submitter Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: form_last_updated
+      label: Last Updated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: form_submitter_location
+      label: Form Submitter Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: form_submitted_user_agent
+      label: Form Submitter User Agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: form_submission_status
+      label: Form Submission Status
+      hint: null
+      type: select_one
+      options:
+      - draft
+      - submitted
+      - approved
+      - declined
+      required: false
+    - id: 23
+      name: form_submission_status_details
+      label: Form Submission Status Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: form_submission_comments
+      label: Form Submission Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_submission_user_agent
+      label: Form Submission User Agent
+      hint: null
+      type: text
+      options: []
+      required: false

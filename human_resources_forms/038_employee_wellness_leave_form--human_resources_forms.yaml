@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: employee_wellness_leave_form
+    pages:
+    - id: 1
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: leave_start_date
+      label: leave_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: leave_end_date
+      label: leave_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: reason_for_leave
+      label: reason_for_leave
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: employee_department
+      label: employee_department
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': ''Finance''}'
+      - '{''id'': 2, ''text'': ''Marketing''}'
+      - '{''id'': 3, ''text'': ''Sales''}'
+      - '{''id'': 4, ''text'': ''IT''}'
+      required: false
+    - id: 6
+      name: employee_job_title
+      label: employee_job_title
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''text'': ''Manager''}'
+      - '{''id'': 2, ''text'': ''Assistant Manager''}'
+      - '{''id'': 3, ''text'': ''Team Lead''}'
+      required: false
+    - id: 7
+      name: team_lead_name
+      label: team_lead_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: manager_name
+      label: manager_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: team_name
+      label: team_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: leave_type
+      label: leave_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': ''Personal''}'
+      - '{''id'': 2, ''text'': ''Family''}'
+      - '{''id'': 3, ''text'': ''Company''}'
+      required: true
+    - id: 11
+      name: comment
+      label: comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: employee_email
+      label: employee_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: employee_phone
+      label: employee_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: employee_extension
+      label: employee_extension
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: manager_email
+      label: manager_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: manager_phone
+      label: manager_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: team_manager_email
+      label: team_manager_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: team_manager_phone
+      label: team_manager_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: employee_notes
+      label: employee_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: manager_notes
+      label: manager_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: team_notes
+      label: team_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: date_requested
+      label: date_requested
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: date_approved
+      label: date_approved
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: date_returned
+      label: date_returned
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''text'': ''Pending''}'
+      - '{''id'': 2, ''text'': ''Approved''}'
+      - '{''id'': 3, ''text'': ''Deny''}'
+      required: false

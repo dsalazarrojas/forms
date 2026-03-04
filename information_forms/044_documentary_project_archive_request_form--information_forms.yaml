@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: <string>
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: archive_requester
+      label: Archive Requester
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: archive_materials
+      label: Archive Materials
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: dropzone_location
+      label: Dropzone Location
+      hint: null
+      type: select_one
+      options:
+      - Downtown
+      - Northside
+      - Southside
+      required: true
+    - id: 7
+      name: date_of_dropoff
+      label: Date of Dropoff
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: time_of_dropoff
+      label: Time of Dropoff
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Rejected
+      - Approved
+      required: false
+    - id: 13
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - Admin
+      - Staff
+      required: true
+    - id: 14
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: form_hash
+      label: Form Hash
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: form_version
+      label: Form Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submitted_to
+      label: Submitted To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submitted_from
+      label: Submitted From
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: user_agent
+      label: User Agent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: ip_address
+      label: IP Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: user_agent_ip
+      label: User Agent IP
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_category
+      label: Form Category
+      hint: null
+      type: select_one
+      options:
+      - Information Forms
+      - Other
+      required: true

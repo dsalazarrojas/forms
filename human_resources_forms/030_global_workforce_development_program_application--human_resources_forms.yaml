@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Global Workforce Development Program Application
+    pages:
+    - id: 1
+      name: participant_info
+      label: Participant Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: participant_name
+      label: participant_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: participant_email
+      label: participant_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: participant_phone
+      label: participant_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: career_goals
+      label: career_goals
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: eligibility
+      label: eligibility
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 21, ''label'': ''Eligible''}'
+      - '{''id'': 22, ''label'': ''Not Eligible''}'
+      - '{''id'': 23, ''label'': ''Needs Further Review''}'
+      required: false
+    - id: 7
+      name: training_provider_info
+      label: Training Provider Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: training_provider_name
+      label: training_provider_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: training_provider_email
+      label: training_provider_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: training_provider_phone
+      label: training_provider_phone
+      hint: null
+      type: text
+      options: []
+      required: false

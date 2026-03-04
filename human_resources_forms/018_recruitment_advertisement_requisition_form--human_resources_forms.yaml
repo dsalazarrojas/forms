@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Recruitment Advertisement Requisition Form
+    pages:
+    - id: 1
+      name: job_title
+      label: Job title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_description
+      label: Job description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employment_type
+      label: Employment type
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - prophets
+      - contractors
+      - consultants
+      required: false
+    - id: 4
+      name: work_location
+      label: Work location
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 5
+      name: job_category
+      label: Job category
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      required: false
+    - id: 6
+      name: contact_email
+      label: Contact email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: Contact phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: job_start_date
+      label: Job start date
+      hint: null
+      type: date
+      options: []
+      required: false

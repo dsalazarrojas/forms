@@ -1,0 +1,71 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: return_and_credit_form
+    pages:
+    - id: 1
+      name: return_and_credit_form_fields
+      label: return_and_credit_form_fields
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: product_details
+      label: product_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reason_for_return
+      label: reason_for_return
+      hint: null
+      type: select_one
+      options:
+      - Refund and Replace
+      - Store Credit
+      - Shipping Error
+      required: true
+    - id: 4
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: buyer_message
+      label: buyer_message
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: product_condition
+      label: product_condition
+      hint: null
+      type: select_multiple
+      options:
+      - New
+      - Used
+      - Refurbished
+      required: true
+    - id: 7
+      name: product_image
+      label: product_image
+      hint: null
+      type: text
+      options: []
+      required: false

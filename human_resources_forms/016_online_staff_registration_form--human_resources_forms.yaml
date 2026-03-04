@@ -1,0 +1,131 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online Staff Registration Form
+    pages:
+    - id: 1
+      name: new_staff
+      label: New Staff
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of
+      label: prophets
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: null
+      type: select_one
+      options:
+      - Software Developer
+      - Data Scientist
+      - Operations Manager
+      required: false
+    - id: 7
+      name: work_experience
+      label: Work Experience
+      hint: null
+      type: select_multiple
+      options:
+      - 1-3 years
+      - 4-6 years
+      - 7-10 years
+      - 11+ years
+      required: false
+    - id: 8
+      name: resume
+      label: Resume
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: job_description
+      label: Job Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: job_requirements
+      label: Job Requirements
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: job_skills
+      label: Job Skills
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: work_hours
+      label: Work Hours
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: job_salary
+      label: Job Salary
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: job_status
+      label: Job Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 15
+      name: staff_category
+      label: Staff Category
+      hint: null
+      type: select_one
+      options:
+      - Management
+      - Technical
+      - Support
+      required: false
+    - id: 16
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false

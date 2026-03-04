@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: ประก IV Flow Log Form
+    pages:
+    - id: 1
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: patient_name
+      label: patient_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: iv_date
+      label: IV Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: nurse_id
+      label: nurse_id
+      hint: null
+      type: select_one
+      options:
+      - '12345'
+      - '67890'
+      - '11111'
+      required: false
+    - id: 5
+      name: iv_fluid
+      label: IV Fluid
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: rate
+      label: rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: volume
+      label: Volume
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: total
+      label: Total
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

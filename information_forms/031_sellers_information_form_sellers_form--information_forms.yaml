@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: sellers_information_form
+    pages:
+    - id: 1
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: zip_code
+      label: zip code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: state
+      label: state
+      hint: null
+      type: select_one
+      options:
+      - Alaska
+      - Arizona
+      - California
+      - Florida
+      - Hawaii
+      - Louisiana
+      - New York
+      - Oregon
+      - Texas
+      required: false
+    - id: 5
+      name: country
+      label: country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: listing_type
+      label: listing type
+      hint: null
+      type: select_multiple
+      options:
+      - For Sale
+      - Rent
+      - Lease
+      - Sold
+      required: false
+    - id: 9
+      name: property_type
+      label: property type
+      hint: null
+      type: select_multiple
+      options:
+      - House
+      - Condo
+      - Land
+      - Mobile Home
+      required: false
+    - id: 10
+      name: price
+      label: price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: sq_ft
+      label: sq ft
+      hint: null
+      type: text
+      options: []
+      required: false

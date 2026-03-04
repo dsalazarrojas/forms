@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Body Contouring Intake Form
+    pages:
+    - id: 1
+      name: patient_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: patient_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: patient_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: patient_date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: patient_address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: emergency_contact
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: emergency_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: insurance_provider
+      label: Insurance Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: insurance_member_id
+      label: Insurance Member ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: body_contouring_goals
+      label: Body Contouring Goals
+      hint: What do you hope to achieve
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: target_areas
+      label: Target Areas for Treatment
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Face
+      - Chin
+      - Neck
+      - Chest
+      - Arms
+      - Abdomen
+      - Flanks
+      - Waist
+      - Hips
+      - Buttocks
+      - Thighs
+      - Calves
+      - Legs
+      - Back
+      - Multiple Areas
+      required: true
+    - id: 13
+      name: concern_duration
+      label: How long have you had this concern
+      hint: null
+      type: select_one
+      options:
+      - Less than 6 months
+      - 6 months - 1 year
+      - 1-2 years
+      - 2-5 years
+      - More than 5 years
+      required: true
+    - id: 14
+      name: lifestyle_impact
+      label: How does this affect your lifestyle
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: health_conditions
+      label: Current Health Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: medications_list
+      label: Current Medications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: allergies_list
+      label: Known Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: previous_surgeries
+      label: Previous Surgeries
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: family_history
+      label: Relevant Family Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: lifestyle_habits
+      label: Current Lifestyle Habits
+      hint: Exercise, diet, smoking, drinking
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: weight_history
+      label: Weight History
+      hint: Any recent significant changes
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: previous_procedures
+      label: Previous Body Contouring Procedures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: procedure_satisfaction
+      label: Satisfaction with Previous Procedures
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      - Not Applicable
+      required: false
+    - id: 24
+      name: realistic_expectations
+      label: Do you understand realistic expectations
+      hint: null
+      type: select_one
+      options:
+      - true
+      - Mostly
+      - Somewhat
+      - false
+      required: true

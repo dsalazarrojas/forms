@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal And Family Information Form
+    pages:
+    - id: 1
+      name: personal_info
+      label: Personal Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: spouse_info
+      label: Spouse Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: birthdate
+      label: Birthdate
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: relationship_status
+      label: Relationship Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: number_of_dependents
+      label: Number of Dependents
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: name_of_spouse
+      label: Name of Spouse
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: name_of_dependents
+      label: Name of Dependents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: occupation
+      label: Occupation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

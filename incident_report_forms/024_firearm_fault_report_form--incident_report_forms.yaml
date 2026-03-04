@@ -1,0 +1,139 @@
+inputSchema:
+  type: object
+  properties:
+    title: Firearm Fault Report Form
+    pages:
+    - id: 1
+      name: firearm_fault_report_form
+      label: Incident details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: firearm_malfunction
+      label: What malfunction
+      hint: null
+      type: select_one
+      options:
+      - Malfunction of trigger
+      - Malfunction of safety
+      - Malfunction of bolt
+      - Malfunction of firing mechanism
+      - Malfunction of other
+      required: false
+    - id: 3
+      name: firearm_condition
+      label: Condition of firearm at time of malfunction
+      hint: null
+      type: select_multiple
+      options:
+      - New firearm
+      - Used firearm
+      - Refurbished firearm
+      - Modified firearm
+      - Other firearm
+      required: false
+    - id: 4
+      name: weapon_type
+      label: Type of firearm involved
+      hint: null
+      type: select_multiple
+      options:
+      - Rifle
+      - Pistol
+      - Shotgun
+      - Revolver
+      - Other firearm
+      required: false
+    - id: 5
+      name: incident_date
+      label: Date of malfunction
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: incident_time
+      label: Time of malfunction
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: incident_location
+      label: Location of malfunction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: witness_statement
+      label: Witness statement
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: supporting_files
+      label: Supporting files
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: firearm_model
+      label: Model of firearm
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: firearm_serial_number
+      label: Serial number of firearm
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: firearm_calibre
+      label: Calibre of firearm
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: weapon_weight
+      label: Weight of firearm
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: weapon_length
+      label: Length of firearm
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: weapon_barrel_length
+      label: Barrel length of firearm
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: incident_description
+      label: Incident description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: firearm_mfd
+      label: Malfunctions description
+      hint: null
+      type: text
+      options: []
+      required: false

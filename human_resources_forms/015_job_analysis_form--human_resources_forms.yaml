@@ -1,0 +1,76 @@
+inputSchema:
+  type: object
+  properties:
+    title: Job Analysis Form
+    pages:
+    - id: 1
+      name: job_analysis_form
+      label: Job Analysis Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_description
+      label: job_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: job_type
+      label: job_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: job_category
+      label: job_category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: job_status
+      label: job_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: job_status_note
+      label: job_status_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: job_location
+      label: job_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: job_termination_reason
+      label: job_termination_reason
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

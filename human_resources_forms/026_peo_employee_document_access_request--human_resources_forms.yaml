@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: PEO Employee Document Access Request
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: role
+      label: employee_role
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Manager''}'
+      - '{''id'': 2, ''label'': ''Team Lead''}'
+      - '{''id'': 3, ''label'': ''Employee''}'
+      required: true
+    - id: 3
+      name: document_type
+      label: Document Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''ID Card''}'
+      - '{''id'': 2, ''label'': ''Benefits Card''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: true
+    - id: 4
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Approved''}'
+      - '{''id'': 2, ''label'': ''Rejected''}'
+      - '{''id'': 3, ''label'': ''Pending''}'
+      required: true
+    - id: 6
+      name: reason_for_rejection
+      label: reason for rejection
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''HR''}'
+      - '{''id'': 2, ''label'': ''Manager''}'
+      - '{''id'': 3, ''label'': ''Director''}'
+      required: false
+    - id: 9
+      name: approved_by
+      label: Approved By
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''HR''}'
+      - '{''id'': 2, ''label'': ''Manager''}'
+      - '{''id'': 3, ''label'': ''Director''}'
+      required: false
+    - id: 10
+      name: document_date
+      label: Document Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: document_expiration
+      label: Document Expiration
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: request_number
+      label: Request Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: employee_document_number
+      label: Employee Document Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: document_id
+      label: Document ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: comments_by
+      label: Comments By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: comments_to
+      label: Comments To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''HR''}'
+      - '{''id'': 2, ''label'': ''Marketing''}'
+      - '{''id'': 3, ''label'': ''Sales''}'
+      required: true
+    - id: 18
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: document_location
+      label: Document Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: created_by
+      label: Created By
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Jimmy''}'
+      - Other
+      required: false
+    - id: 22
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Jimmy''}'
+      - Other
+      required: false
+    - id: 23
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false

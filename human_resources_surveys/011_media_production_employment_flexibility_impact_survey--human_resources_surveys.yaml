@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: media_production_employment_flexibility_impact_survey
+    pages:
+    - id: 1
+      name: media_production_employment_flexibility_impact_survey_page_1
+      label: media_production_employment_flexibility_impact_survey_page_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: studio_experience
+      label: studio_experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: job_title
+      label: job_title
+      hint: null
+      type: select_one
+      options:
+      - Production
+      - Research
+      - Development
+      required: false
+    - id: 4
+      name: job_type
+      label: job_type
+      hint: null
+      type: select_multiple
+      options:
+      - Creative
+      - Technical
+      - Production
+      - Other
+      required: false
+    - id: 5
+      name: job_level
+      label: job_level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: hours_worked
+      label: hours_worked
+      hint: null
+      type: select_one
+      options:
+      - 0-24
+      - 25-40
+      - 41-60
+      - Other
+      required: false
+    - id: 7
+      name: job_satisfaction
+      label: job_satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      required: false
+    - id: 8
+      name: job_security
+      label: job_security
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: communication
+      label: communication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: feedback
+      label: feedback
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 11
+      name: suggestions
+      label: suggestions
+      hint: null
+      type: text
+      options: []
+      required: false

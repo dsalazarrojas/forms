@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: injury incident form
+    pages:
+    - id: 1
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: injury_type
+      label: Injury Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: injury_severity
+      label: Injury Severity
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: injured_party_name
+      label: Injured Party Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: injured_party_job_title
+      label: Injured Party Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: employer_name
+      label: Employer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: supervisor_name
+      label: Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: witness_details
+      label: Witness Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medical_attention_received
+      label: Medical Attention Received
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: hospitalization_length
+      label: Hospitalization Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: medical_bill_cost
+      label: Medical Bill Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: time_off_work
+      label: Time Off Work
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: days_off_work
+      label: Days Off Work
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: wage_concession
+      label: Wage Concession
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: medical_provider
+      label: Medical Provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: injury_description_part
+      label: Injury Description Part
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: injury_description_details
+      label: Injury Description Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: injury_cause
+      label: Injury Cause
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: injury_cause_description
+      label: Injury Cause Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: prevention_measures
+      label: Prevention Measures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: reporting_person
+      label: Reporting Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: reporting_person_title
+      label: Reporting Person Title
+      hint: null
+      type: text
+      options: []
+      required: false

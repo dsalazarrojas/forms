@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Job Applicant Reference Report Form
+    pages:
+    - id: 1
+      name: employer_name
+      label: Employer Name
+      hint: Company Name
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: job_start_date
+      label: Job Start Date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: job_end_date
+      label: Job End Date
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: supervisor_name
+      label: Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: supervisor_email
+      label: Supervisor Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: supervisor_phone
+      label: Supervisor Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: supervisor_job_title
+      label: Supervisor Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: supervisor_supervisor_name
+      label: Supervisor Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: reference_type
+      label: Reference Type
+      hint: e.g., Performance, Professional, Character
+      type: text
+      options: []
+      required: true

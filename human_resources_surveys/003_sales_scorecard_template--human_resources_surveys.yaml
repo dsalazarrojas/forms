@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sales Scorecard Template
+    pages:
+    - id: 1
+      name: sales_scorecard_template
+      label: Sales Scorecard Template
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category_name
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Human Resources Surveys
+      - Other
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: A sales scorecard is a tool for all levels of business that helps in achieving
+        business goals and measure progress by tracking metrics.
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: is_achieving_business_goals
+      label: Is Achieving Business Goals
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 5
+      name: is_measuring_progress
+      label: Is Measuring Progress
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 6
+      name: is_customizable
+      label: Is Customizable
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false

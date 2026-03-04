@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Engagement Survey
+    pages:
+    - id: 1
+      name: survey_questions
+      label: survey_questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_satisfaction
+      label: employee_satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: working_conditions
+      label: working_conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: manager_support
+      label: manager_support
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: team_support
+      label: team_support
+      hint: null
+      type: select_multiple
+      options:
+      - Employee Support Team
+      - Human Resources
+      - Management
+      - Operations
+      - Other
+      required: false
+    - id: 6
+      name: communication
+      label: communication
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Very Bad
+      required: false
+    - id: 7
+      name: job_satisfaction
+      label: job_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Very Bad
+      required: false
+    - id: 8
+      name: job_security
+      label: job_security
+      hint: null
+      type: select_one
+      options:
+      - Very Good
+      - Good
+      - Fair
+      - Very Bad
+      required: false
+    - id: 9
+      name: company_values
+      label: company_values
+      hint: null
+      type: select_one
+      options:
+      - Very Important
+      - Somewhat Important
+      - Somewhat Unimportant
+      - Not Very Important
+      required: false

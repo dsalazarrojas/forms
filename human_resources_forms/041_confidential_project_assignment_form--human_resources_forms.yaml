@@ -1,0 +1,259 @@
+inputSchema:
+  type: object
+  properties:
+    title: Confidential Project Assignment Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Full Name
+      hint: Your complete name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: Staff number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Work email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department
+      hint: Your department
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: manager_name
+      label: Manager Name
+      hint: Direct supervisor
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: manager_email
+      label: Manager Email
+      hint: Supervisor email
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: project_name
+      label: Project Name
+      hint: Official project title
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: project_code
+      label: Project Code
+      hint: Internal reference
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: project_description
+      label: Project Description
+      hint: Brief overview
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: confidentiality_level
+      label: Confidentiality Level
+      hint: Classification
+      type: select_one
+      options:
+      - Public
+      - Internal Use Only
+      - Confidential
+      - Highly Confidential
+      - Restricted
+      required: true
+    - id: 13
+      name: assignment_start_date
+      label: Assignment Start Date
+      hint: When you begin
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: assignment_end_date
+      label: Assignment End Date
+      hint: Expected completion
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: role_on_project
+      label: Your Role on Project
+      hint: Your responsibilities
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: time_allocation
+      label: Time Allocation
+      hint: Percentage of time
+      type: select_one
+      options:
+      - 25 percent or less
+      - 26-50 percent
+      - 51-75 percent
+      - 76-100 percent
+      required: true
+    - id: 17
+      name: team_members
+      label: Team Members
+      hint: Other assignees
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: access_required
+      label: Access Required
+      hint: Systems and areas
+      type: select_multiple
+      options:
+      - Financial Systems
+      - Customer Database
+      - Product Development
+      - HR Records
+      - Legal Documents
+      - IT Infrastructure
+      - Research Data
+      - None
+      required: true
+    - id: 19
+      name: special_clearances
+      label: Special Clearances Needed
+      hint: Security requirements
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: nda_required
+      label: NDA Required
+      hint: Non-disclosure agreement
+      type: select_one
+      options:
+      - Yes Already Signed
+      - Yes Need to Sign
+      - No Not Required
+      required: true
+    - id: 21
+      name: conflict_of_interest
+      label: Any Conflict of Interest
+      hint: Disclose any conflicts
+      type: select_one
+      options:
+      - No Conflicts
+      - Potential Conflict - Will Disclose
+      - Yes Have Conflict
+      required: true
+    - id: 22
+      name: conflict_details
+      label: Conflict Details
+      hint: Describe if applicable
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: resources_needed
+      label: Resources Needed
+      hint: Equipment or tools
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: budget_authorization
+      label: Budget Authorization
+      hint: Spending authority
+      type: select_one
+      options:
+      - No Budget Authority
+      - Up to $10000
+      - Up to $50000
+      - Up to $100000
+      - As Approved
+      required: false
+    - id: 25
+      name: reporting_requirements
+      label: Reporting Requirements
+      hint: Frequency and format
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: milestones
+      label: Key Milestones
+      hint: Major deliverables
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: confidentiality_acknowledgment
+      label: Confidentiality Acknowledgment
+      hint: You understand obligations
+      type: select_one
+      options:
+      - I Acknowledge
+      - I Have Questions
+      required: true
+    - id: 28
+      name: acceptance_statement
+      label: Project Assignment Acceptance
+      hint: Do you accept
+      type: select_one
+      options:
+      - I Accept This Assignment
+      - I Cannot Accept
+      required: true
+    - id: 29
+      name: employee_signature
+      label: Employee Signature
+      hint: Confirm acceptance
+      type: select_one
+      options:
+      - I Sign and Accept
+      - Decline
+      required: true
+    - id: 30
+      name: manager_approval
+      label: Manager Approval
+      hint: Supervisor confirmation
+      type: select_one
+      options:
+      - Approved
+      - Not Approved
+      - Pending Review
+      required: true
+    - id: 31
+      name: approval_date
+      label: Approval Date
+      hint: Date approved
+      type: date
+      options: []
+      required: true

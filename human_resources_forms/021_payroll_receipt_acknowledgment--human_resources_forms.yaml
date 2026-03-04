@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Payroll Receipt Acknowledgment
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: time_of_day
+      label: Time of Day
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: pay_period
+      label: Pay Period
+      hint: null
+      type: select_one
+      options:
+      - January
+      - February
+      required: true
+    - id: 6
+      name: pay_amount
+      label: Pay Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: pay_date
+      label: Pay Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: acknowledgment
+      label: Acknowledgment
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 9
+      name: confirm_pay
+      label: Confirm Pay
+      hint: null
+      type: select_multiple
+      options:
+      - Received the pay for this period
+      - Not received
+      required: true
+    - id: 10
+      name: confirm_pay_period
+      label: Confirm Pay Period
+      hint: null
+      type: select_multiple
+      options:
+      - January
+      - February
+      required: true
+    - id: 11
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - HR
+      - Finance
+      - Marketing
+      - Sales
+      required: false
+    - id: 15
+      name: manager
+      label: Manager
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

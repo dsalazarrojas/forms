@@ -1,0 +1,282 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Animal Bite Report Form
+    pages:
+    - id: 1
+      name: reporter_name
+      label: Reporter Full Name
+      hint: Person reporting the incident
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: reporter_contact
+      label: Reporter Contact Information
+      hint: Phone and email
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: report_date
+      label: Date of Report
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: report_intro
+      label: Animal Bite Incident Report
+      hint: Please provide accurate and complete information about the animal bite incident
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: incident_date
+      label: Date of Incident
+      hint: When did the bite occur
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: incident_time
+      label: Time of Incident
+      hint: Approximate time
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: incident_location
+      label: Location of Incident
+      hint: Address or description of location
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: location_type
+      label: Type of Location
+      hint: Where did it happen
+      type: select_one
+      options:
+      - Private residence
+      - Public park
+      - Workplace
+      - School
+      - Veterinary clinic
+      - Animal shelter
+      - Street or sidewalk
+      - Other public place
+      required: true
+    - id: 9
+      name: victim_name
+      label: Victim Full Name
+      hint: Person who was bitten
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: victim_dob
+      label: Victim Date of Birth
+      hint: Age of victim
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: victim_contact
+      label: Victim Contact Information
+      hint: Phone and email
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: animal_information
+      label: Animal Information
+      hint: Details about the animal involved
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: animal_species
+      label: Species of Animal
+      hint: Type of animal
+      type: select_one
+      options:
+      - Dog
+      - Cat
+      - Horse
+      - Rodent
+      - Wildlife
+      - Livestock
+      - Other
+      - Unknown
+      required: true
+    - id: 14
+      name: animal_breed
+      label: Breed if known
+      hint: Describe if unknown
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: animal_description
+      label: Physical Description
+      hint: Color, size, markings
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: animal_owner
+      label: Is the animal owned
+      hint: Ownership status
+      type: select_one
+      options:
+      - Yes - known owner
+      - Stray - no owner
+      - Wildlife
+      - Unknown
+      required: true
+    - id: 17
+      name: owner_name
+      label: Owner Name and Contact
+      hint: If known
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: vaccination_status
+      label: Is the animal's vaccination status known
+      hint: Rabies vaccination especially
+      type: select_one
+      options:
+      - Yes - current on vaccinations
+      - Yes - not current
+      - No - unknown
+      - Not applicable - wildlife
+      required: true
+    - id: 19
+      name: bite_details
+      label: Bite Details
+      hint: Information about the incident
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: body_area_bitten
+      label: What body area was bitten
+      hint: Location of bite
+      type: select_one
+      options:
+      - Hand or fingers
+      - Arm
+      - Leg or foot
+      - Face or head
+      - Neck
+      - Torso
+      - Multiple areas
+      - Other
+      required: true
+    - id: 21
+      name: injury_severity
+      label: Severity of Injury
+      hint: Injury classification
+      type: select_one
+      options:
+      - Minor - no broken skin
+      - Minor - superficial scratches
+      - Moderate - puncture wounds
+      - Severe - deep lacerations
+      - Severe - required medical attention
+      - Critical - hospitalization required
+      required: true
+    - id: 22
+      name: medical_treatment
+      label: Was medical treatment sought
+      hint: Medical care
+      type: select_one
+      options:
+      - No treatment needed
+      - Yes - first aid only
+      - Yes - doctor visit
+      - Yes - emergency room
+      - Yes - hospitalized
+      required: true
+    - id: 23
+      name: incident_circumstances
+      label: Describe the circumstances of the bite
+      hint: What happened
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: provocation
+      label: Was the animal provoked
+      hint: Contributing factors
+      type: select_one
+      options:
+      - No - unprovoked
+      - Yes - accidental
+      - Yes - intentional
+      - Unsure
+      required: true
+    - id: 25
+      name: witnesses
+      label: Were there any witnesses
+      hint: Witness information
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: previous_incidents
+      label: Is this animal known for aggressive behavior
+      hint: Prior history
+      type: select_one
+      options:
+      - No - first incident
+      - Yes - known history
+      - Unsure
+      required: false
+    - id: 27
+      name: animal_control_notified
+      label: Was animal control notified
+      hint: Authorities notified
+      type: select_one
+      options:
+      - Yes - already notified
+      - No - will notify
+      - Not applicable
+      required: true
+    - id: 28
+      name: follow_up_required
+      label: Is follow-up required
+      hint: Additional action needed
+      type: select_one
+      options:
+      - Yes - investigation needed
+      - Yes - quarantine monitoring
+      - No further action
+      required: true
+    - id: 29
+      name: reporter_signature
+      label: Reporter Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: signature_date
+      label: Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

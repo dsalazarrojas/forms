@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Equipment Receipt Form
+    pages:
+    - id: 1
+      name: issuance_date
+      label: Issue Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: equipment_description
+      label: Equipment Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: equipment_serial_number
+      label: Equipment Serial Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: equipment_model
+      label: Equipment Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: equipment_make
+      label: Equipment Make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: equipment_issue_to
+      label: Equipment Issue To
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: issued_by
+      label: Issued By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: asset_number
+      label: Asset Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: remarks
+      label: Remarks
+      hint: null
+      type: text
+      options: []
+      required: false

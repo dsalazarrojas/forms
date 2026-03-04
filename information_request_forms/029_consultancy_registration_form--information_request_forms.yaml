@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consultancy Registration Form
+    pages:
+    - id: 1
+      name: section_contact_details
+      label: -- Contact Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: organization_name
+      label: Organization name
+      hint: Company registering for consultancy services
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person
+      label: Contact person
+      hint: Primary contact for the registration
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact email
+      hint: Email for follow up
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact phone
+      hint: Phone number for the contact person
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: consultancy_needs
+      label: Consultancy needs summary
+      hint: Brief description of required services
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: preferred_contact_method
+      label: Preferred contact method
+      hint: How would you like to be contacted
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Video call
+      required: false
+    - id: 8
+      name: estimated_budget
+      label: Estimated budget
+      hint: Budget range or estimate for the engagement
+      type: number
+      options: []
+      required: false

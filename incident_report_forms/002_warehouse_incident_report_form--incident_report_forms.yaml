@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Warehouse Incident Report Form
+    pages:
+    - id: 1
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: incident_reporter
+      label: Incident Reporter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: incident_reporter_title
+      label: Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: incident_reporter_department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: incident_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: incident_incident_type
+      label: Type
+      hint: null
+      type: select_one
+      options:
+      - Fire
+      - Other
+      required: false
+    - id: 10
+      name: incident_incident_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Confirmed
+      - Unconfirmed
+      - In Progress
+      - Resolved
+      required: false
+    - id: 11
+      name: incident_incident_report_details
+      label: Incident Report Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: incident_incident_reporter_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: incident_incident_reporter_notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: incident_incident_status_updated
+      label: Status Updated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: incident_incident_report_status
+      label: Incident Report Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      required: false

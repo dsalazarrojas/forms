@@ -1,0 +1,442 @@
+inputSchema:
+  type: object
+  properties:
+    title: Company Profile Submission
+    pages:
+    - id: 1
+      name: company_legal_name
+      label: Company Legal Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: company_trade_name
+      label: Trade Name/DBA
+      hint: If different
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: company_website
+      label: Company Website
+      hint: URL
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_logo
+      label: Company Logo
+      hint: Upload separately if required
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: year_founded
+      label: Year Founded
+      hint: When established
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: company_type
+      label: Company Type
+      hint: Business structure
+      type: select_one
+      options:
+      - Corporation
+      - LLC
+      - Partnership
+      - Sole Proprietorship
+      - Nonprofit
+      - Government
+      - Other
+      required: true
+    - id: 7
+      name: industry
+      label: Primary Industry
+      hint: Main industry
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      - Manufacturing
+      - Retail
+      - Energy
+      - Telecommunications
+      - Consumer Goods
+      - Industrial
+      - Real Estate
+      - Services
+      - Education
+      - Nonprofit
+      - Government
+      - Other
+      required: true
+    - id: 8
+      name: sub_industry
+      label: Sub-Industry/Specialization
+      hint: More specific
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: section_contact
+      label: -- Contact Information --
+      hint: Primary contacts
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: headquarters_address
+      label: Headquarters Address
+      hint: Street, city, state, zip, country
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: mailing_address
+      label: Mailing Address
+      hint: If different
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: phone_number
+      label: Main Phone Number
+      hint: Company phone
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: fax_number
+      label: Fax Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: general_email
+      label: General Email
+      hint: info@company.com
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: section_primary_contact
+      label: -- Primary Contact --
+      hint: Main contact person
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: contact_name
+      label: Primary Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: contact_title
+      label: Primary Contact Title
+      hint: Position
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: contact_email
+      label: Primary Contact Email
+      hint: Direct email
+      type: email
+      options: []
+      required: true
+    - id: 19
+      name: contact_phone
+      label: Primary Contact Phone
+      hint: Direct phone
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: contact_mobile
+      label: Primary Contact Mobile
+      hint: Mobile number
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: section_business
+      label: -- Business Details --
+      hint: Company information
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: company_description
+      label: Company Description
+      hint: Brief overview (150 words)
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: mission_statement
+      label: Mission Statement
+      hint: Your mission
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: vision_statement
+      label: Vision Statement
+      hint: Your vision
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: core_values
+      label: Core Values
+      hint: List your values
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: products_services
+      label: Products/Services Offered
+      hint: What you offer
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: target_market
+      label: Target Market
+      hint: Who you serve
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: geographic_markets
+      label: Geographic Markets Served
+      hint: Where you operate
+      type: select_multiple
+      options:
+      - North America
+      - South America
+      - Europe
+      - Asia
+      - Africa
+      - Australia/Oceania
+      - Middle East
+      - Global
+      required: false
+    - id: 29
+      name: section_stats
+      label: -- Company Statistics --
+      hint: Key metrics
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: number_of_employees
+      label: Number of Employees
+      hint: Total headcount
+      type: select_one
+      options:
+      - 1-10
+      - 11-50
+      - 51-200
+      - 201-500
+      - 501-1000
+      - 1001-5000
+      - 5000+
+      required: true
+    - id: 31
+      name: annual_revenue
+      label: Annual Revenue Range
+      hint: Approximate
+      type: select_one
+      options:
+      - Under $1M
+      - $1M-$10M
+      - $10M-$50M
+      - $50M-$100M
+      - $100M-$500M
+      - $500M-$1B
+      - Over $1B
+      - Prefer not to say
+      required: false
+    - id: 32
+      name: number_of_locations
+      label: Number of Locations
+      hint: Total offices
+      type: number
+      options: []
+      required: false
+    - id: 33
+      name: section_social
+      label: -- Social Media --
+      hint: Your profiles
+      type: note
+      options: []
+      required: false
+    - id: 34
+      name: linkedin_url
+      label: LinkedIn URL
+      hint: Company page
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: facebook_url
+      label: Facebook URL
+      hint: Company page
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: twitter_url
+      label: Twitter/X URL
+      hint: Company handle
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: instagram_url
+      label: Instagram URL
+      hint: Company handle
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: youtube_url
+      label: YouTube URL
+      hint: Company channel
+      type: text
+      options: []
+      required: false
+    - id: 39
+      name: other_social
+      label: Other Social Media
+      hint: Other platforms
+      type: text
+      options: []
+      required: false
+    - id: 40
+      name: section_branding
+      label: -- Branding Assets --
+      hint: Brand information
+      type: note
+      options: []
+      required: false
+    - id: 41
+      name: brand_colors
+      label: Brand Colors
+      hint: Primary colors
+      type: text
+      options: []
+      required: false
+    - id: 42
+      name: brand_fonts
+      label: Brand Fonts
+      hint: Primary fonts
+      type: text
+      options: []
+      required: false
+    - id: 43
+      name: tagline
+      label: Company Tagline
+      hint: Your slogan
+      type: text
+      options: []
+      required: false
+    - id: 44
+      name: section_certifications
+      label: -- Certifications --
+      hint: Your credentials
+      type: note
+      options: []
+      required: false
+    - id: 45
+      name: certifications
+      label: Certifications and Awards
+      hint: List any
+      type: text
+      options: []
+      required: false
+    - id: 46
+      name: memberships
+      label: Professional Memberships
+      hint: Associations
+      type: text
+      options: []
+      required: false
+    - id: 47
+      name: section_additional
+      label: -- Additional Information --
+      hint: More details
+      type: note
+      options: []
+      required: false
+    - id: 48
+      name: key_clients
+      label: Key Clients/Partners (optional)
+      hint: Notable names
+      type: text
+      options: []
+      required: false
+    - id: 49
+      name: competitive_advantage
+      label: Competitive Advantage
+      hint: What sets you apart
+      type: text
+      options: []
+      required: false
+    - id: 50
+      name: additional_comments
+      label: Any Additional Information
+      hint: Other details
+      type: text
+      options: []
+      required: false
+    - id: 51
+      name: submission_purpose
+      label: What is this profile submission for?
+      hint: Purpose
+      type: select_one
+      options:
+      - Directory listing
+      - Partnership application
+      - Vendor registration
+      - Event participation
+      - Award nomination
+      - Membership application
+      - Other
+      required: true
+    - id: 52
+      name: submitter_name
+      label: Submitted By
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 53
+      name: submitter_title
+      label: Submitter Title
+      hint: Position
+      type: text
+      options: []
+      required: true
+    - id: 54
+      name: submitter_signature
+      label: Submitter Signature
+      hint: Electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 55
+      name: submission_date
+      label: Submission Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

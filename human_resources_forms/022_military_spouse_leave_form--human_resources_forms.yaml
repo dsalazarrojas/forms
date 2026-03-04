@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Military Spouse Leave Form
+    pages:
+    - id: 1
+      name: military_spouse_leave_request
+      label: Military Spouse Leave Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: military_spouse_name
+      label: Military Spouse Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: request_date_start
+      label: Request Date Start
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: request_date_end
+      label: Request Date End
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: reason_for_leave
+      label: Reason for Leave
+      hint: Please provide a brief explanation of the request
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: deployment_status
+      label: Deployment Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active Duty
+      - Deployed
+      - Training
+      required: true
+    - id: 7
+      name: leave_request_type
+      label: Leave Request Type
+      hint: null
+      type: select_one
+      options:
+      - Military Leave
+      - Family Leave
+      - Bereavement Leave
+      - Other
+      required: true
+    - id: 8
+      name: contact_email
+      label: Contact Email
+      hint: Enter a contact email for follow-up
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: Contact Phone
+      hint: Enter a contact phone number for follow-up
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Leak Intake Form
+    pages:
+    - id: 1
+      name: location
+      label: What is your location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: description
+      label: Describe the leak
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: leak_type
+      label: Type of leak
+      hint: null
+      type: select_one
+      options:
+      - Pipe
+      - Pump
+      - Drain
+      - Other
+      required: false
+    - id: 4
+      name: date
+      label: Date of leak
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: Time of leak
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: photo
+      label: Photo of leak
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assignee
+      label: Assign to
+      hint: null
+      type: select_multiple
+      options:
+      - chatjimmy
+      - facility_admin
+      - property_manager
+      required: false
+    - id: 10
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Leak
+      - Water
+      - Maintenance
+      - Other
+      required: false
+    - id: 11
+      name: priority
+      label: Priority
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: status
+      label: Status
+      hint: null
+      type: text
+      options: []
+      required: false

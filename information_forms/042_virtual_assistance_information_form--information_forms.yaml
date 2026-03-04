@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Assistance Information Form
+    pages:
+    - id: 1
+      name: client_details
+      label: Client Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: task_requirements
+      label: Task Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: timelines
+      label: Timelines
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: uploaded_files
+      label: Uploaded Documents
+      hint: 'null'
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: task_requirements_details
+      label: Task Requirements Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: project_details
+      label: Project Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: project_lead
+      label: Project Lead
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: project_manager
+      label: Project Manager
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: team_members
+      label: Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

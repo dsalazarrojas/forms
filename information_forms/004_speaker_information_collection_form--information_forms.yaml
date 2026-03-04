@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: Speaker Information Collection Form
+    pages:
+    - id: 1
+      name: speaker_name
+      label: Speaker Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: speaker_email
+      label: Speaker Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: speaker_phone
+      label: Speaker Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: speaker_address
+      label: Speaker Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: event_title
+      label: Event Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: event_start_date
+      label: Event Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: event_start_time
+      label: Event Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Concert
+      - Seminar
+      - Conference
+      - Meeting
+      required: true
+    - id: 10
+      name: event_organizer
+      label: Event Organizer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: speaker_image_url
+      label: Speaker Image URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: speaker_video_url
+      label: Speaker Video URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: speaker_description
+      label: Speaker Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: speaker_interest
+      label: Speaker Interest
+      hint: null
+      type: select_multiple
+      options:
+      - Dance
+      - Music
+      - Science
+      - Art
+      - Sports
+      required: true

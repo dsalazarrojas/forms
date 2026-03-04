@@ -1,0 +1,234 @@
+inputSchema:
+  type: object
+  properties:
+    title: Arrest Record Collection Form
+    pages:
+    - id: 1
+      name: section_individual_info
+      label: -- Individual Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Legal Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: drivers_license_number
+      label: Driver License Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: identification_number
+      label: ID Number or Badge Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_arrest_history
+      label: -- Arrest History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: arrests_count
+      label: Number of Arrests
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: arrest_1_date
+      label: Arrest 1 - Date of Arrest
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: arrest_1_agency
+      label: Arrest 1 - Arresting Agency
+      hint: Police department, federal agency, etc.
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: arrest_1_charge
+      label: Arrest 1 - Charge or Offense
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: arrest_1_location
+      label: Arrest 1 - Location of Arrest
+      hint: City and state
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: arrest_1_disposition
+      label: Arrest 1 - Disposition
+      hint: Convicted, acquitted, dismissed, etc.
+      type: select_one
+      options:
+      - Convicted
+      - Acquitted
+      - Dismissed
+      - Deferred
+      - Unknown
+      - Other
+      required: true
+    - id: 13
+      name: arrest_2_date
+      label: Arrest 2 - Date of Arrest
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: arrest_2_charge
+      label: Arrest 2 - Charge or Offense
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: arrest_2_disposition
+      label: Arrest 2 - Disposition
+      hint: null
+      type: select_one
+      options:
+      - Convicted
+      - Acquitted
+      - Dismissed
+      - Deferred
+      - Unknown
+      - Other
+      required: false
+    - id: 16
+      name: arrest_3_date
+      label: Arrest 3 - Date of Arrest
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: arrest_3_charge
+      label: Arrest 3 - Charge or Offense
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: arrest_3_disposition
+      label: Arrest 3 - Disposition
+      hint: null
+      type: select_one
+      options:
+      - Convicted
+      - Acquitted
+      - Dismissed
+      - Deferred
+      - Unknown
+      - Other
+      required: false
+    - id: 19
+      name: section_additional_information
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: violence_related
+      label: Were any arrests violence-related
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      - Unsure
+      required: true
+    - id: 21
+      name: drug_related
+      label: Were any arrests drug-related
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      - Unsure
+      required: true
+    - id: 22
+      name: incarceration
+      label: Any periods of incarceration
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      - Currently incarcerated
+      required: true
+    - id: 23
+      name: incarceration_details
+      label: Details of Incarceration
+      hint: Dates, location, duration
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: parole_probation
+      label: Currently on Parole or Probation
+      hint: null
+      type: select_one
+      options:
+      - false
+      - Yes - probation
+      - Yes - parole
+      - Yes - both
+      required: true
+    - id: 25
+      name: parole_details
+      label: Parole or Probation Details
+      hint: Duration, conditions, supervising officer
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: section_signature
+      label: -- Certification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: certification_date
+      label: Date of Certification
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 28
+      name: accuracy_confirmation
+      label: I certify the information above is accurate and complete
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

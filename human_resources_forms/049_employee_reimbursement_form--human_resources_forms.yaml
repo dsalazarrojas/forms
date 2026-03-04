@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Reimbursement Form
+    pages:
+    - id: 1
+      name: form_id
+      label: form id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_id
+      label: employee
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: date_of_service
+      label: date_of_service
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: amount_requested
+      label: amount_requested
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 6
+      name: approved_amount
+      label: approved_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: approved_date
+      label: approved_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: created_by
+      label: created_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: updated_by
+      label: updated_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: created_at
+      label: created_at
+      hint: null
+      type: time
+      options: []
+      required: false

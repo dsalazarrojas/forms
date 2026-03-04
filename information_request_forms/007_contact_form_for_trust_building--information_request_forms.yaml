@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Form For Trust Building
+    pages:
+    - id: 1
+      name: intro_note
+      label: -- Trust Building Contact Form --
+      hint: Use this form to request verified information and support
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Please provide your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization
+      label: Organization name
+      hint: If representing an organization
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email address
+      hint: Work email preferred
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone number
+      hint: Optional for verification calls
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: trust_concern
+      label: Trust concern category
+      hint: Select what you'd like to validate
+      type: select_one
+      options:
+      - Company credentials
+      - Product authenticity
+      - Partnership inquiry
+      - Data security
+      - Other
+      required: true
+    - id: 7
+      name: description
+      label: Description of request
+      hint: Provide details needed to build trust
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: evidence_available
+      label: Evidence available
+      hint: Do you have documents or records to share
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 9
+      name: preferred_response_timeline
+      label: Preferred response timeline
+      hint: When do you need a reply
+      type: select_one
+      options:
+      - Within 24 hours
+      - 2-3 business days
+      - 1 week
+      - No rush
+      required: false
+    - id: 10
+      name: consent_to_contact
+      label: Consent to contact for verification
+      hint: Do you consent to a verification call or email
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: additional_comments
+      label: Additional comments
+      hint: Any other information to assist verification
+      type: text
+      options: []
+      required: false

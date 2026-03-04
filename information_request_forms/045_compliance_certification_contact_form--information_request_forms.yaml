@@ -1,0 +1,269 @@
+inputSchema:
+  type: object
+  properties:
+    title: Compliance and Certification Contact Form
+    pages:
+    - id: 1
+      name: inquiry_date
+      label: Inquiry Date
+      hint: Date of submission
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: contact_name
+      label: Contact Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_phone
+      label: Contact Phone
+      hint: Your phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: Your organization
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: company_address
+      label: Company Address
+      hint: Mailing address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: company_size
+      label: Company Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - 1 to 10 employees
+      - 11 to 50 employees
+      - 51 to 200 employees
+      - 201 to 500 employees
+      - Over 500 employees
+      required: true
+    - id: 8
+      name: industry
+      label: Industry
+      hint: Your industry sector
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      - Manufacturing
+      - Construction
+      - Retail
+      - Services
+      - Government
+      - Other
+      required: true
+    - id: 9
+      name: inquiry_type
+      label: Type of Inquiry
+      hint: What are you inquiring about
+      type: select_one
+      options:
+      - Compliance certification
+      - Compliance audit
+      - Compliance training
+      - Policy development
+      - Regulatory guidance
+      - Certification renewal
+      - General information
+      - Other
+      required: true
+    - id: 10
+      name: certification_interest
+      label: Certification of Interest
+      hint: Which certification
+      type: select_one
+      options:
+      - ISO 9001 - Quality Management
+      - ISO 14001 - Environmental
+      - ISO 27001 - Information Security
+      - ISO 45001 - Occupational Health and Safety
+      - SOC 2
+      - HIPAA Compliance
+      - GDPR Compliance
+      - Industry-specific
+      - Not sure
+      - Other
+      required: true
+    - id: 11
+      name: current_compliance_status
+      label: Current Compliance Status
+      hint: Where are you now
+      type: select_one
+      options:
+      - Not started - need guidance
+      - Planning phase
+      - Implementation in progress
+      - Ready for audit
+      - Already certified - renewal
+      - Previously certified - lapsed
+      required: true
+    - id: 12
+      name: timeline
+      label: Desired Timeline
+      hint: When do you need certification
+      type: select_one
+      options:
+      - Urgent - within 1 month
+      - Soon - 1 to 3 months
+      - Moderate - 3 to 6 months
+      - Flexible - 6 to 12 months
+      - Planning - over 12 months
+      required: true
+    - id: 13
+      name: budget_range
+      label: Budget Range
+      hint: Estimated budget
+      type: select_one
+      options:
+      - Under $5000
+      - $5000 to $15000
+      - $15001 to $30000
+      - $30001 to $50000
+      - Over $50000
+      - Not determined
+      required: false
+    - id: 14
+      name: previous_certifications
+      label: Previous Certifications
+      hint: Have you been certified before
+      type: select_one
+      options:
+      - Yes - same certification
+      - Yes - different certification
+      - No - first time
+      - Not sure
+      required: true
+    - id: 15
+      name: specific_requirements
+      label: Specific Requirements
+      hint: Any special needs
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: regulatory_bodies
+      label: Relevant Regulatory Bodies
+      hint: Which agencies oversee you
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: pain_points
+      label: Current Compliance Challenges
+      hint: What difficulties do you face
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: How should we contact you
+      type: select_one
+      options:
+      - Email
+      - Phone call
+      - Video conference
+      - In-person meeting
+      - No preference
+      required: true
+    - id: 19
+      name: best_contact_time
+      label: Best Time to Contact
+      hint: When are you available
+      type: select_one
+      options:
+      - Morning - 8am to 12pm
+      - Afternoon - 12pm to 5pm
+      - Evening - 5pm to 8pm
+      - Any time
+      - Specific time in comments
+      required: true
+    - id: 20
+      name: decision_maker
+      label: Are you the decision maker
+      hint: Authority to proceed
+      type: select_one
+      options:
+      - Yes - I decide
+      - Yes - with team input
+      - No - I am researching
+      - No - I will forward information
+      required: true
+    - id: 21
+      name: other_stakeholders
+      label: Other Stakeholders
+      hint: Who else is involved
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: how_heard_about
+      label: How Did You Hear About Us
+      hint: Source of information
+      type: select_one
+      options:
+      - Website
+      - Referral
+      - Conference or event
+      - Social media
+      - Search engine
+      - Advertisement
+      - Other
+      required: true
+    - id: 23
+      name: referral_source
+      label: Referral Source
+      hint: Who referred you
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: additional_services
+      label: Additional Services of Interest
+      hint: Other services you might need
+      type: select_multiple
+      options:
+      - Compliance training
+      - Policy development
+      - Internal audits
+      - Gap analysis
+      - Consulting
+      - Software solutions
+      - Ongoing support
+      - Other
+      required: false
+    - id: 25
+      name: questions
+      label: Your Questions
+      hint: What would you like to know
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

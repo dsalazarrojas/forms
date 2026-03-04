@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Refusal Documentation Form
+    pages:
+    - id: 1
+      name: service_refusal_form_header
+      label: Service Refusal Form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_refusal_reason
+      label: customer_refusal_reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: confirmation_status
+      label: Confirmation Status
+      hint: null
+      type: select_one
+      options:
+      - Confirmed
+      - Not Confirmed
+      - Unknown
+      required: true
+    - id: 4
+      name: staff_confirmation
+      label: Staff Confirmation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: staff_confirmation_details
+      label: Staff Confirmation Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: service_refusal_reason_details
+      label: Service Refusal Reasons
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: service_refusal_resolution
+      label: Service Refusal Resolution
+      hint: null
+      type: select_one
+      options:
+      - Refused
+      - Accepted
+      - Partially Refused
+      required: true
+    - id: 11
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assigned_team_member
+      label: Assigned Team Member
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 14
+      name: assigned_date
+      label: Assigned Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: assigned_time
+      label: Assigned Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 16
+      name: assigned_location
+      label: Assigned Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: service_refusal_details
+      label: Service Refusal Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: incident_id
+      label: Incident ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 20
+      name: incident_category
+      label: Incident Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 21
+      name: incident_subcategory
+      label: Incident Subcategory
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: service_refusal_status
+      label: Service Refusal Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 23
+      name: staff_confirmer
+      label: Staff Confirmer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: staff_confirmer_details
+      label: Staff Confirmer Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true

@@ -1,0 +1,45 @@
+inputSchema:
+  type: object
+  properties:
+    title: Request For Salary Change Form
+    pages:
+    - id: 1
+      name: request_for_salary_change_form
+      label: Request for Salary Change Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Employee 1''}'
+      - '{''id'': 2, ''label'': ''Employee 2''}'
+      required: false
+    - id: 3
+      name: reason_for_request
+      label: reason_for_request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: salary_change_percentage
+      label: salary_change_percentage
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': 10}'
+      - '{''id'': 2, ''label'': 20}'
+      - '{''id'': 3, ''label'': 30}'
+      required: false
+    - id: 5
+      name: salary_change_amount
+      label: salary_change_amount
+      hint: null
+      type: number
+      options: []
+      required: false

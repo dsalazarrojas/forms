@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Family Information Update Form
+    pages:
+    - id: 1
+      name: form_id
+      label: form id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: user_name
+      label: user name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: user_email
+      label: user email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: family_members
+      label: family members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: family_member_relationship
+      label: family member relationship
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: family_member_gender
+      label: family member gender
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: family_member_dob
+      label: family member date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: family_member_address
+      label: family member address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: family_member_phone
+      label: family member phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: family_member_note
+      label: family member note
+      hint: null
+      type: note
+      options: []
+      required: false

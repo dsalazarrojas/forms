@@ -1,0 +1,138 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tattoo Inquiry Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: tattoo_style
+      label: Tattoo Style
+      hint: null
+      type: select_one
+      options:
+      - Ink Slingers
+      - Traditional
+      - Tribal
+      - Watercolor
+      - Graffiti
+      - Black and Gray
+      - New School
+      - Linework
+      - Realism
+      - Abstract
+      - Geometric
+      - Neo-Edan
+      required: true
+    - id: 6
+      name: tattoo_size
+      label: Tattoo Size
+      hint: null
+      type: select_multiple
+      options:
+      - Small
+      - Medium
+      - Large
+      - Extra Large
+      required: false
+    - id: 7
+      name: tattoo_theme
+      label: Tattoo Theme
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: tattoo_description
+      label: Tattoo Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: tattoo_inspirations
+      label: Tattoo Inspirations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: tattoo_inquiries
+      label: Tattoo Inquiries
+      hint: null
+      type: select_multiple
+      options:
+      - Do you have any allergies or sensitivities we should be aware of?
+      - Are you taking any medications?
+      - Do you have any medical conditions?
+      required: false
+    - id: 12
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: studio_visit
+      label: Studio Visit
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: appointment
+      label: Appointment
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 16
+      name: tattoo_studio
+      label: Tattoo Studio
+      hint: null
+      type: text
+      options: []
+      required: false

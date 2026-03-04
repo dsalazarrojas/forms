@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Donor Information Form
+    pages:
+    - id: 1
+      name: donor_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: donor_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: donor_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: donor_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: donation_date
+      label: Donation Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: donation_amount
+      label: Donation Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: donation_frequency
+      label: Donation Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Monthly
+      - Quarterly
+      - Annually
+      required: false
+    - id: 8
+      name: donor_comment
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

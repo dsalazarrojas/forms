@@ -1,0 +1,169 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marina Boat Collision Incident Report Form
+    pages:
+    - id: 1
+      name: boat_details
+      label: Boat Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: collision_details
+      label: Collision Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: boat_type
+      label: Boat Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: boat_length
+      label: Boat Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: boat_width
+      label: Boat Width
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: boat_draft
+      label: Boat Draft
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: boat_speed
+      label: Boat Speed
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: boat_direction
+      label: Boat Direction
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: time_at_collision
+      label: Time At Collision
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: location_at_collision
+      label: Location At Collision
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: witnesses
+      label: Witnesses
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: other_vessels_involved
+      label: Other Vessels Involved
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: damage_description
+      label: Damage Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: damage_amount
+      label: Damage Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: reporting_officer_name
+      label: Reporting Officer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: reporting_officer_email
+      label: Reporting Officer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: reporting_officer_phone
+      label: Reporting Officer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: incident_report_number
+      label: Incident Report Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: incident_report_date
+      label: Incident Report Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: incident_report_time
+      label: Incident Report Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 21
+      name: incident_report_status
+      label: Incident Report Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 22
+      name: incident_report_closed
+      label: Incident Report Closed
+      hint: null
+      type: number
+      options: []
+      required: false

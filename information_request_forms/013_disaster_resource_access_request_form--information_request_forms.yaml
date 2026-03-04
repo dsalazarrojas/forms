@@ -1,0 +1,130 @@
+inputSchema:
+  type: object
+  properties:
+    title: Disaster Resource Access Request Form
+    pages:
+    - id: 1
+      name: request_details
+      label: Request Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: emergency_contact_details
+      label: Emergency Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: disaster_type
+      label: What type of disaster?
+      hint: Select One
+      type: select_one
+      options:
+      - Hurricane
+      - Tornado
+      - Drought
+      - Wildfire
+      - Flood
+      required: false
+    - id: 4
+      name: request_date
+      label: Date of Request
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: resource_needed
+      label: Resources Needed
+      hint: null
+      type: select_multiple
+      options:
+      - Food
+      - Water
+      - Shelter
+      - First Aid
+      required: false
+    - id: 6
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: requestor_info
+      label: Requestor Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: requestors_name
+      label: Requestor's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: requestors_email
+      label: Requestor's Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: requestors_phone
+      label: Requestor's Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: requestors_address
+      label: Requestor's Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: requestors_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: requestors_state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - AL
+      - AK
+      - AZ
+      - AR
+      - CA
+      - CO
+      - CT
+      - DE
+      - FL
+      - GA
+      - HI
+      required: false
+    - id: 14
+      name: requestors_zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: requestors_country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false

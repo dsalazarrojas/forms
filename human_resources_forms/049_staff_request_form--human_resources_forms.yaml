@@ -1,0 +1,171 @@
+inputSchema:
+  type: object
+  properties:
+    title: staff_request_form
+    pages:
+    - id: 1
+      name: employee_type
+      label: staff_type
+      hint: null
+      type: select_one
+      options:
+      - Employee
+      - Contractor
+      required: false
+    - id: 2
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: shift
+      label: shift
+      hint: null
+      type: select_multiple
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Weekend
+      - Holidays
+      required: false
+    - id: 5
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: requested_by
+      label: requested_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: manager_note
+      label: manager_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: contact_number
+      label: contact_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: department_contact
+      label: department_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: department_manager
+      label: department_manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: hr_contact
+      label: hr_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: approved_by
+      label: approved_by
+      hint: null
+      type: select_one
+      options:
+      - HR
+      - Manager
+      required: false
+    - id: 15
+      name: denied_reason
+      label: denied_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: approved_date
+      label: approved_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: denied_date
+      label: denied_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submitted_date
+      label: submitted_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: updated_by
+      label: updated_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: updated_date
+      label: updated_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: approved_status
+      label: approved_status
+      hint: null
+      type: select_multiple
+      options:
+      - Approved
+      - Denied
+      - Pending
+      required: false

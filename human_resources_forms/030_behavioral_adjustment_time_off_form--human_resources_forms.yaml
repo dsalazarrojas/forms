@@ -1,0 +1,246 @@
+inputSchema:
+  type: object
+  properties:
+    title: Behavioral Adjustment Time Off Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: Employee identification number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: Which department
+      type: select_one
+      options:
+      - Human Resources
+      - Finance or Accounting
+      - Marketing
+      - Sales
+      - Operations
+      - IT or Technology
+      - Customer Service
+      - Engineering
+      - Manufacturing
+      - Healthcare
+      - Education
+      - Retail
+      - Legal
+      - Administration
+      - Other
+      required: true
+    - id: 4
+      name: position
+      label: Position or Job Title
+      hint: Current job title
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: manager_name
+      label: Manager or Supervisor Name
+      hint: Direct supervisor name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: manager_email
+      label: Manager Email
+      hint: Supervisor email address
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: request_date
+      label: Request Date
+      hint: Today date
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: time_off_type
+      label: Type of Time Off
+      hint: Select the type of leave
+      type: select_one
+      options:
+      - Behavioral Health Day
+      - Mental Health Leave
+      - Stress Leave
+      - Counseling Appointment
+      - Therapy Session
+      - Wellness Day
+      - Personal Day
+      - Sick Leave
+      - Other
+      required: true
+    - id: 9
+      name: start_date
+      label: Start Date
+      hint: When does leave begin
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: start_time
+      label: Start Time
+      hint: What time if partial day
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: end_date
+      label: End Date
+      hint: When will you return
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: end_time
+      label: End Time
+      hint: What time if partial day
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: total_days
+      label: Total Days Requested
+      hint: Number of days or partial days
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: reason
+      label: Reason for Request
+      hint: Brief explanation if comfortable sharing
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: is_recurring
+      label: Is This a Recurring Request
+      hint: Will this be ongoing
+      type: select_one
+      options:
+      - No one-time only
+      - Yes weekly
+      - Yes bi-weekly
+      - Yes monthly
+      - Yes as needed
+      required: true
+    - id: 16
+      name: recurrence_schedule
+      label: Recurrence Schedule
+      hint: If recurring what schedule
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: work_handled_by
+      label: Who Will Handle Your Work
+      hint: Colleague covering responsibilities
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: handoff_notes
+      label: Handoff Notes
+      hint: Important information for coverage
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: urgent_tasks
+      label: Urgent Tasks During Absence
+      hint: Any critical items to address
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: availability_during_leave
+      label: Availability During Leave
+      hint: Will you be available for emergencies
+      type: select_one
+      options:
+      - Completely unavailable
+      - Available for urgent matters only
+      - Available by email
+      - Available by phone
+      - Fully available
+      required: true
+    - id: 21
+      name: documentation_provided
+      label: Documentation Provided
+      hint: Will you provide medical documentation
+      type: select_one
+      options:
+      - Yes attached
+      - Yes will provide
+      - No not required
+      - No prefer not to
+      required: true
+    - id: 22
+      name: previous_requests
+      label: Previous Requests This Year
+      hint: How many similar requests have you made
+      type: select_one
+      options:
+      - This is my first
+      - 1-2 previous requests
+      - 3-4 previous requests
+      - 5 or more previous requests
+      required: true
+    - id: 23
+      name: employee_signature
+      label: Employee Signature
+      hint: By selecting yes I confirm this request is accurate
+      type: select_one
+      options:
+      - I confirm and submit
+      - I do not confirm
+      required: true
+    - id: 24
+      name: manager_approval
+      label: Manager Approval
+      hint: For manager use only
+      type: select_one
+      options:
+      - Approved
+      - Denied
+      - Pending review
+      - Not yet reviewed
+      required: false
+    - id: 25
+      name: manager_comments
+      label: Manager Comments
+      hint: For manager use only
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: hr_approval
+      label: HR Approval
+      hint: For HR use only
+      type: select_one
+      options:
+      - Approved
+      - Denied
+      - Pending review
+      - Not yet reviewed
+      required: false
+    - id: 27
+      name: hr_comments
+      label: HR Comments
+      hint: For HR use only
+      type: text
+      options: []
+      required: false

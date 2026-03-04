@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Time Period Information Form
+    pages:
+    - id: 1
+      name: time_period_information_form_1
+      label: start_year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: end_year
+      label: end_year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: month_start
+      label: start_month
+      hint: Month in format mm or month name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: day_start
+      label: start_day
+      hint: Day of the month
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: month_end
+      label: end_month
+      hint: Month in format mm or month name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: day_end
+      label: end_day
+      hint: Day of the month
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: time_period_description
+      label: brief_description
+      hint: Brief description of the time period
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: historical_record_type
+      label: historical_record_type
+      hint: null
+      type: select_one
+      options:
+      - Historical Record 1
+      - Historical Record 2
+      - Historical Record 3
+      required: true
+    - id: 9
+      name: historical_record_type_other
+      label: historical_record_type_other
+      hint: Other (please specify)
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: historical_record_other_description
+      label: historical_record_other_description
+      hint: Description of other historical record type
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: time_period
+      label: time_period
+      hint: Time period description
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: time_period_notes
+      label: time_period_notes
+      hint: Any additional notes on the time period
+      type: note
+      options: []
+      required: false

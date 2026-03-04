@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: equipment_malfunction_report_form
+    pages:
+    - id: 1
+      name: user
+      label: user
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: equipment_type
+      label: equipment_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Heavy Equipment''}'
+      - '{''id'': 2, ''label'': ''Hand Tools''}'
+      - '{''id'': 3, ''label'': ''Office Supplies''}'
+      required: true
+    - id: 3
+      name: equipment_name
+      label: equipment_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: issue_description
+      label: issue_description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: issue_date
+      label: issue_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: repair_date
+      label: repair_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: status
+      label: status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Open''}'
+      - '{''id'': 2, ''label'': ''In Progress''}'
+      - '{''id'': 3, ''label'': ''Completed''}'
+      required: true
+    - id: 10
+      name: submitter
+      label: submitter
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: submitter_phone
+      label: submitter_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitter_email
+      label: submitter_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: assigned_to
+      label: assigned_to
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: assign_date
+      label: assign_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false

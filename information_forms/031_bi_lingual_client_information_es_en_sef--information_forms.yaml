@@ -1,0 +1,233 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bi Lingual Client Information Es En Sef
+    pages:
+    - id: 1
+      name: section_header_language
+      label: -- Language Preference --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: preferred_language
+      label: Preferred Language
+      hint: Which language do you prefer?
+      type: select_one
+      options:
+      - English
+      - Español (Spanish)
+      - Bilingual - both equally
+      required: true
+    - id: 3
+      name: section_header_personal
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email Address
+      hint: Your primary email
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone
+      label: Phone Number
+      hint: Best contact phone
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: date_of_birth
+      label: Date of Birth
+      hint: Month - Day - Year
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: section_header_address
+      label: -- Address Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: street_address
+      label: Street Address
+      hint: Your residential address
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: apartment_unit
+      label: Apartment or Unit Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: state_province
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: postal_code
+      label: Postal Code or ZIP
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: section_header_contact
+      label: -- Contact Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: best_contact_time
+      label: Best Time to Contact You
+      hint: When can we reach you?
+      type: select_one
+      options:
+      - Morning (8am-12pm)
+      - Afternoon (12pm-5pm)
+      - Evening (5pm-9pm)
+      - Anytime
+      - By appointment
+      required: true
+    - id: 18
+      name: contact_method
+      label: Preferred Contact Method
+      hint: How should we reach you?
+      type: select_one
+      options:
+      - Phone call
+      - Email
+      - Text message
+      - No preference
+      required: true
+    - id: 19
+      name: section_header_services
+      label: -- Services Interest --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: services_interested
+      label: Services You Are Interested In
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Consulting
+      - Professional services
+      - Training or education
+      - Product information
+      - Support or assistance
+      - Other inquiry
+      required: true
+    - id: 21
+      name: brief_description
+      label: Brief Description of Your Inquiry
+      hint: What brings you here?
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: section_header_background
+      label: -- Background Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: how_heard
+      label: How Did You Hear About Us
+      hint: null
+      type: select_one
+      options:
+      - Search engine
+      - Social media
+      - Referral from friend
+      - Advertisement
+      - Website
+      - Word of mouth
+      - Other
+      required: true
+    - id: 24
+      name: previous_client
+      label: Have You Been a Client Before
+      hint: null
+      type: select_one
+      options:
+      - Yes, recent client
+      - Yes, past client
+      - No, first time
+      required: true
+    - id: 25
+      name: section_header_consent
+      label: -- Consent and Preferences --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: communication_consent
+      label: I Consent to Being Contacted
+      hint: null
+      type: select_one
+      options:
+      - Yes, contact me
+      - No, do not contact
+      required: true
+    - id: 27
+      name: email_consent
+      label: I Would Like to Receive Email Updates
+      hint: null
+      type: select_one
+      options:
+      - Yes, send updates
+      - No, do not send updates
+      required: true
+    - id: 28
+      name: additional_notes
+      label: Additional Information or Comments
+      hint: Anything else we should know?
+      type: text
+      options: []
+      required: false

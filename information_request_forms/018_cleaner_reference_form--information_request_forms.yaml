@@ -1,0 +1,149 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cleaner Reference Form
+    pages:
+    - id: 1
+      name: reference_header
+      label: -- Cleaner Reference Request --
+      hint: Please provide honest feedback about the candidate's previous work.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: candidate_name
+      label: Candidate Name
+      hint: Person being referenced
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: referee_name
+      label: Your Full Name
+      hint: person providing the reference
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: referee_organization
+      label: Your Company or Household
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: relationship_to_candidate
+      label: Relationship to Candidate
+      hint: null
+      type: select_one
+      options:
+      - Former Employer
+      - Supervisor
+      - Client
+      - Colleague
+      required: true
+    - id: 6
+      name: employment_duration
+      label: Duration of Service
+      hint: How long did the candidate work for you?
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: employment_end_date
+      label: Date of last service
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: performance_header
+      label: -- Performance Evaluation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: quality_of_cleaning
+      label: Quality and Thoroughness of Cleaning
+      hint: null
+      type: select_one
+      options:
+      - Exceptional
+      - Satisfactory
+      - Needs Improvement
+      - Unsatisfactory
+      required: true
+    - id: 10
+      name: reliability_rating
+      label: Reliability and Punctuality
+      hint: Did they show up on time and as scheduled?
+      type: select_one
+      options:
+      - Always Reliable
+      - Mostly Reliable
+      - Inconsistent
+      - Unreliable
+      required: true
+    - id: 11
+      name: trustworthiness_rating
+      label: Trustworthiness and Integrity
+      hint: null
+      type: select_one
+      options:
+      - Highly Trustworthy
+      - Trustworthy
+      - Neutral
+      - Concerns raised
+      required: true
+    - id: 12
+      name: communication_skills
+      label: Communication and Professionalism
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 13
+      name: rehire_status
+      label: Would you hire this person again?
+      hint: null
+      type: select_one
+      options:
+      - Yes, definitely
+      - Yes, with reservations
+      - false
+      required: true
+    - id: 14
+      name: additional_comments
+      label: Any additional comments regarding their work?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: verification_signature
+      label: I verify that this information is accurate to the best of my knowledge
+      hint: null
+      type: select_one
+      options:
+      - I verify
+      - Other
+      required: true
+    - id: 16
+      name: referee_phone
+      label: Your Contact Phone (for verification)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: referee_email
+      label: Your Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true

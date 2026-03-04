@@ -1,0 +1,135 @@
+inputSchema:
+  type: object
+  properties:
+    title: Gift Aid Declaration Form
+    pages:
+    - id: 1
+      name: gift_aid_declaration_form_data
+      label: Gift Aid Declaration Form Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: recipient_details
+      label: recipient_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: donor_details
+      label: donor_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: gift_aid_declaration_form_date
+      label: gift_aid_declaration_form_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: gift_aid_declaration_form_time
+      label: gift_aid_declaration_form_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: gift_value
+      label: gift_value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: gift_type
+      label: gift_type
+      hint: null
+      type: select_one
+      options:
+      - Donation of goods or services
+      - Gift of money
+      - Other (please describe)
+      required: false
+    - id: 8
+      name: gift_description
+      label: gift_description
+      hint: null
+      type: select_multiple
+      options:
+      - Donated item
+      - Description of the item donated
+      - Other (please describe)
+      required: false
+    - id: 9
+      name: gift_value_currency
+      label: gift_value_currency
+      hint: null
+      type: select_one
+      options:
+      - GBP
+      - Other (please specify)
+      required: false
+    - id: 10
+      name: gift_aid_declaration_form_notes
+      label: gift_aid_declaration_form_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: recipient_aid_number
+      label: recipient_aid_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: declaration_aid_declaration_form_date
+      label: declaration_aid_declaration_form_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: declaration_aid_declaration_form_time
+      label: declaration_aid_declaration_form_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: declaration_aid_declaration_form_nature
+      label: declaration_aid_declaration_form_nature
+      hint: null
+      type: select_one
+      options:
+      - Taxed at source
+      - Taxed at source and relieved
+      - Other (please describe)
+      required: false
+    - id: 15
+      name: donor_aid_number
+      label: donor_aid_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: declaration_aid_declaration_form_nature_other
+      label: declaration_aid_declaration_form_nature_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: declaration_aid_declaration_form_value
+      label: declaration_aid_declaration_form_value
+      hint: null
+      type: text
+      options: []
+      required: false

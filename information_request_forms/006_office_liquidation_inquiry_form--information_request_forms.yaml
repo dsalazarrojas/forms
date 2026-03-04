@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Office Liquidation Inquiry Form
+    pages:
+    - id: 1
+      name: liquidation_request
+      label: Liquidation Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: asset_type
+      label: asset_type
+      hint: null
+      type: select_one
+      options:
+      - Asset
+      - Asset
+      - Other
+      required: false
+    - id: 3
+      name: asset_details
+      label: asset_details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: asset_location
+      label: asset_location
+      hint: null
+      type: select_one
+      options:
+      - Building
+      - Floor
+      - Other
+      required: false
+    - id: 5
+      name: inspection_date
+      label: inspection_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: inspection_time
+      label: inspection_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 7
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: select_multiple
+      options:
+      - Contact 1
+      - Contact 2
+      - Other
+      required: false
+    - id: 8
+      name: contact_name
+      label: contact_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: asset_value
+      label: asset_value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: inspection_location
+      label: inspection_location
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 13
+      name: contact_address
+      label: contact_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: inspection_notes
+      label: inspection_notes
+      hint: null
+      type: note
+      options: []
+      required: false

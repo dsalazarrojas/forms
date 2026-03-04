@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Manufacturing Workplace Violence Incident Report
+    pages:
+    - id: 1
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: perpetrator
+      label: Perpetrator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: victim
+      label: Victim
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: witness
+      label: Witness
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: reported_by
+      label: Reported By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: reported_date
+      label: Reported Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: incident_category
+      label: Incident Category
+      hint: Select an incident category from the list
+      type: select_one
+      options:
+      - Physical Altercation
+      - Verbal Altercation
+      - Threat
+      - Assault
+      - Harassment
+      - Other
+      required: false
+    - id: 11
+      name: reported_to
+      label: Reported To
+      hint: null
+      type: select_one
+      options:
+      - Safety
+      - HR
+      - Security
+      - Management
+      - Other
+      required: false
+    - id: 12
+      name: incident_severity
+      label: Incident Severity
+      hint: Select an incident severity level
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      - Not Applicable
+      required: false
+    - id: 13
+      name: incident_outcome
+      label: Incident Outcome
+      hint: Select an incident outcome
+      type: select_one
+      options:
+      - Resolved
+      - Under Investigation
+      - Under Review
+      - Not Resolved
+      required: false
+    - id: 14
+      name: incident_outcome_details
+      label: Incident Outcome Details
+      hint: Provide additional details about the outcome
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: incident_reported_by_relationship
+      label: Relationship to Reported
+      hint: Select the relationship between the reporter and perpetrator
+      type: select_one
+      options:
+      - Employee
+      - Manager
+      - Security Guard
+      - Visitor
+      - Other
+      required: false
+    - id: 16
+      name: incident_location_type
+      label: Incident Location Type
+      hint: Select the type of location
+      type: select_one
+      options:
+      - Office
+      - Shop floor
+      - Parking area
+      - Restroom
+      - Break room
+      - Other
+      required: false
+    - id: 17
+      name: incident_injuries
+      label: Incident Injuries
+      hint: Select any injuries sustained during the incident
+      type: select_multiple
+      options:
+      - Minor
+      - Major
+      - No injuries
+      required: false
+    - id: 18
+      name: incident_damage
+      label: Incident Damage
+      hint: Select any property damage or cost
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: incident_reporting_reason
+      label: Incident Reporting Reason
+      hint: Select the reason for the incident reporting
+      type: select_one
+      options:
+      - Mandatory Reporting
+      - Voluntary Reporting
+      required: false
+    - id: 20
+      name: incident_follow_up
+      label: Follow-up
+      hint: Select follow-up actions required
+      type: select_multiple
+      options:
+      - None
+      - Follow-up with Perpetrator
+      - Follow-up with Victim
+      - Follow-up with Witness
+      - Follow-up with Management
+      - Follow-up with Security
+      - Follow-up with HR
+      - Follow-up with Other
+      required: false

@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Reference Form
+    pages:
+    - id: 1
+      name: candidate_application_id
+      label: Candidate Application ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: reference_name
+      label: Reference Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: reference_title
+      label: Reference Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: reference_since
+      label: Reference Since
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: comment
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

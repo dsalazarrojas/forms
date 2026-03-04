@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Human Verification Challenge
+    pages:
+    - id: 1
+      name: user_email
+      label: enter_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 2
+      name: verify_answer
+      label: answer
+      hint: Enter the answer to this question.
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: verify_code
+      label: verify_captcha
+      hint: null
+      type: select_one
+      options:
+      - '1234'
+      - '5678'
+      - '9012'
+      required: false
+    - id: 4
+      name: verify_code
+      label: verify_captcha
+      hint: null
+      type: select_one
+      options:
+      - abcde
+      - fghi
+      - jklm
+      required: false
+    - id: 5
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: user_phone
+      label: enter_phone
+      hint: null
+      type: text
+      options: []
+      required: false

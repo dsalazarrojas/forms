@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Insurance Policy Information Form
+    pages:
+    - id: 1
+      name: policyholder
+      label: Policyholder
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: policy_number
+      label: policy_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: policy_start_date
+      label: policy_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: policy_end_date
+      label: policy_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: policy_status
+      label: policy_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Cancelled
+      required: false
+    - id: 6
+      name: claim_status
+      label: claim_status
+      hint: null
+      type: select_one
+      options:
+      - Paid
+      - Unpaid
+      - Pending
+      required: false
+    - id: 7
+      name: coverage_start_date
+      label: coverage_start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: coverage_end_date
+      label: coverage_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: coverage_amount
+      label: coverage_amount
+      hint: null
+      type: number
+      options: []
+      required: false

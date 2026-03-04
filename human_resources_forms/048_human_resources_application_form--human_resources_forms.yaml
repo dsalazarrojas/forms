@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Human Resources Application Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Full-time'', ''value'': ''full-time''}'
+      - '{''id'': 2, ''label'': ''Part-time'', ''value'': ''part-time''}'
+      - '{''id'': 3, ''label'': ''Temporary'', ''value'': ''temporary''}'
+      required: false
+    - id: 6
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: work_experience
+      label: Work Experience (years)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: education
+      label: Education
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''High School'', ''value'': ''high_school''}'
+      - '{''id'': 2, ''label'': "Bachelor''s Degree", ''value'': ''bachelors_degree''}'
+      - '{''id'': 3, ''label'': "Master''s Degree", ''value'': ''masters_degree''}'
+      - '{''id'': 4, ''label'': ''Ph.D.'', ''value'': ''phd''}'
+      - '{''id'': 5, ''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 9
+      name: skills
+      label: Skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: certifications
+      label: Certifications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: work_status
+      label: Work Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Employed'', ''value'': ''employed''}'
+      - '{''id'': 2, ''label'': ''Self-Employed'', ''value'': ''self-employed''}'
+      - '{''id'': 3, ''label'': ''Unemployed'', ''value'': ''unemployed''}'
+      - '{''id'': 4, ''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 12
+      name: job_start_date
+      label: Job Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: job_end_date
+      label: Job End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false

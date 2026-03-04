@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Feedback On Leadership Evaluation Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: feedback_on_leadership_effectiveness
+      label: Feedback On Leadership Effectiveness
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: communication_skills
+      label: Communication Skills
+      hint: null
+      type: select_multiple
+      options:
+      - Effective
+      - Ineffective
+      - Neutral
+      required: true
+    - id: 4
+      name: team_dynamics
+      label: Team Dynamics
+      hint: null
+      type: select_multiple
+      options:
+      - Positive
+      - Negative
+      - Neutral
+      required: true
+    - id: 5
+      name: leadership_effectiveness
+      label: Leadership Effectiveness
+      hint: null
+      type: select_one
+      options:
+      - Highly Effective
+      - Moderately Effective
+      - Not Very Effective
+      - Somewhat Not Effective
+      required: true
+    - id: 6
+      name: leadership_style
+      label: Leadership Style
+      hint: null
+      type: select_multiple
+      options:
+      - Empowering
+      - Micromanaging
+      - Neutral
+      required: true
+    - id: 7
+      name: leadership_skills
+      label: Leadership Skills
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: communication_effectiveness
+      label: Communication Effectiveness
+      hint: null
+      type: text
+      options: []
+      required: false

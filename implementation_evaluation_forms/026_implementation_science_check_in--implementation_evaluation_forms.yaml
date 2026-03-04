@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: Implementation Science Check In
+    pages:
+    - id: 1
+      name: project_status
+      label: Project Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: barriers
+      label: Barriers
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: strategies
+      label: Strategies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: support_needs
+      label: Support Needs
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: project_outcomes
+      label: Project Outcomes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: team_members
+      label: Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: quality_improvement
+      label: Quality Improvement
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Poor
+      required: false
+    - id: 8
+      name: follow_up
+      label: Follow Up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_spent
+      label: Time Spent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: total_hours
+      label: Total Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

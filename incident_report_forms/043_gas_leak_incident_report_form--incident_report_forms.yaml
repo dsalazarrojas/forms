@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: gas_leak_incident_report_form
+    pages:
+    - id: 1
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: leak_type
+      label: Leak Type
+      hint: null
+      type: select_one
+      options:
+      - Natural Gas
+      - Liquefied Petroleum Gas
+      - Liquefied Petroleum Gas
+      - Other
+      required: false
+    - id: 3
+      name: leak_location
+      label: Leak Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: leak_description
+      label: Leak Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: leak_size
+      label: Leak Size
+      hint: null
+      type: number
+      options: []
+      required: false

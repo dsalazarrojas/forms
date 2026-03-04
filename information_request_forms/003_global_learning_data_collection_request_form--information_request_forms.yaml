@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Global Learning Data Collection Request Form
+    pages:
+    - id: 1
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: comment
+      label: Comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: submitted_by_title
+      label: Submitted By Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitted_by_phone
+      label: Submitted By Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitted_by_email
+      label: Submitted By Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: submitted_by_date
+      label: Submitted By Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: submitted_by_time
+      label: Submitted By Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: submitted_by_comment
+      label: Submitted By Comment
+      hint: null
+      type: note
+      options: []
+      required: false

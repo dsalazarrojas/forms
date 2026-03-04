@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: employee_wellness_questionnaire
+    pages:
+    - id: 1
+      name: introduction
+      label: What is your job title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_wellness_status
+      label: How would you rate your current wellness status
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: job_satisfaction_score
+      label: On a scale of 1-10 how satisfied are you with your current job
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: physical_activity_level
+      label: How often do you engage in physical activity
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Never''}'
+      - '{''id'': 2, ''label'': ''Rarely''}'
+      - '{''id'': 3, ''label'': ''Sometimes''}'
+      - '{''id'': 4, ''label'': ''Often''}'
+      - '{''id'': 5, ''label'': ''Every day''}'
+      required: true
+    - id: 5
+      name: emotional_wellness_level
+      label: On a scale of 1-5 how would you rate your current emotional wellness
+        level
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: job_related_stress_level
+      label: On a scale of 1-5 how would you rate the level of job related stress
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: mental_health_services_needed
+      label: What mental health services do you need
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Therapy''}'
+      - '{''id'': 2, ''label'': ''Counseling''}'
+      - '{''id'': 3, ''label'': ''Support group''}'
+      - '{''id'': 4, ''label'': ''Online resources''}'
+      - '{''id'': 5, ''label'': ''Other''}'
+      required: true
+    - id: 8
+      name: physical_health_services_needed
+      label: What physical health services do you need
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Doctor visit''}'
+      - '{''id'': 2, ''label'': ''Medication''}'
+      - '{''id'': 3, ''label'': ''Therapy''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: true
+    - id: 9
+      name: manager_name
+      label: What is your manager name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: manager_phone
+      label: Manager contact phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: manager_email
+      label: Manager email
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: supervisor_name
+      label: What is your supervisor name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: supervisor_phone
+      label: Supervisor contact phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: supervisor_email
+      label: Supervisor email
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: direct_supervisor_name
+      label: What is your direct supervisor name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: direct_supervisor_phone
+      label: Direct supervisor contact phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: direct_supervisor_email
+      label: Direct supervisor email
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: work_hours
+      label: How many hours do you work
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 19
+      name: work_minutes
+      label: Work minutes
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: work_seconds
+      label: Work seconds
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: vacation_hours
+      label: How many hours of vacation time do you have left
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: time_off_request
+      label: Time off request
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Unknown''}'
+      required: true
+    - id: 23
+      name: work_life_balance
+      label: On a scale of 1-10 how would you rate your work life balance
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: physical_health_score
+      label: On a scale of 1-10 how would you rate your current physical health score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: mental_health_score
+      label: On a scale of 1-10 how would you rate your current mental health score
+      hint: null
+      type: number
+      options: []
+      required: true

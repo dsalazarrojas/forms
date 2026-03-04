@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workforce Inclusion Strategy Request Form
+    pages:
+    - id: 1
+      name: organization_context
+      label: Organizational Context
+      hint: Describe the organization's current state.
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: workforce_inclusion_challenges
+      label: Workforce Inclusion Challenges
+      hint: List workforce inclusion challenges.
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: support_needs
+      label: Support Needs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: organizational_capacity
+      label: Organizational Capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: team_capacity
+      label: Team Capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: leadership_support
+      label: Leadership Support
+      hint: Select all that apply.
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: communication
+      label: Communication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: feedback
+      label: Feedback
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: review_dates
+      label: Review Dates
+      hint: List specific dates.
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: review_times
+      label: Review Times
+      hint: List specific times.
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

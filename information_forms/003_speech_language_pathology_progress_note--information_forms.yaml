@@ -1,0 +1,150 @@
+inputSchema:
+  type: object
+  properties:
+    title: Speech/Language Pathology Progress Note
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: patient_dob
+      label: Patient Dob
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: speech_therapist
+      label: Speech Therapist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_started
+      label: Date Started
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: number_of_sessions
+      label: Number of Sessions
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: date_of_last_session
+      label: Date of Last Session
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: next_session
+      label: Next Session
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: patient_goals
+      label: Patient Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: patient_status
+      label: Patient Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - No Status
+      required: false
+    - id: 10
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: select_multiple
+      options:
+      - Dyslexia
+      - Hearing Loss
+      - Speech Loss
+      - Other
+      required: false
+    - id: 11
+      name: speech_level
+      label: Speech Level
+      hint: null
+      type: select_one
+      options:
+      - Advanced
+      - Intermediate
+      - Beginner
+      required: false
+    - id: 12
+      name: communication_skills
+      label: Communication Skills
+      hint: null
+      type: select_multiple
+      options:
+      - Verbal
+      - Non-Verbal
+      - Gestures
+      required: false
+    - id: 13
+      name: progress_notes
+      label: Progress Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: assessment_tool
+      label: Assessment Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: assessment_results
+      label: Assessment Results
+      hint: null
+      type: select_multiple
+      options:
+      - Normal
+      - Below Norm
+      - Above Norm
+      required: false
+    - id: 16
+      name: treatment_plan
+      label: Treatment Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: treatment_goals
+      label: Treatment Goals
+      hint: null
+      type: select_multiple
+      options:
+      - Improve Communication Skills
+      - Improve Speech
+      - Improve Listening Skills
+      required: false
+    - id: 18
+      name: speech_therapist_signature
+      label: Speech Therapist Signature
+      hint: null
+      type: text
+      options: []
+      required: false

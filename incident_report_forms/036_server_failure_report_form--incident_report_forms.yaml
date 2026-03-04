@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Server Failure Report Form
+    pages:
+    - id: 1
+      name: server_failure_report_form
+      label: Server Failure Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Network
+      - Hardware
+      - Software
+      required: false
+    - id: 3
+      name: server_id
+      label: server id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: problem_description
+      label: Problem Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: server_starting_time
+      label: Server Starting Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: server_ending_time
+      label: Server Ending Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: server_downtime
+      label: Server Downtime
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: server_status
+      label: Server Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Unknown
+      required: false
+    - id: 9
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

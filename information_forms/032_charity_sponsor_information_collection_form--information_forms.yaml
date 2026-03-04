@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Charity Sponsor Information Collection Form
+    pages:
+    - id: 1
+      name: section_sponsor_info
+      label: -- Sponsor Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: sponsor_name
+      label: Sponsor Name
+      hint: Company or individual name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: sponsor_type
+      label: Type of Sponsor
+      hint: Individual, corporation, foundation
+      type: select_one
+      options:
+      - Individual
+      - Small Business
+      - Corporation
+      - Foundation
+      - Non-Profit Organization
+      - Other
+      required: true
+    - id: 4
+      name: contact_person
+      label: Primary Contact Person
+      hint: Name of contact
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: contact_title
+      label: Contact Title
+      hint: Job title or role
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: Email Address
+      hint: Primary email
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: contact_phone
+      label: Phone Number
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_sponsorship
+      label: -- Sponsorship Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: sponsorship_level
+      label: Sponsorship Level Interested In
+      hint: Tier of sponsorship
+      type: select_one
+      options:
+      - Platinum
+      - Gold
+      - Silver
+      - Bronze
+      - Community Partner
+      - Custom Amount
+      required: true
+    - id: 10
+      name: sponsorship_amount
+      label: Sponsorship Amount
+      hint: Dollar amount or value
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: sponsorship_focus
+      label: Focus of Sponsorship
+      hint: What program or area to sponsor
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: sponsorship_type
+      label: Type of Sponsorship
+      hint: Monetary, in-kind, volunteer time
+      type: select_multiple
+      options:
+      - Monetary Donation
+      - In-Kind Products
+      - Services
+      - Volunteer Time
+      - Media/Advertising
+      required: true
+    - id: 13
+      name: section_preferences
+      label: -- Communication and Recognition --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: recognition_preference
+      label: Recognition Preference
+      hint: How would you like to be recognized
+      type: select_one
+      options:
+      - Logo Placement
+      - Web Listing
+      - Event Mention
+      - All
+      - Prefer Not to Be Listed
+      required: false
+    - id: 15
+      name: email_updates
+      label: Receive Email Updates
+      hint: Get information about programs
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: phone_contact
+      label: Contact Via Phone
+      hint: Allow phone communications
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: newsletter
+      label: Receive Newsletter
+      hint: Monthly or quarterly updates
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: event_invitations
+      label: Receive Event Invitations
+      hint: Invite to special events
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: section_timeline
+      label: -- Timeline and Next Steps --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: sponsorship_timing
+      label: When Can You Sponsor
+      hint: Timing of sponsorship
+      type: select_one
+      options:
+      - Immediately
+      - Within 30 Days
+      - Within 60 Days
+      - Within 90 Days
+      - To Be Determined
+      required: true
+    - id: 21
+      name: additional_info
+      label: Additional Information or Comments
+      hint: Any other details
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submission_date
+      label: Submission Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: CV Form Template
+    pages:
+    - id: 1
+      name: applicant_full_name
+      label: Applicant full name
+      hint: Legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: Contact email
+      hint: Preferred email for contact
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone number
+      hint: Include country code
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: current_employer
+      label: Current employer
+      hint: Organization name
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: role_summary
+      label: Role summary
+      hint: Brief description of current role
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: skills_list
+      label: Skills list
+      hint: Primary technical and soft skills
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: education_and_training
+      label: Education and training
+      hint: Highest qualifications
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: upload_link
+      label: Upload link for CV
+      hint: External link or attachment reference
+      type: text
+      options: []
+      required: false

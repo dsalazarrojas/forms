@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Stock Options Declaration Form
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: option_type
+      label: Option Type
+      hint: null
+      type: select_one
+      options:
+      - Stock Options
+      - Stock Options - Restricted
+      - Stock Options - Vested
+      required: false
+    - id: 3
+      name: number_of_options
+      label: Number of Options
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: option_price
+      label: Option Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: grant_date
+      label: Grant Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: vest_date
+      label: Vest Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: last_vest_date
+      label: Last Vest Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: option_status
+      label: Option Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

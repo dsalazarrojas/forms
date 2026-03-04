@@ -1,0 +1,118 @@
+inputSchema:
+  type: object
+  properties:
+    title: incident report check in form
+    pages:
+    - id: 1
+      name: incident_report_check_in_form_1
+      label: incident report check in form 1
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 2
+      name: incident_date
+      label: incident date
+      hint: Date of incident
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: incident_time
+      label: incident time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: incident_description
+      label: incident description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: incident_category
+      label: incident category
+      hint: null
+      type: select_multiple
+      options:
+      - option 1
+      - option 2
+      required: true
+    - id: 7
+      name: incident_category_other
+      label: incident category other
+      hint: Please specify other category if not listed above
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: incident_type
+      label: incident type
+      hint: null
+      type: select_one
+      options:
+      - type 1
+      - type 2
+      required: true
+    - id: 9
+      name: incident_severity
+      label: incident severity
+      hint: null
+      type: select_one
+      options:
+      - severity 1
+      - severity 2
+      required: true
+    - id: 10
+      name: incident_status
+      label: incident status
+      hint: null
+      type: select_one
+      options:
+      - status 1
+      - status 2
+      required: true
+    - id: 11
+      name: incident_reporter
+      label: incident reporter
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: incident_responder
+      label: incident responder
+      hint: Responder name
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: incident_responder_phone
+      label: incident responder phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: incident_responder_email
+      label: incident responder email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: incident_responder_location
+      label: incident responder location
+      hint: null
+      type: text
+      options: []
+      required: true

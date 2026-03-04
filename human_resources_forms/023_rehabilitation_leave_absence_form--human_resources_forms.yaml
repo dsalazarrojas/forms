@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Rehabilitation Leave Absence Form
+    pages:
+    - id: 1
+      name: employee
+      label: Employee
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: leave_start_date
+      label: Leave Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: leave_end_date
+      label: Leave End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false
+    - id: 5
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_multiple
+      options:
+      - chatjimmy
+      - another_tool
+      required: false
+    - id: 7
+      name: created_by
+      label: Created By_goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_by
+      label: Assigned By
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: submitted_to
+      label: Submitted To
+      hint: null
+      type: select_one
+      options:
+      - HR
+      - Manager
+      required: false
+    - id: 11
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: created_at
+      label: Created At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: deleted_at
+      label: Deleted At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: deleted_by
+      label: Deleted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: created_by_goals
+      label: Created By Goals
+      hint: null
+      type: select_multiple
+      options:
+      - Goal1
+      - Goal2
+      - Goal3
+      required: false
+    - id: 18
+      name: status_notes
+      label: Status Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: submitted_to_notes
+      label: Submitted To Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: created_at_goals
+      label: Created At Goals
+      hint: null
+      type: select_multiple
+      options:
+      - Goal1
+      - Goal2
+      - Goal3
+      required: false
+    - id: 22
+      name: submitted_to
+      label: Submitted To
+      hint: null
+      type: select_one
+      options:
+      - Goal1
+      - Goal2
+      - Goal3
+      required: false
+    - id: 23
+      name: updated_by_goals
+      label: Updated By Goals
+      hint: null
+      type: select_multiple
+      options:
+      - Goal1
+      - Goal2
+      - Goal3
+      required: false
+    - id: 24
+      name: form_id_goals
+      label: Form ID Goals
+      hint: null
+      type: select_multiple
+      options:
+      - Goal1
+      - Goal2
+      - Goal3
+      required: false
+    - id: 25
+      name: output_file
+      label: Output File
+      hint: null
+      type: text
+      options: []
+      required: false

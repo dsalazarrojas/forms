@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Defect Incident Form
+    pages:
+    - id: 1
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: product_id
+      label: Product ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: defect_description
+      label: Defect Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: product_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Category A
+      - Category B
+      - Category C
+      required: false
+    - id: 6
+      name: incident_location
+      label: Location
+      hint: null
+      type: select_multiple
+      options:
+      - Option A
+      - Option B
+      - Option C
+      required: false
+    - id: 7
+      name: incident_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 8
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - Option D
+      - Option E
+      - Option F
+      required: false

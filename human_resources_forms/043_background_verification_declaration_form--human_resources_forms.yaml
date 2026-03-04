@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Background Verification Declaration Form
+    pages:
+    - id: 1
+      name: declarant_name
+      label: Full Legal Name
+      hint: First, middle, and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: social_security_number
+      label: Social Security Number
+      hint: XXX-XX-XXXX
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: current_address
+      label: Current Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: email_address
+      label: Email Address
+      hint: Primary email
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: position_title
+      label: Position or Role
+      hint: Job title or purpose
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: organization_name
+      label: Organization Name
+      hint: Company or institution
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: declaration_purpose
+      label: Purpose of Declaration
+      hint: Why is this declaration required
+      type: select_one
+      options:
+      - Employment screening
+      - Volunteer screening
+      - Contractor screening
+      - Licensing requirement
+      - Security clearance
+      - Other
+      required: true
+    - id: 13
+      name: information_accuracy
+      label: Information Accuracy Declaration
+      hint: I declare all information provided is accurate
+      type: select_one
+      options:
+      - Yes, I declare accuracy
+      - No, I cannot declare
+      required: true
+    - id: 14
+      name: criminal_history_declaration
+      label: Criminal History Declaration
+      hint: Do you have any criminal convictions
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: criminal_history_details
+      label: Criminal History Details
+      hint: Provide full details if yes above
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: employment_gaps
+      label: Employment Gaps Declaration
+      hint: Are there gaps in your employment history
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 17
+      name: employment_gap_explanation
+      label: Employment Gap Explanation
+      hint: Explain any gaps of 6 months or more
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: education_verification
+      label: Education Verification Consent
+      hint: I consent to verification of my education
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 19
+      name: employment_verification
+      label: Employment Verification Consent
+      hint: I consent to verification of my employment
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 20
+      name: reference_verification
+      label: Reference Verification Consent
+      hint: I consent to contact with my references
+      type: select_one
+      options:
+      - Yes, I consent
+      - No, I do not consent
+      required: true
+    - id: 21
+      name: legal_proceedings
+      label: Pending Legal Proceedings
+      hint: Are you involved in any pending legal matters
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 22
+      name: legal_proceedings_details
+      label: Legal Proceedings Details
+      hint: Provide details if yes above
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: false_information_consequences
+      label: False Information Consequences
+      hint: I understand false information may result in rejection or termination
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I do not understand
+      required: true
+    - id: 24
+      name: declarant_signature
+      label: Declarant Signature
+      hint: Digital signature or typed name
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: signature_date
+      label: Date Signed
+      hint: Date of declaration
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Incident Notification Form
+    pages:
+    - id: 1
+      name: incident_notification_form_1
+      label: Incident Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incident_category
+      label: Incident Category
+      hint: null
+      type: select_one
+      options:
+      - Accident
+      - Security Breach
+      - Property Damage
+      required: false
+    - id: 3
+      name: incident_description
+      label: Description
+      hint: Briefly describe the incident
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: incident_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: incident_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: incident_location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: incident_contact
+      label: Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: incident_reporter
+      label: Reporter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: incident_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: incident_attachment
+      label: Attachment
+      hint: null
+      type: text
+      options: []
+      required: false

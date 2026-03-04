@@ -1,0 +1,148 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact A Building Automation Specialist
+    pages:
+    - id: 1
+      name: section_contact_info
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Enter your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: job_title
+      label: Job Title
+      hint: Your current position (e.g., Facility Manager)
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_name
+      label: Company/Organization Name
+      hint: Name of the company you represent
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: Enter your primary business email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: Business phone number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: section_building_info
+      label: -- Building Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: building_type
+      label: Type of Building
+      hint: Select the best description
+      type: select_one
+      options:
+      - Commercial Office
+      - Healthcare/Hospital
+      - Industrial/Manufacturing
+      - Data Center
+      - Retail/Mixed Use
+      - Educational/School
+      - Residential (Multi-family)
+      - Other
+      required: true
+    - id: 9
+      name: square_footage
+      label: Total Square Footage
+      hint: Approximate size of the facility
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: existing_automation_system
+      label: Existing Automation System
+      hint: If any (e.g., BACnet, Modbus, LonWorks)
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: section_project_details
+      label: -- Automation Requirements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: primary_automation_goals
+      label: Primary Automation Goals
+      hint: What are you looking to achieve?
+      type: select_multiple
+      options:
+      - Energy Efficiency
+      - Occupant Comfort
+      - Operational Savings
+      - Security Integration
+      - Lighting Control
+      - HVAC Management
+      - Data Monitoring/Reporting
+      required: true
+    - id: 13
+      name: specific_requirements
+      label: Specific Project Requirements
+      hint: Describe your needs in detail
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: estimated_project_budget
+      label: Estimated Project Budget
+      hint: Select a range
+      type: select_one
+      options:
+      - Under $50,000
+      - $50,000 - $100,000
+      - $100,000 - $500,000
+      - $500,000+
+      required: false
+    - id: 15
+      name: project_timeline
+      label: Expected Project Timeline
+      hint: When would you like this to begin?
+      type: select_one
+      options:
+      - Immediately
+      - Within 3 Months
+      - 3-6 Months
+      - 6-12 Months
+      - Not yet decided
+      required: true
+    - id: 16
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else we should know?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submission_date
+      label: Submission Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

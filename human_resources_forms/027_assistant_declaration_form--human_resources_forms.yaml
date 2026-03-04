@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Assistant Declaration Form
+    pages:
+    - id: 1
+      name: employee_first_name
+      label: First Name
+      hint: Employee first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_last_name
+      label: Last Name
+      hint: Employee last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: Personnel identification number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Work email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department
+      hint: Your department or division
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: current_position
+      label: Current Position
+      hint: Current job title
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: supervisor_name
+      label: Supervisor Name
+      hint: Name of direct supervisor
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: declaration_date
+      label: Declaration Date
+      hint: Date of this declaration
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: new_assignment_title
+      label: New Assignment Title
+      hint: Title of new role or assignment
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: assignment_effective_date
+      label: Assignment Effective Date
+      hint: When does assignment start?
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: assignment_duration
+      label: Assignment Duration
+      hint: Is it permanent or temporary?
+      type: select_one
+      options:
+      - Permanent
+      - Temporary (6 months)
+      - Temporary (1 year)
+      - Contract Based
+      - Project Based
+      required: true
+    - id: 12
+      name: assignment_type
+      label: Type of Assignment
+      hint: Category of work
+      type: select_one
+      options:
+      - Full-time Role
+      - Part-time Role
+      - Additional Responsibility
+      - Acting Role
+      - Relief Position
+      - Volunteer Assignment
+      - Other
+      required: true
+    - id: 13
+      name: assignment_description
+      label: Assignment Description
+      hint: Details of the role and responsibilities
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: key_responsibilities
+      label: Key Responsibilities
+      hint: Main duties and tasks
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: required_qualifications
+      label: Required Qualifications
+      hint: Skills and experience needed
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: salary_compensation
+      label: Salary or Compensation Adjustment
+      hint: Any pay changes?
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: reporting_structure
+      label: Reporting Structure
+      hint: Who will you report to?
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: performance_expectations
+      label: Performance Expectations
+      hint: Goals and success metrics
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: training_development
+      label: Training or Development Required
+      hint: Any training needed for this role?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: support_resources
+      label: Support and Resources Available
+      hint: What support will be provided?
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: acknowledge_understanding
+      label: I acknowledge understanding of this assignment
+      hint: Confirmation of understanding
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: acknowledge_acceptance
+      label: I accept this assignment
+      hint: Confirmation of acceptance
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: acknowledge_conditions
+      label: I agree to the conditions stated above
+      hint: Confirmation of agreement
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: employee_signature
+      label: Employee Signature
+      hint: Type name as signature
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: supervisor_signature
+      label: Supervisor Signature
+      hint: Supervisor acknowledgement
+      type: text
+      options: []
+      required: true

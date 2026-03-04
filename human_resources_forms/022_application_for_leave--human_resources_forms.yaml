@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: Application For Leave
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: Internal employee number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: leave_type
+      label: Leave type
+      hint: Choose the appropriate leave category
+      type: select_one
+      options:
+      - Annual
+      - Sick
+      - Medical
+      - Maternity
+      - Paternity
+      - Unpaid
+      required: true
+    - id: 4
+      name: start_date
+      label: Start date
+      hint: First day of leave
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: end_date
+      label: End date
+      hint: Last day of leave
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: total_days
+      label: Total days of leave
+      hint: Number of working days
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: reason
+      label: Reason for leave
+      hint: Brief explanation
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_during_leave
+      label: Contact during leave
+      hint: Emergency contact information
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: manager_approval
+      label: Manager approval status
+      hint: For managerial use
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Denied
+      required: true
+    - id: 10
+      name: manager_comments
+      label: Manager comments
+      hint: Manager notes or instructions
+      type: text
+      options: []
+      required: false

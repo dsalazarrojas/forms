@@ -1,0 +1,263 @@
+inputSchema:
+  type: object
+  properties:
+    title: Company Directory Update Request Form
+    pages:
+    - id: 1
+      name: employee_full_name
+      label: Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: Your employee ID
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: current_email
+      label: Current Email Address
+      hint: Existing company email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: current_phone
+      label: Current Phone Number
+      hint: Existing phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department
+      hint: Your department
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: job_title
+      label: Current Job Title
+      hint: Your current position
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: manager_name
+      label: Manager Name
+      hint: Direct supervisor
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: update_type
+      label: What information needs to be updated?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Email address
+      - Phone number
+      - Job title
+      - Department
+      - Manager
+      - Office location
+      - Mailing address
+      - Work schedule
+      - Emergency contact
+      - Other
+      required: true
+    - id: 9
+      name: new_email
+      label: New Email Address
+      hint: If changing email
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: new_phone
+      label: New Phone Number
+      hint: If changing phone
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: new_job_title
+      label: New Job Title
+      hint: If changing title
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: new_department
+      label: New Department
+      hint: If changing department
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: new_manager
+      label: New Manager Name
+      hint: If changing manager
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: new_office_location
+      label: New Office Location
+      hint: Building, floor, desk
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: new_mailing_address
+      label: New Mailing Address
+      hint: Street, city, state, zip
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: work_schedule_change
+      label: Describe work schedule change
+      hint: New schedule details
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: Relation to you
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: reason_for_change
+      label: Reason for Update
+      hint: Why is this change needed?
+      type: select_one
+      options:
+      - Promotion
+      - Department transfer
+      - Office relocation
+      - Personal preference
+      - Correction of error
+      - New hire
+      - Return from leave
+      - Other
+      required: true
+    - id: 21
+      name: effective_date
+      label: When should this change take effect?
+      hint: Effective date
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: urgency
+      label: How urgent is this update?
+      hint: Priority level
+      type: select_one
+      options:
+      - Low - Can wait 1-2 weeks
+      - Medium - Needed within 1 week
+      - High - Needed within 2-3 days
+      - Critical - Needed immediately
+      required: true
+    - id: 23
+      name: systems_to_update
+      label: Which systems should be updated?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Company directory
+      - Email signature
+      - Phone system
+      - Org chart
+      - Badge/ID card
+      - Business cards
+      - Website
+      - All systems
+      - Other
+      required: true
+    - id: 24
+      name: notification_recipients
+      label: Who should be notified of this change?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - My team
+      - My department
+      - All staff
+      - External contacts
+      - Clients/Customers
+      - Vendors
+      - Only HR records
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Any additional comments or instructions?
+      hint: Your notes
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: requester_signature
+      label: Requester Signature
+      hint: Electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: request_date
+      label: Request Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true
+    - id: 28
+      name: manager_approval
+      label: Manager Approval
+      hint: To be completed by manager
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Denied
+      required: false
+    - id: 29
+      name: hr_use_only
+      label: -- For HR Use Only --
+      hint: Internal use
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: processed_by
+      label: Processed By
+      hint: HR staff name
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: processed_date
+      label: Processed Date
+      hint: Completion date
+      type: date
+      options: []
+      required: false

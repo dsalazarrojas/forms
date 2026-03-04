@@ -1,0 +1,113 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parking Validation Form
+    pages:
+    - id: 1
+      name: parking_ticket_number
+      label: Parking Ticket Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_make
+      label: Vehicle Make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: vehicle_model
+      label: Vehicle Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: license_plate_number
+      label: License Plate Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: parking_location
+      label: Parking Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: validation_date
+      label: Validation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: validation_time
+      label: Validation Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: parking_duration
+      label: Parking Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: parking_rate
+      label: Parking Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: validation_amount
+      label: Validation Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: parking_validation_status
+      label: Parking Validation Status
+      hint: null
+      type: select_one
+      options:
+      - Valid
+      - Invalid
+      - Pending
+      required: false
+    - id: 13
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false

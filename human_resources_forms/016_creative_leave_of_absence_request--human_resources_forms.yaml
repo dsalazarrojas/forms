@@ -1,0 +1,183 @@
+inputSchema:
+  type: object
+  properties:
+    title: Creative Leave Of Absence Request
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: reason
+      label: reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: manager_name
+      label: manager_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: manager_email
+      label: manager_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: manager_phone
+      label: manager_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: team_lead_name
+      label: team_lead_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: team_lead_email
+      label: team_lead_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: team_lead_phone
+      label: team_lead_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: approval_status
+      label: approval_status
+      hint: null
+      type: select_one
+      options:
+      - Awaiting Approval
+      - Approved
+      - Denied
+      required: true
+    - id: 12
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: submitter
+      label: submitter
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: submitter_email
+      label: submitter_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: submitter_phone
+      label: submitter_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: submitter_title
+      label: submitter_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: manager_approval_date
+      label: manager_approval_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: team_lead_approval_date
+      label: team_lead_approval_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: submitter_approval_date
+      label: submitter_approval_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: approval_request_details
+      label: approval_request_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: manager_comments
+      label: manager_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: team_lead_comments
+      label: team_lead_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submitter_comments
+      label: submitter_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: approval_status_update
+      label: approval_status_update
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: approval_request_id
+      label: approval_request_id
+      hint: null
+      type: text
+      options: []
+      required: true

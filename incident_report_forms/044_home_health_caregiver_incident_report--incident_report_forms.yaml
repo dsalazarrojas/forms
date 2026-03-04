@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: home_health_caregiver_incident_report
+    pages:
+    - id: 1
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_one
+      options:
+      - Caregiver
+      - Agency
+      required: false
+    - id: 2
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: follow_up
+      label: Follow up
+      hint: null
+      type: select_multiple
+      options:
+      - First Contact
+      - Second Contact
+      - Third Contact
+      required: false
+    - id: 6
+      name: reported_by
+      label: Reported by
+      hint: null
+      type: select_one
+      options:
+      - Caregiver
+      - Agency
+      required: false
+    - id: 7
+      name: incident_status
+      label: Incident Status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      required: false
+    - id: 8
+      name: resolution
+      label: Resolution
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: outcome
+      label: Outcome
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Poor
+      - Unknown
+      required: false
+    - id: 10
+      name: follow_up_date
+      label: Follow up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: agency_name
+      label: Agency Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: agency_phone
+      label: Agency Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: agency_fax
+      label: Agency Fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: agency_email
+      label: Agency Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: caregiver_name
+      label: Caregiver Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: caregiver_phone
+      label: Caregiver Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: caregiver_email
+      label: Caregiver Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: follow_up_contact
+      label: Follow up Contact
+      hint: null
+      type: select_one
+      options:
+      - First Contact
+      - Second Contact
+      - Third Contact
+      required: false
+    - id: 20
+      name: follow_up_person
+      label: Follow up Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: follow_up_date
+      label: Follow up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: notes2
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_notes
+      label: Follow up Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: follow_up_contacted_by
+      label: Follow up Contacted by
+      hint: null
+      type: select_one
+      options:
+      - Caregiver
+      - Agency
+      required: false
+    - id: 25
+      name: follow_up_contact_method
+      label: Follow up Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Call
+      - Email
+      - Visit
+      required: false

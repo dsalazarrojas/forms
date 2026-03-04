@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Incident Response Monitoring Form
+    pages:
+    - id: 1
+      name: incident_response_monitoring_form
+      label: Incident Monitoring
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''1'', ''label'': ''North America''}'
+      - '{''id'': ''2'', ''label'': ''South America''}'
+      - '{''id'': 3, ''label'': ''Europe''}'
+      required: false
+    - id: 3
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''1'', ''label'': ''Network''}'
+      - '{''id'': ''2'', ''label'': ''Server''}'
+      - '{''id'': 3, ''label'': ''System''}'
+      required: false
+    - id: 6
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: incident_status
+      label: Incident Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''1'', ''label'': ''Open''}'
+      - '{''id'': ''2'', ''label'': ''Closed''}'
+      - '{''id'': 3, ''label'': ''In Progress''}'
+      required: false
+    - id: 8
+      name: incident_resolution_time
+      label: Resolution Time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: incident_responders
+      label: Responders
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': ''1'', ''label'': ''John''}'
+      - '{''id'': ''2'', ''label'': ''Jane''}'
+      - '{''id'': 3, ''label'': ''Bob''}'
+      required: false
+    - id: 10
+      name: incident_notes
+      label: Incident Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: incident_outcome
+      label: Incident Outcome
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''1'', ''label'': ''Success''}'
+      - '{''id'': ''2'', ''label'': ''Failure''}'
+      - '{''id'': 3, ''label'': ''Unknown''}'
+      required: false
+    - id: 12
+      name: incident_uploads
+      label: Incident Uploads
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: incident_uploads
+      label: Incident Reports
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': ''1'', ''label'': ''Report 1''}'
+      - '{''id'': ''2'', ''label'': ''Report 2''}'
+      - '{''id'': 3, ''label'': ''Report 3''}'
+      required: false
+    - id: 14
+      name: incident_uploads
+      label: Email Attachments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: incident_uploads
+      label: Image Uploads
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: incident_uploads
+      label: Audio Uploads
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: incident_uploads
+      label: Video Uploads
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: incident_uploads
+      label: Other Attachments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: incident_uploads
+      label: Other Media
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''1'', ''label'': ''Category 1''}'
+      - '{''id'': ''2'', ''label'': ''Category 2''}'
+      - '{''id'': 3, ''label'': ''Category 3''}'
+      required: false
+    - id: 23
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': ''1'', ''label'': ''chatjimmy''}'
+      - '{''id'': ''2'', ''label'': ''chatjimmy1''}'
+      - '{''id'': 3, ''label'': ''chatjimmy2''}'
+      required: false
+    - id: 24
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: incident_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

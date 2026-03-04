@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: esports_live_informing_form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: event_info
+      label: Event Details
+      hint: null
+      type: select_multiple
+      options:
+      - Event Name
+      - Event Date
+      - Event Time
+      - Event Location
+      required: true
+    - id: 3
+      name: strategy_info
+      label: Strategy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: live_updates
+      label: Live Updates
+      hint: null
+      type: select_one
+      options:
+      - Live
+      - Not Live
+      required: true
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: strategy
+      label: Additional Strategy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: attachments
+      label: Attachments
+      hint: null
+      type: select_multiple
+      options:
+      - Attachment 1
+      - Attachment 2
+      - Attachment 3
+      required: false
+    - id: 8
+      name: event_status
+      label: Event Status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Completed
+      - Cancelled
+      required: true
+    - id: 9
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: attachments_uploads
+      label: Attachments Uploads
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: timezone
+      label: Timezone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: event_id
+      label: Event ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 17
+      name: event_location
+      label: Event Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: strategy_details
+      label: Strategy Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: strategy_status
+      label: Strategy Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: strategy_priority
+      label: Strategy Priority
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: strategy_type
+      label: Strategy Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: strategy_description
+      label: Strategy Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: live_status
+      label: Live Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: live_comments
+      label: Live Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: live_description
+      label: Live Description
+      hint: null
+      type: text
+      options: []
+      required: false

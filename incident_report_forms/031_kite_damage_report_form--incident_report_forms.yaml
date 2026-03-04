@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Kite Damage Report Form
+    pages:
+    - id: 1
+      name: main_page
+      label: main-page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incident_date
+      label: incident-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: report_date
+      label: report-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: description
+      label: description
+      hint: Briefly describe the issue with the kite
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: equipment_affected
+      label: equipment-affected
+      hint: Specify affected equipment type
+      type: select_one
+      options:
+      - kite
+      - other-equipment
+      - other-equipment-type
+      - kite
+      - other-equipment
+      - other-equipment-type
+      required: true
+    - id: 7
+      name: damage_amount
+      label: damage-amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: damage_photos
+      label: damage-photos
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: report_status
+      label: report-status
+      hint: null
+      type: select_one
+      options:
+      - submitted
+      - reviewed
+      - approved
+      - rejected
+      required: true
+    - id: 10
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitter_name
+      label: submitters-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitter_email
+      label: submitters-email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: report_owner
+      label: report-owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: assigned_to
+      label: assigned-to
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: comments_owner
+      label: comments-owner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submitter_phone
+      label: submitters-phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Influencer Collaboration Market Research
+    pages:
+    - id: 1
+      name: form_name
+      label: Form Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Influencer Forms
+      - Other
+      required: true
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: form_id
+      label: Form ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 6
+      name: output_file
+      label: Output File
+      hint: null
+      type: select_one
+      options:
+      - 001_influencer_collaboration_market_research--influencer_forms.yaml
+      - Other
+      required: true
+    - id: 7
+      name: category_id
+      label: Category
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: category_description
+      label: Category Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: category_keywords
+      label: Category Keywords
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: form_description
+      label: Form Description
+      hint: null
+      type: text
+      options: []
+      required: false

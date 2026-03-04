@@ -1,0 +1,286 @@
+inputSchema:
+  type: object
+  properties:
+    title: Complaint Resolution Protocol Approval Form
+    pages:
+    - id: 1
+      name: submission_date
+      label: Submission Date
+      hint: Date of submission
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: submitter_name
+      label: Submitter Name
+      hint: Person submitting
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: submitter_email
+      label: Submitter Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: submitter_department
+      label: Submitter Department
+      hint: Which department
+      type: select_one
+      options:
+      - Human Resources
+      - Customer Service
+      - Operations
+      - Legal
+      - Compliance
+      - Management
+      - Other
+      required: true
+    - id: 5
+      name: protocol_name
+      label: Protocol Name
+      hint: Name of protocol
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: protocol_version
+      label: Protocol Version
+      hint: Version number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: protocol_type
+      label: Protocol Type
+      hint: What type of protocol
+      type: select_one
+      options:
+      - New protocol
+      - Updated protocol
+      - Revised protocol
+      - Emergency protocol
+      - Temporary protocol
+      required: true
+    - id: 8
+      name: protocol_scope
+      label: Protocol Scope
+      hint: What does this cover
+      type: select_one
+      options:
+      - All complaint types
+      - Specific complaint category
+      - Specific department
+      - Specific location
+      - Specific customer segment
+      required: true
+    - id: 9
+      name: protocol_description
+      label: Protocol Description
+      hint: Brief overview
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: protocol_objectives
+      label: Protocol Objectives
+      hint: What will this achieve
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: affected_processes
+      label: Affected Processes
+      hint: What processes change
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: affected_roles
+      label: Affected Roles
+      hint: Who is impacted
+      type: select_multiple
+      options:
+      - Customer service reps
+      - Team leads
+      - Managers
+      - Directors
+      - Support staff
+      - IT staff
+      - All employees
+      - Other
+      required: true
+    - id: 13
+      name: training_required
+      label: Training Required
+      hint: Is training needed
+      type: select_one
+      options:
+      - Yes - extensive training
+      - Yes - brief training
+      - Yes - communication only
+      - No - familiar process
+      required: true
+    - id: 14
+      name: training_plan
+      label: Training Plan
+      hint: How will training be delivered
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: resources_required
+      label: Resources Required
+      hint: What is needed to implement
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: budget_impact
+      label: Budget Impact
+      hint: Cost implications
+      type: select_one
+      options:
+      - No additional cost
+      - Minimal cost
+      - Moderate cost
+      - Significant cost
+      - Major investment
+      required: true
+    - id: 17
+      name: budget_amount
+      label: Budget Amount
+      hint: Estimated cost
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: technology_changes
+      label: Technology Changes
+      hint: System modifications needed
+      type: select_one
+      options:
+      - No changes needed
+      - Minor configuration
+      - System update
+      - New system required
+      - Major development
+      required: true
+    - id: 19
+      name: implementation_timeline
+      label: Implementation Timeline
+      hint: When to implement
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: effective_date
+      label: Proposed Effective Date
+      hint: When does this start
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: success_metrics
+      label: Success Metrics
+      hint: How will success be measured
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: risk_assessment
+      label: Risk Assessment
+      hint: What are the risks
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: mitigation_strategies
+      label: Mitigation Strategies
+      hint: How to reduce risks
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: stakeholder_consultation
+      label: Stakeholder Consultation
+      hint: Who was consulted
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: stakeholder_support
+      label: Stakeholder Support
+      hint: Level of support
+      type: select_one
+      options:
+      - Full support
+      - Mostly supportive
+      - Mixed reactions
+      - Some resistance
+      - Significant resistance
+      required: true
+    - id: 26
+      name: compliance_review
+      label: Compliance Review
+      hint: Has compliance reviewed
+      type: select_one
+      options:
+      - Yes - approved
+      - Yes - pending
+      - No - not yet
+      - Not applicable
+      required: true
+    - id: 27
+      name: legal_review
+      label: Legal Review
+      hint: Has legal reviewed
+      type: select_one
+      options:
+      - Yes - approved
+      - Yes - pending
+      - No - not yet
+      - Not applicable
+      required: true
+    - id: 28
+      name: approval_status
+      label: Approval Status
+      hint: For approver use
+      type: select_one
+      options:
+      - Approved
+      - Approved with conditions
+      - Pending review
+      - Needs revision
+      - Denied
+      required: false
+    - id: 29
+      name: approver_comments
+      label: Approver Comments
+      hint: Feedback from approver
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: approver_name
+      label: Approver Name
+      hint: Who approved
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: approver_signature
+      label: Approver Signature
+      hint: Type name as signature
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: approval_date
+      label: Approval Date
+      hint: When approved
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Packaging Designer Interview Form
+    pages:
+    - id: 1
+      name: applicant_info
+      label: applicant_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: available_to_work
+      label: available_to_work
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: salary_expectation
+      label: salary_expectation
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: work_experience
+      label: work_experience
+      hint: null
+      type: select_multiple
+      options:
+      - 1-2 years
+      - 2-5 years
+      - 5-10 years
+      - More than 10 years
+      required: false

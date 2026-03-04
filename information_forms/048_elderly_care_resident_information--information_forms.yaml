@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Elderly Care Resident Information
+    pages:
+    - id: 1
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: care_type
+      label: Care Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Home Care''}'
+      - '{''value'': ''Community Care''}'
+      - '{''value'': ''Facility Care''}'
+      required: false
+    - id: 7
+      name: medical_history
+      label: Medical History
+      hint: Please provide medical history, e.g. conditions, allergies, medications
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: e.g. family member, friend, etc.
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_contact_phone
+      label: Emergency Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false

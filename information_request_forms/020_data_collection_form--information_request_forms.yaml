@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: data_collection_form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Please enter a valid email address.
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_of_birth
+      label: Time of Birth
+      hint: 24-Hour Clock
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: select_option
+      label: Select One Option
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      - '{''id'': 3, ''label'': ''Option 3''}'
+      required: true
+    - id: 9
+      name: select_multiple
+      label: Select Multiple Options
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      - '{''id'': 3, ''label'': ''Option 3''}'
+      - '{''id'': 4, ''label'': ''Option 4''}'
+      required: true
+    - id: 10
+      name: decimal_input
+      label: Decimal Input
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: time_input
+      label: Time Input
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: date_input
+      label: Date Input
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: text_input
+      label: Text Input
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: integer_input
+      label: Integer Input
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: boolean_input
+      label: Boolean Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: select_text
+      label: Select Text
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      - '{''id'': 3, ''label'': ''Option 3''}'
+      required: false
+    - id: 17
+      name: boolean_input_2
+      label: Boolean Input 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: decimal_input_2
+      label: Decimal Input 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: text_area_input
+      label: Text Area Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: integer_input_2
+      label: Integer Input 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: select_multiple_2
+      label: Select Multiple 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: time_input_2
+      label: Time Input 2
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: date_input_2
+      label: Date Input 2
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: boolean_input_3
+      label: Boolean Input 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: decimal_input_3
+      label: Decimal Input 3
+      hint: null
+      type: number
+      options: []
+      required: false

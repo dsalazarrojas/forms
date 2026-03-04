@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fire Medic Application Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: fire_department
+      label: Fire Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Enter contact name
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Enter contact phone
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_relation
+      label: Emergency Contact Relation
+      hint: null
+      type: select_one
+      options:
+      - Mother
+      - Father
+      - Sister
+      - Brother
+      - Spouse
+      required: true
+    - id: 10
+      name: emergency_contact_message
+      label: Emergency Contact Message
+      hint: Enter message
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: medical_certification
+      label: Medical Certification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: firefighter_experience
+      label: Firefighter Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: education_background
+      label: Education Background
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: languages_spoken
+      label: Languages Spoken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: skills_and_certifications
+      label: Skills and Certifications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: references
+      label: References
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: job_history
+      label: Job History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: employment_agreement
+      label: Employment Agreement
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 20
+      name: background_check
+      label: Background Check
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 21
+      name: emergency_services
+      label: Emergency Services
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: certification
+      label: Certification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: availability
+      label: Availability
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: shift_preference
+      label: Shift Preference
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Decline
+      required: false

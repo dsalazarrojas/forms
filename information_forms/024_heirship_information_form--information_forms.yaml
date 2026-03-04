@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Heirship Information Form
+    pages:
+    - id: 1
+      name: heirship_information_form_person
+      label: Person
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: heirship_information_form_relationship
+      label: Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: heirship_information_form_name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: heirship_information_form_age
+      label: Age
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: heirship_information_form_occupation
+      label: Occupation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: heirship_information_form_marital_status
+      label: Marital Status
+      hint: null
+      type: select_one
+      options:
+      - married
+      - single
+      - divorced
+      - widowed
+      required: false
+    - id: 7
+      name: heirship_information_form_spouse
+      label: Spouse
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: heirship_information_form_children
+      label: Children
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: heirship_information_form_other_family_member
+      label: Other Family Member
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: heirship_information_form_beneficiary
+      label: Beneficiary
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: heirship_information_form_interest_in_estate
+      label: Interest In Estate
+      hint: null
+      type: select_multiple
+      options:
+      - 'yes'
+      - 'no'
+      required: false
+    - id: 12
+      name: heirship_information_form_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: heirship_information_form_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

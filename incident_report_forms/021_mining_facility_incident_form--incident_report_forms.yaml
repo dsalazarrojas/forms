@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mining Facility Incident Form
+    pages:
+    - id: 1
+      name: mining_facility_incident
+      label: Mining Facility Incident
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_occured
+      label: Date Occured
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: incident_type_options
+      label: Incident Types
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: incident_type_value
+      label: Incident Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: incident_type_value_options
+      label: Incident Types
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

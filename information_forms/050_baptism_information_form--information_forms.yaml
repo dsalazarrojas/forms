@@ -1,0 +1,269 @@
+inputSchema:
+  type: object
+  properties:
+    title: Baptism Information Form
+    pages:
+    - id: 1
+      name: child_full_name
+      label: Child Full Name
+      hint: Legal name of child
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: child_date_of_birth
+      label: Child Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: child_place_of_birth
+      label: Child Place of Birth
+      hint: City and state
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: child_gender
+      label: Child Gender
+      hint: Boy or girl
+      type: select_one
+      options:
+      - Male
+      - Female
+      required: true
+    - id: 5
+      name: father_full_name
+      label: Father Full Name
+      hint: Legal name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: father_email
+      label: Father Email
+      hint: Contact email
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: father_phone
+      label: Father Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: mother_full_name
+      label: Mother Full Name
+      hint: Legal name
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: mother_email
+      label: Mother Email
+      hint: Contact email
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: mother_phone
+      label: Mother Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: family_address
+      label: Family Address
+      hint: Street, city, state, ZIP
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: family_parish
+      label: Family Parish
+      hint: Home church
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: parish_membership_status
+      label: Parish Membership Status
+      hint: Are you a member
+      type: select_one
+      options:
+      - Active Member
+      - Occasional Attendee
+      - New Member
+      - Not a Member
+      - Member of Another Parish
+      required: true
+    - id: 14
+      name: preferred_baptism_date
+      label: Preferred Baptism Date
+      hint: First choice
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: alternate_baptism_date
+      label: Alternate Baptism Date
+      hint: Backup date
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: preferred_baptism_time
+      label: Preferred Baptism Time
+      hint: Morning or afternoon
+      type: select_one
+      options:
+      - Morning Service
+      - Afternoon Service
+      - Evening Service
+      - No Preference
+      required: false
+    - id: 17
+      name: godparent_1_name
+      label: Godparent 1 Full Name
+      hint: First godparent
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: godparent_1_relationship
+      label: Godparent 1 Relationship
+      hint: How related
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: godparent_1_contact
+      label: Godparent 1 Contact
+      hint: Phone or email
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: godparent_1_parish
+      label: Godparent 1 Parish
+      hint: Their church
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: godparent_2_name
+      label: Godparent 2 Full Name
+      hint: Second godparent
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: godparent_2_relationship
+      label: Godparent 2 Relationship
+      hint: How related
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: godparent_2_contact
+      label: Godparent 2 Contact
+      hint: Phone or email
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: godparent_2_parish
+      label: Godparent 2 Parish
+      hint: Their church
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: number_of_godparents
+      label: Number of Godparents
+      hint: Total godparents
+      type: select_one
+      options:
+      - One
+      - Two
+      required: true
+    - id: 26
+      name: godparent_eligibility
+      label: Godparent Eligibility
+      hint: Are they practicing Catholics
+      type: select_one
+      options:
+      - Yes, both eligible
+      - Yes, one eligible
+      - No, need guidance
+      - Unsure
+      required: true
+    - id: 27
+      name: parents_marital_status
+      label: Parents Marital Status
+      hint: Marriage status
+      type: select_one
+      options:
+      - Married in Church
+      - Married Civilly
+      - Not Married
+      - Other
+      required: true
+    - id: 28
+      name: baptism_preparation_class
+      label: Baptism Preparation Class
+      hint: Have you attended
+      type: select_one
+      options:
+      - Yes, completed
+      - Registered, not yet attended
+      - Not Registered
+      - Not Required
+      required: true
+    - id: 29
+      name: siblings_baptized_here
+      label: Siblings Baptized at This Church
+      hint: Previous baptisms
+      type: select_one
+      options:
+      - true
+      - false
+      - No Siblings
+      required: false
+    - id: 30
+      name: special_requests
+      label: Special Requests
+      hint: Any specific needs
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: how_heard_about
+      label: How Did You Hear About Us
+      hint: Referral source
+      type: select_one
+      options:
+      - Parish Member
+      - Friend or Family
+      - Website
+      - Social Media
+      - Other
+      required: false
+    - id: 32
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: signature_date
+      label: Signature Date
+      hint: Date of form
+      type: date
+      options: []
+      required: true

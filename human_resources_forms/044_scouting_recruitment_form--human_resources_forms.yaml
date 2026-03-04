@@ -1,0 +1,168 @@
+inputSchema:
+  type: object
+  properties:
+    title: Scouting Recruitment Form
+    pages:
+    - id: 1
+      name: scouting_recruitment_form
+      label: scouting_recruitment_plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: unit_id
+      label: unit
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: unit_name
+      label: unit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: unit_name
+      label: unit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_information
+      label: contact
+      hint: Contact information for unit
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_email
+      label: contact_email
+      hint: Contact email
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone
+      label: contact_phone
+      hint: Contact phone
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: unit_type
+      label: unit_type
+      hint: Type of unit
+      type: select_one
+      options:
+      - Junior
+      - Senior
+      - Venture
+      required: false
+    - id: 9
+      name: unit_type_other
+      label: unit_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: unit_level
+      label: unit_level
+      hint: Unit level
+      type: select_multiple
+      options:
+      - Senior
+      - Junior
+      required: false
+    - id: 11
+      name: recruitment_goal
+      label: recruitment_goal
+      hint: Recruitment goal
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: target_start_date
+      label: start_date
+      hint: Target start date
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: target_end_date
+      label: end_date
+      hint: Target end date
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: event_dates
+      label: dates
+      hint: Dates for events
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: notes
+      label: notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: scouting_recruiters
+      label: recruiter
+      hint: Scouting recruiters for unit
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Joe
+      required: false
+    - id: 17
+      name: other_recruiters
+      label: recruiter
+      hint: Other recruiters
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: unit_officer
+      label: unit_officer
+      hint: Unit officer
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 19
+      name: flyer_request
+      label: request_flyer
+      hint: Do you need a flyer?
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 20
+      name: flyer_request
+      label: request_flyer
+      hint: Do you need a flyer?
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: flyer_request
+      label: flyer_request
+      hint: Do you need a flyer?
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

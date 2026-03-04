@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: District Court Jury Information Form
+    pages:
+    - id: 1
+      name: user_name
+      label: User Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_address
+      label: Contact Address
+      hint: Please provide your address
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: jury_service_start_date
+      label: Jury Service Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: jury_service_end_date
+      label: Jury Service End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: occupation
+      label: Occupation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: employer
+      label: Employer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: work_address
+      label: Work Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: work_email
+      label: Work Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: work_phone
+      label: Work Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: jury_service_hours
+      label: Jury Service Hours
+      hint: null
+      type: select_multiple
+      options:
+      - 8-5
+      - 9-5
+      - 10-6
+      - 11-5
+      - 12-7
+      required: true
+    - id: 14
+      name: conflict_of_interest
+      label: Conflict of Interest
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: jury_service_type
+      label: Jury Service Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

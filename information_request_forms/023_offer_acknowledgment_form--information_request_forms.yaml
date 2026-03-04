@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: offer_acknowledgment_form
+    pages:
+    - id: 1
+      name: offer_acknowledgment_form
+      label: offer_acknowledgment_form
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: job_position_title
+      label: job_position_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company
+      label: company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: job_description
+      label: job_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: salary
+      label: salary
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: work_location
+      label: work_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: benefits
+      label: benefits
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_person
+      label: contact_person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_email
+      label: contact_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: contact_phone
+      label: contact_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: job_status
+      label: job_status
+      hint: null
+      type: select_one
+      options:
+      - active
+      - inactive
+      - pending
+      required: true
+    - id: 15
+      name: job_status_reason
+      label: job_status_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: job_type
+      label: job_type
+      hint: null
+      type: select_one
+      options:
+      - full_time
+      - part_time
+      - contract
+      required: false
+    - id: 18
+      name: job_category
+      label: job_category
+      hint: null
+      type: select_one
+      options:
+      - IT
+      - Finance
+      - Marketing
+      required: false
+    - id: 19
+      name: job_level
+      label: job_level
+      hint: null
+      type: select_one
+      options:
+      - junior
+      - senior
+      - lead
+      required: false
+    - id: 20
+      name: job_role
+      label: job_role
+      hint: null
+      type: select_one
+      options:
+      - manager
+      - team_member
+      - team_lead
+      required: true
+    - id: 21
+      name: job_education
+      label: job_education
+      hint: null
+      type: select_multiple
+      options:
+      - high_school
+      - college
+      - university
+      required: false
+    - id: 22
+      name: job_experience
+      label: job_experience
+      hint: null
+      type: select_multiple
+      options:
+      - 0_2_years
+      - 2_5_years
+      - 5_10_years
+      required: false
+    - id: 23
+      name: job_seniority
+      label: job_seniority
+      hint: null
+      type: select_multiple
+      options:
+      - less_than_3_years
+      - 3_to_10_years
+      - more_than_10_years
+      required: false
+    - id: 24
+      name: job_tenure
+      label: job_tenure
+      hint: null
+      type: select_multiple
+      options:
+      - less_than_3_years
+      - 3_to_5_years
+      - more_than_5_years
+      required: false
+    - id: 25
+      name: submission
+      label: submission
+      hint: null
+      type: select_one
+      options:
+      - submit
+      - decline
+      required: true

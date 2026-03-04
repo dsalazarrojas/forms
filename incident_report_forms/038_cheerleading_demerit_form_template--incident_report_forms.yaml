@@ -1,0 +1,138 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cheerleading Demerit Form Template
+    pages:
+    - id: 1
+      name: section_incident_id
+      label: -- Incident Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: cheerleader_name_inc
+      label: Cheerleader Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: incident_occurrence_date
+      label: Date of Incident
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: incident_occurrence_time
+      label: Time of Incident
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: incident_location_desc
+      label: Location of Incident
+      hint: e.g. Gym, Competition Venue, Bus
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_offense_details
+      label: -- Offense Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: demerit_offense_type
+      label: Type of Offense
+      hint: Select the primary category
+      type: select_one
+      options:
+      - Unexcused Absence
+      - Tardiness (Practice/Event)
+      - Dress Code / Uniform Violation
+      - Disrespectful Behavior
+      - Social Media Policy Violation
+      - Poor Sportsmanship
+      - Other
+      required: true
+    - id: 8
+      name: demerit_points_assigned
+      label: Demerit Points Assigned
+      hint: Enter number of points (usually 1-5)
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: incident_description_detailed
+      label: Detailed Description of Incident
+      hint: Provide objective facts only
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: witnesses_to_incident
+      label: Witnesses (if any)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: section_disciplinary_action
+      label: -- Action Taken --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: immediate_disciplinary_action
+      label: Action Taken by Coach
+      hint: null
+      type: select_one
+      options:
+      - Verbal Warning (Log Only)
+      - Demerit Point(s) Issued
+      - Bench Duty / No Participation
+      - Parent Notification Sent
+      - Escalated to Director
+      required: true
+    - id: 13
+      name: total_accrued_demerits
+      label: Total Accrued Demerits (to date)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: section_acknowledgment
+      label: -- Acknowledgments --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: athlete_ack_of_demerit
+      label: Athlete Acknowledgment
+      hint: I have been informed of this demerit and the reasons
+      type: select_one
+      options:
+      - Acknowledged
+      - Other
+      required: true
+    - id: 16
+      name: reporting_coach_full_name
+      label: Reporting Coach Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: report_filing_timestamp
+      label: Date Filed
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pet Information Form
+    pages:
+    - id: 1
+      name: pet_name
+      label: Pet Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: pet_type
+      label: pet_type
+      hint: null
+      type: select_one
+      options:
+      - Cat
+      - Dog
+      - Other
+      required: false
+    - id: 3
+      name: pet_breed
+      label: pet_breed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: pet_age
+      label: pet_age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: pet_weight
+      label: pet_weight
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: pet_color
+      label: pet_color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: pet_health
+      label: pet_health
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 8
+      name: pet_notes
+      label: pet_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: owner_name
+      label: owner_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: owner_phone
+      label: owner_phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: owner_email
+      label: owner_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 12
+      name: owner_address
+      label: owner_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: pet_license
+      label: pet_license
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Spayed
+      - Neutered
+      required: false
+    - id: 14
+      name: medical_conditions
+      label: medical_conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: vet_clinic
+      label: vet_clinic
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: shelter_name
+      label: shelter_name
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Name
+      required: false
+    - id: 17
+      name: date_registered
+      label: date_registered
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 18
+      name: registered_by
+      label: registered_by
+      hint: null
+      type: select_one
+      options:
+      - None
+      - 'True'
+      - 'False'
+      required: false
+    - id: 19
+      name: date_released
+      label: date_released
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: release_reason
+      label: release_reason
+      hint: null
+      type: select_one
+      options:
+      - Adopted
+      - Fostering
+      - Transferred
+      required: false
+    - id: 21
+      name: date_last_vet
+      label: date_last_vet
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: last_vet_name
+      label: last_vet_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: last_vet_contact
+      label: last_vet_contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: last_vet_location
+      label: last_vet_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: additional_comments
+      label: additional_comments
+      hint: null
+      type: text
+      options: []
+      required: false

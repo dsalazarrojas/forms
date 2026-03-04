@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Petition for Study Resource Form
+    pages:
+    - id: 1
+      name: submit_petition
+      label: Submit Petition
+      hint: null
+      type: select_one
+      options:
+      - Petition for a book
+      - Petition for software
+      - Petition for equipment
+      required: false
+    - id: 2
+      name: supporter_details
+      label: Student and Supporter Details
+      hint: null
+      type: select_multiple
+      options:
+      - Student Name
+      - Student Grade Level
+      - Class
+      - Teacher Name
+      - School Year
+      - Supporter Name
+      - Supporter Grade Level
+      required: false
+    - id: 3
+      name: resource_requests
+      label: Resource Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: supporter_requests
+      label: Supporter Requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: supporter_details_list
+      label: List of Supporters
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: petition_description
+      label: Petition Description
+      hint: Write your petition description here
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: resource_requests_date
+      label: Resource Requests Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: resource_requests_time
+      label: Resource Requests Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: school_year
+      label: School Year
+      hint: null
+      type: text
+      options: []
+      required: false

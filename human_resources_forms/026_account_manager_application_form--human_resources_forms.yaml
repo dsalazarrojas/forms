@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Account Manager Application Form
+    pages:
+    - id: 1
+      name: section_personal_info
+      label: -- Personal Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Current Address
+      hint: Full mailing address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_professional_background
+      label: -- Professional Background --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: years_of_experience
+      label: Total Years of Professional Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: account_management_experience
+      label: Years of Account Management Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: current_employer
+      label: Current or Most Recent Employer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: current_job_title
+      label: Current or Most Recent Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: industry_experience
+      label: Industry Experience
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Technology
+      - Finance and banking
+      - Healthcare
+      - Retail and e-commerce
+      - Manufacturing
+      - Professional services
+      - Telecommunications
+      - Other
+      required: true
+    - id: 12
+      name: largest_account_size
+      label: Largest Account Portfolio Managed (annual revenue)
+      hint: null
+      type: select_one
+      options:
+      - Under $100,000
+      - $100,000 - $500,000
+      - $500,000 - $1 million
+      - $1 million - $5 million
+      - Over $5 million
+      required: true
+    - id: 13
+      name: crm_tools
+      label: CRM Tools You Have Experience With
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Salesforce
+      - HubSpot
+      - Microsoft Dynamics
+      - Zoho CRM
+      - Pipedrive
+      - Other
+      - None
+      required: false
+    - id: 14
+      name: section_education
+      label: -- Education and Skills --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: highest_education
+      label: Highest Level of Education
+      hint: null
+      type: select_one
+      options:
+      - High school diploma
+      - Associate degree
+      - Bachelor degree
+      - Master degree
+      - Doctorate
+      - Other
+      required: true
+    - id: 16
+      name: key_skills
+      label: Key Skills
+      hint: Select your top skills
+      type: select_multiple
+      options:
+      - Client relationship management
+      - Negotiation
+      - Strategic planning
+      - Data analysis
+      - Presentation skills
+      - Cross-functional collaboration
+      - Revenue forecasting
+      required: true
+    - id: 17
+      name: section_availability
+      label: -- Availability --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: available_start_date
+      label: Earliest Available Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: salary_expectation
+      label: Salary Expectation (Annual)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: willing_to_relocate
+      label: Are You Willing to Relocate
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Depends on location
+      required: true
+    - id: 21
+      name: cover_letter
+      label: Cover Letter or Additional Information
+      hint: Tell us why you are a great fit for this role
+      type: text
+      options: []
+      required: false

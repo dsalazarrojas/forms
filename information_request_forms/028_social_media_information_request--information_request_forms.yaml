@@ -1,0 +1,42 @@
+inputSchema:
+  type: object
+  properties:
+    title: Social Media Information Request
+    pages:
+    - id: 1
+      name: social_media_info_request_title
+      label: Social Media Info Request Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: social_media_info_request_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: social_media_info_request_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: social_media_info_request_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: social_media_info_request_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Public Awareness Material Request Form
+    pages:
+    - id: 1
+      name: page_1
+      label: Public Awareness Material Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: page_2
+      label: None
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: form_submission
+      label: Submission Details
+      hint: Please fill out the form completely and accurately
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: information_requested
+      label: What information are you requesting?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: digital_assets
+      label: Digital Assets
+      hint: null
+      type: select_multiple
+      options:
+      - brochures
+      - posters
+      - digital_assets
+      required: false
+    - id: 6
+      name: request_quantity
+      label: Quantity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false

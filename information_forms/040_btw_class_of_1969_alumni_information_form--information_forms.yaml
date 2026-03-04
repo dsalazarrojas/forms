@@ -1,0 +1,171 @@
+inputSchema:
+  type: object
+  properties:
+    title: BTW Class Of 1969 Alumni Information Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: maiden_name
+      label: Maiden Name (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Current email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: current_address
+      label: Current Address
+      hint: Full street address
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: state_zip
+      label: State and ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: employment_status
+      label: Current Employment Status
+      hint: null
+      type: select_one
+      options:
+      - Employed
+      - Self-employed
+      - Retired
+      - Unemployed
+      - Student
+      - Other
+      required: false
+    - id: 11
+      name: profession
+      label: Profession or Career Field
+      hint: What is your occupation?
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: company_name
+      label: Company or Organization Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: family_status
+      label: Family Status
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Married
+      - Divorced
+      - Widowed
+      - Prefer not to say
+      required: false
+    - id: 14
+      name: number_of_children
+      label: Number of Children
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: memorable_school_experiences
+      label: Memorable School Experiences
+      hint: Share your favorite memories
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: highlight_achievements
+      label: Notable Achievements Since Graduation
+      hint: Accomplishments, awards, milestones
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: stay_in_touch
+      label: Interested in Staying in Touch with Classmates?
+      hint: null
+      type: select_one
+      options:
+      - Yes, definitely
+      - Maybe
+      - false
+      required: false
+    - id: 18
+      name: class_reunion_interest
+      label: Interested in Class Reunion Events?
+      hint: null
+      type: select_one
+      options:
+      - Very interested
+      - Somewhat interested
+      - Not interested
+      required: false
+    - id: 19
+      name: social_media
+      label: Social Media Profile (optional)
+      hint: Facebook, LinkedIn, etc.
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: photo_permission
+      label: Permission to Share Photo in Directory?
+      hint: null
+      type: select_one
+      options:
+      - Yes, happy to share
+      - No, prefer not to
+      required: false
+    - id: 21
+      name: additional_information
+      label: Additional Information
+      hint: Anything else you would like to share?
+      type: text
+      options: []
+      required: false

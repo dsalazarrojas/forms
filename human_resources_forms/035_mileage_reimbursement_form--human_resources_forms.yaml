@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Mileage Reimbursement Form
+    pages:
+    - id: 1
+      name: travel_dates
+      label: Travel Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: mileage_amount
+      label: Mileage Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: reimbursement_amount
+      label: Reimbursement Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: reason_for_travel
+      label: Reason for Travel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: business_purpose
+      label: Business Purpose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: expense_details
+      label: Expense Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: submitted_to
+      label: Submitted To
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: approval_by
+      label: Approval By
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 14
+      name: reimbursement_status
+      label: Reimbursement Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 15
+      name: form_status
+      label: Form Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      required: false
+    - id: 16
+      name: form_notes
+      label: Form Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: updated_date
+      label: Updated Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: created_by
+      label: Created By
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: created_date
+      label: Created Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: assigned_by
+      label: Assigned By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: form_comments
+      label: Form Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submission_id
+      label: Submission ID
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

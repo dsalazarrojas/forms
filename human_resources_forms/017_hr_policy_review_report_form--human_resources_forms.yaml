@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: hr-policy-review-report-form
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: department_id
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: policy_name
+      label: Policy Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: policy_category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: policy_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: policy_ratings
+      label: Ratings
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: policy_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: policy_approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Not Approved
+      - Pending
+      required: false
+    - id: 9
+      name: policy_review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: policy_reviewer
+      label: Reviewer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: employee_contacts
+      label: Employee Contacts
+      hint: null
+      type: select_multiple
+      options:
+      - John Doe
+      - Jane Doe
+      - Bob Smith
+      required: false
+    - id: 12
+      name: manager_approval_status
+      label: Manager Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Not Approved
+      - Pending
+      required: false
+    - id: 13
+      name: policy_review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - In Progress
+      - Not Started
+      required: false
+    - id: 14
+      name: review_comments
+      label: Review Comments
+      hint: null
+      type: text
+      options: []
+      required: false

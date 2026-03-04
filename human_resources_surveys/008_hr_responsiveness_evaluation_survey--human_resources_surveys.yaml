@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: HR Responsiveness Evaluation Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: This is where you can write a brief introduction to this survey
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: question1_title
+      label: How quickly does the HR department respond to your questions?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Always''}'
+      - '{''value'': ''Most of the time''}'
+      - '{''value'': ''Sometimes''}'
+      - '{''value'': ''Rarely''}'
+      required: false
+    - id: 4
+      name: question1_comment
+      label: Comments
+      hint: Please add any comments
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: question2_title
+      label: How would you rate the professionalism of the HR department?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Very Good''}'
+      - '{''value'': ''Good''}'
+      - '{''value'': ''Fair''}'
+      - '{''value'': ''Very Poor''}'
+      required: false
+    - id: 6
+      name: question2_comment
+      label: Comments
+      hint: Please add any comments
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: question3_title
+      label: How would you rate the effectiveness of the HR department?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Very Good''}'
+      - '{''value'': ''Good''}'
+      - '{''value'': ''Fair''}'
+      - '{''value'': ''Very Poor''}'
+      required: false
+    - id: 8
+      name: question3_comment
+      label: Comments
+      hint: Please add any comments
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: submission
+      label: Submit
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''HR''}'
+      - '{''value'': ''Manager''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 10
+      name: question4_title
+      label: How do you rate the speed of response of HR department?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Very Good''}'
+      - '{''value'': ''Good''}'
+      - '{''value'': ''Fair''}'
+      - '{''value'': ''Very Poor''}'
+      required: false
+    - id: 11
+      name: question4_comment
+      label: Comments
+      hint: Please add any comments
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: feedback
+      label: Feedback
+      hint: Is there any other feedback about the HR department?
+      type: text
+      options: []
+      required: false

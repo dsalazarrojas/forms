@@ -1,0 +1,84 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Employee Check In Attendance Form
+    pages:
+    - id: 1
+      name: employee_check_in_shift
+      label: Employee Check In Shift
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Shift 1''}'
+      - '{''id'': 2, ''label'': ''Shift 2''}'
+      - '{''id'': 3, ''label'': ''Shift 3''}'
+      required: false
+    - id: 2
+      name: employee_check_in_location
+      label: Employee Check In Location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Location 1''}'
+      - '{''id'': 2, ''label'': ''Location 2''}'
+      - '{''id'': 3, ''label'': ''Location 3''}'
+      required: false
+    - id: 3
+      name: employee_check_in_date
+      label: Employee Check In Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: employee_check_in_time
+      label: Employee Check In Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: employee_check_out_location
+      label: Employee Check Out Location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Location 1''}'
+      - '{''id'': 2, ''label'': ''Location 2''}'
+      - '{''id'': 3, ''label'': ''Location 3''}'
+      required: false
+    - id: 6
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: employee_check_out_time
+      label: Employee Check Out Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Jim''}'
+      - '{''id'': 2, ''label'': ''Jane''}'
+      - '{''id'': 3, ''label'': ''John''}'
+      required: false

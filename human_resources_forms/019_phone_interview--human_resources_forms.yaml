@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Phone Interview
+    pages:
+    - id: 1
+      name: phone_interview_form
+      label: phone_interview_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: first_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: position
+      label: position
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 10, ''name'': ''job_candidate'', ''label'': ''job_candidate''}'
+      - '{''id'': 11, ''name'': ''job_manager'', ''label'': ''job_manager''}'
+      - '{''id'': 12, ''name'': ''job_director'', ''label'': ''job_director''}'
+      required: false
+    - id: 5
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Security System Monitoring Form
+    pages:
+    - id: 1
+      name: security_system_monitoring_form_input
+      label: report_an_incident
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incident_description
+      label: describe_the_incident
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: incident_location
+      label: incident_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: incident_category
+      label: choose_a_category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: incident_date
+      label: incident_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: monitor_system_performance
+      label: monitor_system_performance
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: maintenance_request
+      label: submit_request
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: incident_time
+      label: time_of_incident
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: security_clearance
+      label: enter_your_clearance
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

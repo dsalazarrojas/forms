@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: City Information Collection Form
+    pages:
+    - id: 1
+      name: organization_name
+      label: Organization name
+      hint: Agency or group collecting data
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_person
+      label: Contact person
+      hint: Primary researcher or contact
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: For follow up and clarifications
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: survey_area
+      label: Survey area or neighborhood
+      hint: Geographic coverage
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: population_target
+      label: Target population
+      hint: Demographic groups included
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: data_collection_methods
+      label: Data collection methods
+      hint: Choose methods used
+      type: select_multiple
+      options:
+      - Online survey
+      - Face to face
+      - Phone interview
+      - Administrative records
+      required: true
+    - id: 7
+      name: estimated_sample_size
+      label: Estimated sample size
+      hint: Number of expected responses
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: primary_objective
+      label: Primary objective of collection
+      hint: Short project description
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: data_privacy_measures
+      label: Data privacy measures
+      hint: Describe safeguards briefly
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submission_date
+      label: Submission date
+      hint: Enter today date
+      type: date
+      options: []
+      required: true

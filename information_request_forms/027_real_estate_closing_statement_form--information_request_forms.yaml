@@ -1,0 +1,53 @@
+inputSchema:
+  type: object
+  properties:
+    title: Real Estate Closing Statement Form
+    pages:
+    - id: 1
+      name: real_estate_closing_statement_form
+      label: Real Estate Closing Statement Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: seller
+      label: seller
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: buyer
+      label: buyer
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: closing_date
+      label: closing_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: closing_price
+      label: closing_price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: property_sold
+      label: property_sold
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

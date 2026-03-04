@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: employee_of_the_month_form
+    pages:
+    - id: 1
+      name: employee_of_the_month_form
+      label: employee_of_the_month_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: department_id
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - Department A
+      - Department B
+      - Department C
+      required: false
+    - id: 4
+      name: manager_id
+      label: manager
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 5
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: reason_for_award
+      label: reason_for_award
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: employee_comments
+      label: employee_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: manager_comments
+      label: manager_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: employee_of_the_month_award
+      label: employee_of_the_month_award
+      hint: null
+      type: select_multiple
+      options:
+      - Award 1
+      - Award 2
+      - Award 3
+      required: false
+    - id: 11
+      name: month_of_year
+      label: month_of_year
+      hint: null
+      type: select_multiple
+      options:
+      - January
+      - February
+      - March
+      - April
+      - May
+      - June
+      - July
+      - August
+      - September
+      - October
+      - November
+      - December
+      required: false
+    - id: 12
+      name: year_of_award
+      label: year_of_award
+      hint: null
+      type: number
+      options: []
+      required: false

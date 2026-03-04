@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Operator Information Collection Form
+    pages:
+    - id: 1
+      name: operator_information_collection_form_1
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: operator_information_collection_form_2
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: YYYY-MM-DD
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: operator_id
+      label: Operator ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: 'format: 123-456-7890'
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: operator_location
+      label: Operator Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: operator_department
+      label: Operator Department
+      hint: null
+      type: select_one
+      options:
+      - Operator HR
+      - Safety
+      - Operations
+      required: true
+    - id: 10
+      name: operator_supervisor
+      label: Operator Supervisor
+      hint: Enter Supervisor name or ID
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: operator_manager
+      label: Operator Manager
+      hint: Enter Manager name or ID
+      type: text
+      options: []
+      required: false

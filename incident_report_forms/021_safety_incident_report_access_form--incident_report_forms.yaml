@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: safety_incident_report_access_form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_email
+      label: Employee Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: employee_phone
+      label: Employee Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: incident_location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 6
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: employee_department
+      label: Employee Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: employee_position
+      label: Employee Position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: incident_investigated_by
+      label: Investigated by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: incident_investigation_status
+      label: Investigation Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 14
+      name: incident_investigation_date
+      label: Investigation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: incident_investigation_details
+      label: Investigation Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: incident_investigation_closed
+      label: Investigation Closed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: incident_investigation_closed_by
+      label: Investigation Closed by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: incident_investigation_closed_date
+      label: Investigation Closed Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: incident_investigation_closed_by
+      label: Investigation Closed by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: incident_investigation_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 21
+      name: incident_investigator
+      label: Investigator
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: incident_reporter
+      label: Reporter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: incident_submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: incident_status
+      label: Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: prophets
+      label: Prophets
+      hint: null
+      type: text
+      options: []
+      required: false

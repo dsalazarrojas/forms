@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Warehouse Staff ID Reissue Request Form
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: warehouse_id
+      label: Warehouse ID
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: date_of_reissue
+      label: Date of Reissue
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: reason_for_reissue
+      label: Reason for Reissue
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: manager_approval
+      label: Manager Approval
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: warehouse_manager_name
+      label: Warehouse Manager
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: manager_approval_date
+      label: Manager Approval Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: employee_status
+      label: Employee Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 9
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: supervisor_name
+      label: Supervisor
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: employee_name
+      label: Employee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: employee_email
+      label: Employee Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: employee_phone
+      label: Employee Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: manager_phone
+      label: Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: form_submitted
+      label: Form Submitted
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: form_status
+      label: Form Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 21
+      name: submitted_to
+      label: Submitted To
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: submitted_by_email
+      label: Submitted By Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 23
+      name: submitted_by_phone
+      label: Submitted By Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitted_by_manager
+      label: Submitted By Manager
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: submitted_by_department
+      label: Submitted By Department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

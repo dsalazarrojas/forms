@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Disciplinary Action Follow Up Form
+    pages:
+    - id: 1
+      name: employee_disciplinary_action_follow_up_form_action_status
+      label: Action Status
+      hint: null
+      type: select_one
+      options:
+      - Action Status
+      - Other
+      required: true
+    - id: 2
+      name: employee_disciplinary_action_follow_up_form_action_date
+      label: Action Date
+      hint: Date of action
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: employee_disciplinary_action_follow_up_form_last_conducted
+      label: Last Conducted
+      hint: Date last action was conducted
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: employee_disciplinary_action_follow_up_form_last_contact
+      label: Last Contact
+      hint: Date last contact was made
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: employee_disciplinary_action_follow_up_form_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: employee_disciplinary_action_follow_up_form_outcome
+      label: Outcome
+      hint: null
+      type: select_multiple
+      options:
+      - Outcome
+      - Other
+      required: false
+    - id: 7
+      name: employee_disciplinary_action_follow_up_form_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: employee_disciplinary_action_follow_up_form_outcomes_follow_up_required
+      label: Outcomes Follow Up Required
+      hint: null
+      type: select_multiple
+      options:
+      - Outcomes Follow Up Required
+      - Other
+      required: false

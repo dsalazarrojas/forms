@@ -1,0 +1,132 @@
+inputSchema:
+  type: object
+  properties:
+    title: Dictionary Lookup Request Form
+    pages:
+    - id: 1
+      name: dictionary_lookup_request_form_title
+      label: Dictionary Lookup Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: terminology_request_description
+      label: Terminology Request Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: request_definition_term
+      label: Definition Term
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 4
+      name: request_definition_language
+      label: Request Definition Language
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 5
+      name: definition
+      label: Definition
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: translation_request
+      label: Translation Request
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 7
+      name: language
+      label: Language
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 8
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 9
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 12
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

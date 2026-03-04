@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee New Hire Form
+    pages:
+    - id: 1
+      name: new_hire_details
+      label: New Hire Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: job_status
+      label: Job Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Active''}'
+      - '{''label'': ''Inactive''}'
+      - '{''label'': ''Probationary''}'
+      required: false
+    - id: 5
+      name: job_category
+      label: Job Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''HR''}'
+      - '{''label'': ''Operations''}'
+      - '{''label'': ''Finance''}'
+      required: false
+    - id: 7
+      name: location
+      label: Location
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Downtown''}'
+      - '{''label'': ''Remote''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 8
+      name: date_of_hire
+      label: Date of Hire
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: prophets_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: hire_time
+      label: Time of Hire
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: job_code
+      label: Job Code
+      hint: null
+      type: text
+      options: []
+      required: false

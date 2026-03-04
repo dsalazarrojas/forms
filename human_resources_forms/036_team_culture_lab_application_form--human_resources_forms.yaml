@@ -1,0 +1,142 @@
+inputSchema:
+  type: object
+  properties:
+    title: Team Culture Lab Application Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: position
+      label: Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: program_interest
+      label: Program Interest
+      hint: null
+      type: select_one
+      options:
+      - Team Building
+      - Culture Building
+      - Communication
+      - Team Culture
+      - Innovation
+      required: false
+    - id: 9
+      name: availability
+      label: Availability
+      hint: null
+      type: select_multiple
+      options:
+      - Monday to Friday
+      - Monday to Thursday
+      - Tuesday to Thursday
+      - Wednesday to Friday
+      - Tuesday and Thursday
+      - Wednesday to Sunday
+      - Thursday to Monday
+      - Friday to Tuesday
+      - Sunday to Monday
+      required: true
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: agree_terms
+      label: Agree to terms
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 12
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: team_size
+      label: Team Size
+      hint: null
+      type: select_multiple
+      options:
+      - 1-5
+      - 6-10
+      - 11-15
+      - 16-20
+      - 21-25
+      - 26-30
+      - 31-35
+      - 36-40
+      - More
+      required: true
+    - id: 14
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: project_lead
+      label: Project Lead
+      hint: null
+      type: text
+      options: []
+      required: false

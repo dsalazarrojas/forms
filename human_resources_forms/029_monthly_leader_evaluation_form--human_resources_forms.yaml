@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: monthly leader evaluation form
+    pages:
+    - id: 1
+      name: form_title
+      label: Monthly Leader Evaluation Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: manager_name
+      label: manager name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employee_name
+      label: employee name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: performance_indicators
+      label: performance indicators
+      hint: Select the performance indicators that the leader has met or exceeded
+        in the past month.
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 5
+      name: areas_of_improvement
+      label: areas of improvement
+      hint: Select the areas where the leader needs improvement in the past month.
+      type: select_multiple
+      options:
+      - Time Management
+      - Communication
+      - Team Work
+      - Leadership
+      - Other
+      required: false
+    - id: 6
+      name: overall_evaluation
+      label: overall evaluation
+      hint: Rate the leader's overall performance based on your feedback.
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: false
+    - id: 7
+      name: additional_comments
+      label: additional comments
+      hint: Provide any additional comments or suggestions.
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_submitted
+      label: date submitted
+      hint: Date the feedback was submitted.
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: employee_id
+      label: employee id
+      hint: Employee ID number
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: manager_id
+      label: manager id
+      hint: Manager ID number
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: evaluation_period
+      label: evaluation period
+      hint: Evaluate the leader during this period
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: manager_name_title
+      label: manager name title
+      hint: null
+      type: text
+      options: []
+      required: false

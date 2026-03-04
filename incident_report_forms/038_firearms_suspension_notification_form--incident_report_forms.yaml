@@ -1,0 +1,151 @@
+inputSchema:
+  type: object
+  properties:
+    title: Firearms Suspension Notification Form
+    pages:
+    - id: 1
+      name: firearm_suspension_details
+      label: Suspension Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: firearm_license_number
+      label: Firearm License Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: firearm_type
+      label: Firearm Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: reason_for_suspension
+      label: Reason for Suspension
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: suspension_date
+      label: Suspension Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: suspension_expires
+      label: Suspension Expires
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: firearm_owner_first_name
+      label: Firearm Owner First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: firearm_owner_last_name
+      label: Firearm Owner Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: firearm_owner_address_1
+      label: Firearm Owner Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: firearm_suspension_by
+      label: Suspended By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: firearm_suspension_reason
+      label: Suspension Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: firearm_suspension_notes
+      label: Suspension Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: incident_officer
+      label: Officer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: incident_officer_number
+      label: Officer Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: incident_officer_department
+      label: Officer Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: incident_officer_agency
+      label: Officer Agency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: firearm_suspended_by_agency
+      label: Agency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: firearm_suspended_by_officer
+      label: Suspended By Officer
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

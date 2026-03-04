@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Career Path Review Request Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Include area code
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: job_title
+      label: Current Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: manager_name
+      label: Direct Manager's Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: tenure_years
+      label: Years in Current Position
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: years_company
+      label: Years with Company
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: review_request_date
+      label: Date of Review Request
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: review_reason
+      label: Reason for Requesting Career Path Review
+      hint: Why are you requesting this review?
+      type: select_one
+      options:
+      - Considering promotion
+      - Looking for development opportunities
+      - Career transition planning
+      - Performance discussion
+      - Annual development planning
+      - Skill development goals
+      - Other reason
+      required: true
+    - id: 12
+      name: career_aspirations
+      label: Your Career Aspirations
+      hint: Where do you want your career to go?
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: short_term_goals
+      label: Short-Term Goals (Next 12 Months)
+      hint: What do you want to accomplish?
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: long_term_goals
+      label: Long-Term Career Goals (3-5 Years)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: strengths
+      label: Your Key Strengths
+      hint: What do you do well?
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: development_areas
+      label: Areas for Development
+      hint: What skills would you like to improve?
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: skill_gaps
+      label: Skills Needed for Career Goals
+      hint: What new competencies do you need?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: training_interests
+      label: Training or Development Interests
+      hint: Courses, certifications, programs you want
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: advancement_readiness
+      label: Do You Feel Ready for Advancement?
+      hint: null
+      type: select_one
+      options:
+      - Yes - ready for promotion
+      - Mostly - need some development
+      - Somewhat - significant development needed
+      - No - need more experience
+      required: true
+    - id: 20
+      name: obstacles_challenges
+      label: Obstacles or Challenges to Progress
+      hint: What prevents you from advancing?
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: mentor_coach_interest
+      label: Interest in Mentoring or Coaching
+      hint: Do you want mentorship support?
+      type: select_one
+      options:
+      - Yes - very interested
+      - Yes - somewhat interested
+      - Neutral - open to it
+      - No - not interested
+      required: false
+    - id: 22
+      name: lateralMove_interest
+      label: Open to Lateral Moves or Role Changes?
+      hint: Different role at same level?
+      type: select_one
+      options:
+      - Yes - interested in different roles
+      - Somewhat - open to exploring
+      - Prefer vertical advancement
+      - No - want to stay in current role
+      required: false
+    - id: 23
+      name: expected_outcomes
+      label: Expected Outcomes from This Review
+      hint: What do you hope to achieve?
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: preferred_review_focus
+      label: Preferred Focus Areas for Review
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Career progression path
+      - Skills and competencies
+      - Training and development needs
+      - Compensation and benefits
+      - Work-life balance
+      - Role responsibilities
+      - Team dynamics
+      - Performance evaluation
+      - Leadership potential
+      - Educational opportunities
+      required: true
+    - id: 25
+      name: additional_information
+      label: Additional Information or Comments
+      hint: Any other details for the reviewer?
+      type: text
+      options: []
+      required: false

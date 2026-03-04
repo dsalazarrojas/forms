@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: employee_survey_data_analytics_fellowship_application
+    pages:
+    - id: 1
+      name: form_details
+      label: Form Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_title
+      label: job_title
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: resume
+      label: Resume
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: experience
+      label: Experience
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: skills
+      label: Skills
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

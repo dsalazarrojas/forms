@@ -1,0 +1,105 @@
+inputSchema:
+  type: object
+  properties:
+    title: Information Technology Services Server Request Form
+    pages:
+    - id: 1
+      name: server_request_form
+      label: Request Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: server_type
+      label: Server Type
+      hint: null
+      type: select_one
+      options:
+      - Dell
+      - HP
+      - IBM
+      required: false
+    - id: 3
+      name: server_status
+      label: Server Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Offline
+      - Maintenance
+      required: false
+    - id: 4
+      name: server_location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: server_priority
+      label: Priority
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: description
+      label: Description
+      hint: Briefly describe the request
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: assigned_technician
+      label: Assigned Technician
+      hint: null
+      type: select_one
+      options:
+      - Bob
+      - Jane
+      - John
+      required: false
+    - id: 8
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: request_time
+      label: Request Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: additional_info
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false

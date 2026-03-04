@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Position Specific Assessment Form
+    pages:
+    - id: 1
+      name: candidate_details
+      label: Candidate Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: role_requirements
+      label: Role Requirements
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''leadership'', ''label'': ''Leadership Skills''}'
+      - '{''value'': ''collaboration'', ''label'': ''Collaboration''}'
+      - '{''value'': ''communication'', ''label'': ''Communication''}'
+      required: false
+    - id: 3
+      name: evaluation_criteria
+      label: Evaluation Criteria
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''leadership'', ''label'': ''Leadership Skills''}'
+      - '{''value'': ''collaboration'', ''label'': ''Collaboration''}'
+      - '{''value'': ''communication'', ''label'': ''Communication''}'
+      required: false
+    - id: 4
+      name: assessment_scale
+      label: Assessment Scale
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submission_date_time
+      label: Submission Date Time
+      hint: null
+      type: date
+      options: []
+      required: false

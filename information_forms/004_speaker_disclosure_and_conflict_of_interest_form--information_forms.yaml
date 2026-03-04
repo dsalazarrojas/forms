@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Speaker Disclosure And Conflict Of Interest Form
+    pages:
+    - id: 1
+      name: speaker_name
+      label: Speaker Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: speaker_position
+      label: Speaker Position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: speaker_organization
+      label: Speaker Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: affiliation_1
+      label: Affiliation 1
+      hint: null
+      type: select_one
+      options:
+      - Academia
+      - Industry
+      - Government
+      - Non-profit
+      - Other
+      required: true
+    - id: 5
+      name: affiliation_2
+      label: Affiliation 2
+      hint: null
+      type: select_one
+      options:
+      - Academia
+      - Industry
+      - Government
+      - Non-profit
+      - Other
+      required: false
+    - id: 6
+      name: affiliation_3
+      label: Affiliation 3
+      hint: null
+      type: select_multiple
+      options:
+      - Academia
+      - Industry
+      - Government
+      - Non-profit
+      - Other
+      required: false
+    - id: 7
+      name: has_financial_relationship
+      label: Have financial relationship with organization?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: financial_relationship
+      label: Financial Relationship
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Honoraria
+      - Funding
+      - Research Grant
+      - Speaker Bureau
+      - Employment
+      required: true
+    - id: 9
+      name: financial_value
+      label: Financial Value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: conflict
+      label: Do you have any financial conflicts of interest?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: conflict_type
+      label: Type
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Patent
+      - Stock Options
+      - Stock Grants
+      - Royalties
+      - Honoraria
+      - Consulting Fees
+      - Research Support
+      - Travel
+      - Speaker Bureau
+      - Other
+      required: true
+    - id: 12
+      name: conflict_details
+      label: Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: speaker_disclosure
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: terms_of_service
+      label: Terms of Service
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: speaker_disclosure_agreement
+      label: Speaker Disclosure Agreement
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: speaker_contact
+      label: Speaker Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: speaker_organization
+      label: Speaker Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: speaker_address
+      label: Speaker Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: speaker_phone
+      label: Speaker Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: speaker_email
+      label: Speaker Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: speaker_disclosure_form_submission_agreement
+      label: Speaker Disclosure Form Submission
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pay Equity Verification Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: job_category
+      label: Job Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: salary
+      label: Salary
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: hours_worked
+      label: Hours Worked
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: pay_period
+      label: Pay Period
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: pay_basis
+      label: Pay Basis
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: benefits
+      label: Benefits
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: job_classification
+      label: Job Classification
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

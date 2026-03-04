@@ -1,0 +1,153 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Pharmaceutical Trial Adverse Event Incident Report
+    pages:
+    - id: 1
+      name: incident_summary
+      label: Incident Summary
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: sponsor
+      label: sponsor
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Sponsor''}'
+      - '{''id'': 2, ''label'': ''Research Site''}'
+      - '{''id'': 3, ''label'': ''Investigator''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: true
+    - id: 3
+      name: date_of_event
+      label: date_of_event
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: time_of_event
+      label: time_of_event
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: location_of_event
+      label: location_of_event
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: description_of_event
+      label: description_of_event
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: adverse_event_cause
+      label: adverse_event_cause
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: adverse_event_type
+      label: adverse_event_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Adverse Event''}'
+      - '{''id'': 2, ''label'': ''Serious Adverse Event''}'
+      - '{''id'': 3, ''label'': ''Serious and Unexpected Adverse Event''}'
+      - '{''id'': 4, ''label'': ''Unexpected Adverse Event''}'
+      required: true
+    - id: 9
+      name: patient
+      label: patient
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Male''}'
+      - '{''id'': 2, ''label'': ''Female''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: true
+    - id: 10
+      name: medication
+      label: medication
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: dose
+      label: dose
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: frequency
+      label: frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: stop_date
+      label: stop_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: reason_for_stopping
+      label: reason_for_stopping
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: outcome
+      label: outcome
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: followup_date
+      label: followup_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: next_followup_date
+      label: next_followup_date
+      hint: null
+      type: date
+      options: []
+      required: false

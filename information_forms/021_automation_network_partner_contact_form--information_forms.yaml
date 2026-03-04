@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: Automation Network Partner Contact Form
+    pages:
+    - id: 1
+      name: section_header_contact
+      label: -- Contact Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: section_header_company
+      label: -- Company Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: company_website
+      label: Company Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: company_industry
+      label: Industry
+      hint: null
+      type: select_one
+      options:
+      - Software
+      - Hardware
+      - Consulting
+      - Manufacturing
+      - Systems Integration
+      - Reselling
+      - Other
+      required: true
+    - id: 10
+      name: company_size
+      label: Company Size
+      hint: null
+      type: select_one
+      options:
+      - Startup (1-20 employees)
+      - Small (21-100 employees)
+      - Medium (101-500 employees)
+      - Large (500+ employees)
+      required: true
+    - id: 11
+      name: company_headquarters
+      label: Headquarters Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: section_header_partnership
+      label: -- Partnership Interest --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: partnership_type
+      label: Type of Partnership Interested In
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Technology Integration
+      - Reseller
+      - VAR (Value Added Reseller)
+      - OEM (Original Equipment Manufacturer)
+      - Consulting Partner
+      - Channel Partner
+      - Strategic Alliance
+      required: true
+    - id: 14
+      name: partnership_experience
+      label: Partnership Experience
+      hint: null
+      type: select_one
+      options:
+      - No Prior Experience
+      - Limited Experience
+      - Experienced
+      - Highly Experienced
+      required: true
+    - id: 15
+      name: current_partnerships
+      label: Current Partnerships
+      hint: Are you partnered with any competitors?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: section_header_focus
+      label: -- Focus Areas --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: automation_focus
+      label: Automation Focus Areas
+      hint: null
+      type: select_multiple
+      options:
+      - RPA (Robotic Process Automation)
+      - Workflow Automation
+      - Integration
+      - Testing Automation
+      - Cloud Automation
+      - Infrastructure Automation
+      - Business Process Automation
+      - Other
+      required: true
+    - id: 18
+      name: target_market
+      label: Target Market Segments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: section_header_capabilities
+      label: -- Capabilities and Resources --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: key_capabilities
+      label: Key Capabilities
+      hint: What do you bring to a partnership?
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: dedicated_resources
+      label: Dedicated Resources Available
+      hint: null
+      type: select_one
+      options:
+      - Full-time Team
+      - Part-time Team
+      - Limited Resources
+      - To Be Determined
+      required: true
+    - id: 22
+      name: section_header_motivation
+      label: -- Partnership Motivation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: partnership_interest
+      label: Why Are You Interested in Partnering
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: expected_outcome
+      label: Expected Outcome From Partnership
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: contact_date
+      label: Date of Contact
+      hint: null
+      type: date
+      options: []
+      required: true

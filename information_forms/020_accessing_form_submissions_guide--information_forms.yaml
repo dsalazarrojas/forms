@@ -1,0 +1,156 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Accessing Form Submissions Guide
+    pages:
+    - id: 1
+      name: guide_creator_name
+      label: Guide Creator Name
+      hint: Name of the person creating this guide
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: creator_department
+      label: Creator Department
+      hint: Department of the guide creator
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: creation_date
+      label: Creation Date
+      hint: Date when this guide was created
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: last_updated_date
+      label: Last Updated Date
+      hint: Date when this guide was last updated
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: form_submission_system
+      label: Form Submission System
+      hint: Which system is used for form submissions?
+      type: select_one
+      options: ["JotForm", "Google Forms", "Microsoft Forms", "Typeform", "Custom Solution", "Other"]
+      required: true
+    - id: 6
+      name: access_level_required
+      label: Access Level Required
+      hint: What access level is needed to view form submissions?
+      type: select_one
+      options: ["Admin", "Editor", "Viewer", "Specific Permissions", "Other"]
+      required: true
+    - id: 7
+      name: authentication_method
+      label: Authentication Method
+      hint: How do users authenticate to access submissions?
+      type: select_multiple
+      options: ["Username/Password", "Two-Factor Authentication", "Single Sign-On", "API Key", "OAuth", "Other"]
+      required: true
+    - id: 8
+      name: submission_review_purpose
+      label: Submission Review Purpose
+      hint: What is the primary purpose of reviewing form submissions?
+      type: select_multiple
+      options: ["Data Analysis", "Quality Assurance", "Compliance Monitoring", "Response Management", "Reporting", "Integration", "Other"]
+      required: true
+    - id: 9
+      name: data_retention_policy
+      label: Data Retention Policy
+      hint: How long should form submission data be retained?
+      type: select_one
+      options: ["30 days", "3 months", "6 months", "1 year", "3 years", "Indefinitely", "Other"]
+      required: true
+    - id: 10
+      name: access_frequency
+      label: Access Frequency
+      hint: How often should form submissions be reviewed?
+      type: select_one
+      options: ["Real-time", "Hourly", "Daily", "Weekly", "Monthly", "On-demand", "Other"]
+      required: true
+    - id: 11
+      name: notification_settings
+      label: Notification Settings
+      hint: What notifications are set up for new submissions?
+      type: select_multiple
+      options: ["Email Alerts", "SMS Notifications", "Dashboard Updates", "Slack Messages", "Push Notifications", "None"]
+      required: true
+    - id: 12
+      name: data_export_formats
+      label: Data Export Formats
+      hint: What formats are available for exporting submission data?
+      type: select_multiple
+      options: ["CSV", "Excel", "PDF", "JSON", "XML", "API", "Other"]
+      required: true
+    - id: 13
+      name: privacy_compliance_standards
+      label: Privacy Compliance Standards
+      hint: Which privacy standards must be followed when accessing submissions?
+      type: select_multiple
+      options: ["GDPR", "CCPA", "HIPAA", "SOX", "FERPA", "COPPA", "Other"]
+      required: true
+    - id: 14
+      name: data_classification_level
+      label: Data Classification Level
+      hint: What is the sensitivity level of the form submission data?
+      type: select_one
+      options: ["Public", "Internal", "Confidential", "Highly Confidential", "Restricted"]
+      required: true
+    - id: 15
+      name: authorized_personnel
+      label: Authorized Personnel
+      hint: Who is authorized to access form submissions?
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: access_audit_requirements
+      label: Access Audit Requirements
+      hint: What auditing is required for access to submissions?
+      type: select_multiple
+      options: ["Log all access", "Regular access reviews", "Activity reports", "Permission audits", "None"]
+      required: true
+    - id: 17
+      name: security_protocols
+      label: Security Protocols
+      hint: What security protocols must be followed when accessing submissions?
+      type: select_multiple
+      options: ["Encrypted connections", "Secure workstations", "Clean desk policy", "Session timeouts", "Screen locks", "Other"]
+      required: true
+    - id: 18
+      name: common_issues_troubleshooting
+      label: Common Issues Troubleshooting
+      hint: What are common issues when accessing form submissions and how to resolve them?
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: escalation_procedures
+      label: Escalation Procedures
+      hint: What procedures should be followed if access issues arise?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: additional_guidelines
+      label: Additional Guidelines
+      hint: Any other guidelines for accessing form submissions?
+      type: text
+      options: []
+      required: false

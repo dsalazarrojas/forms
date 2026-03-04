@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Internal Salary Audit Request Form
+    pages:
+    - id: 1
+      name: employee
+      label: Employee Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: salary_details
+      label: Salary Details
+      hint: Please enter the employee's current salary.
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: discrepancy_type
+      label: Salary Discrepancy Type
+      hint: Please choose the type of salary discrepancy.
+      type: select_one
+      options:
+      - Overtime
+      - Bonus
+      - Commission
+      - Other
+      required: false
+    - id: 4
+      name: discrepancy_frequency
+      label: Discrepancy Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Monthly
+      - Quarterly
+      - Semi-Annually
+      - Annually
+      required: false
+    - id: 5
+      name: discrepancy_amount
+      label: Discrepancy Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: reason_for_discrepancy
+      label: Reason for Discrepancy
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: supporting_document
+      label: Supporting Document
+      hint: Please attach a copy of the supporting document.
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: employee_comments
+      label: Employee Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: approver_comments
+      label: Approver Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: reviewer_comments
+      label: Reviewer Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: approver
+      label: Approver
+      hint: null
+      type: select_multiple
+      options:
+      - Manager
+      - HR
+      - Director
+      required: false

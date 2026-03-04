@@ -1,0 +1,88 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Former Employee Information Form
+    pages:
+    - id: 1
+      name: form_section_1
+      label: form_section_1_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: employee_name_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reason_for_leaving
+      label: reason_for_leaving_label
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''poor_compensation'', ''label'': ''poor_compensation''}'
+      - '{''value'': ''lack_of_challenge'', ''label'': ''lack_of_challenge''}'
+      - '{''value'': ''poor_management'', ''label'': ''poor_management''}'
+      required: false
+    - id: 4
+      name: job_did_not_fit
+      label: job_did_not_fit_label
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''lack_of_growth_opportunities'', ''label'': ''lack_of_growth_opportunities''}'
+      - '{''value'': ''lack_of_challenge'', ''label'': ''lack_of_challenge''}'
+      - '{''value'': ''no_match_with_team'', ''label'': ''no_match_with_team''}'
+      required: false
+    - id: 5
+      name: company_values
+      label: company_values_label
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''no_clear_goals'', ''label'': ''no_clear_goals''}'
+      - '{''value'': ''poor_communication'', ''label'': ''poor_communication''}'
+      - '{''value'': ''conflicting_priorities'', ''label'': ''conflicting_priorities''}'
+      required: false
+    - id: 6
+      name: employee_feedback
+      label: employee_feedback_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: manager_name
+      label: manager_name_label
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: last_date_worked
+      label: last_date_worked_label
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: last_date_terminating
+      label: last_date_terminating_label
+      hint: null
+      type: date
+      options: []
+      required: false

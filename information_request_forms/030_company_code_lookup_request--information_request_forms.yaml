@@ -1,0 +1,58 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Company Code Lookup Request
+    pages:
+      - id: 1
+        name: requester_name
+        label: Requester full name
+        hint: Person submitting the lookup request
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: contact_email
+        label: Contact email
+        hint: For response and clarifications
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: company_name_or_vendor
+        label: Company or vendor name
+        hint: Name to search for code
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: reason_for_lookup
+        label: Reason for lookup
+        hint: Why the code is needed
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: required_by_date
+        label: Required by date
+        hint: When you need the code
+        type: date
+        options: []
+        required: false
+      - id: 6
+        name: additional_details
+        label: Additional details
+        hint: Any extra information to assist lookup
+        type: text
+        options: []
+        required: false

@@ -1,0 +1,150 @@
+inputSchema:
+  type: object
+  properties:
+    title: Brand Data Sharing Policy Registration
+    pages:
+    - id: 1
+      name: organization_name
+      label: Organization Name
+      hint: Legal name of your organization
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: organization_type
+      label: Organization Type
+      hint: Select the type of organization
+      type: select_one
+      options:
+      - Corporation
+      - LLC
+      - Partnership
+      - Nonprofit
+      - Government Agency
+      - Educational Institution
+      - Sole Proprietorship
+      required: true
+    - id: 3
+      name: primary_contact_name
+      label: Primary Contact Name
+      hint: Full name of primary contact person
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: primary_contact_email
+      label: Primary Contact Email
+      hint: Email address for primary contact
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: primary_contact_phone
+      label: Primary Contact Phone
+      hint: Phone number for primary contact
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: data_sharing_purpose
+      label: Purpose of Data Sharing
+      hint: Why do you need to share brand data
+      type: select_one
+      options:
+      - Marketing Collaboration
+      - Product Development
+      - Research and Analysis
+      - Customer Service
+      - Business Partnership
+      - Regulatory Compliance
+      required: true
+    - id: 7
+      name: data_types_requested
+      label: Types of Data Requested
+      hint: Select all data types you need access to
+      type: select_multiple
+      options:
+      - Customer Demographics
+      - Purchase History
+      - Brand Assets
+      - Marketing Materials
+      - Analytics Data
+      - Survey Results
+      - Social Media Metrics
+      required: true
+    - id: 8
+      name: data_retention_period
+      label: Data Retention Period
+      hint: How long will you retain the data
+      type: select_one
+      options:
+      - Less than 6 months
+      - 6 to 12 months
+      - 1 to 2 years
+      - 2 to 5 years
+      - Indefinitely with consent
+      required: true
+    - id: 9
+      name: security_measures
+      label: Security Measures in Place
+      hint: Describe your data security measures
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: third_party_sharing
+      label: Will you share with third parties
+      hint: Do you plan to share data with other organizations
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: gdpr_compliance
+      label: GDPR Compliance Status
+      hint: Are you GDPR compliant
+      type: select_one
+      options:
+      - Fully Compliant
+      - Partially Compliant
+      - Not Applicable
+      - Working Towards Compliance
+      required: true
+    - id: 12
+      name: consent_acknowledgment
+      label: Consent Acknowledgment
+      hint: Do you agree to the data sharing terms
+      type: select_one
+      options:
+      - I Agree
+      - I Do Not Agree
+      required: true
+    - id: 13
+      name: authorized_signatory
+      label: Authorized Signatory Name
+      hint: Name of person authorized to sign
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: signatory_title
+      label: Signatory Title
+      hint: Job title of authorized signatory
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: registration_date
+      label: Registration Date
+      hint: Date of this registration
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: additional_terms
+      label: Additional Terms or Comments
+      hint: Any additional terms or conditions
+      type: text
+      options: []
+      required: false

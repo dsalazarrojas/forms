@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Safety Incident Report
+    pages:
+    - id: 1
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: incident_affected_people
+      label: Affected People
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: incident_cause
+      label: Incident Cause
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: incident_reported_by
+      label: Reported By
+      hint: null
+      type: text
+      options: []
+      required: false

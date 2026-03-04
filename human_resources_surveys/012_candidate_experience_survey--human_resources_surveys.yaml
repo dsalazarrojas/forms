@@ -1,0 +1,287 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Candidate Experience Survey
+    pages:
+      - id: 1
+        name: candidate_name
+        label: Your Name
+        hint: Optional - can be anonymous
+        type: text
+        options: []
+        required: false
+      - id: 2
+        name: candidate_email
+        label: Email Address
+        hint: For follow-up if needed
+        type: email
+        options: []
+        required: false
+      - id: 3
+        name: position_applied
+        label: Position You Applied For
+        hint: Job title
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: application_date
+        label: When Did You Apply
+        hint: Approximate date
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: application_status
+        label: Current Application Status
+        hint: Where are you in the process
+        type: select_one
+        options:
+          - Just applied
+          - Phone screening completed
+          - Interview in progress
+          - Interviews completed
+          - Offer received
+          - Offer accepted
+          - Offer declined
+          - Rejected
+          - Withdrew application
+        required: true
+      - id: 6
+        name: overall_experience_rating
+        label: Overall Experience Rating
+        hint: Rate your entire experience
+        type: select_one
+        options:
+          - Excellent
+          - Very good
+          - Good
+          - Fair
+          - Poor
+        required: true
+      - id: 7
+        name: job_description_clarity
+        label: Job Description Clarity
+        hint: Was the role clearly described
+        type: select_one
+        options:
+          - Very clear
+          - Clear
+          - Somewhat clear
+          - Unclear
+          - Very unclear
+        required: true
+      - id: 8
+        name: application_process_ease
+        label: Ease of Application Process
+        hint: How easy was it to apply
+        type: select_one
+        options:
+          - Very easy
+          - Easy
+          - Neutral
+          - Difficult
+          - Very difficult
+        required: true
+      - id: 9
+        name: application_duration
+        label: How Long Did Application Take
+        hint: Time to complete application
+        type: select_one
+        options:
+          - Less than 5 minutes
+          - 5 to 10 minutes
+          - 10 to 20 minutes
+          - 20 to 30 minutes
+          - More than 30 minutes
+        required: true
+      - id: 10
+        name: communication_rating
+        label: Communication from Company
+        hint: Rate communication quality
+        type: select_one
+        options:
+          - Excellent
+          - Very good
+          - Good
+          - Fair
+          - Poor
+          - No communication received
+        required: true
+      - id: 11
+        name: communication_timeliness
+        label: Timeliness of Communication
+        hint: Were responses prompt
+        type: select_one
+        options:
+          - Very timely
+          - Timely
+          - Somewhat timely
+          - Slow
+          - Very slow
+          - No communication
+        required: true
+      - id: 12
+        name: interviewer_professionalism
+        label: Interviewer Professionalism
+        hint: Rate interviewer behavior
+        type: select_one
+        options:
+          - Very professional
+          - Professional
+          - Neutral
+          - Unprofessional
+          - Very unprofessional
+          - Did not interview
+        required: false
+      - id: 13
+        name: interview_process_clarity
+        label: Interview Process Clarity
+        hint: Was process explained clearly
+        type: select_one
+        options:
+          - Very clear
+          - Clear
+          - Somewhat clear
+          - Unclear
+          - Very unclear
+          - Did not interview
+        required: false
+      - id: 14
+        name: interview_difficulty
+        label: Interview Difficulty Level
+        hint: How challenging was interview
+        type: select_one
+        options:
+          - Very easy
+          - Easy
+          - Moderate
+          - Difficult
+          - Very difficult
+          - Did not interview
+        required: false
+      - id: 15
+        name: interview_relevance
+        label: Interview Question Relevance
+        hint: Were questions job-related
+        type: select_one
+        options:
+          - Very relevant
+          - Relevant
+          - Somewhat relevant
+          - Not very relevant
+          - Not relevant at all
+          - Did not interview
+        required: false
+      - id: 16
+        name: interview_duration_appropriate
+        label: Was Interview Length Appropriate
+        hint: Time allocation
+        type: select_one
+        options:
+          - Too short
+          - Appropriate
+          - Too long
+          - Did not interview
+        required: false
+      - id: 17
+        name: facility_rating
+        label: Office or Facility Rating
+        hint: If visited in person
+        type: select_one
+        options:
+          - Excellent
+          - Very good
+          - Good
+          - Fair
+          - Poor
+          - Virtual interview only
+        required: false
+      - id: 18
+        name: technology_experience
+        label: Technology or Platform Experience
+        hint: Rate video interview platform
+        type: select_one
+        options:
+          - Excellent
+          - Very good
+          - Good
+          - Fair
+          - Poor
+          - In-person interview
+        required: false
+      - id: 19
+        name: felt_respected
+        label: Did You Feel Respected
+        hint: Treatment during process
+        type: select_one
+        options:
+          - Yes - very much
+          - Yes
+          - Neutral
+          - No
+          - No - not at all
+        required: true
+      - id: 20
+        name: diversity_inclusion_observed
+        label: Did You Observe Diversity and Inclusion
+        hint: D&I perception
+        type: select_one
+        options:
+          - Yes - strongly evident
+          - Yes - somewhat evident
+          - Neutral or unsure
+          - No - not evident
+          - Prefer not to answer
+        required: false
+      - id: 21
+        name: recommend_to_others
+        label: Would You Recommend Applying Here
+        hint: Net promoter score
+        type: select_one
+        options:
+          - Definitely yes
+          - Probably yes
+          - Not sure
+          - Probably no
+          - Definitely no
+        required: true
+      - id: 22
+        name: what_went_well
+        label: What Went Well
+        hint: Positive aspects
+        type: text
+        options: []
+        required: false
+      - id: 23
+        name: what_needs_improvement
+        label: What Could Be Improved
+        hint: Areas for improvement
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: additional_feedback
+        label: Additional Comments
+        hint: Any other feedback
+        type: text
+        options: []
+        required: false
+      - id: 25
+        name: survey_date
+        label: Survey Completion Date
+        hint: Today date
+        type: date
+        options: []
+        required: true

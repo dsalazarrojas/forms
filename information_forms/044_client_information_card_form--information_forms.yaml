@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Information Card Form
+    pages:
+    - id: 1
+      name: client_first_name
+      label: First Name
+      hint: Your legal first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_last_name
+      label: Last Name
+      hint: Your legal last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: client_address
+      label: Street Address
+      hint: Complete mailing address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: client_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: client_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: client_zip
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: company_name
+      label: Company Name
+      hint: Your business name
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: industry
+      label: Industry
+      hint: Your business sector
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      - Retail
+      - Manufacturing
+      - Education
+      - Hospitality
+      - Real Estate
+      - Professional Services
+      - Other
+      required: false
+    - id: 13
+      name: client_type
+      label: Client Type
+      hint: Your relationship with us
+      type: select_one
+      options:
+      - Individual
+      - Business
+      - Non-Profit
+      - Government
+      - Other
+      required: true
+    - id: 14
+      name: client_status
+      label: Client Status
+      hint: Current status
+      type: select_one
+      options:
+      - Prospective
+      - Active
+      - Inactive
+      - Former
+      required: true
+    - id: 15
+      name: referral_source
+      label: How Did You Hear About Us?
+      hint: Referral source
+      type: select_one
+      options:
+      - Website
+      - Social Media
+      - Referral
+      - Advertisement
+      - Event
+      - Other
+      required: false
+    - id: 16
+      name: referred_by
+      label: Referred By
+      hint: Who referred you?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: How should we reach you?
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - Text Message
+      - Mail
+      required: true
+    - id: 18
+      name: best_time_to_contact
+      label: Best Time to Contact
+      hint: When are you available?
+      type: select_one
+      options:
+      - Morning (8am-12pm)
+      - Afternoon (12pm-5pm)
+      - Evening (5pm-9pm)
+      - Any Time
+      required: false
+    - id: 19
+      name: services_interested
+      label: Services You Are Interested In
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Consulting
+      - Support Services
+      - Training
+      - Products
+      - Maintenance
+      - Other
+      required: false
+    - id: 20
+      name: account_manager
+      label: Assigned Account Manager
+      hint: Your primary contact
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: client_since
+      label: Client Since
+      hint: When did you start?
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: notes
+      label: Additional Notes
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: card_created_date
+      label: Card Created Date
+      hint: null
+      type: date
+      options: []
+      required: true

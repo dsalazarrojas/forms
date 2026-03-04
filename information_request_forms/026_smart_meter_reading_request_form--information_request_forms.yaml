@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Smart Meter Reading Request Form
+    pages:
+    - id: 1
+      name: customer_details
+      label: Customer Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: meter_id
+      label: Meter Id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: preferred_date
+      label: Preferred Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: instructions
+      label: Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: schedule_date
+      label: Schedule Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: meter_type
+      label: Meter Type
+      hint: null
+      type: select_one
+      options:
+      - Electric
+      - Gas
+      - Water
+      required: false
+    - id: 12
+      name: meter_reading_frequency
+      label: Meter Reading Frequency
+      hint: null
+      type: select_one
+      options:
+      - Once A Week
+      - Twice A Week
+      - Daily
+      - Monthly
+      - Quarterly
+      - Semi-Annually
+      - Annually
+      required: false
+    - id: 13
+      name: meter_status
+      label: Meter Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Offline
+      required: false
+    - id: 14
+      name: meter_reading_type
+      label: Meter Reading Type
+      hint: null
+      type: select_one
+      options:
+      - Manual
+      - Automatic
+      - Automatic With Validation
+      required: false
+    - id: 15
+      name: meter_reading_method
+      label: Meter Reading Method
+      hint: null
+      type: select_one
+      options:
+      - Manual
+      - Automatic
+      required: false
+    - id: 16
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: customer_address
+      label: Customer Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: customer_postal_code
+      label: Customer Postal Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: customer_province
+      label: Customer Province
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: meter_reading_request_id
+      label: Meter Reading Request ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: meter_reading_status
+      label: Meter Reading Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Accepted
+      - Rejected
+      required: false
+    - id: 22
+      name: meter_reading_request_date
+      label: Meter Reading Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: meter_reading_request_instructions
+      label: Meter Reading Request Instructions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: meter_reading_requester
+      label: Meter Reading Requester
+      hint: null
+      type: select_one
+      options:
+      - Customer
+      - Utility
+      - Other
+      required: false
+    - id: 25
+      name: meter_reading_requester_notes
+      label: Meter Reading Requester Notes
+      hint: null
+      type: text
+      options: []
+      required: false

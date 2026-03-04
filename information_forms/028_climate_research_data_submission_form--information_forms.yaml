@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Climate Research Data Submission Form
+    pages:
+    - id: 1
+      name: researcher_section
+      label: -- Researcher Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: researcher_name
+      label: Researcher Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: institution
+      label: Institution/Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department/Faculty
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: study_section
+      label: -- Study Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: study_title
+      label: Study Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: study_description
+      label: Brief Study Description
+      hint: Objective and methodology
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: research_focus
+      label: Primary Research Focus
+      hint: null
+      type: select_one
+      options:
+      - Climate modeling
+      - Temperature data
+      - Precipitation patterns
+      - Carbon cycle
+      - Atmospheric chemistry
+      - Ocean science
+      - Ecology/Biodiversity
+      - Policy impact
+      - Other
+      required: true
+    - id: 11
+      name: study_period
+      label: Study Period
+      hint: null
+      type: select_one
+      options:
+      - Historical data
+      - Recent data (1-5 years)
+      - Current ongoing
+      - Projected/Future
+      required: true
+    - id: 12
+      name: geographic_section
+      label: -- Geographic Coverage --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: geographic_scope
+      label: Geographic scope of research
+      hint: null
+      type: select_one
+      options:
+      - Global
+      - Regional
+      - National
+      - Local
+      required: true
+    - id: 14
+      name: specific_locations
+      label: Specific study locations/coordinates
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: data_section
+      label: -- Data Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: data_types
+      label: Types of data collected
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Temperature readings
+      - Precipitation measurements
+      - Sea level data
+      - Ice core samples
+      - Satellite imagery
+      - Field observations
+      - Laboratory analysis
+      - Model outputs
+      - Other
+      required: true
+    - id: 17
+      name: data_volume
+      label: Approximate data volume
+      hint: null
+      type: select_one
+      options:
+      - Less than 1 GB
+      - 1-10 GB
+      - 10-100 GB
+      - 100 GB - 1 TB
+      - More than 1 TB
+      required: false
+    - id: 18
+      name: file_format
+      label: Data file format
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: quality_section
+      label: -- Data Quality and Documentation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: quality_assurance
+      label: Quality assurance procedures applied
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: metadata_availability
+      label: Metadata and documentation available
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Partial
+      required: true
+    - id: 22
+      name: data_availability
+      label: Data availability status
+      hint: null
+      type: select_one
+      options:
+      - Ready for submission
+      - In preparation
+      - Under review
+      - Restricted access
+      required: true

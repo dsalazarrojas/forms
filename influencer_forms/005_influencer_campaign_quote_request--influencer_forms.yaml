@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: <string>
+    pages:
+    - id: 1
+      name: brand_info
+      label: Brand Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: brand_info
+      label: Brand Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: budget
+      label: Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: budget_currency
+      label: Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - JPY
+      required: false
+    - id: 5
+      name: budget_duration
+      label: Duration
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: budget_location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: budget_rate_card
+      label: Rate Card
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: budget_rate_card
+      label: Rate Card
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: budget_frequency
+      label: Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: budget_rate_card_currency
+      label: Rate Card Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - JPY
+      required: false
+    - id: 11
+      name: budget_start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: budget_end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: budget_budget_type
+      label: Budget Type
+      hint: null
+      type: select_multiple
+      options:
+      - Fixed
+      - Hourly
+      - Daily
+      required: false
+    - id: 14
+      name: budget_note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: budget_note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: goals
+      label: Goals
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: amplifier
+      label: Amplifier
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: target_audience
+      label: Target Audience
+      hint: null
+      type: select_multiple
+      options:
+      - Demographic
+      - Interest Group
+      - Niche
+      required: false
+    - id: 19
+      name: target_audience_location
+      label: Location
+      hint: null
+      type: select_multiple
+      options:
+      - Country
+      - Region
+      - City
+      required: false
+    - id: 20
+      name: target_audience_gender
+      label: Gender
+      hint: null
+      type: select_multiple
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 21
+      name: target_audience_gender
+      label: Gender
+      hint: null
+      type: select_multiple
+      options:
+      - Male
+      - Female
+      - Other
+      required: false
+    - id: 22
+      name: campaign_media
+      label: Campaign Media
+      hint: null
+      type: select_multiple
+      options:
+      - Social Media
+      - Video
+      - Image
+      required: false
+    - id: 23
+      name: budget_rate_card_rate
+      label: Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: budget_rate_card_min_budget
+      label: Min Budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: chart
+      label: Chart
+      hint: null
+      type: select_multiple
+      options:
+      - Bar
+      - Line
+      - Pie
+      required: false

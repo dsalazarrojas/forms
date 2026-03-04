@@ -1,0 +1,60 @@
+inputSchema:
+  type: object
+  properties:
+    title: Food Diary Template
+    pages:
+    - id: 1
+      name: breakfast
+      label: breakfast
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: lunch
+      label: lunch
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: dinner
+      label: dinner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: snacks
+      label: snacks
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: meal_time
+      label: meal_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false

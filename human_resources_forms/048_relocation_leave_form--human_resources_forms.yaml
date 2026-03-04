@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Relocation Leave Form
+    pages:
+    - id: 1
+      name: employee
+      label: Employee Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reason_for_relocation
+      label: Reason for relocation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: reason_for_leave
+      label: Reason for Leave
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: return_location
+      label: Return Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: reason_for_return
+      label: Reason for Return
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: relocation_cost
+      label: Relocation Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: return_date
+      label: Return Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Denied
+      - Pending
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

@@ -1,0 +1,432 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cash Handling Incident Report
+    pages:
+    - id: 1
+      name: incident_header
+      label: Cash Handling Incident Report
+      hint: Document cash discrepancies and related incidents
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: incident_id
+      label: Incident ID Number
+      hint: Reference number
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: report_date
+      label: Report Date
+      hint: Date of report
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: report_time
+      label: Report Time
+      hint: Time of report
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: location_info
+      label: Location Information
+      hint: Where incident occurred
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: location_name
+      label: Location or Store Name
+      hint: Facility name
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: department
+      label: Department
+      hint: Specific area
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: register_number
+      label: Register or Till Number
+      hint: Specific register
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: incident_details
+      label: Incident Details
+      hint: What happened
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: incident_date
+      label: Date of Incident
+      hint: When occurred
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: incident_time
+      label: Time of Incident
+      hint: When occurred
+      type: time
+      options: []
+      required: false
+    - id: 12
+      name: incident_type
+      label: Type of Incident
+      hint: Category
+      type: select_one
+      options:
+      - Cash shortage
+      - Cash overage
+      - Counterfeit bill received
+      - Check fraud
+      - Credit card fraud
+      - Theft or suspected theft
+      - Robbery
+      - Safe error
+      - Deposit discrepancy
+      - Other
+      required: true
+    - id: 13
+      name: incident_description
+      label: Detailed Description
+      hint: What happened
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: discovered_by
+      label: Discovered By
+      hint: Who found it
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: discovery_method
+      label: How Was It Discovered
+      hint: Detection method
+      type: select_one
+      options:
+      - Cash count
+      - Register reconciliation
+      - Safe audit
+      - Deposit preparation
+      - Customer complaint
+      - Surveillance review
+      - Tip or report
+      - Other
+      required: true
+    - id: 16
+      name: persons_involved
+      label: Persons Involved
+      hint: Who was involved
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: employee_name
+      label: Employee Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: employee_id
+      label: Employee ID
+      hint: Employee number
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: employee_position
+      label: Employee Position
+      hint: Job title
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: employee_shift
+      label: Employee Shift
+      hint: Work period
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: witnesses
+      label: Witnesses
+      hint: Who saw it
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: financial_impact
+      label: Financial Impact
+      hint: Monetary value
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: amount_involved
+      label: Amount Involved
+      hint: Dollar value
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: currency_denomination
+      label: Currency Denominations
+      hint: Bill types
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: shortage_amount
+      label: Shortage Amount
+      hint: If shortage
+      type: number
+      options: []
+      required: false
+    - id: 26
+      name: overage_amount
+      label: Overage Amount
+      hint: If overage
+      type: number
+      options: []
+      required: false
+    - id: 27
+      name: counterfeit_bills
+      label: Counterfeit Bills Details
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: immediate_actions
+      label: Immediate Actions Taken
+      hint: Response
+      type: note
+      options: []
+      required: false
+    - id: 29
+      name: actions_taken
+      label: Describe Actions Taken
+      hint: What was done
+      type: text
+      options: []
+      required: true
+    - id: 30
+      name: management_notified
+      label: Was Management Notified
+      hint: Escalation
+      type: select_one
+      options:
+      - Yes - immediately
+      - Yes - within 1 hour
+      - Yes - same day
+      - No - pending
+      required: true
+    - id: 31
+      name: manager_name
+      label: Manager Name
+      hint: Notified manager
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: security_notified
+      label: Was Security Notified
+      hint: Security involvement
+      type: select_one
+      options:
+      - Yes - internal security
+      - Yes - external security
+      - Yes - both
+      - false
+      required: false
+    - id: 33
+      name: law_enforcement
+      label: Was Law Enforcement Notified
+      hint: Police involvement
+      type: select_one
+      options:
+      - Yes - called
+      - Yes - report filed
+      - No - not required
+      - No - under review
+      required: false
+    - id: 34
+      name: police_report_number
+      label: Police Report Number
+      hint: If filed
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: evidence
+      label: Evidence
+      hint: Documentation
+      type: note
+      options: []
+      required: false
+    - id: 36
+      name: surveillance_video
+      label: Is Surveillance Video Available
+      hint: Camera footage
+      type: select_one
+      options:
+      - Yes - reviewed
+      - Yes - pending review
+      - No - not available
+      - No - not functioning
+      required: false
+    - id: 37
+      name: video_timestamp
+      label: Video Timestamp
+      hint: Time range
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: documents_collected
+      label: Documents Collected
+      hint: Evidence gathered
+      type: select_multiple
+      options:
+      - Register tape
+      - Deposit slip
+      - Count sheet
+      - Incident statement
+      - Witness statements
+      - Photos
+      - Video footage
+      - Other
+      required: false
+    - id: 39
+      name: counterfeit_bill_retained
+      label: Was Counterfeit Bill Retained
+      hint: Evidence handling
+      type: select_one
+      options:
+      - Yes - secured
+      - Yes - given to police
+      - Yes - given to bank
+      - No - returned
+      - Not applicable
+      required: false
+    - id: 40
+      name: prior_incidents
+      label: Are There Prior Similar Incidents
+      hint: History
+      type: select_one
+      options:
+      - No - first incident
+      - Yes - same employee
+      - Yes - same register
+      - Yes - same location
+      - Yes - similar pattern
+      required: false
+    - id: 41
+      name: prior_incident_details
+      label: Describe Prior Incidents
+      hint: Details
+      type: text
+      options: []
+      required: false
+    - id: 42
+      name: root_cause
+      label: Suspected Root Cause
+      hint: Why it happened
+      type: text
+      options: []
+      required: false
+    - id: 43
+      name: preventive_measures
+      label: Recommended Preventive Measures
+      hint: How to prevent
+      type: text
+      options: []
+      required: false
+    - id: 44
+      name: employee_status
+      label: Employee Status
+      hint: Current situation
+      type: select_one
+      options:
+      - Still employed - normal duty
+      - Still employed - restricted duty
+      - Suspended pending investigation
+      - Terminated
+      - Not applicable
+      required: false
+    - id: 45
+      name: financial_resolution
+      label: Financial Resolution
+      hint: How resolved
+      type: select_one
+      options:
+      - Employee reimbursement
+      - Written off as loss
+      - Insurance claim
+      - Recovered from customer
+      - Other
+      required: false
+    - id: 46
+      name: investigation_status
+      label: Investigation Status
+      hint: Current state
+      type: select_one
+      options:
+      - Complete
+      - In progress
+      - Pending review
+      - Referred to external
+      required: true
+    - id: 47
+      name: reported_by
+      label: Reported By
+      hint: Reporter name
+      type: text
+      options: []
+      required: true
+    - id: 48
+      name: reporter_title
+      label: Reporter Title
+      hint: Job title
+      type: text
+      options: []
+      required: true
+    - id: 49
+      name: reporter_signature_date
+      label: Reporter Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true
+    - id: 50
+      name: manager_review
+      label: Manager Review
+      hint: Supervisory approval
+      type: select_one
+      options:
+      - Reviewed and approved
+      - Reviewed with comments
+      - Pending review
+      - Escalated
+      required: false
+    - id: 51
+      name: manager_signature_date
+      label: Manager Signature Date
+      hint: Date reviewed
+      type: date
+      options: []
+      required: false

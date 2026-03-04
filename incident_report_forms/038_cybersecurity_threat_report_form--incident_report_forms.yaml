@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cybersecurity Threat Report Form
+    pages:
+    - id: 1
+      name: threat_type
+      label: Threat Type
+      hint: null
+      type: select_one
+      options:
+      - Malware
+      - Phishing
+      - Other (please specify)
+      - Ransomware
+      - Data Breach
+      - Social Engineering
+      - SQL Injection
+      - Cross Site Scripting (XSS)
+      required: false
+    - id: 2
+      name: threat_location
+      label: Location
+      hint: Where did the incident occur?
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: threat_date
+      label: Date of Incident
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: threat_time
+      label: Time of Incident
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: threat_summary
+      label: Incident Summary
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: threat_impact
+      label: Impact
+      hint: Estimated impact on the system (dollars)
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: threat_severity
+      label: Threat Severity
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      - Critical
+      required: false
+    - id: 8
+      name: threat_category
+      label: Threat Category
+      hint: null
+      type: select_multiple
+      options:
+      - Network
+      - Application
+      - Data
+      - System
+      - User Account
+      required: false
+    - id: 9
+      name: threat_source
+      label: Source
+      hint: null
+      type: select_one
+      options:
+      - Internal
+      - External
+      - Other (please specify)
+      - Unknown
+      required: false

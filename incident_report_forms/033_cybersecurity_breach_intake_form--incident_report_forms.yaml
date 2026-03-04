@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cybersecurity Breach Intake Form
+    pages:
+    - id: 1
+      name: incident_summary
+      label: Incident Summary
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_one
+      options:
+      - Critical
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 3
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: impacted_assets
+      label: Impacted Assets
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: impact_level
+      label: Impact Level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 9
+      name: incident_status
+      label: Incident Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Resolved
+      required: true
+    - id: 10
+      name: incident_category
+      label: Incident Category
+      hint: null
+      type: select_multiple
+      options:
+      - Data
+      - Network
+      - System
+      - Application
+      required: true
+    - id: 11
+      name: incident_reporter_name
+      label: Incident Reporter Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: incident_reporter_email
+      label: Incident Reporter Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: incident_reporter_phone
+      label: Incident Reporter Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: incident_reporter_department
+      label: Incident Reporter Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: incident_reporter_job_title
+      label: Incident Reporter Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: incident_reporter_comments
+      label: Incident Reporter Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: incident_assessor_name
+      label: Incident Assessor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: incident_assessor_phone
+      label: Incident Assessor Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: incident_assessor_comments
+      label: Incident Assessor Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: incident_reviewer_name
+      label: Incident Reviewer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: incident_reviewer_phone
+      label: Incident Reviewer Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: incident_reviewer_comments
+      label: Incident Reviewer Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: incident_reviewer_status
+      label: Incident Reviewer Status
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: incident_resolution
+      label: Incident Resolution
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: incident_resolution_date
+      label: Incident Resolution Date
+      hint: null
+      type: date
+      options: []
+      required: true

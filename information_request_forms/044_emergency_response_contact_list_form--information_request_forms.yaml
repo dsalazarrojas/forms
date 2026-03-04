@@ -1,0 +1,30 @@
+inputSchema:
+  type: object
+  properties:
+    title: emergency_response_contact_list_form
+    pages:
+    - id: 1
+      name: contact_list
+      label: Contact List
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: emergency_contacts
+      label: Emergency Contacts
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: client_info
+      label: Client Information
+      hint: null
+      type: text
+      options: []
+      required: false

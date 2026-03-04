@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: personnel_action_form
+    pages:
+    - id: 1
+      name: employee
+      label: employee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: action_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time
+      label: action_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: job_details
+      label: job_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: action
+      label: action_taken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: reason
+      label: reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: employee_status
+      label: employee_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: job_status
+      label: job_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false

@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Patient Demographic Information Form
+    pages:
+    - id: 1
+      name: basic_info
+      label: Patient Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: height_cm
+      label: Height (cm)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: weight_kg
+      label: Weight (kg)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: pulse
+      label: Pulse (bpm)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: blood_pressure_mmhg
+      label: Blood Pressure (mmHg)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: medical_record
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: allergy
+      label: Allergy
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 11
+      name: medical_record_date
+      label: Medical Record Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: medical_record_time
+      label: Medical Record Time
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: on_boarding_employee_details
+    pages:
+    - id: 1
+      name: onboarding_employee_details
+      label: on_boarding_employee_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: employee_email
+      label: employee_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: employee_phone
+      label: employee_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: employee_job_title
+      label: employee_job_title
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: employee_department
+      label: employee_department
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: employee_hire_date
+      label: employee_hire_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: employee_salary
+      label: employee_salary
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: employee_note
+      label: employee_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: onboarding_status
+      label: onboarding_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 11
+      name: onboarding_date
+      label: onboarding_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: onboarding_time
+      label: onboarding_time
+      hint: null
+      type: time
+      options: []
+      required: false

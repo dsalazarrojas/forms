@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Flood Risk Awareness Registration Form
+    pages:
+    - id: 1
+      name: user_details
+      label: User Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: emergency_preferences
+      label: Emergency Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: flood_risk_questions
+      label: Flood Risk Questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: contact_preferences
+      label: Contact Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false

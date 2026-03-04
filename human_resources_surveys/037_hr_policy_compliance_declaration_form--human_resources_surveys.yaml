@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: HR Policy Compliance Declaration Form
+    pages:
+    - id: 1
+      name: company_policies
+      label: Company prophets
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_confirmation
+      label: Employee Confimration
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: policy_understanding
+      label: Policy Understanding
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: reporting_frequency
+      label: Reporting Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: policy_changes
+      label: Policy Changes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: policy_changes_date
+      label: Policy Changes Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: policy_changes_frequency
+      label: Policy Changes Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: reporting_date
+      label: Reporting Date
+      hint: null
+      type: date
+      options: []
+      required: false

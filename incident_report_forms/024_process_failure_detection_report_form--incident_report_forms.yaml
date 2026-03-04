@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: process_failure_detection_report_form
+    pages:
+    - id: 1
+      name: incident_id
+      label: Incident ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: severity_id
+      label: Severity
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': 1, ''label'': ''Minor''}'
+      - '{''value'': 2, ''label'': ''Major''}'
+      - '{''value'': 3, ''label'': ''Critical''}'
+      required: true
+    - id: 3
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: details
+      label: Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: evidence_attachment
+      label: Evidence Attachment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: incident_id_1
+      label: Incident ID 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: incident_id_2
+      label: Incident ID 2
+      hint: null
+      type: text
+      options: []
+      required: false

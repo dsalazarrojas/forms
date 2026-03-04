@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Severity 1 Incident Report Form
+    pages:
+    - id: 1
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incident_reporter
+      label: Incident Reporter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Hardware''}'
+      - '{''id'': 2, ''label'': ''Software''}'
+      - '{''id'': 3, ''label'': ''Network''}'
+      required: false
+    - id: 4
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: incident_status
+      label: Incident Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Open''}'
+      - '{''id'': 2, ''label'': ''Resolved''}'
+      required: false
+    - id: 6
+      name: incident_priority
+      label: Incident Priority
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''High''}'
+      - '{''id'': 2, ''label'': ''Medium''}'
+      - '{''id'': 3, ''label'': ''Low''}'
+      required: false
+    - id: 7
+      name: incident_start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: incident_start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: incident_end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: incident_end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: incident_reporter_phone
+      label: Incident Reporter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: incident_reporter_email
+      label: Incident Reporter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: incident_reported_by
+      label: Incident Reported By
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''IT''}'
+      - '{''id'': 2, ''label'': ''Operations''}'
+      required: false
+    - id: 14
+      name: incident_resolution_date
+      label: Resolution Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: incident_resolution_time
+      label: Resolution Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: incident_additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: incident_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: incident_tags
+      label: Tags
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''ITIL''}'
+      - '{''id'': 2, ''label'': ''Other''}'
+      required: false
+    - id: 19
+      name: incident_tags_other
+      label: Other (Specify)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: incident_attachments
+      label: Attachments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: incident_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: incident_status_update
+      label: Status Update
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Open''}'
+      - '{''id'': 2, ''label'': ''Closed''}'
+      required: false
+    - id: 23
+      name: incident_status_update_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: incident_status_update_date
+      label: Update Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: incident_status_update_time
+      label: Update Time
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,143 @@
+inputSchema:
+  type: object
+  properties:
+    title: open_access_courseware_distribution_request_form
+    pages:
+    - id: 1
+      name: distribution_request
+      label: Distribution Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: course_id
+      label: Course ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: access_type
+      label: Access Type
+      hint: null
+      type: select_multiple
+      options:
+      - Open Access
+      - Internal Access
+      required: true
+    - id: 7
+      name: comment
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - phone
+      - email
+      - chat
+      required: true
+    - id: 9
+      name: courseware_type
+      label: Courseware Type
+      hint: null
+      type: select_one
+      options:
+      - Open Access
+      - Internal Access
+      required: true
+    - id: 10
+      name: distribution_method
+      label: Distribution Method
+      hint: null
+      type: select_one
+      options:
+      - Automated
+      - Human Review
+      required: true
+    - id: 11
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Rejected
+      required: true
+    - id: 12
+      name: reason_for_rejection
+      label: Reason for Rejection
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: request_id
+      label: Request ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: user_request_id
+      label: User Request ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: date_requested
+      label: Date Requested
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submitted_by_email
+      label: Submitted By Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: submitted_by_phone
+      label: Submitted By Phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,148 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Listening Effectiveness Survey
+    pages:
+    - id: 1
+      name: company_name
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: manager_name
+      label: Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: communication_effectiveness
+      label: How would you rate the effectiveness of your manager's communication
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: employee_engagement
+      label: How engaged do you feel in your job
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: team_satisfaction
+      label: Team satisfaction
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Satisfied'', ''label'': ''Satisfied''}'
+      - '{''value'': ''Dissatisfied'', ''label'': ''Dissatisfied''}'
+      - '{''value'': ''Very satisfied'', ''label'': ''Very satisfied''}'
+      - '{''value'': ''Not satisfied'', ''label'': ''Not satisfied''}'
+      - '{''value'': ''Not very satisfied'', ''label'': ''Not very satisfied''}'
+      required: false
+    - id: 6
+      name: department_satisfaction
+      label: Department satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Satisfied'', ''label'': ''Satisfied''}'
+      - '{''value'': ''Dissatisfied'', ''label'': ''Dissatisfied''}'
+      - '{''value'': ''Very satisfied'', ''label'': ''Very satisfied''}'
+      - '{''value'': ''Not satisfied'', ''label'': ''Not satisfied''}'
+      - '{''value'': ''Not very satisfied'', ''label'': ''Not very satisfied''}'
+      required: false
+    - id: 7
+      name: communication_channels
+      label: Which of the following channels do you currently use for communication?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Email'', ''label'': ''Email''}'
+      - '{''value'': ''Phone'', ''label'': ''Phone''}'
+      - '{''value'': ''In-app messaging'', ''label'': ''In-app messaging''}'
+      - '{''value'': ''Video conference call'', ''label'': ''Video conference call''}'
+      - '{''value'': ''In-person meeting'', ''label'': ''In-person meeting''}'
+      - '{''value'': ''Other'', ''label'': ''Other''}'
+      required: false
+    - id: 8
+      name: communication_frequency
+      label: How often do you use these channels?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Daily'', ''label'': ''Daily''}'
+      - '{''value'': ''Weekly'', ''label'': ''Weekly''}'
+      - '{''value'': ''Monthly'', ''label'': ''Monthly''}'
+      - '{''value'': ''Quarterly'', ''label'': ''Quarterly''}'
+      - '{''value'': ''Annually'', ''label'': ''Annually''}'
+      - '{''value'': ''Never'', ''label'': ''Never''}'
+      required: false
+    - id: 9
+      name: manager_openness
+      label: How open is your manager in communication?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Highly open'', ''label'': ''Highly open''}'
+      - '{''value'': ''Somewhat open'', ''label'': ''Somewhat open''}'
+      - '{''value'': ''Neutral'', ''label'': ''Neutral''}'
+      - '{''value'': ''Somewhat closed'', ''label'': ''Somewhat closed''}'
+      - '{''value'': ''Highly closed'', ''label'': ''Highly closed''}'
+      required: false
+    - id: 10
+      name: employee_suggestions
+      label: How often are employee suggestions taken into consideration?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Always'', ''label'': ''Always''}'
+      - '{''value'': ''Almost always'', ''label'': ''Almost always''}'
+      - '{''value'': ''Sometimes'', ''label'': ''Sometimes''}'
+      - '{''value'': ''Rarely'', ''label'': ''Rarely''}'
+      - '{''value'': ''Never'', ''label'': ''Never''}'
+      required: false
+    - id: 11
+      name: communication_skills
+      label: Which of the following communication skills do you find most effective?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Active listening'', ''label'': ''Active listening''}'
+      - '{''value'': ''Empathy'', ''label'': ''Empathy''}'
+      - '{''value'': ''Nonverbal communication'', ''label'': ''Nonverbal communication''}'
+      - '{''value'': ''Conflict resolution'', ''label'': ''Conflict resolution''}'
+      - '{''value'': ''Other'', ''label'': ''Other''}'
+      required: false
+    - id: 12
+      name: manager_suggestion
+      label: What would you suggest to improve communication?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: open_door
+      label: Do you feel like you have a way to talk to your manager about your work
+        and well-being?
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': True, ''label'': True}'
+      - '{''value'': False, ''label'': False}'
+      required: false
+    - id: 14
+      name: feedback_mechanism
+      label: What do you think would be a good feedback mechanism for communication?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Email'', ''label'': ''Email''}'
+      - '{''value'': ''In-app messaging'', ''label'': ''In-app messaging''}'
+      - '{''value'': ''One-on-one meeting'', ''label'': ''One-on-one meeting''}'
+      - '{''value'': ''Team meeting'', ''label'': ''Team meeting''}'
+      - '{''value'': ''Other'', ''label'': ''Other''}'
+      required: false

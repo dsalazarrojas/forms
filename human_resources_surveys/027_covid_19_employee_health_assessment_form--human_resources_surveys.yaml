@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Employee Health Assessment Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: assessment_date
+      label: Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: section_header_1
+      label: -- Health Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: overall_health
+      label: Overall Health Status
+      hint: null
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 9
+      name: covid_diagnosis
+      label: Have you been diagnosed with COVID-19?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: diagnosis_date
+      label: Date of Diagnosis
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: current_symptoms
+      label: Current COVID-19 Symptoms
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Fever
+      - Cough
+      - Difficulty breathing
+      - Fatigue
+      - Muscle or body aches
+      - Sore throat
+      - Loss of taste or smell
+      - Nausea or vomiting
+      - None
+      required: true
+    - id: 12
+      name: section_header_2
+      label: -- Exposure and Contact --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: covid_exposure
+      label: Exposed to confirmed COVID-19 case
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unsure
+      required: true
+    - id: 14
+      name: exposure_date
+      label: Date of Exposure
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: household_illness
+      label: Household members with COVID-19 symptoms
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 16
+      name: section_header_3
+      label: -- Vaccination Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: vaccination_status
+      label: Vaccination Status
+      hint: null
+      type: select_one
+      options:
+      - Fully vaccinated with booster
+      - Fully vaccinated without booster
+      - Partially vaccinated
+      - Not vaccinated
+      - Prefer not to disclose
+      required: true
+    - id: 18
+      name: section_header_4
+      label: -- Work Readiness --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: work_status
+      label: Able to work
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Limited capacity
+      required: true
+    - id: 20
+      name: work_arrangement
+      label: Work Arrangement
+      hint: null
+      type: select_one
+      options:
+      - On-site
+      - Remote
+      - Hybrid
+      - Medical leave
+      required: true
+    - id: 21
+      name: accommodations_needed
+      label: Accommodations Needed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: section_header_5
+      label: -- Healthcare Access --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 23
+      name: healthcare_access
+      label: Have access to healthcare
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 24
+      name: additional_concerns
+      label: Additional Health Concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: employee_certification
+      label: I certify the above information is accurate
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

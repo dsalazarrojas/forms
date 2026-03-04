@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: System Programmatic Access Issue Report Form
+    pages:
+    - id: 1
+      name: incident_report_form
+      label: Incident Report Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: system_id
+      label: system_id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: issue_type
+      label: Issue Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Technical Issue'', ''value'': ''Technical''}'
+      - '{''id'': 2, ''label'': ''Access Issue'', ''value'': ''Access''}'
+      - '{''id'': 3, ''label'': ''Other'', ''value'': ''Other''}'
+      required: false
+    - id: 5
+      name: impact_level
+      label: Impact Level
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''High'', ''value'': ''High''}'
+      - '{''id'': 2, ''label'': ''Medium'', ''value'': ''Medium''}'
+      - '{''id'': 3, ''label'': ''Low'', ''value'': ''Low''}'
+      required: false
+    - id: 6
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: report_time
+      label: Report Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''chatjimmy'', ''value'': ''chatjimmy''}'
+      - Other
+      required: false
+    - id: 9
+      name: issue_description
+      label: Issue Description
+      hint: Please provide a detailed description of the technical access issue
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: environment
+      label: Environment
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,180 @@
+inputSchema:
+  type: object
+  properties:
+    title: Application Onboarding Form
+    pages:
+    - id: 1
+      name: applicant_information
+      label: -- Applicant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: position_applied
+      label: Position Applied For
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: application_details
+      label: -- Application Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: application_date
+      label: Application Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: job_posting_id
+      label: Job Posting ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: employment_type
+      label: Employment Type
+      hint: null
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Contract
+      - Temporary
+      - Internship
+      required: true
+    - id: 11
+      name: start_date_available
+      label: Available Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: document_submission
+      label: -- Document Submission --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: resume_attached
+      label: Resume attached?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 14
+      name: cover_letter_attached
+      label: Cover letter attached?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 15
+      name: references_provided
+      label: References provided?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Will provide later
+      required: false
+    - id: 16
+      name: background_information
+      label: -- Background Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: years_of_experience
+      label: Years of relevant experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: education_level
+      label: Highest Education Level
+      hint: null
+      type: select_one
+      options:
+      - High School
+      - Associate Degree
+      - Bachelor Degree
+      - Master Degree
+      - Doctoral Degree
+      required: false
+    - id: 19
+      name: certifications
+      label: Relevant Certifications
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: consent_and_agreements
+      label: -- Consent and Agreements --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: background_check_consent
+      label: I consent to a background check
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true
+    - id: 22
+      name: confidentiality_agreement
+      label: I agree to the confidentiality agreement
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: true

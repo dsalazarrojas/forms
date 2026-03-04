@@ -1,0 +1,198 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: AA Employee Equipment Agreement
+    pages:
+    - id: 1
+      name: section_header_employee
+      label: '--- Employee Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_full_name
+      label: Full name
+      hint: Please enter your legal name as it appears on official documents
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_email
+      label: Email address
+      hint: Company email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: Current department assignment
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: job_title
+      label: Job title
+      hint: Your current position title
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: hire_date
+      label: Date of hire
+      hint: Date you started employment
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: employee_signature
+      label: Employee signature
+      hint: Sign to acknowledge agreement
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: section_header_equipment
+      label: '--- Equipment Details ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: equipment_type
+      label: Type of equipment assigned
+      hint: Select the category of equipment
+      type: select_one
+      options:
+      - Laptop Computer
+      - Desktop Computer
+      - Tablet
+      - Smartphone
+      - Accessory (mouse, keyboard, etc.)
+      - Other
+      required: true
+    - id: 10
+      name: equipment_brand
+      label: Brand/Model
+      hint: Manufacturer and model number
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: equipment_serial_number
+      label: Serial number
+      hint: Unique identifier for the device
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: equipment_condition
+      label: Condition of equipment at time of receipt
+      hint: Visual assessment of physical state
+      type: select_one
+      options:
+      - New
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 13
+      name: equipment_value
+      label: Equipment value (USD)
+      hint: Approximate current market value
+      type: decimal
+      options: []
+      required: true
+    - id: 14
+      name: equipment_assigned_date
+      label: Date assigned
+      hint: When equipment was issued to employee
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: expected_return_date
+      label: Expected return date
+      hint: When equipment is expected to be returned
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: section_header_responsibilities
+      label: '--- Responsibilities and Acknowledgments ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: responsible_for_damage
+      label: I understand I am responsible for loss or damage due to negligence
+      hint: null
+      type: select_one
+      options:
+      - Yes, I understand
+      - No, I do not understand
+      required: true
+    - id: 18
+      name: authorized_use_only
+      label: I agree to use equipment only for authorized business purposes
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 19
+      name: security_compliance
+      label: I will comply with all company security policies
+      hint: Including password protection and software updates
+      type: select_one
+      options:
+      - Yes, I agree
+      - No, I do not agree
+      required: true
+    - id: 20
+      name: additional_notes
+      label: Additional notes or special conditions
+      hint: Any special arrangements or conditions regarding equipment use
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: manager_name
+      label: Manager name
+      hint: Supervisor approving this equipment assignment
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: manager_signature
+      label: Manager signature
+      hint: Signature to approve equipment assignment
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: agreement_date
+      label: Date of agreement
+      hint: Date this agreement was signed
+      type: date
+      options: []
+      required: true

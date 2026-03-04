@@ -1,0 +1,359 @@
+inputSchema:
+  type: object
+  properties:
+    title: Carrier Profile Form
+    pages:
+    - id: 1
+      name: profile_header
+      label: Carrier Profile Registration
+      hint: Complete this form to establish your carrier profile
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: carrier_id
+      label: Carrier ID Number
+      hint: Assigned by company
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: registration_date
+      label: Registration Date
+      hint: Date of profile creation
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: company_info
+      label: Company Information
+      hint: Business details
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: company_name
+      label: Legal Company Name
+      hint: Registered business name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: dba_name
+      label: DBA or Trade Name
+      hint: Doing business as name
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: company_type
+      label: Company Type
+      hint: Business structure
+      type: select_one
+      options:
+      - Sole proprietorship
+      - Partnership
+      - LLC
+      - Corporation
+      - S Corporation
+      - Other
+      required: true
+    - id: 8
+      name: dot_number
+      label: DOT Number
+      hint: Department of Transportation number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: mc_number
+      label: MC Number
+      hint: Motor carrier number
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: ein_number
+      label: EIN or Tax ID Number
+      hint: Employer identification number
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: years_in_business
+      label: Years in Business
+      hint: Operating history
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1 to 3 years
+      - 3 to 5 years
+      - 5 to 10 years
+      - Over 10 years
+      required: true
+    - id: 12
+      name: contact_info
+      label: Contact Information
+      hint: Primary contact details
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: contact_name
+      label: Primary Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: contact_title
+      label: Contact Title
+      hint: Job title
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: contact_email
+      label: Email Address
+      hint: Primary email
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: contact_phone
+      label: Phone Number
+      hint: Primary phone
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: contact_fax
+      label: Fax Number
+      hint: Optional fax
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: business_address
+      label: Business Address
+      hint: Physical address
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: business_city
+      label: City
+      hint: City name
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: business_state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: business_zip
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: mailing_address
+      label: Mailing Address
+      hint: If different from business
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: operations_info
+      label: Operations Information
+      hint: Service details
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: service_area
+      label: Primary Service Area
+      hint: Operating region
+      type: select_one
+      options:
+      - Local - within 100 miles
+      - Regional - multi-state
+      - National - continental
+      - International
+      - Dedicated lanes
+      required: true
+    - id: 25
+      name: states_operated
+      label: States Where You Operate
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Northeast region
+      - Southeast region
+      - Midwest region
+      - Southwest region
+      - West coast
+      - Nationwide
+      - Canada
+      - Mexico
+      required: true
+    - id: 26
+      name: equipment_type
+      label: Primary Equipment Type
+      hint: Trailer types
+      type: select_multiple
+      options:
+      - Dry van
+      - Refrigerated
+      - Flatbed
+      - Step deck
+      - Lowboy
+      - Power only
+      - Box truck
+      - Sprinter van
+      - Other
+      required: true
+    - id: 27
+      name: number_of_trucks
+      label: Number of Power Units
+      hint: Truck count
+      type: number
+      options: []
+      required: true
+    - id: 28
+      name: number_of_trailers
+      label: Number of Trailers
+      hint: Trailer count
+      type: number
+      options: []
+      required: false
+    - id: 29
+      name: cargo_types
+      label: Types of Cargo Hauled
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - General freight
+      - Refrigerated goods
+      - Hazardous materials
+      - Oversized loads
+      - High value goods
+      - Household goods
+      - Automotive
+      - Construction materials
+      - Agricultural products
+      - Other
+      required: true
+    - id: 30
+      name: hazmat_certified
+      label: Hazmat Certified
+      hint: Hazardous materials endorsement
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 31
+      name: insurance_info
+      label: Insurance Information
+      hint: Coverage details
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: liability_coverage
+      label: Liability Coverage Amount
+      hint: Policy limit
+      type: select_one
+      options:
+      - 750000
+      - 1000000
+      - 2000000
+      - 5000000
+      - Other
+      required: true
+    - id: 33
+      name: cargo_insurance
+      label: Cargo Insurance Amount
+      hint: Cargo coverage
+      type: select_one
+      options:
+      - 50000
+      - 100000
+      - 250000
+      - 500000
+      - Other
+      required: true
+    - id: 34
+      name: insurance_carrier
+      label: Insurance Carrier Name
+      hint: Insurance company
+      type: text
+      options: []
+      required: true
+    - id: 35
+      name: policy_expiry
+      label: Policy Expiration Date
+      hint: Renewal date
+      type: date
+      options: []
+      required: true
+    - id: 36
+      name: safety_rating
+      label: CSA Safety Rating
+      hint: Safety score
+      type: select_one
+      options:
+      - Satisfactory
+      - Conditional
+      - Unsatisfactory
+      - Not rated
+      - New entrant
+      required: true
+    - id: 37
+      name: banking_info
+      label: Banking Information
+      hint: For payment setup
+      type: note
+      options: []
+      required: false
+    - id: 38
+      name: payment_preference
+      label: Preferred Payment Method
+      hint: How to receive payment
+      type: select_one
+      options:
+      - Direct deposit
+      - Check
+      - Quick pay
+      - Factoring company
+      required: true
+    - id: 39
+      name: factoring_company
+      label: Factoring Company Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 40
+      name: references
+      label: Business References Available
+      hint: Reference provision
+      type: select_one
+      options:
+      - Yes - will provide
+      - Yes - attached
+      - false
+      required: true
+    - id: 41
+      name: additional_comments
+      label: Additional Information
+      hint: Anything else to share
+      type: text
+      options: []
+      required: false

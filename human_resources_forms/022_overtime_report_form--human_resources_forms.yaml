@@ -1,0 +1,62 @@
+inputSchema:
+  type: object
+  properties:
+    title: overtime_report_form
+    pages:
+    - id: 1
+      name: start_date
+      label: Start Date
+      hint: 'null'
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: hours_worked
+      label: Hours Worked
+      hint: 'null'
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: department
+      label: Department
+      hint: 'null'
+      type: select_one
+      options:
+      - Accounting
+      - IT
+      - Sales
+      required: true
+    - id: 4
+      name: project
+      label: Project
+      hint: 'null'
+      type: select_one
+      options:
+      - Accounting
+      - HR
+      - Marketing
+      required: true
+    - id: 5
+      name: manager
+      label: Manager
+      hint: 'null'
+      type: select_one
+      options:
+      - John Doe
+      - Jane Doe
+      required: true
+    - id: 6
+      name: notes
+      label: Notes
+      hint: 'null'
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: submit
+      label: Submit
+      hint: 'null'
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Information Request Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Your Full Name
+      hint: Name of person requesting information
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requester_email
+      label: Your Email Address
+      hint: Primary email contact
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: requester_company
+      label: Your Company Name
+      hint: Organization you represent
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: requester_phone
+      label: Contact Phone Number
+      hint: Best phone to reach you
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: target_business_name
+      label: Business Name You Are Inquiring About
+      hint: Name of the business requesting information from
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: target_business_industry
+      label: Target Business Industry
+      hint: What industry does the business operate in?
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      - Retail
+      - Manufacturing
+      - Services
+      - Other
+      required: true
+    - id: 7
+      name: information_needed
+      label: Type of Information Requested
+      hint: What specific information do you need?
+      type: select_multiple
+      options:
+      - Company Background
+      - Financial Information
+      - Products or Services
+      - Contact Information
+      - Certifications and Licenses
+      - References
+      - Partnership Opportunities
+      required: true
+    - id: 8
+      name: purpose_of_request
+      label: Purpose of Information Request
+      hint: Why do you need this information?
+      type: select_one
+      options:
+      - Partnership Evaluation
+      - Due Diligence
+      - Vendor Assessment
+      - Market Research
+      - Business Development
+      - Other
+      required: true
+    - id: 9
+      name: intended_use
+      label: Intended Use of Information
+      hint: How will the information be used?
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: request_urgency
+      label: Urgency Level
+      hint: How quickly do you need this information?
+      type: select_one
+      options:
+      - Immediate (within 24 hours)
+      - Urgent (within 1 week)
+      - Standard (within 2 weeks)
+      - Non-urgent (flexible timeline)
+      required: true
+    - id: 11
+      name: additional_details
+      label: Additional Details or Specifications
+      hint: Provide any additional context about your request
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: confidentiality_agreement
+      label: I agree to keep information confidential
+      hint: Check if applicable
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 13
+      name: follow_up_preference
+      label: Preferred Follow-up Method
+      hint: How would you like us to respond?
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Video Call
+      - In-Person Meeting
+      required: true
+    - id: 14
+      name: best_contact_time
+      label: Best Time to Contact You
+      hint: When are you typically available?
+      type: select_one
+      options:
+      - Morning (8am-12pm)
+      - Afternoon (12pm-5pm)
+      - Evening (5pm-8pm)
+      - Any time
+      required: false

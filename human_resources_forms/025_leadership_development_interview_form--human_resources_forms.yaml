@@ -1,0 +1,215 @@
+inputSchema:
+  type: object
+  properties:
+    title: Leadership Development Interview Form
+    pages:
+    - id: 1
+      name: first_name
+      label: first name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: job_title
+      label: job title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: years_of_experience
+      label: years of experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: job_function
+      label: job function
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''manager''}'
+      - '{''id'': 2, ''name'': ''non-manager''}'
+      - '{''id'': 3, ''name'': ''executive''}'
+      required: true
+    - id: 7
+      name: salary_range
+      label: salary range
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: education_level
+      label: education level
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''high school''}'
+      - '{''id'': 2, ''name'': ''bachelor''}'
+      - '{''id'': 3, ''name'': ''master''}'
+      - '{''id'': 4, ''name'': ''phd''}'
+      required: true
+    - id: 9
+      name: skills
+      label: skills
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''leadership''}'
+      - '{''id'': 2, ''name'': ''communication''}'
+      - '{''id'': 3, ''name'': ''problem solving''}'
+      required: false
+    - id: 10
+      name: job_satisfaction
+      label: job satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''high'', ''label'': ''high''}'
+      - '{''id'': 2, ''name'': ''medium''}'
+      - '{''id'': 3, ''name'': ''low''}'
+      required: true
+    - id: 11
+      name: job_expectations
+      label: job expectations
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: job_description
+      label: job description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: performance_management
+      label: performance management
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''frequent''}'
+      - '{''id'': 2, ''name'': ''occasional''}'
+      - '{''id'': 3, ''name'': ''rare''}'
+      required: false
+    - id: 14
+      name: job_type
+      label: job type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''full time''}'
+      - '{''id'': 2, ''name'': ''part time''}'
+      - '{''id'': 3, ''name'': ''contract''}'
+      required: false
+    - id: 15
+      name: work_schedule
+      label: work schedule
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: team_size
+      label: team size
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''small''}'
+      - '{''id'': 2, ''name'': ''medium''}'
+      - '{''id'': 3, ''name'': ''large''}'
+      required: true
+    - id: 17
+      name: work_location
+      label: work location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''local''}'
+      - '{''id'': 2, ''name'': ''remote''}'
+      - '{''id'': 3, ''name'': ''hybrid''}'
+      required: false
+    - id: 18
+      name: job_status
+      label: job status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''active''}'
+      - '{''id'': 2, ''name'': ''inactive''}'
+      required: false
+    - id: 19
+      name: job_status
+      label: job status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''active''}'
+      - '{''id'': 2, ''name'': ''inactive''}'
+      required: false
+    - id: 20
+      name: work_status
+      label: work status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''working''}'
+      - '{''id'': 2, ''name'': ''not working''}'
+      required: false
+    - id: 21
+      name: job_level
+      label: job level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''junior''}'
+      - '{''id'': 2, ''name'': ''senior''}'
+      required: false
+    - id: 22
+      name: work_type
+      label: work type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''part time''}'
+      - '{''id'': 2, ''name'': ''full time''}'
+      required: false
+    - id: 23
+      name: work_hours
+      label: work hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: job_title
+      label: job title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: job_description
+      label: job description
+      hint: null
+      type: text
+      options: []
+      required: false

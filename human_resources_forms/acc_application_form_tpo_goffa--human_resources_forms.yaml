@@ -1,0 +1,196 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: ACC Application Form (TPO Goffa)
+    pages:
+    - id: 1
+      name: section_header_personal
+      label: '--- Personal Information ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Enter your legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email_address
+      label: Email address
+      hint: Must be a valid email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone number
+      hint: Include country code
+      type: phone
+      options: []
+      required: false
+    - id: 5
+      name: department
+      label: Department
+      hint: E.g., Marketing, Finance, Engineering
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: job_title
+      label: Job title
+      hint: Your official position title
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: hire_date
+      label: Date of hire
+      hint: 'Format: YYYY-MM-DD'
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: years_employed
+      label: Years at organization
+      hint: Enter a whole number
+      type: integer
+      options: []
+      required: false
+    - id: 9
+      name: section_header_employment
+      label: '--- Employment Details ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: salary
+      label: Current annual salary
+      hint: Enter amount in USD
+      type: decimal
+      options: []
+      required: false
+    - id: 11
+      name: work_hours_per_week
+      label: Typical work hours per week
+      hint: Include all scheduled hours
+      type: integer
+      options: []
+      required: false
+    - id: 12
+      name: work_location
+      label: Primary work location
+      hint: City and office name
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: is_remote_worker
+      label: Are you a remote worker?
+      hint: Select yes if you work from home
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 14
+      name: remote_work_days_per_week
+      label: Remote work days per week
+      hint: Enter number of days you work remotely
+      type: integer
+      options: []
+      required: false
+    - id: 15
+      name: current_skills
+      label: Current professional skills (select all that apply)
+      hint: Check all skills you possess
+      type: select_multiple
+      options:
+      - Project Management
+      - Data Analysis
+      - Software Development
+      - Graphic Design
+      - Customer Support
+      - Sales
+      required: false
+    - id: 16
+      name: section_header_feedback
+      label: '--- Feedback & Satisfaction ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: satisfaction
+      label: How satisfied are you with the ACC Application Form (TPO Goffa)?
+      hint: Choose the option that best describes your satisfaction
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: true
+    - id: 18
+      name: management_rating
+      label: How would you rate communication from management?
+      hint: Choose the option that best describes your experience
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 19
+      name: growth_opportunities
+      label: Do you feel supported in professional development?
+      hint: Choose the option that best describes your agreement
+      type: select_one
+      options:
+      - Strongly agree
+      - Agree
+      - Neutral
+      - Disagree
+      - Strongly disagree
+      required: true
+    - id: 20
+      name: work_life_balance
+      label: Rate your work-life balance (1-10)
+      hint: 1 = very poor, 10 = excellent
+      type: integer
+      options: []
+      required: true
+    - id: 21
+      name: improvement_suggestions
+      label: What could improve your experience at work?
+      hint: Provide specific suggestions or ideas
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: additional_comments
+      label: Additional comments or notes
+      hint: Any other feedback you wish to share
+      type: text
+      options: []
+      required: false

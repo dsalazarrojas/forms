@@ -1,0 +1,157 @@
+inputSchema:
+  type: object
+  properties:
+    title: Candidate Experience Survey (Offered)
+    pages:
+    - id: 1
+      name: offer_info_section
+      label: -- Offer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: offered_role_title
+      label: Position Offered
+      hint: What job were you offered
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: offer_letter_date
+      label: Date of Offer
+      hint: When did you receive the official offer
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: offer_acceptance_status
+      label: Did you accept the offer
+      hint: Your final decision
+      type: select_one
+      options:
+      - true
+      - false
+      - Still Considering
+      required: true
+    - id: 5
+      name: recruitment_feedback_section
+      label: -- Recruitment Feedback --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: end_to_end_experience
+      label: Overall experience from application to offer
+      hint: Rate the entire journey
+      type: select_one
+      options:
+      - Poor
+      - Average
+      - Good
+      - Very Good
+      - Excellent
+      required: true
+    - id: 7
+      name: package_explanation_rating
+      label: Quality of the offer package explanation
+      hint: How well did we describe salary, benefits, and equity
+      type: select_one
+      options:
+      - Very Poor
+      - Poor
+      - Average
+      - Good
+      - Excellent
+      required: true
+    - id: 8
+      name: offer_timeliness_rating
+      label: Timeliness of the offer after the final interview
+      hint: Was the wait time acceptable
+      type: select_one
+      options:
+      - Too Slow
+      - Fair
+      - Very Timely
+      required: true
+    - id: 9
+      name: decision_factors_section
+      label: -- Decision Factors --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: main_decision_reason
+      label: Primary reason for your decision
+      hint: What was the biggest factor
+      type: select_one
+      options:
+      - Salary and Benefits
+      - Company Culture
+      - Career Growth
+      - Flexible Work
+      - Brand Reputation
+      - Better Offer Elsewhere
+      - Other
+      required: true
+    - id: 11
+      name: reason_elaboration_field
+      label: Elaborate on the primary factor
+      hint: Share more about your choice
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: hr_communication_rating
+      label: How would you rate the communication from HR during the offer stage
+      hint: 1 to 5 stars
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: team_responsiveness
+      label: Was the recruitment team responsive to your questions
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Neutral
+      required: true
+    - id: 14
+      name: suggestions_section
+      label: -- Suggestions --
+      hint: help us improve
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: offer_process_improvement
+      label: Anything we could have done to make the offer process smoother
+      hint: Give us constructive feedback
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: panel_alignment_feedback
+      label: Feedback on the interview panel's alignment
+      hint: Did the different interviewers describe the role consistently
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: recruiter_satisfaction_score
+      label: Overall satisfaction with the recruiter
+      hint: 1 to 10 scale
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: submission_timestamp
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true

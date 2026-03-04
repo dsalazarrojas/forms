@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workers' Compensation Claim Form
+    pages:
+    - id: 1
+      name: employee_information
+      label: Employee Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: work_injury_description
+      label: Work Injury Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: work_injuries
+      label: Work Injuries
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: claim_benefits
+      label: Claim Benefits
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: claim_status
+      label: Claim Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 6
+      name: employer_info
+      label: Employer Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: supervisor_info
+      label: Supervisor Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: claimant_signature
+      label: Claimant Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: supervisor_signature
+      label: Supervisor Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: claimant_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: supervisor_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: employee_contact
+      label: Employee Contact
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: supervisor_contact
+      label: Supervisor Contact
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: claim_employees
+      label: Claimant Employees
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: employer_contact
+      label: Employer Contact
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: supervisor_supervisor
+      label: Supervisor Supervisor
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

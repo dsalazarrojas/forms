@@ -1,0 +1,163 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Accident Investigation Leave Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: Full name of the employee taking leave due to the accident
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: Employee identification number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: Department where the employee works
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: position_title
+      label: Position Title
+      hint: Job title of the employee
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: supervisor_name
+      label: Supervisor Name
+      hint: Name of the employee's direct supervisor
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: accident_date
+      label: Accident Date
+      hint: Date when the accident occurred
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: accident_time
+      label: Accident Time
+      hint: Time when the accident occurred
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: accident_location
+      label: Accident Location
+      hint: Specific location where the accident occurred
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: accident_description
+      label: Accident Description
+      hint: Detailed description of how the accident occurred
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: accident_type
+      label: Accident Type
+      hint: Type of accident that occurred
+      type: select_one
+      options: ["Slip/Trip/Fall", "Struck by Object", "Caught in/Between", "Overexertion", "Vehicle Accident", "Chemical Exposure", "Burn", "Cut/Laceration", "Other"]
+      required: true
+    - id: 11
+      name: injuries_sustained
+      label: Injuries Sustained
+      hint: Description of injuries sustained in the accident
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: body_parts_affected
+      label: Body Parts Affected
+      hint: Which parts of the body were injured?
+      type: select_multiple
+      options: ["Head", "Neck", "Shoulders", "Arms", "Hands", "Back", "Legs", "Feet", "Multiple Areas", "Other"]
+      required: true
+    - id: 13
+      name: medical_treatment_received
+      label: Medical Treatment Received
+      hint: What medical treatment was received?
+      type: select_one
+      options: ["First aid only", "Doctor visit", "Emergency room", "Hospital admission", "Surgery", "Other"]
+      required: true
+    - id: 14
+      name: physician_name
+      label: Physician Name
+      hint: Name of the treating physician
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: leave_start_date
+      label: Leave Start Date
+      hint: Date when the employee's leave begins
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: anticipated_return_date
+      label: Anticipated Return Date
+      hint: Expected date when the employee will return to work
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: leave_type
+      label: Leave Type
+      hint: Type of leave being taken
+      type: select_one
+      options: ["Medical Leave", "Workers' Compensation", "FMLA Leave", "Short-term Disability", "Long-term Disability", "Other"]
+      required: true
+    - id: 18
+      name: fitness_evaluation_required
+      label: Fitness Evaluation Required
+      hint: Will a fitness-for-duty evaluation be required before returning to work?
+      type: select_one
+      options: ["Yes", "No", "To be determined"]
+      required: true
+    - id: 19
+      name: work_restrictions
+      label: Work Restrictions
+      hint: Are there any work restrictions upon return?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: investigation_status
+      label: Investigation Status
+      hint: Current status of the accident investigation
+      type: select_one
+      options: ["Ongoing", "Completed", "Pending", "Not Required"]
+      required: true
+    - id: 21
+      name: corrective_actions_planned
+      label: Corrective Actions Planned
+      hint: What corrective actions will be implemented to prevent similar accidents?
+      type: text
+      options: []
+      required: true

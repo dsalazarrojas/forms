@@ -1,0 +1,167 @@
+inputSchema:
+  type: object
+  properties:
+    title: Artist Offer Sheet
+    pages:
+    - id: 1
+      name: submitter_first_name
+      label: Submitter First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: submitter_last_name
+      label: Submitter Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: submitter_email
+      label: Submitter Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: submitter_phone
+      label: Submitter Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: business_name
+      label: Business Name or Organization
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: business_type
+      label: Type of Business
+      hint: Venue, promoter, production company, etc.
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: business_address
+      label: Business Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: artist_name
+      label: Artist or Performer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: offer_date
+      label: Date of Offer
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: event_date
+      label: Event or Performance Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 12
+      name: venue_name
+      label: Venue Name and Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: performance_duration
+      label: Performance Duration - Hours
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: offer_amount
+      label: Offer Amount or Fee
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: offer_currency
+      label: Currency
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: select_one
+      options:
+      - Full Payment Before Event
+      - 50 Percent Deposit
+      - Payment After Event
+      - Negotiable
+      required: true
+    - id: 17
+      name: event_capacity
+      label: Expected Event Capacity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: technical_requirements
+      label: Technical Requirements Available
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: accommodation_provided
+      label: Accommodation or Hospitality Provided
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: promotion_responsibility
+      label: Marketing and Promotion Responsibility
+      hint: Who handles promotion
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: contract_terms_agreed
+      label: Contract Terms and Conditions Agreed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 22
+      name: additional_notes
+      label: Additional Terms or Conditions
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: HR Trends And Performance Survey
+    pages:
+    - id: 1
+      name: employee_satisfaction
+      label: Employee Satisfaction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: engagement_level
+      label: Engagement Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: performance_indicators
+      label: Performance Indicators
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': 1}'
+      - '{''id'': 2, ''value'': 2}'
+      - '{''id'': 3, ''value'': 3}'
+      required: false
+    - id: 4
+      name: feedback_frequency
+      label: Feedback Frequency
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Weekly''}'
+      - '{''id'': 2, ''value'': ''Bi-Weekly''}'
+      - '{''id'': 3, ''value'': ''Monthly''}'
+      required: false
+    - id: 5
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time_submitted
+      label: Time Submitted
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: note
+      label: Additional Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: category_1
+      label: Category 1
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Category 1''}'
+      - '{''id'': 2, ''value'': ''Category 2''}'
+      - '{''id'': 3, ''value'': ''Category 3''}'
+      required: false
+    - id: 11
+      name: category_2
+      label: Category 2
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Category 1''}'
+      - '{''id'': 2, ''value'': ''Category 2''}'
+      - '{''id'': 3, ''value'': ''Category 3''}'
+      required: false

@@ -1,0 +1,240 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+
+
+inputSchema:
+  type: object
+  properties:
+    title: 360 Leadership Survey
+    pages:
+    - id: 1
+      name: section_header_intro
+      label: '--- Leadership Assessment Introduction ---'
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: evaluator_full_name
+      label: Your full name
+      hint: Please provide your name as the survey participant
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: evaluator_email
+      label: Your email address
+      hint: For follow-up purposes only
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: evaluator_department
+      label: Your department
+      hint: The department you currently work in
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: evaluator_job_title
+      label: Your job title
+      hint: Your current position in the organization
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: evaluator_relationship
+      label: Your relationship to the leader being evaluated
+      hint: Select the most appropriate option
+      type: select_one
+      options:
+      - Direct report
+      - Peer
+      - Supervisor
+      - External stakeholder
+      - Other
+      required: true
+    - id: 7
+      name: leader_full_name
+      label: Full name of the leader being evaluated
+      hint: The person whose leadership skills you are assessing
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: leader_department
+      label: Department of the leader being evaluated
+      hint: The department the leader manages
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: evaluation_period_start
+      label: Evaluation period start date
+      hint: The beginning of the review period
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: evaluation_period_end
+      label: Evaluation period end date
+      hint: The end of the review period
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: communication_effectiveness
+      label: How effectively does this leader communicate vision and expectations?
+      hint: Rate from strongly disagree to strongly agree
+      type: select_one
+      options:
+      - Strongly disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly agree
+      required: true
+    - id: 12
+      name: decision_making_rating
+      label: How would you rate their decision-making ability?
+      hint: 1 = Poor, 10 = Excellent
+      type: integer
+      options: []
+      required: true
+    - id: 13
+      name: team_development_support
+      label: Does the leader support team member growth and development?
+      hint: Rate from strongly disagree to strongly agree
+      type: select_one
+      options:
+      - Strongly disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly agree
+      required: true
+    - id: 14
+      name: collaboration_promotion
+      label: How well does the leader promote collaboration among teams?
+      hint: Rate from strongly disagree to strongly agree
+      type: select_one
+      options:
+      - Strongly disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly agree
+      required: true
+    - id: 15
+      name: conflict_resolution_skills
+      label: Rate the leader's conflict resolution skills
+      hint: 1 = Poor, 10 = Excellent
+      type: integer
+      options: []
+      required: true
+    - id: 16
+      name: innovation_encouragement
+      label: How effectively does the leader encourage innovation?
+      hint: Rate from strongly disagree to strongly agree
+      type: select_one
+      options:
+      - Strongly disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly agree
+      required: true
+    - id: 17
+      name: stress_management
+      label: How well does the leader handle stress and pressure?
+      hint: Rate from strongly disagree to strongly agree
+      type: select_one
+      options:
+      - Strongly disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly agree
+      required: true
+    - id: 18
+      name: feedback_receptivity
+      label: How receptive is the leader to feedback from team members?
+      hint: Rate from strongly disagree to strongly agree
+      type: select_one
+      options:
+      - Strongly disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly agree
+      required: true
+    - id: 19
+      name: accountability_practices
+      label: Does the leader hold themselves and others accountable?
+      hint: Rate from strongly disagree to strongly agree
+      type: select_one
+      options:
+      - Strongly disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly agree
+      required: true
+    - id: 20
+      name: leadership_strengths
+      label: What are the leader's key strengths in leadership?
+      hint: Describe specific examples if possible
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: improvement_areas
+      label: Areas where the leader could improve
+      hint: Be specific and constructive
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: development_recommendations
+      label: Recommendations for the leader's professional development
+      hint: Specific suggestions for growth
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: overall_leadership_rating
+      label: Overall leadership effectiveness rating
+      hint: 1 = Needs significant improvement, 10 = Exceptional leader
+      type: integer
+      options: []
+      required: true
+    - id: 24
+      name: willingness_to_work_again
+      label: Would you be willing to work under this leader again?
+      hint: Rate from strongly disagree to strongly agree
+      type: select_one
+      options:
+      - Strongly disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly agree
+      required: true
+    - id: 25
+      name: additional_comments
+      label: Additional comments or observations
+      hint: Any other thoughts about the leader's performance
+      type: text
+      options: []
+      required: false

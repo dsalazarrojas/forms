@@ -1,0 +1,257 @@
+inputSchema:
+  type: object
+  properties:
+    title: RF Shielding Product Inquiry Form
+    pages:
+    - id: 1
+      name: user_email
+      label: User Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 2
+      name: product_category
+      label: Product Category
+      hint: null
+      type: select_one
+      options:
+      - Shielding Materials
+      - Cable and Harnesses
+      - Enclosures
+      - Connectors
+      - Coaxial Cables and Connectors
+      - Waveguides
+      required: true
+    - id: 3
+      name: product_description
+      label: Product Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: product_name
+      label: Product Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: rf_type
+      label: RF Type
+      hint: null
+      type: select_multiple
+      options:
+      - Low Frequency (LF)
+      - High Frequency (HF)
+      - Very High Frequency (VHF)
+      - Extremely High Frequency (EHF)
+      required: true
+    - id: 6
+      name: shielding_application
+      label: Shielding Application
+      hint: null
+      type: select_one
+      options:
+      - Electronic Enclosures
+      - Coax Cables
+      - Connectors
+      - Cables and Harnesses
+      - Waveguides
+      - Other
+      required: true
+    - id: 7
+      name: product_frequency
+      label: Frequency
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: desired_frequency
+      label: Desired Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: application_note
+      label: Application Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: contact_name
+      label: Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: state
+      label: State
+      hint: null
+      type: select_one
+      options:
+      - Alabama
+      - Alaska
+      - American Samoa
+      - Arizona
+      - Arkansas
+      - California
+      - Colorado
+      - Connecticut
+      - Delaware
+      - Washington D.C.
+      - Florida
+      - Georgia
+      - Guam
+      - Hawaii
+      - Idaho
+      - Illinois
+      - Indiana
+      - Iowa
+      - Kansas
+      - Kentucky
+      - Louisiana
+      - Maine
+      - Maryland
+      - Massachusetts
+      - Michigan
+      - Minnesota
+      - Mississippi
+      - Missouri
+      - Montana
+      - Nebraska
+      - Nevada
+      - New Hampshire
+      - New Jersey
+      - New Mexico
+      - New York
+      - North Carolina
+      - North Dakota
+      - Ohio
+      - Oklahoma
+      - Oregon
+      - Pennsylvania
+      - Puerto Rico
+      - Rhode Island
+      - South Carolina
+      - South Dakota
+      - Tennessee
+      - Texas
+      - Utah
+      - Vermont
+      - Virginia
+      - Washington
+      - West Virginia
+      - Wisconsin
+      - Wyoming
+      - Puerto Rico
+      - Virgin Islands
+      required: false
+    - id: 18
+      name: zip
+      label: Zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: product_inquiry
+      label: Product Inquiry
+      hint: null
+      type: select_one
+      options:
+      - RF Product Inquiry Form
+      - RF Product Inquiry Form - Custom
+      required: true
+    - id: 20
+      name: product_inquiry_message
+      label: Product Inquiry Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: product_inquiry_attachment
+      label: Product Inquiry Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: followup
+      label: Followup
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: assigned_engineer
+      label: Assigned Engineer
+      hint: null
+      type: select_one
+      options:
+      - Engineer1
+      - Engineer2
+      - Engineer3
+      required: false
+    - id: 24
+      name: assigned_engineer_email
+      label: Assigned Engineer Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 25
+      name: followup_message
+      label: Followup Message
+      hint: null
+      type: text
+      options: []
+      required: false

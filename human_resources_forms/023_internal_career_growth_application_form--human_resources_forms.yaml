@@ -1,0 +1,197 @@
+inputSchema:
+  type: object
+  properties:
+    title: Internal Career Growth Application Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - HR
+      - Finance
+      - Marketing
+      - Sales
+      - Support
+      required: true
+    - id: 6
+      name: role
+      label: Role
+      hint: null
+      type: select_multiple
+      options:
+      - Data Analyst
+      - Data Scientist
+      - Software Engineer
+      - Product Manager
+      - Business Analyst
+      required: true
+    - id: 7
+      name: resume
+      label: Resume
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: motivation
+      label: Motivation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: skills
+      label: Skills
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: resume_file
+      label: Resume File
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 14
+      name: reason_for_applying
+      label: Reason for Applying
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: expected_start_date
+      label: Expected Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: current_job_title
+      label: Current Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: previous_jobs
+      label: Previous Jobs
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: references
+      label: References
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: education
+      label: Education
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: skills_list
+      label: Skills List
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: skills
+      label: Skills
+      hint: null
+      type: select_multiple
+      options:
+      - Communication
+      - Leadership
+      - Teamwork
+      - Problem Solving
+      - Time Management
+      - Data Analysis
+      - Project Management
+      required: true
+    - id: 23
+      name: experience
+      label: Experience
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: notice_period
+      label: Notice Period
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true

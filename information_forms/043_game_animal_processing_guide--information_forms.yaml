@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: game_animal_processing_guide
+    pages:
+    - id: 1
+      name: animal_type
+      label: Animal Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: harvested_by
+      label: Harvested By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: game_weight
+      label: Game Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: game_length
+      label: Game Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: processed_by
+      label: Processed By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: processing_method
+      label: Processing Method
+      hint: null
+      type: select_one
+      options:
+      - Machine
+      - Hand
+      - Other
+      required: false
+    - id: 7
+      name: game_condition
+      label: Game Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Fresh
+      - Smoked
+      - Cured
+      - Jammed
+      required: false
+    - id: 8
+      name: processing_date
+      label: Processing Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: processing_time
+      label: Processing Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

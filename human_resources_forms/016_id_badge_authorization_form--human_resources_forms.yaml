@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: id_badge_authorization_form
+    pages:
+    - id: 1
+      name: user
+      label: user
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Joe
+      required: false
+    - id: 2
+      name: date_of_visit
+      label: date_of_visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: purpose_of_visit
+      label: purpose_of_visit
+      hint: null
+      type: select_one
+      options:
+      - Business Meeting
+      - Tour
+      - Interview
+      required: false
+    - id: 4
+      name: company_name
+      label: company_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - HR
+      - Finance
+      - IT
+      required: false
+    - id: 6
+      name: badge_type
+      label: badge_type
+      hint: null
+      type: select_multiple
+      options:
+      - Regular
+      - Temporary
+      - Special
+      required: false
+    - id: 7
+      name: name_on_badge
+      label: name_on_badge
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

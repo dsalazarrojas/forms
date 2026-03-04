@@ -1,0 +1,255 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Business Culture Survey
+    pages:
+    - id: 1
+      name: respondent_section
+      label: -- About You --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_id
+      label: Employee ID (optional)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: department
+      label: Department
+      hint: Which department do you work in?
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: position_level
+      label: Position Level
+      hint: Your role in the organization
+      type: select_one
+      options:
+      - Entry Level
+      - Mid-Level
+      - Supervisor
+      - Manager
+      - Director
+      - Executive
+      required: true
+    - id: 5
+      name: tenure
+      label: How long have you worked here?
+      hint: Approximately how many years
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1-2 years
+      - 3-5 years
+      - 6-10 years
+      - More than 10 years
+      required: true
+    - id: 6
+      name: values_section
+      label: -- Organizational Values --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: values_align
+      label: Our company values align with my personal values
+      hint: Rate your agreement
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 8
+      name: values_understanding
+      label: I understand the company's core values
+      hint: How well do you understand them?
+      type: select_one
+      options:
+      - Not at all
+      - Slightly
+      - Moderately
+      - Very
+      - Extremely
+      required: true
+    - id: 9
+      name: leadership_section
+      label: -- Leadership and Management --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: leadership_confidence
+      label: I trust the leadership of this organization
+      hint: Your confidence in management
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 11
+      name: manager_support
+      label: My manager supports my professional growth
+      hint: Assess your manager support
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 12
+      name: communication_section
+      label: -- Communication --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: open_communication
+      label: Open and honest communication is encouraged here
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 14
+      name: feedback_receptive
+      label: Management is receptive to employee feedback
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 15
+      name: collaboration_section
+      label: -- Collaboration and Teamwork --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: team_collaboration
+      label: Our teams work well together
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 17
+      name: support_from_colleagues
+      label: I feel supported by my colleagues
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 18
+      name: innovation_section
+      label: -- Innovation and Growth --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: innovation_encouraged
+      label: New ideas and innovation are encouraged
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 20
+      name: growth_opportunities
+      label: Opportunities for career growth are available
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 21
+      name: work_environment_section
+      label: -- Work Environment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: work_life_balance
+      label: This company supports work-life balance
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 23
+      name: diversity_inclusion
+      label: Diversity and inclusion are valued here
+      hint: null
+      type: select_one
+      options:
+      - Strongly Disagree
+      - Disagree
+      - Neutral
+      - Agree
+      - Strongly Agree
+      required: true
+    - id: 24
+      name: recommendations
+      label: What could improve our company culture?
+      hint: Your suggestions and ideas
+      type: text
+      options: []
+      required: false

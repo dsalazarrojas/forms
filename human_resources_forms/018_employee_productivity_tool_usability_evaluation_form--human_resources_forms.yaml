@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Productivity Tool Usability Evaluation Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form Header
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Human Resources
+      - Information Technology
+      - Marketing
+      required: true
+    - id: 3
+      name: title
+      label: title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: tool_rating
+      label: Tool Rating (1-5)
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: tool_ease_of_use
+      label: Ease of Use
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: tool_feasibility
+      label: Feasibility
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: tool_suitability
+      label: Suitability
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: form_comments
+      label: Form Comments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - Human Resources
+      - Information Technology
+      - Marketing
+      required: true
+    - id: 13
+      name: manager_review
+      label: manager_review
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 14
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 16
+      name: tool
+      label: tool
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: comments
+      label: comments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: submission
+      label: Submission
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: employee_rating
+      label: Employee Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 21
+      name: form_comments
+      label: Form Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: form_submitter
+      label: Form Submitter
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: departmental
+      label: departmental
+      hint: null
+      type: select_one
+      options:
+      - Human Resources
+      - Information Technology
+      - Marketing
+      required: true
+    - id: 24
+      name: form_status
+      label: form_status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - In Progress
+      - Not Started
+      required: true
+    - id: 25
+      name: tool_comments
+      label: Tool Comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: Farmer Crop Information Collection Form
+    pages:
+    - id: 1
+      name: crop_info
+      label: Farm Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: farm_address
+      label: Farm Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: crop_season
+      label: Crop Season
+      hint: null
+      type: select_one
+      options:
+      - Winter
+      - Spring
+      - Summer
+      - Fall
+      required: false
+    - id: 4
+      name: crop_type
+      label: Crop Type
+      hint: null
+      type: select_multiple
+      options:
+      - Corn
+      - Soybeans
+      - Wheat
+      - Sorghum
+      required: false
+    - id: 5
+      name: crop_yield
+      label: Crop Yield
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: harvest_date
+      label: Harvest Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: farm_size
+      label: Farm Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: farm_location
+      label: Farm Location
+      hint: null
+      type: text
+      options: []
+      required: false

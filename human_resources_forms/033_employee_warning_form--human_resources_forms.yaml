@@ -1,0 +1,201 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Warning Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_warning
+      label: Date of warning
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: reason_for_warning
+      label: Reason for warning
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: behavior_violated
+      label: Behavior violated
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: manager_name
+      label: Manager's name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: warning_level
+      label: Warning level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: warning_date
+      label: Warning date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: employee_status
+      label: Employee status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 12
+      name: assigned_user
+      label: Assigned user
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: warning_type
+      label: Warning type
+      hint: null
+      type: select_multiple
+      options:
+      - Level 1
+      - Level 2
+      - Level 3
+      required: false
+    - id: 14
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: attachment
+      label: Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: employee_status
+      label: Employee status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 17
+      name: employee_type
+      label: Employee type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: warning_level
+      label: Warning level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 19
+      name: reason_for_warning
+      label: Reason for warning
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: behavior_violated
+      label: Behavior violated
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: assigned_user
+      label: Assigned user
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: warning_type
+      label: Warning type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: attachment
+      label: Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: employee_status
+      label: Employee status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

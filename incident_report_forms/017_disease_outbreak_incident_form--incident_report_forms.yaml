@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Disease Outbreak Incident Form
+    pages:
+    - id: 1
+      name: first_page
+      label: Page 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: case_identification
+      label: Case Identification
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 3
+      name: case_description
+      label: Case Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: case_date
+      label: Date of Outbreak
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: case_type
+      label: Case Type
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 6
+      name: case_location
+      label: Case Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: case_location_other
+      label: Other Case Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: case_location_other_input
+      label: Location Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: case_location_type
+      label: Location Type
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 10
+      name: contact
+      label: Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: other_contact
+      label: Other Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: other_contact_input
+      label: Contact Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: case_reported_by
+      label: Case Reported By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: case_reported_date
+      label: Date Reported
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: case_confirmed
+      label: Case Confirmed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: case_confirmed_date
+      label: Confirmed Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: case_closed
+      label: Case Closed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: case_closed_date
+      label: Closed Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: case_cause
+      label: Case Cause
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: case_symptoms
+      label: Case Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: case_symptoms_other
+      label: Other Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: case_symptoms_other_input
+      label: Symptoms Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: case_outbreak_type
+      label: Outbreak Type
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 24
+      name: case_outbreak_type_other
+      label: Other Outbreak Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: case_outbreak_type_other_input
+      label: Outbreak Type Description
+      hint: null
+      type: text
+      options: []
+      required: false

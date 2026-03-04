@@ -1,0 +1,197 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Break Timer Registration
+    pages:
+      - id: 1
+        name: employee_name
+        label: Employee Full Name
+        hint: Your full legal name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: employee_email
+        label: Email Address
+        hint: Work email address
+        type: email
+        options: []
+        required: true
+      - id: 3
+        name: employee_id
+        label: Employee ID
+        hint: Your employee ID number
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: department
+        label: Department
+        hint: Your department or team
+        type: select_one
+        options:
+          - Human Resources
+          - Engineering
+          - Marketing
+          - Sales
+          - Operations
+          - Finance
+          - Customer Support
+          - Product
+          - Legal
+          - Other
+        required: true
+      - id: 5
+        name: manager_name
+        label: Manager Name
+        hint: Your direct manager
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: work_schedule
+        label: Work Schedule
+        hint: What is your regular schedule
+        type: select_one
+        options:
+          - Full-Time 9 AM to 5 PM
+          - Full-Time 8 AM to 4 PM
+          - Full-Time 10 AM to 6 PM
+          - Part-Time Morning
+          - Part-Time Afternoon
+          - Shift Work
+          - Flexible Schedule
+        required: true
+      - id: 7
+        name: preferred_break_times
+        label: Preferred Break Times
+        hint: When do you prefer to take breaks
+        type: select_multiple
+        options:
+          - Morning 10 AM to 10:30 AM
+          - Midday 12 PM to 1 PM
+          - Afternoon 2 PM to 2:30 PM
+          - Afternoon 3 PM to 3:30 PM
+          - Flexible
+        required: true
+      - id: 8
+        name: break_duration
+        label: Preferred Break Duration
+        hint: How long are your breaks
+        type: select_one
+        options:
+          - 10 Minutes
+          - 15 Minutes
+          - 20 Minutes
+          - 30 Minutes
+          - As Needed
+        required: true
+      - id: 9
+        name: breaks_per_day
+        label: Breaks Per Day
+        hint: How many breaks do you take
+        type: select_one
+        options:
+          - 1 Break
+          - 2 Breaks
+          - 3 Breaks
+          - 4 Breaks
+        required: true
+      - id: 10
+        name: reminder_method
+        label: Reminder Method
+        hint: How should we remind you
+        type: select_one
+        options:
+          - Email Notification
+          - SMS Text
+          - Desktop Notification
+          - Mobile App Alert
+          - Slack Message
+        required: true
+      - id: 11
+        name: reminder_timing
+        label: Reminder Timing
+        hint: When should reminders be sent
+        type: select_one
+        options:
+          - 5 Minutes Before
+          - At Break Time
+          - 5 Minutes After Start
+          - No Reminders
+        required: true
+      - id: 12
+        name: break_activities
+        label: Typical Break Activities
+        hint: What do you do on breaks
+        type: select_multiple
+        options:
+          - Coffee or Tea
+          - Meal or Snack
+          - Walk Outside
+          - Stretching
+          - Socializing
+          - Personal Calls
+          - Rest and Relax
+          - Exercise
+        required: true
+      - id: 13
+        name: wellness_goals
+        label: Wellness Goals
+        hint: Do you have wellness goals
+        type: select_one
+        options:
+          - Stay Hydrated
+          - Move More
+          - Reduce Screen Time
+          - Mindful Breaks
+          - No Specific Goals
+        required: false
+      - id: 14
+        name: team_coordination
+        label: Team Coordination
+        hint: Should breaks be coordinated with team
+        type: select_one
+        options:
+          - Yes, Coordinate with Team
+          - No, Individual Schedule
+        required: true
+      - id: 15
+        name: accessibility_needs
+        label: Accessibility Needs
+        hint: Do you need any accommodations
+        type: select_one
+        options:
+          - None
+          - Extended Break Time
+          - More Frequent Breaks
+          - Private Break Space
+          - Other
+        required: true
+      - id: 16
+        name: start_date
+        label: Registration Start Date
+        hint: When should this begin
+        type: date
+        options: []
+        required: true
+      - id: 17
+        name: consent_acknowledgment
+        label: Acknowledgment
+        hint: Do you understand break policies
+        type: select_one
+        options:
+          - Yes, I Understand
+          - No, Need More Information
+        required: true

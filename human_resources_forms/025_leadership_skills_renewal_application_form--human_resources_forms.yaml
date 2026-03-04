@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: Leadership Skills Renewal Application Form
+    pages:
+    - id: 1
+      name: leadership_skills_renewal_form
+      label: leadership_skills_renewal_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Human Resources Forms''}'
+      - '{''value'': ''Training Forms''}'
+      - '{''value'': ''Association Forms''}'
+      required: false
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: email
+      hint: Enter your email address
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''HR Teams''}'
+      - '{''value'': ''Training Providers''}'
+      - '{''value'': ''Associations''}'
+      required: false
+    - id: 7
+      name: submitted_on
+      label: submitted_on
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: submitted_time
+      label: submitted_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: submitter_info
+      label: submitter_info
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: certification_name
+      label: certification_name
+      hint: Enter your certification or recognition name
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: renewal_certification
+      label: renewal_certification
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

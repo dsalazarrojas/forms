@@ -1,0 +1,206 @@
+inputSchema:
+  type: object
+  properties:
+    title: Chronic Condition Time Off Form
+    pages:
+    - id: 1
+      name: employee_info
+      label: -- Employee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: manager_name
+      label: Direct Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact_info
+      label: Contact Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: request_details
+      label: -- Time Off Request Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: start_date
+      label: Start Date of Time Off
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: end_date
+      label: End Date of Time Off
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: duration_days
+      label: Total Number of Days
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: time_off_type
+      label: Type of Time Off
+      hint: null
+      type: select_one
+      options:
+      - Full day
+      - Half day
+      - Hourly leave
+      - Intermittent
+      required: true
+    - id: 13
+      name: medical_section
+      label: -- Medical Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: condition_name
+      label: Chronic Condition Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: condition_type
+      label: Type of Condition
+      hint: null
+      type: select_one
+      options:
+      - Cardiovascular
+      - Respiratory
+      - Metabolic
+      - Autoimmune
+      - Neurological
+      - Mental Health
+      - Musculoskeletal
+      - Other
+      required: true
+    - id: 16
+      name: medical_certification
+      label: Medical Certification Attached
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Will be provided
+      required: true
+    - id: 17
+      name: ongoing_treatment
+      label: Is this for ongoing treatment or appointment?
+      hint: null
+      type: select_one
+      options:
+      - Yes, regular appointments
+      - Yes, one-time appointment
+      - No, episodic flare
+      - Other
+      required: true
+    - id: 18
+      name: appointment_frequency
+      label: Estimated Frequency of Absences
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - Quarterly
+      - As needed
+      required: false
+    - id: 19
+      name: work_accommodation
+      label: -- Work Accommodations --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: accommodation_needed
+      label: Do you require any work accommodations?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Under review
+      required: true
+    - id: 21
+      name: accommodation_details
+      label: Please Specify Accommodations Needed
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: remote_work
+      label: Can you work remotely during this period?
+      hint: null
+      type: select_one
+      options:
+      - Yes, fully remote
+      - Yes, partial remote
+      - false
+      - Not applicable
+      required: false
+    - id: 23
+      name: additional_notes
+      label: Additional Information or Special Circumstances
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: confidentiality
+      label: I understand this information is confidential
+      hint: null
+      type: select_one
+      options:
+      - Yes, I agree
+      - false
+      required: true

@@ -1,0 +1,214 @@
+inputSchema:
+  type: object
+  properties:
+    title: Marketing Intern Interview Form
+    pages:
+    - id: 1
+      name: candidate_details
+      label: Candidate Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: experience
+      label: Work Experience
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: qualifications
+      label: Qualifications
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: skills
+      label: Skills
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: available_start_date
+      label: Available Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: availability
+      label: Availability
+      hint: null
+      type: select_one
+      options:
+      - Available
+      - Not Available
+      - Flexible
+      required: false
+    - id: 11
+      name: preferred_contact
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - In Person
+      required: false
+    - id: 12
+      name: candidate_status
+      label: Candidate Status
+      hint: null
+      type: select_one
+      options:
+      - Interview Scheduled
+      - Interview Completed
+      - Not Scheduled
+      - Not Completed
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 14
+      name: references
+      label: References
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: resume
+      label: Resume
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: interview_questions
+      label: Interview Questions
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: candidate_comments
+      label: Candidate Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: reviewer_comments
+      label: Reviewer Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: interview_date
+      label: Interview Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: interview_time
+      label: Interview Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 22
+      name: interview_location
+      label: Interview Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: interviewers
+      label: Interviewers
+      hint: null
+      type: select_multiple
+      options:
+      - John Doe
+      - Jane Doe
+      required: false
+    - id: 24
+      name: review_completed
+      label: Review Completed
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 25
+      name: review_comments
+      label: Review Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: final_status
+      label: Final Status
+      hint: null
+      type: select_one
+      options:
+      - Interviewed
+      - Not Interviewed
+      - Not Applicable
+      required: false
+    - id: 27
+      name: interview_type
+      label: Interview Type
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - In-Person
+      - Video
+      required: false

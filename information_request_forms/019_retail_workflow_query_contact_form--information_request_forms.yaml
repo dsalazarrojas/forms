@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: retail_workflow_query_contact_form
+    pages:
+    - id: 1
+      name: query_type
+      label: Query Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Sales'', ''value'': ''sales''}'
+      - '{''id'': 2, ''label'': ''Service'', ''value'': ''service''}'
+      - '{''id'': 3, ''label'': ''Product'', ''value'': ''product''}'
+      - '{''id'': 4, ''label'': ''Other'', ''value'': ''other''}'
+      required: false
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Phone'', ''value'': ''phone''}'
+      - '{''id'': 2, ''label'': ''Email'', ''value'': ''email''}'
+      required: false
+    - id: 4
+      name: query_details
+      label: Query Details
+      hint: Please provide more details about your query
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: retail_location
+      label: Retail Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: sales_person
+      label: Sales Person
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''John'', ''value'': ''john''}'
+      - '{''id'': 2, ''label'': ''Jane'', ''value'': ''jane''}'
+      - '{''id'': 3, ''label'': ''Jim'', ''value'': ''jim''}'
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Work Shift Scheduling Form
+    pages:
+    - id: 1
+      name: work_shift_scheduling_form
+      label: Work Shift Scheduling Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: weekly_availability
+      label: Weekly Availability
+      hint: null
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 8
+      name: shifts_wanted
+      label: Shifts Wanted
+      hint: null
+      type: select_multiple
+      options:
+      - Shift 1
+      - Shift 2
+      - Shift 3
+      required: false
+    - id: 9
+      name: preferred_shift
+      label: Preferred Shift
+      hint: null
+      type: select_one
+      options:
+      - Shift 1
+      - Shift 2
+      - Shift 3
+      required: false
+    - id: 10
+      name: conflict_availability
+      label: Conflict Availability
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 11
+      name: conflicts
+      label: Conflicts
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: supervisor_comments
+      label: Supervisor Comments
+      hint: null
+      type: note
+      options: []
+      required: false

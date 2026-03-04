@@ -1,0 +1,221 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Overtime Survey
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Accounting
+      - Human Resources
+      - IT
+      required: false
+    - id: 5
+      name: suggestion
+      label: Suggestion
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 6
+      name: feedback
+      label: Feedback
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: rendered_overtime_hours
+      label: Rendered Overtime Hours
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: rendered_overtime_days
+      label: Rendered Overtime Days
+      hint: null
+      type: select_one
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      - Other
+      required: false
+    - id: 9
+      name: rendered_overtime_start_time
+      label: Rendered Overtime Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: rendered_overtime_end_time
+      label: Rendered Overtime End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 11
+      name: overtime_pay
+      label: Overtime Pay
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: rendered_overtime_pay_period
+      label: Rendered Overtime Pay Period
+      hint: null
+      type: select_one
+      options:
+      - Weekly
+      - Bi-weekly
+      - Monthly
+      - Quarterly
+      required: false
+    - id: 13
+      name: rendered_overtime_pay_rate
+      label: Rendered Overtime Pay Rate
+      hint: null
+      type: select_one
+      options:
+      - Hourly
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 14
+      name: rendered_overtime_pay_amount
+      label: Rendered Overtime Pay Amount
+      hint: null
+      type: select_multiple
+      options:
+      - $50-$100
+      - $100-$200
+      - More than $200
+      required: false
+    - id: 15
+      name: rendered_overtime_frequency
+      label: Rendered Overtime Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Yearly
+      - Other
+      required: false
+    - id: 16
+      name: rendered_overtime_comment
+      label: Rendered Overtime Comment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 19
+      name: manager_phone
+      label: Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: manager_department
+      label: Manager Department
+      hint: null
+      type: select_one
+      options:
+      - Accounting
+      - Human Resources
+      - IT
+      required: false
+    - id: 21
+      name: manager_title
+      label: Manager Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: manager_overtime_pay
+      label: Manager Overtime Pay
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: manager_overtime_frequency
+      label: Manager Overtime Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Quarterly
+      - Yearly
+      - Other
+      required: false
+    - id: 24
+      name: manager_overtime_pay_rate
+      label: Manager Overtime Pay Rate
+      hint: null
+      type: select_one
+      options:
+      - Hourly
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 25
+      name: manager_overtime_comment
+      label: Manager Overtime Comment
+      hint: null
+      type: note
+      options: []
+      required: false

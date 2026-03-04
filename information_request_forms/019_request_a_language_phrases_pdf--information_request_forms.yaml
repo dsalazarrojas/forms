@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: request_a_language_phrases_pdf
+    pages:
+    - id: 1
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: language
+      label: Language
+      hint: null
+      type: select_multiple
+      options:
+      - English
+      - Spanish
+      - French
+      - German
+      - Chinese
+      required: false
+    - id: 3
+      name: purpose
+      label: Purpose
+      hint: null
+      type: select_one
+      options:
+      - Personal
+      - Professional
+      - Both
+      required: false
+    - id: 4
+      name: level
+      label: Level
+      hint: null
+      type: select_one
+      options:
+      - Basic
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 5
+      name: delivery_method
+      label: Delivery Method
+      hint: null
+      type: select_multiple
+      options:
+      - PDF
+      - Excel
+      - Word
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

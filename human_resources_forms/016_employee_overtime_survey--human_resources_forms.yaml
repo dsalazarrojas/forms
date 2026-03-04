@@ -1,0 +1,73 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Overtime Survey
+    pages:
+    - id: 1
+      name: overtime_survey
+      label: What was the primary reason you rendered overtime?
+      hint: null
+      type: select_one
+      options:
+      - Overtime was requested by my manager
+      - Had an unexpected task or emergency
+      - Was not feeling well or had a family emergency
+      - Other (please specify)
+      required: true
+    - id: 2
+      name: overtime_survey_page_2
+      label: How many hours did you render overtime?
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: overtime_survey_page_3
+      label: Do you have any suggestions for how we can improve our overtime procedures?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: overtime_survey_page_4
+      label: What do you think is the biggest obstacle to rendering overtime?
+      hint: null
+      type: select_one
+      options:
+      - Lack of resources
+      - Lack of staffing
+      - Other (please specify)
+      required: true
+    - id: 5
+      name: overtime_survey_page_5
+      label: What are some possible solutions to improve overtime procedures?
+      hint: null
+      type: select_multiple
+      options:
+      - Provide more resources
+      - Improve staffing levels
+      - Other (please specify)
+      required: true
+    - id: 6
+      name: overtime_survey_page_6
+      label: Have you experienced any burnout or fatigue from rendering overtime?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: overtime_survey_page_7
+      label: How many hours do you think you will render overtime in the next quarter?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: overtime_survey_page_8
+      label: Do you have any other comments or suggestions about rendering overtime?
+      hint: null
+      type: text
+      options: []
+      required: false

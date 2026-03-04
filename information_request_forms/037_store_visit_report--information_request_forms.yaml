@@ -1,0 +1,78 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Store Visit Report
+    pages:
+    - id: 1
+      name: store_visit_report_form
+      label: store_visit_report_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: store_visit
+      label: what_happened_during_your_visit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: store_visit_location
+      label: which_store_did_you_visit
+      hint: null
+      type: select_one
+      options:
+      - store1
+      - store2
+      - store3
+      required: true
+    - id: 4
+      name: store_visit_date
+      label: date_of_visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: store_visit_time
+      label: time_of_visit
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: store_visit_purpose
+      label: what_was_your_purpose_of_visit
+      hint: null
+      type: select_one
+      options:
+      - shopping
+      - meeting
+      - other
+      required: true
+    - id: 7
+      name: store_visit_note
+      label: any_other_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: store_visit_employee
+      label: store_visit_employee
+      hint: null
+      type: text
+      options: []
+      required: false

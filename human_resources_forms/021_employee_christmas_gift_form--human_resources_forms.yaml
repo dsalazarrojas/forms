@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Christmas Gift Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: gift_suggestion
+      label: Gift Suggestion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: bonus_preferred
+      label: Bonus Preferred
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: gift_category
+      label: Gift Category
+      hint: null
+      type: select_one
+      options:
+      - Monetary
+      - Gift Card
+      - Gift Basket
+      - Other
+      required: true
+    - id: 6
+      name: gift_value
+      label: Gift Value
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: holiday_hours_worked
+      label: Holiday Hours Worked
+      hint: null
+      type: select_one
+      options:
+      - 10-20 hours
+      - 21-40 hours
+      - More than 40 hours
+      required: true
+    - id: 11
+      name: bonus_frequency
+      label: Bonus Frequency
+      hint: null
+      type: select_one
+      options:
+      - Once a year
+      - Every 2 months
+      - Every 6 months
+      - Never
+      required: true
+    - id: 12
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: form_submitted_by
+      label: Form Submitted By
+      hint: null
+      type: select_one
+      options:
+      - HR Manager
+      - Team Leader
+      - Employee
+      required: true
+    - id: 14
+      name: form_submitted_date
+      label: Form Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: form_submitted_time
+      label: Form Submitted Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 16
+      name: form_submitted_hour
+      label: Form Submitted Hour
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 17
+      name: form_submitted_minute
+      label: Form Submitted Minute
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 18
+      name: form_submitted_second
+      label: Form Submitted Second
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 19
+      name: form_submitted_am_pm
+      label: Form Submitted AM/PM
+      hint: null
+      type: select_one
+      options:
+      - AM
+      - PM
+      required: true
+    - id: 20
+      name: employee_status
+      label: Employee Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Retired
+      required: true
+    - id: 21
+      name: departmental_bonus
+      label: Departmental Bonus
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: departmental_bonus_frequency
+      label: Departmental Bonus Frequency
+      hint: null
+      type: select_one
+      options:
+      - Once a year
+      - Every 2 months
+      - Every 6 months
+      - Never
+      required: true
+    - id: 23
+      name: departmental_bonus_amount
+      label: Departmental Bonus Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: form_submitted_by_abbreviation
+      label: Form Submitted By Abbreviation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: form_submitted_by_title
+      label: Form Submitted By Title
+      hint: null
+      type: text
+      options: []
+      required: false

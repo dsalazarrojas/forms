@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: crowdstrike_global_threat_report_form
+    pages:
+    - id: 1
+      name: global_threat_report_form
+      label: global-threat-report-form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: report_form_section
+      label: report-form-section
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: threat_info
+      label: threat-info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: threat_tactics_techniques
+      label: threat-tactics-techniques
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: incident_info
+      label: incident-info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_time
+      label: date-time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: time_zone
+      label: time-zone
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false

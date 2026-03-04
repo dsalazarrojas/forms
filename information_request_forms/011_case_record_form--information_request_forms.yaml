@@ -1,0 +1,203 @@
+inputSchema:
+  type: object
+  properties:
+    title: Case Record Form
+    pages:
+    - id: 1
+      name: record_identification_section
+      label: -- Record Identification --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: record_number
+      label: Record Number
+      hint: Unique case identifier
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: record_date
+      label: Record Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: form_version
+      label: Form Version
+      hint: Specify version number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_information_section
+      label: -- Participant Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: full_name
+      label: Full Name
+      hint: Legal name
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer to specify
+      - Prefer not to answer
+      required: true
+    - id: 10
+      name: contact_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: contact_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: primary_address
+      label: Primary Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: case_details_section
+      label: -- Case Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: case_type
+      label: Type of Case
+      hint: null
+      type: select_one
+      options:
+      - Medical
+      - Social Services
+      - Legal
+      - Educational
+      - Mental Health
+      - Custody
+      - Employment
+      - Housing
+      - Other
+      required: true
+    - id: 15
+      name: case_opened_date
+      label: Case Opened Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: referring_agency
+      label: Referring Agency or Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: assigned_worker
+      label: Assigned Case Worker or Coordinator
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: case_history_section
+      label: -- Case History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: background_information
+      label: Relevant Background Information
+      hint: Summarize key history
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: previous_cases
+      label: Any Previous Cases or Records?
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unknown
+      required: true
+    - id: 21
+      name: current_status_section
+      label: -- Current Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: current_case_status
+      label: Current Case Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - On Hold
+      - Under Review
+      - Pending Closure
+      - Closed
+      - Transferred
+      required: true
+    - id: 23
+      name: last_contact_date
+      label: Last Contact Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: progress_notes
+      label: Progress Notes and Updates
+      hint: Document recent developments
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: next_review_date
+      label: Next Scheduled Review Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false

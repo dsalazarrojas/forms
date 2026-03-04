@@ -1,0 +1,68 @@
+inputSchema:
+  type: object
+  properties:
+    title: Residency Condition Removal Checklist
+    pages:
+    - id: 1
+      name: upload_documents
+      label: Upload Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: confirm_residency
+      label: confirm_residency_requirements
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 3
+      name: declare_residency
+      label: declare_residency_status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 4
+      name: signed_declaration
+      label: signed_declaration_form
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: submit_form
+      label: submit_form
+      hint: null
+      type: select_one
+      options:
+      - Option 1
+      - Option 2
+      required: false
+    - id: 6
+      name: upload_additional_docs
+      label: upload_additional_docs
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: confirm_residency_date
+      label: confirm_residency_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: confirm_residency_time
+      label: confirm_residency_time
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pensioners Validation Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: id_number
+      label: Id number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: pensioner_id
+      label: Pensioner ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: pensioner_type
+      label: Pensioner type
+      hint: null
+      type: select_one
+      options:
+      - Pensioner
+      - Pensioner with dependants
+      - Pensioner with dependant
+      required: false
+    - id: 10
+      name: dependant_info
+      label: Dependant information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: dependant_name
+      label: Dependant name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: dependant_date_of_birth
+      label: Dependant date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: pensioner_status
+      label: Pensioner status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Unknown
+      required: false
+    - id: 14
+      name: pensioner_since
+      label: Pensioner since
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: pensioner_note
+      label: Pensioner note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: form_submitted_by
+      label: Form submitted by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: form_submitted_on
+      label: Form submitted on
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: form_submitted_by_user
+      label: Form submitted by user
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: form_submitted_on_user
+      label: Form submitted on user
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: form_submitted_by_email
+      label: Form submitted by email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 21
+      name: form_submitted_by_phone
+      label: Form submitted by phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: form_submitted_by_address
+      label: Form submitted by address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: form_submitted_by_pensioner_id
+      label: Form submitted by pensioner ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: form_submitted_by_pensioner_type
+      label: Form submitted by pensioner type
+      hint: null
+      type: select_one
+      options:
+      - Pensioner
+      - Pensioner with dependants
+      - Pensioner with dependant
+      required: false
+    - id: 25
+      name: form_submitted_by_pensioner_status
+      label: Form submitted by pensioner status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Unknown
+      required: false

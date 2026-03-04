@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Influencer Authenticity Verification Form
+    pages:
+    - id: 1
+      name: account_details
+      label: Account Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: account_type
+      label: account_type
+      hint: null
+      type: select_multiple
+      options:
+      - type_a
+      - type_b
+      - type_c
+      required: false
+    - id: 3
+      name: profile_picture
+      label: Profile Picture
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: profile_completion
+      label: profile_completion
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: account_name
+      label: Account Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: account_description
+      label: Account Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: account_link
+      label: Account Link
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: social_media_links
+      label: Social Media Links
+      hint: null
+      type: select_multiple
+      options:
+      - linkedin
+      - facebook
+      - instagram
+      required: false
+    - id: 11
+      name: content_samples
+      label: Content Samples
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: additional_info
+      label: Additional Info
+      hint: null
+      type: note
+      options: []
+      required: false

@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: corporal_punishment_form
+    pages:
+    - id: 1
+      name: user
+      label: User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incident_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: description
+      label: Description
+      hint: Describe the corporal punishment
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: location
+      label: Location
+      hint: Where did the corporal punishment occur?
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: corporal_punishment
+      label: Type of corporal punishment
+      hint: Select the type of corporal punishment
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: witnesses
+      label: Witnesses
+      hint: List any witnesses to the corporal punishment
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: incident_status
+      label: Status
+      hint: Status of the incident
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: investigation_result
+      label: Investigation Result
+      hint: Outcome of the investigation
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: user_notes
+      label: User Notes
+      hint: Private notes from user
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: system_notes
+      label: System Notes
+      hint: Private notes from system
+      type: note
+      options: []
+      required: false

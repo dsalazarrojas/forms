@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: Store Locator Search Form
+    pages:
+    - id: 1
+      name: store_locator_search
+      label: Store Locator Search
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: select_category
+      label: Select Category
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Retail Stores''}'
+      - '{''label'': ''Service Centers''}'
+      - '{''label'': ''Pharmacies''}'
+      - '{''label'': ''Banks''}'
+      - '{''label'': ''Restaurants''}'
+      required: false
+    - id: 3
+      name: select_location
+      label: Select Location
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Downtown''}'
+      - '{''label'': ''Uptown''}'
+      - '{''label'': ''Mall''}'
+      - '{''label'': ''Online''}'
+      required: false
+    - id: 4
+      name: store_name
+      label: Store Name
+      hint: Enter store name
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: select_sort_by
+      label: Select Sort By
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Alphabetically''}'
+      - '{''label'': ''Distance''}'
+      required: false
+    - id: 6
+      name: select_distance
+      label: Select Distance
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''1-5 Miles''}'
+      - '{''label'': ''6-10 Miles''}'
+      - '{''label'': ''More Than 10 Miles''}'
+      required: false
+    - id: 7
+      name: select_distance_unit
+      label: Select Distance Unit
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Kilometers''}'
+      - '{''label'': ''Miles''}'
+      required: false
+    - id: 8
+      name: store_hours
+      label: Store Hours
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: store_phone
+      label: Store Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: store_email
+      label: Store Email
+      hint: Enter store email
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: store_website
+      label: Store Website
+      hint: Enter store website
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: select_distance_value
+      label: Select Distance Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: store_rating
+      label: Store Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: store_description
+      label: Store Description
+      hint: Enter store description
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

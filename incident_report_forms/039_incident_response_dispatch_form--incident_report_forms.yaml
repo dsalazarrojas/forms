@@ -1,0 +1,208 @@
+inputSchema:
+  type: object
+  properties:
+    title: Incident Response Dispatch Form
+    pages:
+    - id: 1
+      name: incident_response_dispatch_form_1
+      label: Incident Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: dispatch_details
+      label: Dispatch Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: incident_response_status
+      label: Incident Response Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: incident_reporter
+      label: Incident Reporter
+      hint: null
+      type: select_one
+      options:
+      - Operations Manager
+      - Team Member
+      - Other
+      required: false
+    - id: 5
+      name: response_assignment
+      label: Response Assignment
+      hint: null
+      type: select_multiple
+      options:
+      - Operations Manager
+      - Team Member
+      - Other
+      required: false
+    - id: 6
+      name: incident_priority
+      label: Incident Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      - Medium
+      required: false
+    - id: 7
+      name: incident_category
+      label: Incident Category
+      hint: null
+      type: select_multiple
+      options:
+      - Environmental Emergency
+      - Security Breach
+      - Medical Emergency
+      - Other
+      required: false
+    - id: 8
+      name: incident_description
+      label: Incident Description
+      hint: Please provide a detailed description of the incident.
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: incident_date
+      label: Incident Date
+      hint: Date of the incident
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: incident_time
+      label: Incident Time
+      hint: Time of the incident
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: incident_location
+      label: Incident Location
+      hint: Location of the incident
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: response_time
+      label: Response Time
+      hint: Time taken for response
+      type: time
+      options: []
+      required: false
+    - id: 13
+      name: response_status
+      label: Response Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - In Progress
+      - Delayed
+      required: false
+    - id: 14
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_one
+      options:
+      - Fire
+      - Police
+      - Medical
+      required: false
+    - id: 15
+      name: incident_number
+      label: Incident Number
+      hint: Incident report number
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: incident_status
+      label: Incident Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Closed
+      - Delayed
+      required: false
+    - id: 17
+      name: incident_date_2
+      label: Incident Date 2
+      hint: Date 2 of the incident
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: incident_time_2
+      label: Incident Time 2
+      hint: Time 2 of the incident
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: incident_location_2
+      label: Incident Location 2
+      hint: Location 2 of the incident
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: email
+      label: Contact Email
+      hint: Contact email for followup
+      type: email
+      options: []
+      required: false
+    - id: 22
+      name: phone
+      label: Contact Phone
+      hint: Contact phone number for followup
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_one
+      options:
+      - Operations Manager
+      - Team Member
+      - Other
+      required: false
+    - id: 24
+      name: follow_up_date
+      label: Follow-up Date
+      hint: Date to follow up
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: follow_up_status
+      label: Follow-up Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - In Progress
+      - Delayed
+      required: false

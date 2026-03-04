@@ -1,0 +1,135 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Academic Peer Review Publication Consent Form
+    pages:
+    - id: 1
+      name: review_consent_intro
+      label: Academic Peer Review Publication Consent
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: reviewer_name
+      label: Reviewer Name
+      hint: Full name of the peer reviewer
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: reviewer_email
+      label: Email Address
+      hint: Professional email for correspondence
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: reviewer_institution
+      label: Institution
+      hint: University or organization affiliation
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: reviewer_credentials
+      label: Credentials
+      hint: Relevant qualifications or expertise
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: manuscript_title
+      label: Manuscript Title
+      hint: Title of the manuscript being reviewed
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: journal_publication_name
+      label: Journal or Publication Name
+      hint: Name of the journal or publication
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: review_date
+      label: Review Date
+      hint: Date when the peer review was completed
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: consent_to_open_review
+      label: Consent to Open Review
+      hint: Do you consent to having your identity revealed as the reviewer?
+      type: select_one
+      options: ["Yes, I consent to open review", "Yes, with conditions", "No, I prefer anonymous review", "No opinion"]
+      required: true
+    - id: 10
+      name: consent_to_review_publication
+      label: Consent to Review Publication
+      hint: Do you consent to having your review comments published alongside the article?
+      type: select_one
+      options: ["Yes, I consent", "Yes, with editorial modifications", "No, I do not consent", "Conditional on anonymity"]
+      required: true
+    - id: 11
+      name: consent_to_data_sharing
+      label: Consent to Data Sharing
+      hint: Do you consent to sharing anonymized review data for research purposes?
+      type: select_one
+      options: ["Yes, I consent", "Yes, with restrictions", "No, I do not consent", "Need more information"]
+      required: true
+    - id: 12
+      name: consent_to_citation
+      label: Consent to Citation
+      hint: Do you consent to having your review cited in future work?
+      type: select_one
+      options: ["Yes, I consent", "Yes, with attribution", "No, I do not consent", "Conditional on context"]
+      required: true
+    - id: 13
+      name: review_modification_rights
+      label: Review Modification Rights
+      hint: Do you want the right to review and approve any modifications before publication?
+      type: select_one
+      options: ["Yes, I want approval rights", "No, I trust the editors", "Conditional on major changes", "Unsure"]
+      required: true
+    - id: 14
+      name: conflict_of_interest_declaration
+      label: Conflict of Interest Declaration
+      hint: Do you declare any conflicts of interest related to this review?
+      type: select_one
+      options: ["No conflicts of interest", "Have declared in review", "Have potential conflicts", "Need to clarify"]
+      required: true
+    - id: 15
+      name: review_quality_acknowledgement
+      label: Review Quality Acknowledgement
+      hint: Do you confirm that your review meets professional standards?
+      type: select_one
+      options: ["Yes, I confirm", "With minor revisions", "Need to review again", "Not applicable"]
+      required: true
+    - id: 16
+      name: special_conditions
+      label: Special Conditions
+      hint: Do you have any special conditions for your consent?
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: withdrawal_rights_acknowledged
+      label: Withdrawal Rights Acknowledged
+      hint: Do you understand you can withdraw consent under certain circumstances?
+      type: select_one
+      options: ["Yes, I understand", "No, need clarification", "Have questions", "Not applicable"]
+      required: true

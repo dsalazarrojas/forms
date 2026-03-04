@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: performance_feedback_communication_form
+    pages:
+    - id: 1
+      name: employee_feedback
+      label: Employee Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: supervisor_feedback
+      label: Supervisor Feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: action_items
+      label: Action Items
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: communication_channel
+      label: Communication Channel
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - In-person
+      - Video Conference
+      required: true
+    - id: 5
+      name: expected_outcome
+      label: Expected Outcome
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: actual_outcome
+      label: Actual Outcome
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: performance_rating
+      label: Performance Rating
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: true

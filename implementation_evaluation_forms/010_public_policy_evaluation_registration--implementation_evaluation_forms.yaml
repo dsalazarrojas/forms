@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Public Policy Evaluation Registration
+    pages:
+    - id: 1
+      name: public_policy_evaluation_registration
+      label: Registration Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: program_title
+      label: Program Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: program_date_started
+      label: Program Started
+      hint: Enter date started
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: program_location
+      label: Program Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: evaluation_type
+      label: Evaluation Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: evaluation_duration
+      label: Evaluation Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: evaluation_periodicity
+      label: Evaluation Periodicity
+      hint: Enter frequency of evaluation
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: evaluation_frequency
+      label: Evaluation Frequency
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: program_evaluators
+      label: Program Evaluators
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

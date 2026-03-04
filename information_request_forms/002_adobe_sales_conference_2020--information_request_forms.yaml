@@ -1,0 +1,150 @@
+inputSchema:
+  type: object
+  properties:
+    title: Adobe Sales Conference 2020
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company_name
+      label: Company Name
+      hint: Name of your organization
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: job_title
+      label: Job Title
+      hint: Your current role and position
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: Business email for conference materials
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: Contact number during conference
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: business_sector
+      label: Business Sector
+      hint: Industry or sector your company operates in
+      type: select_one
+      options:
+      - Technology
+      - Finance
+      - Healthcare
+      - Retail
+      - Media
+      - Manufacturing
+      - Other
+      required: true
+    - id: 8
+      name: company_size
+      label: Company Size
+      hint: Number of employees at your organization
+      type: select_one
+      options:
+      - 1-50
+      - 51-200
+      - 201-1000
+      - 1000+
+      required: true
+    - id: 9
+      name: adobe_experience
+      label: Adobe Product Experience
+      hint: Which Adobe products do you currently use
+      type: select_multiple
+      options:
+      - Photoshop
+      - Illustrator
+      - InDesign
+      - Acrobat
+      - Creative Cloud
+      - Experience Cloud
+      - Analytics
+      required: false
+    - id: 10
+      name: conference_interests
+      label: Primary Areas of Interest
+      hint: Select topics relevant to your role
+      type: select_multiple
+      options:
+      - Digital Marketing
+      - Content Management
+      - Analytics
+      - Design Tools
+      - Customer Experience
+      - Automation
+      required: true
+    - id: 11
+      name: attendance_status
+      label: Confirmed Attendance
+      hint: Will you be attending the conference
+      type: select_one
+      options:
+      - true
+      - false
+      - Maybe
+      required: true
+    - id: 12
+      name: additional_attendees
+      label: Number of Additional Attendees
+      hint: How many colleagues will attend
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Any special meal requirements
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: accessibility_needs
+      label: Accessibility Needs
+      hint: Any accommodations needed for the conference
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: how_heard
+      label: How Did You Hear About This Conference
+      hint: What led you to register
+      type: select_one
+      options:
+      - Email
+      - Website
+      - Sales Rep
+      - Social Media
+      - Colleague Recommendation
+      - Other
+      required: false
+    - id: 16
+      name: comments
+      label: Additional Comments or Questions
+      hint: Let us know what else we can help with
+      type: text
+      options: []
+      required: false

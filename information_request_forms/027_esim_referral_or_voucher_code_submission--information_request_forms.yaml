@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: esim_referral_or_voucher_code_submission
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: customer_name
+      label: Customer Name
+      hint: Enter customer name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_email
+      label: Customer Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: esim_referral_code
+      label: eSIM Referral Code
+      hint: Enter eSIM referral code
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: esim_voucher_code
+      label: eSIM Voucher Code
+      hint: Enter eSIM voucher code
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: customer_phone
+      label: Customer Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: customer_note
+      label: Customer Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: esim_referral_code_expires
+      label: eSIM Referral Code Expires
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: esim_voucher_code_expires
+      label: eSIM Voucher Code Expires
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: submit_form
+      label: Submit Form
+      hint: null
+      type: text
+      options: []
+      required: true

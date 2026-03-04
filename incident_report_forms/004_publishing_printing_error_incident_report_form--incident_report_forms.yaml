@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: publishing_printing_error_incident_report_form
+    pages:
+    - id: 1
+      name: incident_report_form
+      label: Incident Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: error_details
+      label: error_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: publishing_printing_error_incident_report_form_output
+      label: Report Form Output
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: error_type
+      label: Error Type
+      hint: null
+      type: select_one
+      options:
+      - Error in Production
+      - Error in Proofreading
+      - Error in Distribution
+      - Other
+      required: false
+    - id: 7
+      name: error_description
+      label: Error Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: affected_books
+      label: Affected Books
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: affected_sections
+      label: Affected Sections
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: printing_error
+      label: Printing Error
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: production_teams
+      label: Production Teams
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: error_impact
+      label: Error Impact
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 13
+      name: error_impact_details
+      label: Error Impact Details
+      hint: null
+      type: text
+      options: []
+      required: false

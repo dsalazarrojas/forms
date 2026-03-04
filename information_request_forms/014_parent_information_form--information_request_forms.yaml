@@ -1,0 +1,176 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parent Information Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: birth_date
+      label: Birth Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: relationship_to_student
+      label: Relationship to Student
+      hint: null
+      type: select_one
+      options:
+      - Student
+      - Parent
+      - Guardian
+      required: false
+    - id: 7
+      name: address
+      label: Address
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: school_grade
+      label: School Grade
+      hint: null
+      type: select_multiple
+      options:
+      - Elementary School
+      - High School
+      - Middle School
+      required: false
+    - id: 11
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: parent_permission_level
+      label: Parent Permission Level
+      hint: null
+      type: select_one
+      options:
+      - Parent Permission Level 1
+      - Parent Permission Level 2
+      - Parent Permission Level 3
+      required: false
+    - id: 13
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: select_one
+      options:
+      - Mother
+      - Father
+      - Brother
+      - Sister
+      - Grandparent
+      - Other
+      required: false
+    - id: 15
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: emergency_contact_email
+      label: Emergency Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: medical_conditions
+      label: Medical Conditions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: medical_allergies
+      label: Medical Allergies
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: medical_equipment
+      label: Medical Equipment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: medical_important_notes
+      label: Medical Important Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: other_notes
+      label: Other Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: consent_form
+      label: Consent Form
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false

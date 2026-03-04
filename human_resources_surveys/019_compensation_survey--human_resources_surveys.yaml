@@ -1,0 +1,112 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Compensation Survey
+    pages:
+      - id: 1
+        name: general_comp_survey_header
+        label: -- Employee Compensation Needs Survey --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: current_salary_band_range
+        label: What is your current annual salary range?
+        hint: Select the range that applies
+        type: select_one
+        options:
+          - Under $40,000
+          - $40,000 - $60,000
+          - $60,000 - $80,000
+          - $80,000 - $100,000
+          - $100,000 - $150,000
+          - Over $150,000
+        required: true
+      - id: 3
+        name: desired_salary_increase
+        label: What is your target annual salary for the next fiscal year?
+        hint: Based on performance and market value
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: valuest_part_of_package
+        label: Which part of your compensation package do you value the most?
+        hint: Select the primary benefit
+        type: select_one
+        options:
+          - Base Salary
+          - Bonus / Incentives
+          - Healthcare
+          - PTO / Vacation
+          - Stock Options / Equity
+          - Work Flexibility
+        required: true
+      - id: 5
+        name: pay_frequency_satisfaction
+        label: Are you satisfied with the current frequency of pay?
+        hint: e.g., Bi-weekly, Monthly
+        type: select_one
+        options:
+          - Yes, very satisfied
+          - Yes, satisfied
+          - No, I prefer different frequency
+        required: true
+      - id: 6
+        name: understanding_of_deductions
+        label: Do you clearly understand the taxes and deductions on your pay stub?
+        hint: Clarity of payroll documentation
+        type: select_one
+        options:
+          - Yes, completely
+          - Somewhat
+          - No, I need more info
+        required: true
+      - id: 7
+        name: bonus_eligibility_understanding
+        label: Do you understand your eligibility for bonuses or incentives?
+        hint: Clarity of incentive programs
+        type: select_one
+        options:
+          - Yes, I am eligible and understand
+          - I am eligible but do not understand
+          - I am not eligible for any bonuses
+          - I am unsure if I am eligible
+        required: true
+      - id: 8
+        name: inflation_impact_perception
+        label: How much has inflation impacted your satisfaction with your current pay?
+        hint: Effect of cost of living
+        type: select_one
+        options:
+          - Major impact (Feel much less satisfied)
+          - Moderate impact
+          - Little impact
+          - No impact
+        required: true
+      - id: 9
+        name: compensation_feedback_open
+        label: Any other feedback you would like to share with HR regarding compensation?
+        hint: Open comments
+        type: text
+        options: []
+        required: false
+      - id: 10
+        name: comp_survey_date_submitted
+        label: Date of Submission
+        hint: Today's date
+        type: date
+        options: []
+        required: true

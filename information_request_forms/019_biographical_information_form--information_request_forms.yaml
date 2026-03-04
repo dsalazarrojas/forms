@@ -1,0 +1,343 @@
+inputSchema:
+  type: object
+  properties:
+    title: Biographical Information Form
+    pages:
+    - id: 1
+      name: personal_information
+      label: Personal Information
+      hint: Enter your personal details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your given name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: middle_name
+      label: Middle Name
+      hint: Your middle name or initial
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: last_name
+      label: Last Name
+      hint: Your family name
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: suffix
+      label: Suffix
+      hint: Jr, Sr, III, etc
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your birth date
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: place_of_birth
+      label: Place of Birth
+      hint: City and state or country
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: gender
+      label: Gender
+      hint: Your gender identity
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-Binary
+      - Prefer Not to Say
+      - Other
+      required: true
+    - id: 9
+      name: contact_information
+      label: Contact Information
+      hint: Enter your contact details
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: email
+      label: Email Address
+      hint: Primary email address
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: phone
+      label: Phone Number
+      hint: Primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: alternate_phone
+      label: Alternate Phone
+      hint: Secondary contact number
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: street_address
+      label: Street Address
+      hint: Complete street address
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: apartment_unit
+      label: Apartment or Unit
+      hint: Apt, Suite, Unit number
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: city
+      label: City
+      hint: City name
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: state
+      label: State or Province
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: zip_code
+      label: ZIP or Postal Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: country
+      label: Country
+      hint: Country of residence
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: identification
+      label: Identification
+      hint: Government issued ID information
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: ssn
+      label: Social Security Number
+      hint: SSN or national ID
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: drivers_license_number
+      label: Driver's License Number
+      hint: License number
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: license_state
+      label: License State
+      hint: State that issued license
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: license_expiration
+      label: License Expiration
+      hint: Expiration date
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: citizenship_status
+      label: Citizenship Status
+      hint: Your citizenship status
+      type: select_one
+      options:
+      - US Citizen
+      - Permanent Resident
+      - Work Visa Holder
+      - Student Visa Holder
+      - Other
+      required: false
+    - id: 25
+      name: education
+      label: Education
+      hint: Your educational background
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: highest_education
+      label: Highest Education Level
+      hint: Highest level completed
+      type: select_one
+      options:
+      - Less than High School
+      - High School Diploma
+      - GED
+      - Associate Degree
+      - Bachelor's Degree
+      - Master's Degree
+      - Doctorate
+      - Professional Degree
+      required: true
+    - id: 27
+      name: college_university
+      label: College or University
+      hint: Name of institution
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: major_field_of_study
+      label: Major or Field of Study
+      hint: Your major or concentration
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: graduation_year
+      label: Graduation Year
+      hint: Year of graduation
+      type: number
+      options: []
+      required: false
+    - id: 30
+      name: employment
+      label: Employment
+      hint: Your employment information
+      type: note
+      options: []
+      required: false
+    - id: 31
+      name: employment_status
+      label: Employment Status
+      hint: Current employment status
+      type: select_one
+      options:
+      - Employed Full-Time
+      - Employed Part-Time
+      - Self-Employed
+      - Unemployed
+      - Student
+      - Retired
+      - Disabled
+      required: true
+    - id: 32
+      name: current_employer
+      label: Current Employer
+      hint: Name of employer
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: job_title
+      label: Job Title
+      hint: Your position or title
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: years_employed
+      label: Years Employed
+      hint: Length of employment
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: emergency_contact
+      label: Emergency Contact
+      hint: Emergency contact information
+      type: note
+      options: []
+      required: false
+    - id: 36
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 37
+      name: emergency_contact_relationship
+      label: Relationship
+      hint: Relationship to you
+      type: text
+      options: []
+      required: true
+    - id: 38
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 39
+      name: additional_information
+      label: Additional Information
+      hint: Any other relevant information
+      type: note
+      options: []
+      required: false
+    - id: 40
+      name: languages_spoken
+      label: Languages Spoken
+      hint: Languages you speak
+      type: text
+      options: []
+      required: false
+    - id: 41
+      name: military_service
+      label: Military Service
+      hint: Have you served in the military
+      type: select_one
+      options:
+      - Yes - Currently Serving
+      - Yes - Veteran
+      - No - Never Served
+      required: false
+    - id: 42
+      name: certifications
+      label: Certifications or Licenses
+      hint: List any professional certifications
+      type: text
+      options: []
+      required: false
+    - id: 43
+      name: authorization
+      label: Authorization
+      hint: Confirm information is accurate
+      type: select_one
+      options:
+      - I certify all information is true and complete
+      - I understand false information may disqualify me
+      required: true
+    - id: 44
+      name: signature_date
+      label: Date
+      hint: Date of this form
+      type: date
+      options: []
+      required: true

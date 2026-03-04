@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: page_information_collection
+    pages:
+    - id: 1
+      name: page_title
+      label: page_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: page_description
+      label: page_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: page_keywords
+      label: page_keywords
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: page_image_url
+      label: page_image_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: page_url
+      label: page_url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: page_keywords_list
+      label: page_keywords_list
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: form_id
+      label: form_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: page_status
+      label: page_status
+      hint: null
+      type: select_one
+      options:
+      - active
+      - inactive
+      required: false
+    - id: 9
+      name: page_type
+      label: page_type
+      hint: null
+      type: select_one
+      options:
+      - website
+      - landing-page
+      - blog-post
+      required: false
+    - id: 10
+      name: page_category
+      label: page_category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

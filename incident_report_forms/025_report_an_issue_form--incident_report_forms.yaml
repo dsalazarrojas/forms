@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Report An Issue Form
+    pages:
+    - id: 1
+      name: user
+      label: User
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: issue
+      label: issue
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: incident
+      label: incident
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Incident 1''}'
+      - '{''id'': 2, ''name'': ''Incident 2''}'
+      - '{''id'': 3, ''name'': ''Incident 3''}'
+      required: true
+    - id: 5
+      name: incident_details
+      label: incident_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: report_details
+      label: report_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: report_date
+      label: report_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: report_time
+      label: report_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: report_location
+      label: report_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: issue_type
+      label: issue_type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Type 1''}'
+      - '{''id'': 2, ''name'': ''Type 2''}'
+      - '{''id'': 3, ''name'': ''Type 3''}'
+      required: true
+    - id: 11
+      name: issue_priority
+      label: issue_priority
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: issue_status
+      label: issue_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Status 1''}'
+      - '{''id'': 2, ''name'': ''Status 2''}'
+      - '{''id'': 3, ''name'': ''Status 3''}'
+      required: true
+    - id: 13
+      name: issue_resolution
+      label: issue_resolution
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Resolution 1''}'
+      - '{''id'': 2, ''name'': ''Resolution 2''}'
+      - '{''id'': 3, ''name'': ''Resolution 3''}'
+      required: true
+    - id: 14
+      name: issue_followup
+      label: issue_followup
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: report_by
+      label: report_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: issue_date
+      label: issue_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: issue_time
+      label: issue_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: issue_resolution_date
+      label: issue_resolution_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: issue_resolution_time
+      label: issue_resolution_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: issue_resolution_status
+      label: issue_resolution_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Status 1''}'
+      - '{''id'': 2, ''name'': ''Status 2''}'
+      - '{''id'': 3, ''name'': ''Status 3''}'
+      required: true
+    - id: 21
+      name: issue_resolution_followup
+      label: issue_resolution_followup
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: issue_resolution_comments
+      label: issue_resolution_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: issue_attachment
+      label: issue_attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: issue_notes
+      label: issue_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true

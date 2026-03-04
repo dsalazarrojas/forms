@@ -1,0 +1,146 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Survey Pilot Application Form
+    pages:
+    - id: 1
+      name: survey_pilot_application_form_1
+      label: Employee Survey Pilot Application Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: team_id
+      label: Team ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: job_status
+      label: Job Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Probation
+      required: false
+    - id: 8
+      name: job_category
+      label: Job Category
+      hint: null
+      type: select_multiple
+      options:
+      - Management
+      - Support
+      - Development
+      required: true
+    - id: 9
+      name: manager
+      label: Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: supervisor
+      label: Supervisor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: role
+      label: Role
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: role_in_team
+      label: Role in Team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: team_lead
+      label: Team Lead
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: role_in_organization
+      label: Role in Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: job_start_date
+      label: Job Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: job_end_date
+      label: Job End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: hours_worked
+      label: Hours Worked
+      hint: null
+      type: text
+      options: []
+      required: false

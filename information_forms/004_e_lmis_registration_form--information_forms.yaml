@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: e_lmis_registration_form
+    pages:
+    - id: 1
+      name: e_lmis_registration_form_name
+      label: e lmis registration form name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: e_lmis_user_type
+      label: user type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''User''}'
+      - '{''id'': 2, ''label'': ''Organization''}'
+      - '{''id'': 3, ''label'': ''Facility''}'
+      required: false
+    - id: 3
+      name: e_lmis_facility_info
+      label: facility information
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: e_lmis_registration_date
+      label: registration date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: e_lmis_email
+      label: e mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: e_lmis_phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: e_lmis_additional_info
+      label: additional information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: e_lmis_agreed_terms
+      label: agreed terms
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: e_lmis_agreed_terms_2
+      label: agreed terms 2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: e_lmis_agreed_terms_3
+      label: agreed terms 3
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: e_lmis_agreed_terms_4
+      label: agreed prophets
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: e_lmis_agreed_terms_5
+      label: agreed terms 5
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

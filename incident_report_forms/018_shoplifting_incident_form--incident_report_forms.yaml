@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Shoplifting Incident Form
+    pages:
+    - id: 1
+      name: shoplifting_incident
+      label: Shoplifting Incident
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: date_of_incident
+      label: date_of_incident
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time_of_incident
+      label: time_of_incident
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: location_of_incident
+      label: location_of_incident
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: suspect_description
+      label: suspect_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: suspect_name
+      label: suspect_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: suspect_distinguishing_features
+      label: suspect_distinguishing_features
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: witness_statement
+      label: witness_statement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: witness_name
+      label: witness_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: witness_relationship
+      label: witness_relationship
+      hint: null
+      type: select_one
+      options:
+      - John
+      - Jane
+      - Other
+      required: false
+    - id: 11
+      name: witness_phone
+      label: witness_phone
+      hint: null
+      type: text
+      options: []
+      required: false

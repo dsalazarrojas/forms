@@ -1,0 +1,62 @@
+inputSchema:
+  type: object
+  properties:
+    title: Safety Reflection Form
+    pages:
+    - id: 1
+      name: incident_summary
+      label: Incident Summary
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: root_cause
+      label: Root Cause
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: prevention_steps
+      label: Prevention Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: near_miss_description
+      label: Near Miss Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: root_cause_identified
+      label: Root Cause Identified
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: action_planned
+      label: Action Planned
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: action_taken
+      label: Action Taken
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,56 @@
+inputSchema:
+  type: object
+  properties:
+    title: Q1 Feedback Form
+    pages:
+    - id: 1
+      name: q1_feedback_form
+      label: Client Feedback
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: q1_feedback_form_client_feedback
+      label: Overall Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: q1_feedback_form_comments
+      label: Comments
+      hint: Please provide any additional comments regarding your experience.
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: q1_feedback_form_email
+      label: Client Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: q1_feedback_form_phone
+      label: Client Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: q1_feedback_form_submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: q1_feedback_form_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false

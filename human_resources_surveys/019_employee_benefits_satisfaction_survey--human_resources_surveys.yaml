@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Benefits Satisfaction Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: benefits_package
+      label: benefits package
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: benefits_satisfaction_level
+      label: benefits satisfaction level
+      hint: null
+      type: select_one
+      options:
+      - Very Satisfied
+      - Somewhat Satisfied
+      - Neutral
+      - Somewhat Dissatisfied
+      - Very Dissatisfied
+      required: false
+    - id: 4
+      name: job_security
+      label: job security
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: benefits_value
+      label: benefits value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: benefits_important
+      label: what matters most
+      hint: null
+      type: select_multiple
+      options:
+      - financial stability
+      - personal well-being
+      - job satisfaction
+      - work-life balance
+      - job security
+      required: false
+    - id: 7
+      name: feedback
+      label: feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contact
+      label: contact
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: assigned_to
+      label: assigned to
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - someone else
+      required: false
+    - id: 12
+      name: assigned_to_other
+      label: assigned to other
+      hint: null
+      type: text
+      options: []
+      required: false

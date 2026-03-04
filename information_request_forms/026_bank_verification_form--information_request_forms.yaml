@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bank Verification Form
+    pages:
+    - id: 1
+      name: account_holder_name
+      label: Account Holder Full Name
+      hint: Legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: account_holder_email
+      label: Email Address
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: account_holder_phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: account_holder_address
+      label: Mailing Address
+      hint: Street, city, state, ZIP
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: social_security_number
+      label: Social Security Number
+      hint: Last 4 digits only
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: verification_type
+      label: Verification Type
+      hint: What needs verification
+      type: select_one
+      options:
+      - Account Ownership
+      - Account Balance
+      - Account Status
+      - Identity Verification
+      - Address Verification
+      - Employment Verification
+      - Income Verification
+      - Multiple Items
+      required: true
+    - id: 8
+      name: account_number
+      label: Account Number
+      hint: Account to verify
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: account_type
+      label: Account Type
+      hint: Type of account
+      type: select_one
+      options:
+      - Checking
+      - Savings
+      - Business Checking
+      - Business Savings
+      - Money Market
+      - Investment
+      - Credit Card
+      - Loan
+      required: true
+    - id: 10
+      name: bank_name
+      label: Bank Name
+      hint: Financial institution
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: bank_branch
+      label: Bank Branch
+      hint: Branch location
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: verification_purpose
+      label: Verification Purpose
+      hint: Why is verification needed
+      type: select_one
+      options:
+      - Loan Application
+      - Mortgage Application
+      - Rental Application
+      - Employment
+      - Government Benefits
+      - Credit Application
+      - Legal Matter
+      - Other
+      required: true
+    - id: 13
+      name: requesting_organization
+      label: Requesting Organization
+      hint: Who is requesting verification
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: requesting_contact_name
+      label: Requesting Contact Name
+      hint: Contact person
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: requesting_contact_email
+      label: Requesting Contact Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 16
+      name: requesting_contact_phone
+      label: Requesting Contact Phone
+      hint: Contact phone
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: verification_deadline
+      label: Verification Deadline
+      hint: When is it needed by
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: delivery_method
+      label: Delivery Method
+      hint: How should verification be sent
+      type: select_one
+      options:
+      - Direct to Organization
+      - To Account Holder
+      - Both
+      - Secure Electronic
+      - Certified Mail
+      required: true
+    - id: 19
+      name: authorization_scope
+      label: Authorization Scope
+      hint: What information can be shared
+      type: select_multiple
+      options:
+      - Account Balance
+      - Account Status
+      - Transaction History
+      - Account Opening Date
+      - Average Balance
+      - Credit History
+      - All Information
+      required: true
+    - id: 20
+      name: authorization_duration
+      label: Authorization Duration
+      hint: How long is authorization valid
+      type: select_one
+      options:
+      - One-Time Use
+      - 30 Days
+      - 60 Days
+      - 90 Days
+      - Until Revoked
+      required: true
+    - id: 21
+      name: authorization_signature
+      label: Authorization Signature
+      hint: Do you authorize
+      type: select_one
+      options:
+      - Yes, I authorize
+      - false
+      required: true
+    - id: 22
+      name: signature_date
+      label: Signature Date
+      hint: Date of authorization
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,274 @@
+inputSchema:
+  type: object
+  properties:
+    title: Annual Manager Self Evaluation Form
+    pages:
+    - id: 1
+      name: manager_name
+      label: Full Name
+      hint: Manager full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: Identification number
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Work email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: Your department
+      type: select_one
+      options:
+      - Human Resources
+      - Finance
+      - Operations
+      - Marketing
+      - Sales
+      - IT
+      - Engineering
+      - Customer Service
+      - Legal
+      - Executive
+      - Other
+      required: true
+    - id: 5
+      name: position_title
+      label: Position Title
+      hint: Your job title
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: direct_supervisor
+      label: Direct Supervisor
+      hint: Who do you report to?
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: review_period
+      label: Review Period
+      hint: Which period?
+      type: select_one
+      options:
+      - 2026 Annual
+      - 2025 Annual
+      - 2024 Annual
+      - Mid-Year 2026
+      - Other
+      required: true
+    - id: 8
+      name: team_size
+      label: Team Size
+      hint: Number of direct reports
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: leadership_effectiveness
+      label: Leadership Effectiveness
+      hint: Rate your leadership
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Needs Improvement
+      required: true
+    - id: 10
+      name: communication_skills
+      label: Communication Skills
+      hint: Rate your communication
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Needs Improvement
+      required: true
+    - id: 11
+      name: decision_making
+      label: Decision Making
+      hint: Rate your decisions
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Needs Improvement
+      required: true
+    - id: 12
+      name: problem_solving
+      label: Problem Solving
+      hint: Rate your abilities
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Needs Improvement
+      required: true
+    - id: 13
+      name: team_development
+      label: Team Development
+      hint: Rate team growth
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Needs Improvement
+      required: true
+    - id: 14
+      name: performance_management
+      label: Performance Management
+      hint: Rate your management
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Needs Improvement
+      required: true
+    - id: 15
+      name: goal_achievement
+      label: Goal Achievement
+      hint: Rate goal completion
+      type: select_one
+      options:
+      - Exceeded All Goals
+      - Met All Goals
+      - Met Most Goals
+      - Met Some Goals
+      - Did Not Meet Goals
+      required: true
+    - id: 16
+      name: key_accomplishments
+      label: Key Accomplishments
+      hint: List major achievements
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: challenges_faced
+      label: Challenges Faced
+      hint: What difficulties?
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: challenges_overcome
+      label: How Challenges Were Overcome
+      hint: Describe solutions
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: areas_for_improvement
+      label: Areas for Improvement
+      hint: What to work on?
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: professional_development
+      label: Professional Development
+      hint: Training completed
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: skills_developed
+      label: Skills Developed
+      hint: New skills gained
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: goals_next_period
+      label: Goals for Next Period
+      hint: Set objectives
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: team_feedback_summary
+      label: Team Feedback Summary
+      hint: Key points from team
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: resources_needed
+      label: Resources Needed
+      hint: What do you need?
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: support_from_organization
+      label: Support from Organization
+      hint: Rate organizational support
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: false
+    - id: 26
+      name: work_life_balance
+      label: Work-Life Balance
+      hint: Rate your balance
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Below Average
+      - Poor
+      required: false
+    - id: 27
+      name: job_satisfaction
+      label: Job Satisfaction
+      hint: Rate your satisfaction
+      type: select_one
+      options:
+      - Very Satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very Dissatisfied
+      required: true
+    - id: 28
+      name: career_aspirations
+      label: Career Aspirations
+      hint: Future goals
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

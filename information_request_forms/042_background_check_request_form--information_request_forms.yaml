@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Background Check Request Form
+    pages:
+    - id: 1
+      name: request_info_header
+      label: -- Employer Request for Background Screening --
+      hint: To be completed by the hiring manager or HR representative
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: hiring_manager_name
+      label: Requesting Manager/HR Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department_requesting
+      label: Department/Division
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: candidate_full_name_req
+      label: Candidate Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: candidate_email_address_req
+      label: Candidate Email Address
+      hint: We will send the authorization link to this email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: position_title_req
+      label: Position Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: level_of_screening_required
+      label: Level of Screening Required
+      hint: null
+      type: select_one
+      options:
+      - Standard (Criminal + Employment)
+      - Professional (Standard + Education)
+      - Executive (Professional + Credit + Media)
+      - Driving Position (Standard + MVR)
+      - Healthcare (Standard + FACIS)
+      required: true
+    - id: 8
+      name: request_priority
+      label: Request Priority
+      hint: null
+      type: select_one
+      options:
+      - Standard (3-5 business days)
+      - Urgent (1-2 business days)
+      required: true
+    - id: 9
+      name: billing_account_code
+      label: Billing/Cost Center Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: special_instructions_screening
+      label: Special Instructions or Specific Concerns
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: manager_confirmation_req
+      label: I confirm that a job offer has been made or is pending
+      hint: null
+      type: select_one
+      options:
+      - Confirmed
+      - Other
+      required: true
+    - id: 12
+      name: date_of_request_req
+      label: Date of Request
+      hint: null
+      type: date
+      options: []
+      required: true

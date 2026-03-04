@@ -1,0 +1,94 @@
+inputSchema:
+  type: object
+  properties:
+    title: Panel Interview Feedback Form
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: interviewer_name
+      label: interviewer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: panelist_score
+      label: panelist_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: feedback_to_panelist
+      label: feedback_to_panelist
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: feedback_to_candidate
+      label: feedback_to_candidate
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: panelist_skills
+      label: panelist_skills
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Poor
+      - Fair
+      - Not Evaluated
+      required: false
+    - id: 7
+      name: candidate_skills
+      label: candidate_skills
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Poor
+      - Fair
+      - Not Evaluated
+      required: false
+    - id: 8
+      name: overall_experience
+      label: overall_experience
+      hint: null
+      type: select_multiple
+      options:
+      - Excellent
+      - Poor
+      - Fair
+      - Not Evaluated
+      required: false
+    - id: 9
+      name: feedback_for_improvement
+      label: feedback_for_improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: recommendations_for_improvement
+      label: recommendations_for_improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Interview Scorecard Form
+    pages:
+    - id: 1
+      name: candidate_score
+      label: Candidate Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: interview_date
+      label: Interview Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: interviewer_score
+      label: Score
+      hint: On a scale of 1-5
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: candidate_interviewer_score
+      label: Score
+      hint: On a scale of 1-5
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: candidate_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: interviewer_name
+      label: Interviewer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: interviewer_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

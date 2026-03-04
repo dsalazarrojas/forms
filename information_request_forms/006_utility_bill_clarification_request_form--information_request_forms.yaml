@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: Utility Bill Clarification Request Form
+    pages:
+    - id: 1
+      name: utility_bill_request
+      label: Utility bill request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: utility_bill_date_received
+      label: Utility bill date received
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: account_number
+      label: Account number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: meter_number
+      label: Meter number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: amount_overpaid
+      label: Amount overpaid
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: billing_period
+      label: Billing period
+      hint: null
+      type: select_one
+      options:
+      - Electricity
+      - Gas
+      - Water
+      - Other
+      required: false
+    - id: 8
+      name: current_reading
+      label: Current reading
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: previous_reading
+      label: Previous reading
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: bill_amount
+      label: Bill amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: payment_method
+      label: Payment method
+      hint: null
+      type: select_multiple
+      options:
+      - Cheque
+      - Electronic fund transfer
+      - Bank draft
+      - Credit card
+      - Other
+      required: false
+    - id: 12
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: additional_info
+      label: Additional info
+      hint: null
+      type: text
+      options: []
+      required: false

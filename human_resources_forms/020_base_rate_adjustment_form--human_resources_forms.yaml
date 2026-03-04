@@ -1,0 +1,231 @@
+inputSchema:
+  type: object
+  properties:
+    title: Base Rate Adjustment Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Full Name
+      hint: First and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID Number
+      hint: Company identification number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: Which department
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: job_title
+      label: Current Job Title
+      hint: Current position
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: request_date
+      label: Request Date
+      hint: Date of this request
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: manager_name
+      label: Requesting Manager Name
+      hint: Manager submitting request
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: manager_email
+      label: Manager Email
+      hint: For communication
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: current_base_rate
+      label: Current Base Rate
+      hint: Current hourly or annual rate
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: proposed_base_rate
+      label: Proposed Base Rate
+      hint: New requested rate
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: rate_type
+      label: Rate Type
+      hint: Is this hourly or salary
+      type: select_one
+      options:
+      - Hourly
+      - Annual salary
+      - Monthly
+      - Other
+      required: true
+    - id: 11
+      name: percentage_increase
+      label: Percentage Increase
+      hint: Percent change from current rate
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: effective_date
+      label: Effective Date
+      hint: When should change take effect
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: adjustment_reason
+      label: Reason for Adjustment
+      hint: Primary reason for this request
+      type: select_one
+      options:
+      - Performance based
+      - Promotion
+      - Market adjustment
+      - Cost of living
+      - Retention
+      - Role expansion
+      - Other
+      required: true
+    - id: 14
+      name: justification
+      label: Justification for Increase
+      hint: Detailed explanation
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: performance_rating
+      label: Current Performance Rating
+      hint: Most recent performance review
+      type: select_one
+      options:
+      - Exceeds expectations
+      - Meets expectations
+      - Developing
+      - Below expectations
+      - Not yet rated
+      required: true
+    - id: 16
+      name: last_review_date
+      label: Last Performance Review Date
+      hint: Date of most recent review
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: time_in_position
+      label: Time in Current Position
+      hint: How long in this role
+      type: select_one
+      options:
+      - Less than 6 months
+      - 6 months to 1 year
+      - 1 to 2 years
+      - 2 to 5 years
+      - More than 5 years
+      required: true
+    - id: 18
+      name: last_increase_date
+      label: Date of Last Rate Increase
+      hint: If applicable
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: budget_approval
+      label: Budget Approval Status
+      hint: Has budget been approved
+      type: select_one
+      options:
+      - Approved
+      - Pending
+      - Not yet requested
+      required: true
+    - id: 20
+      name: market_data
+      label: Market Data Supporting Request
+      hint: Salary benchmark information
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: internal_equity
+      label: Internal Equity Considered
+      hint: Comparison with peers
+      type: select_one
+      options:
+      - Yes, reviewed
+      - No, not reviewed
+      - Not applicable
+      required: true
+    - id: 22
+      name: retention_risk
+      label: Retention Risk Level
+      hint: Risk of employee leaving
+      type: select_one
+      options:
+      - High risk
+      - Moderate risk
+      - Low risk
+      - No risk
+      required: true
+    - id: 23
+      name: hr_approval
+      label: HR Approval
+      hint: HR department approval
+      type: select_one
+      options:
+      - Approved
+      - Pending review
+      - Not yet submitted
+      required: true
+    - id: 24
+      name: finance_approval
+      label: Finance Approval
+      hint: Finance department approval
+      type: select_one
+      options:
+      - Approved
+      - Pending review
+      - Not yet submitted
+      required: true
+    - id: 25
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: manager_signature
+      label: Manager Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: true
+    - id: 27
+      name: hr_signature
+      label: HR Approval Signature
+      hint: Type full name
+      type: text
+      options: []
+      required: false

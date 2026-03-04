@@ -1,0 +1,205 @@
+inputSchema:
+  type: object
+  properties:
+    title: Intern Survey
+    pages:
+    - id: 1
+      name: welcome_page
+      label: welcome-page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: program
+      label: Program
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 10, ''name'': ''Program 1''}'
+      - '{''id'': 20, ''name'': ''Program 2''}'
+      - '{''id'': 30, ''name'': ''Program 3''}'
+      required: false
+    - id: 5
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: supervisor
+      label: Supervisor Name
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 40, ''name'': ''Supervisor 1''}'
+      - '{''id'': 50, ''name'': ''Supervisor 2''}'
+      - '{''id'': 60, ''name'': ''Supervisor 3''}'
+      required: false
+    - id: 8
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: rating
+      label: Rating
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 80, ''name'': ''Good''}'
+      - '{''id'': 90, ''name'': ''Bad''}'
+      - '{''id'': 100, ''name'': ''Neutral''}'
+      required: false
+    - id: 12
+      name: time_spent
+      label: Time Spent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: satisfaction
+      label: Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: recommend
+      label: Would You Recommend
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 140, ''name'': True}'
+      - '{''id'': 150, ''name'': False}'
+      required: false
+    - id: 15
+      name: comments_2
+      label: Comments 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: rating_2
+      label: Rating 2
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 17
+      name: time_estimate
+      label: Time Estimate
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: rating_estimate
+      label: Rating Estimate
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 19
+      name: comments_3
+      label: Comments 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: supervisor_rating
+      label: Supervisor Rating
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 21
+      name: manager_rating
+      label: Manager Rating
+      hint: null
+      type: select_multiple
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 22
+      name: overall
+      label: Overall
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: will_join
+      label: Will You Join
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: comments_4
+      label: Comments 4
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submit_2
+      label: Submit 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

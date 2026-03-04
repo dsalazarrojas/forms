@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Community Information Form
+    pages:
+    - id: 1
+      name: community_name
+      label: Official Name of the Community
+      hint: Neighborhood, Town, or City name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: total_population
+      label: Estimated Total Population
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: economic_driver
+      label: Primary Economic Driver or Industry
+      hint: e.g., Tourism, Agriculture, Manufacturing, Tech
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: community_leaders
+      label: Key Community Leaders or Representatives
+      hint: Names and roles
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: public_services
+      label: Main Public Services Available within the Community
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - General Hospital or Clinic
+      - Public Library
+      - Community and Youth Center
+      - Reliable Public Transportation
+      - Public Parks and Playgrounds
+      - Emergency Services (Police/Fire)
+      required: true
+    - id: 6
+      name: geographic_area
+      label: Geographic Area Description
+      hint: Square miles or physical boundaries
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: historical_events
+      label: Notable Historical Events or Milestones
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: community_challenges
+      label: Current Unique Challenges Facing the Community
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: community_vision
+      label: Community Motto or Future Vision Statement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: demographics_overview
+      label: Brief Demographic Overview
+      hint: Diversity, age range, etc.
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: last_update_date
+      label: Date of Last Information Update
+      hint: null
+      type: date
+      options: []
+      required: true

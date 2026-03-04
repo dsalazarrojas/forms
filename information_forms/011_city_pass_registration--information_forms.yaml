@@ -1,0 +1,79 @@
+inputSchema:
+  type: object
+  properties:
+    title: City Pass Registration
+    pages:
+    - id: 1
+      name: applicant_name
+      label: Applicant name
+      hint: Full legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of birth
+      hint: For eligibility verification
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: address
+      label: Residential address
+      hint: Street city postal code
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: proof_of_residency
+      label: Proof of residency provided
+      hint: Upload instructions in portal
+      type: note
+      options: []
+      required: true
+    - id: 5
+      name: contact_email
+      label: Contact email
+      hint: For pass updates
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: contact_phone
+      label: Contact phone
+      hint: Optional phone number
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: pass_type
+      label: Type of city pass requested
+      hint: Choose pass category
+      type: select_one
+      options:
+      - Local resident
+      - Senior
+      - Student
+      - Visitor
+      required: true
+    - id: 8
+      name: eligibility_notes
+      label: Additional eligibility notes
+      hint: Enter any special circumstances
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: agreement_acknowledgement
+      label: Agreement and acknowledgement
+      hint: By submitting you agree to terms
+      type: note
+      options: []
+      required: true
+    - id: 10
+      name: submission_date
+      label: Submission date
+      hint: Use today date
+      type: date
+      options: []
+      required: true

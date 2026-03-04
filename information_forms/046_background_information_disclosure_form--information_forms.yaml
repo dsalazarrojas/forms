@@ -1,0 +1,117 @@
+inputSchema:
+  type: object
+  properties:
+    title: Background Information Disclosure Form
+    pages:
+    - id: 1
+      name: disclosure_legal_intro
+      label: -- Background Information Disclosure (BID) --
+      hint: As required by state law for certain positions of trust
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: applicant_full_legal_name_bid
+      label: Full Legal Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: ssn_bid
+      label: Social Security Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: birth_date_bid
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: gender_bid
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      required: true
+    - id: 6
+      name: convictions_disclosure_header
+      label: -- Criminal and Regulatory History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: has_criminal_convictions
+      label: Have you ever been convicted of a felony or misdemeanor?
+      hint: In any jurisdiction
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 8
+      name: has_pending_charges
+      label: Do you have any pending criminal charges against you?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 9
+      name: has_regulatory_findings
+      label: Have you ever been found to have abused or neglected a child or vulnerable
+        adult?
+      hint: By any governmental or regulatory agency
+      type: select_one
+      options:
+      - false
+      - true
+      required: true
+    - id: 10
+      name: detailed_disclosure_text
+      label: If you answered Yes to any above, provide details
+      hint: Include dates, locations, and descriptions of the incidents
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: residency_history_last_5
+      label: List all states you have lived in during the last 5 years
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: authorization_to_release_bid
+      label: I authorize the release of background information for this application
+      hint: null
+      type: select_one
+      options:
+      - I authorize
+      - Other
+      required: true
+    - id: 13
+      name: truthfulness_certification_bid
+      label: I certify that the information provided is true and complete
+      hint: null
+      type: select_one
+      options:
+      - I certify
+      - Other
+      required: true
+    - id: 14
+      name: bid_signature_date
+      label: Date of Signature
+      hint: null
+      type: date
+      options: []
+      required: true

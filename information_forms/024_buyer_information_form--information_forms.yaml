@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Buyer Information Form
+    pages:
+    - id: 1
+      name: buyer_first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: buyer_last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: buyer_email
+      label: Email Address
+      hint: Your email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: buyer_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: company_name
+      label: Company Name
+      hint: Your organization
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: Your position
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: mailing_address
+      label: Mailing Address
+      hint: Street address
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: state
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: zip_code
+      label: ZIP or Postal Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: preferred_contact
+      label: Preferred Contact Method
+      hint: How should we reach you
+      type: select_one
+      options:
+      - Phone
+      - Email
+      - Text Message
+      - Mail
+      required: true
+    - id: 13
+      name: best_contact_time
+      label: Best Time to Contact
+      hint: When are you available
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: industry
+      label: Industry
+      hint: Your industry sector
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: company_size
+      label: Company Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - 1-10
+      - 11-50
+      - 51-100
+      - 101-500
+      - 501-1000
+      - 1000+
+      required: false
+    - id: 16
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other information
+      type: text
+      options: []
+      required: false

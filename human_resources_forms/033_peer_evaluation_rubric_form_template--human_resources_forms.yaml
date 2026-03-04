@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Peer Evaluation Rubric Form Template
+    pages:
+    - id: 1
+      name: page_1
+      label: peer_evaluation_rubric
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: section_1
+      label: rubric
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: section_1_1
+      label: criteria_1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: section_1_2
+      label: criteria_2
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 5
+      name: section_1_3
+      label: criteria_3
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: section_1_4
+      label: criteria_4
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: section_1_5
+      label: criteria_5
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: section_2
+      label: section_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: section_2_1
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: section_2_2
+      label: comments_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submit
+      label: submit
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: submit_1
+      label: submit_1
+      hint: null
+      type: email
+      options: []
+      required: false

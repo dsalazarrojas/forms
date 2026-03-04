@@ -1,0 +1,96 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: service_unavailability_notification
+    pages:
+    - id: 1
+      name: user
+      label: User
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: impact
+      label: Impact
+      hint: Describe the impact of the outage on users or services
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: time
+      label: Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: end_time
+      label: End Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: cause
+      label: Cause
+      hint: What happened to cause the outage
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: update
+      label: Update
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: incident_status
+      label: Incident Status
+      hint: null
+      type: select_multiple
+      options:
+      - In progress
+      - Solved
+      - Planned
+      required: true
+    - id: 8
+      name: incident_status_update
+      label: Incident Status Update
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: incident_status_comment
+      label: Incident Status Comment
+      hint: Add any comments about the incident status
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: incident_status_last_update
+      label: Last Updated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: incident_status_last_updated_by
+      label: Last Updated by
+      hint: null
+      type: text
+      options: []
+      required: true

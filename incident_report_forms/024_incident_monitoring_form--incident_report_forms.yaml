@@ -1,0 +1,141 @@
+inputSchema:
+  type: object
+  properties:
+    title: incident_monitoring_form
+    pages:
+    - id: 1
+      name: incident_id
+      label: Incident ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: incident_type
+      label: incident_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: incident_date
+      label: incident_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: incident_details
+      label: incident_details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: incident_location
+      label: incident_location
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: incident_status
+      label: incident_status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      - On hold
+      - Waiting for response
+      required: true
+    - id: 7
+      name: incident_notes
+      label: incident_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: incident_resolution
+      label: incident_resolution
+      hint: null
+      type: select_multiple
+      options:
+      - No resolution
+      - No resolution yet
+      - Resolved
+      required: true
+    - id: 9
+      name: incident_reporter
+      label: incident_reporter
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: incident_report_date
+      label: incident_report_date
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: incident_reporter_phone
+      label: incident_reporter_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: incident_reporter_email
+      label: incident_reporter_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: incident_reporter_notes
+      label: incident_reporter_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: incident_resolved_by
+      label: incident_resolved_by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: incident_resolved_date
+      label: incident_resolved_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: incident_resolved_by_phone
+      label: incident_resolved_by_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: incident_resolved_by_email
+      label: incident_resolved_by_email
+      hint: null
+      type: email
+      options: []
+      required: false

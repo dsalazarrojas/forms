@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Anthology Submission Form
+    pages:
+    - id: 1
+      name: contributor_name
+      label: Contributor Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: mailing_address
+      label: Mailing Address
+      hint: For potential royalty payments or physical copies
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email_address
+      label: Primary Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: submission_title
+      label: Title of the Piece
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: submission_category
+      label: Submission Category
+      hint: null
+      type: select_one
+      options:
+      - Short Story
+      - Flash Fiction
+      - Poetry
+      - Personal Essay
+      required: true
+    - id: 7
+      name: core_themes
+      label: Core Themes
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: search_keywords
+      label: Keywords (comma-separated)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: source_discovery
+      label: How did you hear about this call for submissions?
+      hint: null
+      type: select_one
+      options:
+      - Social Media
+      - Writing Website
+      - Referral
+      - Newsletter
+      - Other
+      required: false
+    - id: 10
+      name: availability_for_edits
+      label: Are you available for collaborative editing?
+      hint: Editors may suggest minor changes
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: author_statement
+      label: Author Statement or Intent
+      hint: Tell us about the inspiration for this work
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: copyright_declaration
+      label: I certify that I own the copyright to this work
+      hint: null
+      type: select_multiple
+      options:
+      - I certify
+      - Other
+      required: true
+    - id: 13
+      name: date_of_submission
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: true

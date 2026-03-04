@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Field Trip Incident Form
+    pages:
+    - id: 1
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: student_name
+      label: Student Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: student_id
+      label: Student ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: parent_name
+      label: Parent Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: teacher_name
+      label: Teacher Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_one
+      options:
+      - Medical
+      - Other
+      - Supervision
+      - Transportation
+      - Unknown
+      required: false
+    - id: 9
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: follow_up_action
+      label: Follow-up Action
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: incident_status
+      label: Incident Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - In Progress
+      - Closed
+      required: true
+    - id: 13
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: incident_number
+      label: Incident Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: incident_report_date
+      label: Incident Report Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: student_count
+      label: Student Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: bus_number
+      label: Bus Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: follow_up_status
+      label: Follow-up Status
+      hint: null
+      type: select_multiple
+      options:
+      - Complete
+      - Incomplete
+      required: true
+    - id: 21
+      name: follow_up_type
+      label: Follow-up Type
+      hint: null
+      type: select_multiple
+      options:
+      - Parent
+      - Teacher
+      required: true
+    - id: 22
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_comments
+      label: Follow-up Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: incident_report_comments
+      label: Incident Report Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: select_one
+      options:
+      - chatjim
+      - chatjimmy
+      - chatjimmy2
+      required: false

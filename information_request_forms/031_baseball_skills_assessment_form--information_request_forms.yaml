@@ -1,0 +1,312 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Baseball Skills Assessment Form
+    pages:
+      - id: 1
+        name: player_name
+        label: Player Full Name
+        hint: First and last name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: date_of_birth
+        label: Date of Birth
+        hint: MM/DD/YYYY format
+        type: date
+        options: []
+        required: true
+      - id: 3
+        name: team_name
+        label: Team Name
+        hint: Current team
+        type: text
+        options: []
+        required: false
+      - id: 4
+        name: assessment_date
+        label: Assessment Date
+        hint: Date of evaluation
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: evaluator_name
+        label: Evaluator Name
+        hint: Coach name
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: primary_position
+        label: Primary Position
+        hint: Main position
+        type: select_one
+        options:
+          - Pitcher
+          - Catcher
+          - First base
+          - Second base
+          - Third base
+          - Shortstop
+          - Left field
+          - Center field
+          - Right field
+        required: true
+      - id: 7
+        name: secondary_positions
+        label: Secondary Positions
+        hint: Other positions
+        type: select_multiple
+        options:
+          - Pitcher
+          - Catcher
+          - First base
+          - Second base
+          - Third base
+          - Shortstop
+          - Left field
+          - Center field
+          - Right field
+        required: false
+      - id: 8
+        name: bats
+        label: Bats
+        hint: Which hand
+        type: select_one
+        options:
+          - Right
+          - Left
+          - Switch
+        required: true
+      - id: 9
+        name: throws
+        label: Throws
+        hint: Which hand
+        type: select_one
+        options:
+          - Right
+          - Left
+        required: true
+      - id: 10
+        name: hitting_technique
+        label: Hitting Technique
+        hint: Rate hitting form
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below average
+          - Needs work
+        required: true
+      - id: 11
+        name: batting_average_estimate
+        label: Estimated Batting Average
+        hint: Current ability
+        type: select_one
+        options:
+          - Above 0.400
+          - 0.300 to 0.399
+          - 0.250 to 0.299
+          - 0.200 to 0.249
+          - Below 0.200
+        required: true
+      - id: 12
+        name: power_hitting
+        label: Power Hitting Ability
+        hint: Extra base hit potential
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below average
+          - Needs work
+        required: true
+      - id: 13
+        name: plate_discipline
+        label: Plate Discipline
+        hint: Pitch selection
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below average
+          - Needs work
+        required: true
+      - id: 14
+        name: baserunning_speed
+        label: Baserunning Speed
+        hint: Running ability
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below average
+          - Needs work
+        required: true
+      - id: 15
+        name: baserunning_technique
+        label: Baserunning Technique
+        hint: Base running skills
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below average
+          - Needs work
+        required: true
+      - id: 16
+        name: fielding_ability
+        label: Fielding Ability
+        hint: Defensive skills
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below average
+          - Needs work
+        required: true
+      - id: 17
+        name: throwing_accuracy
+        label: Throwing Accuracy
+        hint: Throw precision
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below average
+          - Needs work
+        required: true
+      - id: 18
+        name: throwing_strength
+        label: Throwing Strength
+        hint: Arm strength
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below average
+          - Needs work
+        required: true
+      - id: 19
+        name: pitching_velocity
+        label: Pitching Velocity
+        hint: If applicable
+        type: select_one
+        options:
+          - Above 85 mph
+          - 75 to 84 mph
+          - 65 to 74 mph
+          - 55 to 64 mph
+          - Below 55 mph
+          - Not a pitcher
+        required: true
+      - id: 20
+        name: pitching_control
+        label: Pitching Control
+        hint: Command of strikes
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below average
+          - Needs work
+          - Not a pitcher
+        required: true
+      - id: 21
+        name: game_situation_awareness
+        label: Game Situation Awareness
+        hint: Baseball IQ
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below average
+          - Needs work
+        required: true
+      - id: 22
+        name: teamwork_attitude
+        label: Teamwork and Attitude
+        hint: Works with others
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below average
+          - Needs work
+        required: true
+      - id: 23
+        name: coachability
+        label: Coachability
+        hint: Takes instruction well
+        type: select_one
+        options:
+          - Excellent
+          - Good
+          - Average
+          - Below average
+          - Needs work
+        required: true
+      - id: 24
+        name: overall_skill_rating
+        label: Overall Skill Rating
+        hint: Overall assessment
+        type: select_one
+        options:
+          - Elite player
+          - Above average
+          - Average
+          - Developing
+          - Beginner
+        required: true
+      - id: 25
+        name: player_strengths
+        label: Player Strengths
+        hint: List key strengths
+        type: text
+        options: []
+        required: true
+      - id: 26
+        name: areas_for_improvement
+        label: Areas for Improvement
+        hint: What needs work
+        type: text
+        options: []
+        required: true
+      - id: 27
+        name: recommended_position
+        label: Recommended Position
+        hint: Best fit position
+        type: text
+        options: []
+        required: false
+      - id: 28
+        name: additional_comments
+        label: Additional Comments
+        hint: Any other notes
+        type: text
+        options: []
+        required: false

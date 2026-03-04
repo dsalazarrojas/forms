@@ -1,0 +1,227 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Information For Real Estate
+    pages:
+    - id: 1
+      name: client_first_name
+      label: First Name
+      hint: Your legal first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_last_name
+      label: Last Name
+      hint: Your legal last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: client_address
+      label: Current Address
+      hint: Complete mailing address
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: client_city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: client_state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: client_zip
+      label: ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: client_type
+      label: Are You a Buyer or Seller?
+      hint: Your role
+      type: select_one
+      options:
+      - Buyer
+      - Seller
+      - Both
+      - Investor
+      - Renter
+      - Just Looking
+      required: true
+    - id: 10
+      name: property_type_interest
+      label: Property Type of Interest
+      hint: What are you looking for?
+      type: select_one
+      options:
+      - Single Family Home
+      - Condo or Townhouse
+      - Multi-Family
+      - Commercial
+      - Land
+      - Luxury Property
+      - Investment Property
+      - Other
+      required: true
+    - id: 11
+      name: price_range_min
+      label: Minimum Price Range
+      hint: Lowest price
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: price_range_max
+      label: Maximum Price Range
+      hint: Highest price
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: desired_location
+      label: Desired Location or Neighborhood
+      hint: Where do you want to live?
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: bedrooms_needed
+      label: Number of Bedrooms Needed
+      hint: Minimum bedrooms
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: bathrooms_needed
+      label: Number of Bathrooms Needed
+      hint: Minimum bathrooms
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: square_footage
+      label: Desired Square Footage
+      hint: Minimum size
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: must_have_features
+      label: Must-Have Features
+      hint: Essential requirements
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: nice_to_have_features
+      label: Nice-to-Have Features
+      hint: Preferences
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: timeline
+      label: When Do You Plan to Move?
+      hint: Timeline
+      type: select_one
+      options:
+      - Immediately
+      - Within 1 Month
+      - 1-3 Months
+      - 3-6 Months
+      - 6-12 Months
+      - Just Browsing
+      required: true
+    - id: 20
+      name: financing_status
+      label: Financing Status
+      hint: Pre-approval status
+      type: select_one
+      options:
+      - Pre-Approved
+      - Pre-Qualified
+      - Need Pre-Approval
+      - Cash Buyer
+      - Not Sure
+      required: true
+    - id: 21
+      name: lender_name
+      label: Lender Name
+      hint: If you have one
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: current_home_status
+      label: Current Home Status
+      hint: If you own a home
+      type: select_one
+      options:
+      - Own - Need to Sell First
+      - Own - Will Rent
+      - Own - Will Keep
+      - Currently Renting
+      - Other
+      required: false
+    - id: 23
+      name: agent_preference
+      label: Do You Have a Preferred Agent?
+      hint: Agent assignment
+      type: select_one
+      options:
+      - true
+      - false
+      - Not Sure
+      required: true
+    - id: 24
+      name: how_did_you_hear
+      label: How Did You Hear About Us?
+      hint: Referral source
+      type: select_one
+      options:
+      - Website
+      - Social Media
+      - Referral
+      - Sign
+      - Advertisement
+      - Open House
+      - Other
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments or Questions
+      hint: Anything else to share
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: form_date
+      label: Form Date
+      hint: null
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,40 @@
+inputSchema:
+  type: object
+  properties:
+    title: Theft Detection Incident Form
+    pages:
+    - id: 1
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: incident_description
+      label: Incident Description
+      hint: Brief description of the incident
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: loss_amount
+      label: Loss Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: loss_location
+      label: Loss Location
+      hint: null
+      type: text
+      options: []
+      required: false

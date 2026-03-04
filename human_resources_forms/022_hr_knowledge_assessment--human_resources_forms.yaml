@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: hr_knowledge_assessment
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: last_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: date_of_hire
+      label: date_of_hire
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: employment_status
+      label: employment_status
+      hint: null
+      type: select_one
+      options:
+      - active
+      - inactive
+      - other
+      required: true
+    - id: 7
+      name: reason_for_leaving
+      label: reason_for_leaving
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: job_description
+      label: job_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: manager_name
+      label: manager_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: employee_status
+      label: employee_status
+      hint: null
+      type: select_multiple
+      options:
+      - full-time
+      - part-time
+      - freelance
+      - other
+      required: false
+    - id: 13
+      name: job_type
+      label: job_type
+      hint: null
+      type: select_one
+      options:
+      - full-time
+      - part-time
+      - freelance
+      - contract
+      required: false
+    - id: 14
+      name: job_level
+      label: job_level
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: years_in_job
+      label: years_in_job
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: years_of_service
+      label: years_of_service
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: notice_period
+      label: notice_period
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: reason_for_leaving_company
+      label: reason_for_leaving_company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: last_performance_rating
+      label: last_performance_rating
+      hint: null
+      type: select_one
+      options:
+      - satisfactory
+      - meets_expectations
+      - below_meets_expectations
+      - does_not_meet_expectations
+      required: false
+    - id: 20
+      name: reason_for_leaving_last_company
+      label: reason_for_leaving_last_company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: what_are_you_looking_for_in_your_next_job
+      label: what_are_you_looking_for_in_your_next_job
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: why_leaving_current_job
+      label: why_leaving_current_job
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: last_employer
+      label: last_employer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: last_job_title
+      label: last_job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: last_job_level
+      label: last_job_level
+      hint: null
+      type: text
+      options: []
+      required: false

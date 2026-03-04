@@ -1,0 +1,217 @@
+inputSchema:
+  type: object
+  properties:
+    title: Child Care Provider Information Form
+    pages:
+    - id: 1
+      name: provider_intro
+      label: -- Child Care Provider Information Form --
+      hint: Provider employment and background information
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: address
+      label: Current address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: state
+      label: State or province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: zip_code
+      label: Zip code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: email_address
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: position_title
+      label: Position or job title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: employment_type
+      label: Type of employment
+      hint: null
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Temporary
+      - Contract
+      - Substitute
+      required: true
+    - id: 13
+      name: start_date
+      label: Employment start date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: age_groups_experience
+      label: Age groups worked with
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Infants
+      - Toddlers
+      - Preschool
+      - Pre-K
+      - School age
+      - Mixed ages
+      required: true
+    - id: 15
+      name: education_level
+      label: Highest education level
+      hint: null
+      type: select_one
+      options:
+      - High school diploma
+      - Associate degree
+      - Bachelor's degree
+      - Master's degree
+      - Other certification
+      required: true
+    - id: 16
+      name: field_of_study
+      label: Field of study or major
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: certifications
+      label: Relevant certifications or licenses
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: cpr_certification
+      label: CPR certification
+      hint: null
+      type: select_one
+      options:
+      - Current
+      - Expired
+      - Not certified
+      required: true
+    - id: 19
+      name: first_aid_certification
+      label: First aid certification
+      hint: null
+      type: select_one
+      options:
+      - Current
+      - Expired
+      - Not certified
+      required: true
+    - id: 20
+      name: background_check_consent
+      label: Consent for background check
+      hint: null
+      type: select_one
+      options:
+      - I consent
+      - I do not consent
+      required: true
+    - id: 21
+      name: criminal_history
+      label: Do you have any criminal history?
+      hint: null
+      type: select_one
+      options:
+      - false
+      - true
+      - Prefer not to answer
+      required: true
+    - id: 22
+      name: references_provided
+      label: Professional references provided
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Will provide later
+      required: true
+    - id: 23
+      name: years_experience
+      label: Years of child care experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 24
+      name: previous_employers
+      label: Previous employer(s) and facilities
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: specialized_training
+      label: Specialized training or skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: child_care_philosophy
+      label: Your child care philosophy or approach
+      hint: null
+      type: text
+      options: []
+      required: false

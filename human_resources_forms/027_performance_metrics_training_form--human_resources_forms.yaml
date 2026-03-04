@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Performance Metrics Training Form
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: form_description
+      label: Form Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: training_needs
+      label: Training Needs
+      hint: null
+      type: select_multiple
+      options:
+      - Training in the past 6 months
+      - Training in 6-12 months
+      - Training in 1-2 years
+      required: true
+    - id: 4
+      name: performance_metric_1
+      label: Performance Metric 1
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: performance_metric_2
+      label: Performance Metric 2
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: performance_metric_3
+      label: Performance Metric 3
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: assessment_date
+      label: Assessment Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: form_category
+      label: Form Category
+      hint: null
+      type: select_one
+      options:
+      - Human Resources Forms
+      - Other Forms
+      required: true
+    - id: 9
+      name: training_frequency
+      label: Training Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: true
+    - id: 10
+      name: form_assigned_to
+      label: Form Assigned To
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: true
+    - id: 11
+      name: form_submitted_by
+      label: Form Submitted By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: form_comments
+      label: Form Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: form_status
+      label: Form Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - In Progress
+      - Declined
+      - Draft
+      required: true
+    - id: 14
+      name: form_status_date
+      label: Form Status Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: form_version
+      label: Form Version
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: form_updated_at
+      label: Form Updated At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: form_created_at
+      label: Form Created At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: form_modified_at
+      label: Form Modified At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: form_completed_at
+      label: Form Completed At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: form_completed_by
+      label: Form Completed By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: form_reviewed_by
+      label: Form Reviewed By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: form_reviewed_at
+      label: Form Reviewed At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: form_reopened_by
+      label: Form Reopened By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: form_reopened_at
+      label: Form Reopened At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: form_deleted_at
+      label: Form Deleted At
+      hint: null
+      type: date
+      options: []
+      required: false

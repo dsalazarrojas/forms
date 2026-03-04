@@ -1,0 +1,258 @@
+inputSchema:
+  type: object
+  properties:
+    title: Affiliate Revenue Report Form
+    pages:
+    - id: 1
+      name: affiliate_information_section
+      label: Affiliate Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: affiliate_name
+      label: Affiliate Name
+      hint: Enter your full name or business name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: affiliate_id
+      label: Affiliate ID
+      hint: Your unique affiliate identifier
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: reporting_period
+      label: Reporting Period
+      hint: The time period for this revenue report
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: report_date
+      label: Report Date
+      hint: Date when this report is submitted
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: revenue_summary_section
+      label: Revenue Summary
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: gross_revenue
+      label: Gross Revenue
+      hint: Total revenue generated before commissions
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: commission_earned
+      label: Commission Earned
+      hint: Total commission earned from affiliate sales
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: referral_fees
+      label: Referral Fees
+      hint: Any referral fees earned (if applicable)
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: bonuses_incentives
+      label: Bonuses and Incentives
+      hint: Any bonuses or incentives earned
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: total_earnings
+      label: Total Earnings
+      hint: Sum of all earnings (calculated automatically)
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: transaction_details_section
+      label: Transaction Details
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: total_clicks
+      label: Total Clicks
+      hint: Number of clicks generated to the merchant site
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: total_leads
+      label: Total Leads Generated
+      hint: Number of leads generated from your referrals
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: total_sales
+      label: Total Sales
+      hint: Number of sales attributed to your referrals
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: conversion_rate
+      label: Conversion Rate (%)
+      hint: Percentage of clicks that resulted in sales
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: average_order_value
+      label: Average Order Value
+      hint: Average value of orders from your referrals
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: product_performance_section
+      label: Product Performance
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: top_performing_products
+      label: Top Performing Products
+      hint: List the products that generated the most revenue
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: product_sales_breakdown
+      label: Product Sales Breakdown
+      hint: Breakdown of sales by product category or individual products
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: marketing_channel_performance
+      label: Marketing Channel Performance
+      hint: Performance breakdown by marketing channel
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: traffic_source_analysis
+      label: Traffic Source Analysis
+      hint: Breakdown of traffic sources and their performance
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: payment_information_section
+      label: Payment Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: payment_method
+      label: Payment Method
+      hint: How would you like to receive payment?
+      type: select_one
+      options:
+      - Direct Deposit
+      - PayPal
+      - Check
+      - Wire Transfer
+      - Other
+      required: true
+    - id: 25
+      name: payment_email
+      label: Payment Email
+      hint: Email associated with your payment method (if applicable)
+      type: email
+      options: []
+      required: false
+    - id: 26
+      name: tax_information_section
+      label: Tax Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: tax_classification
+      label: Tax Classification
+      hint: How should your earnings be reported for tax purposes?
+      type: select_one
+      options:
+      - Independent Contractor
+      - Business Entity
+      - Other
+      required: true
+    - id: 28
+      name: tax_id
+      label: Tax ID
+      hint: Your tax identification number
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: expenses_deductions_section
+      label: Expenses and Deductions
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 30
+      name: marketing_expenses
+      label: Marketing Expenses
+      hint: Expenses related to promoting the affiliate program
+      type: number
+      options: []
+      required: false
+    - id: 31
+      name: other_deductions
+      label: Other Deductions
+      hint: Any other deductible expenses
+      type: number
+      options: []
+      required: false
+    - id: 32
+      name: net_earnings
+      label: Net Earnings
+      hint: Total earnings minus expenses and deductions
+      type: number
+      options: []
+      required: true
+    - id: 33
+      name: additional_comments_section
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 34
+      name: additional_performance_notes
+      label: Additional Performance Notes
+      hint: Any additional notes about your performance during this period
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: signature
+      label: Electronic Signature
+      hint: Sign to confirm the accuracy of this report
+      type: text
+      options: []
+      required: true

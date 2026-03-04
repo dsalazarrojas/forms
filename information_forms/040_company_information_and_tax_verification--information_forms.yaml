@@ -1,0 +1,58 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Company Information And Tax Verification
+    pages:
+      - id: 1
+        name: company_name
+        label: Company name
+        hint: Legal registered name
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: tax_id
+        label: Tax identification number
+        hint: VAT, EIN, or local tax ID
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: contact_person
+        label: Contact person name
+        hint: For verification and follow up
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: contact_email
+        label: Contact email
+        hint: For sending verification requests
+        type: email
+        options: []
+        required: true
+      - id: 5
+        name: business_address
+        label: Business address
+        hint: Registered office address
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: supporting_documents
+        label: Supporting documents summary
+        hint: Indicate attached tax or registration documents
+        type: text
+        options: []
+        required: false

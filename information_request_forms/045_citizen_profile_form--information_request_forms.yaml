@@ -1,0 +1,216 @@
+inputSchema:
+  type: object
+  properties:
+    title: Citizen Profile Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: middle_name
+      label: Middle Name
+      hint: Optional
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Other
+      - Prefer not to say
+      required: true
+    - id: 8
+      name: address
+      label: Street Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: state
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: zip_code
+      label: Zip or Postal Code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: citizen_id
+      label: Citizen ID Number
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: nationality
+      label: Nationality
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: marital_status
+      label: Marital Status
+      hint: null
+      type: select_one
+      options:
+      - Single
+      - Married
+      - Divorced
+      - Widowed
+      - Separated
+      - Domestic partnership
+      required: true
+    - id: 16
+      name: education_level
+      label: Highest Education Level
+      hint: null
+      type: select_one
+      options:
+      - High school
+      - Some college
+      - Associate degree
+      - Bachelor's degree
+      - Master's degree
+      - Doctorate
+      - Other
+      required: true
+    - id: 17
+      name: occupation
+      label: Occupation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: employer
+      label: Employer Name
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: null
+      type: select_one
+      options:
+      - Spouse
+      - Parent
+      - Sibling
+      - Child
+      - Friend
+      - Other
+      required: true
+    - id: 22
+      name: services_needed
+      label: Government Services Needed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Voting registration
+      - Tax services
+      - License renewal
+      - Benefits enrollment
+      - Permit applications
+      - Records request
+      - Other
+      required: true
+    - id: 23
+      name: preferred_contact
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Mail
+      - Text message
+      required: true
+    - id: 24
+      name: newsletter_signup
+      label: Receive Government Updates Newsletter
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 25
+      name: additional_comments
+      label: Any Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false

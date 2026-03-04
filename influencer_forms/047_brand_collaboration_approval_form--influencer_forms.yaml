@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Brand Collaboration Approval Form
+    pages:
+    - id: 1
+      name: section_header_collaboration
+      label: -- Collaboration Request Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: collaboration_id
+      label: Collaboration ID
+      hint: Unique identifier
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: request_date
+      label: Request Date
+      hint: When collaboration was proposed
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: section_header_influencer
+      label: -- Influencer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: influencer_name
+      label: Influencer Name
+      hint: Primary influencer name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: influencer_handle
+      label: Influencer Handle
+      hint: Social media username
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: primary_platform
+      label: Primary Social Platform
+      hint: Main platform with followers
+      type: select_one
+      options:
+      - Instagram
+      - TikTok
+      - YouTube
+      - Facebook
+      - Twitter
+      - LinkedIn
+      - Multiple
+      required: true
+    - id: 8
+      name: follower_count
+      label: Follower Count
+      hint: Total followers
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: section_header_collaboration_type
+      label: -- Collaboration Type --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: collaboration_type
+      label: Type of Collaboration
+      hint: What is the partnership
+      type: select_one
+      options:
+      - Sponsored content
+      - Product endorsement
+      - Campaign participation
+      - Event appearance
+      - Co-branded content
+      - Ambassador role
+      - One-time post
+      - Series of posts
+      required: true
+    - id: 11
+      name: campaign_name
+      label: Campaign Name
+      hint: Name of campaign
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: section_header_details
+      label: -- Collaboration Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: campaign_duration
+      label: Campaign Duration
+      hint: How long will collaboration last
+      type: select_one
+      options:
+      - One-time post
+      - 1 week
+      - 2 weeks
+      - 1 month
+      - 2-3 months
+      - 6 months
+      - 1 year
+      - Ongoing
+      required: true
+    - id: 14
+      name: content_deliverables
+      label: Content Deliverables Required
+      hint: What content needs to be created
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: section_header_approval
+      label: -- Approval and Compliance --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: brand_fit
+      label: Brand Fit Assessment
+      hint: Does influencer align with brand
+      type: select_one
+      options:
+      - Excellent fit
+      - Good fit
+      - Acceptable fit
+      - Poor fit
+      - Not suitable
+      required: true
+    - id: 17
+      name: audience_alignment
+      label: Target Audience Alignment
+      hint: Does influencer reach target audience
+      type: select_one
+      options:
+      - Perfect alignment
+      - Good alignment
+      - Partial alignment
+      - Minimal alignment
+      - No alignment
+      required: true
+    - id: 18
+      name: section_header_approval_status
+      label: -- Approval Decision --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: approval_status
+      label: Approval Status
+      hint: Is collaboration approved
+      type: select_one
+      options:
+      - Approved
+      - Approved with conditions
+      - Pending review
+      - Rejected
+      - On hold
+      required: true
+    - id: 20
+      name: approval_notes
+      label: Approval Notes or Conditions
+      hint: Any conditions or requirements
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: approver_signature
+      label: Approved by
+      hint: Who approved this collaboration
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,66 @@
+inputSchema:
+  type: object
+  properties:
+    title: missing_source_id_report
+    pages:
+    - id: 1
+      name: missing_source_id
+      label: missing source id
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incident_date
+      label: incident date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: incident_time
+      label: incident time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: incident_type
+      label: incident type
+      hint: null
+      type: select_one
+      options:
+      - Incident
+      - Other
+      - Unknown
+      required: false
+    - id: 5
+      name: source_id
+      label: source id
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: missing_source_id_location
+      label: missing source id location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: missing_source_id_details
+      label: missing source id details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: submit
+      hint: null
+      type: note
+      options: []
+      required: false

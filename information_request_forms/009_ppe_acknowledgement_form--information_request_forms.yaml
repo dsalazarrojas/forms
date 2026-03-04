@@ -1,0 +1,37 @@
+inputSchema:
+  type: object
+  properties:
+    title: PPE Acknowledgement Form
+    pages:
+    - id: 1
+      name: ppe_acknowledgement_form_data
+      label: ppe_acknowledgement_form_data
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: acknowledgement_form_category
+      label: acknowledgement_form_category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: acknowledgement_form_subcategory
+      label: acknowledgement_form_subcategory
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: acknowledgement_form_description
+      label: acknowledgement_form_description
+      hint: null
+      type: text
+      options: []
+      required: false

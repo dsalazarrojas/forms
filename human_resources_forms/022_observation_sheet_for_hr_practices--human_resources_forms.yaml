@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Observation Sheet For HR Practices
+    pages:
+    - id: 1
+      name: practice_name
+      label: practice name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: observed_by
+      label: observed by
+      hint: null
+      type: select_one
+      options:
+      - HR Manager
+      - Department Head
+      - Team Lead
+      required: true
+    - id: 3
+      name: date_observed
+      label: date_observed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: time_observed
+      label: time_observed
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: observed_area
+      label: observed area
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: evaluation
+      label: evaluation
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: score
+      label: score
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: action_plan
+      label: action plan
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: next_review
+      label: next review
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: follow_up
+      label: follow up
+      hint: null
+      type: date
+      options: []
+      required: true

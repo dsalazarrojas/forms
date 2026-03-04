@@ -1,0 +1,88 @@
+inputSchema:
+  type: object
+  properties:
+    title: Talent Exchange Program Application Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: rotation_duration
+      label: Rotation Duration
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: team_lead
+      label: Team Lead
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Team Lead 1'', ''value'': ''Team Lead 1''}'
+      - '{''label'': ''Team Lead 2'', ''value'': ''Team Lead 2''}'
+      - '{''label'': ''Team Lead 3'', ''value'': ''Team Lead 3''}'
+      - '{''label'': ''Team Lead 4'', ''value'': ''Team Lead 4''}'
+      required: true
+    - id: 9
+      name: rotation_location
+      label: Rotation Location
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Location 1'', ''value'': ''Location 1''}'
+      - '{''label'': ''Location 2'', ''value'': ''Location 2''}'
+      required: true
+    - id: 10
+      name: rotation_reason
+      label: Rotation Reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: rotation_comment
+      label: Rotation Comment
+      hint: null
+      type: text
+      options: []
+      required: false

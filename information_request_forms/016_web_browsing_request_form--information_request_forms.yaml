@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: Web Browsing Request Form
+    pages:
+    - id: 1
+      name: web_browsing_request_form
+      label: web_browsing_request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: description
+      label: description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: research_area
+      label: research_area
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: task_priority
+      label: task_priority
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 7
+      name: submitter
+      label: submitter
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: submitter_email
+      label: submitter_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: submitter_phone
+      label: submitter_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: assigned_tool
+      hint: null
+      type: select_one
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 12
+      name: form_id
+      label: form_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: task_id
+      label: task_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: page_id
+      label: page_id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: form_version
+      label: form_version
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: modified_by
+      label: modified_by
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: created_at
+      label: created_at
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 19
+      name: modified_at
+      label: modified_at
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 20
+      name: submitter_ip
+      label: submitter_ip
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: submission_ip
+      label: submission_ip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submitter_useragent
+      label: submitter_useragent
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submitter_os
+      label: submitter_os
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitter_browser
+      label: submitter_browser
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitter_platform
+      label: submitter_platform
+      hint: null
+      type: text
+      options: []
+      required: false

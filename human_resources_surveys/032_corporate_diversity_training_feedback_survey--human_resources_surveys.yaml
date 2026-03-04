@@ -1,0 +1,171 @@
+inputSchema:
+  type: object
+  properties:
+    title: Corporate Diversity Training Feedback Survey
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: training_type
+      label: Training Type
+      hint: null
+      type: select_one
+      options:
+      - '{''Label'': ''In-Person''}'
+      - '{''Label'': ''Online''}'
+      - '{''Label'': ''Both''}'
+      required: false
+    - id: 3
+      name: training_date
+      label: Training Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: training_time
+      label: Training Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: instructor_name
+      label: Instructor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: instructor_rating
+      label: Instructor Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: feedback_question1
+      label: How likely are you to recommend this training?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''Label'': ''Highly Likely''}'
+      - '{''Label'': ''Somewhat Likely''}'
+      - '{''Label'': ''Not Likely''}'
+      required: false
+    - id: 8
+      name: feedback_comment
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - '{''Label'': ''HR''}'
+      - '{''Label'': ''Marketing''}'
+      - '{''Label'': ''Sales''}'
+      - '{''Label'': ''Finance''}'
+      - '{''Label'': ''IT''}'
+      - '{''Label'': ''Operations''}'
+      - '{''Label'': ''Other''}'
+      required: false
+    - id: 10
+      name: team_members
+      label: Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - '{''Label'': ''1-10''}'
+      - '{''Label'': ''11-20''}'
+      - '{''Label'': ''21-50''}'
+      - '{''Label'': ''51-100''}'
+      - '{''Label'': ''More than 100''}'
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: assigned_tool_type
+      label: Assigned Tool Type
+      hint: null
+      type: select_one
+      options:
+      - '{''Label'': ''Google Forms''}'
+      - '{''Label'': ''Microsoft Forms''}'
+      - '{''Label'': ''Jotform''}'
+      required: false
+    - id: 13
+      name: feedback_question2
+      label: What was the most valuable part of the training?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''Label'': ''Diversity, Equity and Inclusion''}'
+      - '{''Label'': ''Team Building''}'
+      - '{''Label'': ''Leadership Development''}'
+      - '{''Label'': ''All of the Above''}'
+      - '{''Label'': ''Other''}'
+      required: false
+    - id: 14
+      name: feedback_question3
+      label: What could be improved?
+      hint: null
+      type: select_multiple
+      options:
+      - '{''Label'': ''More hands-on exercises''}'
+      - '{''Label'': ''Smaller class size''}'
+      - '{''Label'': ''More interactive elements''}'
+      - '{''Label'': ''Less theory, more practice''}'
+      - '{''Label'': ''Other''}'
+      required: false
+    - id: 15
+      name: assigned_jotform
+      label: Assigned Jotform
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: assigned_jotform_url
+      label: Assigned Jotform URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: feedback_question4
+      label: Was the training conducted on time?
+      hint: null
+      type: select_one
+      options:
+      - '{''Label'': True}'
+      - '{''Label'': False}'
+      required: false
+    - id: 18
+      name: assigned_survey
+      label: Assigned Survey
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: assigned_survey_url
+      label: Assigned Survey URL
+      hint: null
+      type: text
+      options: []
+      required: false

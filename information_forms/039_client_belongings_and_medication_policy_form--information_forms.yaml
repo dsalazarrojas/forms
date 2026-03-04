@@ -1,0 +1,167 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Belongings And Medication Policy Form
+    pages:
+    - id: 1
+      name: intake_header
+      label: -- Client Belongings and Medication Policy --
+      hint: Ensuring the safety and security of all clients.
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: client_full_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_admission
+      label: Admission/Check-in Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: case_manager_name
+      label: Case Manager/Staff Member
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: belongings_header
+      label: -- Inventory of Belongings --
+      hint: Please list major items or valuables brought with you.
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: valuables_list
+      label: List of Valuables (Electronics, Jewelry, Cash over $20)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: locker_storage_requested
+      label: Do you wish to store valuables in the facility safe/locker?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - N/A (No valuables)
+      required: true
+    - id: 8
+      name: prohibited_items_ack
+      label: I confirm I have no prohibited items (weapons, illicit substances)
+      hint: null
+      type: select_one
+      options:
+      - I confirm
+      - Other
+      required: true
+    - id: 9
+      name: medication_header
+      label: -- Medication Management --
+      hint: All medications must be in original pharmacy containers.
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: taking_medication
+      label: Are you currently taking any prescription medications?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 11
+      name: medication_list
+      label: List Medications and Dosages
+      hint: Name of med, Strength, Frequency
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: allergies_list
+      label: Known Allergies (Medication or Food)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: pharmacy_name
+      label: Primary Pharmacy Name and Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: med_storage_policy_ack
+      label: I agree to hand over all medications for secure storage/dispensing
+      hint: As per facility policy
+      type: select_one
+      options:
+      - I agree
+      - Other
+      required: true
+    - id: 15
+      name: policy_ack_header
+      label: -- Policy Acknowledgement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: liability_waiver_belongings
+      label: I understand the facility is not liable for lost or damaged personal
+        items
+      hint: Unless stored in the facility safe
+      type: select_one
+      options:
+      - I understand and agree
+      - Other
+      required: true
+    - id: 17
+      name: right_to_search_ack
+      label: I understand the facility reserves the right to search belongings for
+        safety
+      hint: null
+      type: select_one
+      options:
+      - I understand
+      - Other
+      required: true
+    - id: 18
+      name: client_signature
+      label: Client Signature (Type Name)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: staff_witness
+      label: Staff Member Witness (Type Name)
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: signature_date
+      label: Date signed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: policy_footer
+      label: -- Safety and Security for All --
+      hint: null
+      type: note
+      options: []
+      required: false

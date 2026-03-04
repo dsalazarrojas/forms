@@ -1,0 +1,176 @@
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Weekly Test Form
+    pages:
+    - id: 1
+      name: patient_name
+      label: Patient Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: patient_id
+      label: Patient ID or Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: test_week
+      label: Week of Testing
+      hint: Select the week of your scheduled test
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: test_date
+      label: Date of COVID-19 Test
+      hint: When test was taken
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: test_type
+      label: Type of Test
+      hint: null
+      type: select_one
+      options:
+      - PCR Test
+      - Rapid Antigen Test
+      - Antibody Test
+      - Saliva Test
+      - Other
+      required: true
+    - id: 9
+      name: test_location
+      label: Testing Location
+      hint: Where test was performed
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: test_result
+      label: Test Result
+      hint: null
+      type: select_one
+      options:
+      - Positive
+      - Negative
+      - Inconclusive
+      - Pending
+      required: true
+    - id: 11
+      name: result_date
+      label: Date Result Received
+      hint: When result was reported
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: symptoms_present
+      label: Symptoms Present During Test Week
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 13
+      name: symptoms_list
+      label: Symptoms Experienced
+      hint: Check all that apply
+      type: select_multiple
+      options:
+      - Fever
+      - Cough
+      - Fatigue
+      - Loss of taste or smell
+      - Shortness of breath
+      - Headache
+      - Sore throat
+      - Body aches
+      required: false
+    - id: 14
+      name: close_contact
+      label: Close Contact with COVID-19 Case
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 15
+      name: vaccinated
+      label: Vaccination Status
+      hint: null
+      type: select_one
+      options:
+      - Unvaccinated
+      - One dose
+      - Fully vaccinated
+      - Boosted
+      required: true
+    - id: 16
+      name: isolation_recommended
+      label: Isolation Recommended
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Already isolated
+      required: true
+    - id: 17
+      name: follow_up_test
+      label: Follow-up Test Scheduled
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Pending decision
+      required: false
+    - id: 18
+      name: follow_up_date
+      label: Follow-up Test Date
+      hint: If scheduled
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: physician_name
+      label: Physician Name
+      hint: Supervising healthcare provider
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: additional_notes
+      label: Additional Notes
+      hint: Any relevant information
+      type: text
+      options: []
+      required: false

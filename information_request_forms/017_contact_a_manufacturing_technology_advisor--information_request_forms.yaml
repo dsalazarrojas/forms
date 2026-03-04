@@ -1,0 +1,151 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact A Manufacturing Technology Advisor
+    pages:
+    - id: 1
+      name: section_company_info
+      label: -- Company Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: company_name
+      label: Company Name
+      hint: Enter your company's full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: industry_sector
+      label: Industry Sector
+      hint: Select your manufacturing sector
+      type: select_one
+      options:
+      - Aerospace and Defense
+      - Automotive
+      - Electronics
+      - Food and Beverage
+      - Medical Devices
+      - Consumer Goods
+      - Energy/Utilities
+      - Other
+      required: true
+    - id: 4
+      name: number_of_facilities
+      label: Number of Facilities
+      hint: How many manufacturing plants do you operate?
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: contact_name
+      label: Contact Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_email
+      label: Contact Email
+      hint: Primary business email
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: contact_phone
+      label: Contact Phone Number
+      hint: Best number to reach you
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: section_technology_inquiry
+      label: -- Technology Inquiry Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: primary_technology_interest
+      label: Primary Technology Interest
+      hint: What technology are you inquiring about?
+      type: select_multiple
+      options:
+      - Robotics and Automation
+      - Industrial IoT (IIoT)
+      - Additive Manufacturing (3D Printing)
+      - Manufacturing Execution Systems (MES)
+      - Predictive Maintenance
+      - Digital Twin Technology
+      - Cloud Integration
+      required: true
+    - id: 10
+      name: description_of_technology_needs
+      label: Description of Technology Needs
+      hint: Describe your current technology status and goals
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: estimated_project_budget
+      label: Estimated Project Budget
+      hint: Select a range
+      type: select_one
+      options:
+      - Under $100,000
+      - $100,000 - $500,000
+      - $500,001 - $1,000,000
+      - $1,000,000+
+      required: false
+    - id: 12
+      name: decision_making_timeline
+      label: Decision Making Timeline
+      hint: When do you expect to make a decision?
+      type: select_one
+      options:
+      - Immediately
+      - Within 3 Months
+      - 3-6 Months
+      - 6-12 Months
+      - 12+ Months
+      required: true
+    - id: 13
+      name: section_routing_info
+      label: -- Advisor Routing --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: urgency_level
+      label: Urgency Level
+      hint: How quickly do you need a response?
+      type: select_one
+      options:
+      - High - Urgent
+      - Moderate - Normal
+      - Low - Information Only
+      required: true
+    - id: 15
+      name: preferred_advisor_specialization
+      label: Preferred Advisor Specialization
+      hint: Do you need an expert in a specific area?
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: additional_comments
+      label: Additional Comments
+      hint: Anything else you would like to share
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submission_date
+      label: Submission Date
+      hint: Today's date
+      type: date
+      options: []
+      required: true

@@ -1,0 +1,219 @@
+inputSchema:
+  type: object
+  properties:
+    title: Guest Service Incident Report Form
+    pages:
+    - id: 1
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: guest_name
+      label: Guest Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: incident_category
+      label: Incident Category
+      hint: null
+      type: select_multiple
+      options:
+      - Hotel
+      - Food and Beverage
+      - Housekeeping
+      - Room Service
+      - Other
+      required: false
+    - id: 4
+      name: incident_details
+      label: Incident Details
+      hint: Please describe the incident in as much detail as possible.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: guest_room
+      label: Guest Room
+      hint: null
+      type: select_one
+      options:
+      - Room 1
+      - Room 2
+      - Room 3
+      required: false
+    - id: 6
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: select_multiple
+      options:
+      - Front Desk
+      - Pool Area
+      - Restaurant
+      - Room
+      - Parking
+      - Other
+      required: false
+    - id: 7
+      name: incident_description
+      label: Incident Description
+      hint: Please provide a detailed description of the incident.
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: action_taken
+      label: Action Taken
+      hint: null
+      type: select_multiple
+      options:
+      - Follow-up
+      - Review
+      - Resolution
+      - Other
+      required: false
+    - id: 9
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: employee_department
+      label: Employee Department
+      hint: null
+      type: select_multiple
+      options:
+      - Front Desk
+      - Food and Beverage
+      - Housekeeping
+      - Engineering
+      - Other
+      required: false
+    - id: 11
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: guest_email
+      label: Guest Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: follow_up_status
+      label: Follow-up Status
+      hint: null
+      type: select_multiple
+      options:
+      - Done
+      - In progress
+      required: false
+    - id: 15
+      name: action_taken
+      label: Action
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: employee_department
+      label: Employee Department
+      hint: null
+      type: select_multiple
+      options:
+      - Front Desk
+      - Food and Beverage
+      - Housekeeping
+      - Engineering
+      - Other
+      required: false
+    - id: 17
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: guest_email
+      label: Guest Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 19
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 20
+      name: follow_up_status
+      label: Follow-up Status
+      hint: null
+      type: select_multiple
+      options:
+      - Done
+      - In progress
+      required: false
+    - id: 21
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: employee_department
+      label: Employee Department
+      hint: null
+      type: select_multiple
+      options:
+      - Front Desk
+      - Food and Beverage
+      - Housekeeping
+      - Engineering
+      - Other
+      required: false
+    - id: 23
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: guest_email
+      label: Guest Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 25
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false

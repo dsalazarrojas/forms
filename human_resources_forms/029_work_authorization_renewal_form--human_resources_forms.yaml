@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Work Authorization Renewal Form
+    pages:
+    - id: 1
+      name: main_page_1
+      label: work-authorization-renewal-form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_info
+      label: Employee Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: manager_info
+      label: Manager Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: work_authorization_status
+      label: Work Authorization Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 5
+      name: reason_leave
+      label: Reason For Leave
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_leave_start
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: date_leave_end
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: manager_id
+      label: Manager ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: manager_phone
+      label: Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false

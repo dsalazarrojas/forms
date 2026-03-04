@@ -1,0 +1,175 @@
+inputSchema:
+  type: object
+  properties:
+    title: parking_lot_incident_form
+    pages:
+    - id: 1
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: vehicle_type
+      label: Vehicle Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: parking_area
+      label: Parking Area
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: vehicle_color
+      label: Vehicle Color
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: witness_statements
+      label: Witness Statements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: photo_url
+      label: Photo Url
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: incident_number
+      label: Incident Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: incident_reported_by
+      label: Incident Reported By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: incident_status
+      label: Incident Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 15
+      name: incident_closed
+      label: Incident Closed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: incident_closed_reason
+      label: Incident Closed Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: incident_closed_by
+      label: Incident Closed By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: incident_closed_comments
+      label: Incident Closed Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: incident_closed_by_user
+      label: Closed By User
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: incident_closed_date
+      label: Closed Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: incident_status_comments
+      label: Status Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: incident_status_history
+      label: Status History
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

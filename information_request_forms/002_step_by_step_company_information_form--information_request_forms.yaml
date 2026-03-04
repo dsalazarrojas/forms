@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Step By Step Company Information Form
+    pages:
+    - id: 1
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: address_line_1
+      label: address_line_1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: address_line_2
+      label: address_line_2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: fax
+      label: Fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: website
+      label: Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: company_type
+      label: company_type
+      hint: null
+      type: select_one
+      options:
+      - Company
+      - Partnership
+      - LLC
+      - Corporation
+      - Other
+      required: false
+    - id: 9
+      name: company_status
+      label: company_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Merged
+      - Dissolved
+      - Other
+      required: false
+    - id: 10
+      name: number_of_employees
+      label: number_of_employees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: company_description
+      label: company_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: business_hours
+      label: business_hours
+      hint: null
+      type: time
+      options: []
+      required: false

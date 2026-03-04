@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Charity Donation Incident Report Form
+    pages:
+    - id: 1
+      name: header
+      label: -- Donation Incident Report --
+      hint: Report incidents related to donations for follow up and resolution
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: reporter_name
+      label: reporter name
+      hint: person submitting the report
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_email
+      label: contact email
+      hint: contact for follow up
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: incident_date
+      label: incident date
+      hint: when the incident occurred
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: incident_type
+      label: incident type
+      hint: choose the category of incident
+      type: select_one
+      options:
+      - Fraud
+      - Misallocation
+      - Technical error
+      - Donor complaint
+      - Other
+      required: true
+    - id: 6
+      name: description
+      label: description
+      hint: detailed description of the incident
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: amount_involved
+      label: amount involved
+      hint: monetary value involved if applicable
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: parties_involved
+      label: parties involved
+      hint: names or organizations involved in the incident
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: immediate_action_taken
+      label: immediate action taken
+      hint: steps taken at the time of the incident
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: follow_up_required
+      label: follow up required
+      hint: indicate if further investigation is necessary
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

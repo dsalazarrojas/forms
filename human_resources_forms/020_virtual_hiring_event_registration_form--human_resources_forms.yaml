@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Virtual Hiring Event Registration Form
+    pages:
+    - id: 1
+      name: user_information
+      label: user_information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: event_information
+      label: event_information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: job_details
+      label: job_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: job_preferences
+      label: job_preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: job_availability
+      label: job_availability
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: job_location
+      label: job_location
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: job_shift
+      label: job_shift
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: job_start_date
+      label: job_start_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: job_end_date
+      label: job_end_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: job_status
+      label: job_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 12
+      name: job_type
+      label: job_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 13
+      name: job_level
+      label: job_level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 14
+      name: job_salary_range
+      label: job_salary_range
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: job_description
+      label: job_description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: job_requirements
+      label: job_requirements
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: job_benefits
+      label: job_benefits
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: job_notes
+      label: job_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: event_start_date
+      label: event_start_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: event_end_date
+      label: event_end_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 21
+      name: event_location
+      label: event_location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: event_type
+      label: event_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 23
+      name: event_details
+      label: event_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: user_agreement
+      label: user_agreement
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 25
+      name: submit
+      label: submit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true

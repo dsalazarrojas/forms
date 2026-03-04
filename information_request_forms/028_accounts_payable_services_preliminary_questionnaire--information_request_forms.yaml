@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accounts Payable Services Preliminary Questionnaire
+    pages:
+    - id: 1
+      name: client_organization_name
+      label: Client Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: average_monthly_invoices
+      label: Average Monthly Invoices
+      hint: Approximate number of invoices processed
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: current_ap_process
+      label: Current AP Process
+      hint: Describe your current workflow maturity
+      type: select_one
+      options:
+      - Manual / Paper-based
+      - Partially Automated
+      - Fully Automated
+      required: true
+    - id: 4
+      name: software_compatibility_needs
+      label: Software Compatibility Needs
+      hint: Which systems must we integrate with?
+      type: select_multiple
+      options:
+      - QuickBooks
+      - NetSuite
+      - SAP
+      - Xero
+      - Dynamics 365
+      required: false
+    - id: 5
+      name: approval_workflow_complexity
+      label: Approval Workflow Complexity
+      hint: How many steps are in your typical approval process?
+      type: select_one
+      options:
+      - Simple - 1 step
+      - Moderate - 2-3 steps
+      - Complex - 4 or more steps
+      required: true
+    - id: 6
+      name: number_of_vendors
+      label: Number of Active Vendors
+      hint: null
+      type: select_one
+      options:
+      - 1-50
+      - 51-200
+      - 201-500
+      - 500 or more
+      required: true
+    - id: 7
+      name: ap_contact_email
+      label: AP Contact Email
+      hint: Main point of contact for AP matters
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: ap_contact_phone
+      label: AP Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: key_pain_points_in_current_process
+      label: Key Pain Points in Current Process
+      hint: What are the biggest challenges you face?
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: scope_header
+      label: -- Proposed Service Scope --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: services_interested_in
+      label: Services Interested In
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Invoice Scanning
+      - Data Entry
+      - Approval Management
+      - Payment Execution
+      - Vendor Onboarding
+      required: true

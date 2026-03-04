@@ -1,0 +1,285 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contractor Expense Claim Form
+    pages:
+    - id: 1
+      name: contractor_name
+      label: Contractor Full Name
+      hint: Legal name of the contractor
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contractor_id
+      label: Contractor ID
+      hint: Contractor identification number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email Address
+      hint: Primary email for reimbursement
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_claim_period
+      label: -- Claim Period --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: period_start
+      label: Period Start Date
+      hint: Start date for expense period
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: period_end
+      label: Period End Date
+      hint: End date for expense period
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: project_name
+      label: Project Name
+      hint: Name of project expenses relate to
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: client_name
+      label: Client Name
+      hint: Client the project is for
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: section_expense_details
+      label: -- Expense Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: expense_1_category
+      label: Expense 1 Category
+      hint: Type of first expense
+      type: select_one
+      options:
+      - Travel
+      - Meals
+      - Lodging
+      - Materials
+      - Equipment Rental
+      - Fuel
+      - Parking
+      - Office Supplies
+      - Other
+      required: true
+    - id: 12
+      name: expense_1_description
+      label: Expense 1 Description
+      hint: Description of the expense
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: expense_1_date
+      label: Expense 1 Date
+      hint: Date expense was incurred
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: expense_1_amount
+      label: Expense 1 Amount
+      hint: Cost of the expense
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: expense_2_category
+      label: Expense 2 Category
+      hint: Type of second expense
+      type: select_one
+      options:
+      - Travel
+      - Meals
+      - Lodging
+      - Materials
+      - Equipment Rental
+      - Fuel
+      - Parking
+      - Office Supplies
+      - Other
+      required: false
+    - id: 16
+      name: expense_2_description
+      label: Expense 2 Description
+      hint: Description of the expense
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: expense_2_date
+      label: Expense 2 Date
+      hint: Date expense was incurred
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: expense_2_amount
+      label: Expense 2 Amount
+      hint: Cost of the expense
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: expense_3_category
+      label: Expense 3 Category
+      hint: Type of third expense
+      type: select_one
+      options:
+      - Travel
+      - Meals
+      - Lodging
+      - Materials
+      - Equipment Rental
+      - Fuel
+      - Parking
+      - Office Supplies
+      - Other
+      required: false
+    - id: 20
+      name: expense_3_description
+      label: Expense 3 Description
+      hint: Description of the expense
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: expense_3_date
+      label: Expense 3 Date
+      hint: Date expense was incurred
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: expense_3_amount
+      label: Expense 3 Amount
+      hint: Cost of the expense
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: section_totals
+      label: -- Expense Totals --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: total_expenses
+      label: Total Expenses Claimed
+      hint: Sum of all expenses
+      type: number
+      options: []
+      required: true
+    - id: 25
+      name: currency
+      label: Currency
+      hint: Currency for all amounts
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - GBP
+      - CAD
+      - AUD
+      - Other
+      required: true
+    - id: 26
+      name: section_payment
+      label: -- Payment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: payment_method
+      label: Preferred Payment Method
+      hint: How should reimbursement be made
+      type: select_one
+      options:
+      - Direct Deposit
+      - Check
+      - Wire Transfer
+      - PayPal
+      required: true
+    - id: 28
+      name: bank_name
+      label: Bank Name
+      hint: Name of bank for direct deposit
+      type: text
+      options: []
+      required: false
+    - id: 29
+      name: account_number
+      label: Account Number
+      hint: Bank account number
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: routing_number
+      label: Routing Number
+      hint: Bank routing number
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: section_documentation
+      label: -- Documentation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 32
+      name: receipts_attached
+      label: Are receipts attached
+      hint: null
+      type: select_one
+      options:
+      - Yes - All receipts included
+      - Partially
+      - No - Will provide later
+      required: true
+    - id: 33
+      name: additional_notes
+      label: Additional Notes
+      hint: Any explanations or special circumstances
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: declaration
+      label: I declare these expenses are accurate and business-related
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true

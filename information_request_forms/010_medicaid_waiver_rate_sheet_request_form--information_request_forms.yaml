@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medicaid Waiver Rate Sheet Request Form
+    pages:
+    - id: 1
+      name: provider
+      label: Provider
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: provider_address
+      label: Provider Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: request_type
+      label: Request Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: facility
+      label: Facility
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: waiver_type
+      label: Waiver Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: waiver_request
+      label: Waiver Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: facility_name
+      label: Facility Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: facility_address
+      label: Facility Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: facility_phone
+      label: Facility Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: facility_email
+      label: Facility Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: facility_fax
+      label: Facility Fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: provider_manager
+      label: Provider Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: provider_manager_title
+      label: Provider Manager Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: facility_type
+      label: Facility Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: facility_rating
+      label: Facility Rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 22
+      name: facility_status
+      label: Facility Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 23
+      name: facility_size
+      label: Facility Size
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: facility_hours
+      label: Facility Hours
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

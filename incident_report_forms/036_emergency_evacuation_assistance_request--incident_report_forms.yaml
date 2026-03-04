@@ -1,0 +1,84 @@
+inputSchema:
+  type: object
+  properties:
+    title: emergency-evacuation-assistance-request
+    pages:
+    - id: 1
+      name: emergency_evacuation_assistance_request_form
+      label: Emergency Evacuation Assistance Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incident_incident_type
+      label: incident-type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Evacuation'', ''value'': ''Evacuation''}'
+      - '{''id'': 2, ''label'': ''Evacuation due to weather'', ''value'': ''Evacuation
+        due to weather''}'
+      - '{''id'': 3, ''label'': ''Emergency assistance'', ''value'': ''Emergency assistance''}'
+      required: false
+    - id: 3
+      name: incident_location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: incident_description
+      label: description
+      hint: Please describe the incident
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: incident_contact_name
+      label: contact-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: incident_contact_phone
+      label: contact-phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: incident_contact_email
+      label: contact-email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: incident_assistance_type
+      label: assistance-type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Transportation'', ''value'': ''Transportation''}'
+      - '{''id'': 2, ''label'': ''Shelter'', ''value'': ''Shelter''}'
+      - '{''id'': 3, ''label'': ''Food'', ''value'': ''Food''}'
+      - '{''id'': 4, ''label'': ''Clothing'', ''value'': ''Clothing''}'
+      - '{''id'': 5, ''label'': ''Other'', ''value'': ''Other''}'
+      required: false
+    - id: 9
+      name: incident_assistance_notes
+      label: assistance-notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: incident_emergency_contact
+      label: emergency-contact
+      hint: null
+      type: text
+      options: []
+      required: false

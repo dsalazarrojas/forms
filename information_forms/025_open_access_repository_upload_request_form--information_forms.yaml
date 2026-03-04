@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: open_access_repository_upload_request_form
+    pages:
+    - id: 1
+      name: author_details
+      label: author_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: manuscript_files
+      label: manuscript_files
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: repository_selections
+      label: repository_selections
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: access_rights
+      label: access_rights
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: author_email
+      label: author_email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: author_phone
+      label: author_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: manuscript_title
+      label: manuscript_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: manuscript_file
+      label: manuscript_file
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: repository_selected
+      label: repository_selected
+      hint: null
+      type: select_one
+      options:
+      - Repository 1
+      - Repository 2
+      - Repository 3
+      - Repository 4
+      - Repository 5
+      - Repository 6
+      required: false
+    - id: 10
+      name: access_right
+      label: access_right
+      hint: null
+      type: select_one
+      options:
+      - Right 1
+      - Right 2
+      - Right 3
+      - Right 4
+      - Right 5
+      required: false
+    - id: 11
+      name: submission_date
+      label: submission_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: submission_time
+      label: submission_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: email_sent
+      label: email_sent
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: phone_sent
+      label: phone_sent
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Performance Appraisal Form
+    pages:
+    - id: 1
+      name: employee_performance_section
+      label: employee_performance_section
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: supervisor_name
+      label: supervisor_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: supervisor_title
+      label: supervisor_title
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date_completed
+      label: completed_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: overall_rubric_score
+      label: overall_rubric_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: key_performance_areas
+      label: key_performance_areas
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: performance_comments
+      label: performance_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: next_review_date
+      label: next_review_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: performance_rating
+      label: performance_rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 11
+      name: employee_rating
+      label: employee_rating
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      required: false
+    - id: 12
+      name: rating_scale
+      label: rating_scale
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: rating_notes
+      label: rating_notes
+      hint: null
+      type: text
+      options: []
+      required: false

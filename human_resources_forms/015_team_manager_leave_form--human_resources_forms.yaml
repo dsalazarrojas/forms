@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Team Manager Leave Form
+    pages:
+    - id: 1
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: team_member
+      label: Team Member
+      hint: null
+      type: select_one
+      options:
+      - Team Member A
+      - Team Member B
+      required: true
+    - id: 4
+      name: leave_reason
+      label: Leave Reason
+      hint: null
+      type: select_multiple
+      options:
+      - Vacation
+      - Sick Leave
+      - Medical
+      - Other
+      required: true
+    - id: 5
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: manager_approval
+      label: Manager Approval
+      hint: null
+      type: select_one
+      options:
+      - Approve
+      - Deny
+      required: true
+    - id: 10
+      name: manager_comments
+      label: Manager Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: team_lead_approval
+      label: Team Lead Approval
+      hint: null
+      type: select_one
+      options:
+      - Approve
+      - Deny
+      required: false
+    - id: 12
+      name: team_lead_comments
+      label: Team Lead Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: hr_approval
+      label: HR Approval
+      hint: null
+      type: select_one
+      options:
+      - Approve
+      - Deny
+      required: false
+    - id: 14
+      name: hr_comments
+      label: HR Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: form_submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: form_cancel
+      label: Cancel
+      hint: null
+      type: text
+      options: []
+      required: false

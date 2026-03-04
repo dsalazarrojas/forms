@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Household Information Questionnaire
+    pages:
+    - id: 1
+      name: household_information_questionnaire_form_1
+      label: household_information_questionnaire_form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: household_members
+      label: household_members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: household_income
+      label: household_income
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: household_type
+      label: household_type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: house_address
+      label: house_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: household_vehicles
+      label: household_vehicles
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: household_income_range
+      label: household_income_range
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: household_income_source
+      label: household_income_source
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: household_employment_status
+      label: household_employment_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: household_language
+      label: household_language
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: household_employment_status_other
+      label: household_employment_status_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: household_language_other
+      label: household_language_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: household_income_frequency
+      label: household_income_frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: household_income_frequency_other
+      label: household_income_frequency_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: household_income_amount
+      label: household_income_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: household_income_frequency_unit
+      label: household_income_frequency_unit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: household_rent
+      label: household_rent
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: household_utilities_cost
+      label: household_utilities_cost
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: household_utilities_cost_other
+      label: household_utilities_cost_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: household_utilities_cost_unit
+      label: household_utilities_cost_unit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: household_other_expenses
+      label: household_other_expenses
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: household_other_expenses_frequency
+      label: household_other_expenses_frequency
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: household_other_expenses_frequency_other
+      label: household_other_expenses_frequency_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: household_other_expenses_frequency_unit
+      label: household_other_expenses_frequency_unit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: household_other_expenses_frequency_frequency
+      label: household_other_expenses_frequency_frequency
+      hint: null
+      type: number
+      options: []
+      required: false

@@ -1,0 +1,127 @@
+inputSchema:
+  type: object
+  properties:
+    title: Home Buyer Preliminary Information Collection Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: preferred_contact
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Mobile
+      - Email
+      - Phone
+      required: false
+    - id: 6
+      name: home_buyer_status
+      label: Home Buyer Status
+      hint: null
+      type: select_one
+      options:
+      - First-Time Home Buyer
+      - Repeat Home Buyer
+      - Real Estate Investor
+      required: false
+    - id: 7
+      name: loan_type
+      label: Loan Type
+      hint: null
+      type: select_multiple
+      options:
+      - Primary Residence
+      - Investment Property
+      - Vacation Home
+      required: false
+    - id: 8
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_multiple
+      options:
+      - Single Family Home
+      - Condo
+      - Townhouse
+      required: false
+    - id: 9
+      name: property_size
+      label: Property Size
+      hint: null
+      type: select_multiple
+      options:
+      - Less than 1000 Sq Ft
+      - 1000-1500 Sq Ft
+      - 1500-2000 Sq Ft
+      - 2000-2500 Sq Ft
+      - 2500-3000 Sq Ft
+      - 3000-4000 Sq Ft
+      - 4000-5000 Sq Ft
+      - More than 5000 Sq Ft
+      required: false
+    - id: 10
+      name: move_in_date
+      label: Move-In Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: move_out_date
+      label: Move-Out Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: property_purchase_price
+      label: Property Purchase Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: down_payment
+      label: Down Payment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: property_location
+      label: Property Location
+      hint: null
+      type: select_multiple
+      options:
+      - North
+      - South
+      - East
+      - West
+      required: false

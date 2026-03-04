@@ -1,0 +1,71 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Consultant Contract Completion Offboarding Form
+    pages:
+      - id: 1
+        name: section_offboarding_overview
+        label: -- Offboarding Overview --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: consultant_name
+        label: Consultant name
+        hint: Name of the consultant being offboarded
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: contract_end_date
+        label: Contract end date
+        hint: Date contract officially ends
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: deliverables_completed
+        label: Deliverables completed
+        hint: Confirm if all contract deliverables are finished
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 5
+        name: final_report_submitted
+        label: Final report submitted
+        hint: Confirm submission of final report
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: false
+      - id: 6
+        name: knowledge_transfer_done
+        label: Knowledge transfer done
+        hint: Confirm if handover sessions completed
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 7
+        name: return_of_assets
+        label: Return of assets
+        hint: Note any company assets returned
+        type: text
+        options: []
+        required: false

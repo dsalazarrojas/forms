@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wellness Center Treatment Reaction Incident Report
+    pages:
+    - id: 1
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: incident_time_end
+      label: Incident End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: staff_member
+      label: Staff Member
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: client_name
+      label: Client Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_one
+      options:
+      - Type of Incident
+      - Allergic Reaction
+      - Injury
+      - Other
+      required: false
+    - id: 8
+      name: follow_up_date
+      label: Follow-up Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: follow_up_time
+      label: Follow-up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: follow_up_status
+      label: Follow-up Status
+      hint: null
+      type: select_one
+      options:
+      - Status
+      - Complete
+      - Incomplete
+      - None
+      required: false
+    - id: 11
+      name: incident_image
+      label: Incident Image
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: follow_up_comment
+      label: Follow-up Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: follow_up_image
+      label: Follow-up Image
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: staff_comment
+      label: Staff Comment
+      hint: null
+      type: text
+      options: []
+      required: false

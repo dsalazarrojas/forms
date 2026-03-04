@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pay Increase Form
+    pages:
+    - id: 1
+      name: employee
+      label: employee
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: increase_type
+      label: increase_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: amount
+      label: amount
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: effective_date
+      label: effective_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: justification_letter
+      label: justification_letter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: approval_status
+      label: approval_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: decision_made_by
+      label: decision_made_by
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: signature_decision
+      label: signature_decision
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: approved_by
+      label: approved_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: approved_date
+      label: approved_date
+      hint: null
+      type: date
+      options: []
+      required: false

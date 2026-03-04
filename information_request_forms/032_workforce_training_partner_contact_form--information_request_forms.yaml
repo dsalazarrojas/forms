@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: workforce_training_partner_contact_form
+    pages:
+    - id: 1
+      name: partner_name
+      label: Partner Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_first_name
+      label: Contact First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_last_name
+      label: Contact Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: partner_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: partner_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: training_expertise
+      label: Training Expertise
+      hint: null
+      type: select_multiple
+      options:
+      - Training and Development
+      - Training and Placement
+      - Workforce Readiness
+      required: true
+    - id: 7
+      name: partnership_interest
+      label: Partnership Interest
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_organization
+      label: Contact Organization
+      hint: null
+      type: text
+      options: []
+      required: false

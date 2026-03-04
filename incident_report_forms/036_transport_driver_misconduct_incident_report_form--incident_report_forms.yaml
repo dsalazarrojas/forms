@@ -1,0 +1,96 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Transport Driver Misconduct Incident Report Form
+    pages:
+    - id: 1
+      name: general_information
+      label: General Information
+      hint: General Information
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: incident_description
+      label: Incident Description
+      hint: Incident Description
+      type: note
+      options: []
+      required: true
+    - id: 3
+      name: witness_names
+      label: Witness Names
+      hint: Select up to 5
+      type: select_multiple
+      options:
+      - '{''value'': 1, ''label'': ''John''}'
+      - '{''value'': 2, ''label'': ''Jane''}'
+      - '{''value'': 3, ''label'': ''Bob''}'
+      required: true
+    - id: 4
+      name: witness_statements
+      label: Witness Statements
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 5
+      name: vehicle_details
+      label: Vehicle Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: action_taken
+      label: Action Taken
+      hint: Action Taken
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: driver_details
+      label: Driver Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: rider_details
+      label: Rider Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: incident_outcome
+      label: Incident Outcome
+      hint: Incident Outcome
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: investigation_status
+      label: Investigation Status
+      hint: Investigation Status
+      type: text
+      options: []
+      required: true

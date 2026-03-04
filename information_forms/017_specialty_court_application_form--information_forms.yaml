@@ -1,0 +1,123 @@
+inputSchema:
+  type: object
+  properties:
+    title: Specialty Court Application Form
+    pages:
+    - id: 1
+      name: application_form
+      label: Application Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: application_status
+      label: Application Status
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Pending
+      - Approved
+      - Denied
+      - Rejected
+      required: false
+    - id: 4
+      name: veteran_status
+      label: Veteran Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 5
+      name: court_type
+      label: Court Type
+      hint: null
+      type: select_one
+      options:
+      - Drug Court
+      - Mental Health Court
+      - Veterans Court
+      required: false
+    - id: 6
+      name: court_location
+      label: Court Location
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: program_type
+      label: Program Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: application_type
+      label: Application Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: submitted_by_relationship
+      label: Submitted By Relationship
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: court_case_number
+      label: Court Case Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: case_manager_name
+      label: Case Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: time
+      options: []
+      required: false

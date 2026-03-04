@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: Escalator Incident Form
+    pages:
+    - id: 1
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: incident_type
+      label: Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: incident_location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: incident_details
+      label: Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: incident_image
+      label: Image
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: witness_statement
+      label: Witness Statement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: witness_name
+      label: Witness Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: witness_contact_number
+      label: Witness Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false

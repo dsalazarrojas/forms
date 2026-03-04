@@ -1,0 +1,142 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Employee Guarantee Assessment
+    pages:
+    - id: 1
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: department
+      label: department
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Sales''}'
+      - '{''id'': 2, ''label'': ''Marketing''}'
+      - '{''id'': 3, ''label'': ''IT''}'
+      required: true
+    - id: 3
+      name: employee_position
+      label: employee_position
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: employment_date
+      label: employment_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: employment_status
+      label: employment_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Full-time''}'
+      - '{''id'': 2, ''label'': ''Contract''}'
+      - '{''id'': 3, ''label'': ''Leave of Absence''}'
+      required: true
+    - id: 7
+      name: manager_name
+      label: manager_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: manager_email
+      label: manager_email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: job_title_description
+      label: job_title_description
+      hint: Brief description of the job title and responsibilities
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: job_title_responsibilities
+      label: job_title_responsibilities
+      hint: Brief description of the job title and responsibilities
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: job_title_responsibilities_list
+      label: job_title_responsibilities_list
+      hint: List the job title and responsibilities
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Job Title''}'
+      - '{''id'': 2, ''label'': ''Job Responsibilities''}'
+      required: true
+    - id: 12
+      name: employment_type
+      label: employment_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Regular Full-time''}'
+      - '{''id'': 2, ''label'': ''Regular Part-time''}'
+      - '{''id'': 3, ''label'': ''Temp Full-time''}'
+      - '{''id'': 4, ''label'': ''Temp Part-time''}'
+      required: true
+    - id: 13
+      name: employment_start_date
+      label: employment_start_date
+      hint: Date of employment start
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: employment_end_date
+      label: employment_end_date
+      hint: Date of employment end
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: guarantee
+      label: guarantee
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      required: true
+    - id: 16
+      name: manager_comment
+      label: manager_comment
+      hint: Additional comments
+      type: note
+      options: []
+      required: false

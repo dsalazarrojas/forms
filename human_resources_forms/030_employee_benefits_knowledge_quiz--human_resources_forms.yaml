@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Benefits Knowledge Quiz
+    pages:
+    - id: 1
+      name: intro_page
+      label: Intro Page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: health_insurance_page
+      label: Health Insurance
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: retirement_page
+      label: Retirement Plans
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: time_off_page
+      label: Time Off
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: benefits_page
+      label: Benefits
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: entitlements_page
+      label: Entitlements
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: quiz_page
+      label: Quiz
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: summary_page
+      label: Summary
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: back_button
+      label: Back
+      hint: null
+      type: text
+      options: []
+      required: false

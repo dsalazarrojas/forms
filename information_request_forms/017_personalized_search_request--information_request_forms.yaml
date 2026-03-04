@@ -1,0 +1,122 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personalized Search Request
+    pages:
+    - id: 1
+      name: form_title
+      label: Form Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: search_type
+      label: Search Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Option 1''}'
+      - '{''id'': 2, ''label'': ''Option 2''}'
+      - '{''id'': 3, ''label'': ''Option 3''}'
+      required: false
+    - id: 3
+      name: search_category
+      label: Search Category
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Category 1''}'
+      - '{''id'': 2, ''label'': ''Category 2''}'
+      - '{''id'': 3, ''label'': ''Category 3''}'
+      required: false
+    - id: 4
+      name: search_location
+      label: Search Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: priority
+      label: Priority
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: search_notes
+      label: Search Notes
+      hint: Optional notes for the search
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: follow_up
+      label: Follow-up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: follow_up_time
+      label: Follow-up Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: follow_up_notes
+      label: Follow-up Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''User 1''}'
+      - '{''id'': 2, ''label'': ''User 2''}'
+      - '{''id'': 3, ''label'': ''User 3''}'
+      required: false
+    - id: 13
+      name: assigned_by
+      label: Assigned By
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''User 1''}'
+      - '{''id'': 2, ''label'': ''User 2''}'
+      - '{''id'': 3, ''label'': ''User 3''}'
+      required: false
+    - id: 14
+      name: submit_date
+      label: Submit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: submit_time
+      label: Submit Time
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Household Information Form
+    pages:
+    - id: 1
+      name: household_address
+      label: household_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: household_occupants
+      label: number_of_occupants
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: household_income
+      label: annual_income
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: household_type
+      label: household_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''single_family''}'
+      - '{''value'': ''multi_family''}'
+      - '{''value'': ''single_parent''}'
+      - '{''value'': ''single_parent_with_children''}'
+      - '{''value'': ''other''}'
+      required: false
+    - id: 5
+      name: household_income_source
+      label: income_source
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''business''}'
+      - '{''value'': ''employment''}'
+      - '{''value'': ''investment''}'
+      - '{''value'': ''other''}'
+      required: false
+    - id: 6
+      name: household_employment_status
+      label: employment_status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''employed''}'
+      - '{''value'': ''unemployed''}'
+      - '{''value'': ''retired''}'
+      - '{''value'': ''student''}'
+      - '{''value'': ''other''}'
+      required: false
+    - id: 7
+      name: household_phone
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: household_email
+      label: email_address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: household_note
+      label: additional_notes
+      hint: null
+      type: note
+      options: []
+      required: false

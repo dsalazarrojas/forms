@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Healthcare Provider Information Form
+    pages:
+    - id: 1
+      name: provider_information
+      label: provider_information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name_and_address
+      label: name_and_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_details
+      label: contact_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: medical_license_info
+      label: medical_license_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: insurance_info
+      label: insurance_info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_training
+      label: medical_training
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medical_certification
+      label: medical_certification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: medical_license_number
+      label: medical_license_number
+      hint: Provide medical license number
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: medical_license_state
+      label: medical_license_state
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: true
+    - id: 10
+      name: medical_license_issue_date
+      label: medical_license_issue_date
+      hint: null
+      type: date
+      options: []
+      required: false

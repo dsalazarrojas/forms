@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: Information Technology Survey
+    pages:
+    - id: 1
+      name: general_questions
+      label: General Questions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: technology_use
+      label: What kind of technology do you use?
+      hint: null
+      type: select_one
+      options:
+      - Computers
+      - Mobile Devices
+      - Internet
+      required: false
+    - id: 3
+      name: user_experience
+      label: How would you rate your experience with the technology?
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: satisfaction_rating
+      label: Overall Satisfaction Rating
+      hint: Scale 1-5
+      type: select_one
+      options:
+      - Very Dissatisfied
+      - Somewhat Dissatisfied
+      - Neutral
+      - Somewhat Satisfied
+      - Very Satisfied
+      required: false
+    - id: 5
+      name: need_for_upgrade
+      label: Do you think you need any upgrades or improvements for the technology
+        you use?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: specific_needs
+      label: If yes, what upgrades or improvements do you need?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false

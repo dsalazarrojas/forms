@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Lost Luggage Recovery Request Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: travel_date
+      label: Travel Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: flight_number
+      label: Flight Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: flight_number_confirmation
+      label: Flight Number Confirmation
+      hint: null
+      type: select_multiple
+      options:
+      - Confirm flight
+      - Not confirm flight
+      required: true
+    - id: 8
+      name: baggage_description
+      label: Baggage Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: baggage_value
+      label: Baggage Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: luggage_type
+      label: Luggage Type
+      hint: null
+      type: select_one
+      options:
+      - Suitcase
+      - Bag
+      - Other
+      required: true
+    - id: 11
+      name: airline
+      label: Airline
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: flight_number_2
+      label: Flight Number 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: flight_number_3
+      label: Flight Number 3
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: flight_number_4
+      label: Flight Number 4
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: direct_deposit_update_form
+    pages:
+    - id: 1
+      name: direct_debit_account_number
+      label: Direct Debit Account Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: bank_name
+      label: Bank Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: routing_number
+      label: Routing Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: account_number
+      label: Account Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: bank_phone
+      label: Bank Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: bank_account_name
+      label: Bank Account Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: bank_routing_number
+      label: Bank Routing Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: direct_deposit_bank_account
+      label: Direct Deposit Bank Account
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Bank of America''}'
+      - '{''value'': ''Wells Fargo''}'
+      - '{''value'': ''Bank of America''}'
+      required: false
+    - id: 9
+      name: account_type
+      label: Account Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Checking''}'
+      - '{''value'': ''Savings''}'
+      - '{''value'': ''Other''}'
+      required: false
+    - id: 10
+      name: update_reason
+      label: Update Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: account_owner
+      label: Account Owner
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Account Owner 1''}'
+      - '{''value'': ''Account Owner 2''}'
+      - '{''value'': ''Account Owner 3''}'
+      required: false

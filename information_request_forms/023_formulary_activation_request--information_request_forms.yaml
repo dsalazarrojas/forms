@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Formulary Activation Request
+    pages:
+    - id: 1
+      name: formulary_activation_request_first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: formulary_activation_request_last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: formulary_activation_request_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: formulary_activation_request_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: formulary_activation_request_formulary_name
+      label: Formulary Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: formulary_activation_request_formulary_id
+      label: Formulary ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: formulary_activation_request_approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Draft
+      - Approved
+      - Rejected
+      required: true
+    - id: 8
+      name: formulary_activation_request_reviewers
+      label: Reviewers
+      hint: null
+      type: select_multiple
+      options:
+      - Reviewer 1
+      - Reviewer 2
+      - Reviewer 3
+      required: true
+    - id: 9
+      name: formulary_activation_request_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: formulary_activation_request_reviewed_by
+      label: Reviewed By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: formulary_activation_request_date_reviewed
+      label: Date Reviewed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 12
+      name: formulary_activation_request_time_reviewed
+      label: Time Reviewed
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 13
+      name: formulary_activation_request_date_approved
+      label: Date Approved
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: formulary_activation_request_time_approved
+      label: Time Approved
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: formulary_activation_request_daterejected
+      label: Date Rejected
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: formulary_activation_request_timerejected
+      label: Time Rejected
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: formulary_activation_request_date_reviewed_by
+      label: Reviewed By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: formulary_activation_request_time_reviewed_by
+      label: Time Reviewed By
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: formulary_activation_request_date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: formulary_activation_request_time_submitted
+      label: Time Submitted
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 21
+      name: formulary_activation_request_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Draft
+      - Active
+      - Inactive
+      required: true
+    - id: 22
+      name: formulary_activation_request_form_status
+      label: Form Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      - Draft
+      required: true
+    - id: 23
+      name: formulary_activation_request_activated_by
+      label: Activated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: formulary_activation_request_date_activated
+      label: Date Activated
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: formulary_activation_request_time_activated
+      label: Time Activated
+      hint: null
+      type: time
+      options: []
+      required: false

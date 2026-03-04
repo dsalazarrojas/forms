@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Retirement Election Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: social_security_number
+      label: Social Security Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: retirement_date
+      label: Retirement Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: reason_for_retirement
+      label: Reason for Retirement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: benefits_start_date
+      label: Benefits Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: retirement_plan
+      label: Retirement Plan
+      hint: null
+      type: select_one
+      options:
+      - Plan A
+      - Plan B
+      - Plan C
+      required: false
+    - id: 8
+      name: pay_out
+      label: Pay Out
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: retirement_status
+      label: Retirement Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Pending
+      - In Progress
+      required: false
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

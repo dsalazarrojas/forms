@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: property_owner_account_preferences
+    pages:
+    - id: 1
+      name: property_owner_name
+      label: Property Owner Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: preferred_communication_channel
+      label: Preferred Communication Channel
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Email''}'
+      - '{''id'': 2, ''label'': ''Phone''}'
+      - '{''id'': 3, ''label'': ''Text Message''}'
+      required: false
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: primary_contact_address
+      label: Primary Contact Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: contact_phone_alternate
+      label: Alternate Contact Phone
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: contact_email_alternate
+      label: Alternate Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: preferred_communication_method_alternate
+      label: Preferred Communication Method Alternate
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Email''}'
+      - '{''id'': 2, ''label'': ''Phone''}'
+      - '{''id'': 3, ''label'': ''Text Message''}'
+      required: false
+    - id: 10
+      name: owner_communication_preferences
+      label: Owner Communication Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Send Updates and Announcements via Email'', ''hint'':
+        ''We will email updates and announcements regarding your property to this
+        email.''}'
+      - '{''id'': 2, ''label'': ''Send Updates and Announcements via Phone'', ''hint'':
+        ''We will text updates and announcements regarding your property to this phone.''}'
+      - '{''id'': 3, ''label'': ''Send No Updates and Announcements''}'
+      - '{''id'': 4, ''label'': ''Send Updates and Announcements via Text Message'',
+        ''hint'': ''We will send text updates and announcements regarding your property
+        to this phone.''}'
+      required: false

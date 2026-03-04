@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workplace Safety And Concerns Form
+    pages:
+    - id: 1
+      name: employee_survey
+      label: Employee Survey
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Finance
+      - HR
+      - Marketing
+      - Operations
+      required: true
+    - id: 3
+      name: concern_type
+      label: Concern Type
+      hint: null
+      type: select_one
+      options:
+      - Safety and Security
+      - Work-Life Balance
+      - Communication
+      - Team Collaboration
+      required: true
+    - id: 4
+      name: concern_description
+      label: Concern Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: concern_impact
+      label: Impact On Work
+      hint: null
+      type: select_one
+      options:
+      - Significant
+      - Somewhat Significant
+      - Not Significant
+      required: true
+    - id: 6
+      name: concerned_department
+      label: Concerned Department
+      hint: null
+      type: select_multiple
+      options:
+      - Finance
+      - HR
+      - Marketing
+      - Operations
+      required: true
+    - id: 7
+      name: concerned_location
+      label: Concerned Location
+      hint: null
+      type: select_one
+      options:
+      - Office
+      - Remote
+      required: false
+    - id: 8
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: email
+      label: Employee Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: true

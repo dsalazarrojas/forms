@@ -1,0 +1,35 @@
+inputSchema:
+  type: object
+  properties:
+    title: ethics_compliance_declaration_form
+    pages:
+    - id: 1
+      name: general_information
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_details
+      label: Employee Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: declaration
+      label: Declaration
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: submission
+      label: Submission
+      hint: null
+      type: date
+      options: []
+      required: false

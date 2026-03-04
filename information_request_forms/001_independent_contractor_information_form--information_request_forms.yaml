@@ -1,0 +1,26 @@
+inputSchema:
+  type: object
+  properties:
+    title: Independent Contractor Information Form
+    pages:
+    - id: 1
+      name: page_1
+      label: Page 1
+      hint: This is the first page
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: page_2
+      label: Page 2
+      hint: This is the second page
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: page_3
+      label: Page 3
+      hint: null
+      type: date
+      options: []
+      required: false

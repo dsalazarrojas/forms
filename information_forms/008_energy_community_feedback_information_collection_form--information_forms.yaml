@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Energy Community Feedback Information Collection Form
+    pages:
+    - id: 1
+      name: user_input
+      label: User Input
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: rating
+      label: Rating
+      hint: null
+      type: select_one
+      options:
+      - 1-2
+      - 3-4
+      - 5-6
+      - 7-8
+      - 9-10
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: select_multiple
+      options:
+      - I have an issue
+      - I have a concern
+      - I have a suggestion
+      - Other (please specify)
+      required: false
+    - id: 8
+      name: other_comments
+      label: Other comments
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: South Jersey Babysitter Application Form
+    pages:
+    - id: 1
+      name: home_address
+      label: Home Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: experience
+      label: experience
+      hint: null
+      type: select_one
+      options:
+      - '{''option_1'': None}'
+      - '{''option_2'': None}'
+      required: false
+    - id: 3
+      name: availability
+      label: Availability
+      hint: List your available dates and times
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: emergency_contacts
+      label: Emergency Contacts
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option_1'': None}'
+      - '{''option_2'': None}'
+      - '{''option_3'': None}'
+      required: false
+    - id: 5
+      name: phone_numbers
+      label: Phone Numbers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: E-mail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: references
+      label: References
+      hint: null
+      type: note
+      options: []
+      required: false

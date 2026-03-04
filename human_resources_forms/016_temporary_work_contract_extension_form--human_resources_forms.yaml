@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Temporary Work Contract Extension Form
+    pages:
+    - id: 1
+      name: employee_details
+      label: Employee Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contract_extension_reason
+      label: Why are you extending the contract?
+      hint: Please provide details about the reason for contract extension
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contract_extension_date
+      label: Contract Extension Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: manager_approval
+      label: Manager Approval
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Approve''}'
+      - '{''id'': 2, ''label'': ''Not Approve''}'
+      required: true
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: extended_contract_details
+      label: Extended Contract Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: manager_phone
+      label: Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: manager_signature
+      label: Manager Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: employee_signature
+      label: Employee Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: department_approval
+      label: Department Approval
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 13, ''label'': ''Approve''}'
+      - '{''id'': 14, ''label'': ''Not Approve''}'
+      required: true
+    - id: 13
+      name: approval_date
+      label: Approval Date
+      hint: null
+      type: date
+      options: []
+      required: true

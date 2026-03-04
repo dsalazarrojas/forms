@@ -1,0 +1,61 @@
+inputSchema:
+  type: object
+  properties:
+    title: Consultancy Service Information Collection Form
+    pages:
+    - id: 1
+      name: section_project_summary
+      label: -- Project Summary --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: organization_name
+      label: Organization name
+      hint: Client organization name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_person
+      label: Contact person
+      hint: Primary contact for the service request
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact email
+      hint: Email for follow up
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: project_scope_summary
+      label: Project scope summary
+      hint: Briefly describe the scope of work
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: desired_outcomes
+      label: Desired outcomes
+      hint: What success looks like for this engagement
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: timeline_expectations
+      label: Timeline expectations
+      hint: Expected start and end dates
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: budget_estimate
+      label: Budget estimate
+      hint: Approximate available budget
+      type: number
+      options: []
+      required: false

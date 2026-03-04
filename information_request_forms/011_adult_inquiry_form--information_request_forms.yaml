@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Adult Inquiry Form
+    pages:
+    - id: 1
+      name: inquiry_header
+      label: -- Inquiry Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full name
+      hint: Provide your name for response
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: organization
+      label: Organization
+      hint: Optional employer or group
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact email
+      hint: Required to receive replies
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Contact phone
+      hint: Optional phone number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: inquiry_type
+      label: Inquiry type
+      hint: Select the best match
+      type: select_one
+      options:
+      - General information
+      - Support or troubleshooting
+      - Partnership request
+      - Media inquiry
+      required: true
+    - id: 7
+      name: message
+      label: Message or question
+      hint: Provide details about your request
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: preferred_contact_time
+      label: Preferred contact time
+      hint: Optional best time for contact
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: subscribe_updates
+      label: Subscribe to updates
+      hint: Opt in to newsletter
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 10
+      name: submission_date
+      label: Submission date
+      hint: Date of inquiry
+      type: date
+      options: []
+      required: true

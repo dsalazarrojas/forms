@@ -1,0 +1,187 @@
+inputSchema:
+  type: object
+  properties:
+    title: Substance Influence Assessment
+    pages:
+    - id: 1
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: incident_description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: observer
+      label: Observer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: substance
+      label: Suspected Substance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: observer_role
+      label: Observer Role
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: assessor
+      label: Assessor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assessor_title
+      label: Assessor Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: assessor_department
+      label: Assessor Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: incident_location_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: incident_weather
+      label: Weather
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: substance_type
+      label: Type
+      hint: null
+      type: select_multiple
+      options:
+      - Alcohol
+      - Other
+      - Chemical
+      - Medical
+      - Other
+      required: false
+    - id: 14
+      name: substance_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: substance_amount
+      label: Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: substance_route
+      label: Route
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: substance_route_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: substance_frequency
+      label: Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: substance_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: incident_category
+      label: Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: incident_details
+      label: Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: action_plan
+      label: Action Plan
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: follow_up
+      label: Follow up
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false

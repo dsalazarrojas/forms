@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: information_request_form
+    pages:
+    - id: 1
+      name: company_info
+      label: Company Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Person
+      hint: null
+      type: select_multiple
+      options:
+      - Jane Doe
+      - John Smith
+      - Jane Smith
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: note
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: sales_info
+      label: Sales Information
+      hint: null
+      type: text
+      options: []
+      required: false

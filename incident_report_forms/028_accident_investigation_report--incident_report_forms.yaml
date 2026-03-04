@@ -1,0 +1,170 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Accident Investigation Report
+    pages:
+    - id: 1
+      name: report_number
+      label: Report Number
+      hint: Unique identifier for this investigation report
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: investigator_name
+      label: Investigator Name
+      hint: Name of the person conducting the investigation
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: investigator_title
+      label: Investigator Title
+      hint: Title or position of the investigator
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: accident_date
+      label: Accident Date
+      hint: Date when the accident occurred
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: accident_time
+      label: Accident Time
+      hint: Time when the accident occurred
+      type: time
+      options: []
+      required: true
+    - id: 6
+      name: investigation_date
+      label: Investigation Date
+      hint: Date when the investigation was conducted
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: accident_location
+      label: Accident Location
+      hint: Specific location where the accident occurred
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: injured_person_name
+      label: Injured Person Name
+      hint: Full name of the person injured in the accident
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: injured_person_employee_id
+      label: Injured Person Employee ID
+      hint: Employee ID of the injured person (if applicable)
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: injured_person_department
+      label: Injured Person Department
+      hint: Department of the injured person (if applicable)
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: accident_type
+      label: Accident Type
+      hint: Type of accident that occurred
+      type: select_one
+      options: ["Slip/Trip/Fall", "Struck by Object", "Caught in/Between", "Overexertion", "Vehicle Accident", "Chemical Exposure", "Burn", "Cut/Laceration", "Electrical Shock", "Other"]
+      required: true
+    - id: 12
+      name: accident_severity
+      label: Accident Severity
+      hint: Severity level of the accident
+      type: select_one
+      options: ["Fatality", "Lost Time Injury", "Medical Treatment Case", "First Aid Case", "Near Miss"]
+      required: true
+    - id: 13
+      name: immediate_cause
+      label: Immediate Cause
+      hint: What was the immediate cause of the accident?
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: root_causes
+      label: Root Causes
+      hint: What were the underlying root causes of the accident?
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: contributing_factors
+      label: Contributing Factors
+      hint: What factors contributed to the accident?
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: witnesses_list
+      label: Witnesses List
+      hint: Names and contact information of witnesses
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: evidence_collected
+      label: Evidence Collected
+      hint: Description of evidence collected during investigation
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: corrective_actions_required
+      label: Corrective Actions Required
+      hint: What corrective actions are required to prevent recurrence?
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: preventive_measures
+      label: Preventive Measures
+      hint: What preventive measures should be implemented?
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: responsible_department
+      label: Responsible Department
+      hint: Which department is responsible for implementing corrective actions?
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: implementation_deadline
+      label: Implementation Deadline
+      hint: Deadline for implementing corrective actions
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: follow_up_date
+      label: Follow Up Date
+      hint: Date for follow-up to verify corrective action implementation
+      type: date
+      options: []
+      required: true

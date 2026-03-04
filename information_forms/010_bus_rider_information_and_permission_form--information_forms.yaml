@@ -1,0 +1,133 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bus Rider Information And Permission Form
+    pages:
+    - id: 1
+      name: section_student_info
+      label: -- Student and Rider Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: student_name_full
+      label: Student Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: school_grade_level
+      label: Grade Level
+      hint: Current academic year
+      type: select_one
+      options:
+      - Kindergarten
+      - Elementary (1-5)
+      - Middle School (6-8)
+      - High School (9-12)
+      required: true
+    - id: 4
+      name: student_date_of_birth
+      label: Student Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: section_parent_contact
+      label: -- Parent/Guardian Contact --
+      hint: In case of emergency or notification
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: parent_guardian_name
+      label: Parent or Guardian Name
+      hint: Primary contact person
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: primary_phone
+      label: Primary Contact Phone
+      hint: Mobile or Home
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: secondary_phone
+      label: Secondary Contact Phone
+      hint: Work or Alternate
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: emergency_contact_alternate
+      label: Alternate Emergency Contact
+      hint: Different from parent/guardian
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: section_health_safety
+      label: -- Health and Medical Information --
+      hint: Crucial for trip safety
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: medical_conditions_allergies
+      label: Known Medical Conditions or Allergies
+      hint: Please be specific (e.g. Nut Allergy, Asthma)
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: medication_required_on_bus
+      label: Is medication required during transport
+      hint: e.g. EpiPen, Inhaler
+      type: select_one
+      options:
+      - false
+      - Yes (Carried by Student)
+      - Yes (Carried by Supervisor)
+      required: true
+    - id: 13
+      name: section_trip_details
+      label: -- Logistics and Permission --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: pickup_dropoff_location
+      label: Designated Pickup/Drop-off Location
+      hint: Street corner or specific bus stop
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: permission_for_travel
+      label: I give permission for my child to travel by bus
+      hint: Standard authorization for school-related trips
+      type: select_one
+      options:
+      - Yes, I give permission
+      - No, I do not permit
+      required: true
+    - id: 16
+      name: parent_signature_digital
+      label: Electronic Signature of Parent/Guardian
+      hint: Type your full name to certify authorization
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: form_completion_date
+      label: Date Signed
+      hint: null
+      type: date
+      options: []
+      required: true

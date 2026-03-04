@@ -1,0 +1,136 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cheer Team Interest Form Template
+    pages:
+    - id: 1
+      name: section_athlete_profile
+      label: -- Athlete Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: athlete_full_name
+      label: Athlete Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: athlete_age_at_tryouts
+      label: Athlete Age
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: current_school_grade
+      label: Current Grade
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: section_guardian_contact
+      label: -- Guardian Contact Info --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: guardian_name_primary
+      label: Parent / Guardian Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: guardian_email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: guardian_phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: preferred_comm_method
+      label: Preferred Contact Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - Text Message
+      required: true
+    - id: 10
+      name: section_interest_experience
+      label: -- Program Interest --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: team_level_interest_selection
+      label: Interested Team Level
+      hint: null
+      type: select_multiple
+      options:
+      - Tiny / Mini (Ages 3-8)
+      - Recreational (All Ages)
+      - Competitive All-Star
+      - High School Prep
+      required: true
+    - id: 12
+      name: previous_cheer_dance_exp
+      label: Previous Cheer or Dance Experience
+      hint: Describe any teams or years of training
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: tumbling_skills_summary
+      label: Current Tumbling Skills
+      hint: e.g. cartwheel, back handspring, tuck
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: primary_interest_reason
+      label: Why are you interested in our program
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: how_heard_about_us
+      label: How did you hear about us
+      hint: null
+      type: select_one
+      options:
+      - Social Media
+      - Friend / Referral
+      - Website Search
+      - Local Event
+      - School Announcement
+      required: false
+    - id: 16
+      name: questions_for_coaching_staff
+      label: Questions for the Coaching Staff
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: interest_submission_timestamp
+      label: Date of Interest
+      hint: null
+      type: date
+      options: []
+      required: true

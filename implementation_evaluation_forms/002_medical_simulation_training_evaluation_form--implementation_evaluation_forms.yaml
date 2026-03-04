@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Medical Simulation Training Evaluation Form
+    pages:
+    - id: 1
+      name: session_number
+      label: Session Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: simulation_type
+      label: simulation_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: training_session
+      label: Training Session
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: session_length
+      label: Session Length
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: simulation_start_time
+      label: Simulation Start Time
+      hint: null
+      type: time
+      options: []
+      required: false

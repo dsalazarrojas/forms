@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Camper Confidential Information Form
+    pages:
+    - id: 1
+      name: camper_full_name
+      label: Camper Full Name
+      hint: Legal name of the camper
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date_of_birth
+      label: Date of Birth
+      hint: Camper date of birth
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: parent_guardian_name
+      label: Parent or Guardian Name
+      hint: Primary emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number to call in emergencies
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: allergies_or_diet
+      label: Allergies or Dietary Restrictions
+      hint: List any allergies or dietary needs
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: medical_conditions
+      label: Medical Conditions
+      hint: Ongoing medical issues or chronic conditions
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: medications
+      label: Current Medications
+      hint: Medications and dosing schedule
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: special_care_instructions
+      label: Special Care Instructions
+      hint: Any special care required during camp
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: photo_consent
+      label: Photo Consent
+      hint: Permission to use camper photos for camp purposes
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 10
+      name: signature_parent_guardian
+      label: Parent Guardian Signature Name
+      hint: Type full name as electronic signature
+      type: text
+      options: []
+      required: true

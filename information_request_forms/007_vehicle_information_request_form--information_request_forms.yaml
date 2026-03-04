@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: vehicle_information_request_form
+    pages:
+    - id: 1
+      name: vehicle_information_request_form
+      label: vehicle information request form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: vehicle_year
+      label: Vehicle Year
+      hint: null
+      type: select_one
+      options:
+      - '2010'
+      - '2011'
+      - '2012'
+      - '2013'
+      - '2014'
+      - '2015'
+      - '2016'
+      - '2017'
+      - '2018'
+      - '2019'
+      - '2020'
+      - '2021'
+      - '2022'
+      required: false
+    - id: 3
+      name: vehicle_make
+      label: Vehicle Make
+      hint: null
+      type: select_one
+      options:
+      - Ford
+      - Toyota
+      - Honda
+      - Volkswagen
+      - Nissan
+      - Kia
+      - Mazda
+      - Hyundai
+      - BMW
+      - Mercedes
+      - Lexus
+      required: false
+    - id: 4
+      name: vehicle_model
+      label: Vehicle Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: vehicle_color
+      label: Vehicle Color
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: vehicle_condition
+      label: Vehicle Condition
+      hint: null
+      type: select_one
+      options:
+      - New
+      - Used
+      - Certified Pre-Owned
+      required: false
+    - id: 7
+      name: vehicle_engine_size
+      label: Vehicle Engine Size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: vehicle_doors
+      label: Vehicle Doors
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: vehicle_transmission
+      label: Vehicle Transmission
+      hint: null
+      type: select_one
+      options:
+      - Automatic
+      - Manual
+      - CVT
+      - DCT
+      - Semi-Automatic
+      required: false
+    - id: 10
+      name: vehicle_mileage
+      label: Vehicle Mileage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: vehicle_price
+      label: Vehicle Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: vehicle_purchaser_email
+      label: Vehicle Purchaser Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: vehicle_purchaser_phone
+      label: Vehicle Purchaser Phone
+      hint: null
+      type: text
+      options: []
+      required: false

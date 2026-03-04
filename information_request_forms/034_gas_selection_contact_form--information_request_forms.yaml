@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: gas_selection_contact_form
+    pages:
+    - id: 1
+      name: gas_selection_form
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: gas_type
+      label: Gas Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Phone'', ''value'': ''phone''}'
+      - '{''label'': ''Email'', ''value'': ''email''}'
+      - '{''label'': ''In-person'', ''value'': ''in_person''}'
+      required: false
+    - id: 6
+      name: contact_method_selected
+      label: Contact Method
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Phone'', ''value'': ''phone''}'
+      - '{''label'': ''Email'', ''value'': ''email''}'
+      - '{''label'': ''In-person'', ''value'': ''in_person''}'
+      required: false
+    - id: 7
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: zip_code
+      label: Zip Code
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: date_of_visit
+      label: Date Of Visit
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time_of_visit
+      label: Time Of Visit
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: message
+      label: Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: gas_supplies
+      label: Gas Supplies
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Fuel'', ''value'': ''fuel''}'
+      - '{''label'': ''Gas'', ''value'': ''gas''}'
+      required: false
+    - id: 13
+      name: contact_person_name
+      label: Contact Person Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: gas_suppliers
+      label: Gas Suppliers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: service_providers
+      label: Service Providers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: company_name
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: address2
+      label: Address 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: zip_code2
+      label: Zip Code 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: state
+      label: State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: city
+      label: City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: country
+      label: Country
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: message2
+      label: Message
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: confirm_submission
+      label: Confirm Submission
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': True, ''value'': True}'
+      - '{''label'': False, ''value'': False}'
+      required: false

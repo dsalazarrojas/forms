@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Flu Mask Compliance Form
+    pages:
+    - id: 1
+      name: patient_info
+      label: Employee Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: patient_id
+      label: Patient ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: flu_date
+      label: Flu Date
+      hint: Enter date of flu diagnosis
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: flu_status
+      label: Patient Flu Status
+      hint: null
+      type: select_one
+      options:
+      - Not Flu
+      - Positive
+      required: true
+    - id: 6
+      name: mask_worn
+      label: Employee Mask Status
+      hint: null
+      type: select_multiple
+      options:
+      - Not Worn
+      - Worn
+      - Not Applicable
+      required: true
+    - id: 7
+      name: contact_traced
+      label: Employee Contact Traced
+      hint: null
+      type: select_multiple
+      options:
+      - No Contact
+      - Contact
+      required: true
+    - id: 8
+      name: mask_procedure
+      label: Mask Procedure Status
+      hint: null
+      type: select_multiple
+      options:
+      - Not Done
+      - Done
+      required: true
+    - id: 9
+      name: follow_up
+      label: Follow Up Status
+      hint: null
+      type: select_multiple
+      options:
+      - Not Done
+      - Done
+      required: true
+    - id: 10
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: form_submitted
+      label: Form Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - User 1
+      - User 2
+      - User 3
+      required: true
+    - id: 13
+      name: submitted_to
+      label: Submitted To
+      hint: null
+      type: select_one
+      options:
+      - User 1
+      - User 2
+      - User 3
+      required: true
+    - id: 14
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - User 1
+      - User 2
+      - User 3
+      required: true
+    - id: 15
+      name: submitted_by_id
+      label: Submitted By ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: submitted_to_id
+      label: Submitted To ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: assigned_to_id
+      label: Assigned To ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: flu_mask_procedure_status
+      label: Flu Mask Procedure Status
+      hint: null
+      type: select_multiple
+      options:
+      - Not Done
+      - Done
+      required: true
+    - id: 19
+      name: patient_info_2
+      label: More Patient Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: employee_info_2
+      label: More Employee Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: contact_traced_2
+      label: More Contact Traced Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submitted_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: form_completed
+      label: Form Completed
+      hint: null
+      type: select_one
+      options:
+      - Not Completed
+      - Completed
+      required: true
+    - id: 24
+      name: form_completed_time
+      label: Form Completed Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 25
+      name: employee_info
+      label: Employee Info
+      hint: null
+      type: text
+      options: []
+      required: false

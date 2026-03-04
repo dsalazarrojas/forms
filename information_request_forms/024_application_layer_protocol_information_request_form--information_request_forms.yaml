@@ -1,0 +1,180 @@
+inputSchema:
+  type: object
+  properties:
+    title: Application Layer Protocol Information Request Form
+    pages:
+    - id: 1
+      name: request_information
+      label: -- Request Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: request_id
+      label: Request ID
+      hint: Optional - for tracking
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: requestor_name
+      label: Requestor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: requestor_email
+      label: Requestor Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: department
+      label: Department or Team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: protocol_details
+      label: -- Protocol Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: protocol_name
+      label: Protocol Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: protocol_type
+      label: Protocol Type
+      hint: null
+      type: select_one
+      options:
+      - HTTP/HTTPS
+      - SMTP
+      - FTP/SFTP
+      - SSH
+      - MQTT
+      - CoAP
+      - DNS
+      - SNMP
+      - Custom
+      required: true
+    - id: 10
+      name: protocol_version
+      label: Protocol Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: port_number
+      label: Port Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: protocol_description
+      label: Protocol Description and Purpose
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: implementation_details
+      label: -- Implementation Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: supported_features
+      label: Supported Features
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Encryption
+      - Authentication
+      - Compression
+      - Error handling
+      - Load balancing
+      - Caching
+      required: false
+    - id: 15
+      name: encryption_method
+      label: Encryption Method
+      hint: If applicable
+      type: select_one
+      options:
+      - AES
+      - RSA
+      - TLS
+      - SSL
+      - None
+      - Other
+      required: false
+    - id: 16
+      name: authentication_type
+      label: Authentication Type
+      hint: If applicable
+      type: select_one
+      options:
+      - Basic auth
+      - Token-based
+      - OAuth
+      - Certificate
+      - API key
+      - None
+      required: false
+    - id: 17
+      name: system_requirements
+      label: System Requirements
+      hint: Minimal resources and dependencies needed
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: documentation_provided
+      label: Is documentation available?
+      hint: null
+      type: select_one
+      options:
+      - Yes, comprehensive
+      - Yes, basic
+      - Limited documentation
+      - No documentation
+      required: false
+    - id: 19
+      name: testing_status
+      label: Testing Status
+      hint: null
+      type: select_one
+      options:
+      - In development
+      - Testing phase
+      - Pilot deployment
+      - Production
+      required: false
+    - id: 20
+      name: additional_information
+      label: Additional Information or Notes
+      hint: null
+      type: text
+      options: []
+      required: false

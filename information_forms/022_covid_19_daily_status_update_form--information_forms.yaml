@@ -1,0 +1,104 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Covid 19 Daily Status Update Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: vaccination_status
+      label: Vaccination Status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Fully Vaccinated''}'
+      - '{''label'': ''Partly Vaccinated''}'
+      - '{''label'': ''Not Vaccinated''}'
+      - '{''label'': ''Declined Vaccination''}'
+      - '{''label'': ''Unknown''}'
+      required: false
+    - id: 5
+      name: medical_team
+      label: Medical Team
+      hint: Please enter name of the medical team member
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: patient_status
+      label: Patient Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Active Case''}'
+      - '{''label'': ''Recovered''}'
+      - '{''label'': ''Deceased''}'
+      required: false
+    - id: 7
+      name: symptoms
+      label: Symptoms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: test_result
+      label: Test Result
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Positive''}'
+      - '{''label'': ''Negative''}'
+      - '{''label'': ''Inconclusive''}'
+      required: false
+    - id: 9
+      name: date_of_last_contact
+      label: Date of Last Contact
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: date_of_last_update
+      label: Date of Last Update
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: medical_notes
+      label: Medical Notes
+      hint: null
+      type: text
+      options: []
+      required: false

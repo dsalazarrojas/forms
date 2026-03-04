@@ -1,0 +1,57 @@
+inputSchema:
+  type: object
+  properties:
+    title: Team Leader Report Form
+    pages:
+    - id: 1
+      name: team_leader_report_form_page_1
+      label: team_leader_report
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: team_leader_name
+      label: team_leader_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: team_leader_email
+      label: team_leader_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: team_leader_phone
+      label: team_leader_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: team_leader_report_comments
+      label: team_leader_report_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: team_leader_report_status
+      label: team_leader_report_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Not Active
+      - Unknown
+      required: false
+    - id: 7
+      name: team_leader_report_progress
+      label: team_leader_report_progress
+      hint: null
+      type: date
+      options: []
+      required: false

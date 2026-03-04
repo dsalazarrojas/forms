@@ -1,0 +1,65 @@
+inputSchema:
+  type: object
+  properties:
+    title: Youth Club Incident Form
+    pages:
+    - id: 1
+      name: incident_date
+      label: Date of Incident
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: incident_type
+      label: Type of Incident
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: incident_description
+      label: Description of Incident
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: incident_reported_by
+      label: Reported By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: incident_witnesses
+      label: Witnesses
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: incident_resolution
+      label: Resolution
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: incident_investigation
+      label: Investigation
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,107 @@
+inputSchema:
+  type: object
+  properties:
+    title: Aquaculture Breach Incident Form
+    pages:
+    - id: 1
+      name: incident_info
+      label: Incident Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: incident_date
+      label: Date of Incident
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: incident_time
+      label: Time of Incident
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: facility_name
+      label: Facility Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: facility_location
+      label: Facility Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: breach_description
+      label: Description of Breach
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: breach_severity
+      label: Breach Severity Level
+      hint: null
+      type: select_one
+      options:
+      - Minor
+      - Moderate
+      - Major
+      - Critical
+      required: true
+    - id: 8
+      name: affected_area
+      label: Affected Area or Pond
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: water_loss
+      label: Estimated Water Loss (gallons)
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: fish_impact
+      label: Impact on Fish Stock
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: reporting_person
+      label: Reported By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: reporting_email
+      label: Reporting Person Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 13
+      name: immediate_actions
+      label: Immediate Actions Taken
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: follow_up_needed
+      label: Follow-up Actions Required
+      hint: null
+      type: text
+      options: []
+      required: false

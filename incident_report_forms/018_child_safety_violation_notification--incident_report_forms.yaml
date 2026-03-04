@@ -1,0 +1,255 @@
+inputSchema:
+  type: object
+  properties:
+    title: Child Safety Violation Notification
+    pages:
+    - id: 1
+      name: incident_report_date
+      label: Incident Report Date
+      hint: Date of incident report submission
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: incident_report_time
+      label: Incident Report Time
+      hint: Time of incident report submission
+      type: time
+      options: []
+      required: true
+    - id: 3
+      name: reporter_first_name
+      label: Reporter First Name
+      hint: Legal first name of person reporting
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: reporter_last_name
+      label: Reporter Last Name
+      hint: Legal last name of person reporting
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: reporter_role
+      label: Reporter Role
+      hint: What is your role or relationship to the incident?
+      type: select_one
+      options:
+      - Teacher or staff member
+      - Administrator
+      - Parent or guardian
+      - Student
+      - Visitor
+      - Other
+      required: true
+    - id: 6
+      name: reporter_email
+      label: Reporter Email
+      hint: Email address for follow-up
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: reporter_phone
+      label: Reporter Phone
+      hint: Phone number for follow-up
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: incident_date
+      label: Incident Date
+      hint: Date when the incident occurred
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: incident_time
+      label: Incident Time
+      hint: Time when the incident occurred
+      type: time
+      options: []
+      required: true
+    - id: 10
+      name: incident_location
+      label: Incident Location
+      hint: Where did the incident occur?
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: child_first_name
+      label: Child First Name
+      hint: Legal first name of child involved
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: child_last_name
+      label: Child Last Name
+      hint: Legal last name of child involved
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: child_age
+      label: Child Age
+      hint: Age of child involved
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: child_grade_level
+      label: Child Grade Level
+      hint: Grade level of child involved
+      type: select_one
+      options:
+      - Pre-K
+      - Kindergarten
+      - 1st Grade
+      - 2nd Grade
+      - 3rd Grade
+      - 4th Grade
+      - 5th Grade
+      - 6th Grade
+      - 7th Grade
+      - 8th Grade
+      - 9th Grade
+      - 10th Grade
+      - 11th Grade
+      - 12th Grade
+      required: true
+    - id: 15
+      name: violation_type
+      label: Type of Safety Violation
+      hint: What type of safety violation occurred?
+      type: select_one
+      options:
+      - Physical safety hazard
+      - Supervision failure
+      - Unauthorized person access
+      - Medication error
+      - Allergen exposure
+      - Transportation safety
+      - Facility hazard
+      - Bullying or harassment
+      - Physical altercation
+      - Other
+      required: true
+    - id: 16
+      name: violation_severity
+      label: Violation Severity
+      hint: How would you rate the severity of this violation?
+      type: select_one
+      options:
+      - Critical - immediate action required
+      - High - action needed within 24 hours
+      - Medium - action needed within 1 week
+      - Low - action needed within 1 month
+      - Minor - informational only
+      required: true
+    - id: 17
+      name: incident_description
+      label: Incident Description
+      hint: Provide a detailed description of what occurred
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: witnesses_present
+      label: Witnesses Present
+      hint: Were there any witnesses to the incident?
+      type: select_one
+      options:
+      - Yes, multiple witnesses
+      - Yes, one witness
+      - No witnesses
+      - Unsure
+      required: true
+    - id: 19
+      name: witness_names
+      label: Witness Names
+      hint: List names of any witnesses
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: injuries_sustained
+      label: Injuries Sustained
+      hint: Did the child sustain any injuries?
+      type: select_one
+      options:
+      - Yes, serious injury requiring medical attention
+      - Yes, minor injury requiring first aid
+      - Yes, no visible injury
+      - No injuries
+      - Unsure
+      required: true
+    - id: 21
+      name: injury_description
+      label: Injury Description
+      hint: Describe any injuries sustained
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: immediate_action_taken
+      label: Immediate Action Taken
+      hint: What immediate actions were taken in response?
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: parents_notified
+      label: Parents Notified
+      hint: Have the child's parents or guardians been notified?
+      type: select_one
+      options:
+      - Yes, notified immediately
+      - Yes, notified with delay
+      - No, pending investigation
+      - No, unable to contact
+      required: true
+    - id: 24
+      name: authorities_notified
+      label: Authorities Notified
+      hint: Have any authorities been notified?
+      type: select_one
+      options:
+      - Yes, child protective services
+      - Yes, law enforcement
+      - Yes, medical professionals
+      - Yes, multiple authorities
+      - false
+      - Pending investigation
+      required: true
+    - id: 25
+      name: follow_up_required
+      label: Follow-Up Required
+      hint: What follow-up actions are required?
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: preventive_measures
+      label: Preventive Measures Recommended
+      hint: What measures could prevent similar incidents?
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: reporter_signature
+      label: Reporter Signature
+      hint: Type your full name as your electronic signature
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: signature_date
+      label: Signature Date
+      hint: Date of electronic signature
+      type: date
+      options: []
+      required: true

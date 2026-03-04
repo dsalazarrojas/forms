@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accrued Leave Absence Form
+    pages:
+    - id: 1
+      name: employee_information
+      label: -- Employee information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee name
+      hint: Full name as recorded in HR
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: Internal HR identifier
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: Department
+      hint: Department or team name
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: leave_type
+      label: Leave type
+      hint: Select the accrued leave type
+      type: select_one
+      options:
+      - Vacation
+      - Sick leave
+      - Personal leave
+      - Compensatory time
+      required: true
+    - id: 6
+      name: leave_start_date
+      label: Leave start date
+      hint: First day of absence
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: leave_end_date
+      label: Leave end date
+      hint: Last day of absence
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: total_days_requested
+      label: Total days requested
+      hint: Number of accrued days being used
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: reason_for_leave
+      label: Reason for leave
+      hint: Brief explanation of absence reason
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_during_leave
+      label: Contact during leave
+      hint: Phone or email for urgent contact
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: manager_approval
+      label: Manager approval
+      hint: Manager name and approval status
+      type: select_one
+      options:
+      - Approved
+      - Denied
+      - Pending
+      required: true
+    - id: 12
+      name: manager_comments
+      label: Manager comments
+      hint: Any comments from the manager regarding approval
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: employee_signature
+      label: Employee signature
+      hint: Type full name to sign electronically
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: submission_date
+      label: Submission date
+      hint: Date form was submitted
+      type: date
+      options: []
+      required: true

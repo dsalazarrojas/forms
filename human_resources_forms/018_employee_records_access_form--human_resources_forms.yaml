@@ -1,0 +1,96 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Records Access Form
+    pages:
+    - id: 1
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: access_level
+      label: access_level
+      hint: Select an option from the list
+      type: select_one
+      options:
+      - View Employee Information
+      - Edit Employee Information
+      - Add New Employee
+      - Delete Employee
+      required: false
+    - id: 3
+      name: employee_group
+      label: employee_group
+      hint: Select multiple options from the list
+      type: select_multiple
+      options:
+      - HR Department
+      - Accounting Department
+      - Operations Department
+      required: false
+    - id: 4
+      name: date_access
+      label: date_access
+      hint: Date access starts
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_access
+      label: time_access
+      hint: Time access starts
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: notes
+      label: notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: email
+      label: email
+      hint: Enter employee email
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: employee_name
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: employee_name_hint
+      label: employee_name_hint
+      hint: Enter a hint for employee name
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submit
+      label: submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: additional_information
+      label: additional_information
+      hint: null
+      type: text
+      options: []
+      required: false

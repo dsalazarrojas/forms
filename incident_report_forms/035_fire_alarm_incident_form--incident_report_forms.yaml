@@ -1,0 +1,215 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fire Alarm Incident Form
+    pages:
+    - id: 1
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: alarm_type
+      label: Alarm Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 3.1, ''name'': ''Test''}'
+      - '{''id'': 3.1, ''name'': ''Test''}'
+      - '{''id'': 3.2, ''name'': ''Smoke Detector''}'
+      - '{''id'': 3.3, ''name'': ''Fire Alarm Panel''}'
+      - '{''id'': 3.4, ''name'': ''Emergency Exit''}'
+      - '{''id'': 3.5, ''name'': ''Other''}'
+      required: false
+    - id: 4
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: alarm_level
+      label: Alarm Level
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 6.1, ''name'': ''Low''}'
+      - '{''id'': 6.2, ''name'': ''Medium''}'
+      - '{''id'': 6.3, ''name'': ''High''}'
+      required: false
+    - id: 7
+      name: alarm_source
+      label: Alarm Source
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 7.1, ''name'': ''Fire Alarm Panel''}'
+      - '{''id'': 7.2, ''name'': ''Emergency Exit''}'
+      - '{''id'': 7.3, ''name'': ''Other''}'
+      required: false
+    - id: 8
+      name: response_time
+      label: Response Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: fire_fighting_method
+      label: Fire Fighting Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 9.1, ''name'': ''Fire Extinguisher''}'
+      - '{''id'': 9.2, ''name'': ''Fire Extinguisher''}'
+      - '{''id'': 9.3, ''name'': ''Foam''}'
+      - '{''id'': 9.4, ''name'': ''Fire Blanket''}'
+      - '{''id'': 9.5, ''name'': ''Other''}'
+      required: false
+    - id: 10
+      name: cause
+      label: Cause of Incident
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 10.1, ''name'': ''System Test''}'
+      - '{''id'': 10.2, ''name'': ''Human Error''}'
+      - '{''id'': 10.3, ''name'': ''Equipment Failure''}'
+      required: false
+    - id: 11
+      name: number_of_floors
+      label: Number of Floors
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: number_of_floors_evacuated
+      label: Number of Floors Evacuated
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: total_people_evacuated
+      label: Total People Evacuated
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: fire_extinguisher_location
+      label: Fire Extinguisher Location
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 14.1, ''name'': ''Near Fire Alarm Panel''}'
+      - '{''id'': 14.2, ''name'': ''Near Fire Exit''}'
+      - '{''id'': 14.3, ''name'': ''Other''}'
+      required: false
+    - id: 15
+      name: evacuation_procedure
+      label: Evacuation Procedure
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 15.1, ''name'': ''Evacuation by Elevator''}'
+      - '{''id'': 15.2, ''name'': ''Evacuation by Stairs''}'
+      - '{''id'': 15.3, ''name'': ''Other''}'
+      required: false
+    - id: 16
+      name: number_of_fire_fighting_equipment
+      label: Number of Fire Fighting Equipment
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: number_of_fire_extinguishers
+      label: Number of Fire Extinguishers
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 18
+      name: total_floors
+      label: Total Floors
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: total_people_present
+      label: Total People Present
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: number_of_floors_in_evacuation_zone
+      label: Number of Floors in Evacuation Zone
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: evacuation_procedure_effectiveness
+      label: Evacuation Procedure Effectiveness
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 21.1, ''name'': ''Effective''}'
+      - '{''id'': 21.2, ''name'': ''Ineffective''}'
+      - '{''id'': 21.3, ''name'': ''Not Evaluated''}'
+      required: false
+    - id: 22
+      name: incident_status
+      label: Incident Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 22.1, ''name'': ''Open''}'
+      - '{''id'': 22.2, ''name'': ''Closed''}'
+      - '{''id'': 22.3, ''name'': ''In Progress''}'
+      required: false
+    - id: 23
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 23.1, ''name'': ''Fire Alarm''}'
+      - '{''id'': 23.2, ''name'': ''Fire Extinguisher''}'
+      - '{''id'': 23.3, ''name'': ''Other''}'
+      required: false
+    - id: 24
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: incident_comments
+      label: Incident Comments
+      hint: null
+      type: text
+      options: []
+      required: false

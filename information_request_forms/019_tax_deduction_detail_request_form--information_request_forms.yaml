@@ -1,0 +1,137 @@
+inputSchema:
+  type: object
+  properties:
+    title: Tax Deduction Detail Request Form
+    pages:
+    - id: 1
+      name: tax_deduction_form
+      label: Tax Deduction Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: tax_year
+      label: tax_year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: tax_deduction_amount
+      label: tax_deduction_amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: tax_deduction_description
+      label: tax_deduction_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: submitted_on
+      label: submitted_on
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: requested_by
+      label: requested_by
+      hint: null
+      type: select_one
+      options:
+      - Requesting Firm
+      - Finance Team
+      - Individual
+      required: false
+    - id: 8
+      name: requested_by_firm
+      label: Requesting Firm
+      hint: null
+      type: select_multiple
+      options:
+      - Accounting Firm
+      - Large Firm
+      - Small Firm
+      required: false
+    - id: 9
+      name: submitted_to
+      label: submitted_to
+      hint: null
+      type: select_one
+      options:
+      - Accounting Department
+      - Financial Department
+      - Tax Authority
+      required: false
+    - id: 10
+      name: submitted_to_unit
+      label: submitted_to_unit
+      hint: null
+      type: select_multiple
+      options:
+      - Tax Authority
+      - Unit A
+      - Unit B
+      required: false
+    - id: 11
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: select_one
+      options:
+      - Firm Representative
+      - Team Member
+      - Individual
+      required: false
+    - id: 12
+      name: submitted_by_firm
+      label: submitted_by_firm
+      hint: null
+      type: select_multiple
+      options:
+      - Accounting Firm
+      - Financial Firm
+      - Other Firm
+      required: false
+    - id: 13
+      name: supporting_documents_description
+      label: supporting_documents_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: supporting_documents_uploaded
+      label: supporting_documents_uploaded
+      hint: null
+      type: select_multiple
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 15
+      name: submitted_on_date
+      label: submitted_on_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: submitted_on_time
+      label: submitted_on_time
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,128 @@
+inputSchema:
+  type: object
+  properties:
+    title: software_sales_interview_form
+    pages:
+    - id: 1
+      name: candidate_info
+      label: Candidate Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_info
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: sales_skills
+      label: Sales Skills
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: interview_notes
+      label: Interview Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: sales_experience
+      label: Sales Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: sales_product_knowledge
+      label: Sales Product Knowledge
+      hint: null
+      type: select_one
+      options:
+      - Microsoft Office
+      - Adobe Creative Suite
+      - Salesforce
+      required: true
+    - id: 7
+      name: candidate_score
+      label: Candidate Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: score_comments
+      label: Score Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: review_status
+      label: Review Status
+      hint: null
+      type: select_one
+      options:
+      - Hire
+      - Reject
+      - Waitlist
+      required: false
+    - id: 12
+      name: review_notes
+      label: Review Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: interview_type
+      label: Interview Type
+      hint: null
+      type: select_one
+      options:
+      - Phone Interview
+      - Video Interview
+      - In-Person Interview
+      required: false
+    - id: 14
+      name: interview_date
+      label: Interview Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: interview_time
+      label: Interview Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: interviewer
+      label: Interviewer
+      hint: null
+      type: text
+      options: []
+      required: false

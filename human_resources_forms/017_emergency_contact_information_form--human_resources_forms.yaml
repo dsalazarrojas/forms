@@ -1,0 +1,91 @@
+inputSchema:
+  type: object
+  properties:
+    title: emergency_contact_information_form
+    pages:
+    - id: 1
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Enter participant's name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: relationship
+      label: Relationship
+      hint: null
+      type: select_one
+      options:
+      - Mother
+      - Father
+      - Grandparent
+      - Spouse
+      - Sibling
+      - Child
+      - Domestic Partner
+      - Other
+      required: true
+    - id: 3
+      name: contact_phone
+      label: Contact Phone
+      hint: Enter phone number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: Enter participant's email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_address
+      label: Contact Address
+      hint: Enter participant's address
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: emergency_contact_name_2
+      label: Emergency Contact Name
+      hint: Enter emergency contact's name
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: relationship_2
+      label: Relationship
+      hint: null
+      type: select_one
+      options:
+      - Mother
+      - Father
+      - Grandparent
+      - Spouse
+      - Sibling
+      - Child
+      - Domestic Partner
+      - Other
+      required: false
+    - id: 8
+      name: contact_phone_2
+      label: Contact Phone
+      hint: Enter emergency contact's phone number
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_email_2
+      label: Contact Email
+      hint: Enter emergency contact's email
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: contact_address_2
+      label: Contact Address
+      hint: Enter emergency contact's address
+      type: text
+      options: []
+      required: false

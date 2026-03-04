@@ -1,0 +1,126 @@
+inputSchema:
+  type: object
+  properties:
+    title: unauthorized_access_incident_form
+    pages:
+    - id: 1
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: time_of_incident
+      label: Time of Incident
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: user_id
+      label: User ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: username
+      label: Username
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: ip_address
+      label: IP Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_one
+      options:
+      - Phishing
+      - Scanning
+      - Unauthorized Access
+      required: false
+    - id: 11
+      name: incident_level
+      label: Incident Level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 12
+      name: affected_users
+      label: Affected Users
+      hint: null
+      type: select_multiple
+      options:
+      - Admin
+      - User
+      - Guest
+      required: false
+    - id: 13
+      name: reported_by
+      label: Reported By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: reporting_officer
+      label: Reporting Officer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: reported
+      label: Reported
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

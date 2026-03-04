@@ -1,0 +1,266 @@
+inputSchema:
+  type: object
+  properties:
+    title: Before And After School Care Information Form
+    pages:
+    - id: 1
+      name: parent_name
+      label: Parent or Guardian Name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: parent_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: parent_phone
+      label: Phone Number
+      hint: Best number to reach you
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: home_address
+      label: Home Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: child_name
+      label: Child Name
+      hint: Full name of child
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: child_dob
+      label: Child Date of Birth
+      hint: MM-DD-YYYY
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: child_age
+      label: Child Age
+      hint: Current age
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: child_gender
+      label: Child Gender
+      hint: Gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      - Other
+      required: true
+    - id: 9
+      name: school_name
+      label: School Name
+      hint: Which school does child attend
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: grade_level
+      label: Grade Level
+      hint: Current grade
+      type: select_one
+      options:
+      - Kindergarten
+      - 1st Grade
+      - 2nd Grade
+      - 3rd Grade
+      - 4th Grade
+      - 5th Grade
+      - 6th Grade
+      - 7th Grade
+      - 8th Grade
+      required: true
+    - id: 11
+      name: care_type
+      label: Type of Care Needed
+      hint: Select care type
+      type: select_one
+      options:
+      - Before School Only
+      - After School Only
+      - Before and After School
+      - Full Day (No School Days)
+      - Occasional or As Needed
+      required: true
+    - id: 12
+      name: before_school_days
+      label: Before School Days
+      hint: Select days if before school care
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Not Applicable
+      required: false
+    - id: 13
+      name: after_school_days
+      label: After School Days
+      hint: Select days if after school care
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Not Applicable
+      required: false
+    - id: 14
+      name: start_date
+      label: Desired Start Date
+      hint: When do you need care to begin
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: before_school_arrival
+      label: Before School Arrival Time
+      hint: What time will child arrive
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: after_school_pickup
+      label: After School Pickup Time
+      hint: What time will child be picked up
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: transportation_needed
+      label: Transportation Needed
+      hint: Do you need transportation from school
+      type: select_one
+      options:
+      - Yes from school to program
+      - Yes from program to school
+      - No we will transport
+      - Child walks
+      required: true
+    - id: 18
+      name: authorized_pickup
+      label: Authorized Pickup Persons
+      hint: List all people authorized to pick up child
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: medical_conditions
+      label: Medical Conditions
+      hint: Any medical conditions or allergies
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: medications
+      label: Current Medications
+      hint: List any medications child takes
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Any food allergies or restrictions
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: snack_provided
+      label: Snack Provided
+      hint: Will you provide snacks or should program provide
+      type: select_one
+      options:
+      - We will provide daily
+      - Program should provide
+      - Child brings own
+      - No snack needed
+      required: true
+    - id: 23
+      name: emergency_contact_1
+      label: Emergency Contact 1
+      hint: Name and phone number
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: emergency_contact_2
+      label: Emergency Contact 2
+      hint: Name and phone number
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: physician_info
+      label: Physician Information
+      hint: Doctor name and phone
+      type: text
+      options: []
+      required: true
+    - id: 26
+      name: insurance_info
+      label: Insurance Information
+      hint: Provider and policy number
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: special_needs
+      label: Special Needs or Accommodations
+      hint: Any special needs we should know
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: how_heard
+      label: How Did You Hear About Us
+      hint: How did you find our program
+      type: select_one
+      options:
+      - School Referral
+      - Friend or Family
+      - Online Search
+      - Social Media
+      - Advertisement
+      - Drive By
+      - Other
+      required: false
+    - id: 29
+      name: previous_care
+      label: Previous Childcare Experience
+      hint: Has child been in care before
+      type: select_one
+      options:
+      - Yes current program
+      - Yes previous program
+      - No first time
+      required: true
+    - id: 30
+      name: terms_acceptance
+      label: Terms and Conditions Acceptance
+      hint: I agree to all program terms
+      type: select_one
+      options:
+      - I accept
+      - I do not accept
+      required: true

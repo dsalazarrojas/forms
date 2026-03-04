@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Hospitality Workforce Upskilling Registration Form
+    pages:
+    - id: 1
+      name: training_info
+      label: Training Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: training_details
+      label: Training Details
+      hint: null
+      type: select_multiple
+      options:
+      - Training 1
+      - Training 2
+      - Training 3
+      required: false
+    - id: 6
+      name: training_location
+      label: Training Location
+      hint: null
+      type: select_one
+      options:
+      - Training Location 1
+      - Training Location 2
+      - Training Location 3
+      required: true
+    - id: 7
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false

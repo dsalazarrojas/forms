@@ -1,0 +1,65 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Company Holiday Time Off Request Form
+    pages:
+      - id: 1
+        name: employee_name
+        label: Employee full name
+        hint: Name as on company records
+        type: text
+        options: []
+        required: true
+      - id: 2
+        name: employee_id
+        label: Employee ID
+        hint: Internal identifier if known
+        type: text
+        options: []
+        required: false
+      - id: 3
+        name: leave_start_date
+        label: Leave start date
+        hint: First day of requested leave
+        type: date
+        options: []
+        required: true
+      - id: 4
+        name: leave_end_date
+        label: Leave end date
+        hint: Last day of requested leave
+        type: date
+        options: []
+        required: true
+      - id: 5
+        name: leave_type
+        label: Leave type
+        hint: Choose leave classification
+        type: select_one
+        options: [Paid time off, Unpaid leave, Comp time, Other]
+        required: true
+      - id: 6
+        name: reason
+        label: Reason for time off
+        hint: Brief reason for planning purposes
+        type: text
+        options: []
+        required: false
+      - id: 7
+        name: manager_contact
+        label: Manager for approval
+        hint: Manager name to route request to
+        type: text
+        options: []
+        required: true

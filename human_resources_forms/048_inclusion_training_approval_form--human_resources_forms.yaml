@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: Inclusion Training Approval Form
+    pages:
+    - id: 1
+      name: session_date
+      label: Session Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: trainer_name
+      label: Trainer Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: session_time
+      label: Session Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: training_status
+      label: Training Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 5
+      name: participant_status
+      label: Participant Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 6
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: training_topic
+      label: Training Topic
+      hint: null
+      type: select_one
+      options:
+      - Inclusion Training
+      - Diversity & Inclusion
+      - Anti-Bias
+      - Leadership Development
+      required: false
+    - id: 9
+      name: training_location
+      label: Training Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: training_duration
+      label: Training Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: training_level
+      label: Training Level
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      required: false
+    - id: 12
+      name: participant_count
+      label: Participant Count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: approved_by
+      label: Approved By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: approval_date
+      label: Approval Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 17
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submit_date
+      label: Submit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: approved_date
+      label: Approved Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      required: false
+    - id: 23
+      name: reason_for_rejection
+      label: Reason for Rejection
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: organization_name
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,28 @@
+inputSchema:
+  type: object
+  properties:
+    title: Restaurant Inventory Information Record Form
+    pages:
+    - id: 1
+      name: page_1
+      label: Stock Take
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: page_2
+      label: Inventory Check
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: page_3
+      label: Stock Levels
+      hint: null
+      type: number
+      options: []
+      required: false

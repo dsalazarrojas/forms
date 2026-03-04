@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Safety Gear Failure Incident Form
+    pages:
+    - id: 1
+      name: safety_gear_failure_incident
+      label: Incident Report
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: safety_gear_failure_type
+      label: Safety Gear Failure Type
+      hint: null
+      type: select_one
+      options:
+      - Safety Harnesses
+      - Hard Hat
+      - Harness
+      - Fall Protection
+      required: true
+    - id: 4
+      name: safety_gear_failure_description
+      label: Description of Safety Gear Failure
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: safety_gear_serial_number
+      label: Safety Gear Serial Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: safety_gear_failure_date
+      label: Date of Safety Gear Failure
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: safety_gear_last_inspection_date
+      label: Last Inspection Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: safety_equipment_used
+      label: Safety Equipment Used During Incident
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Hard Hat
+      - Safety Harness
+      - Fall Protection
+      - Helmet
+      - Vest
+      required: false
+    - id: 9
+      name: personnel_injured
+      label: Personnel Injured
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: personnel_involved
+      label: Personnel Involved
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Safety Officer
+      - Supervisor
+      - Employee
+      required: false
+    - id: 11
+      name: reporting_officer
+      label: Reporting Officer
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - Employee
+      - Supervisor
+      - Safety Officer
+      required: true
+    - id: 12
+      name: incident_status
+      label: Incident Status
+      hint: null
+      type: select_one
+      options:
+      - Not Reported
+      - Under Investigation
+      - Completed
+      - In Progress
+      required: true
+    - id: 13
+      name: incident_closed_date
+      label: Incident Closed Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: incident_reopened_date
+      label: Incident Reopened Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: incident_reported_date
+      label: Incident Reported Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: incident_cause
+      label: Incident Cause
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: incident_narrative
+      label: Incident Narrative
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: action_plan
+      label: Action Plan
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: corrective_action_status
+      label: Corrective Action Status
+      hint: null
+      type: select_one
+      options:
+      - Not Started
+      - In Progress
+      - Completed
+      required: true
+    - id: 20
+      name: corrective_action_due_date
+      label: Corrective Action Due Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: corrective_actions_completed
+      label: Corrective Actions Completed
+      hint: null
+      type: select_multiple
+      options:
+      - None
+      - 'True'
+      required: false
+    - id: 22
+      name: corrective_action_closed_date
+      label: Corrective Action Closed Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: incident_cause_analysis
+      label: Incident Cause Analysis
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: incident_cause_determination
+      label: Incident Cause Determination
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: incident_cause_conclusion
+      label: Incident Cause Conclusion
+      hint: null
+      type: text
+      options: []
+      required: true

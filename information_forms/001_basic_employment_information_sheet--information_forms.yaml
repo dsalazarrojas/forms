@@ -1,0 +1,120 @@
+inputSchema:
+  type: object
+  properties:
+    title: Basic Employment Information Sheet
+    pages:
+    - id: 1
+      name: employee_full_name
+      label: Full Name
+      hint: Enter your legal full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID Number
+      hint: Your unique employee identification number
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: job_title
+      label: Job Title
+      hint: Your current position or role
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: Select your department
+      type: select_one
+      options:
+      - Human Resources
+      - Finance
+      - Marketing
+      - Sales
+      - Operations
+      - IT
+      - Customer Service
+      - Other
+      required: true
+    - id: 5
+      name: hire_date
+      label: Hire Date
+      hint: Date you were hired
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: employment_type
+      label: Employment Type
+      hint: Select your employment classification
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Temporary
+      - Contract
+      - Intern
+      required: true
+    - id: 7
+      name: work_location
+      label: Work Location
+      hint: Primary work location
+      type: select_one
+      options:
+      - Office
+      - Remote
+      - Hybrid
+      - Field
+      required: true
+    - id: 8
+      name: supervisor_name
+      label: Supervisor Name
+      hint: Your direct supervisor or manager
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: work_email
+      label: Work Email Address
+      hint: Your company email address
+      type: email
+      options: []
+      required: true
+    - id: 10
+      name: work_phone
+      label: Work Phone Number
+      hint: Your work contact number
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name of emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Phone number for emergency contact
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: Relationship to you
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: additional_comments
+      label: Additional Comments
+      hint: Any additional information you would like to provide
+      type: text
+      options: []
+      required: false

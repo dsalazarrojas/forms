@@ -1,0 +1,138 @@
+inputSchema:
+  type: object
+  properties:
+    title: Design Team Onboarding Form
+    pages:
+    - id: 1
+      name: new_hire_details
+      label: New Hire Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_title
+      label: Job Title
+      hint: null
+      type: select_one
+      options:
+      - Design Team Lead
+      - Team Member
+      - Intern
+      required: false
+    - id: 4
+      name: work_location
+      label: Work Location
+      hint: null
+      type: select_multiple
+      options:
+      - Remote
+      - Office
+      - Hybrid
+      required: false
+    - id: 5
+      name: job_description
+      label: Job Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: preferred_communication_method
+      label: Preferred Communication Method
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Slack
+      required: false
+    - id: 7
+      name: time_zone
+      label: Time Zone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: onboarding_status
+      label: Onboarding Status
+      hint: null
+      type: select_multiple
+      options:
+      - Completed
+      - In Progress
+      - Not Started
+      required: false
+    - id: 9
+      name: manager_name
+      label: Manager's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: manager_email
+      label: Manager's Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: manager_phone
+      label: Manager's Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: team_lead_name
+      label: Team Lead's Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: team_lead_email
+      label: Team Lead's Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: team_lead_phone
+      label: Team Lead's Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_multiple
+      options:
+      - chatjimmy
+      - Other
+      required: false
+    - id: 16
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false

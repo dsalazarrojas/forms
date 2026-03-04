@@ -1,0 +1,134 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cost Of Goods Sold Information Form
+    pages:
+    - id: 1
+      name: cost_of_goods_sold_form_info
+      label: COGS Information
+      hint: Enter COGS information
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: cost_of_goods_sold
+      label: COGS Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: coogs_value_in_usd
+      label: COGS Value in USD
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: cost_of_goods_sold_currency
+      label: COGS Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - JPY
+      - CNY
+      required: false
+    - id: 5
+      name: inventory_cost
+      label: Inventory Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: inventory_cost_currency
+      label: Inventory Cost Currency
+      hint: null
+      type: select_one
+      options:
+      - USD
+      - EUR
+      - JPY
+      - CNY
+      required: false
+    - id: 7
+      name: period_start_date
+      label: Period Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: period_end_date
+      label: Period End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: reporting_period
+      label: Reporting Period
+      hint: null
+      type: select_multiple
+      options:
+      - Q1
+      - Q2
+      - Q3
+      - Q4
+      required: false
+    - id: 10
+      name: operations_team
+      label: Operations Team
+      hint: null
+      type: select_multiple
+      options:
+      - Accounting
+      - Bookkeeping
+      - Operations
+      - Management
+      required: false
+    - id: 11
+      name: accountant
+      label: Accountant
+      hint: null
+      type: select_multiple
+      options:
+      - Accounting
+      - Bookkeeping
+      - Operations
+      - Management
+      required: false
+    - id: 12
+      name: bookkeeper
+      label: Bookkeeper
+      hint: null
+      type: select_multiple
+      options:
+      - Accounting
+      - Bookkeeping
+      - Operations
+      - Management
+      required: false
+    - id: 13
+      name: operations_contact
+      label: Operations Contact
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: accountant_contact
+      label: Accountant Contact
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: bookkeeper_contact
+      label: Bookkeeper Contact
+      hint: null
+      type: email
+      options: []
+      required: false

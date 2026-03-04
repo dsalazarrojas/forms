@@ -1,0 +1,247 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Agility Advisory Contact Form
+    pages:
+    - id: 1
+      name: contact_info
+      label: Contact Information
+      hint: Your details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: position
+      label: Position
+      hint: Your job title
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization
+      label: Organization
+      hint: Name of your organization
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email Address
+      hint: Your work email
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: organization_info
+      label: Organization Information
+      hint: About your organization
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: industry
+      label: Industry
+      hint: Your industry sector
+      type: select_one
+      options:
+      - Technology
+      - Healthcare
+      - Finance
+      - Manufacturing
+      - Retail
+      - Professional Services
+      - Education
+      - Government
+      - Other
+      required: true
+    - id: 9
+      name: organization_size
+      label: Organization Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - 1-10 employees
+      - 11-50 employees
+      - 51-200 employees
+      - 201-500 employees
+      - 501-1000 employees
+      - More than 1000 employees
+      required: true
+    - id: 10
+      name: location
+      label: Primary Location
+      hint: Where is your organization based
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: agility_needs
+      label: Agility Needs
+      hint: What brings you to us
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: current_challenges
+      label: Current Challenges
+      hint: What challenges are you facing
+      type: select_multiple
+      options:
+      - Slow Time to Market
+      - Poor Adaptability
+      - Inefficient Processes
+      - Low Employee Engagement
+      - Customer Dissatisfaction
+      - High Costs
+      - Quality Issues
+      - Communication Problems
+      - Other
+      required: true
+    - id: 13
+      name: agility_goals
+      label: Agility Goals
+      hint: What do you hope to achieve
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: current_methodology
+      label: Current Methodology
+      hint: What methodologies do you currently use
+      type: select_one
+      options:
+      - Waterfall
+      - Scrum
+      - Kanban
+      - Lean
+      - Hybrid
+      - None Formal
+      - Other
+      required: false
+    - id: 15
+      name: transformation_stage
+      label: Agility Transformation Stage
+      hint: Where are you in your agility journey
+      type: select_one
+      options:
+      - Not Started
+      - Exploring Options
+      - Early Stages
+      - Mid-Transformation
+      - Advanced
+      - Looking to Optimize
+      required: true
+    - id: 16
+      name: services_interested
+      label: Services Interested In
+      hint: What services are you looking for
+      type: select_multiple
+      options:
+      - Agility Assessment
+      - Training and Workshops
+      - Coaching
+      - Process Design
+      - Organizational Design
+      - Change Management
+      - Leadership Development
+      - Full Transformation
+      required: true
+    - id: 17
+      name: contact_preferences
+      label: Contact Preferences
+      hint: How should we reach you
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: How should we contact you
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Video Call
+      - In-Person Meeting
+      required: true
+    - id: 19
+      name: preferred_contact_time
+      label: Preferred Contact Time
+      hint: When is the best time to reach you
+      type: select_one
+      options:
+      - Morning (8am-12pm)
+      - Afternoon (12pm-5pm)
+      - Evening (5pm-8pm)
+      - Any Time
+      required: true
+    - id: 20
+      name: best_days
+      label: Best Days to Contact
+      hint: Which days work best
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      required: true
+    - id: 21
+      name: timeline
+      label: Timeline for Engagement
+      hint: When are you looking to start
+      type: select_one
+      options:
+      - Immediately
+      - Within 2 Weeks
+      - Within 1 Month
+      - Within 3 Months
+      - Just Exploring
+      required: true
+    - id: 22
+      name: budget_authority
+      label: Budget Authority
+      hint: Are you authorized to make purchasing decisions
+      type: select_one
+      options:
+      - Yes - Full Authority
+      - Yes - Partial Authority
+      - Need Approval
+      - Not Sure
+      required: true
+    - id: 23
+      name: how_heard_about_us
+      label: How Did You Hear About Us
+      hint: Source of referral
+      type: select_one
+      options:
+      - Website
+      - Referral
+      - Social Media
+      - Conference or Event
+      - Advertisement
+      - Previous Client
+      - Other
+      required: false
+    - id: 24
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information
+      type: text
+      options: []
+      required: false

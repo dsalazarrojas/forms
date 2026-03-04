@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: HR Digital Training Academy Application Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: training_interest
+      label: Training Interest
+      hint: null
+      type: select_one
+      options:
+      - Training in Data Science
+      - Training in Marketing
+      - Training in Finance
+      required: true
+    - id: 7
+      name: training_program
+      label: Training Program
+      hint: null
+      type: select_multiple
+      options:
+      - Data Science
+      - Marketing
+      - Finance
+      required: true
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false

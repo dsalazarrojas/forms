@@ -1,0 +1,239 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Exhibition Visitor Information Form
+    pages:
+    - id: 1
+      name: visit_date
+      label: Visit Date
+      hint: Date of your visit
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: visitor_name
+      label: Visitor Name
+      hint: Full name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: visitor_email
+      label: Visitor Email
+      hint: Email address for follow-up
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: visitor_phone
+      label: Visitor Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: zip_code
+      label: Zip Code
+      hint: Your zip or postal code
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: country
+      label: Country
+      hint: Country of residence
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - United Kingdom
+      - Australia
+      - Germany
+      - France
+      - Other
+      required: false
+    - id: 7
+      name: age_group
+      label: Age Group
+      hint: Your age group
+      type: select_one
+      options:
+      - Under 18
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55-64
+      - 65 or Older
+      required: false
+    - id: 8
+      name: visit_type
+      label: Visit Type
+      hint: Type of visit
+      type: select_one
+      options:
+      - First Visit
+      - Repeat Visit
+      - Member Visit
+      - Group Visit
+      - School Visit
+      required: true
+    - id: 9
+      name: group_size
+      label: Group Size
+      hint: Number of people in your group
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: exhibition_name
+      label: Exhibition Name
+      hint: Which exhibition are you visiting
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: how_heard
+      label: How Heard
+      hint: How did you hear about this exhibition
+      type: select_one
+      options:
+      - Social Media
+      - Website
+      - Friend or Family
+      - Newspaper or Magazine
+      - Radio
+      - Television
+      - Tourist Information
+      - Other
+      required: false
+    - id: 12
+      name: visit_purpose
+      label: Visit Purpose
+      hint: Purpose of your visit
+      type: select_one
+      options:
+      - Leisure
+      - Education
+      - Research
+      - Professional Interest
+      - Tourism
+      - Other
+      required: true
+    - id: 13
+      name: overall_experience
+      label: Overall Experience
+      hint: Rate your overall experience
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very Poor
+      required: true
+    - id: 14
+      name: exhibition_quality
+      label: Exhibition Quality
+      hint: Rate the quality of the exhibition
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very Poor
+      required: true
+    - id: 15
+      name: favorite_piece
+      label: Favorite Piece
+      hint: What was your favorite artwork
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: staff_helpfulness
+      label: Staff Helpfulness
+      hint: Rate the helpfulness of staff
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very Poor
+      - Did Not Interact
+      required: false
+    - id: 17
+      name: facility_cleanliness
+      label: Facility Cleanliness
+      hint: Rate the cleanliness of the facility
+      type: select_one
+      options:
+      - Excellent
+      - Good
+      - Average
+      - Poor
+      - Very Poor
+      required: true
+    - id: 18
+      name: would_recommend
+      label: Would Recommend
+      hint: Would you recommend this exhibition
+      type: select_one
+      options:
+      - Definitely Yes
+      - Probably Yes
+      - Unsure
+      - Probably No
+      - Definitely No
+      required: true
+    - id: 19
+      name: visit_duration
+      label: Visit Duration
+      hint: How long did you spend at the exhibition
+      type: select_one
+      options:
+      - Less than 30 minutes
+      - 30 minutes to 1 hour
+      - 1 to 2 hours
+      - 2 to 3 hours
+      - More than 3 hours
+      required: false
+    - id: 20
+      name: additional_services
+      label: Additional Services
+      hint: Which services did you use
+      type: select_multiple
+      options:
+      - Audio Guide
+      - Guided Tour
+      - Gift Shop
+      - Cafe or Restaurant
+      - Parking
+      - Coat Check
+      - None
+      required: false
+    - id: 21
+      name: improvements_suggested
+      label: Improvements Suggested
+      hint: What could be improved
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other feedback
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: mailing_list_signup
+      label: Mailing List Signup
+      hint: Would you like to join our mailing list
+      type: select_one
+      options:
+      - true
+      - false
+      required: false

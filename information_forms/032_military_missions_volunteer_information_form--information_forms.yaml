@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Military Missions Volunteer Information Form
+    pages:
+    - id: 1
+      name: volunteer_information_form
+      label: Volunteer Information Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: birthdate
+      label: Birth Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Male''}'
+      - '{''label'': ''Female''}'
+      - '{''label'': ''Other''}'
+      required: true
+    - id: 8
+      name: military_id
+      label: Military ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: branch
+      label: Branch
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Army''}'
+      - '{''label'': ''Navy''}'
+      - '{''label'': ''Air Force''}'
+      - '{''label'': ''Marine Corps''}'
+      - '{''label'': ''Coast Guard''}'
+      required: true
+    - id: 10
+      name: unit
+      label: Unit
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''1st Special Forces''}'
+      - '{''label'': ''2nd Special Forces''}'
+      - '{''label'': ''3rd Special Forces''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 11
+      name: duty_location
+      label: Duty Location
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Location 1''}'
+      - '{''label'': ''Location 2''}'
+      - '{''label'': ''Location 3''}'
+      required: true
+    - id: 12
+      name: deployment_date
+      label: Deployment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: mission_type
+      label: Mission Type
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Operation''}'
+      - '{''label'': ''Training''}'
+      - '{''label'': ''Deployment''}'
+      required: true

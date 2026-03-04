@@ -1,0 +1,125 @@
+inputSchema:
+  type: object
+  properties:
+    title: Project Manager Information Form
+    pages:
+    - id: 1
+      name: project_manager_information
+      label: Project Manager Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: manager_address
+      label: Manager Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: manager_phone
+      label: Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: project_title
+      label: Project Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: project_description
+      label: Project Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: project_manager_start_date
+      label: Project Manager Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: project_manager_end_date
+      label: Project Manager End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 12
+      name: project_category
+      label: Project Category
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 13
+      name: contact_preferences
+      label: Contact Preferences
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: manager_notes
+      label: Manager Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: project_manager
+      label: Project Manager
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

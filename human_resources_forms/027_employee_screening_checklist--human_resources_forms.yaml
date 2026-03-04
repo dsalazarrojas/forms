@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Screening Checklist
+    pages:
+    - id: 1
+      name: new_employee
+      label: New Employee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_title
+      label: job_title
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1001, ''label'': ''Manager''}'
+      - '{''id'': 1002, ''label'': ''Team Lead''}'
+      - '{''id'': 1003, ''label'': ''Individual Contributor''}'
+      required: false
+    - id: 3
+      name: job_description
+      label: job_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: job_category
+      label: job_category
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 2001, ''label'': ''Software Development''}'
+      - '{''id'': 2002, ''label'': ''Marketing''}'
+      - '{''id'': 2003, ''label'': ''Customer Service''}'
+      required: false
+    - id: 5
+      name: job_status
+      label: job_status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 3001, ''label'': ''Active''}'
+      - '{''id'': 3002, ''label'': ''On Leave''}'
+      - '{''id'': 3003, ''label'': ''Inactive''}'
+      required: false
+    - id: 6
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: review_date
+      label: review_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: review_time
+      label: review_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: review_notes
+      label: review_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: follow_up
+      label: follow_up
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 4001, ''label'': ''Scheduled''}'
+      - '{''id'': 4002, ''label'': ''Due Today''}'
+      - '{''id'': 4003, ''label'': ''Past Due''}'
+      required: false
+    - id: 11
+      name: employee_notes
+      label: employee_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: manager_notes
+      label: manager_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: next_steps
+      label: next_steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: completed
+      label: completed
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 5001, ''label'': True}'
+      - '{''id'': 5002, ''label'': False}'
+      required: false
+    - id: 15
+      name: review_outcome
+      label: review_outcome
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: next_review_date
+      label: next_review_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: next_review_time
+      label: next_review_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: next_review_notes
+      label: next_review_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: follow_up_notes
+      label: follow_up_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: review_frequency
+      label: review_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 6001, ''label'': ''Annually''}'
+      - '{''id'': 6002, ''label'': ''Semi-Annually''}'
+      - '{''id'': 6003, ''label'': ''Quarterly''}'
+      required: false
+    - id: 21
+      name: review_frequency_interval
+      label: review_frequency_interval
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: review_frequency_type
+      label: review_frequency_type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: follow_up_frequency
+      label: follow_up_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 7001, ''label'': ''Daily''}'
+      - '{''id'': 7002, ''label'': ''Weekly''}'
+      - '{''id'': 7003, ''label'': ''Monthly''}'
+      required: false
+    - id: 24
+      name: follow_up_frequency_interval
+      label: follow_up_frequency_interval
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: follow_up_frequency_type
+      label: follow_up_frequency_type
+      hint: null
+      type: text
+      options: []
+      required: false

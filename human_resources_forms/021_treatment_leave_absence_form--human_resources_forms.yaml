@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Treatment Leave Absence Form
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee Id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: medical_reason
+      label: medical_reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: treatment_start_date
+      label: Treatment Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: treatment_end_date
+      label: Treatment End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: treatment_duration
+      label: Treatment Duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: doctor_name
+      label: Doctor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: medical_record_number
+      label: Medical Record Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: treatment_location
+      label: Treatment Location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: treatment_status
+      label: Treatment Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Rescheduled
+      - Cancelled
+      required: true
+    - id: 10
+      name: employee_status
+      label: Employee Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Non Active
+      - Resigned
+      required: true
+    - id: 11
+      name: department_id
+      label: Department Id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: doctor_id
+      label: Doctor Id
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: doctor_department_id
+      label: Doctor Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: doctor_title
+      label: Doctor Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: employee_notes
+      label: Employee Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: doctor_notes
+      label: Doctor Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: submitted_date
+      label: Submitted Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: submitted_by_employee_id
+      label: Submitted By Employee Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 23
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: assigned_time
+      label: Assigned Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 25
+      name: submitted_by_user
+      label: Submitted By User
+      hint: null
+      type: text
+      options: []
+      required: true

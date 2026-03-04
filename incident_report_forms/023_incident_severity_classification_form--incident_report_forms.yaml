@@ -1,0 +1,85 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Incident Severity Classification Form
+    pages:
+    - id: 1
+      name: incident_severity_classification_form
+      label: incident_severity_classification
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Critical''}'
+      - '{''label'': ''High''}'
+      - '{''label'': ''Medium''}'
+      - '{''label'': ''Low''}'
+      required: true
+    - id: 2
+      name: follow_up_details
+      label: follow_up_details
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Email''}'
+      - '{''label'': ''Phone''}'
+      - '{''label'': ''Chat''}'
+      required: true
+    - id: 3
+      name: incident_date
+      label: incident_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: incident_time
+      label: incident_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 5
+      name: incident_location
+      label: incident_location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: incident_description
+      label: incident_description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: follow_up_method
+      label: follow_up_method
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Phone''}'
+      - '{''label'': ''Email''}'
+      - '{''label'': ''Chat''}'
+      required: true
+    - id: 8
+      name: follow_up_status
+      label: follow_up_status
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Completed''}'
+      - '{''label'': ''In Progress''}'
+      - '{''label'': ''Not Started''}'
+      required: true

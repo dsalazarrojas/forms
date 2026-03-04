@@ -1,0 +1,64 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: golf_lesson_information_collection_form
+    pages:
+    - id: 1
+      name: student_details
+      label: Student Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: lesson_details
+      label: Lesson Details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: lesson_goals
+      label: Lesson Goals
+      hint: null
+      type: select_multiple
+      options:
+      - '{''Goals'': ''Improve Score''}'
+      - '{''Goals'': ''Increase Accuracy''}'
+      - '{''Goals'': ''Improve Distance''}'
+      required: false
+    - id: 4
+      name: instructor
+      label: Instructor
+      hint: null
+      type: select_one
+      options:
+      - Instructor A
+      - Instructor B
+      - Instructor C
+      required: false
+    - id: 5
+      name: academy
+      label: Academy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: availability
+      label: Availability
+      hint: null
+      type: date
+      options: []
+      required: true

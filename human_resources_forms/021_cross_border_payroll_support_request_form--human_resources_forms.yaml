@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cross Border Payroll Support Request Form
+    pages:
+    - id: 1
+      name: requestor_name
+      label: Requestor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: employee_number
+      label: Employee Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: request_description
+      label: Request Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: payroll_support_requester
+      label: Payroll Support Requester
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: requestee
+      label: Requestee
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: form_id
+      label: Form ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: created_by
+      label: Created By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: created_at
+      label: Created At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: updated_by
+      label: Updated By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: updated_at
+      label: Updated At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submitted_at
+      label: Submitted At
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 21
+      name: assigned_by
+      label: Assigned By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submitted_to
+      label: Submitted To
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: assigned_to_name
+      label: Assigned To
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

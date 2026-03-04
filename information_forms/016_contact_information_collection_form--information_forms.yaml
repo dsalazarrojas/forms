@@ -1,0 +1,138 @@
+inputSchema:
+  type: object
+  properties:
+    title: Contact Information Collection Form
+    pages:
+    - id: 1
+      name: form_header
+      label: Contact Information Collection
+      hint: Please provide your contact details
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_primary
+      label: Primary Email Address
+      hint: Main email address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: email_secondary
+      label: Secondary Email Address
+      hint: Optional alternate email
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_mobile
+      label: Mobile Phone Number
+      hint: Your mobile number
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: phone_work
+      label: Work Phone Number
+      hint: Optional work number
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: address_street
+      label: Street Address
+      hint: Your street address
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: address_city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: address_state
+      label: State or Province
+      hint: Your state or province
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: address_zip
+      label: ZIP or Postal Code
+      hint: Your postal code
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: address_country
+      label: Country
+      hint: Your country
+      type: select_one
+      options:
+      - United States
+      - Canada
+      - United Kingdom
+      - Australia
+      - Other
+      required: true
+    - id: 13
+      name: contact_preference
+      label: Preferred Contact Method
+      hint: How should we contact you
+      type: select_one
+      options:
+      - Email
+      - Phone Call
+      - Text Message
+      - Mail
+      required: true
+    - id: 14
+      name: contact_time
+      label: Best Time to Contact
+      hint: Preferred contact time
+      type: select_one
+      options:
+      - Morning
+      - Afternoon
+      - Evening
+      - Weekend
+      - Anytime
+      required: false
+    - id: 15
+      name: purpose
+      label: Purpose of Information Collection
+      hint: Why are you providing this
+      type: select_one
+      options:
+      - Newsletter Signup
+      - Event Registration
+      - Service Inquiry
+      - Account Creation
+      - Other
+      required: true
+    - id: 16
+      name: consent
+      label: Consent to Contact
+      hint: Do you agree to be contacted
+      type: select_one
+      options:
+      - Yes I Consent
+      - No I Do Not Consent
+      required: true

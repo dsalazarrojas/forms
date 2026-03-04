@@ -1,0 +1,100 @@
+inputSchema:
+  type: object
+  properties:
+    title: Liquor Inventory Information Record Form
+    pages:
+    - id: 1
+      name: sales_data
+      label: Sales Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: purchase_history
+      label: Purchase History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: sales_price
+      label: Sales Price
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: liquor_type
+      label: Liquor Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: store_info
+      label: Store Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: purchases
+      label: Purchases
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: sales_date
+      label: Sales Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: sales_time
+      label: Sales Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: liquor_cost
+      label: Liquor Cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: sales_count
+      label: Sales Count
+      hint: null
+      type: number
+      options: []
+      required: false

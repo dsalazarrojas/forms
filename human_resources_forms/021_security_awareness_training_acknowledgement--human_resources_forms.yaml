@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Security Awareness Training Acknowledgement
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: completed
+      label: Completed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: confirm_date
+      label: Confirm Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: training_completed
+      label: Training Completed
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: date_training_completed
+      label: Date Training Completed
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: training_feedback
+      label: Training Feedback
+      hint: null
+      type: text
+      options: []
+      required: false

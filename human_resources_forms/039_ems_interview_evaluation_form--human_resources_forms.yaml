@@ -1,0 +1,90 @@
+inputSchema:
+  type: object
+  properties:
+    title: EMS Interview Evaluation Form
+    pages:
+    - id: 1
+      name: candidate_information
+      label: Candidate Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: interview_process
+      label: Interview Process
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: evaluation_scale
+      label: Evaluation Scale
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': 1}'
+      - '{''label'': 2}'
+      - '{''label'': 3}'
+      - '{''label'': 4}'
+      - '{''label'': 5}'
+      required: false
+    - id: 4
+      name: evaluation_notes
+      label: Evaluation Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: recommendation
+      label: Recommendation
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: score
+      label: Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: date_of_interview
+      label: Date Of Interview
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_of_interview
+      label: Time Of Interview
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: interview_panel
+      label: Interview Panel
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''Manager''}'
+      - '{''label'': ''Team Manager''}'
+      - '{''label'': ''Other''}'
+      required: false
+    - id: 11
+      name: candidate_score_weightage
+      label: Candidate Score Weightage
+      hint: null
+      type: number
+      options: []
+      required: false

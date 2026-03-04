@@ -1,0 +1,93 @@
+inputSchema:
+  type: object
+  properties:
+    title: Worker Certification Program Contact Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: message
+      label: Message
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: certification_interest
+      label: Certification interest
+      hint: null
+      type: select_multiple
+      options:
+      - Basic Life Support Certification (BLS)
+      - Advanced Cardiovascular Life Support (ACLS)
+      - Basic Life Support (BLS) - Pediatric
+      - Basic Life Support (BLS) - Instructor
+      required: true
+    - id: 6
+      name: question
+      label: Question
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: time_of_birth
+      label: Time of birth
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: time_of_contact
+      label: Time of contact
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: certification_date
+      label: Certification date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: certification_time
+      label: Certification time
+      hint: null
+      type: time
+      options: []
+      required: false

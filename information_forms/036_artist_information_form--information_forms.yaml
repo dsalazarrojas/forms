@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Artist Information Form
+    pages:
+    - id: 1
+      name: section_header_1
+      label: -- Basic Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: full_name
+      label: Full Name
+      hint: Your complete legal name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: artist_name
+      label: Artist Name or Pseudonym
+      hint: How you are known professionally
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Contact number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_header_2
+      label: -- Participation History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: first_participation
+      label: Year of First Participation
+      hint: When did you first participate?
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: participation_years
+      label: Years of Participation
+      hint: List the years you have participated
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: total_events
+      label: Total Number of Events Attended
+      hint: How many times have you participated?
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: section_header_3
+      label: -- Artist Biography --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: artist_bio
+      label: Artist Biography
+      hint: Professional biography (100-200 words)
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: artistic_focus
+      label: Artistic Focus or Discipline
+      hint: Primary area of artistic work
+      type: select_one
+      options:
+      - Painting
+      - Sculpture
+      - Photography
+      - Drawing
+      - Printmaking
+      - Mixed Media
+      - Digital Art
+      - Installation
+      - Performance Art
+      - Other
+      required: true
+    - id: 13
+      name: years_active
+      label: Years Active as an Artist
+      hint: How long have you been creating?
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: section_header_4
+      label: -- Artwork Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: artwork_title
+      label: Title of Your Artwork
+      hint: Primary artwork or current project
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: artwork_description
+      label: Artwork Description
+      hint: Description of your work
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: artwork_medium
+      label: Medium or Materials Used
+      hint: What materials are used?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: artwork_dimensions
+      label: Artwork Dimensions
+      hint: Size or scale of the work
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: section_header_5
+      label: -- Visual Documentation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: portrait_photo
+      label: Portrait Photo
+      hint: High-resolution portrait photo upload
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: artwork_photo
+      label: Artwork Photo
+      hint: Clear photo of your artwork
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: additional_images
+      label: Additional Artwork Images
+      hint: Additional photos or documentation
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: section_header_6
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: special_comments
+      label: Additional Comments or Notes
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: contact_permission
+      label: Permission to Contact You for Future Events
+      hint: Can we reach out about upcoming opportunities?
+      type: select_one
+      options:
+      - Yes, contact me
+      - No, do not contact
+      - Email only
+      - Phone only
+      required: false

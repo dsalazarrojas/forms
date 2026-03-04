@@ -1,0 +1,202 @@
+inputSchema:
+  type: object
+  properties:
+    title: Misdiagnosis Incident Form
+    pages:
+    - id: 1
+      name: incident_report_form
+      label: Incident Report Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: healthcare_professional
+      label: Healthcare Professional
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: patient
+      label: Patient
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_incident
+      label: Date Of Incident
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time_of_incident
+      label: Time Of Incident
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: location_of_incident
+      label: Location Of Incident
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: misdiagnosis_type
+      label: Misdiagnosis Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: contributing_factors
+      label: Contributing Factors
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: actions_taken
+      label: Actions Taken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: location_of_event
+      label: Location Of Event
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: misdiagnosis_date
+      label: Misdiagnosis Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: misdiagnosis_time
+      label: Misdiagnosis Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 17
+      name: patient_dob
+      label: Patient Dob
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: patient_weight
+      label: Patient Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: patient_height
+      label: Patient Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: age
+      label: Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: gender
+      label: Gender
+      hint: null
+      type: select_one
+      options:
+      - Female
+      - Male
+      - Other
+      required: true
+    - id: 22
+      name: ethnicity
+      label: Ethnicity
+      hint: null
+      type: select_one
+      options:
+      - Asian
+      - Black
+      - Hispanic
+      - White
+      - Other
+      required: true
+    - id: 23
+      name: medical_condition
+      label: Medical Condition
+      hint: null
+      type: select_multiple
+      options:
+      - Cardiac Arrest
+      - Cancer
+      - Diabetes
+      - Heart Failure
+      - Kidney Disease
+      - Other
+      required: true
+    - id: 24
+      name: medical_condition_list
+      label: Medical Condition List
+      hint: null
+      type: select_multiple
+      options:
+      - Cardiac Arrest
+      - Cancer
+      - Diabetes
+      - Heart Failure
+      - Kidney Disease
+      - Other
+      required: true
+    - id: 25
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - Chatjimmy
+      - Other
+      required: true

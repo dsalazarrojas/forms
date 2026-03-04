@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: Ingredient Contaminant Alert Report Form
+    pages:
+    - id: 1
+      name: ingredient
+      label: Ingredient name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: severity_level
+      label: Severity level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 3
+      name: contam_type
+      label: Contaminant type
+      hint: null
+      type: select_multiple
+      options:
+      - Type 1
+      - Type 2
+      - Type 3
+      required: false
+    - id: 4
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: severity_location
+      label: Affected location
+      hint: null
+      type: select_multiple
+      options:
+      - Kitchen
+      - Packaging
+      - Store
+      required: false
+    - id: 6
+      name: severity_date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: severity_time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: severity_note
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: photos
+      label: Attach photos
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: submit2
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

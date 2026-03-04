@@ -1,0 +1,245 @@
+inputSchema:
+  type: object
+  properties:
+    title: Calamity Response Assessment
+    pages:
+    - id: 1
+      name: reporter_name
+      label: Reporter Name
+      hint: Name of person reporting
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: reporter_title
+      label: Reporter Title
+      hint: Job title or role
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: organization
+      label: Organization
+      hint: Company or agency
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: contact_email
+      label: Contact Email
+      hint: Email address
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: contact_phone
+      label: Contact Phone
+      hint: Phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: incident_date
+      label: Incident Date
+      hint: Date of calamity
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: incident_time
+      label: Incident Time
+      hint: Time of occurrence
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: incident_location
+      label: Incident Location
+      hint: Where did it occur
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: calamity_type
+      label: Calamity Type
+      hint: Type of disaster
+      type: select_one
+      options:
+      - Earthquake
+      - Flood
+      - Hurricane
+      - Tornado
+      - Wildfire
+      - Severe storm
+      - Landslide
+      - Tsunami
+      - Volcanic activity
+      - Other
+      required: true
+    - id: 10
+      name: severity_level
+      label: Severity Level
+      hint: How severe was the event
+      type: select_one
+      options:
+      - Minor
+      - Moderate
+      - Major
+      - Severe
+      - Catastrophic
+      required: true
+    - id: 11
+      name: casualties_reported
+      label: Casualties Reported
+      hint: Number of injuries or fatalities
+      type: select_one
+      options:
+      - None
+      - 1-5
+      - 6-10
+      - 11-25
+      - 26-50
+      - Over 50
+      required: true
+    - id: 12
+      name: people_affected
+      label: People Affected
+      hint: Approximate number impacted
+      type: select_one
+      options:
+      - Under 100
+      - 100-500
+      - 500-1,000
+      - 1,000-5,000
+      - 5,000-10,000
+      - Over 10,000
+      required: true
+    - id: 13
+      name: property_damage
+      label: Property Damage
+      hint: Extent of property damage
+      type: select_one
+      options:
+      - Minimal
+      - Moderate
+      - Severe
+      - Total destruction
+      - Unknown
+      required: true
+    - id: 14
+      name: infrastructure_damage
+      label: Infrastructure Damage
+      hint: Damage to roads, utilities, etc.
+      type: select_multiple
+      options:
+      - None
+      - Roads damaged
+      - Bridges damaged
+      - Power outage
+      - Water supply affected
+      - Communications down
+      - Buildings destroyed
+      - Other
+      required: false
+    - id: 15
+      name: emergency_services_deployed
+      label: Emergency Services Deployed
+      hint: Which services responded
+      type: select_multiple
+      options:
+      - Fire department
+      - Police
+      - EMS
+      - Search and rescue
+      - National Guard
+      - FEMA
+      - Red Cross
+      - Local volunteers
+      - Other
+      required: false
+    - id: 16
+      name: evacuation_status
+      label: Evacuation Status
+      hint: Was evacuation ordered
+      type: select_one
+      options:
+      - No evacuation
+      - Voluntary evacuation
+      - Mandatory evacuation
+      - Evacuation complete
+      - Evacuation in progress
+      required: true
+    - id: 17
+      name: shelters_established
+      label: Shelters Established
+      hint: Are emergency shelters open
+      type: select_one
+      options:
+      - Yes, multiple
+      - Yes, one
+      - In progress
+      - false
+      - Not needed
+      required: false
+    - id: 18
+      name: immediate_needs
+      label: Immediate Needs
+      hint: What is urgently needed
+      type: select_multiple
+      options:
+      - Food
+      - Water
+      - Medical supplies
+      - Temporary shelter
+      - Clothing
+      - Power restoration
+      - Search and rescue
+      - Debris removal
+      - Other
+      required: false
+    - id: 19
+      name: response_actions_taken
+      label: Response Actions Taken
+      hint: What has been done so far
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: ongoing_threats
+      label: Ongoing Threats
+      hint: Are there continuing dangers
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: resources_requested
+      label: Resources Requested
+      hint: What additional help is needed
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: assessment_summary
+      label: Assessment Summary
+      hint: Overall situation summary
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: follow_up_required
+      label: Follow-up Required
+      hint: Is additional assessment needed
+      type: select_one
+      options:
+      - Yes, within 24 hours
+      - Yes, within 48 hours
+      - Yes, within 1 week
+      - No further assessment needed
+      required: true
+    - id: 24
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

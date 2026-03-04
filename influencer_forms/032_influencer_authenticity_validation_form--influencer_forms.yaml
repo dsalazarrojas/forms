@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Influencer Authenticity Validation Form
+    pages:
+    - id: 1
+      name: brand_name
+      label: Brand Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Apple
+      - Banana
+      - Carrot
+      required: true
+    - id: 3
+      name: audience_gender
+      label: Audience Gender
+      hint: null
+      type: select_multiple
+      options:
+      - Male
+      - Female
+      - Other
+      required: true
+    - id: 4
+      name: audience_age_range
+      label: Audience Age Range
+      hint: null
+      type: select_multiple
+      options:
+      - 18-24
+      - 25-34
+      - 35-44
+      - 45-54
+      - 55-64
+      - 65+
+      required: true
+    - id: 5
+      name: average_viewers
+      label: Average Viewers
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: engagement
+      label: Audience Engagement
+      hint: null
+      type: select_multiple
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 7
+      name: audience_type
+      label: Audience Type
+      hint: null
+      type: select_multiple
+      options:
+      - Influencer
+      - Brand
+      - Other
+      required: true
+    - id: 8
+      name: average_engagement_rate
+      label: Average Engagement Rate
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: true

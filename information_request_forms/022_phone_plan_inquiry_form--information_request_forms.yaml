@@ -1,0 +1,138 @@
+inputSchema:
+  type: object
+  properties:
+    title: Phone Plan Inquiry Form
+    pages:
+    - id: 1
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: phone_plan
+      label: Phone Plan
+      hint: null
+      type: select_multiple
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      required: false
+    - id: 3
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: carrier
+      label: Carrier
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      required: false
+    - id: 8
+      name: plan_type
+      label: Plan Type
+      hint: null
+      type: select_one
+      options:
+      - Post-Paid
+      - Pre-Paid
+      - Post-Paid/Pre-Paid
+      - Other
+      required: false
+    - id: 9
+      name: service_level
+      label: Service Level
+      hint: null
+      type: select_multiple
+      options:
+      - Basic
+      - Premium
+      - Enterprise
+      - Other
+      required: false
+    - id: 10
+      name: contract_length
+      label: Contract Length
+      hint: null
+      type: select_multiple
+      options:
+      - '3'
+      - '6'
+      - '12'
+      - '18'
+      - '24'
+      - '36'
+      required: false
+    - id: 11
+      name: contract_start_date
+      label: Contract Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 12
+      name: contract_end_date
+      label: Contract-End-Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: price
+      label: Price
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: notes2
+      label: Notes 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: confirm
+      label: Confirm
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      required: false

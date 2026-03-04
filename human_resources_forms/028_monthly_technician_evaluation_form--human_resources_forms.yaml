@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: monthly_technician_evaluation_form
+    pages:
+    - id: 1
+      name: manager_comments
+      label: Manager Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: technician_name
+      label: technician_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: rating
+      label: rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: comments
+      label: comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: strengths
+      label: strengths
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: areas_for_improvement
+      label: areas_for_improvement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: action_planned
+      label: action_planned
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: follow_up
+      label: follow_up
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: manager_signature
+      label: manager_signature
+      hint: null
+      type: text
+      options: []
+      required: false

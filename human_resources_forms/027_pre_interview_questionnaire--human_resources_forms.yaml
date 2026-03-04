@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: Pre Interview Questionnaire
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: work_experience
+      label: Work experience
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: job_title
+      label: Job title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notice_period
+      label: Notice period
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: job_satisfaction
+      label: Job satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Very High
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 10
+      name: salary
+      label: Salary
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: job_satisfaction_2
+      label: Job satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Very High
+      - High
+      - Medium
+      - Low
+      required: false

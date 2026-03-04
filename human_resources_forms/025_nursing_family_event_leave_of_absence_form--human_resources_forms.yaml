@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: Nursing Family Event Leave Of Absence Form
+    pages:
+    - id: 1
+      name: form_page
+      label: Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_from
+      label: Date from
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: date_to
+      label: Date to
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: number_of_days
+      label: Number of days
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: leave_type
+      label: Leave type
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Unpaid
+      - Paid
+      required: false
+    - id: 8
+      name: manager_approval
+      label: Manager approval
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Declined
+      - Not applicable
+      required: false
+    - id: 9
+      name: team_approval
+      label: Team approval
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Declined
+      - Not applicable
+      required: false
+    - id: 10
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitter_email
+      label: Submitter email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: submitter_phone
+      label: Submitter phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submitter_department
+      label: Submitter department
+      hint: null
+      type: select_one
+      options:
+      - Human Resources
+      - Nursing
+      - Other
+      required: false
+    - id: 15
+      name: submitter_role
+      label: Submitter role
+      hint: null
+      type: select_one
+      options:
+      - Director
+      - Manager
+      - Staff
+      required: false
+    - id: 16
+      name: submitter_position
+      label: Submitter position
+      hint: null
+      type: select_one
+      options:
+      - CEO
+      - Director
+      - Manager
+      - Nurse Manager
+      - Nurse Practitioner
+      - Other
+      required: false
+    - id: 17
+      name: submitter_location
+      label: Submitter location
+      hint: null
+      type: select_multiple
+      options:
+      - Location A
+      - Location B
+      - Location C
+      - Other
+      required: false
+    - id: 18
+      name: submitter_date
+      label: Submitter date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: submitter_time
+      label: Submitter time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 20
+      name: submitter_comments
+      label: Submitter comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: manager_comments
+      label: Manager comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: team_comments
+      label: Team comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submitter_agree
+      label: Agree
+      hint: null
+      type: select_one
+      options:
+      - I agree
+      - I do not agree
+      required: false
+    - id: 24
+      name: submitter_terms
+      label: Terms
+      hint: null
+      type: select_multiple
+      options:
+      - I have read and agree to the terms and conditions
+      - I do not have read and agree to the terms and conditions
+      required: false
+    - id: 25
+      name: submitter_submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false

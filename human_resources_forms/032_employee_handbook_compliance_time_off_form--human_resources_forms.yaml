@@ -1,0 +1,172 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Handbook Compliance Time Off Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: reason_for_time_off
+      label: Reason for Time Off
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: date_of_absence
+      label: Date of Absence
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 8
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: time_off_hours
+      label: Time Off Hours
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: time_off_status
+      label: Time Off Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Denied
+      - Pending
+      required: false
+    - id: 11
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: submitted_on
+      label: Submitted On
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 13
+      name: approved_by
+      label: Approved By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: approved_on
+      label: Approved On
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 15
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: time_off_hours_approved
+      label: Time Off Hours Approved
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 17
+      name: time_off_status_approved
+      label: Time Off Status Approved
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Denied
+      - Pending
+      required: false
+    - id: 18
+      name: submitted_by_approved
+      label: Submitted By Approved
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: submitted_on_approved
+      label: Submitted On Approved
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: approved_by_approved
+      label: Approved By Approved
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: comments_approved
+      label: Comments Approved
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: submitted_by_approved_approved
+      label: Submitted By Approved Approved
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: time_off_hours_approved_approved
+      label: Time Off Hours Approved Approved
+      hint: null
+      type: number
+      options: []
+      required: false

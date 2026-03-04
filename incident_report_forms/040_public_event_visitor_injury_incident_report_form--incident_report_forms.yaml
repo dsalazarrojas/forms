@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: Public Event Visitor Injury Incident Report Form
+    pages:
+    - id: 1
+      name: event_title
+      label: Event Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: event_type
+      label: Event Type
+      hint: null
+      type: select_one
+      options:
+      - Event Title
+      - Event Type 1
+      - Event Type 2
+      required: true
+    - id: 5
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: witness_count
+      label: Witness Count
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: witness_names
+      label: Witness Names
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: witness_contacts
+      label: Witness Contacts
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: witness_relationships
+      label: Witness Relationships
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: injured_participant_count
+      label: Injured Participant Count
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: injured_participants
+      label: Injured Participants
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: injured_participant_contacts
+      label: Injured Participant Contacts
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: treatment_administered
+      label: Treatment Administered
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: follow_up_plan
+      label: Follow-Up Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: follow_up_notes
+      label: Follow-Up Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submitting_officer
+      label: Submitting Officer
+      hint: null
+      type: select_one
+      options:
+      - Officer 1
+      - Officer 2
+      - Officer 3
+      required: true
+    - id: 18
+      name: submit_time
+      label: Submit Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 19
+      name: submit_date
+      label: Submit Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: event_id
+      label: Event ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: location_id
+      label: Location ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 24
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitter_organization
+      label: Submitter Organization
+      hint: null
+      type: text
+      options: []
+      required: false

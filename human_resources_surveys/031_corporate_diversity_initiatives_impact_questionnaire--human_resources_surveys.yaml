@@ -1,0 +1,121 @@
+inputSchema:
+  type: object
+  properties:
+    title: Corporate Diversity Initiatives Impact Questionnaire
+    pages:
+    - id: 1
+      name: intro_page
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: demographics_page
+      label: Demographics
+      hint: null
+      type: select_multiple
+      options:
+      - Asian
+      - Black or African American
+      - Hispanic or Latino
+      - White
+      - Native American or Alaska Native
+      - Two or more races
+      - Prefer not to answer
+      required: false
+    - id: 3
+      name: diversity_page
+      label: Diversity
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: inclusion_page
+      label: Inclusion
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: engagement_page
+      label: Engagement
+      hint: null
+      type: select_one
+      options:
+      - Not engaged
+      - Somewhat engaged
+      - Very engaged
+      - Highly engaged
+      - Extremely engaged
+      required: false
+    - id: 6
+      name: department_page
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - Accounting
+      - Engineering
+      - HR
+      - Sales
+      - Support
+      - Other
+      required: true
+    - id: 7
+      name: manager_page
+      label: Manager
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 8
+      name: action_page
+      label: Action
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: impact_page
+      label: Impact
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: satisfaction_page
+      label: Satisfaction
+      hint: null
+      type: select_one
+      options:
+      - Very dissatisfied
+      - Somewhat dissatisfied
+      - Neutral
+      - Somewhat satisfied
+      - Very satisfied
+      required: true
+    - id: 11
+      name: suggestions_page
+      label: Suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: comments_page
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: close_page
+      label: Close
+      hint: null
+      type: note
+      options: []
+      required: false

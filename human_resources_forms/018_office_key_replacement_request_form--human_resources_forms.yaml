@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Office Key Replacement Request Form
+    pages:
+    - id: 1
+      name: office_key_replacement_request_form
+      label: Office Key Replacement Request
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: office_id
+      label: Office
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''Office 1''}'
+      - '{''id'': 2, ''value'': ''Office 2''}'
+      required: false
+    - id: 3
+      name: reason_for_replacement_request
+      label: Reason For Replacement Request
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: contact_notes
+      label: Contact Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: assigned_user
+      label: Assigned User
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''John Doe''}'
+      - '{''id'': 2, ''value'': ''Jane Doe''}'
+      required: true
+    - id: 10
+      name: assigned_user_note
+      label: Assigned User Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: status
+      label: Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Pending''}'
+      - '{''id'': 2, ''value'': ''In Progress''}'
+      - '{''id'': 3, ''value'': ''Completed''}'
+      required: false
+    - id: 12
+      name: status_note
+      label: Status Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: submission_date
+      label: Submission Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: submission_time
+      label: Submission Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: reviewer_notes
+      label: Reviewer Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: reviewer_name
+      label: Reviewer Name
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''value'': ''John Doe''}'
+      - '{''id'': 2, ''value'': ''Jane Doe''}'
+      required: true
+    - id: 17
+      name: reviewer_name_note
+      label: Reviewer Name Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 18
+      name: submission_status
+      label: Submission Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''Approved''}'
+      - '{''id'': 2, ''value'': ''Rejected''}'
+      - '{''id'': 4, ''value'': ''Pending''}'
+      required: true
+    - id: 19
+      name: submission_status_notes
+      label: Submission Status Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: review_comments
+      label: Review Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: office_replacement_cost
+      label: Office Replacement Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 22
+      name: submission_cost
+      label: Submission Cost
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 23
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''value'': ''User 1''}'
+      - '{''id'': 2, ''value'': ''User 2''}'
+      required: true
+    - id: 24
+      name: submitted_by_note
+      label: Submitted By Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: submission_date_time
+      label: Submission Date Time
+      hint: null
+      type: date
+      options: []
+      required: true

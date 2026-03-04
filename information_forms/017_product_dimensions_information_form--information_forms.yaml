@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Dimensions Information Form
+    pages:
+    - id: 1
+      name: product_name
+      label: productName
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: width
+      label: productWidth
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: height
+      label: productHeight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: length
+      label: productLength
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: weight
+      label: productWeight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: volume
+      label: productVolume
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: material
+      label: productMaterial
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: color
+      label: productColor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: packaging
+      label: packagingType
+      hint: null
+      type: select_multiple
+      options:
+      - Box
+      - Bag
+      - Pouch
+      - Crate
+      - Tray
+      required: false
+    - id: 10
+      name: packaging_size
+      label: packagingSize
+      hint: null
+      type: select_one
+      options:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      required: true
+    - id: 11
+      name: notes
+      label: productNotes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: email
+      label: contactEmail
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: phone
+      label: contactPhone
+      hint: null
+      type: text
+      options: []
+      required: false

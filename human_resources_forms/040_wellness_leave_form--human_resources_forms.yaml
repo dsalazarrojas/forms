@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wellness Leave Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reason_for_absence
+      label: Reason For Absence
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: dates_request
+      label: Dates Request
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: manager_approval
+      label: Manager Approval
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''Option 1''}'
+      - '{''option2'': ''Option 2''}'
+      - '{''option3'': ''Option 3''}'
+      required: false
+    - id: 8
+      name: employee_status
+      label: Employee Status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Full-time''}'
+      - '{''option2'': ''Part-time''}'
+      - '{''option3'': ''Contract''}'
+      required: false
+    - id: 9
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - '{''option1'': ''HR''}'
+      - '{''option2'': ''Marketing''}'
+      - '{''option3'': ''Sales''}'
+      required: false
+    - id: 10
+      name: team_member
+      label: Team Member
+      hint: null
+      type: select_multiple
+      options:
+      - '{''option1'': ''Team A''}'
+      - '{''option2'': ''Team B''}'
+      - '{''option3'': ''Team C''}'
+      required: false

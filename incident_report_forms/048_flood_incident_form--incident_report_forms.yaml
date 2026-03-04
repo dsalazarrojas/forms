@@ -1,0 +1,86 @@
+inputSchema:
+  type: object
+  properties:
+    title: Flood Incident Form
+    pages:
+    - id: 1
+      name: incident_location
+      label: Incident location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incident_type
+      label: Incident type
+      hint: null
+      type: select_one
+      options:
+      - Flood
+      - Storm surge
+      - Flash flood
+      - Landslide
+      - Other
+      required: false
+    - id: 3
+      name: incident_date
+      label: Incident date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: incident_time
+      label: Incident time
+      hint: "12:00 AM"
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: incident_description
+      label: Incident description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: affected_population
+      label: Affected population
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: emergency_services_contacted
+      label: Emergency services contacted
+      hint: null
+      type: select_multiple
+      options:
+      - Fire department
+      - Police department
+      - Other
+      required: false
+    - id: 8
+      name: incident_reported_by
+      label: Incident reported by
+      hint: null
+      type: select_one
+      options:
+      - Emergency services
+      - Local authority
+      - Community member
+      required: false
+    - id: 9
+      name: incident_reported_number
+      label: Incident reported number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: emergency_services_response
+      label: Emergency services response
+      hint: null
+      type: text
+      options: []
+      required: false

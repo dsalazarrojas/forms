@@ -1,0 +1,194 @@
+inputSchema:
+  type: object
+  properties:
+    title: Sporting Event Fan Incident Report Form
+    pages:
+    - id: 1
+      name: incident_report_form
+      label: Event Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incident_details
+      label: Incident Details
+      hint: Describe the incident that occurred during the event.
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: incident_location
+      label: Incident Location
+      hint: Please indicate the exact location of the incident.
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: witness_info
+      label: Witness Information
+      hint: Name, contact number, and email address of the witness
+      type: select_one
+      options:
+      - Witness 1
+      - Witness 2
+      - Witness 3
+      required: true
+    - id: 5
+      name: witness_statement
+      label: Witness Statement
+      hint: Describe what the witness saw
+      type: select_multiple
+      options:
+      - Witness saw the incident
+      - Witness did not see the incident
+      - Other
+      required: true
+    - id: 6
+      name: incident_type
+      label: Incident Type
+      hint: Please select the type of incident that occurred.
+      type: select_one
+      options:
+      - Medical
+      - Security
+      - Crowd Control
+      - Other
+      required: true
+    - id: 7
+      name: incident_description
+      label: Incident Description
+      hint: Provide a detailed description of the incident.
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: incident_cause
+      label: Incident Cause
+      hint: Please indicate the cause of the incident.
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: incident_consequence
+      label: Incident Consequence
+      hint: Describe the consequences of the incident.
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: incident_resolution
+      label: Incident Resolution
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: incident_follow_up
+      label: Follow-up Information
+      hint: Is follow-up required?
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 12
+      name: incident_reporter
+      label: Incident Reporter
+      hint: Name of the reporter.
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: incident_reporter_email
+      label: Incident Reporter Email
+      hint: Email address of the reporter.
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: incident_reporter_phone
+      label: Incident Reporter Phone
+      hint: Phone number of the reporter.
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: incident_reporter_department
+      label: Incident Reporter Department
+      hint: Name of the department of the reporter.
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: incident_reporter_position
+      label: Incident Reporter Position
+      hint: Position of the reporter.
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: incident_reporter_supervisor
+      label: Incident Reporter Supervisor
+      hint: Name of the supervisor.
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: incident_reporter_supervisor_phone
+      label: Incident Reporter Supervisor Phone
+      hint: Phone number of the supervisor.
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: incident_reporter_supervisor_email
+      label: Incident Reporter Supervisor Email
+      hint: Email address of the supervisor.
+      type: email
+      options: []
+      required: true
+    - id: 20
+      name: incident_reporter_supervisor_department
+      label: Incident Reporter Supervisor Department
+      hint: Name of the supervisor department.
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: incident_reporter_supervisor_position
+      label: Incident Reporter Supervisor Position
+      hint: Position of the supervisor.
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: incident_other
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: incident_other_info
+      label: Additional Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: incident_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: incident_submit
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: true

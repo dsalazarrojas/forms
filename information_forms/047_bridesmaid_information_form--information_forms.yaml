@@ -1,0 +1,231 @@
+inputSchema:
+  type: object
+  properties:
+    title: Bridesmaid Information Form
+    pages:
+    - id: 1
+      name: bridesmaid_name
+      label: Bridesmaid Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email_address
+      label: Email Address
+      hint: Your contact email
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: phone_number
+      label: Phone Number
+      hint: Your contact phone
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: bride_name
+      label: Bride Name
+      hint: Name of the bride
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: role_in_party
+      label: Your Role in Bridal Party
+      hint: Your position
+      type: select_one
+      options:
+      - Maid of honor
+      - Bridesmaid
+      - Junior bridesmaid
+      - Matron of honor
+      - Other
+      required: true
+    - id: 6
+      name: relationship_to_bride
+      label: Your Relationship to the Bride
+      hint: How do you know each other
+      type: select_one
+      options:
+      - Best friend
+      - Close friend
+      - Sister
+      - Cousin
+      - College friend
+      - Coworker
+      - Other family
+      - Other
+      required: true
+    - id: 7
+      name: dress_size
+      label: Dress Size
+      hint: Your typical dress size
+      type: select_one
+      options:
+      - XS
+      - S
+      - M
+      - L
+      - XL
+      - 1X
+      - 2X
+      - 3X+
+      required: true
+    - id: 8
+      name: shoe_size
+      label: Shoe Size
+      hint: Your shoe size
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: height
+      label: Height
+      hint: Your approximate height
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: hair_color
+      label: Hair Color
+      hint: Your current hair color
+      type: select_one
+      options:
+      - Blonde
+      - Brown
+      - Black
+      - Red
+      - Gray
+      - Other
+      required: false
+    - id: 11
+      name: eye_color
+      label: Eye Color
+      hint: Your eye color
+      type: select_one
+      options:
+      - Blue
+      - Green
+      - Brown
+      - Hazel
+      - Other
+      required: false
+    - id: 12
+      name: skin_tone
+      label: Skin Tone
+      hint: For makeup coordination
+      type: select_one
+      options:
+      - Fair
+      - Light
+      - Medium
+      - Olive
+      - Tan
+      - Deep
+      - Very deep
+      required: false
+    - id: 13
+      name: dietary_restrictions
+      label: Dietary Restrictions
+      hint: Select any restrictions
+      type: select_multiple
+      options:
+      - Vegetarian
+      - Vegan
+      - Gluten-free
+      - Dairy-free
+      - Nut allergy
+      - Shellfish allergy
+      - Other allergy
+      - None
+      required: false
+    - id: 14
+      name: dietary_details
+      label: Detailed Dietary Needs
+      hint: Specify your restrictions
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: accessibility_needs
+      label: Accessibility or Mobility Needs
+      hint: Any special accommodations
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: jewelry_preference
+      label: Jewelry Preference
+      hint: What jewelry style do you prefer
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: makeup_preference
+      label: Makeup Preference
+      hint: Your makeup style
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: hair_style_preference
+      label: Hair Style Preference
+      hint: Your preferred hair style
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: wedding_events_attendance
+      label: Which Events Will You Attend
+      hint: Select events
+      type: select_multiple
+      options:
+      - Bridal shower
+      - Bachelorette party
+      - Rehearsal dinner
+      - Wedding ceremony
+      - Reception
+      - All events
+      required: true
+    - id: 20
+      name: help_willing_to_provide
+      label: Ways You Can Help
+      hint: Select your capabilities
+      type: select_multiple
+      options:
+      - Event planning
+      - Decorating
+      - Setup and breakdown
+      - Photography
+      - Running errands
+      - Speech or toast
+      - Emotional support
+      - Other
+      required: false
+    - id: 21
+      name: transportation
+      label: Transportation Needs
+      hint: Do you need transportation
+      type: select_one
+      options:
+      - No, I have transportation
+      - Yes, need ride
+      - Yes, can provide rides
+      - Maybe, will confirm later
+      required: false
+    - id: 22
+      name: budget_concerns
+      label: Budget Concerns
+      hint: Any financial constraints
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: questions_or_concerns
+      label: Questions or Concerns
+      hint: Anything you'd like to discuss
+      type: text
+      options: []
+      required: false

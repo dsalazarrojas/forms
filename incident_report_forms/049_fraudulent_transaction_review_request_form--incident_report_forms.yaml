@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fraudulent Transaction Review Request Form
+    pages:
+    - id: 1
+      name: transaction_details
+      label: Transaction Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: suspect_info
+      label: Suspect Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: transaction_amount
+      label: Transaction Amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: suspect_location
+      label: Suspect Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: suspect_phone
+      label: Suspect Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: suspect_email
+      label: Suspect Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: suspect_address
+      label: Suspect Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: suspiciousness_level
+      label: Suspiciousness Level
+      hint: Select a level of suspiciousness
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: false
+    - id: 9
+      name: transaction_date
+      label: Transaction Date
+      hint: Select date of transaction
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: report_by
+      label: Report By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: transaction_type
+      label: Transaction Type
+      hint: Select a transaction type
+      type: select_one
+      options:
+      - Debit
+      - Credit
+      - Prepaid
+      required: false
+    - id: 12
+      name: reason_for_suspiciousness
+      label: Reason For Suspiciousness
+      hint: Provide reason for suspiciousness
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: submitter
+      label: Submitter
+      hint: null
+      type: text
+      options: []
+      required: false

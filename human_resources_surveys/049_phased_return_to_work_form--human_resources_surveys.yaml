@@ -1,0 +1,170 @@
+inputSchema:
+  type: object
+  properties:
+    title: phased_return_to_work_form
+    pages:
+    - id: 1
+      name: phased_return_details
+      label: phased_return_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: expected_return_date
+      label: expected_return_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: return_status
+      label: return_status
+      hint: null
+      type: select_one
+      options:
+      - Active - No Restrictions
+      - Active - With Restrictions
+      - Active - Medical Leave
+      - Active - Family Leave
+      - Active - Other
+      - Inactive
+      required: true
+    - id: 4
+      name: work_status_update
+      label: work_status_update
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: manager_comments
+      label: manager_comments
+      hint: null
+      type: select_multiple
+      options:
+      - Manager - Active - No Restrictions
+      - Manager - Active - With Restrictions
+      - Manager - Active - Medical Leave
+      - Manager - Active - Family Leave
+      - Manager - Active - Other
+      - Manager - Inactive
+      required: true
+    - id: 7
+      name: manager_name
+      label: manager_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: team_lead_comments
+      label: team_lead_comments
+      hint: null
+      type: select_multiple
+      options:
+      - Team Lead - Active - No Restrictions
+      - Team Lead - Active - With Restrictions
+      - Team Lead - Active - Medical Leave
+      - Team Lead - Active - Family Leave
+      - Team Lead - Active - Other
+      - Team Lead - Inactive
+      required: true
+    - id: 9
+      name: team_lead_name
+      label: team_lead_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: return_date
+      label: return_date
+      hint: null
+      type: select_one
+      options:
+      - Immediately (No Notice)
+      - 1 week
+      - 2 weeks
+      - 3 weeks
+      - 4 weeks
+      - 5 weeks
+      - 6 weeks
+      - 7 weeks
+      - 8 weeks
+      - 9 weeks
+      - 10 weeks
+      required: true
+    - id: 11
+      name: notice_period
+      label: notice_period
+      hint: null
+      type: select_one
+      options:
+      - No notice
+      - 1 week
+      - 2 weeks
+      - 3 weeks
+      - 4 weeks
+      - 5 weeks
+      required: true
+    - id: 12
+      name: notice_period_end_date
+      label: notice_period_end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: notice_period_end_time
+      label: notice_period_end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: return_to_work_form
+      label: return_to_work_form
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 15
+      name: job_title
+      label: job_title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: department
+      label: department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: manager_email
+      label: manager_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 18
+      name: return_date_confirmed_by
+      label: return_date_confirmed_by
+      hint: null
+      type: select_one
+      options:
+      - Manager
+      - Team Lead
+      required: false

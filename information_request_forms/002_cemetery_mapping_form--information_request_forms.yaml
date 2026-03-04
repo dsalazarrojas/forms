@@ -1,0 +1,148 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cemetery Mapping Form
+    pages:
+    - id: 1
+      name: request_date
+      label: Request Date
+      hint: Date of information request
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: requester_name
+      label: Requester Name
+      hint: Full name of person requesting information
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: relationship_to_deceased
+      label: Relationship to Deceased
+      hint: Your relationship to the deceased individual
+      type: select_one
+      options:
+      - Spouse
+      - Child
+      - Parent
+      - Sibling
+      - Grandchild
+      - Other family member
+      - Legal representative
+      - Researcher
+      - Other
+      required: true
+    - id: 4
+      name: requester_email
+      label: Requester Email
+      hint: Email address for correspondence
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: requester_phone
+      label: Requester Phone
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: requester_address
+      label: Mailing Address
+      hint: Full mailing address for document delivery
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: deceased_full_name
+      label: Deceased Full Name
+      hint: Complete legal name of the deceased
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: deceased_date_of_birth
+      label: Deceased Date of Birth
+      hint: If known
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: deceased_date_of_death
+      label: Deceased Date of Death
+      hint: If known
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: burial_location_known
+      label: Is Burial Location Known
+      hint: Do you know the approximate burial area
+      type: select_one
+      options:
+      - Yes - Exact plot known
+      - Yes - Section known
+      - Approximate area only
+      - No - Need assistance locating
+      required: true
+    - id: 11
+      name: cemetery_section
+      label: Cemetery Section
+      hint: Section name or number if known
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: plot_number
+      label: Plot Number
+      hint: Plot or grave number if known
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: information_requested
+      label: Information Requested
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Burial plot location map
+      - Interment records
+      - Plot ownership documents
+      - Genealogy information
+      - Photograph of gravesite
+      - Monument inscription details
+      - Visitation directions
+      required: true
+    - id: 14
+      name: purpose_of_request
+      label: Purpose of Request
+      hint: Why are you requesting this information
+      type: select_one
+      options:
+      - Personal family records
+      - Genealogy research
+      - Legal documentation
+      - Memorial planning
+      - Historical research
+      - Estate administration
+      - Other
+      required: true
+    - id: 15
+      name: delivery_method
+      label: Preferred Delivery Method
+      hint: How would you like to receive the information
+      type: select_one
+      options:
+      - Email (digital copies)
+      - Postal mail (printed copies)
+      - In-person pickup
+      - Both email and mail
+      required: true
+    - id: 16
+      name: additional_details
+      label: Additional Details
+      hint: Any other information that may help locate the burial site
+      type: text
+      options: []
+      required: false

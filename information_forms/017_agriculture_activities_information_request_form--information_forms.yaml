@@ -1,0 +1,86 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Agriculture Activities Information Request Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Requester name
+      hint: Name of person requesting information
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: requester_organization
+      label: Requester organization
+      hint: Organization or department
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_email
+      label: Contact email
+      hint: Email for receiving requested information
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: activity_type
+      label: Activity type requested
+      hint: Crop, livestock, training, or other
+      type: select_one
+      options: [Crop production, Livestock, Training event, Input supply, Research]
+      required: true
+    - id: 5
+      name: geographic_scope
+      label: Geographic scope
+      hint: Area or districts covered by the request
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: time_frame
+      label: Time frame for information
+      hint: Dates or periods for requested data
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: purpose_of_request
+      label: Purpose of request
+      hint: Reason for collecting the information
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: data_format_preference
+      label: Preferred data format
+      hint: CSV, PDF, summary report, or other
+      type: select_one
+      options: [CSV, PDF, Summary report, Other]
+      required: false
+    - id: 9
+      name: urgency_level
+      label: Urgency level
+      hint: When the information is needed
+      type: select_one
+      options: [Low, Medium, High]
+      required: true
+    - id: 10
+      name: additional_notes
+      label: Additional notes
+      hint: Any other specifics to help fulfill the request
+      type: text
+      options: []
+      required: false

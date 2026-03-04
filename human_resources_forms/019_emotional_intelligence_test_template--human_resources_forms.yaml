@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Emotional Intelligence Test Template
+    pages:
+    - id: 1
+      name: introduction
+      label: Introduction
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: emotional_awareness
+      label: Emotional Awareness
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: recognition_of_emotions
+      label: Recognition of Emotions
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Anger''}'
+      - '{''label'': ''Fear''}'
+      - '{''label'': ''Happiness''}'
+      - '{''label'': ''Sadness''}'
+      - '{''label'': ''Surprise''}'
+      required: false
+    - id: 4
+      name: empathy
+      label: Empathy
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: open_ended_questions
+      label: Open Ended Questions
+      hint: Ask the respondent questions related to their feelings and behaviors
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: self_reporting
+      label: Self Reporting
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: behavioral_questions
+      label: Behavioral Questions
+      hint: Ask the respondent questions about their behavior
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: conclusion
+      label: Conclusion
+      hint: null
+      type: note
+      options: []
+      required: false

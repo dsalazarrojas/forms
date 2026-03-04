@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Engagement Platform Feedback Evaluation Form
+    pages:
+    - id: 1
+      name: feedback_score
+      label: Feedback score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: satisfaction
+      label: Satisfaction
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: engagement
+      label: Engagement
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: communication
+      label: Communication
+      hint: Be honest and clear in your answers
+      type: select_one
+      options:
+      - Very good
+      - Good
+      - Neutral
+      - Bad
+      - Very bad
+      required: false
+    - id: 5
+      name: feedback_questions
+      label: Feedback questions
+      hint: null
+      type: select_multiple
+      options:
+      - 'Q1: How do you feel about the overall company culture?'
+      - 'Q2: How do you rate the manager''s communication style?'
+      - 'Q3: How do you rate the company''s communication style?'
+      - 'Q4: How do you rate the company''s communication style?'
+      - 'Q5: How do you rate the company''s feedback style?'
+      - 'Q6: How do you rate the company''s feedback style?'
+      - 'Q7: How do you rate the company''s feedback style?'
+      - 'Q8: How do you rate the company''s feedback style?'
+      required: false
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false

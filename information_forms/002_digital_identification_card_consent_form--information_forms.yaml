@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Digital Identification Card Consent Form
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: consent
+      label: Consent
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': True}'
+      - '{''id'': 2, ''label'': False}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 3
+      name: photos
+      label: Photos
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: details
+      label: Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: signature
+      label: Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false

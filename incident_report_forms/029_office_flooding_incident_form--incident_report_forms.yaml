@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Office Flooding Incident Form
+    pages:
+    - id: 1
+      name: incident_date
+      label: incident date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: incident_time
+      label: incident time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: incident_location
+      label: incident location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: incident_description
+      label: incident description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: flood_level
+      label: flood level
+      hint: null
+      type: select_one
+      options:
+      - Water Level
+      - Floor Level
+      - Ceiling Level
+      required: false
+    - id: 6
+      name: flood_damage
+      label: flood damage
+      hint: null
+      type: select_multiple
+      options:
+      - Roof
+      - Walls
+      - Floor
+      - Ceiling
+      required: false
+    - id: 7
+      name: affected_employees
+      label: affected employees
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: affected_patrons
+      label: affected patrons
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: affected_customers
+      label: affected customers
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: incident_cost
+      label: incident cost
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: incident_type
+      label: incident type
+      hint: null
+      type: select_one
+      options:
+      - Water Damage
+      - Fire Damage
+      - Other
+      required: false
+    - id: 12
+      name: incident_cause
+      label: incident cause
+      hint: null
+      type: select_one
+      options:
+      - Human Error
+      - Weather
+      - Equipment
+      - Other
+      required: false
+    - id: 13
+      name: response_time
+      label: response time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 14
+      name: response_date
+      label: response date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: response_location
+      label: response location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: response_team
+      label: response team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: response_status
+      label: response status
+      hint: null
+      type: select_one
+      options:
+      - Successful
+      - Unsuccessful
+      - Pending
+      - Cancelled
+      required: false
+    - id: 18
+      name: response_details
+      label: response details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: incident_number
+      label: incident number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: incident_reported_by
+      label: incident reported by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: incident_reported_date
+      label: incident reported date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: incident_reported_time
+      label: incident reported time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 23
+      name: incident_reported_location
+      label: incident reported location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: incident_reporting_person
+      label: incident reporting person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: incident_reporting_contact
+      label: incident reporting contact
+      hint: null
+      type: text
+      options: []
+      required: false

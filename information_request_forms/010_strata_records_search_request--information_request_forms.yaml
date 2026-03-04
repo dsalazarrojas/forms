@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Strata Records Search Request
+    pages:
+    - id: 1
+      name: strata_search_request_form
+      label: Strata Search Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: strata_search_request_details
+      label: Strata Search Request Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: strata_search_request_date_range
+      label: Strata Search Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: strata_search_request_time_period
+      label: Strata Search Request Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: strata_documents_requested
+      label: Strata Documents Requested
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: strata_search_request_comments
+      label: Strata Search Request Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: strata_search_request_documents
+      label: Strata Search Request Documents
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: strata_search_request_email
+      label: Strata Search Request Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: strata_search_request_phone
+      label: Strata Search Request Phone
+      hint: null
+      type: text
+      options: []
+      required: false

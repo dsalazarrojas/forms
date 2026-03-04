@@ -1,0 +1,30 @@
+inputSchema:
+  type: object
+  properties:
+    title: Life Design Detailed Information
+    pages:
+    - id: 1
+      name: personal_assessment
+      label: Personal Assessment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: requirements_for_participating
+      label: Requirements For Participating
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: health_information
+      label: Health Information
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

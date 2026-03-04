@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: digital_ecosystem_strategy_contact_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: company
+      label: Company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - IT
+      - Marketing
+      - Sales
+      - Support
+      required: true
+    - id: 7
+      name: question
+      label: Question
+      hint: null
+      type: note
+      options: []
+      required: false

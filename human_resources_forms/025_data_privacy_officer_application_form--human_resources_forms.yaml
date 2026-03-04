@@ -1,0 +1,193 @@
+inputSchema:
+  type: object
+  properties:
+    title: data_privacy_officer_application_form
+    pages:
+    - id: 1
+      name: form_information
+      label: Form Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: experience
+      label: experience
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 6
+      name: resume
+      label: Resume
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: references
+      label: References
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: submit
+      label: Submit
+      hint: null
+      type: select_one
+      options:
+      - Submit
+      - Cancel
+      required: true
+    - id: 9
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: role
+      label: role
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: contact_number
+      label: Contact Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_info
+      label: Contact
+      hint: null
+      type: select_one
+      options:
+      - Contact
+      - Non Contact
+      required: true
+    - id: 13
+      name: availability
+      label: Availability
+      hint: null
+      type: select_multiple
+      options:
+      - Full Time
+      - Part-time
+      - Remote
+      required: true
+    - id: 14
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: job_location
+      label: Job Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: job_category
+      label: Job Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_one
+      options:
+      - Job
+      - Project
+      - Consultant
+      required: true
+    - id: 18
+      name: job_status
+      label: Job Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Retired
+      required: true
+    - id: 19
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: job_requirements
+      label: Job Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: job_start_date
+      label: Job Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 22
+      name: job_end_date
+      label: Job End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 23
+      name: job_hourly_rate
+      label: Job Hourly Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 24
+      name: job_annual_salary
+      label: Job Annual Salary
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: job_annual_bonus
+      label: Job Annual Bonus
+      hint: null
+      type: number
+      options: []
+      required: false

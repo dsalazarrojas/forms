@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: dental_office_incident_form
+    pages:
+    - id: 1
+      name: incident_type
+      label: incident_type
+      hint: null
+      type: select_one
+      options:
+      - incident_type_1
+      - incident_type_2
+      - incident_type_3
+      required: true
+    - id: 2
+      name: incident_date
+      label: incident_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: incident_time
+      label: incident_time
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 4
+      name: incident_description
+      label: incident_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: incident_location
+      label: incident_location
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: incident_injured
+      label: incident_injured
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: false
+    - id: 7
+      name: incident_reporter
+      label: incident_reporter
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: incident_escalate
+      label: incident_escalate
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: true
+    - id: 9
+      name: incident_note
+      label: incident_note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: incident_attachment
+      label: incident_attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: incident_email
+      label: incident_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: incident_phone
+      label: incident_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: incident_address
+      label: incident_address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: incident_city
+      label: incident_city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: incident_state
+      label: incident_state
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: incident_zip
+      label: incident_zip
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: incident_investigation
+      label: incident_investigation
+      hint: null
+      type: select_one
+      options:
+      - in_progress
+      - completed
+      - ongoing
+      required: true
+    - id: 18
+      name: incident_closed
+      label: incident_closed
+      hint: null
+      type: select_one
+      options:
+      - 'true'
+      - 'false'
+      required: true
+    - id: 19
+      name: incident_reopened
+      label: incident_reopened
+      hint: null
+      type: select_one
+      options:
+      - 'true'
+      - 'false'
+      required: true
+    - id: 20
+      name: incident_reopened_note
+      label: incident_reopened_note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: incident_reopened_reason
+      label: incident_reopened_reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: incident_cause
+      label: incident_cause
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: incident_preventative_measures
+      label: incident_preventative_measures
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: incident_reviewed
+      label: incident_reviewed
+      hint: null
+      type: select_one
+      options:
+      - 'yes'
+      - 'no'
+      required: true
+    - id: 25
+      name: incident_reviewed_note
+      label: incident_reviewed_note
+      hint: null
+      type: text
+      options: []
+      required: false

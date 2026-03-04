@@ -1,0 +1,78 @@
+inputSchema:
+  type: object
+  properties:
+    title: Agent Commission Form
+    pages:
+    - id: 1
+      name: payroll_info
+      label: -- Commission Payment --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: agent_name
+      label: Agent name
+      hint: Name for commission payment
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: Internal identifier if applicable
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: period_start
+      label: Commission period start
+      hint: Start date for commission calculation
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: period_end
+      label: Commission period end
+      hint: End date for commission calculation
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: gross_sales
+      label: Gross sales amount
+      hint: Total sales amount in currency
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: commission_rate
+      label: Commission rate percent
+      hint: Commission percentage applied
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: commission_amount
+      label: Commission amount
+      hint: Calculated commission payable
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: payment_method
+      label: Payment method
+      hint: How commission will be paid
+      type: select_one
+      options:
+      - Bank transfer
+      - Check
+      - Payroll
+      required: true
+    - id: 10
+      name: approver_name
+      label: Approver name
+      hint: Manager approving the commission
+      type: text
+      options: []
+      required: true

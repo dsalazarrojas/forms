@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Student Trip Flight Information
+    pages:
+    - id: 1
+      name: student_trip_flight_form
+      label: Student Trip Flight Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: student_flight_departure_airport
+      label: Student Flight Departure Airports
+      hint: List departure airport for each student
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 3
+      name: student_flight_arrival_airport
+      label: Student Flight Arrival Airports
+      hint: List arrival airport for each student
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 4
+      name: student_flight_departure_date
+      label: Student Flight Departure Date
+      hint: Date of student flight departure
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: student_flight_arrival_date
+      label: Student Flight Arrival Date
+      hint: Date of student flight arrival
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: student_flight_vehicle
+      label: Student Flight Vehicle
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: student_trip_leaving
+      label: Student Trip Leaving
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: student_trip_leaving
+      label: Student Trip Leaving
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: student_flight_vehicle
+      label: Student Flight Vehicle
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: student_trip_emergency_contact
+      label: Student Trip Emergency Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: student_emergency_name
+      label: Student Emergency Name
+      hint: Emergency contact name
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: student_emergency_phone
+      label: Student Emergency Phone
+      hint: Emergency contact phone number
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: student_emergency_email
+      label: Student Emergency Email
+      hint: Emergency contact email
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: student_trip_emergency_notes
+      label: Student Trip Emergency Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: student_trip_travel_agent
+      label: Student Trip Travel Agent
+      hint: null
+      type: text
+      options: []
+      required: false

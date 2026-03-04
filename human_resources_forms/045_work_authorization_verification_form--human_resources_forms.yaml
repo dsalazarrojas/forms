@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: Work Authorization Verification Form
+    pages:
+    - id: 1
+      name: work_authorization_verification_form
+      label: employee_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: employment_start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: employment_end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: reason_for_employment
+      label: reason_for_leaving
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: work_authorization_type
+      label: work_authorization_type
+      hint: null
+      type: select_one
+      options:
+      - Authorization for Work
+      - Other
+      required: false
+    - id: 6
+      name: employee_address
+      label: address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: employee_city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: employee_state
+      label: state
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: employee_country
+      label: country
+      hint: null
+      type: text
+      options: []
+      required: false

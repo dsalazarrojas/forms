@@ -1,0 +1,106 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: COVID 19 Public Survey Form
+    pages:
+      - id: 1
+        name: demographic_info
+        label: -- Demographic Information --
+        hint: null
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: age_group
+        label: Age group
+        hint: Select the range that applies
+        type: select_one
+        options:
+          - Under 18
+          - 18 to 34
+          - 35 to 54
+          - 55 and over
+        required: false
+      - id: 3
+        name: vaccination_status
+        label: Vaccination status
+        hint: Select vaccination status
+        type: select_one
+        options:
+          - Not vaccinated
+          - Partially vaccinated
+          - Fully vaccinated
+        required: true
+      - id: 4
+        name: attitudes_toward_vaccine
+        label: Attitudes toward vaccine
+        hint: Briefly describe views or concerns
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: willingness_to_return_to_work
+        label: Willingness to return to work
+        hint: Comfort level returning to workplace
+        type: select_one
+        options:
+          - Very comfortable
+          - Somewhat comfortable
+          - Not comfortable
+        required: false
+      - id: 6
+        name: information_sources
+        label: Sources of information
+        hint: Where respondents get COVID related information
+        type: select_multiple
+        options:
+          - News media
+          - Social media
+          - Healthcare providers
+          - Government websites
+        required: false
+      - id: 7
+        name: preferred_communication
+        label: Preferred communication channel
+        hint: How respondents prefer to receive updates
+        type: select_one
+        options:
+          - Email
+          - SMS
+          - Website
+          - Social media
+        required: false
+      - id: 8
+        name: additional_comments
+        label: Additional comments
+        hint: Any other feedback
+        type: text
+        options: []
+        required: false
+      - id: 9
+        name: survey_date
+        label: Survey date
+        hint: Date of completion
+        type: date
+        options: []
+        required: true
+      - id: 10
+        name: consent_for_research
+        label: Consent for research use
+        hint: Allow anonymized data to be used for research
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true

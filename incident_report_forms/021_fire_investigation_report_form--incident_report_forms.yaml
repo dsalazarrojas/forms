@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: fire_investigation_report_form
+    pages:
+    - id: 1
+      name: incident_location
+      label: Incident location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incident_date
+      label: Incident date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: incident_time
+      label: Incident time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: incident_description
+      label: Incident description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: fire_station
+      label: Fire station
+      hint: null
+      type: select_multiple
+      options:
+      - Station 1
+      - Station 2
+      - Station 3
+      - Station 4
+      - Station 5
+      - Station 6
+      - Station 7
+      required: true
+    - id: 6
+      name: investigator_name
+      label: Investigator name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: investigator_department
+      label: Investigator Department
+      hint: null
+      type: select_one
+      options:
+      - Fire Department
+      - Police Department
+      - EMS
+      required: true
+    - id: 8
+      name: witness_statement
+      label: Witness statement
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: witness_contact_info
+      label: Witness contact info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: witness_statements
+      label: Witness statements
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: incident_injuries
+      label: Incidents injuries
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: incident_damage
+      label: Incident damage
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: suspect_info
+      label: Suspect info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: suspect_description
+      label: Suspect description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: vehicle_info
+      label: Vehicle info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: vehicle_make
+      label: Vehicle make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: vehicle_model
+      label: Vehicle model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: vehicle_year
+      label: Vehicle year
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: vehicle_license
+      label: Vehicle license
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: witness_statements_2
+      label: Witness statements 2
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: suspect_vehicle
+      label: Suspect vehicle
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: suspect_vehicle_info
+      label: Suspect vehicle info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: suspect_vehicle_make
+      label: Suspect vehicle make
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: suspect_vehicle_model
+      label: Suspect vehicle model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: suspect_vehicle_year
+      label: Suspect vehicle year
+      hint: null
+      type: number
+      options: []
+      required: false

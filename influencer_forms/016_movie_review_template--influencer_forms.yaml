@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: movie_review_template
+    pages:
+    - id: 1
+      name: movie_title
+      label: Movie Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: movie_director
+      label: movie_director
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: movie_rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: review_body
+      label: Review Body
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: watch_time
+      label: Watch Time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: recommended
+      label: Recommended
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: watch_again
+      label: Watch Again
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: review_date
+      label: Review Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: user_rating
+      label: User Rating
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: movie_image
+      label: Movie Image
+      hint: null
+      type: text
+      options: []
+      required: false

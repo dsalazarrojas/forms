@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: driver_information_form
+    pages:
+    - id: 1
+      name: name
+      label: driver name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: address
+      label: driver address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: license_number
+      label: license number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: vehicle_details
+      label: vehicle details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: insurance_info
+      label: insurance info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: insurance_status
+      label: insurance status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 7
+      name: insurance_provider
+      label: insurance provider
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: insurance_provider_address
+      label: insurance provider address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: policy_number
+      label: policy number
+      hint: null
+      type: number
+      options: []
+      required: false

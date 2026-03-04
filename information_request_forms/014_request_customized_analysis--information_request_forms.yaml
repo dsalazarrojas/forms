@@ -1,0 +1,99 @@
+inputSchema:
+  type: object
+  properties:
+    title: Request Customized Analysis
+    pages:
+    - id: 1
+      name: project_requirements
+      label: Project requirements
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: team_leads
+      label: Team Lead
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: customer_name
+      label: customer_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: project_name
+      label: Project name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: expected_start_date
+      label: Expected start date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: expected_end_date
+      label: Expected end date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: project_budget
+      label: Project budget
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: priority_level
+      label: Priority level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 9
+      name: analysis_type
+      label: Analysis type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: project_manager
+      label: Project manager
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: customer_email
+      label: Customer email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: customer_phone
+      label: Customer phone
+      hint: null
+      type: text
+      options: []
+      required: false

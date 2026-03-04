@@ -1,0 +1,104 @@
+inputSchema:
+  type: object
+  properties:
+    title: online_debt_collection_placement_form
+    pages:
+    - id: 1
+      name: customer_info
+      label: Customer Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: debt_info
+      label: Debt Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: payment_terms
+      label: Payment Terms
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: collection_status
+      label: Collection Status
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: customer_name
+      label: Customer Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: debt_amount
+      label: Debt Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 8
+      name: contact_info
+      label: Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: payment_method
+      label: Payment Method
+      hint: null
+      type: select_multiple
+      options:
+      - Credit Card
+      - Cash
+      - Bank Draft
+      - Wire Transfer
+      - Check
+      required: false
+    - id: 10
+      name: payment_date
+      label: Payment Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: collection_notes
+      label: Collection Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: collection_agent
+      label: Collection Agent
+      hint: null
+      type: select_one
+      options:
+      - John Doe
+      - Jane Doe
+      - Bob Smith
+      required: false
+    - id: 13
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: true

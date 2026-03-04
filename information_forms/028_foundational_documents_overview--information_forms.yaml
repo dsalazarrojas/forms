@@ -1,0 +1,80 @@
+inputSchema:
+  type: object
+  properties:
+    title: Foundational Documents Overview
+    pages:
+    - id: 1
+      name: document_status
+      label: Document Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Draft
+      - Inactive
+      required: false
+    - id: 2
+      name: review_dates
+      label: Review Dates
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: document_copies
+      label: Document Copies
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: document_versions
+      label: Document Versions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: document_description
+      label: Document Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: document_author
+      label: Document Author
+      hint: null
+      type: select_one
+      options:
+      - User 1
+      - User 2
+      - User 3
+      required: false
+    - id: 7
+      name: document_date
+      label: Document Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: document_type
+      label: Document Type
+      hint: null
+      type: select_one
+      options:
+      - Document A
+      - Document B
+      - Document C
+      required: false
+    - id: 9
+      name: document_reviewer
+      label: Document Reviewer
+      hint: null
+      type: select_multiple
+      options:
+      - User 1
+      - User 2
+      - User 3
+      required: false

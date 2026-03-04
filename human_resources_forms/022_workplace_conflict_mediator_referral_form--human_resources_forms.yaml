@@ -1,0 +1,231 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Workplace Conflict Mediator Referral Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Human Resources''}'
+      - '{''id'': 2, ''label'': ''Management''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 3
+      name: conflict_type
+      label: Conflict Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Performance''}'
+      - '{''id'': 2, ''label'': ''Personal''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 4
+      name: description
+      label: Description
+      hint: A brief description of the conflict.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: employee_position
+      label: Employee Position
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Manager''}'
+      - '{''id'': 2, ''label'': ''Non-Manager''}'
+      required: false
+    - id: 6
+      name: employee_status
+      label: Employee Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Active''}'
+      - '{''id'': 2, ''label'': ''Retired''}'
+      - '{''id'': 3, ''label'': ''Other''}'
+      required: false
+    - id: 7
+      name: conflict_severity
+      label: Conflict Severity
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Minor''}'
+      - '{''id'': 2, ''label'': ''Moderate''}'
+      - '{''id'': 3, ''label'': ''Severe''}'
+      required: false
+    - id: 8
+      name: resolution_outcome
+      label: Resolution Outcome
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Success''}'
+      - '{''id'': 2, ''label'': ''Partial Success''}'
+      - '{''id'': 3, ''label'': ''None''}'
+      required: false
+    - id: 9
+      name: employee_supervisor
+      label: Employee Supervisor
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Manager''}'
+      - '{''id'': 2, ''label'': ''Other''}'
+      required: false
+    - id: 10
+      name: conflict_duration
+      label: Conflict Duration
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Less than a month''}'
+      - '{''id'': 2, ''label'': ''1-3 months''}'
+      - '{''id'': 3, ''label'': ''3-6 months''}'
+      - '{''id'': 4, ''label'': ''6+ months''}'
+      required: false
+    - id: 11
+      name: conflict_frequency
+      label: Conflict Frequency
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Single Incident''}'
+      - '{''id'': 2, ''label'': ''Recurring''}'
+      required: false
+    - id: 12
+      name: conflict_cause
+      label: Conflict Cause
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Communication Issues''}'
+      - '{''id'': 2, ''label'': ''Trust Issues''}'
+      - '{''id'': 3, ''label'': ''Performance Issues''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: false
+    - id: 13
+      name: mediation_services
+      label: Mediation Services
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Individual Coaching''}'
+      - '{''id'': 2, ''label'': ''Team Coaching''}'
+      - '{''id'': 3, ''label'': ''None''}'
+      required: false
+    - id: 14
+      name: employee_referral_date
+      label: Employee Referral Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: manager_referral_date
+      label: Manager Referral Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: conflict_resolution_date
+      label: Conflict Resolution Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: employee_comments
+      label: Employee Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: manager_comments
+      label: Manager Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: other_comments
+      label: Other Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Manager''}'
+      - '{''id'': 2, ''label'': ''Other''}'
+      required: false
+    - id: 21
+      name: submitted_by_manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submitted_by_department
+      label: Submitted Department
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Human Resources''}'
+      - '{''id'': 2, ''label'': ''Other''}'
+      required: false
+    - id: 23
+      name: submitted_by_position
+      label: Submitted By Position
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Manager''}'
+      - '{''id'': 2, ''label'': ''Other''}'
+      required: false
+    - id: 24
+      name: submitted_by_supervisor
+      label: Submitted By Supervisor
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''label'': ''Manager''}'
+      - '{''id'': 2, ''label'': ''Other''}'
+      required: false
+    - id: 25
+      name: submitted_by_employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,231 @@
+inputSchema:
+  type: object
+  properties:
+    title: Maladministration Reporting Form
+    pages:
+    - id: 1
+      name: incident_report
+      label: Incident Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: reporting_unit
+      label: Reporting Unit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: incident_status
+      label: Incident Status
+      hint: null
+      type: select_multiple
+      options:
+      - Pending
+      - In Progress
+      - Resolved
+      - Closed
+      required: false
+    - id: 8
+      name: incident_reporter
+      label: Incident Reporter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: incident_assignee
+      label: Incident Assignee
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: incident_priority
+      label: Incident Priority
+      hint: null
+      type: select_one
+      options:
+      - Low
+      - Medium
+      - High
+      required: true
+    - id: 11
+      name: incident_category
+      label: Incident Category
+      hint: null
+      type: select_one
+      options:
+      - General
+      - Security
+      - Technical
+      required: false
+    - id: 12
+      name: incident_comments
+      label: Incident Comments
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: reporting_unit_name
+      label: Reporting Unit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: reporting_unit_email
+      label: Reporting Unit Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: reporting_unit_phone
+      label: Reporting Unit Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: incident_attachment
+      label: Incident Attachment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: incident_attachment_description
+      label: Incident Attachment Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: incident_attachment_upload
+      label: Upload File
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: incident_attachment_filename
+      label: File Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: incident_attachment_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: incident_attachment_url
+      label: URL
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: incident_attachment_type
+      label: Attachment Type
+      hint: null
+      type: select_one
+      options:
+      - File
+      - URL
+      - Video
+      - Audio
+      required: false
+    - id: 23
+      name: incident_attachment_tags
+      label: Tags
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: incident_attachment_tags_description
+      label: Tags Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: incident_attachment_tags_tags
+      label: Tags
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 26
+      name: reporting_unit_organisation
+      label: Reporting Unit Organisation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: incident_attachment_tags_tags_organisation
+      label: Organisation
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 28
+      name: incident_attachment_tags_tags_organisation_description
+      label: Organisation Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 29
+      name: incident_attachment_tags_tags_organisation_email
+      label: Organisation Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 30
+      name: incident_attachment_tags_tags_organisation_phone
+      label: Organisation Phone
+      hint: null
+      type: text
+      options: []
+      required: true

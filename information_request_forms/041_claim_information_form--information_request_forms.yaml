@@ -1,0 +1,82 @@
+inputSchema:
+  type: object
+  properties:
+    title: Claim Information Form
+    pages:
+    - id: 1
+      name: requester_name
+      label: Requester name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: claim_reference
+      label: Claim reference number
+      hint: Internal claim ID
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: information_requested
+      label: Information requested
+      hint: Describe documents or data needed
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: purpose_of_request
+      label: Purpose of request
+      hint: Explain why information is needed
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: preferred_format
+      label: Preferred format for information
+      hint: PDF CSV hard copy
+      type: select_one
+      options:
+      - PDF
+      - CSV
+      - Hard copy
+      - Other
+      required: false
+    - id: 6
+      name: confidentiality_level
+      label: Confidentiality level required
+      hint: Public internal restricted
+      type: select_one
+      options:
+      - Public
+      - Internal
+      - Restricted
+      required: false
+    - id: 7
+      name: contact_email
+      label: Contact email for delivery
+      hint: Provide email
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: contact_phone
+      label: Contact phone
+      hint: Optional phone number
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: expected_by_date
+      label: Expected by date
+      hint: When you need the information
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: acknowledgement_note
+      label: Acknowledgement note
+      hint: Request will be processed according to policy
+      type: note
+      options: []
+      required: true

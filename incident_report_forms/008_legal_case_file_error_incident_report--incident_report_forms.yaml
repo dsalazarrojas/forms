@@ -1,0 +1,107 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Legal Case File Error Incident Report
+    pages:
+    - id: 1
+      name: user
+      label: user
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: case_file_status
+      label: case status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - Closed
+      - Held
+      - Held - Inactive
+      required: false
+    - id: 3
+      name: error_type
+      label: error type
+      hint: null
+      type: select_multiple
+      options:
+      - Error
+      - Warning
+      - Notice
+      required: false
+    - id: 4
+      name: error_description
+      label: error description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: corrective_action
+      label: corrective action
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: reported_by
+      label: reported by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 9
+      name: incident_date
+      label: incident date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: location
+      label: location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: form_submitter
+      label: form submitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: form_submitted
+      label: form submitted
+      hint: null
+      type: date
+      options: []
+      required: false

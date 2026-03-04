@@ -1,0 +1,89 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Empowerment Evaluation Survey
+    pages:
+    - id: 1
+      name: employee_empowerment_evaluation_survey_1
+      label: What do you value most about your role
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: communication_level
+      label: level_of_communication
+      hint: null
+      type: select_one
+      options:
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 3
+      name: employee_ambassadors
+      label: employee_ambassadors
+      hint: null
+      type: select_multiple
+      options:
+      - Manager
+      - HR
+      required: false
+    - id: 4
+      name: feedback_frequency
+      label: feedback_frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Monthly
+      required: false
+    - id: 5
+      name: job_satisfaction
+      label: overall_job_satisfaction
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: true
+    - id: 6
+      name: empowerment_level
+      label: level_of_empowerment
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Medium
+      - Low
+      required: false
+    - id: 7
+      name: suggestions
+      label: suggestions
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: open_feedback
+      label: open_feedback
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 10
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: false

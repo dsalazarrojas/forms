@@ -1,0 +1,112 @@
+inputSchema:
+  type: object
+  properties:
+    title: jcg_step_one_review_goal_builder
+    pages:
+    - id: 1
+      name: review_goal
+      label: Review Goal
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: review_category
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - Goal Type
+      - Goal
+      - Objective
+      - Target
+      required: true
+    - id: 3
+      name: review_subcategory
+      label: Subcategory
+      hint: null
+      type: select_multiple
+      options:
+      - Category 1
+      - Category 2
+      - Category 3
+      required: false
+    - id: 4
+      name: review_description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: review_start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: review_end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: review_status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 8
+      name: review_comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: review_reviewer
+      label: Reviewer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: review_rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: review_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: review_email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: review_phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: review_attachment
+      label: Attachment
+      hint: null
+      type: text
+      options: []
+      required: false

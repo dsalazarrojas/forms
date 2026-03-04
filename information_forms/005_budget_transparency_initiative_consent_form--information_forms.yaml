@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Budget Transparency Initiative Consent Form
+    pages:
+    - id: 1
+      name: organization_name
+      label: Organization Name
+      hint: Full legal name of organization
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_person
+      label: Contact Person Name
+      hint: Primary contact for this initiative
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: contact_title
+      label: Contact Person Title
+      hint: Job title or position
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Official organization email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: Direct contact number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: organization_type
+      label: Organization Type
+      hint: Type of organization
+      type: select_one
+      options:
+      - Government Agency
+      - Non-Profit Organization
+      - Educational Institution
+      - Healthcare Organization
+      - Private Corporation
+      - Community Group
+      - Other
+      required: true
+    - id: 7
+      name: fiscal_year
+      label: Fiscal Year
+      hint: Applicable fiscal year for transparency
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: budget_scope
+      label: Budget Scope
+      hint: What budget information will be shared
+      type: select_one
+      options:
+      - Full Organizational Budget
+      - Department-Specific Budget
+      - Project-Specific Budget
+      - Program-Specific Budget
+      - Partial Budget Disclosure
+      required: true
+    - id: 9
+      name: data_sharing_level
+      label: Data Sharing Level
+      hint: Level of detail to be shared
+      type: select_one
+      options:
+      - Public - Fully Accessible
+      - Restricted - Member Access Only
+      - Confidential - Stakeholders Only
+      - Internal - Staff Only
+      required: true
+    - id: 10
+      name: information_categories
+      label: Information Categories to Share
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Revenue Sources
+      - Expenditure Breakdown
+      - Personnel Costs
+      - Operational Expenses
+      - Capital Expenditures
+      - Grant Allocations
+      - Contract Information
+      - Financial Reports
+      required: true
+    - id: 11
+      name: publication_methods
+      label: Publication Methods
+      hint: How will information be published
+      type: select_multiple
+      options:
+      - Organization Website
+      - Public Portal
+      - Printed Reports
+      - Public Meetings
+      - Email Distribution
+      - Social Media
+      - Press Releases
+      required: true
+    - id: 12
+      name: consent_purpose
+      label: Purpose of Consent
+      hint: Primary purpose for transparency initiative
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: stakeholder_notification
+      label: Stakeholder Notification
+      hint: Have stakeholders been notified
+      type: select_one
+      options:
+      - Yes - All Notified
+      - Yes - Key Stakeholders Notified
+      - In Progress
+      - Not Yet Started
+      required: true
+    - id: 14
+      name: legal_review
+      label: Legal Review Status
+      hint: Has this been reviewed legally
+      type: select_one
+      options:
+      - Yes - Approved
+      - Yes - Pending Minor Revisions
+      - In Review
+      - Not Yet Reviewed
+      required: true
+    - id: 15
+      name: data_protection_compliance
+      label: Data Protection Compliance
+      hint: Compliance with data protection regulations
+      type: select_one
+      options:
+      - Fully Compliant
+      - Partially Compliant
+      - Working Toward Compliance
+      - Not Applicable
+      required: true
+    - id: 16
+      name: consent_duration
+      label: Consent Duration
+      hint: How long will this consent remain active
+      type: select_one
+      options:
+      - One Year
+      - Two Years
+      - Three Years
+      - Indefinite Until Revoked
+      - Project Duration Only
+      required: true
+    - id: 17
+      name: authorized_signature
+      label: Authorization Confirmation
+      hint: I am authorized to provide this consent
+      type: select_one
+      options:
+      - Yes - I Am Authorized
+      - No - I Am Not Authorized
+      required: true
+    - id: 18
+      name: consent_date
+      label: Consent Date
+      hint: Date of consent
+      type: date
+      options: []
+      required: true
+    - id: 19
+      name: additional_requirements
+      label: Additional Requirements or Conditions
+      hint: Any special conditions for this consent
+      type: text
+      options: []
+      required: false

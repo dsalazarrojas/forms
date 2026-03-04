@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cybersecurity Alert Release Form
+    pages:
+    - id: 1
+      name: incident_type
+      label: Incident type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Network''}'
+      - '{''id'': 2, ''label'': ''System''}'
+      - '{''id'': 3, ''label'': ''Application''}'
+      - '{''id'': 4, ''label'': ''Other''}'
+      required: false
+    - id: 2
+      name: incident_date
+      label: Incident date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: incident_time
+      label: Incident time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: incident_summary
+      label: Incident summary
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: incident_details
+      label: Incident details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: affected_assets
+      label: Affected assets
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: incident_impact
+      label: Incident impact
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: incident_severity
+      label: Incident severity
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Low''}'
+      - '{''id'': 2, ''label'': ''Medium''}'
+      - '{''id'': 3, ''label'': ''High''}'
+      - '{''id'': 4, ''label'': ''Critical''}'
+      required: false
+    - id: 9
+      name: incident_status
+      label: Incident status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: assigned_team
+      label: Assigned team
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: priority_level
+      label: Priority level
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      required: false
+    - id: 12
+      name: incident_reporter
+      label: Incident reporter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: reporter_notes
+      label: Reporter notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: team_response_time
+      label: Team response time
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: team_response_status
+      label: Team response status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 16
+      name: stakeholder_notes
+      label: Stakeholder notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: notes
+      label: Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: submit_button
+      label: Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: save_draft
+      label: Save draft
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: cancel_button
+      label: Cancel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: back_button
+      label: Back
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: next_button
+      label: Next
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: save_and_submit
+      label: Save and Submit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: save_and_back
+      label: Save and Back
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: save_and_next
+      label: Save and Next
+      hint: null
+      type: text
+      options: []
+      required: false

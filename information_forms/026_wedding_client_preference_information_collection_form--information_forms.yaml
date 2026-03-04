@@ -1,0 +1,204 @@
+inputSchema:
+  type: object
+  properties:
+    title: Wedding Client Preference Information Collection Form
+    pages:
+    - id: 1
+      name: wedding_client_preference_information_collection_form
+      label: Wedding Planning Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: wedding_client_name
+      label: wedding_client_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: wedding_client_email
+      label: wedding_client_email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: wedding_client_phone
+      label: wedding_client_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: wedding_planner
+      label: wedding_planner
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: wedding_vendor
+      label: wedding_vendor
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: wedding_guest_count
+      label: wedding_guest_count
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: wedding_client_diet
+      label: wedding_client_diet
+      hint: null
+      type: select_one
+      options:
+      - vegetarian
+      - vegan
+      - gluten_free
+      - dairy_free
+      required: true
+    - id: 9
+      name: wedding_client_diet_other
+      label: wedding_client_diet_other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: wedding_client_special_requests
+      label: wedding_client_special_requests
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: wedding_client_notes
+      label: wedding_client_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: wedding_planner_notes
+      label: wedding_planner_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: wedding_vendor_notes
+      label: wedding_vendor_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: wedding_dietary_requirements
+      label: wedding_dietary_requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: wedding_client_wants
+      label: wedding_client_wants
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: wedding_client_doesnt_wants
+      label: wedding_client_doesnt_wants
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: wedding_planner_wants
+      label: wedding_planner_wants
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: wedding_vendor_wants
+      label: wedding_vendor_wants
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: wedding_client_has_children
+      label: wedding_client_has_children
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 20
+      name: wedding_client_is_venue_owner
+      label: wedding_client_is_venue_owner
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 21
+      name: wedding_client_wedding_theme
+      label: wedding_client_wedding_theme
+      hint: null
+      type: select_multiple
+      options:
+      - classic
+      - rustic
+      - beach
+      - nautical
+      - vintage
+      - modern
+      - garden_party
+      required: true
+    - id: 22
+      name: wedding_client_budget_range
+      label: wedding_client_budget_range
+      hint: null
+      type: select_multiple
+      options:
+      - 1000_to_3000
+      - 3000_to_6000
+      - 6000_to_10000
+      required: true
+    - id: 23
+      name: wedding_client_has_pet
+      label: wedding_client_has_pet
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 24
+      name: wedding_planner_is_venue_owner
+      label: wedding_planner_is_venue_owner
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 25
+      name: wedding_vendor_is_venue_owner
+      label: wedding_vendor_is_venue_owner
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true

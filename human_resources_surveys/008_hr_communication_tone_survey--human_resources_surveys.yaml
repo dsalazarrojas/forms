@@ -1,0 +1,102 @@
+inputSchema:
+  type: object
+  properties:
+    title: HR Communication Tone Survey
+    pages:
+    - id: 1
+      name: employee_satisfaction
+      label: Employee Satisfaction
+      hint: null
+      type: select_multiple
+      options:
+      - Very High
+      - High
+      - Medium
+      - Low
+      - Very Low
+      required: false
+    - id: 2
+      name: tone_perceived
+      label: Tone Perceived
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: suggested_areas
+      label: Suggested Areas
+      hint: Please provide suggestions for areas that can be improved
+      type: select_one
+      options:
+      - Communication style and clarity
+      - Tone and language
+      - Frequency of communication
+      - Other
+      required: false
+    - id: 4
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email_input
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone_input
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: note_input
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: category_selection
+      label: Category
+      hint: null
+      type: select_one
+      options:
+      - HR
+      - Leadership
+      - Department
+      - Other
+      required: false
+    - id: 9
+      name: date_input
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: time_input
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: other_input
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: other_input_2
+      label: Other 2
+      hint: null
+      type: text
+      options: []
+      required: false

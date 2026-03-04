@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee File Access Request Form
+    pages:
+    - id: 1
+      name: employee_number
+      label: Employee Number
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - Accounting and Finance
+      - Human Resources
+      - Operations
+      - Engineering
+      - Sales and Marketing
+      required: false
+    - id: 5
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: file_number
+      label: File Number
+      hint: null
+      type: number
+      options: []
+      required: false

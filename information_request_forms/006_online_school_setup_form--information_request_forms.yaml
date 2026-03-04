@@ -1,0 +1,196 @@
+inputSchema:
+  type: object
+  properties:
+    title: Online School Setup Form
+    pages:
+    - id: 1
+      name: school_name
+      label: School Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: school_type
+      label: School Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Public'', ''label'': ''Public''}'
+      - '{''id'': 2, ''name'': ''Private'', ''label'': ''Private''}'
+      - '{''id'': 3, ''name'': ''Both'', ''label'': ''Both''}'
+      - '{''id'': 4, ''name'': ''Other'', ''label'': ''Other''}'
+      required: false
+    - id: 6
+      name: school_level
+      label: School Level
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Primary'', ''label'': ''Primary''}'
+      - '{''id'': 2, ''name'': ''Secondary'', ''label'': ''Secondary''}'
+      - '{''id'': 3, ''name'': ''Tertiary'', ''label'': ''Tertiary''}'
+      required: false
+    - id: 7
+      name: school_address
+      label: School Address
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: launch_date
+      label: Launch Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: description
+      label: Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: school_status
+      label: School Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Active'', ''label'': ''Active''}'
+      - '{''id'': 2, ''name'': ''Inactive'', ''label'': ''Inactive''}'
+      required: false
+    - id: 12
+      name: school_url
+      label: School URL
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: school_facebook
+      label: School Facebook
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: school_twitter
+      label: School Twitter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: school_instagram
+      label: School Instagram
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: school_youtube
+      label: School YouTube
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: school_linkedin
+      label: School LinkedIn
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: school_website
+      label: School Website
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: school_email
+      label: School Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: school_phone
+      label: School Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: school_fax
+      label: School Fax
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: school_other_contact
+      label: Other Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: school_other_contact_info
+      label: Other Contact Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: school_comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 25
+      name: school_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: school_attachments
+      label: Attachments
+      hint: null
+      type: note
+      options: []
+      required: false

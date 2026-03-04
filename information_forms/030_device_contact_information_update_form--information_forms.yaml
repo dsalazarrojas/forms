@@ -1,0 +1,74 @@
+inputSchema:
+  type: object
+  properties:
+    title: Device Contact Information Update Form
+    pages:
+    - id: 1
+      name: device_contact_info
+      label: Device Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: device_identifiers
+      label: Device Identifiers
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: contact_person
+      label: Contact Person
+      hint: Enter the contact person
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: device_type
+      label: Device Type
+      hint: null
+      type: select_one
+      options:
+      - Desktop
+      - Laptop
+      - Tablet
+      - Server
+      - Printer
+      - Other
+      required: false

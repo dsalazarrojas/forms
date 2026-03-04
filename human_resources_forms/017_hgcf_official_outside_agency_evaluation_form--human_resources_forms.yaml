@@ -1,0 +1,177 @@
+inputSchema:
+  type: object
+  properties:
+    title: HGCF Official Outside Agency Evaluation Form
+    pages:
+    - id: 1
+      name: referral_source
+      label: Referral Source
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: collaborator_agency
+      label: Collaborator Agency
+      hint: null
+      type: select_one
+      options:
+      - Collaborator
+      - Partner
+      - Other
+      - None
+      required: false
+    - id: 3
+      name: evaluation_date
+      label: Evaluation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: start_time
+      label: Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: duration
+      label: Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: note
+      label: Note
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: collaborator_phone
+      label: Collaborator Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: collaborator_email
+      label: Collaborator Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: collaborator_name
+      label: Collaborator Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: collaborator_agency_other
+      label: Collaborator Agency Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: collaborator_agency_none
+      label: Collaborator Agency None
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Other
+      required: false
+    - id: 15
+      name: collaborator_relationship
+      label: Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: collaborator_relationship_other
+      label: Relationship Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: collaborator_relationship_none
+      label: Relationship None
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Other
+      required: false
+    - id: 18
+      name: evaluation_method
+      label: Evaluation Method
+      hint: null
+      type: select_one
+      options:
+      - Phone
+      - Video
+      - In-Person
+      - Other
+      required: false
+    - id: 19
+      name: evaluation_outcome
+      label: Evaluation Outcome
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: collaborator_agency
+      label: Collaborator Agency
+      hint: null
+      type: select_multiple
+      options:
+      - Collaborator
+      - Partner
+      - Other
+      - None
+      required: false
+    - id: 21
+      name: collaborator_agency_other
+      label: Collaborator Agency Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: collaborator_agency_none
+      label: Collaborator Agency None
+      hint: null
+      type: select_one
+      options:
+      - None
+      - Other
+      required: false

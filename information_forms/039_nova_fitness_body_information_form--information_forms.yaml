@@ -1,0 +1,115 @@
+inputSchema:
+  type: object
+  properties:
+    title: nova_fitness_body_information_form
+    pages:
+    - id: 1
+      name: form_header
+      label: Form
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: height
+      label: height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: weight
+      label: weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: age
+      label: age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: height_unit
+      label: height_unit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 6
+      name: weight_unit
+      label: weight_unit
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 7
+      name: activity_level
+      label: activity_level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: true
+    - id: 8
+      name: preferred_workout_frequency
+      label: preferred_workout_frequency
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 9
+      name: preferred_workout_duration
+      label: preferred_workout_duration
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 10
+      name: preferred_workout_style
+      label: preferred_workout_style
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: other_workout_style
+      label: other_workout_style
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: height
+      label: height
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: weight
+      label: weight
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: other
+      label: other
+      hint: null
+      type: text
+      options: []
+      required: false

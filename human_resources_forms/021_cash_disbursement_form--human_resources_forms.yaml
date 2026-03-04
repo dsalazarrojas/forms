@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Cash Disbursement Form
+    pages:
+    - id: 1
+      name: form_information_section
+      label: -- Form Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: disbursement_date
+      label: Disbursement Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: form_number
+      label: Form Number
+      hint: Reference number for this disbursement
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: organization_info_section
+      label: -- Organization Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: organization_name
+      label: Organization Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: organization_address
+      label: Organization Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: payee_information_section
+      label: -- Payee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: payee_name
+      label: Payee Name
+      hint: Person or entity receiving payment
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: payee_type
+      label: Payee Type
+      hint: null
+      type: select_one
+      options:
+      - Employee
+      - Vendor
+      - Contractor
+      - Individual
+      - Organization
+      - Other
+      required: true
+    - id: 10
+      name: payee_address
+      label: Payee Address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: payee_phone
+      label: Payee Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: payee_tax_id
+      label: Tax ID or SSN
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: payment_details_section
+      label: -- Payment Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: amount_words
+      label: Amount in Words
+      hint: Spell out the payment amount
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: amount_numbers
+      label: Amount in Numbers
+      hint: Dollar amount
+      type: number
+      options: []
+      required: true
+    - id: 16
+      name: payment_method
+      label: Method of Payment
+      hint: null
+      type: select_one
+      options:
+      - Check
+      - Cash
+      - Wire Transfer
+      - ACH Transfer
+      - Credit Card
+      - Other
+      required: true
+    - id: 17
+      name: check_number
+      label: Check Number (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: purpose_section
+      label: -- Purpose of Disbursement --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: disbursement_purpose
+      label: Purpose of Disbursement
+      hint: Select category
+      type: select_one
+      options:
+      - Employee Salary or Wages
+      - Expense Reimbursement
+      - Vendor Payment
+      - Loan Disbursement
+      - Charitable Donation
+      - Dividend Payment
+      - Tax Payment
+      - Other
+      required: true
+    - id: 20
+      name: description
+      label: Detailed Description
+      hint: Explain reason for payment
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: account_section
+      label: -- Account Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: account_code
+      label: Account Code or Cost Center
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 23
+      name: budget_approval_section
+      label: -- Approval Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: approved_by
+      label: Approved By
+      hint: Name and signature authority
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: approval_date
+      label: Approval Date
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true

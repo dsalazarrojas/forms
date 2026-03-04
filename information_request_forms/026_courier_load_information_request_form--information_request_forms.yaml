@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: Courier Load Information Request Form
+    pages:
+    - id: 1
+      name: load_information_request
+      label: Load Information Request
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: pickup_location
+      label: pickup_location
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''New York''}'
+      - '{''value'': ''Chicago''}'
+      - '{''value'': ''Los Angeles''}'
+      - '{''value'': ''San Francisco''}'
+      required: false
+    - id: 3
+      name: dropoff_city
+      label: dropoff_city
+      hint: null
+      type: select_multiple
+      options:
+      - New York
+      - Chicago
+      - Los Angeles
+      - San Francisco
+      required: false
+    - id: 4
+      name: load_type
+      label: load_type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''General''}'
+      - '{''value'': ''Express''}'
+      - '{''value'': ''Local''}'
+      - '{''value'': ''Intermodal''}'
+      required: false
+    - id: 5
+      name: pickup_date
+      label: pickup_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: load_weight
+      label: load_weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: load_size
+      label: load_size
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: load_description
+      label: load_description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: load_details
+      label: load_details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_info
+      label: additional_info
+      hint: null
+      type: text
+      options: []
+      required: false

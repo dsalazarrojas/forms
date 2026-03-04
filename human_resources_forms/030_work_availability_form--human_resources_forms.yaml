@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Work Availability Form
+    pages:
+    - id: 1
+      name: employee
+      label: employee
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: work_availability
+      label: work availability
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: hours_per_week
+      label: hours per week
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: work_availability_details
+      label: work availability details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: manager_concurrence
+      label: manager concurrence
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''manager1'', ''label'': ''Manager 1''}'
+      - '{''id'': 2, ''name'': ''manager2'', ''label'': ''Manager 2''}'
+      - '{''id'': 3, ''name'': ''manager3'', ''label'': ''Manager 3''}'
+      required: false
+    - id: 6
+      name: manager_comments
+      label: manager comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: employee_concurrence
+      label: employee concurrence
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''manager1'', ''label'': ''Manager 1''}'
+      - '{''id'': 2, ''name'': ''manager2'', ''label'': ''Manager 2''}'
+      - '{''id'': 3, ''name'': ''manager3'', ''label'': ''Manager 3''}'
+      required: false
+    - id: 8
+      name: employee_comments
+      label: employee comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: manager_approval
+      label: manager approval
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''approved'', ''label'': ''Approved''}'
+      - '{''id'': 2, ''name'': ''not_approved'', ''label'': ''Not Approved''}'
+      required: false
+    - id: 10
+      name: manager_comment
+      label: manager comment
+      hint: null
+      type: text
+      options: []
+      required: false

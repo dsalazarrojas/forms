@@ -1,0 +1,110 @@
+inputSchema:
+  type: object
+  properties:
+    title: Opportunity Request Form (requesting A Job To Be Posted)
+    pages:
+    - id: 1
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Full-Time''}'
+      - '{''id'': 2, ''name'': ''Part-Time''}'
+      - '{''id'': 3, ''name'': ''Contract''}'
+      - '{''id'': 4, ''name'': ''Temporary''}'
+      required: false
+    - id: 4
+      name: job_requirements
+      label: Job Requirements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: contact_person
+      label: Contact Person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''HR''}'
+      - '{''id'': 2, ''name'': ''Operations''}'
+      - '{''id'': 3, ''name'': ''Engineering''}'
+      - '{''id'': 4, ''name'': ''Finance''}'
+      required: false
+    - id: 7
+      name: job_posting_date
+      label: Job Posting Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: job_close_date
+      label: Job Close Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 9
+      name: work_location
+      label: Work Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: work_hours
+      label: Work Hours
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''8-5''}'
+      - '{''id'': 2, ''name'': ''10-7''}'
+      - '{''id'': 3, ''name'': ''Flexible''}'
+      required: false
+    - id: 11
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Email''}'
+      - '{''id'': 2, ''name'': ''Phone''}'
+      - '{''id'': 3, ''name'': ''Phone and Email''}'
+      required: false
+    - id: 12
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false

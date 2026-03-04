@@ -1,0 +1,268 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Caregiver Interview Form
+    pages:
+      - id: 1
+        name: interview_date
+        label: Interview Date
+        hint: null
+        type: date
+        options: []
+        required: true
+      - id: 2
+        name: interview_time
+        label: Interview Time
+        hint: null
+        type: time
+        options: []
+        required: true
+      - id: 3
+        name: candidate_name
+        label: Candidate Name
+        hint: Full name of applicant
+        type: text
+        options: []
+        required: true
+      - id: 4
+        name: position_applied
+        label: Position Applied For
+        hint: Job title or role
+        type: text
+        options: []
+        required: true
+      - id: 5
+        name: interviewer_name
+        label: Interviewer Name
+        hint: Full name of person conducting interview
+        type: text
+        options: []
+        required: true
+      - id: 6
+        name: interviewer_title
+        label: Interviewer Title or Role
+        hint: HR manager, supervisor, etc.
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: interview_location
+        label: Interview Location
+        hint: Where interview took place
+        type: text
+        options: []
+        required: true
+      - id: 8
+        name: interview_format
+        label: Interview Format
+        hint: In-person, phone, video, etc.
+        type: select_one
+        options:
+          - In-person
+          - Phone interview
+          - Video conference
+          - Other
+        required: true
+      - id: 9
+        name: candidate_appearance
+        label: Professional Appearance
+        hint: Rate candidate's appearance and attire
+        type: select_one
+        options:
+          - Excellent - very professional
+          - Good - appropriately dressed
+          - Acceptable - reasonably professional
+          - Fair - could be more professional
+          - Poor - unprofessional appearance
+        required: true
+      - id: 10
+        name: communication_skills
+        label: Communication and Listening Skills
+        hint: Ability to communicate effectively
+        type: select_one
+        options:
+          - Excellent - very articulate and attentive
+          - Good - communicates clearly
+          - Acceptable - adequate communication
+          - Fair - some communication challenges
+          - Poor - difficulty communicating
+        required: true
+      - id: 11
+        name: motivation_interest
+        label: Motivation and Interest in Role
+        hint: Genuine interest in caregiving position?
+        type: select_one
+        options:
+          - Excellent - very enthusiastic
+          - Good - clearly interested
+          - Acceptable - seems interested
+          - Fair - marginal interest
+          - Poor - little genuine interest
+        required: true
+      - id: 12
+        name: experience_qualifications
+        label: Experience and Qualifications
+        hint: Meets job requirements?
+        type: select_one
+        options:
+          - Excellent - exceeds requirements
+          - Good - meets all requirements
+          - Acceptable - meets most requirements
+          - Fair - missing some requirements
+          - Poor - lacks necessary qualifications
+        required: true
+      - id: 13
+        name: caregiving_experience
+        label: Caregiving Experience Assessment
+        hint: Quality and relevance of experience
+        type: text
+        options: []
+        required: false
+      - id: 14
+        name: technical_skills
+        label: Technical or Job-Specific Skills
+        hint: Proficiency in required skills
+        type: text
+        options: []
+        required: false
+      - id: 15
+        name: strength_areas
+        label: Candidate Strengths
+        hint: Key positive attributes noted
+        type: text
+        options: []
+        required: false
+      - id: 16
+        name: concern_areas
+        label: Areas of Concern
+        hint: Any red flags or concerns
+        type: text
+        options: []
+        required: false
+      - id: 17
+        name: reliability_trustworthiness
+        label: Impression of Reliability and Trustworthiness
+        hint: Can this person be trusted?
+        type: select_one
+        options:
+          - Excellent - very trustworthy
+          - Good - appears reliable
+          - Acceptable - seems dependable
+          - Fair - some concerns
+          - Poor - significant trustworthiness concerns
+        required: true
+      - id: 18
+        name: interpersonal_skills
+        label: Interpersonal and People Skills
+        hint: Ability to work with people
+        type: select_one
+        options:
+          - Excellent - excellent people skills
+          - Good - good interpersonal skills
+          - Acceptable - adequate skills
+          - Fair - some social challenges
+          - Poor - difficulty with people skills
+        required: true
+      - id: 19
+        name: problem_solving
+        label: Problem-Solving Ability
+        hint: Can handle challenges?
+        type: select_one
+        options:
+          - Excellent - strong problem-solver
+          - Good - good problem-solving
+          - Acceptable - adequate approach
+          - Fair - limited problem-solving
+          - Poor - difficulty problem-solving
+        required: true
+      - id: 20
+        name: flexibility_adaptability
+        label: Flexibility and Adaptability
+        hint: Can adapt to changing situations?
+        type: select_one
+        options:
+          - Excellent - very flexible
+          - Good - adaptable
+          - Acceptable - somewhat flexible
+          - Fair - limited flexibility
+          - Poor - rigid or inflexible
+        required: true
+      - id: 21
+        name: patience_compassion
+        label: Patience and Compassion
+        hint: Critical for caregiving role
+        type: select_one
+        options:
+          - Excellent - very patient and compassionate
+          - Good - patient and caring
+          - Acceptable - shows some patience
+          - Fair - limited patience
+          - Poor - lacks patience or compassion
+        required: true
+      - id: 22
+        name: references_checked
+        label: References Checked
+        hint: Have references been verified?
+        type: select_one
+        options:
+          - "Yes - all checked"
+          - "Yes - some checked"
+          - "No - pending reference check"
+          - "Candidate declined to provide"
+        required: false
+      - id: 23
+        name: reference_feedback
+        label: Reference Feedback Summary
+        hint: What did references say?
+        type: text
+        options: []
+        required: false
+      - id: 24
+        name: background_check_status
+        label: Background Check Status
+        hint: null
+        type: select_one
+        options:
+          - Cleared - no issues
+          - Pending - awaiting results
+          - Conditional - minor issues
+          - Failed - did not clear
+          - Not yet initiated
+        required: false
+      - id: 25
+        name: overall_impression
+        label: Overall Interview Impression
+        hint: General assessment of candidate
+        type: text
+        options: []
+        required: true
+      - id: 26
+        name: recommendation
+        label: Hiring Recommendation
+        hint: null
+        type: select_one
+        options:
+          - Highly recommend - strong candidate
+          - Recommend - good fit
+          - Neutral - has both strengths and concerns
+          - Do not recommend - not suitable
+          - Pending additional information
+        required: true
+      - id: 27
+        name: additional_notes
+        label: Additional Notes or Comments
+        hint: Any other relevant observations
+        type: text
+        options: []
+        required: false

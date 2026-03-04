@@ -1,0 +1,212 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accessibility Resource Center Contact Form
+    pages:
+    - id: 1
+      name: full_name
+      label: Full Name
+      hint: Your legal name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: preferred_name
+      label: Preferred Name
+      hint: Name you prefer to be called
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: Your primary email address
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: Your primary phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: alternate_contact_method
+      label: Alternate Contact Method
+      hint: If not email or phone, how would you prefer to be contacted?
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: relationship_to_accessibility
+      label: Relationship to Accessibility
+      hint: How are you connected to accessibility needs?
+      type: select_one
+      options:
+      - Person with disability
+      - Family member
+      - Caregiver
+      - Professional
+      - Advocate
+      - Student
+      - Researcher
+      - Other
+      required: true
+    - id: 7
+      name: primary_disability_category
+      label: Primary Disability Category
+      hint: What category best describes your primary accessibility concern?
+      type: select_one
+      options:
+      - Mobility
+      - Vision
+      - Hearing
+      - Cognitive
+      - Neurological
+      - Psychiatric
+      - Chronic Illness
+      - Multiple
+      - Other
+      - Not Applicable
+      required: false
+    - id: 8
+      name: inquiry_type
+      label: Inquiry Type
+      hint: What type of information are you seeking?
+      type: select_multiple
+      options:
+      - Assistive technology
+      - Accommodation strategies
+      - Legal rights
+      - Resource referrals
+      - Training opportunities
+      - Policy guidance
+      - Product recommendations
+      - Service providers
+      - Other
+      required: true
+    - id: 9
+      name: specific_accessibility_need
+      label: Specific Accessibility Need
+      hint: Describe your specific accessibility need or challenge
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: environment_context
+      label: Environment Context
+      hint: In what environment do you need accessibility support?
+      type: select_multiple
+      options:
+      - Workplace
+      - Educational institution
+      - Public space
+      - Transportation
+      - Healthcare facility
+      - Housing
+      - Digital platform
+      - Recreation
+      - Other
+      required: true
+    - id: 11
+      name: urgency_level
+      label: Urgency Level
+      hint: How urgent is your request for information?
+      type: select_one
+      options:
+      - Immediate attention needed
+      - Within 1 week
+      - Within 1 month
+      - General inquiry
+      - Long-term planning
+      required: true
+    - id: 12
+      name: previous_resources_contacted
+      label: Previous Resources Contacted
+      hint: Have you contacted other resources about this issue?
+      type: select_one
+      options:
+      - Yes, multiple resources
+      - Yes, one resource
+      - No, this is my first inquiry
+      - In progress with other resources
+      required: true
+    - id: 13
+      name: accommodation_history
+      label: Accommodation History
+      hint: What accommodations have you previously tried or used?
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: preferred_format_response
+      label: Preferred Format Response
+      hint: How would you prefer to receive information?
+      type: select_multiple
+      options:
+      - Email
+      - Phone call
+      - Video call
+      - Mail
+      - In-person meeting
+      - Text document
+      - Audio recording
+      - Other
+      required: true
+    - id: 15
+      name: language_preference
+      label: Language Preference
+      hint: What language would you prefer for communication?
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - Other
+      required: true
+    - id: 16
+      name: interpreter_needed
+      label: Interpreter Needed
+      hint: Do you need an interpreter for communication?
+      type: select_one
+      options:
+      - 'No'
+      - ASL Interpreter
+      - Other Language Interpreter
+      - Other Communication Aid
+      required: false
+    - id: 17
+      name: consent_to_share_information
+      label: Consent to Share Information
+      hint: Do you consent to sharing your information with relevant partners?
+      type: select_one
+      options:
+      - Yes, for service coordination
+      - Yes, for research purposes
+      - Yes, for both
+      - 'No'
+      required: true
+    - id: 18
+      name: confidentiality_requirements
+      label: Confidentiality Requirements
+      hint: Are there specific confidentiality requirements for your case?
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other information that would help us assist you?
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: follow_up_permission
+      label: Follow Up Permission
+      hint: May we follow up with you about the resources provided?
+      type: select_one
+      options:
+      - 'Yes'
+      - Yes, but only if necessary
+      - 'No'
+      required: true

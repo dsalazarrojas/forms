@@ -1,0 +1,92 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Performance Review Feedback Acknowledgement Form
+    pages:
+    - id: 1
+      name: performance_review_feedback_acknowledgement_form
+      label: First Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Sales''}'
+      - '{''id'': 2, ''name'': ''Customer Service''}'
+      - '{''id'': 3, ''name'': ''Management''}'
+      required: true
+    - id: 5
+      name: date_of_last_review
+      label: Date of Last Review
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: feedback
+      label: Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: review_outcome
+      label: Review Outcome
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''Satisfactory''}'
+      - '{''id'': 2, ''name'': ''Unsatisfactory''}'
+      - '{''id'': 3, ''name'': ''N/A''}'
+      required: false
+    - id: 8
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: reviewer_id
+      label: Reviewer ID
+      hint: null
+      type: text
+      options: []
+      required: false

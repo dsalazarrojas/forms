@@ -1,0 +1,332 @@
+inputSchema:
+  type: object
+  properties:
+    title: Case Management Form
+    pages:
+    - id: 1
+      name: case_header
+      label: Case Management Form
+      hint: Comprehensive case information for court proceedings
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: case_number
+      label: Case Number
+      hint: Court case identifier
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: filing_date
+      label: Filing Date
+      hint: Date case filed
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: court_info
+      label: Court Information
+      hint: Court details
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: court_name
+      label: Court Name
+      hint: Specific court
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: court_division
+      label: Court Division
+      hint: Division or department
+      type: select_one
+      options:
+      - Civil
+      - Criminal
+      - Family
+      - Probate
+      - Juvenile
+      - Small claims
+      - Traffic
+      - Other
+      required: true
+    - id: 7
+      name: judge_assigned
+      label: Judge Assigned
+      hint: Presiding judge
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: case_type
+      label: Case Type
+      hint: Nature of case
+      type: select_one
+      options:
+      - Personal injury
+      - Contract dispute
+      - Family law
+      - Criminal defense
+      - Probate
+      - Real estate
+      - Employment
+      - Bankruptcy
+      - Other
+      required: true
+    - id: 9
+      name: party_info
+      label: Party Information
+      hint: Involved parties
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: plaintiff_name
+      label: Plaintiff or Petitioner Name
+      hint: Filing party
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: plaintiff_attorney
+      label: Plaintiff Attorney Name
+      hint: Representing counsel
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: plaintiff_firm
+      label: Plaintiff Law Firm
+      hint: Firm name
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: defendant_name
+      label: Defendant or Respondent Name
+      hint: Opposing party
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: defendant_attorney
+      label: Defendant Attorney Name
+      hint: Defense counsel
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: defendant_firm
+      label: Defendant Law Firm
+      hint: Firm name
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: case_details
+      label: Case Details
+      hint: Case specifics
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: case_description
+      label: Brief Case Description
+      hint: Summary of matter
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: damages_claimed
+      label: Damages or Relief Sought
+      hint: Amount or remedy
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: case_status
+      label: Current Case Status
+      hint: Status update
+      type: select_one
+      options:
+      - New - pending assignment
+      - Active - in progress
+      - Discovery phase
+      - Pre-trial
+      - In trial
+      - Under submission
+      - Judgment entered
+      - On appeal
+      - Closed
+      - Settled
+      required: true
+    - id: 20
+      name: important_dates
+      label: Important Dates
+      hint: Key deadlines
+      type: note
+      options: []
+      required: false
+    - id: 21
+      name: next_hearing_date
+      label: Next Hearing Date
+      hint: Scheduled hearing
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: hearing_type
+      label: Type of Hearing
+      hint: Hearing purpose
+      type: select_one
+      options:
+      - Initial conference
+      - Motion hearing
+      - Discovery conference
+      - Pre-trial conference
+      - Trial
+      - Status conference
+      - Settlement conference
+      - Other
+      required: false
+    - id: 23
+      name: trial_date
+      label: Trial Date
+      hint: If scheduled
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: statute_limitations
+      label: Statute of Limitations Deadline
+      hint: Filing deadline
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: case_management
+      label: Case Management Notes
+      hint: Tracking information
+      type: note
+      options: []
+      required: false
+    - id: 26
+      name: assigned_paralegal
+      label: Assigned Paralegal
+      hint: Support staff
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: billing_status
+      label: Billing Status
+      hint: Fee arrangement
+      type: select_one
+      options:
+      - Hourly
+      - Contingency
+      - Flat fee
+      - Retainer
+      - Pro bono
+      - Court appointed
+      required: false
+    - id: 28
+      name: retainer_amount
+      label: Retainer Amount
+      hint: If applicable
+      type: number
+      options: []
+      required: false
+    - id: 29
+      name: documents_filed
+      label: Key Documents Filed
+      hint: Pleadings and motions
+      type: select_multiple
+      options:
+      - Complaint or petition
+      - Answer
+      - Counterclaim
+      - Cross-complaint
+      - Motion to dismiss
+      - Motion for summary judgment
+      - Discovery requests
+      - Trial briefs
+      - Other
+      required: false
+    - id: 30
+      name: discovery_deadline
+      label: Discovery Deadline
+      hint: End of discovery
+      type: date
+      options: []
+      required: false
+    - id: 31
+      name: witnesses
+      label: Known Witnesses
+      hint: Witness list
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: exhibits
+      label: Key Exhibits
+      hint: Evidence list
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: settlement_discussions
+      label: Have Settlement Discussions Occurred
+      hint: Negotiation status
+      type: select_one
+      options:
+      - Yes - ongoing
+      - Yes - concluded
+      - No - not yet
+      - No - not appropriate
+      required: false
+    - id: 34
+      name: settlement_amount_offered
+      label: Settlement Amount Offered
+      hint: If any
+      type: text
+      options: []
+      required: false
+    - id: 35
+      name: case_strategy
+      label: Case Strategy Notes
+      hint: Strategic considerations
+      type: text
+      options: []
+      required: false
+    - id: 36
+      name: risks_assessment
+      label: Case Risks Assessment
+      hint: Potential issues
+      type: text
+      options: []
+      required: false
+    - id: 37
+      name: additional_notes
+      label: Additional Case Notes
+      hint: Other relevant information
+      type: text
+      options: []
+      required: false
+    - id: 38
+      name: last_updated
+      label: Last Updated Date
+      hint: Most recent update
+      type: date
+      options: []
+      required: true
+    - id: 39
+      name: updated_by
+      label: Updated By
+      hint: Person updating
+      type: text
+      options: []
+      required: true

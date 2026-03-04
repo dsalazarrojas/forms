@@ -1,0 +1,103 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Energy Facility Incident Form
+    pages:
+    - id: 1
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''Natural Disaster''}'
+      - '{''id'': 2, ''label'': ''Equipment Failure''}'
+      - '{''id'': 3, ''label'': ''Human Error''}'
+      required: false
+    - id: 2
+      name: facility_id
+      label: Facility ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: facility_name
+      label: Facility Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: event_date
+      label: Event Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: event_time
+      label: Event Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: incident_reporter
+      label: Incident Reporter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: facility_location
+      label: Facility Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: root_cause
+      label: Root Cause
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: corrective_action
+      label: Corrective Action
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: follow_up_action
+      label: Follow-Up Action
+      hint: null
+      type: text
+      options: []
+      required: false

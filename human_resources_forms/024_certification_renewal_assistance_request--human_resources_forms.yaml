@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: Certification Renewal Assistance Request
+    pages:
+    - id: 1
+      name: request_date
+      label: Request Date
+      hint: Date of renewal assistance request
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: requester_name
+      label: Requester Name
+      hint: Full name of person requesting assistance
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: requester_email
+      label: Email Address
+      hint: Email for correspondence
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: requester_phone
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: employee_id
+      label: Employee ID
+      hint: Employee identification number
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: department
+      label: Department
+      hint: Your department
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: certification_name
+      label: Certification Name
+      hint: Name of certification needing renewal
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: certification_number
+      label: Certification Number
+      hint: Certification identification number
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: original_issue_date
+      label: Original Issue Date
+      hint: When was certification originally issued
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: expiration_date
+      label: Expiration Date
+      hint: When does certification expire
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: issuing_organization
+      label: Issuing Organization
+      hint: Organization that issued certification
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: renewal_deadline
+      label: Renewal Deadline
+      hint: When must renewal be completed
+      type: date
+      options: []
+      required: false
+    - id: 13
+      name: assistance_type
+      label: Type of Assistance Needed
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Renewal application guidance
+      - Continuing education credits tracking
+      - Payment processing
+      - Document submission
+      - Exam scheduling
+      - CEU course recommendations
+      - Status verification
+      - Other
+      required: true
+    - id: 14
+      name: ceu_credits_completed
+      label: CEU Credits Completed
+      hint: Number of continuing education units completed
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: ceu_credits_required
+      label: CEU Credits Required
+      hint: Number of credits required for renewal
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: renewal_fee
+      label: Renewal Fee Status
+      hint: Has the renewal fee been paid
+      type: select_one
+      options:
+      - Yes - Paid
+      - No - Not yet paid
+      - Need payment assistance
+      required: true
+    - id: 17
+      name: employer_sponsorship
+      label: Employer Sponsorship
+      hint: Is employer sponsoring renewal
+      type: select_one
+      options:
+      - Yes - Fully sponsored
+      - Yes - Partially sponsored
+      - No - Self-funded
+      required: true
+    - id: 18
+      name: urgency_level
+      label: Urgency Level
+      hint: How urgent is this renewal
+      type: select_one
+      options:
+      - Critical - Expires within 30 days
+      - High - Expires within 60 days
+      - Medium - Expires within 90 days
+      - Low - Planning ahead
+      required: true
+    - id: 19
+      name: previous_renewals
+      label: Previous Renewals
+      hint: How many times have you renewed this certification
+      type: select_one
+      options:
+      - First renewal
+      - Second renewal
+      - Third renewal
+      - More than three renewals
+      required: false
+    - id: 20
+      name: barriers_to_renewal
+      label: Barriers to Renewal
+      hint: What is preventing you from completing renewal
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: preferred_contact_method
+      label: Preferred Contact Method
+      hint: How should we contact you
+      type: select_one
+      options:
+      - Email
+      - Phone call
+      - Text message
+      required: true
+    - id: 22
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other information about your renewal request
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: requester_signature
+      label: Requester Signature
+      hint: Type your full name as signature
+      type: text
+      options: []
+      required: true

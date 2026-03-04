@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Museum Curator Acquisition Leave Of Absence Form
+    pages:
+    - id: 1
+      name: curator_name
+      label: Curator Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: end_date
+      label: End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: reason_for_leave
+      label: Reason For Leave
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: coverage_plan
+      label: Coverage Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: approval_status
+      label: Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Denied
+      - Pending
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: curator_email
+      label: Curator Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: curator_phone
+      label: Curator Phone
+      hint: null
+      type: text
+      options: []
+      required: true

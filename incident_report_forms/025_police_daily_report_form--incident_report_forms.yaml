@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Police Daily Report Form
+    pages:
+    - id: 1
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: reported_by
+      label: Reported By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: description
+      label: Description
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: reported_at
+      label: Reported At
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: incident_status
+      label: Incident Status
+      hint: null
+      type: select_multiple
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: incident_details
+      label: Incident Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: case_number
+      label: Case Number
+      hint: Enter a case number if applicable
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: incident_category
+      label: Incident Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: incident_category_other
+      label: Other Incident Category
+      hint: Enter the category of the incident (e.g. theft, assault, etc.)
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: suspect_name
+      label: Suspect Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: suspect_address
+      label: Suspect Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: suspect_dob
+      label: Suspect DOB
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 16
+      name: suspect_race
+      label: Suspect Race
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 17
+      name: suspect_gender
+      label: Suspect Gender
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: suspect_age
+      label: Suspect Age
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 19
+      name: suspect_height
+      label: Suspect Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: suspect_weight
+      label: Suspect Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: suspect_eye_color
+      label: Suspect Eye Color
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 22
+      name: suspect_hair_color
+      label: Suspect Hair Color
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 23
+      name: suspect_skin_color
+      label: Suspect Skin Color
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 24
+      name: suspect_eyewear
+      label: Suspect Eyewear
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: officer_name
+      label: Officer Name
+      hint: null
+      type: text
+      options: []
+      required: false

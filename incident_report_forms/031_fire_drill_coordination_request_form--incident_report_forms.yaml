@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fire Drill Coordination Request Form
+    pages:
+    - id: 1
+      name: request_form
+      label: Request Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: fire_location
+      label: Fire Location
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''Central Office'', ''label'': ''Central Office''}'
+      - '{''value'': ''Main Building'', ''label'': ''Main Building''}'
+      - '{''value'': ''Training Room'', ''label'': ''Training Room''}'
+      required: false
+    - id: 3
+      name: fire_type
+      label: Fire Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''Fire Alarm'', ''label'': ''Fire Alarm''}'
+      - '{''value'': ''Emergency Response'', ''label'': ''Emergency Response''}'
+      - '{''value'': ''Evacuation'', ''label'': ''Evacuation''}'
+      required: false
+    - id: 4
+      name: fire_date
+      label: Fire Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: fire_time
+      label: Fire Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: fire_duration
+      label: Fire Duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 7
+      name: fire_start_time
+      label: Fire Start Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: contact_first_name
+      label: Contact First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: contact_last_name
+      label: Contact Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: contact_email
+      label: Contact Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: contact_phone
+      label: Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

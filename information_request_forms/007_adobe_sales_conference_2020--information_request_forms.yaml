@@ -1,0 +1,180 @@
+inputSchema:
+  type: object
+  properties:
+    title: Adobe Sales Conference 2020
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company
+      label: Company Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: email_address
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone_number
+      label: Phone Number
+      hint: Include area code
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: company_size
+      label: Company Size
+      hint: null
+      type: select_one
+      options:
+      - 1-50 employees
+      - 51-200 employees
+      - 201-500 employees
+      - 501-1000 employees
+      - 1000+ employees
+      required: true
+    - id: 8
+      name: industry
+      label: Industry
+      hint: null
+      type: select_one
+      options:
+      - Technology
+      - Marketing
+      - Advertising
+      - Creative Services
+      - Healthcare
+      - Finance
+      - Education
+      - Other
+      required: true
+    - id: 9
+      name: adobe_experience
+      label: Experience with Adobe products
+      hint: null
+      type: select_one
+      options:
+      - Beginner
+      - Intermediate
+      - Advanced
+      - Expert
+      required: true
+    - id: 10
+      name: adobe_products
+      label: Which Adobe products do you currently use?
+      hint: null
+      type: select_multiple
+      options:
+      - Creative Cloud
+      - Document Cloud
+      - Experience Cloud
+      - Analytics Cloud
+      - Marketing Cloud
+      - None
+      required: true
+    - id: 11
+      name: primary_interests
+      label: Primary interests for the conference
+      hint: null
+      type: select_multiple
+      options:
+      - New Product Releases
+      - Industry Trends
+      - Sales Strategies
+      - Customer Success Stories
+      - Networking
+      - Training and Certification
+      required: true
+    - id: 12
+      name: challenge_section
+      label: Business Challenges
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: current_challenges
+      label: What are your current business challenges?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: success_goals
+      label: What would success look like for your team?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: decision_maker
+      label: Are you involved in technology purchase decisions?
+      hint: null
+      type: select_one
+      options:
+      - Yes, I am the decision maker
+      - Yes, I influence decisions
+      - No, I provide input
+      - No, I do not
+      required: true
+    - id: 16
+      name: budget_available
+      label: Is budget available for new solutions this year?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Not yet determined
+      required: false
+    - id: 17
+      name: special_accommodations
+      label: Do you require any special accommodations?
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: networking_interested
+      label: Interested in networking events?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 19
+      name: follow_up_preference
+      label: Preferred method of follow-up
+      hint: null
+      type: select_one
+      options:
+      - Email
+      - Phone
+      - Both
+      - No follow-up needed
+      required: true

@@ -1,0 +1,97 @@
+inputSchema:
+  type: object
+  properties:
+    title: HR Policy Review Report Form
+    pages:
+    - id: 1
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: policy_category
+      label: policy_category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: feedback_score
+      label: feedback_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: suggestion_score
+      label: suggestion_score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 5
+      name: policy_review_comments
+      label: Policy Comments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: department_name
+      label: Department Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: policy_name
+      label: Policy
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: policy_version
+      label: Policy Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: policy_status
+      label: policy_status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 12
+      name: policy_effectiveness
+      label: policy_effectiveness
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

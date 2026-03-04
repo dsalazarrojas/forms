@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: Accident Report Form
+    pages:
+    - id: 1
+      name: section_reporter_info
+      label: -- Reporter Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: reporter_name
+      label: Name of Person Reporting
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: reporter_phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: reporter_email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: relationship_to_incident
+      label: Relationship to the Incident
+      hint: null
+      type: select_one
+      options:
+      - Injured party
+      - Witness
+      - Supervisor
+      - First responder
+      - Other
+      required: true
+    - id: 6
+      name: section_accident_details
+      label: -- Accident Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: accident_date
+      label: Date of Accident
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: accident_time
+      label: Time of Accident
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 9
+      name: accident_location
+      label: Location of Accident
+      hint: Provide full address or specific location description
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: accident_type
+      label: Type of Accident
+      hint: null
+      type: select_one
+      options:
+      - Motor vehicle collision
+      - Slip, trip, or fall
+      - Workplace injury
+      - Sports or recreation injury
+      - Property damage
+      - Other
+      required: true
+    - id: 11
+      name: accident_description
+      label: Description of What Happened
+      hint: Provide a detailed account including events before, during, and after
+        the accident
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: section_injury_info
+      label: -- Injury Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: injured_person_name
+      label: Name of Injured Person
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: injured_person_dob
+      label: Date of Birth of Injured Person
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: injury_description
+      label: Description of Injuries
+      hint: Describe the nature and extent of injuries
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: medical_treatment
+      label: Was Medical Treatment Received
+      hint: null
+      type: select_one
+      options:
+      - Yes - Emergency room
+      - Yes - Urgent care
+      - Yes - Doctor visit
+      - Yes - On-site first aid
+      - No treatment sought
+      required: true
+    - id: 17
+      name: hospital_name
+      label: Name of Hospital or Medical Facility (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: section_additional_info
+      label: -- Additional Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 19
+      name: witnesses
+      label: Names and Contact Information of Witnesses
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: police_report_filed
+      label: Was a Police Report Filed
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: true
+    - id: 21
+      name: police_report_number
+      label: Police Report Number (if applicable)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: insurance_claim_filed
+      label: Has an Insurance Claim Been Filed
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      - Planning to file
+      required: true
+    - id: 23
+      name: additional_comments
+      label: Additional Comments
+      hint: Any other relevant information about the accident
+      type: text
+      options: []
+      required: false

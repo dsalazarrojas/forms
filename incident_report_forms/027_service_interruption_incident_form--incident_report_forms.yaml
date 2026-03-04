@@ -1,0 +1,101 @@
+inputSchema:
+  type: object
+  properties:
+    title: Service Interruption Incident Form
+    pages:
+    - id: 1
+      name: service_interruption_description
+      label: service_interruption_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: service_type
+      label: service_type
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''electrical''}'
+      - '{''id'': 2, ''name'': ''network''}'
+      - '{''id'': 3, ''name'': ''server''}'
+      required: false
+    - id: 3
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: duration
+      label: duration
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: impact
+      label: impact
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''low''}'
+      - '{''id'': 2, ''name'': ''medium''}'
+      - '{''id'': 3, ''name'': ''high''}'
+      required: false
+    - id: 7
+      name: severity
+      label: severity
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''minor''}'
+      - '{''id'': 2, ''name'': ''moderate''}'
+      - '{''id'': 3, ''name'': ''major''}'
+      required: false
+    - id: 8
+      name: status
+      label: status
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''pending''}'
+      - '{''id'': 2, ''name'': ''resolved''}'
+      - '{''id'': 3, ''name'': ''closed''}'
+      required: false
+    - id: 9
+      name: resolution_time
+      label: resolution_time
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: incident_description
+      label: incident_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: root_cause
+      label: root_cause
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: corrective_action
+      label: corrective_action
+      hint: null
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,192 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Accident Report Form
+    pages:
+    - id: 1
+      name: report_form
+      label: Report Form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: date_of_accident
+      label: Date of Accident
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: time_of_accident
+      label: Time of Accident
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: location_of_accident
+      label: Location of Accident
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: witnesses
+      label: Witnesses
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      - option3
+      - option4
+      required: false
+    - id: 7
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: employee_title
+      label: Employee Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: employee_phone_number
+      label: Employee Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: witness_name
+      label: Witness Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: witness_title
+      label: Witness Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: witness_phone_number
+      label: Witness Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: supervisor_name
+      label: Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: witness_signature
+      label: Witness Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: supervisor_signature
+      label: Supervisor Signature
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 17
+      name: report_time
+      label: Report Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: reported_by
+      label: Reported By
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: incident_number
+      label: Incident Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: action_taken
+      label: Action Taken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: attachment
+      label: Attachment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: report_completed
+      label: Report Completed
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 24
+      name: reported_to
+      label: Reported To
+      hint: null
+      type: select_multiple
+      options:
+      - option1
+      - option2
+      required: false
+    - id: 25
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

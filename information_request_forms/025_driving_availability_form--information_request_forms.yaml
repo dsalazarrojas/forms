@@ -1,0 +1,54 @@
+inputSchema:
+  type: object
+  properties:
+    title: Driving Availability Form
+    pages:
+    - id: 1
+      name: trip_details
+      label: trip_details
+      hint: Provide details about your trip
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: trip_location
+      label: trip_location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: phone_number
+      hint: Include country code
+      type: text
+      options: []
+      required: false

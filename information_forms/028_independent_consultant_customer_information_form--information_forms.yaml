@@ -1,0 +1,87 @@
+inputSchema:
+  type: object
+  properties:
+    title: independent_consultant_customer_information_form
+    pages:
+    - id: 1
+      name: first_name
+      label: First name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: phone_number
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: address_line1
+      label: Address Line 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: address_line2
+      label: Address Line 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: postal_code
+      label: Postal code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: country
+      label: Country
+      hint: null
+      type: select_one
+      options:
+      - Australia
+      - Canada
+      required: false
+    - id: 10
+      name: industry
+      label: Industry
+      hint: null
+      type: select_multiple
+      options:
+      - Accounting
+      - Finance
+      - Marketing
+      required: false
+    - id: 11
+      name: description_of_services
+      label: Description of services
+      hint: null
+      type: text
+      options: []
+      required: false

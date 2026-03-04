@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Individual Tax Return Information Form
+    pages:
+    - id: 1
+      name: user_info
+      label: user_info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: tax_year
+      label: tax_year
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 3
+      name: tax_id_number
+      label: tax_id_number
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 4
+      name: tax_return_type
+      label: tax_return_type
+      hint: null
+      type: select_one
+      options:
+      - Income
+      - W-2
+      - Other
+      - Partnership
+      - Trust
+      required: true
+    - id: 5
+      name: gross_income
+      label: gross_income
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: total_tax_deductions
+      label: total_tax_deductions
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: social_security_number
+      label: social_security_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: date_of_birth
+      label: date_of_birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 9
+      name: mailing_address
+      label: mailing_address
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: city
+      label: city
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: state
+      label: state
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: zip_code
+      label: zip_code
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: phone_number
+      label: phone_number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: signature
+      label: signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: upload_document
+      label: upload_document
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: confirm_upload
+      label: confirm_upload
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: true
+    - id: 18
+      name: uploaded_document
+      label: uploaded_document
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: tax_return_filing_status
+      label: tax_return_filing_status
+      hint: null
+      type: select_one
+      options:
+      - Pending Review
+      - Accepted
+      - Rejected
+      - Not Reviewed
+      required: true
+    - id: 20
+      name: tax_return_notes
+      label: tax_return_notes
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 21
+      name: review_notes
+      label: review_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 22
+      name: review_comments
+      label: review_comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: review_decision
+      label: review_decision
+      hint: null
+      type: select_one
+      options:
+      - 'True'
+      - 'False'
+      required: false
+    - id: 24
+      name: signature_status
+      label: signature_status
+      hint: null
+      type: select_one
+      options:
+      - Complete
+      - Incomplete
+      required: false
+    - id: 25
+      name: signature_date
+      label: signature_date
+      hint: null
+      type: date
+      options: []
+      required: false

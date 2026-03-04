@@ -1,0 +1,109 @@
+inputSchema:
+  type: object
+  properties:
+    title: Parachuting Incident Form
+    pages:
+    - id: 1
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: skydiver_name
+      label: Skydiver Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: instructor_name
+      label: Instructor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: equipment_used
+      label: Equipment Used
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_one
+      options:
+      - '{''skydiver error'': ''Skydiver Error''}'
+      - '{''equipment failure'': ''Equipment Failure''}'
+      - '{''instructor error'': ''Instructor Error''}'
+      - '{''other'': ''Other''}'
+      required: false
+    - id: 7
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: skydiver_experience
+      label: Skydiver Experience
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: witness_statements
+      label: Witness Statements
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: photo_taken
+      label: Photo Taken
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: witness_statements_photo
+      label: Witness Statements Photo
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: skydiver_instructor_relation
+      label: Skydiver Instructor Relation
+      hint: null
+      type: select_multiple
+      options:
+      - related
+      - not related
+      required: false
+    - id: 14
+      name: incident_reported_by
+      label: Incident Reported By
+      hint: null
+      type: text
+      options: []
+      required: false

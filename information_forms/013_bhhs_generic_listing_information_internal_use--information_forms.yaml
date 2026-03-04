@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: BHHS Generic - Listing Information (Internal Use)
+    pages:
+    - id: 1
+      name: section_listing_details
+      label: -- Listing Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: mls_number
+      label: MLS Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: listing_date
+      label: Listing Date
+      hint: Date property was listed
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: listing_agent_name
+      label: Listing Agent Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: listing_agent_contact
+      label: Listing Agent Contact Information
+      hint: Phone and email
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: section_property_details
+      label: -- Property Details --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: property_address
+      label: Property Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: property_type
+      label: Property Type
+      hint: null
+      type: select_one
+      options:
+      - Single Family
+      - Condo
+      - Townhome
+      - Multi-Family
+      - Land
+      - Other
+      required: true
+    - id: 9
+      name: bedrooms
+      label: Number of Bedrooms
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: bathrooms
+      label: Number of Bathrooms
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: square_footage
+      label: Square Footage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: lot_size
+      label: Lot Size
+      hint: In acres or square feet
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: year_built
+      label: Year Built
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: garage_spaces
+      label: Number of Garage Spaces
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: section_appointment_info
+      label: -- Appointment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: appointment_system_status
+      label: Appointment System Status
+      hint: Is showing appointment system active?
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Pending
+      required: false
+    - id: 17
+      name: showing_instructions
+      label: Showing Instructions
+      hint: Special instructions for showings
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: internal_notes
+      label: Internal Notes
+      hint: For agent reference only
+      type: text
+      options: []
+      required: false

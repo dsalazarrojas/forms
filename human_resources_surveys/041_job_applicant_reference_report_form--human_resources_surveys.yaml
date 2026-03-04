@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: job-applicant-reference-report-form
+    pages:
+    - id: 1
+      name: job_applicant_reference_form
+      label: job-applicant-reference-form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_applicant_details
+      label: job-applicant-details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_title
+      label: job-title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: job_type
+      label: job-type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: job_employer_name
+      label: job-employer-name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_employment_date
+      label: job-employment-date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: reference_details
+      label: reference-details
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: reference_contact_information
+      label: reference-contact-information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: reference_phone
+      label: reference-phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: reference_email
+      label: reference-email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: employer_contact_information
+      label: employer-contact-information
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: job_status
+      label: job-status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 13
+      name: job_application_id
+      label: job-application-id
+      hint: null
+      type: text
+      options: []
+      required: false

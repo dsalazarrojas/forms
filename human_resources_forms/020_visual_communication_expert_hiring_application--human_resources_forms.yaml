@@ -1,0 +1,178 @@
+inputSchema:
+  type: object
+  properties:
+    title: Visual Communication Expert Hiring Application
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: resume
+      label: Resume
+      hint: null
+      type: select_multiple
+      options:
+      - Portfolio Website
+      - Link to your Resume
+      - Other (Specify below)
+      required: false
+    - id: 4
+      name: portfolio
+      label: Portfolio
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: portfolio_link
+      label: Portfolio Link
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: linkedin
+      label: LinkedIn
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: behance
+      label: Behance
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: portfolio_other
+      label: Other (Specify below)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: portfolio_other_text
+      label: Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: portfolio_type
+      label: Type of Portfolio
+      hint: null
+      type: select_one
+      options:
+      - Portfolio Website
+      - Behance Profile
+      - Other
+      required: false
+    - id: 11
+      name: experience_years
+      label: Years of Experience
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: experience_job
+      label: Most Recent Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: education
+      label: Education
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: availability
+      label: Availability
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 15
+      name: rate
+      label: Rate
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: portfolio_description
+      label: Portfolio Description
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: availability_other
+      label: Other (Specify below)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: availability_other_frequency
+      label: Frequency
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: work_hours
+      label: Work Hours
+      hint: null
+      type: time
+      options: []
+      required: true
+    - id: 20
+      name: available_days
+      label: Available Days
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: true
+    - id: 21
+      name: work_hours_frequency
+      label: Frequency
+      hint: null
+      type: select_one
+      options:
+      - Daily
+      - Weekly
+      - Biweekly
+      - Monthly
+      - Quarterly
+      - As needed
+      required: false
+    - id: 22
+      name: availability_notes
+      label: Availability Notes
+      hint: null
+      type: note
+      options: []
+      required: false

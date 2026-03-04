@@ -1,0 +1,154 @@
+inputSchema:
+  type: object
+  properties:
+    title: Art Inventory Information Record Form
+    pages:
+    - id: 1
+      name: inventory_basic_info_header
+      label: -- Basic Artwork Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: inventory_id
+      label: Internal Inventory ID - SKU
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: artwork_title
+      label: Title of the Artwork
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: artist_name
+      label: Artist Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: creation_year
+      label: Year of Creation
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: medium_details
+      label: Medium and Materials
+      hint: e.g., Mixed media on wood panel
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: artwork_dimensions_inventory
+      label: Dimensions (Height x Width x Depth)
+      hint: Include units
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: technical_specifications_header
+      label: -- Technical and Physical Status --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: current_condition
+      label: Current Condition of the Piece
+      hint: null
+      type: select_one
+      options:
+      - Mint - Perfect
+      - Excellent
+      - Good (Minor wear)
+      - Fair (Visible aging)
+      - Poor (Requires restoration)
+      required: true
+    - id: 10
+      name: condition_notes
+      label: Detailed Condition Notes
+      hint: Describe any specific damage or restoration history
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: framing_status
+      label: Framing Status
+      hint: null
+      type: select_one
+      options:
+      - Framed
+      - Unframed
+      - Stretched Canvas
+      - Mounted
+      required: true
+    - id: 12
+      name: storage_location_header
+      label: -- Location and Valuation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: current_location
+      label: Current Storage or Display Location
+      hint: e.g., Gallery A, Warehouse Section 4, On Loan
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: acquisition_date
+      label: Date of Acquisition
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: acquisition_cost
+      label: Acquisition Cost (Currency)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: current_market_valuation
+      label: Current Estimated Market Value
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: insurance_provider
+      label: Insurance Provider Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: provenance_summary
+      label: Provenance Summary
+      hint: History of ownership and exhibition history
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: last_inventory_update
+      label: Date of Last Inventory Update
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: recorder_name
+      label: Recorded By (Staff Name)
+      hint: null
+      type: text
+      options: []
+      required: true

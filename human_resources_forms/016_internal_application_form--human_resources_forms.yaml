@@ -1,0 +1,129 @@
+inputSchema:
+  type: object
+  properties:
+    title: Internal Application Form
+    pages:
+    - id: 1
+      name: internal_application_form
+      label: application-form
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_title
+      label: job-title
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: job_description
+      label: job-description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: job_tags
+      label: job-tags
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: job_tags_choices
+      label: job-tags-choices
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: work_hours
+      label: work-hours
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: job_type
+      label: job-type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: job_type_choices
+      label: job-type-choices
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: work_duration
+      label: work-duration
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: work_duration_choices
+      label: work-duration-choices
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: contact_person
+      label: contact-person
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: contact_email
+      label: contact-email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: contact_phone
+      label: contact-phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: job_posting_date
+      label: job-posting-date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: internal_applying
+      label: internal-applying
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 16
+      name: internal_posting_choices
+      label: internal-posting-choices
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Guard Line Input Form
+    pages:
+    - id: 1
+      name: patrol_location
+      label: Patrol Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: start_time
+      label: Start Time
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 3
+      name: end_time
+      label: End Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: checkpoint_location
+      label: Checkpoint Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: patrol_status
+      label: Patrol Status
+      hint: null
+      type: select_one
+      options:
+      - On Route
+      - Completed
+      - Suspended
+      required: true
+    - id: 7
+      name: checkpoint_status
+      label: Checkpoint Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 8
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_multiple
+      options:
+      - Fire
+      - Security
+      - Medical
+      required: true
+    - id: 9
+      name: patrol_frequency
+      label: Patrol Frequency
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: checkpoint_frequency
+      label: Checkpoint Frequency
+      hint: null
+      type: number
+      options: []
+      required: false

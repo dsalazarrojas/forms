@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Skill Assessment Report Form
+    pages:
+    - id: 1
+      name: skill_assessment_form_1
+      label: Skill Assessment Form 1
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: employee_rating
+      label: Employee Rating
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: date_of_assessment
+      label: Date of Assessment
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: manager_comments
+      label: Manager Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: employee_comments
+      label: Employee Comments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: skills_to_assess
+      label: Skills to Assess
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: skills_to_assess_1
+      label: Skills to Assess 1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: skills_to_assess_2
+      label: Skills to Assess 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

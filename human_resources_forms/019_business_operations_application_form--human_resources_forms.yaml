@@ -1,0 +1,176 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Operations Application Form
+    pages:
+    - id: 1
+      name: application_date
+      label: Application Date
+      hint: Date of application
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: Your first name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: Your last name
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email_address
+      label: Email Address
+      hint: Primary email contact
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone_number
+      label: Phone Number
+      hint: Contact phone number
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: current_address
+      label: Current Address
+      hint: Your residential address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: date_of_birth
+      label: Date of Birth
+      hint: Your birth date
+      type: date
+      options: []
+      required: true
+    - id: 8
+      name: position_applied_for
+      label: Position Applied For
+      hint: Which job are you applying for?
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: desired_salary
+      label: Desired Salary Range
+      hint: Annual salary expectations
+      type: select_one
+      options:
+      - $30,000 - $50,000
+      - $50,000 - $75,000
+      - $75,000 - $100,000
+      - $100,000 - $150,000
+      - $150,000+
+      - Negotiable
+      required: false
+    - id: 10
+      name: availability_date
+      label: Availability Date
+      hint: When can you start?
+      type: date
+      options: []
+      required: true
+    - id: 11
+      name: employment_type_preference
+      label: Employment Type Preference
+      hint: What type of employment?
+      type: select_one
+      options:
+      - Full-time
+      - Part-time
+      - Contract
+      - Temporary
+      - Flexible
+      required: true
+    - id: 12
+      name: highest_education
+      label: Highest Education Level
+      hint: Your education level
+      type: select_one
+      options:
+      - High School
+      - Associate Degree
+      - Bachelor Degree
+      - Master Degree
+      - PhD
+      - Other
+      required: true
+    - id: 13
+      name: years_of_experience
+      label: Years of Relevant Experience
+      hint: Experience in this field
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: previous_employers
+      label: List Previous Employers
+      hint: Companies you worked for
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: key_skills
+      label: Key Skills
+      hint: Your main skills and competencies
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: certifications
+      label: Relevant Certifications
+      hint: Certificates or licenses
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: technical_proficiencies
+      label: Technical Proficiencies
+      hint: Software, tools, languages
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: references
+      label: Professional References
+      hint: 2-3 references with contact info
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: work_authorization
+      label: Are You Authorized to Work?
+      hint: Work visa status
+      type: select_one
+      options:
+      - Yes, US Citizen
+      - Yes, Green Card
+      - Yes, Work Visa
+      - Need Sponsorship
+      - Other
+      required: true
+    - id: 20
+      name: background_check_consent
+      label: I Consent to Background Check
+      hint: Agree to background verification
+      type: select_one
+      options:
+      - Yes, I Consent
+      - false
+      required: true
+    - id: 21
+      name: additional_information
+      label: Additional Information
+      hint: Anything else relevant?
+      type: text
+      options: []
+      required: false

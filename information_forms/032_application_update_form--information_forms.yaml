@@ -1,0 +1,174 @@
+inputSchema:
+  type: object
+  properties:
+    title: Application Update Form
+    pages:
+    - id: 1
+      name: customer_information
+      label: -- Customer Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer_name
+      label: Full Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: customer_id
+      label: Customer or Account ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email Address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: update_section
+      label: -- Information to Update --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: information_type
+      label: What information are you updating?
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Contact information
+      - Address
+      - Payment method
+      - Subscription plan
+      - Application preferences
+      - Personal details
+      required: true
+    - id: 8
+      name: current_address
+      label: Current Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: new_address
+      label: New Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: payment_information
+      label: -- Payment Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: update_payment_method
+      label: Update payment method?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 12
+      name: new_payment_method
+      label: New Payment Method
+      hint: null
+      type: select_one
+      options:
+      - Credit Card
+      - Debit Card
+      - Bank Account
+      - PayPal
+      - Other
+      required: false
+    - id: 13
+      name: subscription_updates
+      label: -- Subscription Updates --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 14
+      name: update_subscription
+      label: Update subscription plan?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 15
+      name: new_subscription_plan
+      label: New Subscription Plan
+      hint: null
+      type: select_one
+      options:
+      - Basic plan
+      - Standard plan
+      - Premium plan
+      - Enterprise plan
+      - Upgrade
+      - Downgrade
+      required: false
+    - id: 16
+      name: preference_updates
+      label: -- Preference Updates --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 17
+      name: notification_preferences
+      label: Update notification preferences?
+      hint: null
+      type: select_one
+      options:
+      - true
+      - false
+      required: false
+    - id: 18
+      name: notification_settings
+      label: Notification settings
+      hint: Select what communications you want to receive
+      type: select_multiple
+      options:
+      - Email notifications
+      - SMS notifications
+      - Push notifications
+      - Weekly digest
+      - Promotional offers
+      - Product updates
+      required: false
+    - id: 19
+      name: reason_for_update
+      label: Reason for update
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: additional_notes
+      label: Additional notes or requests
+      hint: null
+      type: text
+      options: []
+      required: false

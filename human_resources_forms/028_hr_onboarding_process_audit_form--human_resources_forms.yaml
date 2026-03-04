@@ -1,0 +1,189 @@
+inputSchema:
+  type: object
+  properties:
+    title: HR Onboarding Process Audit Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: team_member_since
+      label: Team Member Since
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: supervisor_name
+      label: Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: onboarding_date
+      label: Onboarding Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: job_classification
+      label: Job Classification
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: job_level
+      label: Job Level
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: team_member_status
+      label: Team Member Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      - Resigned
+      required: true
+    - id: 15
+      name: job_grade
+      label: Job Grade
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: reporting_manager
+      label: Reporting Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: job_description
+      label: Job Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: job_duties
+      label: Job Duties
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: work_hours
+      label: Work Hours
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: job_classification_type
+      label: Job Classification Type
+      hint: null
+      type: select_multiple
+      options:
+      - Management
+      - Non-Exempt
+      - Exempt
+      required: true
+    - id: 21
+      name: job_grade_type
+      label: Job Grade Type
+      hint: null
+      type: select_multiple
+      options:
+      - Non-Exempt
+      - Exempt
+      - Overtime
+      required: false
+    - id: 22
+      name: job_family
+      label: Job Family
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: supervisor_name_2
+      label: Supervisor Name 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: team
+      label: Team
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false

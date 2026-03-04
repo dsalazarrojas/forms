@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: stakeholder_analysis_form
+    pages:
+    - id: 1
+      name: intro
+      label: Introduction
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: stakeholder_type
+      label: StakeholderType
+      hint: null
+      type: select_one
+      options:
+      - Business
+      - Government
+      - NonProfitOrganization
+      required: true
+    - id: 3
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: description
+      label: Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: relationship
+      label: Relationship
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: frequency
+      label: Frequency
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: stakeholder_organisation
+      label: StakeholderOrganisation
+      hint: null
+      type: select_multiple
+      options:
+      - Business
+      - Government
+      - NonProfitOrganization
+      required: true
+    - id: 10
+      name: impact
+      label: Impact
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: priority
+      label: Priority
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: attachment
+      label: Attachment
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: follow_up
+      label: Follow up
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: next_steps
+      label: Next Steps
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: stakeholder_contact
+      label: StakeholderContact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: stakeholder_location
+      label: StakeholderLocation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: stakeholder_level
+      label: StakeholderLevel
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: stakeholder_category
+      label: StakeholderCategory
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: stakeholder_department
+      label: StakeholderDepartment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: stakeholder_role
+      label: StakeholderRole
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: stakeholder_group
+      label: StakeholderGroup
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: stakeholder_notes
+      label: StakeholderNotes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: stakeholder_other
+      label: StakeholderOther
+      hint: null
+      type: text
+      options: []
+      required: false

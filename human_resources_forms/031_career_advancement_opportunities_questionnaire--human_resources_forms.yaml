@@ -1,0 +1,83 @@
+inputSchema:
+  type: object
+  properties:
+    title: Career Advancement Opportunities Questionnaire
+    pages:
+    - id: 1
+      name: header
+      label: -- Employee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee name
+      hint: Full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: Team or unit
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: current_role
+      label: Current role
+      hint: Job title
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: years_in_role
+      label: Years in current role
+      hint: Approximate years
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: career_interest_areas
+      label: Career interest areas
+      hint: Choose areas of interest
+      type: select_multiple
+      options:
+      - Leadership
+      - Technical skills
+      - Project management
+      - Cross functional mobility
+      required: false
+    - id: 7
+      name: training_needs
+      label: Training needs
+      hint: What training would help advancement
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: readiness_for_promotion
+      label: Readiness for promotion
+      hint: Self assessment of readiness
+      type: select_one
+      options:
+      - Ready now
+      - Ready within 6 months
+      - Ready within 1 year
+      - Not ready
+      required: true
+    - id: 9
+      name: barriers_to_advancement
+      label: Barriers to advancement
+      hint: Perceived obstacles to career growth
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: additional_comments
+      label: Additional comments
+      hint: Any other relevant information
+      type: text
+      options: []
+      required: false

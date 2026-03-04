@@ -1,0 +1,95 @@
+inputSchema:
+  type: object
+  properties:
+    title: internship_leave_application_form
+    pages:
+    - id: 1
+      name: form_header
+      label: form_header
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: applicant_name
+      label: applicant_name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: leave_start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: leave_end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: reason_for_leave
+      label: reason_for_leave
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: supervisor_approval_status
+      label: supervisor_approval
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Rejected
+      - Pending
+      required: true
+    - id: 7
+      name: comments
+      label: comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: leave_start_time
+      label: start_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 10
+      name: leave_end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: leave_duration
+      label: duration
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: leave_type
+      label: type
+      hint: null
+      type: select_one
+      options:
+      - Vacation
+      - Sick Leave
+      - Emergency Leave
+      required: true

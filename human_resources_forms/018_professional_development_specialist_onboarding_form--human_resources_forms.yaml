@@ -1,0 +1,59 @@
+inputSchema:
+  type: object
+  properties:
+    title: professional_development_specialist_onboarding_form
+    pages:
+    - id: 1
+      name: new_hire_info
+      label: New Hire Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: training_needs
+      label: Training Needs
+      hint: What training needs does this new hire have?
+      type: select_multiple
+      options:
+      - Training for new hire
+      - Ongoing training for new hire
+      - Other
+      required: false
+    - id: 3
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: manager_info
+      label: Manager Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: training_status
+      label: Training Status
+      hint: null
+      type: select_one
+      options:
+      - Completed
+      - Not Completed
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 7
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false

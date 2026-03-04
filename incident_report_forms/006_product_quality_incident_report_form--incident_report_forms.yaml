@@ -1,0 +1,85 @@
+inputSchema:
+  type: object
+  properties:
+    title: Product Quality Incident Report Form
+    pages:
+    - id: 1
+      name: product_quality_incident_report_form
+      label: Report Incident
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incident_type
+      label: Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: description_of_incident
+      label: Description of Incident
+      hint: Briefly describe the issue
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: affected_product
+      label: Affected Product
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: affected_product_version
+      label: Affected Product Version
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: affected_component
+      label: Affected Component
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: priority
+      label: Priority
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: report_by
+      label: Report by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: report_by_email
+      label: Report by Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: report_by_phone
+      label: Report by Phone
+      hint: null
+      type: text
+      options: []
+      required: false

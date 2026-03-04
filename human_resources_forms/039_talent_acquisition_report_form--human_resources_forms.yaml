@@ -1,0 +1,98 @@
+inputSchema:
+  type: object
+  properties:
+    title: Talent Acquisition Report Form
+    pages:
+    - id: 1
+      name: candidate_information
+      label: Candidate Information
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: hiring_processes
+      label: Hiring Process
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: candidate_resume
+      label: Candidate Resume
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: candidate_skills
+      label: Candidate Skills
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: interview_date
+      label: Interview Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: job_title
+      label: Job Title
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: job_type
+      label: Job Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: job_level
+      label: Job Level
+      hint: null
+      type: select_multiple
+      options:
+      - High
+      - Low
+      required: false
+    - id: 9
+      name: job_category
+      label: Job Category
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: interviewers
+      label: Interviewers
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: hiring_manager
+      label: Hiring Manager
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

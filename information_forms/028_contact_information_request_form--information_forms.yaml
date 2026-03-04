@@ -1,0 +1,95 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: Contact Information Request Form
+    pages:
+      - id: 1
+        name: header
+        label: -- Contact Information Request --
+        hint: Use this form to request contact details from potential patients or attendees
+        type: note
+        options: []
+        required: false
+      - id: 2
+        name: requester_name
+        label: Requester name
+        hint: Name of the person requesting information
+        type: text
+        options: []
+        required: true
+      - id: 3
+        name: requester_email
+        label: Requester email
+        hint: Email for communication about this request
+        type: email
+        options: []
+        required: true
+      - id: 4
+        name: institution_name
+        label: Institution or clinic name
+        hint: If applicable
+        type: text
+        options: []
+        required: false
+      - id: 5
+        name: patient_name
+        label: Patient or contact name
+        hint: Name of the person whose contact is requested
+        type: text
+        options: []
+        required: false
+      - id: 6
+        name: contact_reason
+        label: Reason for contact request
+        hint: Brief reason for requesting contact information
+        type: text
+        options: []
+        required: true
+      - id: 7
+        name: preferred_contact_method
+        label: Preferred contact method
+        hint: How should the subject be contacted
+        type: select_one
+        options:
+          - Phone
+          - Email
+          - No preference
+        required: false
+      - id: 8
+        name: consent_confirmation
+        label: Consent confirmation
+        hint: Confirm you have consent to request contact details
+        type: select_one
+        options:
+          - Yes
+          - No
+        required: true
+      - id: 9
+        name: urgency
+        label: Urgency of request
+        hint: Indicate how quickly the information is needed
+        type: select_one
+        options:
+          - Immediate
+          - Within 24 hours
+          - Within 3 days
+          - Routine
+        required: false
+      - id: 10
+        name: additional_notes
+        label: Additional notes
+        hint: Any other relevant information for processing the request
+        type: text
+        options: []
+        required: false

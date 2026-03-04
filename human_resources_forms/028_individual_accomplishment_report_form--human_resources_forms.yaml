@@ -1,0 +1,124 @@
+inputSchema:
+  type: object
+  properties:
+    title: Individual Accomplishment Report Form
+    pages:
+    - id: 1
+      name: first_page
+      label: First Page
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: section_1
+      label: Accomplishments
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: accomplishment_1
+      label: Accomplishment 1
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: accomplishment_2
+      label: Accomplishment 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: section_2
+      label: Goals
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: prophets_name
+      label: Prophets Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: prophets_email
+      label: Prophets Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: prophets_phone
+      label: Prophets Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: section_3
+      label: Evaluation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: overall_evaluation
+      label: Overall Evaluation
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: section_4
+      label: Development Plan
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 12
+      name: development_plan
+      label: Development Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: section_5
+      label: Closing
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 14
+      name: closing_comments
+      label: Closing Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: signed
+      label: Signed
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

@@ -1,0 +1,92 @@
+inputSchema:
+  type: object
+  properties:
+    title: driving_record_request_form
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: driver_id
+      label: Driver Id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 3
+      name: license_number
+      label: License Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: date_of_issue
+      label: Date Of Issue
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: license_class
+      label: License Class
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: license_status
+      label: License Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''active''}'
+      - '{''value'': ''inactive''}'
+      - '{''value'': ''suspended''}'
+      required: false
+    - id: 8
+      name: employer
+      label: Employer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: manager
+      label: Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: manager_phone
+      label: Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false

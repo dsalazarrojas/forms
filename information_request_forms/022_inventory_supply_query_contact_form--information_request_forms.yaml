@@ -1,0 +1,63 @@
+inputSchema:
+  type: object
+  properties:
+    title: inventory_supply_query_contact_form
+    pages:
+    - id: 1
+      name: supplier
+      label: supplier
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_info
+      label: contact_info
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: inquiry_type
+      label: inquiry_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: quantity
+      label: quantity
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: start_date
+      label: start_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: end_date
+      label: end_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: end_time
+      label: end_time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: note
+      label: note
+      hint: null
+      type: note
+      options: []
+      required: false

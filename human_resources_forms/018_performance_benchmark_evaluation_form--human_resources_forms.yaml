@@ -1,0 +1,81 @@
+inputSchema:
+  type: object
+  properties:
+    title: Performance Benchmark Evaluation Form
+    pages:
+    - id: 1
+      name: performance_benchmark
+      label: Performance Benchmark
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: job_position
+      label: Job Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: performance_benchmark_date
+      label: Performance Benchmark Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 6
+      name: performance_benchmark_time
+      label: Performance Benchmark Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: evaluation_benchmark
+      label: Evaluation Benchmark
+      hint: null
+      type: select_multiple
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false
+    - id: 8
+      name: performance_benchmark_score
+      label: Performance Benchmark Score
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: performance_benchmark_notes
+      label: Performance Benchmark Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: evaluation_benchmark_frequency
+      label: Evaluation Benchmark Frequency
+      hint: null
+      type: select_one
+      options:
+      - option_1
+      - option_2
+      - option_3
+      required: false

@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: <string>
+    pages:
+    - id: 1
+      name: job_title
+      label: job_title
+      hint: <string>
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: job_description
+      label: job_description
+      hint: <string>
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: job_requirements
+      label: job_requirements
+      hint: <string>
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: job_type
+      label: job_type
+      hint: <string>
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: job_location
+      label: job_location
+      hint: <string>
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: job_start_date
+      label: job_start_date
+      hint: <string>
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: job_end_date
+      label: job_end_date
+      hint: <string>
+      type: date
+      options: []
+      required: false
+    - id: 8
+      name: job_salary
+      label: job_salary
+      hint: <string>
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: job_status
+      label: job_status
+      hint: <string>
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false
+    - id: 10
+      name: job_category
+      label: job_category
+      hint: <string>
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 11
+      name: job_priority
+      label: job_priority
+      hint: <string>
+      type: number
+      options: []
+      required: false
+    - id: 12
+      name: job_notes
+      label: job_notes
+      hint: <string>
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: job_email
+      label: job_email
+      hint: <string>
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: job_phone
+      label: job_phone
+      hint: <string>
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: job_applicant
+      label: job_applicant
+      hint: <string>
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,106 @@
+inputSchema:
+  type: object
+  properties:
+    title: Standard Communication Induction Form
+    pages:
+    - id: 1
+      name: onboarding_details
+      label: Onboarding Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: contact_details
+      label: Contact Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: communication_preferences
+      label: Communication Preferences
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: policy_acknowledgments
+      label: Policy Acknowledgments
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: manager_details
+      label: Manager Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: manager_contact
+      label: Manager Contact
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: emergency_contact
+      label: Emergency Contact
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: policy_ack
+      label: Policy Ack
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: staff_id
+      label: Staff ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 10
+      name: emergency_number
+      label: Emergency Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emergency_name
+      label: Emergency Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false

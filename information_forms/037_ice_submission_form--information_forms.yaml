@@ -1,0 +1,191 @@
+inputSchema:
+  type: object
+  properties:
+    title: ICE Submission Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: address
+      label: Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_one
+      options:
+      - Concern
+      - Incident
+      - Event
+      required: true
+    - id: 6
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: submitter_info
+      label: Submitter Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submitter_department
+      label: Submitter Department
+      hint: null
+      type: select_one
+      options:
+      - Accounting
+      - IT
+      - Operations
+      - Other
+      required: true
+    - id: 9
+      name: submitter_position
+      label: Submitter Position
+      hint: null
+      type: select_multiple
+      options:
+      - Manager
+      - Assistant Manager
+      - Director
+      - Other
+      required: false
+    - id: 10
+      name: submitter_email
+      label: Submitter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 11
+      name: submitter_phone
+      label: Submitter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitter_address
+      label: Submitter Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: report_date
+      label: Report Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: incident_time
+      label: Incident Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 16
+      name: incident_time_note
+      label: Incident Time Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: submitter_time
+      label: Submitter Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 18
+      name: submitter_time_note
+      label: Submitter Time Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: submitter_location
+      label: Submitter Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: submitter_department_location
+      label: Submitter Department Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: submitter_comments
+      label: Submitter Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: submitter_notes
+      label: Submitter Notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: submitter_other
+      label: Submitter Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: submitter_attachments
+      label: Submitter Attachments
+      hint: null
+      type: text
+      options: []
+      required: false

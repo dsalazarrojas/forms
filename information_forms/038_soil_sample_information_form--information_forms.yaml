@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Soil Sample Information Form
+    pages:
+    - id: 1
+      name: sample_id
+      label: Sample ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: lab_location
+      label: laboratory location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: sample_date
+      label: Sample Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: sample_time
+      label: Sample Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: sample_weight
+      label: Sample Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: sample_description
+      label: Sample Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: soil_type
+      label: Soil Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: sample_container
+      label: Sample Container
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: sample_condition
+      label: Sample Condition
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 10
+      name: sampling_technique
+      label: Sampling Technique
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: sampling_equipment
+      label: Sampling Equipment
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: submit_date
+      label: Submit Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: lab_received
+      label: Laboratory Received
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: lab_sample_id
+      label: Lab Sample ID
+      hint: null
+      type: text
+      options: []
+      required: false

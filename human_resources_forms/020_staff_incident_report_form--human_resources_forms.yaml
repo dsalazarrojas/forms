@@ -1,0 +1,198 @@
+inputSchema:
+  type: object
+  properties:
+    title: Staff Incident Report Form
+    pages:
+    - id: 1
+      name: staff_incident_report
+      label: Incident Report
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: incident_location
+      label: Incident Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: incident_description
+      label: Incident Description
+      hint: A clear and concise description of what happened.
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: incident_cause
+      label: Incident Cause
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: witness_list
+      label: Witness List
+      hint: null
+      type: select_multiple
+      options:
+      - Witness 1
+      - Witness 2
+      - Witness 3
+      required: false
+    - id: 7
+      name: incident_outcome
+      label: Incident Outcome
+      hint: null
+      type: select_one
+      options:
+      - Outcome 1
+      - Outcome 2
+      - Outcome 3
+      required: false
+    - id: 8
+      name: incident_reporter
+      label: Incident Reporter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: incident_status
+      label: Incident Status
+      hint: null
+      type: select_one
+      options:
+      - Status 1
+      - Status 2
+      - Status 3
+      required: true
+    - id: 10
+      name: incident_resolution
+      label: Incident Resolution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: comments
+      label: Comments
+      hint: Additional comments about the incident.
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: incident_reporter_email
+      label: Incident Reporter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: incident_reporter_phone
+      label: Incident Reporter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: incident_escalation_date
+      label: Escalation Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 15
+      name: incident_escalation_location
+      label: Escalation Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: incident_escalation_description
+      label: Escalation Description
+      hint: A clear and concise description of what happened.
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: incident_escalation_cause
+      label: Escalation Cause
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: witness_escalation_list
+      label: Witness List (Escalation)
+      hint: null
+      type: select_multiple
+      options:
+      - Witness 1
+      - Witness 2
+      - Witness 3
+      required: false
+    - id: 19
+      name: escalation_outcome
+      label: Escalation Outcome
+      hint: null
+      type: select_one
+      options:
+      - Outcome 1
+      - Outcome 2
+      - Outcome 3
+      required: false
+    - id: 20
+      name: escalation_reporter
+      label: Escalation Reporter
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: escalation_status
+      label: Escalation Status
+      hint: null
+      type: select_one
+      options:
+      - Status 1
+      - Status 2
+      - Status 3
+      required: true
+    - id: 22
+      name: escalation_resolution
+      label: Escalation Resolution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: comments_escalation
+      label: Comments (Escalation)
+      hint: Additional comments about the escalation.
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: incident_reporter_manager_name
+      label: Incident Reporter Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: incident_reporter_manager_email
+      label: Incident Reporter Manager Email
+      hint: null
+      type: text
+      options: []
+      required: false

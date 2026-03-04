@@ -1,0 +1,240 @@
+inputSchema:
+  type: object
+  properties:
+    title: Apartment Search Criteria Form
+    pages:
+    - id: 1
+      name: renter_name
+      label: Renter name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: Email address
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: contact_phone
+      label: Phone number
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: search_date
+      label: Date of apartment search
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: rental_budget_min
+      label: Minimum monthly budget
+      hint: In dollars
+      type: number
+      options: []
+      required: true
+    - id: 6
+      name: rental_budget_max
+      label: Maximum monthly budget
+      hint: In dollars
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: preferred_location
+      label: Preferred location or neighborhood
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: location_flexibility
+      label: Flexibility on location
+      hint: null
+      type: select_one
+      options:
+      - Must be in specified area
+      - Flexible but prefer area
+      - Very flexible on location
+      required: true
+    - id: 9
+      name: commute_time_acceptable
+      label: Maximum acceptable commute time
+      hint: In minutes
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: bedrooms_min
+      label: Minimum bedrooms
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 11
+      name: bedrooms_preferred
+      label: Preferred number of bedrooms
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: bathrooms_min
+      label: Minimum bathrooms
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 13
+      name: bathrooms_preferred
+      label: Preferred number of bathrooms
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 14
+      name: square_footage_min
+      label: Minimum square footage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: square_footage_preferred
+      label: Preferred square footage
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 16
+      name: move_in_date
+      label: Desired move-in date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: lease_term_preference
+      label: Lease term preference
+      hint: null
+      type: select_one
+      options:
+      - Month-to-month
+      - 3-6 months
+      - 1 year
+      - 2 years
+      - 3+ years
+      - Flexible
+      required: true
+    - id: 18
+      name: furnished_preference
+      label: Furnished preference
+      hint: null
+      type: select_one
+      options:
+      - Must be furnished
+      - Prefer furnished
+      - Unfurnished preferred
+      - No preference
+      required: true
+    - id: 19
+      name: number_of_occupants
+      label: Number of people occupying
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 20
+      name: pet_requirements
+      label: Pet requirements
+      hint: null
+      type: select_one
+      options:
+      - No pets
+      - Cats allowed
+      - Dogs allowed
+      - Any pets allowed
+      - Must allow pets
+      required: true
+    - id: 21
+      name: parking_requirement
+      label: Parking requirement
+      hint: null
+      type: select_one
+      options:
+      - Parking essential
+      - Prefer parking
+      - Not necessary
+      required: true
+    - id: 22
+      name: utilities_inclusion
+      label: Preference for utilities
+      hint: null
+      type: select_one
+      options:
+      - Must be included
+      - Prefer included
+      - Separate bills acceptable
+      - No preference
+      required: true
+    - id: 23
+      name: amenities_desired
+      label: Amenities desired
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Gym or fitness
+      - Pool
+      - Laundry in unit
+      - Laundry facilities
+      - Elevator
+      - Balcony or patio
+      - Hardwood floors
+      - Modern appliances
+      - Air conditioning
+      - Heating system
+      - Security system
+      - None required
+      required: false
+    - id: 24
+      name: neighborhood_priorities
+      label: Neighborhood priorities
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Safe area
+      - Quiet area
+      - Young professional scene
+      - Family-friendly
+      - Close to shops
+      - Close to restaurants
+      - Good schools nearby
+      - Public transportation
+      - Walkable area
+      required: false
+    - id: 25
+      name: must_have_features
+      label: Must-have features
+      hint: Non-negotiable items
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: nice_to_have_features
+      label: Nice-to-have features
+      hint: Preferred but not essential
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: deal_breakers
+      label: Deal-breaker issues or conditions
+      hint: What would disqualify property
+      type: text
+      options: []
+      required: false

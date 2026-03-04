@@ -1,0 +1,195 @@
+inputSchema:
+  type: object
+  properties:
+    title: Personal And Family Data Update
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date Of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: family_status
+      label: Family Status
+      hint: null
+      type: select_one
+      options:
+      - single
+      - married
+      - divorced
+      - separated
+      required: true
+    - id: 5
+      name: family_status_other
+      label: Family Status Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: family_members_count
+      label: Family Members Count
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: address
+      label: Address
+      hint: null
+      type: select_multiple
+      options:
+      - physical
+      - mailing
+      required: true
+    - id: 10
+      name: relationship
+      label: Relationship
+      hint: null
+      type: select_one
+      options:
+      - parent
+      - guardian
+      - family member
+      required: true
+    - id: 11
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: emergency_contact_relation
+      label: Emergency Contact Relation
+      hint: null
+      type: select_one
+      options:
+      - parent
+      - guardian
+      - family member
+      required: false
+    - id: 14
+      name: emergency_contact_note
+      label: Emergency Contact Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: next_of_kin
+      label: Next Of Kin
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: next_of_kin_phone
+      label: Next Of Kin Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: next_of_kin_relation
+      label: Next Of Kin Relation
+      hint: null
+      type: select_one
+      options:
+      - spouse
+      - sibling
+      - family member
+      required: false
+    - id: 18
+      name: next_of_kin_phone_2
+      label: Next Of Kin Phone 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: next_of_kin_note
+      label: Next Of Kin Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: medical_note
+      label: Medical Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: family_medical_history
+      label: Family Medical History
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: medical_history_other
+      label: Medical History Other
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: medical_history_note
+      label: Medical History Note
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: medical_history_date
+      label: Medical History Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: medical_history_time
+      label: Medical History Time
+      hint: null
+      type: time
+      options: []
+      required: false

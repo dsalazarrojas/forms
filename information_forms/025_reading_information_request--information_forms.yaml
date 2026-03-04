@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: Reading Information Request
+    pages:
+    - id: 1
+      name: user_info
+      label: User Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: reading_background
+      label: Reading Background
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: reading_preferences
+      label: Reading Preferences
+      hint: null
+      type: select_one
+      options:
+      - Reading 1-2 times a month
+      - Reading 3-4 times a month
+      - Reading 5 or more times a month
+      required: true
+    - id: 4
+      name: preferred_format
+      label: Preferred Format
+      hint: null
+      type: select_multiple
+      options:
+      - E-book
+      - Audio book
+      - Print book
+      required: true
+    - id: 5
+      name: email
+      label: Email
+      hint: Please enter a valid email address.
+      type: email
+      options: []
+      required: true
+    - id: 6
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 8
+      name: submit_comment
+      label: Submission Confirmation
+      hint: null
+      type: text
+      options: []
+      required: false

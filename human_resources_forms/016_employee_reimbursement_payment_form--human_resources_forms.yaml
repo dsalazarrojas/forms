@@ -1,0 +1,69 @@
+inputSchema:
+  type: object
+  properties:
+    title: employee_reimbursement_payment_form
+    pages:
+    - id: 1
+      name: employee_reimbursement_payment_form_fields
+      label: employee_reimbursement_payment_form_fields
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: employee_id
+      label: employee_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 4
+      name: expense_type
+      label: expense_type
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 5
+      name: amount
+      label: amount
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: payment_method
+      label: payment_method
+      hint: null
+      type: select_one
+      options:
+      - option1
+      - option2
+      - option3
+      required: false
+    - id: 7
+      name: submitted_by
+      label: submitted_by
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 8
+      name: submitted_to
+      label: submitted_to
+      hint: null
+      type: email
+      options: []
+      required: false

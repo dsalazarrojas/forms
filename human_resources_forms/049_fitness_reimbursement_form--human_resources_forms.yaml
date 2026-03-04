@@ -1,0 +1,140 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness Reimbursement Form
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: manager_id
+      label: Manager ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 9
+      name: date_of_hire
+      label: Date of Hire
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: date_of_departure
+      label: Date of Departure
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: employee_status
+      label: Employee Status
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''active'', ''label'': ''Active''}'
+      - '{''value'': ''inactive'', ''label'': ''Inactive''}'
+      - '{''value'': ''terminated'', ''label'': ''Terminated''}'
+      required: true
+    - id: 12
+      name: employee_type
+      label: Employee Type
+      hint: null
+      type: select_multiple
+      options:
+      - '{''value'': ''full-time'', ''label'': ''Full Time''}'
+      - '{''value'': ''part-time'', ''label'': ''Part Time''}'
+      - '{''value'': ''contract'', ''label'': ''Contract''}'
+      required: true
+    - id: 13
+      name: date_of_request
+      label: Date of Request
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: requested_amount
+      label: Requested Amount
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 15
+      name: reimbursement_type
+      label: Reimbursement Type
+      hint: null
+      type: select_one
+      options:
+      - '{''value'': ''gym_member'', ''label'': ''Gym Member''}'
+      - '{''value'': ''class_member'', ''label'': ''Class Member''}'
+      - '{''value'': ''membership'', ''label'': ''Membership''}'
+      required: true
+    - id: 16
+      name: reimbursement_date
+      label: Reimbursement Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 17
+      name: employee_signature
+      label: Employee Signature
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 18
+      name: manager_signature
+      label: Manager Signature
+      hint: null
+      type: note
+      options: []
+      required: true

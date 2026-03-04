@@ -1,0 +1,67 @@
+inputSchema:
+  type: object
+  properties:
+    title: hr_digital_integration_project_application_form
+    pages:
+    - id: 1
+      name: project_details
+      label: Project Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: timeline
+      label: Time Line
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: supporting_documents
+      label: Supporting Documents
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 4
+      name: project_leads
+      label: Project Lead
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: team_members
+      label: Team Members
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: email
+      label: Email
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: project_status
+      label: Project Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: false

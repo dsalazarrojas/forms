@@ -1,0 +1,207 @@
+inputSchema:
+  type: object
+  properties:
+    title: Client Database Update Request
+    pages:
+    - id: 1
+      name: client_first_name
+      label: First Name
+      hint: Your legal first name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: client_last_name
+      label: Last Name
+      hint: Your legal last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: client_email
+      label: Email Address
+      hint: Primary contact email
+      type: email
+      options: []
+      required: true
+    - id: 4
+      name: client_phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: client_id_number
+      label: Client ID Number
+      hint: Your account or client ID
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date_of_birth
+      label: Date of Birth
+      hint: For verification purposes
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: update_type
+      label: Type of Update Request
+      hint: What are you updating?
+      type: select_one
+      options:
+      - Contact Information
+      - Address Change
+      - Insurance Information
+      - Emergency Contact
+      - Payment Method
+      - Preferences
+      - Other
+      required: true
+    - id: 8
+      name: old_address
+      label: Previous Address
+      hint: Your old address if moving
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: new_address
+      label: New Address
+      hint: Complete new address
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: new_city
+      label: New City
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: new_state
+      label: New State
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: new_zip
+      label: New ZIP Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: new_email
+      label: New Email Address
+      hint: If changing email
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: new_phone
+      label: New Phone Number
+      hint: If changing phone
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Best contact number
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: emergency_contact_relationship
+      label: Emergency Contact Relationship
+      hint: How are they related?
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: insurance_provider
+      label: Insurance Provider
+      hint: Company name
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: insurance_policy_number
+      label: Insurance Policy Number
+      hint: Policy ID
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: insurance_group_number
+      label: Insurance Group Number
+      hint: Group ID
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: communication_preferences
+      label: Communication Preferences
+      hint: How should we contact you?
+      type: select_multiple
+      options:
+      - Email
+      - Phone Call
+      - Text Message
+      - Mail
+      - Patient Portal
+      required: false
+    - id: 21
+      name: language_preference
+      label: Language Preference
+      hint: Preferred language for communication
+      type: select_one
+      options:
+      - English
+      - Spanish
+      - French
+      - Chinese
+      - Vietnamese
+      - Other
+      required: false
+    - id: 22
+      name: update_reason
+      label: Reason for Update
+      hint: Why are you making this change?
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: effective_date
+      label: When Should This Take Effect?
+      hint: Desired effective date
+      type: date
+      options: []
+      required: true
+    - id: 24
+      name: information_accuracy
+      label: I Confirm All Information Is Accurate
+      hint: Truthfulness confirmation
+      type: select_one
+      options:
+      - I Confirm
+      - I Do Not Confirm
+      required: true
+    - id: 25
+      name: request_date
+      label: Request Date
+      hint: null
+      type: date
+      options: []
+      required: true

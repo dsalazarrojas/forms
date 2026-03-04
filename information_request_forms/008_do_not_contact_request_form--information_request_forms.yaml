@@ -1,0 +1,70 @@
+inputSchema:
+  type: object
+  properties:
+    title: Do Not Contact Request Form
+    pages:
+    - id: 1
+      name: contact_method
+      label: Contact Method
+      hint: null
+      type: select_one
+      options:
+      - email
+      - phone
+      - other
+      required: false
+    - id: 2
+      name: contact_frequency
+      label: Frequency Of Contact
+      hint: null
+      type: select_one
+      options:
+      - weekly
+      - biweekly
+      - monthly
+      - rarely
+      required: false
+    - id: 3
+      name: email_address
+      label: Email Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: other_contact_method
+      label: Other Contact Method
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_multiple
+      options:
+      - chatjimmy
+      - Other
+      required: false

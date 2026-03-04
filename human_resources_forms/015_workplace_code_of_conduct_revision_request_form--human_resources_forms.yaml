@@ -1,0 +1,138 @@
+inputSchema:
+  type: object
+  properties:
+    title: Workplace Code Of Conduct Revision Request Form
+    pages:
+    - id: 1
+      name: form_submission
+      label: form_submission
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: suggestion
+      label: suggestion
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: category
+      label: category
+      hint: null
+      type: select_one
+      options:
+      - Code of Conduct
+      - Policy
+      - Procedure
+      - Process
+      - Protocol
+      required: false
+    - id: 6
+      name: department
+      label: department
+      hint: null
+      type: select_multiple
+      options:
+      - HR
+      - Management
+      - Marketing
+      - Operations
+      - Research
+      required: false
+    - id: 7
+      name: location
+      label: location
+      hint: null
+      type: select_multiple
+      options:
+      - New York
+      - Los Angeles
+      - Chicago
+      - London
+      - Paris
+      required: false
+    - id: 8
+      name: policy_version
+      label: policy_version
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: submission_date
+      label: submission_date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: reviewer_comments
+      label: reviewer_comments
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 11
+      name: approved
+      label: approved
+      hint: null
+      type: select_one
+      options:
+      - Approved
+      - Denied
+      - Pending
+      required: false
+    - id: 12
+      name: reason_denied
+      label: reason_denied
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: reviewer
+      label: reviewer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submission_status
+      label: submission_status
+      hint: null
+      type: select_one
+      options:
+      - Open
+      - In Progress
+      - Completed
+      required: false
+    - id: 15
+      name: submission_notes
+      label: submission_notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: form_submission_date
+      label: form_submission_date
+      hint: null
+      type: date
+      options: []
+      required: false

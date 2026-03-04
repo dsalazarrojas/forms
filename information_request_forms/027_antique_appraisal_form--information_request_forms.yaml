@@ -1,0 +1,318 @@
+inputSchema:
+  type: object
+  properties:
+    title: Antique Appraisal Form
+    pages:
+    - id: 1
+      name: appraisal_date
+      label: Appraisal Date
+      hint: Date of appraisal
+      type: date
+      options: []
+      required: true
+    - id: 2
+      name: appraiser_name
+      label: Appraiser Name
+      hint: Full name of appraiser
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: appraiser_company
+      label: Appraisal Company
+      hint: Company name
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: appraiser_certification
+      label: Appraiser Certification
+      hint: License or certification number
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: client_name
+      label: Client Name
+      hint: Owner of the item
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: client_email
+      label: Client Email
+      hint: Contact email
+      type: email
+      options: []
+      required: true
+    - id: 7
+      name: client_phone
+      label: Client Phone
+      hint: Contact phone
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: appraisal_purpose
+      label: Purpose of Appraisal
+      hint: Why is appraisal needed
+      type: select_one
+      options:
+      - Insurance coverage
+      - Estate planning
+      - Sale or purchase
+      - Donation
+      - Divorce settlement
+      - Curiosity
+      - Other
+      required: true
+    - id: 9
+      name: item_category
+      label: Item Category
+      hint: Type of antique
+      type: select_one
+      options:
+      - Furniture
+      - Jewelry
+      - Ceramics or pottery
+      - Glassware
+      - Silver or metalware
+      - Paintings
+      - Prints or drawings
+      - Books or manuscripts
+      - Coins or currency
+      - Stamps
+      - Textiles
+      - Toys or dolls
+      - Other
+      required: true
+    - id: 10
+      name: item_description
+      label: Item Description
+      hint: Detailed description
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: item_dimensions
+      label: Item Dimensions
+      hint: Height x Width x Depth
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: item_weight
+      label: Item Weight
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: maker_or_manufacturer
+      label: Maker or Manufacturer
+      hint: If known
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: country_of_origin
+      label: Country of Origin
+      hint: Where was it made
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: approximate_age
+      label: Approximate Age
+      hint: When was it made
+      type: select_one
+      options:
+      - Pre-1800
+      - 1800 to 1850
+      - 1850 to 1900
+      - 1900 to 1920
+      - 1920 to 1940
+      - 1940 to 1960
+      - 1960 or later
+      - Unknown
+      required: true
+    - id: 16
+      name: period_or_style
+      label: Period or Style
+      hint: Victorian, Art Deco, etc.
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: materials
+      label: Materials
+      hint: What is it made of
+      type: select_multiple
+      options:
+      - Wood
+      - Metal
+      - Ceramic
+      - Glass
+      - Fabric or textile
+      - Paper
+      - Leather
+      - Stone
+      - Ivory or bone
+      - Other
+      required: true
+    - id: 18
+      name: condition
+      label: Overall Condition
+      hint: State of the item
+      type: select_one
+      options:
+      - Excellent
+      - Very good
+      - Good
+      - Fair
+      - Poor
+      required: true
+    - id: 19
+      name: condition_details
+      label: Condition Details
+      hint: Describe any damage or wear
+      type: text
+      options: []
+      required: true
+    - id: 20
+      name: repairs_or_restoration
+      label: Repairs or Restoration
+      hint: Any work done
+      type: select_one
+      options:
+      - None
+      - Minor repairs
+      - Major repairs
+      - Full restoration
+      - Unknown
+      required: true
+    - id: 21
+      name: markings_or_signatures
+      label: Markings or Signatures
+      hint: Any identifying marks
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: provenance
+      label: Provenance
+      hint: History of ownership
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: previous_appraisals
+      label: Previous Appraisals
+      hint: Has it been appraised before
+      type: select_one
+      options:
+      - Yes, within 5 years
+      - Yes, over 5 years ago
+      - false
+      - Unknown
+      required: true
+    - id: 24
+      name: previous_value
+      label: Previous Appraised Value
+      hint: If known
+      type: number
+      options: []
+      required: false
+    - id: 25
+      name: comparable_sales
+      label: Comparable Sales
+      hint: Similar items sold recently
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: valuation_section
+      label: -- Valuation --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 27
+      name: replacement_value
+      label: Replacement Value
+      hint: Retail replacement value
+      type: number
+      options: []
+      required: true
+    - id: 28
+      name: fair_market_value
+      label: Fair Market Value
+      hint: For estate or donation
+      type: number
+      options: []
+      required: false
+    - id: 29
+      name: auction_estimate_low
+      label: Auction Estimate Low
+      hint: Low estimate range
+      type: number
+      options: []
+      required: false
+    - id: 30
+      name: auction_estimate_high
+      label: Auction Estimate High
+      hint: High estimate range
+      type: number
+      options: []
+      required: false
+    - id: 31
+      name: valuation_basis
+      label: Basis of Valuation
+      hint: How was value determined
+      type: text
+      options: []
+      required: true
+    - id: 32
+      name: market_analysis
+      label: Market Analysis
+      hint: Current market conditions
+      type: text
+      options: []
+      required: false
+    - id: 33
+      name: additional_notes
+      label: Additional Notes
+      hint: Any other observations
+      type: text
+      options: []
+      required: false
+    - id: 34
+      name: photos_attached
+      label: Photos Attached
+      hint: Number of photos
+      type: number
+      options: []
+      required: true
+    - id: 35
+      name: appraiser_signature
+      label: Appraiser Signature
+      hint: Digital signature
+      type: text
+      options: []
+      required: true
+    - id: 36
+      name: signature_date
+      label: Signature Date
+      hint: Date signed
+      type: date
+      options: []
+      required: true
+    - id: 37
+      name: disclaimer_acknowledged
+      label: Disclaimer Acknowledged
+      hint: Client understands terms
+      type: select_one
+      options:
+      - Yes, acknowledged
+      - Other
+      required: true

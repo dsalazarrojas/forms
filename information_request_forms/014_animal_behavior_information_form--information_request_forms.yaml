@@ -1,0 +1,231 @@
+inputSchema:
+  type: object
+  properties:
+    title: Animal Behavior Information Form
+    pages:
+    - id: 1
+      name: owner_name
+      label: Pet Owner Full Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: contact_email
+      label: Email Address
+      hint: For follow-up communication
+      type: email
+      options: []
+      required: true
+    - id: 3
+      name: contact_phone
+      label: Phone Number
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: form_intro
+      label: Animal Behavior Information Form
+      hint: Please provide detailed information about your pet's behavior to help
+        us better understand and assist
+      type: note
+      options: []
+      required: false
+    - id: 5
+      name: pet_name
+      label: Pet's Name
+      hint: What do you call your pet
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: pet_species
+      label: Species
+      hint: Type of animal
+      type: select_one
+      options:
+      - Dog
+      - Cat
+      - Bird
+      - Rabbit
+      - Other
+      required: true
+    - id: 7
+      name: pet_breed
+      label: Breed
+      hint: Breed or mix
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: pet_age
+      label: Age
+      hint: Years and months
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: pet_sex
+      label: Sex
+      hint: Biological sex
+      type: select_one
+      options:
+      - Male
+      - Female
+      required: true
+    - id: 10
+      name: neutered_status
+      label: Is your pet spayed or neutered
+      hint: Surgical status
+      type: select_one
+      options:
+      - Yes - spayed or neutered
+      - No - intact
+      - Planned for future
+      - Unknown
+      required: true
+    - id: 11
+      name: time_in_home
+      label: How long has your pet lived with you
+      hint: Duration
+      type: select_one
+      options:
+      - Less than 1 month
+      - 1-6 months
+      - 6 months to 1 year
+      - 1-3 years
+      - More than 3 years
+      required: true
+    - id: 12
+      name: behavior_concerns
+      label: What are your primary behavior concerns
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Aggression toward people
+      - Aggression toward dogs
+      - Aggression toward other animals
+      - Excessive barking or vocalization
+      - Destructive behavior
+      - House soiling
+      - Separation anxiety
+      - Fear or phobias
+      - Jumping on people
+      - Pulling on leash
+      - Resource guarding
+      - Chasing behaviors
+      - Other
+      required: true
+    - id: 13
+      name: behavior_history
+      label: Please describe the behavior concerns in detail
+      hint: When did it start, frequency, triggers
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: behavior_triggers
+      label: What seems to trigger the behavior
+      hint: Antecedents or situations
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: behavior_frequency
+      label: How often does the behavior occur
+      hint: Frequency
+      type: select_one
+      options:
+      - Multiple times daily
+      - Once daily
+      - Several times per week
+      - Once per week
+      - Rarely
+      - Only in specific situations
+      required: true
+    - id: 16
+      name: behavior_intensity
+      label: How intense is the behavior
+      hint: Severity level
+      type: select_one
+      options:
+      - Mild - easily managed
+      - Moderate - concerning but manageable
+      - Severe - difficult to manage
+      - Very severe - dangerous
+      required: true
+    - id: 17
+      name: previous_training
+      label: Has your pet received any training
+      hint: Training history
+      type: select_one
+      options:
+      - No training
+      - Basic obedience
+      - Advanced training
+      - Professional behavior training
+      required: true
+    - id: 18
+      name: training_methods
+      label: What training methods have you used
+      hint: Approaches tried
+      type: select_multiple
+      options:
+      - Positive reinforcement
+      - Clicker training
+      - Correction-based methods
+      - Professional trainer
+      - Online resources
+      - Books
+      - Nothing yet
+      required: false
+    - id: 19
+      name: medical_history
+      label: Does your pet have any medical conditions
+      hint: Health issues that may affect behavior
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: medications
+      label: Is your pet currently on any medications
+      hint: Include supplements
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: daily_routine
+      label: Describe your pet's typical daily routine
+      hint: Exercise, feeding, alone time
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: household_members
+      label: Who lives in your household
+      hint: Ages of all members
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: other_pets
+      label: Are there other pets in the home
+      hint: Describe
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: goals
+      label: What are your goals for addressing the behavior
+      hint: What would success look like
+      type: text
+      options: []
+      required: true
+    - id: 25
+      name: additional_info
+      label: Any other information that might be helpful
+      hint: Additional context
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,71 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Re Entry Assistance Application
+    pages:
+    - id: 1
+      name: first_page
+      label: First Page
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: contact
+      label: Contact
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: manager
+      label: Manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''Accounting''}'
+      - '{''label'': ''Marketing''}'
+      - '{''label'': ''Sales''}'
+      required: true
+    - id: 5
+      name: reason
+      label: Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 9
+      name: submit
+      label: Submit
+      hint: null
+      type: note
+      options: []
+      required: false

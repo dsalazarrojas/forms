@@ -1,0 +1,75 @@
+inputSchema:
+  type: object
+  properties:
+    title: Program Termination Acknowledgment
+    pages:
+    - id: 1
+      name: program_name
+      label: Program Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: termination_date
+      label: Termination Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: reason_for_termination
+      label: Reason for Termination
+      hint: null
+      type: select_one
+      options:
+      - Termination for cause
+      - Termination for convenience
+      - Termination other
+      required: false
+    - id: 4
+      name: reason_other
+      label: Other Termination Reason
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: participant_confirmation
+      label: Participant Confirmation
+      hint: Confirm participant has acknowledged program termination
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unknown
+      required: false
+    - id: 6
+      name: program_confirmation
+      label: Program Confirmation
+      hint: Confirm program has terminated participant
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unknown
+      required: false
+    - id: 7
+      name: training_provider_confirmation
+      label: Training Provider Confirmation
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 8
+      name: school_confirmation
+      label: School Confirmation
+      hint: Confirm school has terminated participant
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      - Unknown
+      required: false

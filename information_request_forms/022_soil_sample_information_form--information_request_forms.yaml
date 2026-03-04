@@ -1,0 +1,108 @@
+inputSchema:
+  type: object
+  properties:
+    title: Soil Sample Information Form
+    pages:
+    - id: 1
+      name: sample_id
+      label: sample_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 2
+      name: soil_type
+      label: soil_type
+      hint: null
+      type: select_one
+      options:
+      - Topsoil
+      - Subsoil
+      - Sandy
+      - Clay
+      - Silty
+      required: false
+    - id: 3
+      name: sample_date_received
+      label: sample_date_received
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: sample_date_requested
+      label: sample_date_requested
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: lab_id
+      label: lab_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: sample_description
+      label: sample_description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: collector_name
+      label: collector_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: project_id
+      label: project_id
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: project_name
+      label: project_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: client_name
+      label: client_name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: client_email
+      label: client_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: lab_notes
+      label: lab_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: collector_notes
+      label: collector_notes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: sample_weight
+      label: sample_weight
+      hint: null
+      type: number
+      options: []
+      required: false

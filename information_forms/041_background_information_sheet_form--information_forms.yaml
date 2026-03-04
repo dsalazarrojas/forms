@@ -1,0 +1,222 @@
+inputSchema:
+  type: object
+  properties:
+    title: Background Information Sheet Form
+    pages:
+    - id: 1
+      name: full_name
+      label: Full Legal Name
+      hint: First, middle, and last name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: preferred_name
+      label: Preferred Name
+      hint: If different from legal name
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: MM/DD/YYYY
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: gender
+      label: Gender
+      hint: Select gender
+      type: select_one
+      options:
+      - Male
+      - Female
+      - Non-binary
+      - Prefer not to say
+      - Other
+      required: true
+    - id: 5
+      name: marital_status
+      label: Marital Status
+      hint: Select status
+      type: select_one
+      options:
+      - Single
+      - Married
+      - Divorced
+      - Widowed
+      - Separated
+      - Domestic Partnership
+      required: false
+    - id: 6
+      name: current_address
+      label: Current Address
+      hint: Full street address
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: city
+      label: City
+      hint: City of residence
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: state
+      label: State
+      hint: State or province
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: country
+      label: Country
+      hint: Country of residence
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: years_at_address
+      label: Years at Current Address
+      hint: How long have you lived here
+      type: select_one
+      options:
+      - Less than 1 year
+      - 1 to 3 years
+      - 3 to 5 years
+      - 5 to 10 years
+      - Over 10 years
+      required: true
+    - id: 12
+      name: phone_home
+      label: Home Phone Number
+      hint: Primary contact number
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: phone_mobile
+      label: Mobile Phone Number
+      hint: Cell phone number
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: email
+      label: Email Address
+      hint: Primary email
+      type: email
+      options: []
+      required: true
+    - id: 15
+      name: emergency_contact_name
+      label: Emergency Contact Name
+      hint: Full name of contact
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: emergency_contact_phone
+      label: Emergency Contact Phone
+      hint: Contact number
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: emergency_contact_relation
+      label: Emergency Contact Relation
+      hint: Relationship to you
+      type: text
+      options: []
+      required: true
+    - id: 18
+      name: current_employer
+      label: Current Employer
+      hint: Company name
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: occupation
+      label: Occupation
+      hint: Job title or profession
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: annual_income
+      label: Annual Income Range
+      hint: Select income bracket
+      type: select_one
+      options:
+      - Under 25000
+      - 25000 to 50000
+      - 50000 to 75000
+      - 75000 to 100000
+      - 100000 to 150000
+      - Over 150000
+      - Prefer not to say
+      required: false
+    - id: 21
+      name: dependents
+      label: Number of Dependents
+      hint: How many dependents do you have
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: education_level
+      label: Highest Education Level
+      hint: Select highest completed
+      type: select_one
+      options:
+      - High School or GED
+      - Some College
+      - Associate Degree
+      - Bachelor Degree
+      - Master Degree
+      - Doctorate
+      - Professional Degree
+      required: false
+    - id: 23
+      name: languages_spoken
+      label: Languages Spoken
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - English
+      - Spanish
+      - French
+      - Mandarin
+      - Arabic
+      - Other
+      required: false
+    - id: 24
+      name: purpose_of_form
+      label: Purpose of This Information Sheet
+      hint: Why are you submitting this
+      type: select_one
+      options:
+      - Employment application
+      - Service application
+      - Membership registration
+      - Loan application
+      - Rental application
+      - Other
+      required: true
+    - id: 25
+      name: additional_information
+      label: Additional Information
+      hint: Any other relevant details
+      type: text
+      options: []
+      required: false

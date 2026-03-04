@@ -1,0 +1,116 @@
+inputSchema:
+  type: object
+  properties:
+    title: Investment Analyst Interview Form
+    pages:
+    - id: 1
+      name: candidate_name
+      label: Candidate Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: interviewer
+      label: Interviewer
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: rating
+      label: Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: technical_feedback
+      label: Technical Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: behavioral_feedback
+      label: Behavioral Feedback
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: recommendation
+      label: Recommendation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: additional_comments
+      label: Additional Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: rating_2
+      label: Rating 2
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: rating_3
+      label: Rating 3
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: technical_skills
+      label: Technical Skills
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 12
+      name: behavioral_skills
+      label: Behavioral Skills
+      hint: null
+      type: select_multiple
+      options:
+      - Option 1
+      - Option 2
+      - Option 3
+      required: false
+    - id: 13
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: time_spent
+      label: Time Spent
+      hint: null
+      type: time
+      options: []
+      required: false

@@ -1,0 +1,186 @@
+inputSchema:
+  type: object
+  properties:
+    title: General Information
+    pages:
+    - id: 1
+      name: application_used
+      label: Application Used
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 2
+      name: favorite_app
+      label: Favorite App
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 3
+      name: last_used
+      label: Last Used
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: first_opened
+      label: First Opened
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: last_time
+      label: Last Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 6
+      name: first_time
+      label: First Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 7
+      name: why_use_app
+      label: Why Use App
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 8
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: phone
+      label: Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: user_id
+      label: User ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: app_version
+      label: App Version
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: device_model
+      label: Device Model
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: operating_system
+      label: Operating System
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: browser_type
+      label: Browser Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 15
+      name: app_name
+      label: App Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 16
+      name: app_platform
+      label: App Platform
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: app_type
+      label: App Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: app_version
+      label: App Version
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: app_id
+      label: App ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 20
+      name: screen_size
+      label: Screen Size
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: screen_resolution
+      label: Screen Resolution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: screen_orientation
+      label: Screen Orientation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: app_category
+      label: App Category
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: app_rating
+      label: App Rating
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: app_rating_count
+      label: App Rating Count
+      hint: null
+      type: text
+      options: []
+      required: false

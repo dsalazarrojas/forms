@@ -1,0 +1,174 @@
+inputSchema:
+  type: object
+  properties:
+    title: HR Policy Training Time Off Form
+    pages:
+    - id: 1
+      name: request_time_off
+      label: Request Time Off
+      hint: null
+      type: select_multiple
+      options:
+      - Monday
+      - Tuesday
+      - Wednesday
+      - Thursday
+      - Friday
+      - Saturday
+      - Sunday
+      required: false
+    - id: 2
+      name: time_off_date
+      label: Time Off Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: from_time
+      label: From Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 4
+      name: to_time
+      label: To Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 5
+      name: reason_for_time_off
+      label: Reason for Time Off
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: manager_approval_status
+      label: Manager Approval Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Denied
+      required: false
+    - id: 7
+      name: comment
+      label: Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: employee_name
+      label: Employee Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: department
+      label: Department
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: location
+      label: Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 15
+      name: manager_phone
+      label: Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: manager_approval
+      label: Manager Approval
+      hint: null
+      type: select_one
+      options:
+      - 'False'
+      - 'True'
+      required: false
+    - id: 17
+      name: approved_date
+      label: Approved Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 18
+      name: declined_date
+      label: Declined Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 19
+      name: request_details
+      label: Request Details
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: manager_comment
+      label: Manager Comment
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - Pending
+      - Approved
+      - Denied
+      required: false
+    - id: 22
+      name: manager_comments
+      label: Manager Comments
+      hint: null
+      type: text
+      options: []
+      required: false

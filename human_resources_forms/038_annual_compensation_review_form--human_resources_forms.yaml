@@ -1,0 +1,200 @@
+inputSchema:
+  type: object
+  properties:
+    title: Annual Compensation Review Form
+    pages:
+    - id: 1
+      name: employee_info_header
+      label: -- Employee Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: employee_name
+      label: Employee Name
+      hint: Your full name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: employee_id
+      label: Employee ID
+      hint: Your employee ID number
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: email
+      label: Email Address
+      hint: Your email
+      type: email
+      options: []
+      required: true
+    - id: 5
+      name: department
+      label: Department
+      hint: Your department
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: position_title
+      label: Current Position Title
+      hint: Your job title
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: supervisor_name
+      label: Supervisor or Manager Name
+      hint: Your direct manager
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: employment_history_header
+      label: -- Employment History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: start_date
+      label: Employment Start Date
+      hint: When you started
+      type: date
+      options: []
+      required: true
+    - id: 10
+      name: tenure_years
+      label: Years of Service
+      hint: How long have you worked here
+      type: number
+      options: []
+      required: false
+    - id: 11
+      name: current_salary
+      label: Current Annual Salary
+      hint: Your current salary
+      type: number
+      options: []
+      required: true
+    - id: 12
+      name: salary_history_header
+      label: -- Salary History --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 13
+      name: salary_last_increase
+      label: Date of Last Salary Increase
+      hint: When was your last raise
+      type: date
+      options: []
+      required: false
+    - id: 14
+      name: increase_percentage
+      label: Last Increase Percentage
+      hint: Percentage of last salary increase
+      type: number
+      options: []
+      required: false
+    - id: 15
+      name: performance_header
+      label: -- Performance Review --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 16
+      name: performance_rating
+      label: Annual Performance Rating
+      hint: Rate your overall performance
+      type: select_one
+      options:
+      - Exceeds Expectations
+      - Meets Expectations
+      - Approaching Expectations
+      - Below Expectations
+      - Unsatisfactory
+      required: true
+    - id: 17
+      name: goals_achievement
+      label: Achievement of Annual Goals
+      hint: Did you meet your goals
+      type: select_one
+      options:
+      - Exceeded all goals
+      - Met all goals
+      - Met most goals
+      - Met some goals
+      - Did not meet goals
+      required: false
+    - id: 18
+      name: skills_development
+      label: Skills Development and Training
+      hint: Training or skills gained
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: compensation_review_header
+      label: -- Compensation Review --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 20
+      name: proposed_salary
+      label: Proposed New Annual Salary
+      hint: Recommended salary amount
+      type: number
+      options: []
+      required: false
+    - id: 21
+      name: increase_justification
+      label: Justification for Increase
+      hint: Reasons for proposed increase
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: bonus_eligibility
+      label: Bonus or Incentive Eligibility
+      hint: Eligible for bonus or incentives
+      type: select_one
+      options:
+      - Yes, eligible for bonus
+      - Yes, eligible for incentives
+      - Both eligible
+      - No bonuses or incentives
+      - Review needed
+      required: false
+    - id: 23
+      name: benefits_header
+      label: -- Benefits Discussion --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 24
+      name: benefits_discussion
+      label: Benefits Satisfaction
+      hint: Are you satisfied with benefits
+      type: select_one
+      options:
+      - Very satisfied
+      - Satisfied
+      - Neutral
+      - Dissatisfied
+      - Very dissatisfied
+      required: false
+    - id: 25
+      name: additional_comments
+      label: Additional Comments or Notes
+      hint: Any other comments
+      type: text
+      options: []
+      required: false

@@ -1,0 +1,209 @@
+inputSchema:
+  type: object
+  properties:
+    title: HR Communication Request Form
+    pages:
+    - id: 1
+      name: requestor
+      label: First Name
+      hint: First name of the requestor
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 3
+      name: question
+      label: Question or concern
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: priority
+      label: Urgency/Priority
+      hint: null
+      type: select_one
+      options:
+      - High
+      - Low
+      - Medium
+      required: false
+    - id: 5
+      name: department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - HR
+      - Operations
+      - Finance
+      - IT
+      required: false
+    - id: 6
+      name: date
+      label: Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: Time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: select_one
+      options:
+      - Self
+      - Manager
+      - Supervisor
+      - HR
+      required: false
+    - id: 9
+      name: response_required_by
+      label: Response Required By
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 10
+      name: response_given
+      label: Response Given
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 11
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 12
+      name: submitted_to
+      label: Submitted To
+      hint: null
+      type: select_one
+      options:
+      - Manager
+      - Supervisor
+      - HR
+      required: false
+    - id: 13
+      name: submitted_to_email
+      label: Submitted To Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 14
+      name: assigned_to
+      label: Assigned To
+      hint: null
+      type: select_one
+      options:
+      - Manager
+      - Supervisor
+      - HR
+      required: false
+    - id: 15
+      name: assigned_to_email
+      label: Assigned To Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: request_form
+      label: Request Form
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 18
+      name: submitted_by_name
+      label: Submitted By Name
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 19
+      name: assigned_to_name
+      label: Assigned To Name
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 20
+      name: submitter
+      label: Submitter
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 21
+      name: submitted
+      label: Submitted
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 22
+      name: assigned
+      label: Assigned
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: response_given
+      label: Response Given
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 24
+      name: response_required
+      label: Response Required
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 25
+      name: status
+      label: Status
+      hint: null
+      type: select_one
+      options:
+      - In Progress
+      - Resolved
+      - Waiting
+      - Completed
+      required: false

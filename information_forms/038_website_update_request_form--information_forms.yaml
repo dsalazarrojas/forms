@@ -1,0 +1,119 @@
+inputSchema:
+  type: object
+  properties:
+    title: website_update_request_form
+    pages:
+    - id: 1
+      name: submitter_info
+      label: Website owner or manager
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: update_info
+      label: Description of the required changes
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: contact_info
+      label: Contact email address
+      hint: 'Format: name@email.com'
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: contact_phone
+      label: Contact phone number
+      hint: 'Format: 123-456-7890 or international format with country code (e.g.
+        +1 123 456 7890)'
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: update_priority
+      label: Update priority
+      hint: null
+      type: select_one
+      options:
+      - Medium
+      - Low
+      - High
+      required: true
+    - id: 6
+      name: update_frequency
+      label: How often would you like to have the website updated
+      hint: null
+      type: select_multiple
+      options:
+      - One-time
+      - Weekly
+      - Bi-monthly
+      - Monthly
+      - Quarterly
+      required: true
+    - id: 7
+      name: update_frequency_other
+      label: Other (please specify below)
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: update_notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: submitted_by
+      label: Submitted by
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: submitted_date
+      label: Submission date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 11
+      name: submitter_name
+      label: Submitter name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: submitter_email
+      label: Submitter email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 13
+      name: submitter_phone
+      label: Submitter phone number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: submitter_company
+      label: Submitter company
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: submitter_title
+      label: Submitter title
+      hint: null
+      type: text
+      options: []
+      required: false

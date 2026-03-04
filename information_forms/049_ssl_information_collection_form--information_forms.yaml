@@ -1,0 +1,188 @@
+inputSchema:
+  type: object
+  properties:
+    title: SSL Information Collection Form
+    pages:
+    - id: 1
+      name: ssl_type
+      label: ssl_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: domain
+      label: Domain
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 3
+      name: name
+      label: name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: phone_number
+      label: Phone Number
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 6
+      name: contact
+      label: Contact
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 7
+      name: csr_data
+      label: CSR Data
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: csr_info
+      label: CSR Info
+      hint: Enter CSR Info
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: csr_file
+      label: CSR File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: ssl_type_info
+      label: SSL Type Info
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: csr_info_file
+      label: CSR Info File
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 12
+      name: csr
+      label: CSR
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: csr_file_2
+      label: CSR File 2
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 14
+      name: organization
+      label: Organization
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: organization_unit
+      label: Organization Unit
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 16
+      name: country_name
+      label: Country Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: state_or_province
+      label: State or Province
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: locality
+      label: Locality
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: postal_code
+      label: Postal Code
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: domain
+      label: Domain
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: common_name
+      label: Common Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 22
+      name: expire_date
+      label: Expire Date
+      hint: Enter expire Date
+      type: date
+      options: []
+      required: false
+    - id: 23
+      name: start_date
+      label: Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 24
+      name: csr_1
+      label: CSR 1
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 25
+      name: csr_2
+      label: CSR 2
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false

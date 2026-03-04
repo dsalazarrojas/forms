@@ -1,0 +1,185 @@
+inputSchema:
+  type: object
+  properties:
+    title: performance_improvement_notice
+    pages:
+    - id: 1
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 2
+      name: name
+      label: Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 4
+      name: date_last_review
+      label: Date Last Review
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: date_next_review
+      label: Date Next Review
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 6
+      name: concern_description
+      label: Concern Description
+      hint: null
+      type: note
+      options: []
+      required: true
+    - id: 7
+      name: expected_outcome
+      label: Expected Outcome
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 8
+      name: employee_comments
+      label: Employee Comments
+      hint: Comments from employee
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: manager_comments
+      label: Manager Comments
+      hint: Comments from manager
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: manager_signoff
+      label: Manager Signoff
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 11
+      name: employee_signoff
+      label: Employee Signoff
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: true
+    - id: 12
+      name: manager_name
+      label: Manager Name
+      hint: Manager's name
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: manager_email
+      label: Manager Email
+      hint: Manager's email address
+      type: email
+      options: []
+      required: true
+    - id: 14
+      name: manager_phone
+      label: Manager Phone
+      hint: Manager's phone number
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: date_sent
+      label: Date Sent
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 16
+      name: sent_by
+      label: Sent By
+      hint: Who sent the notice
+      type: text
+      options: []
+      required: true
+    - id: 17
+      name: performance_rating
+      label: Performance Rating
+      hint: null
+      type: number
+      options: []
+      required: true
+    - id: 18
+      name: action_plan
+      label: Action Plan
+      hint: Action to take to improve employee performance
+      type: text
+      options: []
+      required: true
+    - id: 19
+      name: follow_up_date
+      label: Follow Up Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 20
+      name: follow_up_by
+      label: Follow Up By
+      hint: Who will follow up with the employee
+      type: text
+      options: []
+      required: true
+    - id: 21
+      name: follow_up_comments
+      label: Follow Up Comments
+      hint: Comments about follow up process
+      type: text
+      options: []
+      required: true
+    - id: 22
+      name: follow_up_status
+      label: Follow Up Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true
+    - id: 23
+      name: follow_up_comments
+      label: Follow Up Comments
+      hint: Comments about follow up status
+      type: text
+      options: []
+      required: true
+    - id: 24
+      name: performance_improvement_status
+      label: Performance Improvement Status
+      hint: null
+      type: select_one
+      options:
+      - Active
+      - Inactive
+      required: true

@@ -1,0 +1,77 @@
+inputSchema:
+  type: object
+  properties:
+    title: Military Operations Incident Report Form
+    pages:
+    - id: 1
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: time_in
+      label: Time In
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 3
+      name: unit_name
+      label: Unit Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 4
+      name: unit_location
+      label: Unit Location
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: unit_type
+      label: Unit Type
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: incident_type
+      label: Incident Type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 7
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: incident_escalation
+      label: Incident Escalation
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 9
+      name: incident_resolution
+      label: Incident Resolution
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 10
+      name: personnel_injured
+      label: Personnel Injured
+      hint: null
+      type: text
+      options: []
+      required: false

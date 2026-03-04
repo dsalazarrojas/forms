@@ -1,0 +1,152 @@
+inputSchema:
+  type: object
+  properties:
+    title: Skills Based Hiring Survey
+    pages:
+    - id: 1
+      name: company_size
+      label: Company Size
+      hint: null
+      type: select_one
+      options:
+      - Large
+      - Small
+      - Medium
+      required: false
+    - id: 2
+      name: job_title
+      label: Job Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: location
+      label: Location
+      hint: null
+      type: select_multiple
+      options:
+      - New York
+      - Chicago
+      - Los Angeles
+      required: false
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Marketing
+      - Sales
+      - IT
+      required: false
+    - id: 5
+      name: skills_first_hiring
+      label: Skills-First Hiring
+      hint: null
+      type: select_one
+      options:
+      - Strongly Agree
+      - Somewhat Agree
+      - Neither Agree Nor Disagree
+      - Somewhat Disagree
+      - Strongly Disagree
+      required: false
+    - id: 6
+      name: skills_first_practices
+      label: Skills-First Hiring Practices
+      hint: null
+      type: select_multiple
+      options:
+      - Blind Hiring
+      - Skill-Based Hiring
+      - AI-Powered Hiring
+      required: false
+    - id: 7
+      name: skills_first_challenges
+      label: Skills-First Hiring Challenges
+      hint: null
+      type: select_multiple
+      options:
+      - Lack of Data
+      - Bias in AI
+      - High Cost
+      - Lack of Diversity
+      - Other
+      required: false
+    - id: 8
+      name: skills_first_adoption
+      label: Skills-First Adoption
+      hint: null
+      type: select_multiple
+      options:
+      - Highly Adopted
+      - Somewhat Adopted
+      - Not Adopted
+      - Not Sure
+      required: false
+    - id: 9
+      name: skills_first_trends
+      label: Skills-First Trends
+      hint: null
+      type: select_multiple
+      options:
+      - Growing in Adoption
+      - Stable in Adoption
+      - Decreasing in Adoption
+      - Not Sure
+      required: false
+    - id: 10
+      name: skills_first_hiring_practices
+      label: Skills-First Hiring Practices
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: skills_first_hiring_processes
+      label: Skills-First Hiring Processes
+      hint: null
+      type: select_multiple
+      options:
+      - Blind Hiring
+      - Skill-Based Hiring
+      - AI-Powered Hiring
+      required: false
+    - id: 12
+      name: skills_first_hiring_process
+      label: Skills-First Hiring Process
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 13
+      name: skills_first_hiring_challenges
+      label: Skills-First Hiring Challenges
+      hint: null
+      type: select_one
+      options:
+      - Lack of Data
+      - Bias in AI
+      - High Cost
+      - Lack of Diversity
+      - Other
+      required: false
+    - id: 14
+      name: skills_first_hiring_trends
+      label: Skills-First Hiring Trends
+      hint: null
+      type: select_multiple
+      options:
+      - Growing
+      - Stable
+      - Decreasing
+      - Not Sure
+      required: false
+    - id: 15
+      name: skills_first_hiring_practices
+      label: Skills-First Hiring Practices
+      hint: null
+      type: text
+      options: []
+      required: false

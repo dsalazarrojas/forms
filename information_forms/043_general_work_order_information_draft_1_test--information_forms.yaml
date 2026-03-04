@@ -1,0 +1,72 @@
+inputSchema:
+  type: object
+  properties:
+    title: general_work_order_information_draft_1_test
+    pages:
+    - id: 1
+      name: general_work_order_information_draft_1_test
+      label: general_work_order_information_draft_1_test
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: customer
+      label: customer
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: customer_email
+      label: customer_email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: customer_phone
+      label: customer_phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 5
+      name: work_order_type
+      label: work_order_type
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 6
+      name: date
+      label: date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 7
+      name: time
+      label: time
+      hint: null
+      type: time
+      options: []
+      required: false
+    - id: 8
+      name: equipment_segment
+      label: equipment_segment
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 9
+      name: customer_notes
+      label: customer_notes
+      hint: null
+      type: text
+      options: []
+      required: false

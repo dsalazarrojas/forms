@@ -1,0 +1,114 @@
+inputSchema:
+  type: object
+  properties:
+    title: Orientation Completion Checklist
+    pages:
+    - id: 1
+      name: general_information
+      label: General Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: employee_id
+      label: Employee ID
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: date_of_birth
+      label: Date of Birth
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: department
+      label: Department
+      hint: null
+      type: select_one
+      options:
+      - Accounting
+      - HR
+      - IT
+      - Marketing
+      - Operations
+      - Sales
+      required: true
+    - id: 5
+      name: orientation_status
+      label: Orientation Status
+      hint: null
+      type: select_one
+      options:
+      - New Hire
+      - Orientation Complete
+      - Not Complete
+      required: true
+    - id: 6
+      name: date_completed
+      label: Date Completed
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 7
+      name: completion_status
+      label: Completion Status
+      hint: null
+      type: select_one
+      options:
+      - Complete
+      - Incomplete
+      required: true
+    - id: 8
+      name: supervisor_name
+      label: Supervisor Name
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: supervisor_phone
+      label: Supervisor Phone
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: supervisor_email
+      label: Supervisor Email
+      hint: null
+      type: email
+      options: []
+      required: true
+    - id: 11
+      name: employee_signature
+      label: Employee Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: supervisor_signature
+      label: Supervisor Signature
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: date_submitted
+      label: Date Submitted
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 14
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: true

@@ -1,0 +1,228 @@
+# AI-Generated Form
+# Not affiliated with, endorsed by, or derived from any form platform
+# This form was created by AI using only public survey topic metadata
+# (title + industry/category) as inspiration. It is an original adaptation
+# and does not copy, extract, or use proprietary content from Jotform,
+# Google Forms, ODK Collect, Tally, Formbricks, Cloudflare, or any other
+# form creation, data collection, or survey platform.
+# Released under CC BY 4.0. You are free to use, modify, and even sell
+# forms derived from it - just give credit.
+# Contact: form@gic.mx
+
+inputSchema:
+  type: object
+  properties:
+    title: crowdstrike_incident_response_form
+    pages:
+    - id: 1
+      name: incident_summary
+      label: Incident Summary
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: incident_type
+      label: Incident Type
+      hint: Select One
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Phishing''}'
+      - '{''id'': 2, ''name'': ''Malware''}'
+      - '{''id'': 3, ''name'': ''Ransomware''}'
+      required: false
+    - id: 4
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 5
+      name: impact
+      label: Impact
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': ''High''}'
+      - '{''id'': 2, ''name'': ''Medium''}'
+      - '{''id'': 3, ''name'': ''Low''}'
+      required: true
+    - id: 6
+      name: affected_assets
+      label: Affected Assets
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: incident_status
+      label: Incident Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Open''}'
+      - '{''id'': 2, ''name'': ''Closed''}'
+      required: false
+    - id: 8
+      name: notes
+      label: Notes
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 9
+      name: contact_information
+      label: Contact Information
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: incident_response
+      label: Incident Response
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: incident_response_status
+      label: Incident Response Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''In Progress''}'
+      - '{''id'': 2, ''name'': ''Completed''}'
+      required: false
+    - id: 12
+      name: incident_classification
+      label: Incident Classification
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Critical''}'
+      - '{''id'': 2, ''name'': ''Medium''}'
+      - '{''id'': 3, ''name'': ''Low''}'
+      required: false
+    - id: 13
+      name: incident_priority
+      label: Incident Priority
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''High''}'
+      - '{''id'': 2, ''name'': ''Medium''}'
+      - '{''id'': 3, ''name'': ''Low''}'
+      required: true
+    - id: 14
+      name: incident_category
+      label: Incident Category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Phishing''}'
+      - '{''id'': 2, ''name'': ''Malware''}'
+      - '{''id'': 3, ''name'': ''Ransomware''}'
+      required: true
+    - id: 15
+      name: incident_classification_category
+      label: Incident Classification Category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Internal''}'
+      - '{''id'': 2, ''name'': ''External''}'
+      required: false
+    - id: 16
+      name: incident_classification_subcategory
+      label: Incident Classification Subcategory
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Category A''}'
+      - '{''id'': 2, ''name'': ''Category B''}'
+      required: false
+    - id: 17
+      name: asset_classification
+      label: Asset Classification
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Category A''}'
+      - '{''id'': 2, ''name'': ''Category B''}'
+      required: false
+    - id: 18
+      name: asset_classification_subcategory
+      label: Asset Classification Subcategory
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Category A''}'
+      - '{''id'': 2, ''name'': ''Category B''}'
+      required: false
+    - id: 19
+      name: incident_cause
+      label: Incident Cause
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 20
+      name: incident_cause_classification
+      label: Incident Cause Classification
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Human Error''}'
+      - '{''id'': 2, ''name'': ''Technical Error''}'
+      required: false
+    - id: 21
+      name: incident_cause_subcategory
+      label: Incident Cause Subcategory
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Category A''}'
+      - '{''id'': 2, ''name'': ''Category B''}'
+      required: false
+    - id: 22
+      name: asset_classification_category
+      label: Asset Classification Category
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Category A''}'
+      - '{''id'': 2, ''name'': ''Category B''}'
+      required: false
+    - id: 23
+      name: asset_classification_subcategory
+      label: Asset Classification Subcategory
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Category A''}'
+      - '{''id'': 2, ''name'': ''Category B''}'
+      required: false
+    - id: 24
+      name: incident_response_plan
+      label: Incident Response Plan
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: incident_response_plan_status
+      label: Incident Response Plan Status
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Approved''}'
+      - '{''id'': 2, ''name'': ''Not Approved''}'
+      required: false

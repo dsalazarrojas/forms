@@ -1,0 +1,190 @@
+inputSchema:
+  type: object
+  properties:
+    title: Employee Onboarding Intake Form
+    pages:
+    - id: 1
+      name: first_name
+      label: First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: last_name
+      label: Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: email
+      label: Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: hire_date
+      label: Hire Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: job_title
+      label: Job Title
+      hint: null
+      type: select_one
+      options:
+      - '{''label'': ''IT''}'
+      - '{''label'': ''Marketing''}'
+      - '{''label'': ''Operations''}'
+      - '{''label'': ''Sales''}'
+      - '{''label'': ''Support''}'
+      required: false
+    - id: 6
+      name: department
+      label: Department
+      hint: null
+      type: select_multiple
+      options:
+      - '{''label'': ''IT''}'
+      - '{''label'': ''Marketing''}'
+      - '{''label'': ''Operations''}'
+      - '{''label'': ''Sales''}'
+      - '{''label'': ''Support''}'
+      required: false
+    - id: 7
+      name: job_code
+      label: Job Code
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 8
+      name: supervisor_id
+      label: Supervisor ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: reporting_manager_id
+      label: Reporting Manager ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: reporting_manager_name
+      label: Reporting Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: reporting_manager_email
+      label: Reporting Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 12
+      name: reporting_manager_phone
+      label: Reporting Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 13
+      name: direct_reporter_id
+      label: Direct Reporter ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 14
+      name: direct_reporter_name
+      label: Direct Reporter Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 15
+      name: direct_reporter_email
+      label: Direct Reporter Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 16
+      name: direct_reporter_phone
+      label: Direct Reporter Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 17
+      name: manager_name
+      label: Manager Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 18
+      name: manager_phone
+      label: Manager Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 19
+      name: manager_email
+      label: Manager Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 20
+      name: manager_title
+      label: Manager Title
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 21
+      name: team_lead_id
+      label: Team Lead ID
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 22
+      name: team_lead_name
+      label: Team Lead Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: team_lead_phone
+      label: Team Lead Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: team_lead_email
+      label: Team Lead Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 25
+      name: training_start_date
+      label: Training Start Date
+      hint: null
+      type: date
+      options: []
+      required: false

@@ -1,0 +1,111 @@
+inputSchema:
+  type: object
+  properties:
+    title: National Team Player Eligibility Form
+    pages:
+    - id: 1
+      name: player_first_name
+      label: Player First Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 2
+      name: player_last_name
+      label: Player Last Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: player_email
+      label: Player Email
+      hint: null
+      type: email
+      options: []
+      required: false
+    - id: 4
+      name: birth_date
+      label: Birth Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 5
+      name: player_phone
+      label: Player Phone
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: team_name
+      label: Team Name
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: player_position
+      label: Player Position
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: player_height
+      label: Player Height
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 9
+      name: player_weight
+      label: Player Weight
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 10
+      name: player_address
+      label: Player Address
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 11
+      name: coach_confirmation
+      label: Coach Confirmation
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Coach1''}'
+      - '{''id'': 2, ''name'': ''Coach2''}'
+      required: false
+    - id: 12
+      name: team_manager_confirmation
+      label: Team Manager Confirmation
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Manager1''}'
+      - '{''id'': 2, ''name'': ''Manager2''}'
+      required: false
+    - id: 13
+      name: player_confirmation
+      label: Player Confirmation
+      hint: null
+      type: select_multiple
+      options:
+      - '{''id'': 1, ''name'': True}'
+      - '{''id'': 2, ''name'': False}'
+      required: false
+    - id: 14
+      name: national_team_eligibility
+      label: National Team Eligibility
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''name'': ''Eligible''}'
+      - '{''id'': 2, ''name'': ''Not Eligible''}'
+      required: false

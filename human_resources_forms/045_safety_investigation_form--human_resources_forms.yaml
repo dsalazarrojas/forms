@@ -1,0 +1,44 @@
+inputSchema:
+  type: object
+  properties:
+    title: Safety Investigation Form
+    pages:
+    - id: 1
+      name: incident_date
+      label: Incident Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 2
+      name: incident_description
+      label: Incident Description
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 3
+      name: factor_leading_up
+      label: Factors Leading Up
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 4
+      name: contributing_factors
+      label: Contributing Factors
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: corrective_actions_taken
+      label: Corrective Actions Taken
+      hint: null
+      type: text
+      options: []
+      required: false

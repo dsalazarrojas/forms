@@ -1,0 +1,267 @@
+inputSchema:
+  type: object
+  properties:
+    title: Baseball Tryout Information Form
+    pages:
+    - id: 1
+      name: player_first_name
+      label: Player First Name
+      hint: First name
+      type: text
+      options: []
+      required: true
+    - id: 2
+      name: player_last_name
+      label: Player Last Name
+      hint: Last name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: player_date_of_birth
+      label: Player Date of Birth
+      hint: MM/DD/YYYY format
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: player_age
+      label: Player Age
+      hint: Current age
+      type: number
+      options: []
+      required: true
+    - id: 5
+      name: height
+      label: Height
+      hint: In feet and inches
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: weight
+      label: Weight
+      hint: In pounds
+      type: number
+      options: []
+      required: true
+    - id: 7
+      name: parent_guardian_name
+      label: Parent or Guardian Full Name
+      hint: Legal guardian
+      type: text
+      options: []
+      required: true
+    - id: 8
+      name: parent_guardian_email
+      label: Parent or Guardian Email
+      hint: For communications
+      type: email
+      options: []
+      required: true
+    - id: 9
+      name: parent_guardian_phone
+      label: Parent or Guardian Phone
+      hint: Best contact number
+      type: text
+      options: []
+      required: true
+    - id: 10
+      name: home_address
+      label: Home Address
+      hint: Complete street address
+      type: text
+      options: []
+      required: true
+    - id: 11
+      name: city
+      label: City
+      hint: Your city
+      type: text
+      options: []
+      required: true
+    - id: 12
+      name: state
+      label: State
+      hint: Your state
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: zip_code
+      label: ZIP Code
+      hint: Postal code
+      type: text
+      options: []
+      required: true
+    - id: 14
+      name: school_name
+      label: School Name
+      hint: Current school
+      type: text
+      options: []
+      required: true
+    - id: 15
+      name: grade_level
+      label: Grade Level
+      hint: Current grade
+      type: select_one
+      options:
+      - 5th grade or below
+      - 6th grade
+      - 7th grade
+      - 8th grade
+      - 9th grade
+      - 10th grade
+      - 11th grade
+      - 12th grade
+      required: true
+    - id: 16
+      name: gpa
+      label: Current GPA
+      hint: If known
+      type: number
+      options: []
+      required: false
+    - id: 17
+      name: years_experience
+      label: Years of Baseball Experience
+      hint: How long played
+      type: select_one
+      options:
+      - First year
+      - 1 to 2 years
+      - 3 to 4 years
+      - 5 plus years
+      required: true
+    - id: 18
+      name: primary_position
+      label: Primary Position
+      hint: Main position
+      type: select_one
+      options:
+      - Pitcher
+      - Catcher
+      - First base
+      - Second base
+      - Third base
+      - Shortstop
+      - Outfield
+      required: true
+    - id: 19
+      name: secondary_positions
+      label: Secondary Positions
+      hint: Other positions
+      type: select_multiple
+      options:
+      - Pitcher
+      - Catcher
+      - First base
+      - Second base
+      - Third base
+      - Shortstop
+      - Outfield
+      required: false
+    - id: 20
+      name: bats
+      label: Bats
+      hint: Which hand
+      type: select_one
+      options:
+      - Right
+      - Left
+      - Switch
+      required: true
+    - id: 21
+      name: throws
+      label: Throws
+      hint: Which hand
+      type: select_one
+      options:
+      - Right
+      - Left
+      required: true
+    - id: 22
+      name: pitching_velocity
+      label: Pitching Velocity
+      hint: If applicable
+      type: text
+      options: []
+      required: false
+    - id: 23
+      name: batting_average
+      label: Last Season Batting Average
+      hint: If known
+      type: text
+      options: []
+      required: false
+    - id: 24
+      name: previous_team
+      label: Previous Team
+      hint: Last team played for
+      type: text
+      options: []
+      required: false
+    - id: 25
+      name: coach_name
+      label: Previous Coach Name
+      hint: For reference
+      type: text
+      options: []
+      required: false
+    - id: 26
+      name: coach_phone
+      label: Coach Phone
+      hint: For reference
+      type: text
+      options: []
+      required: false
+    - id: 27
+      name: honors_awards
+      label: Baseball Honors or Awards
+      hint: Any recognition received
+      type: text
+      options: []
+      required: false
+    - id: 28
+      name: other_sports
+      label: Other Sports Played
+      hint: Select all that apply
+      type: select_multiple
+      options:
+      - Football
+      - Basketball
+      - Soccer
+      - Track and field
+      - Swimming
+      - Tennis
+      - None
+      required: true
+    - id: 29
+      name: medical_conditions
+      label: Medical Conditions or Injuries
+      hint: Any conditions we should know
+      type: text
+      options: []
+      required: false
+    - id: 30
+      name: goals
+      label: Baseball Goals
+      hint: What do you want to achieve
+      type: text
+      options: []
+      required: false
+    - id: 31
+      name: why_join
+      label: Why Do You Want to Join This Team
+      hint: Tell us about yourself
+      type: text
+      options: []
+      required: false
+    - id: 32
+      name: additional_information
+      label: Additional Information
+      hint: Anything else to share
+      type: text
+      options: []
+      required: false

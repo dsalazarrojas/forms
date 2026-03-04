@@ -1,0 +1,169 @@
+inputSchema:
+  type: object
+  properties:
+    title: Business Continuity Specialist Contact Form
+    pages:
+    - id: 1
+      name: organization_info
+      label: -- Organization Information --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 2
+      name: organization_name
+      label: Organization Name
+      hint: Your organization's name
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: industry
+      label: Industry
+      hint: Type of business or sector
+      type: text
+      options: []
+      required: true
+    - id: 4
+      name: company_size
+      label: Company Size
+      hint: Number of employees
+      type: select_one
+      options:
+      - Startup (1-10)
+      - Small (11-50)
+      - Medium (51-250)
+      - Large (250+)
+      required: true
+    - id: 5
+      name: contact_person
+      label: Primary Contact Name
+      hint: Name of person to contact
+      type: text
+      options: []
+      required: true
+    - id: 6
+      name: contact_title
+      label: Contact Title
+      hint: Position in company
+      type: text
+      options: []
+      required: true
+    - id: 7
+      name: contact_email
+      label: Contact Email
+      hint: Business email address
+      type: email
+      options: []
+      required: true
+    - id: 8
+      name: contact_phone
+      label: Contact Phone
+      hint: Business phone number
+      type: text
+      options: []
+      required: true
+    - id: 9
+      name: service_request
+      label: -- Service Request --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 10
+      name: service_type
+      label: Type of Service Needed
+      hint: What expertise do you need?
+      type: select_multiple
+      options:
+      - Continuity Planning
+      - Risk Assessment
+      - Recovery Strategy
+      - Plan Testing
+      - Staff Training
+      - Compliance Audit
+      - Technology Solutions
+      required: true
+    - id: 11
+      name: current_status
+      label: Current Business Continuity Status
+      hint: Where are you in the process?
+      type: select_one
+      options:
+      - No Plan in Place
+      - Plan Exists but Needs Update
+      - Plan Under Development
+      - Recently Tested Plan
+      - Seeking Improvement
+      required: true
+    - id: 12
+      name: main_challenge
+      label: Main Continuity Challenge
+      hint: What is your top concern?
+      type: text
+      options: []
+      required: true
+    - id: 13
+      name: scope_areas
+      label: Scope Areas
+      hint: Which areas need focus?
+      type: select_multiple
+      options:
+      - Data Protection
+      - Facility Recovery
+      - Technology Systems
+      - Staff Communications
+      - Vendor Management
+      - Supply Chain
+      - All Areas
+      required: true
+    - id: 14
+      name: timeline_and_budget
+      label: -- Timeline and Budget --
+      hint: null
+      type: note
+      options: []
+      required: false
+    - id: 15
+      name: project_timeline
+      label: Project Timeline
+      hint: When do you need to start?
+      type: select_one
+      options:
+      - Immediate
+      - 1-3 Months
+      - 3-6 Months
+      - 6+ Months
+      required: true
+    - id: 16
+      name: budget_range
+      label: Budget Range
+      hint: What can you invest?
+      type: select_one
+      options:
+      - Under 10k
+      - 10k - 25k
+      - 25k - 50k
+      - 50k - 100k
+      - 100k+
+      - To be determined
+      required: false
+    - id: 17
+      name: preferred_engagement
+      label: Preferred Engagement Model
+      hint: How would you like to work?
+      type: select_one
+      options:
+      - Full Project Support
+      - Consulting on Specific Areas
+      - Training and Facilitation
+      - Advisory Support
+      - Flexible
+      required: true
+    - id: 18
+      name: additional_information
+      label: Additional Information
+      hint: Any other relevant details
+      type: text
+      options: []
+      required: false

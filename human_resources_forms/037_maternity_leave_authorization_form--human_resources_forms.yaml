@@ -1,0 +1,58 @@
+inputSchema:
+  type: object
+  properties:
+    title: Maternity Leave Authorization Form
+    pages:
+    - id: 1
+      name: employee_info
+      label: Employee Information
+      hint: null
+      type: select_multiple
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 2
+      name: leave_start_date
+      label: Leave Start Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 3
+      name: leave_end_date
+      label: Leave End Date
+      hint: null
+      type: date
+      options: []
+      required: false
+    - id: 4
+      name: manager_approval
+      label: Manager Approval
+      hint: null
+      type: select_one
+      options:
+      - 'Yes'
+      - 'No'
+      required: false
+    - id: 5
+      name: employee_signature
+      label: Employee Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 6
+      name: manager_signature
+      label: Manager Signature
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false

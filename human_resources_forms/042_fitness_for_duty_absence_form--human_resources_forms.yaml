@@ -1,0 +1,64 @@
+inputSchema:
+  type: object
+  properties:
+    title: Fitness For Duty Absence Form
+    pages:
+    - id: 1
+      name: employee
+      label: Employee
+      hint: null
+      type: select_one
+      options:
+      - '{''id'': 1, ''label'': ''John''}'
+      - '{''id'': 2, ''label'': ''Jane''}'
+      - '{''id'': 3, ''label'': ''Joe''}'
+      required: false
+    - id: 2
+      name: reason
+      label: reason
+      hint: null
+      type: text
+      options: []
+      required: true
+    - id: 3
+      name: absense_start_date
+      label: Absence Start Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 4
+      name: absense_end_date
+      label: Absence End Date
+      hint: null
+      type: date
+      options: []
+      required: true
+    - id: 5
+      name: absense_hours
+      label: Absence Hours
+      hint: null
+      type: number
+      options: []
+      required: false
+    - id: 6
+      name: comments
+      label: Comments
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 7
+      name: assigned_tool
+      label: Assigned Tool
+      hint: null
+      type: text
+      options: []
+      required: false
+    - id: 8
+      name: submitted_by
+      label: Submitted By
+      hint: null
+      type: text
+      options: []
+      required: false
